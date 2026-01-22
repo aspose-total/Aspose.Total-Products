@@ -85,7 +85,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Imaging for Python via
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Hợp nhất hình ảnh bitmap bằng cách sử dụng Python APIs cho phép kết hợp hình ảnh gốc, chưa nén thành một hình ảnh hoặc chuỗi hình ảnh kết hợp. Điều này hữu ích trong hình ảnh kỹ thuật, quy trình quét và các hệ thống nơi độ chính xác của hình ảnh được ưu tiên hơn kích thước tệp.
+
+
+
+Hợp nhất BMP tự động hỗ trợ các đường ống xử lý hình ảnh xác định nơi độ chính xác, tính lặp lại và sự hợp thành do hệ thống yêu cầu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tổng hợp Hình Ảnh Quét (BMP)**  
+
+&nbsp; Hợp nhất nhiều quét BMP thành một hình ảnh kết hợp.
+
+
+
+* **Tổng hợp Sơ Đồ Kỹ Thuật (BMP)**  
+
+&nbsp; Kết hợp các sơ đồ bitmap thành hình ảnh thống nhất.
+
+
+
+* **Lưu Trữ Hình Ảnh Gốc (BMP)**  
+
+&nbsp; Tổng hợp các tệp BMP để lưu trữ hoặc xử lý dài hạn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Xử Lý Quét Tự Động (BMP)**  
+
+&nbsp; Hệ thống hợp nhất hình ảnh BMP trong quy trình tiếp nhận.
+
+
+
+* **Tổng hợp Hình Ảnh Theo Lô (BMP)**  
+
+&nbsp; Công việc được lên lịch hợp nhất các hình ảnh bitmap theo cách lập trình.
+
+
+
+* **Đường Ống Hình Ảnh Chính Xác (BMP)**  
+
+&nbsp; Hợp nhất BMP được nhúng trong các hệ thống xử lý kiểm soát.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

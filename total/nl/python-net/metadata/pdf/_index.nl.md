@@ -97,7 +97,93 @@ Voor meer details verwijzen wij u naar [Productdocumentatie](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Document metadata extraction for **PDF** files via Python APIs helps systems capture core properties—such as title, author, producer, creation and modification dates, and embedded identifiers—supporting governance and discovery even when content is primarily fixed-layout. This matters for auditability, cataloging, and operational handling of high-volume PDF repositories.
+
+
+
+In automation pipelines, PDF metadata can drive indexing, routing, retention enforcement, and batch processing—making it practical to integrate PDFs into scalable workflows without manual triage.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Digitale Archiefcatalogus**
+
+  Extract PDF-metadata om een betrouwbare inventaris van documenten met doorzoekbare attributen op te bouwen.
+
+
+
+* **Compliance en Retentie Audits**
+
+  Gebruik creatie-/wijzigingstijdstempels om retentieperiodes te valideren en inconsistenties op te sporen.
+
+
+
+* **Producent en Bron Toeschrijving**
+
+  Leg producentgerelateerde eigenschappen vast om contentoorsprong en verwerkingslijn te begrijpen.
+
+
+
+* **Batch Classificatiesignalen**
+
+  Gebruik metagegevensvelden om PDF's te categoriseren in domeinen zoals beleid, facturen, handleidingen of rapporten.
+
+
+
+* **Operationele Kwaliteitscontroles**
+
+  Markeer PDF's met ontbrekende of verdachte metagegevens als kandidaten voor remediëring of handmatige controle.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Geautomatiseerde Intake Triage**
+
+  Wanneer PDF's binnenkomen, extract metadata en routeer ze naar verwerkingslanen op basis van volledigheids- en gevoeligheidsregels.
+
+
+
+* **Metagegevensgestuurde Indexupdates**
+
+  Werk automatisch een zoekindex bij telkens wanneer een PDF wordt toegevoegd of vervangen, gebruikmakend van metagegevens voor snelle opvraging.
+
+
+
+* **Retentiehandhavingsworkflow**
+
+  Voer geplande taken uit die PDF's identificeren die de retentielimieten hebben overschreden en genereer verwijderings- of archiveringstaken.
+
+
+
+* **Batchrapportage en Dashboards**
+
+  Aggregeer geëxtraheerde PDF-metadata in periodieke rapporten voor governance, compliance en operationeel toezicht.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

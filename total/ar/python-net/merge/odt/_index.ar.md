@@ -78,7 +78,77 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+دمج ملفات OpenDocument Text باستخدام واجهات برمجة التطبيقات في Python يدعم المعايير المفتوحة وسير العمل عبر المنصات. يمكنه دمج المحتوى المنشأ في بيئات مكتبية مفتوحة المصدر أو مختلطة بسلاسة.
+
+
+
+التأكد من التوافقية من حول دمج ODT يحافظ على سلامة المستند عبر الأنظمة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **توحيد المستندات عبر المنصات (ODT)**  
+
+&nbsp; دمج ملفات ODT التي تم إنشاؤها عبر أجهزة مكتبية مختلفة.
+
+
+
+* **تجميع المحتوى بمعايير مفتوحة (ODT)**  
+
+&nbsp; دمج مستندات ODT للنشر الموحد.
+
+
+
+* **تجميع المحتوى بالتعاون (ODT)**  
+
+&nbsp; دمج ملفات ODT من مساهمين متعددين في مستند واحد.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **أتمتة سير العمل المفتوحة (ODT)**  
+
+&nbsp; أنظمة مُتمَتة تدمج ملفات ODT بدون تبعيات خاصة.
+
+
+
+* **تجميع المستندات المجدول (ODT)**  
+
+&nbsp; عملية دمج ODT تعمل كجزء من المهام الخلفية المتكررة.
+
+
+
+* **أنابيب النشر التوافقية (ODT)**  
+
+&nbsp; تدمج ملفات ODT بشكل ديناميكي في أنابيب النشر عبر الأنظمة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

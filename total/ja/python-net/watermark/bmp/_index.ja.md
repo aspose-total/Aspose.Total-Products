@@ -73,7 +73,85 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用して**BMP**画像に透かしを入れると、印刷パイプラインや技術資産でよく使用される非圧縮ラスターグラフィックスに目に見える所有権、起源、改ざん防止が追加されます。
+
+BMPファイルは大きく、非圧縮なので、Pythonベースの透かしは**高忠実度のオーバーレイ**、繰り返し可能なレンダリングルール、画像ライブラリ全体での一貫した配置に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+
+
+* **エンジニアリングアセットの所有権マーク**  
+
+&nbsp; 技術的なビットマップに部門やプロジェクトのマークを追加して、誤った再利用や誤送信を減らします。
+
+
+
+* **印刷用のプルーフスタンプ**  
+
+&nbsp; 承認レビューに影響を与える可能性のある圧縮アーティファクトを含まない“PROOF”や“DRAFT”のオーバーレイを適用します。
+
+
+
+* **ソース品質でのカタログ画像ブランディング**  
+
+&nbsp; 下流の変換のために元のピクセルデータを保持しながら一貫したアイデンティティマークを埋め込みます。
+
+
+
+* **制限されたビジュアルのコンプライアンスラベル**  
+
+&nbsp; ポリシーに基づく取り扱いをサポートするために、アクセス分類でグラフィックに透かしを入れます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **取り込みパイプラインでの一括透かし付け**  
+
+&nbsp; 新しくアップロードされたBMPがメディアリポジトリに入るときに自動的に透かしを押します。
+
+
+
+* **寸法に基づくルールベースの配置**  
+
+&nbsp; 画像の解像度に基づいて透かしのサイズと余白をプログラムで調整します。
+
+
+
+* **イベントトリガー型のプルーフ生成**  
+
+&nbsp; ファイルのステータスがレビューまたは承認に変わったときに透かし付きのバリアントを作成します。
+
+
+
+* **チェックサム+透かしの二重トラッキング**  
+
+&nbsp; ファイルハッシングと透かしを組み合わせて、自動監査でのトレーサビリティを向上させます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

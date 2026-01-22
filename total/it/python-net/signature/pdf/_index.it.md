@@ -73,7 +73,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La firma dei PDF con le API di Python fornisce garanzie di integrità, autenticità e non ripudio per i documenti finalizzati. Questo è fondamentale per la condivisione esterna e i flussi di lavoro regolamentati.
+
+
+
+La firma automatica dei PDF garantisce che i documenti siano sigillati crittograficamente nel momento esatto in cui un processo viene completato.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Certificazione di Documenti Legali**  
+
+&nbsp; Firma digitalmente i PDF per garantirne l'autenticità.
+
+
+
+* **Approvazione di Fatture e Documenti Finanziari**  
+
+&nbsp; Applica firme ai documenti finanziari approvati.
+
+
+
+* **Finalizzazione della Documentazione di Conformità**  
+
+&nbsp; Sigilla i PDF utilizzati nelle verifiche o nei report.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Firma Crittografica alla Fine del Flusso di Lavoro**  
+
+&nbsp; I PDF vengono firmati quando i processi raggiungono il completamento.
+
+
+
+* **Firma Batch Pianificata**  
+
+&nbsp; Più PDF vengono firmati a intervalli definiti.
+
+
+
+* **Preparazione per la Distribuzione Sicura**  
+
+&nbsp; La firma avviene prima della consegna esterna.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

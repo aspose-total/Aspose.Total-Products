@@ -73,7 +73,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API对PPT文件进行签名，支持传统的演示文稿工作流程，其中仍需要使用旧版PowerPoint格式。这样可以添加治理和批准指示，而不会强制立即进行格式升级。
+
+
+
+自动化PPT签名有助于团队在混合格式演示文稿存储库中保持一致的批准控制。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **传统演示文稿批准标记**  
+
+  &nbsp; 对存档或旧交付环境中使用的PPT演示文稿进行签名。
+
+
+
+* **培训档案认证**  
+
+  &nbsp; 对长期存储的PPT培训演示文稿应用签名标记。
+
+
+
+* **演示文稿所有权归属**  
+
+  &nbsp; 对PPT文件进行签名，清楚地指示谁批准了分发。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **存档摄入签名**  
+
+  &nbsp; 当PPT文件移入归档存储时自动进行签名。
+
+
+
+* **传统工作流程批准触发器**  
+
+  &nbsp; 在传统审查流程完成后对PPT文档进行签名。
+
+
+
+* **批量存储库治理**  
+
+  &nbsp; 以编程方式对大量PPT文件进行签名，以标准化历史存储库。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

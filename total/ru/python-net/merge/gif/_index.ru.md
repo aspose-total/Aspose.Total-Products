@@ -85,7 +85,69 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Объединение изображений GIF с использованием API Python позволяет создавать объединенные анимации или сгруппированные визуальные последовательности. Это обычно используется для обучающего контента, визуализации мониторинга и легких графических движений.
+
+
+
+Автоматизация обеспечивает последовательное и повторяемое создание GIF без ручного редактирования.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Сборка анимированной последовательности (GIF)**  
+  &nbsp; Объединение нескольких GIF в одну анимацию.
+
+
+
+* **Создание обучающей визуальной информации (GIF)**  
+  &nbsp; Объединение GIF на основе шагов в одно руководящее визуальное руководство.
+
+
+
+* **Агрегация снимков мониторинга (GIF)**  
+  &nbsp; Сбор снимков GIF для визуализации временной шкалы.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматическое создание анимации (GIF)**  
+  &nbsp; Системы объединяют GIF динамически на основе событий.
+
+
+
+* **Обновление визуальной информации на основе рабочего процесса (GIF)**  
+  &nbsp; Объединение GIF запускается изменениями в процессе.
+
+
+
+* **Программные конвейеры движения контента (GIF)**  
+  &nbsp; Автоматизированные конвейеры генерируют объединенные выходы GIF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

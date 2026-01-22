@@ -79,7 +79,77 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+دمج تنسيقات عروض بوربوينت باستخدام واجهات برمجة التطبيقات في Python يمكن أن يتيح عروضًا جاهزة للتشغيل الموحدة. تم تصميم هذه التنسيقات للعرض المباشر بدلاً من التحرير.
+
+
+
+التأكد من تسليم العروض التقديمية بشكل متسق عبر الفرق والفعاليات من خلال الأتمتة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تجميع تسلسل العروض التقديمية (PPS)**  
+
+&nbsp; دمج ملفات PPS في تدفق عرض تقديمي واحد.
+
+
+
+* **تجميع عروض الفعاليات (PPS)**  
+
+&nbsp; دمج ملفات العروض التقديمية للمؤتمرات أو الاجتماعات.
+
+
+
+* **تغليف تشغيل العروض التقديمية (PPS)**  
+
+&nbsp; تجميع ملفات PPS في عرض تقديمي قابل للتنفيذ واحد.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **إعداد مجموعة العروض التلقائي للفعاليات (PPS)**  
+
+&nbsp; تدمج الأنظمة ملفات PPS قبل الفعاليات المجدولة.
+
+
+
+* **إنشاء عروض تقديمية في الخلفية (PPS)**  
+
+&nbsp; يتم تشغيل دمج PPS بشكل برمجي.
+
+
+
+* **أتمتة تسليم العروض التقديمية (PPS)**  
+
+&nbsp; يتم دمج العروض التقديمية تلقائيًا للتشغيل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

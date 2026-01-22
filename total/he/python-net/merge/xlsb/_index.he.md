@@ -75,7 +75,59 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+מיזוג חוברות עבודה בינאריות של Excel באמצעות Python APIs מאפשר טיפול יעיל בקבצים גדולים עם גודל קובץ מוקטן. פורמט זה מותאם לסביבות רגישות לביצועים המתמודדות עם נתונים גדולים.
+
+האוטומציה סביב מיזוג XLSB תומכת בזרימות עבודה לניתוח נתונים נמצאות בשלבי גודל ויעילות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **איחוד נתונים בנפח גבוה (XLSB)**  
+
+  מיזוג גליונות אלקטרוניים בינאריים גדולים לתוך חוברת ניתוח אחת.
+
+* **דיווחים קריטיים לביצוע (XLSB)**  
+
+  שלב קבצי XLSB המותאמים לטעינה ועיבוד מהירים.
+
+* **מחסורי נתונים לעסקים (XLSB)**  
+
+  איגוד קבוצות נתונים XLSB לניתוחים למטה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **עיבוד קבצים גדולים באופן אוטומטי (XLSB)**  
+
+  מערכות ממזגות קבצי XLSB במהלך עיבוד נתונים בנפח גבוה.
+
+* **אינטגרציה של צינורות נתונים לניתוח (XLSB)**  
+
+  מיזוג XLSB מתרחש כחלק מזרימות עבודה לניתוחים אוטומטיות.
+
+* **עבודות צמיחה כלכלית במשאבים (XLSB)**  
+
+  גליונות אלקטרוניים בינאריים ממוזגים בתהליכי צמיחה מתוזמנים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

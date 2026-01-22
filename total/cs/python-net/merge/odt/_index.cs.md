@@ -78,7 +78,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Slučování souborů textu ve formátu OpenDocument pomocí Python API podporuje otevřené standardy a pracovní postupy mezi platformami. Umožňuje bezproblémové sloučení obsahu vytvořeného v prostředí open-source nebo smíšených kancelářských prostředí.
+
+
+
+Automatizace kolem slučování ODT zajišťuje interoperabilitu a zachování integrity dokumentů napříč systémy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Sloučení dokumentů napříč platformami (ODT)**  
+
+&nbsp; Sloučení ODT souborů vytvořených v různých kancelářských balících.
+
+
+
+* **Agregace obsahu dle otevřených standardů (ODT)**  
+
+&nbsp; Sloučení ODT dokumentů pro sjednocené publikování.
+
+
+
+* **Společné sestavování obsahu (ODT)**  
+
+&nbsp; Sloučení ODT souborů od více přispěvatelů do jednoho dokumentu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizace pracovních postupů (ODT)**  
+
+&nbsp; Automatizované systémy slučují ODT soubory bez proprietárních závislostí.
+
+
+
+* **Plánovaná kompilace dokumentů (ODT)**  
+
+&nbsp; Slučování ODT běží jako součást opakujících se úloh na pozadí.
+
+
+
+* **Interoperabilní publikovací toky (ODT)**  
+
+&nbsp; ODT soubory jsou dynamicky slučovány v přesystémových tocích.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

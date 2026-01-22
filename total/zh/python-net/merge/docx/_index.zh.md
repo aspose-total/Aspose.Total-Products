@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API合并DOCX文档是在规模上生成精致、现代化Word输出的常见需求。它允许精确控制跨多个来源的结构、样式和部分连续性。
+
+
+
+此功能与自动化内容引擎无缝集成，实现报告、手册和结构化文档的可扩展文档生成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **多部分报告创建（DOCX）**  
+
+&nbsp; 将代表章节的DOCX文件合并为单个报告。
+
+
+
+* **内容模块重用（DOCX）**  
+
+&nbsp; 将可重用的DOCX部分组装成定制文档。
+
+
+
+* **编辑工作流集成（DOCX）**  
+
+&nbsp; 将编辑批准的DOCX文件合并为最终输出。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **动态文档生成（DOCX）**  
+
+&nbsp; 系统根据用户输入或数据条件合并DOCX文件。
+
+
+
+* **CI/CD文档流水线（DOCX）**  
+
+&nbsp; DOCX合并作为构建和发布工作流的自动化部分。
+
+
+
+* **可扩展的发布自动化（DOCX）**  
+
+&nbsp; 高容量的DOCX文档以规模编程方式合并。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

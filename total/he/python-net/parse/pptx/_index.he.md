@@ -100,7 +100,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+פיענוח **מצגות PPTX** באמצעות APIs של פייתון מאפשר גישה מובנית לטקסטי השקפים, כותרות, נקודות רשימה, פריסות והערות מרצה מקבצי מצגת מודרניים. פיענוח PPTX מאפשר גישה מובנית לידע המבוסס על שקפים מעבר לצפייה ידנית.
+
+
+
+במערכות המופעלות בהפעלה אוטומטית, פיענוח PPTX תומך בשימוש חוזר בתוכן, סיכום, ניתוח ושילוב עם צינורות לניהול ידע ודיווחים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **חילוץ תוכן מהשקפים**  
+
+  &nbsp; מחזיר טקסט מובנה ורכיבי פריסה מהשקפים במצגת.
+
+
+
+* **חפיפת ידע ממצגות**  
+
+  &nbsp; ממיר חבילות שקפים למקורות תוכן ניתנים לחיפוש וניתוח.
+
+
+
+* **תהליכי תעשיית השימוש בתוכן**  
+
+  &nbsp; מאפשר שימוש חוזר בחומרי המצגת בתיעוד ובפלטפורמות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **סצנריויות הפעלה אוטומטיות של מצגות**  
+
+  &nbsp; מעבד קבצי PPTX באופן אוטומטי בעת העלאה או לפי תזמון.
+
+
+
+* **צינורות סיכום ברמת השקפים**  
+
+  &nbsp; יוצר סיכומים קצרים מתוך תוכן השקפים שנפענח.
+
+
+
+* **אוטומציה של השוואת גרסאות**  
+
+  &nbsp; זוהה באופן תכנותי שינויים בין גרסאות מצגת מרובות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

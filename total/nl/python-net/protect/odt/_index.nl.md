@@ -76,7 +76,75 @@ Voor meer details verwijzen wij u naar [Productdocumentatie](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT is een veelgebruikt open documenttekstformaat voor rapporten en documentatie. Het beschermen van ODT-bestanden is essentieel voor het behouden van de authenticiteit van documenten en het voorkomen van onbedoelde of kwaadwillige wijzigingen.
+
+
+
+Python-gebaseerde documentbeveiliging maakt het mogelijk om ODT-beveiliging te integreren in geautomatiseerde documentatie- en publicatieworkflows met minimale overhead.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Veilige Rapportdistributie**  
+
+  Bescherm definitieve ODT-rapporten voordat ze worden gedeeld.
+
+
+
+* **Integriteit van Documentatie**  
+
+  Zorg ervoor dat officiële documenten ongewijzigd blijven na goedkeuring.
+
+
+
+* **Veiligheid van Documenten op Meerdere Platformen**  
+
+  Pas beveiliging toe ongeacht de bewerkingsomgeving.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Geautomatiseerde Documentatiepijplijnen**  
+
+  Bescherm ODT-bestanden als onderdeel van continue documentatiegeneratie.
+
+
+
+* **Regelgebaseerde Bestandsbeveiliging**  
+
+  Pas beveiligingsbeleid toe op basis van documentmetadata.
+
+
+
+* **Bulkdocumentverharding**  
+
+  Beveilig meerdere ODT-bestanden programmatisch in batchbewerkingen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

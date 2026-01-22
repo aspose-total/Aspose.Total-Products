@@ -75,7 +75,75 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A dokumentum szerkesztése Python API-k segítségével PDF fájlokhoz elengedhetetlen az érzékeny információk végleges eltávolításához. Ez biztosítja, hogy a feketézett adatok ne lehessenek visszaállítani vagy felfedni.
+
+
+
+Az automatizálás lehetővé teszi a megbízható, ismételhető PDF feketézést nagy mennyiségben, így alkalmas nagy volumenű szabályozási és nyilvánosságra hozatali folyamatokhoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* **Jogi Közzétételre Való Felkészülés**  
+
+&nbsp; Távolítsa el a bizalmas részleteket a PDF fájlokból a bírósági vagy szabályozó hatósági benyújtás előtt.
+
+
+
+* **Nyilvános Dokumentumközlés**  
+
+&nbsp; Tisztítsa meg a jelentéseket és nyilvántartásokat a nyilvános hozzáférés előtt.
+
+
+
+* **Biztonságos Ügyfélkiszállítások**  
+
+&nbsp; Biztosítsa, hogy az érzékeny információk visszavonhatatlanul eltávolításra kerüljenek a megosztott PDF fájlokból.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* **Tartalomérzékeny Feketézés**  
+
+&nbsp; Automatikusan érzékeny szövegeket vagy területeket észleljen és távolítson el.
+
+
+
+* **Nagy Volumenű PDF Csővezetékek**  
+
+&nbsp; Dolgozza fel és fektesse feketére a nagy PDF adagokat programozottan.
+
+
+
+* **Nyilvánosságra Hozatali Biztonsági Intézkedések**  
+
+&nbsp; Erőltessen meg feketézési ellenőrzéseket a dokumentumok közzététel vagy terjesztés előtt.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

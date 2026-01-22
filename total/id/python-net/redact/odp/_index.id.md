@@ -77,7 +77,75 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Penyusunan dokumen menggunakan API Python untuk file ODP memungkinkan penanganan yang aman terhadap konten presentasi yang dibuat dalam standar dokumen terbuka. Hal ini penting ketika berbagi slide yang mungkin berisi informasi sensitif atau properti.
+
+
+
+Automasi memastikan presentasi ODP dapat disanitasi secara konsisten, mendukung kontrol privasi yang dapat diskalakan dan dapat diulang di seluruh aset presentasi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Berbagi Slide Rahasia**  
+
+  &nbsp; Hapus data sensitif dari slide presentasi sebelum didistribusikan.
+
+
+
+* **Governansi Format Terbuka**  
+
+  &nbsp; Menegakkan kebijakan perlindungan data pada file presentasi standar terbuka.
+
+
+
+* **Sanitasi Materi Pelatihan**  
+
+  &nbsp; Redaksi referensi internal sebelum mempublikasikan konten pembelajaran.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Aturan Redaksi Tingkat Slide**  
+
+  &nbsp; Secara otomatis redaksi konten dari slide atau tata letak tertentu.
+
+
+
+* **Pipa Pembangunan Presentasi**  
+
+  &nbsp; Mengintegrasikan redaksi ke dalam alur kerja pembangunan presentasi otomatis.
+
+
+
+* **Pemindaian Kepatuhan Terjadwal**  
+
+  &nbsp; Secara berkala membersihkan file ODP yang disimpan menggunakan pekerjaan otomatis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

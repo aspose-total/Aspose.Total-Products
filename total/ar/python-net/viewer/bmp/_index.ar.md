@@ -82,7 +82,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+عرض مستند BMP باستخدام واجهات برمجة التطبيقات في Python يمكن من تقديم تقديم موثوق به لصور البيتماب غير المضغوطة للتفتيش والتحقق وسير العمل البصري حيث تكون دقة مستوى البكسل مهمة.
+
+تدعم هذه القدرة خطوط الأنابيب الصورية التلقائية وأنظمة المعاينة وفحوصات الجودة دون تدخل يدوي.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **مراجعة الصور بدقة البكسل**  
+
+&nbsp; عرض صور البيتماب بالضبط كما هي مخزنة، محافظة على تفاصيل الألوان والدقة الأصلية.
+
+
+
+* **توافق الصور القديمة**  
+
+&nbsp; فتح وعرض ملفات البيتماب القديمة أو الخام المستخدمة عادة في أنظمة الأرشفة.
+
+
+
+* **التحقق من جودة الصور بصريًا**  
+
+&nbsp; تفتيش الصور برمجيًا لضمان صحة التخطيط والتقديم.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **التحقق التلقائي من الصور**  
+
+&nbsp; تعرض النصوص البرمجية في Python ملفات BMP أثناء التحقق الدفعي لاكتشاف الشوائب البصرية.
+
+
+
+* **أنابيب إنشاء المعاينات**  
+
+&nbsp; يتم تقديم ملفات البيتماب تلقائيًا للوحات المعلومات أو أدوات المراجعة.
+
+
+
+* **تصحيح سير العمل الصوري**  
+
+&nbsp; يساعد المشاهد الآلية في التحقق من الإخراج الصوري الوسيط في خطوط الأنابيب للمعالجة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

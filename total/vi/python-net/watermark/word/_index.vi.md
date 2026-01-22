@@ -79,7 +79,85 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Words for Python via .
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chèn dấu nước vào tài liệu **Word** với Python APIs giúp bảo vệ các tệp văn bản doanh nghiệp bằng cách nhúng nhãn hiển thị cho sở hữu, tính bí mật và quy tắc phân phối trong các tài liệu thường được chia sẻ và chỉnh sửa.
+
+Tự động hóa giúp thực hiện việc đặt dấu nước trên Word một cách nhất quán trên các nhóm và thư viện tài liệu, giảm công sức thủ công trong khi thúc đẩy sự rõ ràng trong quản lý và quy trình làm việc.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tài Liệu Chính Sách Bí Mật**  
+
+&nbsp; Thêm nhãn bảo mật để giảm sự chuyển tiếp vô tình của hướng dẫn nội bộ.
+
+
+
+* **Quản Trị Bản Nháp cho Tài Liệu Cộng Tác**  
+
+&nbsp; Đóng dấu nhãn "NHÁP" để ngăn không cho các phiên bản cũ được xem như cuối cùng.
+
+
+
+* **Sở Hữu Tài Liệu Giao Cho Khách Hàng**  
+
+&nbsp; Đặt dấu nước vào các tệp Word được chia sẻ để làm rõ sở hữu và tái sử dụng được phép.
+
+
+
+* **Đánh Dấu Mẫu Đầu Ra Kiểm Soát**  
+
+&nbsp; Đảm bảo các tài liệu Word được tạo tự động bao gồm các chính sách dấu nước tiêu chuẩn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Tự Động Hóa Dấu Nước Từ Mẫu Đến Tài Liệu**  
+
+&nbsp; Áp dụng dấu nước ngay sau khi tạo tài liệu Word từ dữ liệu có cấu trúc.
+
+
+
+* **Chuyển Đổi Dấu Nước Dựa Trên Trạng Thái Quy Trình**  
+
+&nbsp; Thay đổi văn bản dấu nước tự động khi tài liệu chuyển từ bản nháp sang được phê duyệt.
+
+
+
+* **Thực Thi Chính Sách Tải Lên Thư Viện**  
+
+&nbsp; Đánh dấu tệp Word khi tải lên vào các thư mục được quy định hoặc hệ thống quản lý hồ sơ.
+
+
+
+* **Đặt Dấu Nước Theo Người Nhận Khi Chia Sẻ**  
+
+&nbsp; Nhúng các thông tin nhận diện người nhận để cải thiện khả năng theo dõi khi tài liệu được chia sẻ bên ngoài.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

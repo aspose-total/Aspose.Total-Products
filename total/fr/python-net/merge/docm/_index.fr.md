@@ -78,7 +78,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusion de documents Word avec macros en utilisant les API Python permet une composition de documents structurée tout en conservant la logique intégrée et les comportements avancés des documents. Ceci est essentiel pour les environnements d'entreprise où les documents incluent l'automatisation, les formulaires ou les champs calculés.
+
+
+
+La fusion automatisée de fichiers DOCM prend en charge des flux de travail documentaires évolutifs où les fichiers porteurs de logique sont combinés de manière fiable sans intervention manuelle, garantissant une continuité opérationnelle et une efficacité.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Assemblage de modèles basés sur des macros (DOCM)**  
+
+&nbsp; Fusionner plusieurs documents avec macros en un seul document exécutable.
+
+
+
+* **Regroupement de documents opérationnels (DOCM)**  
+
+&nbsp; Consolider les fichiers DOCM utilisés dans les différents services en fichiers opérationnels unifiés.
+
+
+
+* **Consolidation de la documentation des processus (DOCM)**  
+
+&nbsp; Combinez les instructions et les outils basés sur DOCM en un document contrôlé.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Génération automatisée de fichiers de conformité (DOCM)**  
+
+&nbsp; Les systèmes fusionnent automatiquement les fichiers DOCM pour produire des documents prêts pour la conformité.
+
+
+
+* **Composition de documents basée sur des règles (DOCM)**  
+
+&nbsp; Les fichiers DOCM sont fusionnés dynamiquement en fonction des règles de flux de travail.
+
+
+
+* **Préservation des macros contrôlée en arrière-plan (DOCM)**  
+
+&nbsp; Les pipelines automatisés fusionnent les fichiers DOCM tout en préservant la logique intégrée.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

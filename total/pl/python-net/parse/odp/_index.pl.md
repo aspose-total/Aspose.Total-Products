@@ -100,7 +100,75 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Analiza **plików prezentacji ODP** za pomocą interfejsów API w języku Python umożliwia dostęp do treści opartych na slajdach przechowywanych w otwartych formatach prezentacji. Wsparcie dla strukturalnego wyodrębniania bez konieczności korzystania z narzędzi własnościowych.
+
+
+
+Automatyczna analiza plików ODP umożliwia skalowalne przetwarzanie danych prezentacji w otwartych i rozszerzalnych ekosystemach.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe Zastosowania" %}}
+
+
+
+* **Analiza Otwartej Prezentacji**  
+
+&nbsp; Wyodrębnia tekst i strukturę slajdów z plików ODP.
+
+
+
+* **Indeksowanie Zawartości Prezentacji**  
+
+&nbsp; Umożliwia wyszukiwanie i ponowne wykorzystywanie slajdów w formacie otwartym.
+
+
+
+* **Wyodrębnianie Danych do Raportowania**  
+
+&nbsp; Konwertuje treść slajdów na zbiory danych w strukturalny sposób.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Automatyczne Wprowadzanie Slajdów**  
+
+&nbsp; Przetwarza pliki ODP w ramach zaplanowanych procesów roboczych.
+
+
+
+* **Sprawdzanie Spójności Zawartości**  
+
+&nbsp; Sprawdza strukturę slajdów zgodnie z zdefiniowanymi regułami.
+
+
+
+* **Przekształcanie Prezentacji między Formatami**  
+
+&nbsp; Konwertuje zawartość ODP programowo na inne formaty.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -90,7 +90,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Просмотр файлов ODT с помощью API Python позволяет осматривать открытые текстовые документы, используемые в рабочих процессах на основе стандартов.
+
+Это поддерживает автоматизацию в системах, ориентированных на документы, без зависимостей от собственности.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Просмотр открытых документов**  
+
+&nbsp; Просмотр текстовых документов в открытых форматах.
+
+
+
+* **Проверка целостности контента**  
+
+&nbsp; Осмотр структуры документа и текста.
+
+
+
+* **Совместимость между системами**  
+
+&nbsp; Гарантия правильного отображения документов в различных средах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированные конвейеры документов**  
+
+&nbsp; Процессы Python отображают файлы ODT в рабочих процессах.
+
+
+
+* **Проверка соответствия**  
+
+&nbsp; Документы проверяются на соответствие стандартам.
+
+
+
+* **Генерация предварительного просмотра**  
+
+&nbsp; Автоматизированные просмотрщики поддерживают рабочие процессы просмотра.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -141,7 +207,7 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

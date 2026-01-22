@@ -90,7 +90,73 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Zobrazení souborů DOTX pomocí Python API poskytuje strukturovaný přístup k moderním šablonám Wordu bez provádění maker.
+
+Toto podporuje škálovatelné, šablonami řízené systémy dokumentů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Moderní inspekce šablon**  
+
+  Zobrazit strukturované rozložení a předdefinované styly.
+
+
+
+* **Ověření konzistence značky**  
+
+  Ujistěte se, že šablony odpovídají formátovacím standardům.
+
+
+
+* **Kontroly připravenosti pracovního postupu**  
+
+  Potvrďte, že šablony jsou vhodné pro automatizované použití.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Šablony nasazení v potrubí**  
+
+  Soubory DOTX jsou automaticky vykresleny před uvedením do provozu.
+
+
+
+* **Automatizované auditování formátování**  
+
+  Python skripty kontrolují šablony na shodu.
+
+
+
+* **Ověření generace obsahu**  
+
+  Zobrazení zajišťuje, že šablony fungují podle očekávání.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

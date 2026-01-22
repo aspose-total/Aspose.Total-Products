@@ -82,7 +82,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+שילוב תמונות Bitmap באמצעות Python APIs מאפשר את איחוד הוויזואלים הגולמיים ולא דחוסים לתוך תמונה או רצף תמונות אחת. זה מועיל בתחום הוויזואלי הטכני, זרימות הסריקה, ובמערכות בהן איכות התמונה עדיפה על גודל הקובץ.
+
+
+
+שילוב BMP אוטומטי תומך בצריכת צורך בעיבוד תמונות דטרמיניסטיות בהן דיוק, חזרה על עצמה, והרכבה המופעלת על ידי המערכת נדרשים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **איחוד תמונות סריקה (BMP)**  
+
+&nbsp; מיזוג מסריקות BMP מרובות לתמונה מרכזית אחת.
+
+
+
+* **הרכבת תרשימים טכניים (BMP)**  
+
+&nbsp; שילוב תרשימי Bitmap לוויזואלים מאוחדים.
+
+
+
+* **ארכיון תמונות גולמיות (BMP)**  
+
+&nbsp; איגוד קבצי BMP לאחסון או עיבוד לטווח ארוך.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **עיבוד סריקות אוטומטי (BMP)**  
+
+&nbsp; מערכות משלבות תמונות BMP במהלכי עיבוד.
+
+
+
+* **הרכבת תמונות בצורה צמודה (BMP)**  
+
+&nbsp; משימות מתוזמנות משלבות תמונות Bitmap באופן תכנותי.
+
+
+
+* **צינורות תמונה בדיוק (BMP)**  
+
+&nbsp; שילוב BMP מוטבע במערכות עיבוד שמופעלות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

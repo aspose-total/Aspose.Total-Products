@@ -73,7 +73,85 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API为**JPG**文件添加水印，支持常见的图像工作流程，为最常用的网络图像格式添加清晰的所有权、审定标签和分发规则。
+
+自动化JPG水印适用于高吞吐量流水线，需要跨多个资产保持一致的放置和可重复的样式。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **图像库的批量品牌标记**  
+
+&nbsp; 为大量JPG资产添加水印，以在各个渠道上保持一致的身份。
+
+
+
+* **预发布内容保护**  
+
+&nbsp; 添加“未经发布”的覆盖层，以防止意外提前发布。
+
+
+
+* **销售资料预览标记**  
+
+&nbsp; 在用于提案和演示的JPG视觉上盖章预览标签。
+
+
+
+* **联盟资产归因**  
+
+&nbsp; 为共享媒体嵌入归因水印，以改善来源跟踪。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **基于文件夹的自动盖章**  
+
+&nbsp; 检测监视文件夹中的新JPG文件，并立即为其添加水印。
+
+
+
+* **响应式水印缩放**  
+
+&nbsp; 根据分辨率和宽高比自动调整水印大小。
+
+
+
+* **多语言水印生成**  
+
+&nbsp; 根据目标受众或地区规则生成本地化水印文本。
+
+
+
+* **去重变体创建**  
+
+&nbsp; 通过在自动化中跟踪指纹来避免重新处理已添加水印的JPG。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

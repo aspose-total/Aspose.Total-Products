@@ -104,7 +104,41 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+L'analyse des **documents Word** à l'aide des API Python permet l'extraction fiable de texte structuré, de titres, de tableaux et de métadonnées de documents à partir de fichiers de traitement de texte largement utilisés. Cette capacité est essentielle pour les organisations qui gèrent des rapports, des contrats, des manuels et des documents opérationnels au format Word.
+
+En intégrant l'analyse de documents Word dans des systèmes automatisés, les équipes peuvent rationaliser l'ingestion de contenu, la validation, la transformation et la réutilisation, rendant les flux de travail riches en documents plus efficaces et évolutifs.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+* **Traitement de documents d'entreprise**  
+  &nbsp; Extrait du contenu structuré à partir de fichiers Word pour les systèmes et analyses en aval.
+
+* **Extraction et indexation des connaissances**  
+  &nbsp; Convertit les documents Word en données consultables et exploitables par des machines.
+
+* **Migration et modernisation du contenu**  
+  &nbsp; Permet la migration à grande échelle de fichiers Word vers des plates-formes ou formats modernes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Ingestion automatisée de documents**  
+  &nbsp; Traite les nouveaux documents Word téléchargés dans le cadre de pipelines continus.
+
+* **Validation de contenu basée sur un schéma**  
+  &nbsp; Garantit que le contenu Word extrait est conforme aux règles structurelles prédéfinies.
+
+* **Transformation dynamique du contenu**  
+  &nbsp; Convertit de manière programmable les documents Word en formats prêts pour le web, les bases de données ou les API.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

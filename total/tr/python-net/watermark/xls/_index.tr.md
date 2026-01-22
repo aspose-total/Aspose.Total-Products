@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri kullanarak **XLS** elektronik tablolarına filigran eklemek, eski raporlama iş akışlarında hala yaygın olarak kullanılan veri parçalarına görünür sahiplik ve gizlilik ipuçları ekleyerek eski Excel dosyalarını korumaya yardımcı olur.
+
+Otomasyon, XLS filigranının büyük arşivler için pratik hale gelmesini sağlar, her bir çalış kitabının manuel olarak düzenlenmesine gerek kalmadan tutarlı yönetimi sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Eski Finans Tablosu Koruma**  
+
+&nbsp; Eski XLS bütçe ve tahmin tablolarına gizlilik etiketleri ekleyin.
+
+
+
+* **Operasyonel Raporlama Sahiplik İşaretleri**  
+
+&nbsp; Kaynak kimliğini iletilecek kopyalar arasında korumak için XLS raporlarına damga vurun.
+
+
+
+* **Taslak Veri Göstergeleri**  
+
+&nbsp; Doğrulanmamış sayılardan kaynaklanan hataları azaltmak için "ÖNCEKİ" filigranlarını uygulayın.
+
+
+
+* **Harici Paylaşım İçin Dağıtım Kontrolleri**  
+
+&nbsp; Tedarikçilerle paylaşılan eski elektronik tablolara görünür kullanım kısıtlamaları gömün.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik Arşiv Damgası**  
+
+&nbsp; Yeni depolama veya yönetim sistemlerine göç sırasında XLS dosyalarına filigran ekleyin.
+
+
+
+* **Gelen Raporlar İçin Klasör İzleyici**  
+
+&nbsp; Yeni XLS dosyalarını algılayın ve standart politika filigranlarını otomatik olarak uygulayın.
+
+
+
+* **Rapor Türü Kurallarına Göre Filigranlama**  
+
+&nbsp; Dosya adı desenlerine veya sınıflandırma meta verilerine dayalı olarak filigran içeriğini seçin.
+
+
+
+* **Zamanlanmış Dışa Aktarma Filigranlama**  
+
+&nbsp; Paydaşlara teslim edilmeden önce otomatik XLS dışa aktarmalarına filigran uygulayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

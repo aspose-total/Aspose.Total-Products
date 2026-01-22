@@ -79,7 +79,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusion de fichiers de présentation OpenDocument à l'aide des API Python prend en charge les normes ouvertes et les flux de travail de présentation multiplateformes. Cela est idéal pour les environnements utilisant des outils de bureau open source.
+
+
+
+L'automatisation garantit l'interopérabilité et le traitement de présentation évolutif.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Consolidation de diapositives multiplateformes (ODP)**  
+
+&nbsp; Fusionner des fichiers ODP créés dans différents outils.
+
+
+
+* **Assemblage de présentations selon des normes ouvertes (ODP)**  
+
+&nbsp; Combinez des decks ODP pour une livraison unifiée.
+
+
+
+* **Compilation collaborative de diapositives (ODP)**  
+
+&nbsp; Fusionner des fichiers ODP provenant de contributeurs distribués.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Pipelines de présentation ouverts (ODP)**  
+
+&nbsp; Les systèmes fusionnent des fichiers ODP sans dépendances propriétaires.
+
+
+
+* **Compilation de decks planifiée (ODP)**  
+
+&nbsp; La fusion ODP s'exécute dans le cadre des tâches en arrière-plan.
+
+
+
+* **Automatisation de présentation interopérable (ODP)**  
+
+&nbsp; Les fichiers ODP sont fusionnés dynamiquement dans les flux de travail.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

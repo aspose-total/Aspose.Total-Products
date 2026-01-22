@@ -82,7 +82,73 @@ Para obter mais detalhes, consulte [Documentação do Produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A visualização de PNG usando APIs do Python suporta renderização de imagens de alta qualidade e sem perdas, com manipulação de transparência.
+
+Isso é ideal para cenários de automação que exigem precisão visual e integração flexível de imagens.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Revisão de Imagens sem Perdas**  
+
+  Visualize imagens sem artefatos de compressão.
+
+
+
+* **Inspeção de Ativos Transparentes**  
+
+  Inspeccione imagens com canais alfa com precisão.
+
+
+
+* **Validação de Ativos de Interface do Usuário**  
+
+  Revise ativos visuais usados em aplicativos ou documentos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Automação de Pipeline de Ativos**  
+
+  Scripts em Python renderizam arquivos PNG durante verificações de compilação ou implantação.
+
+
+
+* **Serviços de Visualização Dinâmica**  
+
+  As imagens são exibidas automaticamente em painéis ou ferramentas.
+
+
+
+* **Teste de Regressão Visual**  
+
+  A visualização automatizada suporta fluxos de trabalho de comparação e validação.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

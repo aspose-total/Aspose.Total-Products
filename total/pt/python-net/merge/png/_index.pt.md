@@ -85,7 +85,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/ima
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A fusão de imagens PNG usando APIs do Python permite a composição de imagens sem perdas com suporte para transparência. Isso é ideal para ativos de design, elementos de interface e visuais em camadas.
+
+
+
+A automação garante a montagem consistente de imagens, preservando a integridade visual.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Montagem de Ativos Transparentes (PNG)**  
+
+  Merge imagens PNG preservando os canais alfa.
+
+
+
+* **Composição de Elementos de UI (PNG)**  
+
+  Combine gráficos de interface em imagens únicas.
+
+
+
+* **Consolidação de Recursos de Design (PNG)**  
+
+  Agregue ativos PNG para reutilização.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Pipelines de Design Automatizados (PNG)**  
+
+  Sistemas mesclam ativos PNG durante os processos de construção.
+
+
+
+* **Geração de Imagens em Camadas (PNG)**  
+
+  A fusão de PNG é conduzida por regras programáticas.
+
+
+
+* **Automação de Ativos Visuais Escaláveis (PNG)**  
+
+  Pipelines automatizados geram visuais PNG mesclados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

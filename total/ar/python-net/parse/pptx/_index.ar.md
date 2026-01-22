@@ -100,7 +100,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحليل **عروض الـPPTX** باستخدام واجهات برمجة التطبيقات في Python يمكن الوصول الهيكلي إلى نصوص الشرائح، العناوين، نقاط العلامات التعريفية، التخطيطات، وملاحظات المتحدث من ملفات العروض الحديثة. يجعل تحليل ملفات PPTX المعرفة المستندة إلى الشرائح متاحة بعيدًا عن المشاهدة اليدوية.
+
+
+
+في الأنظمة التي تعمل بالتلقين، يدعم تحليل PPTX إعادة استخدام المحتوى، وتلخيصه، والتحليل، والتكامل مع أنابيب إدارة المعرفة وتقارير التقارير.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **استخراج محتوى الشرائح**  
+
+&nbsp; يسترد النصوص الهيكلية وعناصر التخطيط من شرائح العرض.
+
+
+
+* **تنقيب عن المعرفة في العروض**  
+
+&nbsp; يحول مجموعات الشرائح إلى مصادر محتوى قابلة للبحث والتحليل.
+
+
+
+* **أنابيب إعادة استخدام المحتوى**  
+
+&nbsp; يمكن إعادة استخدام مواد العرض عبر الوثائق والمنصات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقين" %}}
+
+
+
+* **استيعاب العروض تلقائيًا**  
+
+&nbsp; يعالج ملفات PPTX تلقائيًا عند التحميل أو الجدولة.
+
+
+
+* **أنابيب تلخيص على مستوى الشريحة**  
+
+&nbsp; يولد ملخصات موجزة من محتوى الشرائح المحلل.
+
+
+
+* **التحقق التلقائي من الإصدارات**  
+
+&nbsp; يكتشف التغييرات برمجيًا عبر عدة إصدارات من العروض.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

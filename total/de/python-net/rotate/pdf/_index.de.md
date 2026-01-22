@@ -72,7 +72,87 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Das Drehen von PDF-Dokumenten programmgesteuert ist eine häufige Anforderung in modernen Dokumentenverarbeitungs-Workflows, insbesondere bei der Bearbeitung von gescannten Dateien, Seiten mit gemischter Ausrichtung oder benutzerhochgeladenen Inhalten. Die PDF-Drehung mithilfe von Python-APIs ermöglicht Entwicklern und Systemen, die Seitenausrichtung zuverlässig ohne manuellen Eingriff zu korrigieren, was die Lesbarkeit, Konsistenz und die Genauigkeit der weiteren Verarbeitung verbessert.
+
+
+
+Durch die Nutzung der Python-basierten Automatisierung kann die PDF-Drehung nahtlos in größere Abläufe wie die Dokumentenaufnahme, Archivsysteme und Content-Management-Plattformen integriert werden. Dies ermöglicht eine skalierbare, wiederholbare und fehlerfreie Behandlung der Dokumentenausrichtung bei großen Dateimengen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Korrektur der Ausrichtung gescannter Dokumente**  
+
+&nbsp; Dreht automatisch falsch gescannte PDF-Seiten in die richtige Ausrichtung für bessere Lesbarkeit und Benutzerfreundlichkeit.
+
+
+
+* **Standardisierung von PDFs aus verschiedenen Quellen**  
+
+&nbsp; Passt die Seitenausrichtung an, wenn PDFs aus verschiedenen Quellen kombiniert werden, um ein konsistentes Betrachtungserlebnis sicherzustellen.
+
+
+
+* **Vorverarbeitung für OCR und Textextraktion**  
+
+&nbsp; Stellt sicher, dass die Seiten vor der OCR korrekt ausgerichtet sind, um die Texterkennungsgenauigkeit und Datenqualität zu verbessern.
+
+
+
+* **Normalisierung von benutzerhochgeladenen Dokumenten**  
+
+&nbsp; Passt die Seitenrotation für hochgeladene PDFs an, um Plattform- oder Compliance-Standards zu erfüllen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Automatisierte Aufnahmepipelines**  
+
+&nbsp; Die PDF-Drehung wird automatisch während der Aufnahme angewendet, um Dokumente vor der Speicherung oder weiteren Verarbeitung zu normalisieren.
+
+
+
+* **Batch-Verarbeitungs-Workflows**  
+
+&nbsp; Große Sammlungen von PDFs werden programmgesteuert in großen Mengen gedreht, um den manuellen Aufwand und die Verarbeitungszeit zu reduzieren.
+
+
+
+* **Vor-OCR-Verarbeitungsautomatisierung**  
+
+&nbsp; Die Drehung wird dynamisch vor OCR-Aufgaben angewendet, um die Erkennungsgenauigkeit in automatisierten Textextraktionssystemen zu verbessern.
+
+
+
+* **API-basierte Verarbeitung in Echtzeit**  
+
+&nbsp; PDF-Seiten werden in Echtzeit über APIs gedreht, als Teil von dynamischen Dokumententransformationsservices.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -100,7 +100,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Parsování **prezentací PowerPointu** pomocí Python API umožňuje strukturované extrakce obsahu snímků, včetně nadpisů, odrážek, rozložení a poznámek řečníka z souborů prezentací. To umožňuje přístup k informacím založeným na prezentaci pro analýzu, opětovné použití a integraci do systému.
+
+
+
+Při propojení s automatizovanými pracovními postupy parsování PowerPointu transformuje statické snímky do dynamických zdrojů dat, které podporují škálovatelné zpracování znalostí, reporting a provoz obsahu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Extrakce obsahu snímku**  
+
+&nbsp; Získává strukturovaný text a prvky rozložení z prezentací PowerPointu.
+
+
+
+* **Zpracování znalostí z prezentace**  
+
+&nbsp; Převádí snímky do vyhledatelných a analyzovatelných informačních aktiv.
+
+
+
+* **Opětovné použití a transformace obsahu**  
+
+&nbsp; Umožňuje znovupoužití materiálu prezentace napříč dokumenty a platformami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizované zpracování prezentace**  
+
+&nbsp; Zpracovává soubory PowerPointu automaticky jako součást příjmových potrubí.
+
+
+
+* **Sumarizace obsahu na úrovni snímku**  
+
+&nbsp; Generuje shrnutí a strukturované výstupy z analyzovaných dat snímků.
+
+
+
+* **Programové distribuce obsahu**  
+
+&nbsp; Zasílá extrahovaný obsah prezentace do následných systémů a pracovních postupů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

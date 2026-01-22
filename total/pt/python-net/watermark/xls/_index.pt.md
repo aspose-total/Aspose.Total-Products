@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Adicionar marcas d'água aos planilhas **XLS** com APIs do Python ajuda a proteger arquivos Excel legados, adicionando indicadores visíveis de propriedade e confidencialidade aos artefatos de dados ainda amplamente utilizados em fluxos de trabalho de relatórios mais antigos.
+
+A automação torna a marca d'água XLS prática para grandes arquivos, garantindo governança consistente sem edição manual de cada pasta de trabalho.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Proteção de Planilhas Financeiras Legadas**  
+
+&nbsp; Adicione rótulos de confidencialidade às antigas planilhas de orçamento e previsão XLS.
+
+
+
+* **Marcas de Propriedade em Relatórios Operacionais**  
+
+&nbsp; Carimbe relatórios XLS para manter a identidade da fonte em cópias encaminhadas.
+
+
+
+* **Indicadores de Dados Preliminares**  
+
+&nbsp; Aplique marcas d'água "PRELIMINAR" para reduzir erros de números não validados.
+
+
+
+* **Controles de Distribuição para Compartilhamento Externo**  
+
+&nbsp; Incorpore restrições de uso visíveis em planilhas legadas compartilhadas com fornecedores.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Carimbo Automático de Arquivo**  
+
+&nbsp; Marque arquivos XLS durante a migração para novos sistemas de armazenamento ou governança.
+
+
+
+* **Observador de Pasta para Relatórios Recebidos**  
+
+&nbsp; Detecte novos envios de XLS e aplique marcas d'água de política padrão automaticamente.
+
+
+
+* **Marca d'água por Regras de Tipo de Relatório**  
+
+&nbsp; Escolha o conteúdo da marca d'água com base em padrões de nome de arquivo ou metadados de classificação.
+
+
+
+* **Marcação de Exportação Agendada**  
+
+&nbsp; Carimbe exportações automatizadas de XLS antes de serem entregues às partes interessadas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

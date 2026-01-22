@@ -90,7 +90,75 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+عرض ملفات DOTM باستخدام واجهات برمجة التطبيقات في Python يمكن من تفقد القوالب الوورد التي تحتوي على ماكروهات بأمان دون تنفيذ البرمجيات المضمنة.
+
+هذا أمر أساسي في البيئات المراقبة حيث يجب أن تتواجد الرؤية والأمان معًا.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **مراجعة القوالب التي تحتوي على ماكروهات**  
+
+&nbsp; عرض محتوى القالب مع عدم تنشيط الماكروهات.
+
+
+
+* **تفتيش موجه نحو الأمان**  
+
+&nbsp; فحص الهيكل دون تعريض الأنظمة لمخاطر التنفيذ.
+
+
+
+* **عمليات الموافقة على القوالب**  
+
+&nbsp; مراجعة القوالب قبل التوزيع المراقب.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **استقبال القوالب الآمن**  
+
+&nbsp; يعرض مشاهدو Python ملفات DOTM بأمان أثناء الانضمام.
+
+
+
+* **أتمتة الحوكمة**  
+
+&nbsp; يتم مراجعة القوالب كجزء من فحوصات السياسات الآلية.
+
+
+
+* **أنابيب التحقق قبل الاستخدام**  
+
+&nbsp; تدعم المعاينات الآلية سير العمل للموافقة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

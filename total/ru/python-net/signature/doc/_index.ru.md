@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Программное подписание файлов DOC позволяет старым документам Word необходимые индикаторы формального утверждения без конвертации формата. Это сохраняет совместимость с более старыми системами документов, при этом добавляя управление.
+
+
+
+Автоматизация на основе Python обеспечивает последовательное подписание DOC, сокращая ручное вмешательство в документоемкие устаревшие рабочие процессы.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Утверждение устаревших контрактов**  
+
+&nbsp; Добавление данных подписанта в DOC-контракты, используемые в старых системах.
+
+
+
+* **Утверждение документов с политикой**  
+
+&nbsp; Пометка DOC-политик как просмотренных и утвержденных.
+
+
+
+* **Проверка шаблонов документов**  
+
+&nbsp; Подписание DOC-шаблонов после проверки завершения.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Подписание при заполнении полей**  
+
+&nbsp; DOC-файлы подписываются после заполнения обязательных полей.
+
+
+
+* **Интеграция с рабочим процессом утверждения**  
+
+&nbsp; Подписание вызывается обновлением статуса утверждения на бэкенде.
+
+
+
+* **Сертификация устаревшего архива**  
+
+&nbsp; DOC-файлы подписываются перед архивированием.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

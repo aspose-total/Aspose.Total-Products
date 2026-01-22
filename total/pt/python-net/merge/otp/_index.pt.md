@@ -79,7 +79,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/sli
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A fusão de formatos de modelos de apresentação usando APIs Python permite a criação consistente de slides em ecossistemas abertos e proprietários. A fusão de modelos garante uniformidade estrutural.
+
+
+
+A automação suporta a geração rápida de apresentações com layouts previsíveis.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Montagem de Apresentação Orientada por Modelo (OTP)**  
+
+&nbsp; Mesclar modelos OTP em decks padronizados.
+
+
+
+* **Estruturas de Slides Reutilizáveis (OTP)**  
+
+&nbsp; Combinar estruturas baseadas em OTP para consistência.
+
+
+
+* **Padronização de Design (OTP)**  
+
+&nbsp; Agregar modelos OTP em formatos unificados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Aplicação Automatizada de Modelos (OTP)**  
+
+&nbsp; Modelos OTP são mesclados programaticamente.
+
+
+
+* **Geração em Lote de Apresentações (OTP)**  
+
+&nbsp; Os modelos são mesclados durante execuções agendadas.
+
+
+
+* **Pipelines Controlados por Layout (OTP)**  
+
+&nbsp; Os sistemas aplicam a estrutura por meio da fusão de modelos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

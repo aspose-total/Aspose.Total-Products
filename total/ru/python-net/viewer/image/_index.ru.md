@@ -82,7 +82,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Просмотр общих форматов изображений с помощью API Python обеспечивает единый подход к проверке визуальных ресурсов в рабочих процессах.
+
+Это позволяет последовательно обрабатывать изображения независимо от их источника или типа.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Единая проверка изображений**  
+
+&nbsp; Просмотр разнообразных файлов изображений через один интерфейс.
+
+
+
+* **Подтверждение визуальных ресурсов**  
+
+&nbsp; Подтверждение целостности и внешнего вида изображения.
+
+
+
+* **Поддержка конвейера контента**  
+
+&nbsp; Проверка изображений на этапах обработки.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированные конвейеры изображений**  
+
+&nbsp; Рабочие процессы Python отображают изображения во время пакетной обработки.
+
+
+
+* **Динамические сервисы предварительного просмотра**  
+
+&nbsp; Изображения отображаются по требованию для просмотра.
+
+
+
+* **Автоматизация контроля качества**  
+
+&nbsp; Просмотр поддерживает автоматизированные визуальные проверки.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

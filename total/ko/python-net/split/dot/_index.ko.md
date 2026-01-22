@@ -79,7 +79,75 @@ DOT 파일을 쉽게 분할하기 위해 Python 스크립트 또는 유틸리티
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOT 파일은 구조와 형식 지침을 정의하는 문서 템플릿으로 사용됩니다. DOT 파일을 분할하면 개별 템플릿 구성 요소의 분석과 재사용이 가능해집니다.
+
+
+
+Python을 사용하여 DOT 파일을 자동으로 분할하면 확장 가능한 템플릿 관리와 구조화된 문서 생성 워크플로우를 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **템플릿 구성 요소 재사용**  
+
+  &nbsp; 문서 간에 재사용할 특정 템플릿 섹션 추출하기.
+
+
+
+* **템플릿 감사**  
+
+  &nbsp; 규정 준수 및 일관성을 위해 개별 부분 분석하기.
+
+
+
+* **표준화된 문서 생성**  
+
+  &nbsp; 템플릿 요소의 통제된 사용 가능하게 하기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **템플릿 구문 분석 자동화**  
+
+  &nbsp; Python 스크립트가 프로그래밍 방식으로 템플릿 블록을 분리합니다.
+
+
+
+* **동적 템플릿 조립**  
+
+  &nbsp; 필요에 따라 분할된 구성 요소를 동적으로 재결합합니다.
+
+
+
+* **통제 강화 파이프라인**  
+
+  &nbsp; 자동화된 확인을 통해 승인된 섹션만 사용되도록 보장합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

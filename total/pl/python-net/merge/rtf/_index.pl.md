@@ -78,7 +78,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Łączenie dokumentów w formacie Rich Text Format za pomocą interfejsów API w języku Python umożliwia lekkie konsolidowanie dokumentów, zachowując podstawowe formatowanie i czytelność. RTF jest powszechnie stosowany do interoperacyjności między platformami i systemami.
+
+
+
+Zautomatyzowane łączenie plików RTF umożliwia szybką, programową obróbkę dokumentów w środowiskach, w których istotne są prostota i kompatybilność.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Kompilacja lekkich dokumentów (RTF)**  
+
+&nbsp; Scal wiele plików RTF w jeden czytelny dokument.
+
+
+
+* **Wymiana treści między systemami (RTF)**  
+
+&nbsp; Łącz dokumenty RTF udostępniane między heterogenicznymi systemami.
+
+
+
+* **Zachowanie podstawowego formatowania (RTF)**  
+
+&nbsp; Skonsoliduj pliki RTF, zachowując istotne formatowanie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Potoki przetwarzania tekstu po stronie serwera (RTF)**  
+
+&nbsp; Łączenie RTF jest zautomatyzowane w usługach przetwarzania tekstu.
+
+
+
+* **Obsługa dużej ilości dokumentów (RTF)**  
+
+&nbsp; Systemy łączą duże ilości plików RTF programowo.
+
+
+
+* **Automatyzacja z naciskiem na kompatybilność (RTF)**  
+
+&nbsp; Pliki RTF są łączone automatycznie dla maksymalnej przenośności.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

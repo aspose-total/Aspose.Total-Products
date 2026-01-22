@@ -78,7 +78,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Slučování souborů oddělených tabulátory pomocí Python API umožňuje rychlé a lehké kombinování strukturovaných tabulkových dat. TSV se běžně používá pro výměnu dat a předzpracování.
+
+
+
+Automatizované slučování TSV podporuje vysokovýkonné datové toky a analytické pracovní postupy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Agregace surových dat (TSV)**  
+
+&nbsp; Slučujte soubory TSV do jednoho datasetu pro zpracování.
+
+
+
+* **Výměna dat mezi systémy (TSV)**  
+
+&nbsp; Kombinujte exporty TSV z různých platforem.
+
+
+
+* **Příprava dat před analýzou (TSV)**  
+
+&nbsp; Slučujte soubory TSV před analytickou transformací.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Zpracování dat založené na proudu (TSV)**  
+
+&nbsp; Automatizované systémy slučují soubory TSV v datových tocích.
+
+
+
+* **Dávkové operace ETL (TSV)**  
+
+&nbsp; Slučování TSV probíhá během plánovaných úloh ETL.
+
+
+
+* **Škálovatelné tabulkové datové toky (TSV)**  
+
+&nbsp; Programové slučování podporuje velké soubory TSV.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

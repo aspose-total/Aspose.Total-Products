@@ -79,7 +79,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การผสานรูปแบบเทมเพลตการนำเสนอโดยใช้ Python APIs ช่วยให้การสร้างสไลด์ที่สอดคล้องกันในระบบเปิดและเอกสารเฉพาะเจาะจง การผสานเทมเพลตช่วยให้มีโครงสร้างที่เหมือนกัน
+
+
+
+การอัตโนมัติสนับสนุนการสร้างงานนำเสนออย่างรวดเร็วด้วยเลเอาท์ที่ทรงพลัง
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **การประกอบสไลด์ตามเทมเพลต (OTP)**  
+
+&nbsp; ผสานเทมเพลต OTP เข้ากับสไลด์มาตรฐาน
+
+
+
+* **โครงสร้างสไลด์ที่ใช้ซ้ำได้ (OTP)**  
+
+&nbsp; รวมโครงสร้างที่ใช้ OTP เพื่อความสอดคล้อง
+
+
+
+* **มาตรฐานการออกแบบ (OTP)**  
+
+&nbsp; รวบรวมเทมเพลต OTP เข้ากับรูปแบบที่สอดคล้องกัน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การบังคับเทมเพลตโดยอัตโนมัติ (OTP)**  
+
+&nbsp; เทมเพลต OTP ถูกผสานโดยโปรแกรม
+
+
+
+* **การสร้างงานนำเสนอเป็นชุด (OTP)**  
+
+&nbsp; เทมเพลตถูกผสานขณะที่ทำงานตามกำหนด
+
+
+
+* **ท่อการควบคุมเลเอาท์ (OTP)**  
+
+&nbsp; ระบบบังคับโครงสร้างผ่านการผสานเทมเพลต
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

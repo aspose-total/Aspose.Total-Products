@@ -79,7 +79,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Łączenie formatów szablonów prezentacji za pomocą interfejsów API w języku Python umożliwia spójne tworzenie slajdów w różnych ekosystemach otwartych i własnościowych. Łączenie szablonów zapewnia jednolitość strukturalną.
+
+
+
+Automatyzacja wspiera szybkie generowanie prezentacji z przewidywalnymi układami.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Montaż prezentacji z użyciem szablonów (OTP)**  
+
+&nbsp; Łączenie szablonów OTP w znormalizowane zestawy slajdów.
+
+
+
+* **Wielokrotnie używane ramy slajdów (OTP)**  
+
+&nbsp; Łączenie struktur opartych na OTP dla spójności.
+
+
+
+* **Standaryzacja projektowania (OTP)**  
+
+&nbsp; Łączenie szablonów OTP w jednolite formaty.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Automatyczne egzekwowanie szablonów (OTP)**  
+
+&nbsp; Szablony OTP są łączone programistycznie.
+
+
+
+* **Generowanie prezentacji wsadowe (OTP)**  
+
+&nbsp; Szablony są łączone podczas zaplanowanych uruchomień.
+
+
+
+* **Kontrolowane układy (OTP)**  
+
+&nbsp; Systemy egzekwują strukturę poprzez łączenie szablonów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

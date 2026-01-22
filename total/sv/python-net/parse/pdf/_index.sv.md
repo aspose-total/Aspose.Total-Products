@@ -100,7 +100,75 @@ För mer information, se [Product Documentation](https://docs.aspose.com/words/p
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Analysera **PDF-dokument** med Python API:er möjliggör extrahering av text och layoutinformation från ett brett använd format med fast layout. PDF:er är vanliga i rapporter, fakturor och officiella register.
+
+
+
+Automatiserad PDF-analys låser upp icke-redigerbart innehåll för analys, sökning och systemintegration utan manuell ingripande.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsfall" %}}
+
+
+
+* **Extrahering av Rapportdata**  
+
+&nbsp; Hämtar textinnehåll från statiska PDF-rapporter.
+
+
+
+* **Arkiveringsbehandling av Dokument**  
+
+&nbsp; Konverterar PDF:er till sökbar och indexeringbar text.
+
+
+
+* **Informationssökningssystem**  
+
+&nbsp; Möjliggör upptäckt av innehåll inom stora PDF-samlingar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+
+
+* **Schemalagd PDF-Inmatning**  
+
+&nbsp; Bearbetar automatiskt inkommande PDF:er med en fast takt.
+
+
+
+* **Textnormaliseringspipeliner**  
+
+&nbsp; Rengör och standardiserar extraherad PDF-text programmatiskt.
+
+
+
+* **Aktiverar Nedströmsanalys**  
+
+&nbsp; Matar analyserat PDF-innehåll in i analyser eller ML-arbetsflöden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

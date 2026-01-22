@@ -78,7 +78,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Łączenie plików tekstowych OpenDocument za pomocą interfejsów API w języku Python wspiera otwarte standardy i przepływy pracy dokumentów międzyplatformowych. Umożliwia bezproblemowe konsolidowanie treści tworzonych w środowiskach biurowych opartych na oprogramowaniu open-source lub mieszanym.
+
+
+
+Automatyzacja wokół łączenia plików ODT zapewnia interoperacyjność, jednocześnie zachowując integralność dokumentów między systemami.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Konsolidacja Dokumentów Międzyplatformowych (ODT)**  
+
+&nbsp; Łączenie plików ODT utworzonych w różnych pakietach biurowych.
+
+
+
+* **Agregacja Treści w Standardzie Otwartym (ODT)**  
+
+&nbsp; Łączenie dokumentów ODT w celu jednolitego publikowania.
+
+
+
+* **Montaż Współpracowniczych Treści (ODT)**  
+
+&nbsp; Łączenie plików ODT od wielu współautorów w jeden dokument.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Automatyzacja Przepływu Pracy w Standardzie Otwartym (ODT)**  
+
+&nbsp; Systemy automatycznie łączą pliki ODT bez zależności od własności intelektualnej.
+
+
+
+* **Zaplanowana Kompilacja Dokumentów (ODT)**  
+
+&nbsp; Łączenie plików ODT jest częścią cyklicznych zadań backendowych.
+
+
+
+* **Interoperacyjne Potoki Publikacji (ODT)**  
+
+&nbsp; Pliki ODT są łączone dynamicznie w potokach między systemami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -145,7 +213,7 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

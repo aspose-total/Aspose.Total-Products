@@ -76,7 +76,59 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+מיזוג קבצי טקסט של OpenDocument באמצעות Python APIs תומך בתקנים פתוחים ובזריזות עבודה עם מסמכים בכל הפלטפורמות. זה מאפשר איחוד תוכן שנוצר בסביבות תוכנה פתוחה או מעורבת.
+
+אוטומציה סביב מיזוג ODT מבטיחה אינטרואפיליות תוך שמירה על שלמות המסמך בכל המערכות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **איחוד מסמכים בכל הפלטפורמות (ODT)**  
+
+&nbsp; מיזוג קבצי ODT שנוצרו בישויות שונות.
+
+* **איחוד תוכן בתקן פתוח (ODT)**  
+
+&nbsp; שילוב מסמכי ODT לצורך פרסום מאוחד.
+
+* **אסיפת תוכן שיתופית (ODT)**  
+
+&nbsp; מיזוג קבצי ODT ממספר תורמים למסמך אחד.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **אוטומציה של זרימת עבודה פתוחה (ODT)**  
+
+&nbsp; מערכות אוטומטיות ממזגות קבצי ODT ללא תלות בפטנטים.
+
+* **הרצת קיבוץ מסמכים מתוזמנת (ODT)**  
+
+&nbsp; מיזוג ODT רץ כחלק ממשימות רקורנטיות בצד השרת.
+
+* **צינורות פרסום אינטרואפיליים (ODT)**  
+
+&nbsp; קבצי ODT ממוזגים באופן דינמי בצינורות פרסום חוצי-מערכת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

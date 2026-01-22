@@ -98,7 +98,93 @@ Para obter mais detalhes, consulte [Documentação do produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Extração de metadados de documentos para arquivos **DOTX** via APIs Python fornece uma maneira estruturada de gerenciar arquivos de modelo modernos lendo propriedades como título do modelo, detalhes de autoria e histórico de atualizações. Isso melhora a governança e garante que a geração de documentos permaneça consistente e alinhada com as políticas.
+
+
+
+Nos pipelines de automação, os metadados do DOTX são úteis para resolução de modelos, fluxos de aprovação e controles de ciclo de vida—possibilitando operações de modelo escaláveis que reduzem verificações manuais e desvios de configuração.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Descoberta e Pesquisa de Modelos**
+
+  Extrair metadados do DOTX para tornar os modelos pesquisáveis por finalidade, departamento ou tipo de documento pretendido.
+
+
+
+* **Rastreamento de Status de Aprovação**
+
+  Usar propriedades personalizadas para rastrear se um modelo está em rascunho, aprovado ou obsoleto.
+
+
+
+* **Mapeamento de Propriedade de Propriedade de Modelo**
+
+  Identificar mantenedores e autores para encaminhar solicitações de atualização e tarefas de responsabilidade.
+
+
+
+* **Garantia de Consistência para Documentos Gerados**
+
+  Validar se os fluxos de trabalho estão usando o modelo DOTX correto com base em identificadores de metadados.
+
+
+
+* **Governança de Alteração de Modelo**
+
+  Monitorar o histórico de modificações para detectar edições inesperadas em modelos controlados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Registro de Modelo Orientado por Metadados**
+
+  Ingerir automaticamente metadados do DOTX em um serviço de registro usado por sistemas de geração de documentos.
+
+
+
+* **Pipeline de Execução de Obsolescência**
+
+  Encaminhar modelos DOTX obsoletos para um arquivo e impedir o uso com base em indicadores de metadados.
+
+
+
+* **Verificações Automatizadas de QA de Modelo**
+
+  Executar validações que garantam que as propriedades DOTX necessárias existam e correspondam aos padrões organizacionais antes do lançamento.
+
+
+
+* **Roteamento de Fluxo de Trabalho de Atualização de Modelo**
+
+  Quando os metadados do DOTX indicam uma alteração, criar automaticamente tarefas de revisão para o mantenedor designado.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT 是一种用于结构化文本文档的开放文档格式。拆分 ODT 文件可以实现分节处理和结构化内容处理。
+
+
+
+使用 Python API，ODT 拆分变得可扩展，并适用于自动化文档流程。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **结构化内容提取**  
+
+  提取独立的章节或部分。
+
+
+
+* **开放格式存档**  
+
+  在粒度级别保留和管理内容。
+
+
+
+* **协作文档处理**  
+
+  在文档部分上启用并行工作流。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **基于 XML 的部分解析**  
+
+  Python 识别用于拆分的结构标记。
+
+
+
+* **自动化内容分类**  
+
+  提取的部分按程序分类。
+
+
+
+* **面向工作流的文档路由**  
+
+  部分自动流向不同系统。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

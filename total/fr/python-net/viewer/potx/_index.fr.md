@@ -89,7 +89,73 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'affichage des fichiers POTX à l'aide des API Python permet d'inspecter les modèles de présentation modernes utilisés dans la génération automatique de diapositives.
+
+Cela prend en charge des flux de travail de présentation évolutifs basés sur des modèles.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Inspection de modèles modernes**  
+
+&nbsp; Afficher les masques de diapositives et les mises en page.
+
+
+
+* **Vérification de la cohérence de la marque**  
+
+&nbsp; Assurer que les modèles respectent les normes de présentation.
+
+
+
+* **Validation de la préparation à l'automatisation**  
+
+&nbsp; Inspecter les modèles avant utilisation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Pipelines de déploiement de modèles**  
+
+&nbsp; Les fichiers POTX sont rendus avant le déploiement.
+
+
+
+* **Systèmes de présentation automatisés**  
+
+&nbsp; La visualisation garantit que les modèles fonctionnent correctement.
+
+
+
+* **Flux de travail d'assurance qualité**  
+
+&nbsp; Les modèles sont validés de manière programmable.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

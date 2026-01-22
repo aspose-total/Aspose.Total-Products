@@ -100,7 +100,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การวิเคราะห์ **เอกสาร PDF** ด้วย Python APIs ช่วยให้สามารถสกัดข้อความและข้อมูลเค้าโครงร่างจากรูปแบบเลเยอร์คงที่ที่ใช้กันอย่างแพร่หลาย ไฟล์ PDF เป็นไฟล์ที่พบบ่อยในรายงาน ใบแจ้งหนี้ และบันทึกทางการ.
+
+
+
+การวิเคราะห์ PDF อัตโนมัติช่วยปลดล็อคเนื้อหาที่ไม่สามารถแก้ไขได้สำหรับการวิเคราะห์ การค้นหา และการรวมระบบโดยไม่ต้องมีการแทรกแซงด้วยมือ.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **การสกัดข้อมูลจากรายงาน**  
+
+&nbsp; ดึงข้อมูลข้อความจากรายงาน PDF แบบคงที่.
+
+
+
+* **การประมวลผลเก็บถาวรเอกสาร**  
+
+&nbsp; แปลง PDF เป็นข้อความที่สามารถค้นหาและทำดัชนี.
+
+
+
+* **ระบบการค้นหาข้อมูล**  
+
+&nbsp; เปิดโอกาสให้ค้นพบเนื้อหาในคอลเลกชันขนาดใหญ่ของ PDF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การนำเข้า PDF ตามกำหนดเวลา**  
+
+&nbsp; ประมวลผล PDF ที่เข้ามาโดยอัตโนมัติตามระยะเวลาที่กำหนด.
+
+
+
+* **การประมวลผลข้อความเป็นลำดับมาตรฐาน**  
+
+&nbsp; ทำความสะอาดและมาตรฐานข้อความ PDF ที่สกัดได้โดยโปรแกรม.
+
+
+
+* **การเปิดใช้งานการวิเคราะห์ล่าสุด**  
+
+&nbsp; นำเนื้อหา PDF ที่วิเคราะห์ได้เข้าสู่การทำงานทางวิเคราะห์หรือการทำงานด้าน Machine Learning.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

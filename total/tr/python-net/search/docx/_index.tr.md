@@ -76,7 +76,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri kullanarak **DOCX** dosyalarını aramak, yapılandırılmış ve modern kelime işlem belgelerine güvenilir erişim sağlar. DOCX dosyaları zengin metin, başlıklar, tablolar ve meta veriler içerir ve programatik olarak analiz edilerek gelişmiş arama ve geri alma işlemleri için kullanılabilir.
+
+
+
+Otomasyona uygun DOCX arama, ölçeklenebilir içerik yönetimi, bilgi çıkarma ve akıllı belge işleme işlemlerini destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Yapılandırılmış Metin Araması**  
+
+&nbsp; Başlıklar, paragraflar ve tablolar arasında hassas arama yapılmasını sağlar.
+
+
+
+* **Meta Veri Tabanlı Keşif**  
+
+&nbsp; Arama doğruluğunu artırmak için belge özelliklerini kullanır.
+
+
+
+* **Bilgi Tabanı Oluşturma**  
+
+&nbsp; DOCX içeriğini aranabilir bilgi varlıklarına dönüştürür.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Sürekli DOCX İndeks Güncellemeleri**  
+
+&nbsp; Python hizmetleri yeni veya güncellenmiş DOCX dosyalarını izler ve indeksler.
+
+
+
+* **Otomatik İçerik Sınıflandırma**  
+
+&nbsp; DOCX belgeleri içeriğe dayalı olarak programatik olarak kategorilere ayrılır.
+
+
+
+* **DOCX İş Akışı Entegrasyonu**  
+
+&nbsp; Arama sonuçları dinamik olarak panoları ve içerik sistemlerini destekler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

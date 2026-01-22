@@ -79,7 +79,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Slides for Python via 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kết hợp các định dạng mẫu PowerPoint bằng cách sử dụng Python APIs đảm bảo thiết kế, bố cục và nhận diện thương hiệu nhất quán trên các bài thuyết trình. Mẫu là trung tâm của quá trình sản xuất slide chuẩn.
+
+
+
+Tự động hóa cho phép tạo ra các bài thuyết trình đồng nhất một cách nhanh chóng và quy mô lớn.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tổ Chức Bài Thuyết Trình Dựa Trên Mẫu (POT)**  
+
+&nbsp; Kết hợp các tệp dựa trên POT để thúc đẩy bố cục nhất quán.
+
+
+
+* **Tạo Bài Thuyết Trình Chuẩn Hóa (POT)**  
+
+&nbsp; Kết hợp các bài thuyết trình dựa trên mẫu thành một bộ.
+
+
+
+* **Quản Lý Thiết Kế Có Thể Tái Sử Dụng (POT)**  
+
+&nbsp; Tổng hợp các tệp POT để tạo kiểu trang trí slide đồng nhất.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Ứng Dụng Mẫu Tự Động (POT)**  
+
+&nbsp; Các tệp POT được kết hợp trong quá trình tạo bài thuyết trình.
+
+
+
+* **Xử Lý Mẫu Theo Lô (POT)**  
+
+&nbsp; Công việc được lên lịch để kết hợp các bộ dựa trên mẫu.
+
+
+
+* **Tự Động Hóa Được Kiểm Soát Thiết Kế (POT)**  
+
+&nbsp; Hệ thống kết hợp các tệp POT để đảm bảo nhất quán về nhận diện thương hiệu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

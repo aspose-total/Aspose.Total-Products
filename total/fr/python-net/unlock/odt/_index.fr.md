@@ -72,7 +72,75 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Les fichiers ODT sont largement utilisés dans les flux de travail de documents ouverts, et les déverrouiller garantit un accès complet au contenu textuel protégé. Cette capacité est essentielle pour les processus d'analyse, de migration et d'examen axés sur la conformité.
+
+
+
+En utilisant les API Python, le déverrouillage des ODT peut être intégré dans des pipelines de documents automatisés, garantissant ainsi la cohérence et l'efficacité à travers les systèmes.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Extraction de contenu structuré**  
+
+  &nbsp; Permet l'accès aux sections verrouillées pour l'analyse et l'extraction de données.
+
+
+
+* **Support d'examen réglementaire**  
+
+  &nbsp; Permet l'inspection des documents protégés lors de vérifications automatisées de conformité.
+
+
+
+* **Migration vers un format ouvert**  
+
+  &nbsp; Prend en charge la conversion des fichiers ODT sécurisés en sorties standardisées.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Balayages de conformité automatisés**  
+
+  &nbsp; Les fichiers ODT sont déverrouillés lors d'inspections réglementaires planifiées.
+
+
+
+* **Pipelines d'intelligence documentaire**  
+
+  &nbsp; Le déverrouillage permet l'analyse sémantique et les tâches de classification.
+
+
+
+* **Mises à jour continues du contenu**  
+
+  &nbsp; Les fichiers protégés sont déverrouillés automatiquement pour des révisions contrôlées.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

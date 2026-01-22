@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Znakowanie wodne **arkuszy kalkulacyjnych ODS** za pomocą interfejsów API w języku Python poprawia kontrolę nad arkuszami kalkulacyjnymi, dodając widoczne etykiety zarządzania dotyczące własności, poufności i dystrybucji.
+
+Automatyzacja znakowania wodnego ODS wspiera skalowalne przepływy pracy raportowej, zapewniając spójne wskaźniki polityki wśród zestawów danych udostępnianych w otwartych formatach.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+
+
+* **Oznakowanie arkusza z danymi poufnymi**  
+
+&nbsp; Oznaczaj poufne pliki ODS, aby zmniejszyć ryzyko przypadkowego udostępniania zewnętrznego.
+
+
+
+* **Etykiety danych wstępnych**  
+
+&nbsp; Dodawaj nakładki „NIEZWERYFIKOWANE” podczas wstępnych cykli walidacji danych.
+
+
+
+* **Powiadomienia o użytkowaniu danych przez partnerów**  
+
+&nbsp; Dodaj widoczne powiadomienia, które wyjaśniają licencjonowanie i ograniczenia dotyczące ponownego wykorzystania.
+
+
+
+* **Wsparcie dla śladu audytu wewnętrznego**  
+
+&nbsp; Znakuj eksporty, aby było oczywiste, który system wygenerował dany zestaw danych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Znakowanie eksportu ETL**  
+
+&nbsp; Automatycznie oznaczaj pliki ODS generowane z automatycznych potoków danych.
+
+
+
+* **Tekst znaku wodnego zależny od roli**  
+
+&nbsp; Dostosuj treść znaku wodnego w zależności od zespołu odbiorczego lub poziomu dostępu.
+
+
+
+* **Kontrole dystrybucji raportów z harmonogramem**  
+
+&nbsp; Dodawaj znaki wodne z oznaczeniem czasu przed wysłaniem okresowych raportów ODS.
+
+
+
+* **Automatyczne oznakowanie zgodne z polityką retencji**  
+
+&nbsp; Dodaj wizualne etykiety retencji, aby wspierać automatyzację cyklu życia przechowywanych arkuszy kalkulacyjnych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+קבצי ODP נמצאים בשימוש נרחב לזרימות עבודה של הצגות בתקן פתוח. הגנה על קבצי ההצגה הללו מבטיחה שהתוכן הוויזואלי וההודעות יישארו בלתי נפגעים במהלך שיתוף ושיתוף פעולה.
+
+
+
+עם API של Python, ניתן להגן על ההצגות בפורמט ODP באופן אוטומטי, מאפשר טיפול מאובטח במערכות יצירת ומסירת הצגות בקנה מידה.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **הגנת תקינות ההצגה**  
+
+  &nbsp; מניעת שינויים לא מורשים בשקופיות ובפריסות.
+
+
+
+* **שיחות סודיות**  
+
+  &nbsp; הגנה על הצגות רגישות לפני שיתוף פנים או חיצוני.
+
+
+
+* **ממשק תקני למנהל ההצגה**  
+
+  &nbsp; החלת כללי הגנה עקביים בקבצי ODP כולם.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **הגנת מצגות באופן אוטומטי**  
+
+  &nbsp; הגנה על קבצי ODP מיד לאחר יצירה אוטומטית.
+
+
+
+* **אכיפת אבטחה על בסיס צינור**  
+
+  &nbsp; החלת הגנה במהלך זרימות עבודה בסגנון CI/CD.
+
+
+
+* **הגבלות גישה תכנותיות**  
+
+  &nbsp; בקרת זכויות עריכה וצפייה באופן דינמי דרך סקריפטים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

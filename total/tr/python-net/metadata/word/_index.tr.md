@@ -98,7 +98,93 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri aracılığıyla **Word** dosyaları için belge meta verilerinin çıkarılması, başlık, yazar, zaman damgaları ve özel alanlar gibi temel özelliklerin programatik olarak yakalanmasını sağlar—bu da yönetimi destekler, arama zenginleştirmesini sağlar ve yaşam döngüsü yönetimini destekler. Bu, manuel incelemenin ölçeklenemediği belge ağırlıklı operasyonlar için esastır.
+
+
+
+Otomasyon sistemlerine bağlandığında, Word meta verileri yönlendirme, doğrulama ve dizinleme için güvenilir bir katman haline gelir—modern iş akışlarının daha hızlı çalışmasına, standartların tutarlı bir şekilde uygulanmasına ve depolama, arama ve raporlama hizmetleriyle sorunsuz entegrasyonuna yardımcı olur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Durumları" %}}
+
+
+
+* **Kurumsal Belge Dizinleme**
+
+&nbsp; Hızlı arama ve tutarlı organizasyonu destekleyen katalogları doldurmak için meta verileri çıkarın.
+
+
+
+* **Politika Uyumluluk Doğrulaması**
+
+&nbsp; Belgelerin kontrol edilen depolara veya yayınlama akışlarına girebilmeden önce gerekli meta veri alanlarının varlığını doğrulayın.
+
+
+
+* **Sahiplik ve Sorumluluk Eşleştirme**
+
+&nbsp; İnceleme ve bakım için sorumlulukları atamak için yazarlık ve düzenleyici özellikleri kullanın.
+
+
+
+* **Yaşam Döngüsü ve Saklama Yönetimi**
+
+&nbsp; Saklama ve arşivleme kararlarını otomatikleştirmek için oluşturma ve değiştirme zaman damgalarını kullanın.
+
+
+
+* **Operasyonel Analitik ve İçgörüler**
+
+&nbsp; Word belgeleri arasında meta verileri toplayarak eskiliği, kapsama boşluklarını ve işlem darboğazlarını ortaya çıkarın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Meta Veri-Odaklı Belge Yönlendirme**
+
+&nbsp; Meta veri eşikleri ve eksiksizlik kurallarına dayanarak Word dosyalarını otomatik olarak inceleme, onay veya arşiv şeritlerine yönlendirin.
+
+
+
+* **Otomatik Katalog Senkronizasyonu**
+
+&nbsp; Word meta verilerini bir zamanlama üzerinden çıkarın ve her zaman güncel keşif için iç dizinlere senkronize edin.
+
+
+
+* **Yönetişim İstisna İşleme**
+
+&nbsp; Eksik sahiplik, şüpheli zaman damgaları veya geçersiz alanları tespit edin ve otomatik olarak iyileştirme görevleri oluşturun.
+
+
+
+* **Programatik Yayınlama Hazırlığı**
+
+&nbsp; Word meta verilerini yayınlama alanlarını (başlıklar, özetler, kategoriler) önceden doldurmak ve çıktılarda tutarlılığı sağlamak için kullanın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

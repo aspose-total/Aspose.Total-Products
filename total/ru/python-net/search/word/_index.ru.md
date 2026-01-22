@@ -76,7 +76,75 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Поиск документов в формате **WORD** программно с использованием API Python обеспечивает единый доступ к текстовому контенту независимо от используемых вариантов файлов. Документы Word остаются центральным элементом документации, отчетности и операционных рабочих процессов в различных отраслях.
+
+
+
+Автоматизируя поиск документов Word, организации могут масштабировать интеллектуальный контент, сокращать ручные усилия и интегрировать информацию из документов в современные системы.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Единый поиск документов Word**  
+
+&nbsp; Обеспечивает последовательный поиск по нескольким файлам на основе Word.
+
+
+
+* **Извлечение текстовых знаний**  
+
+&nbsp; Преобразует содержимое документа в информацию, доступную для поиска.
+
+
+
+* **Обнаружение корпоративных документов**  
+
+&nbsp; Улучшает видимость в больших репозиториях документов Word.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированное обновление индекса Word**  
+
+&nbsp; Процессы на Python обеспечивают непрерывное обновление индексов поиска Word.
+
+
+
+* **Автоматизация проверки содержимого Word**  
+
+&nbsp; Программные проверки гарантируют полноту и точность содержимого.
+
+
+
+* **Интеграция Word в рабочий процесс**  
+
+&nbsp; Результаты поиска используются для автоматизации принятия решений и обработки.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

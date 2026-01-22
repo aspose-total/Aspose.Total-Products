@@ -78,7 +78,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+קבצי DOC משמשים בצורה רחבה לאחסון תוכן טקסטואלי מובנה בזרימות עבודה של מסמכים מורשים, ולכן הם חשובים לארגונים שמנהלים תיעוד היסטורי או תיעוד ארוך טווח. פיצול קבצי DOC מאפשר גישה ממוקדת לקטעים ספציפיים מבלי לעבד את כל המסמכים.
+
+
+
+שימוש ב- Python APIs לפיצול קבצי DOC משפר את האוטומציה על ידי אפשרות לקטע על בסיס כללים, חילוק תוכן יעיל, וצינורות עיבוד מסמכים נמצאים שמשתלבים עם מערכות מודרניות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **מודרניזציה של תוכן מורשה**  
+
+  &nbsp; חילוץ קטעים מקבצי DOC מאפשר להעביר מסמכים ישנים לתבניות מובנות או מודרניות.
+
+
+
+* **זרימות עבודה לסקירת קטעים**  
+
+  &nbsp; הפיצול מאפשר לבודקים לעבוד על חלקים בודדים של מסמכים גדולים באופן עצמאי.
+
+
+
+* **שימוש ושינוי תוכן**  
+
+  &nbsp; קטעים יחידים יכולים להיות משומשים במערכות מרובות בלי העתק-הדבק ידני.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **עיבוד קובצים מורשים בצורה צפופה**  
+
+  &nbsp; האוטומציה מפצלת אלפי קבצי DOC לחלקים מובנים למערכות זרות.
+
+
+
+* **חילוק קטעים על פי כללים**  
+
+  &nbsp; הלוגיקה ב-Python מזהה כותרות ומפצלת תוכן באופן אוטומטי בהתאם לתבניות.
+
+
+
+* **צינורות אינדקסציה לארכיון**  
+
+  &nbsp; הקטעים שחולצו מאוחסנים באופן תכנותי לחיפוש ולאחזור מהירים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

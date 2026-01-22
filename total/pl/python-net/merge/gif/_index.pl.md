@@ -85,7 +85,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Łączenie obrazów GIF za pomocą interfejsów API w języku Python pozwala na tworzenie jednolitych animacji lub skonsolidowanych sekwencji wizualnych. Jest to powszechnie stosowane do treści instruktażowych, wizualizacji monitorowania oraz lekkiej grafiki animowanej.
+
+
+
+Automatyzacja umożliwia spójne i powtarzalne tworzenie kompozycji GIF bez konieczności ręcznej edycji.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Montaż sekwencji animowanej (GIF)**  
+
+&nbsp; Łączenie wielu GIF-ów w jedną animację.
+
+
+
+* **Tworzenie wizualizacji instruktażowych (GIF)**  
+
+&nbsp; Łączenie krokowych GIF-ów w jedną wizualizację przewodnika.
+
+
+
+* **Agregacja zrzutów monitorowania (GIF)**  
+
+&nbsp; Konsolidacja zrzutów GIF do wizualizacji czasowej.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Generowanie animacji automatycznie (GIF)**  
+
+&nbsp; Systemy łączą GIF-y dynamicznie na podstawie zdarzeń.
+
+
+
+* **Aktualizacje wizualne oparte na procesach (GIF)**  
+
+&nbsp; Łączenie GIF-ów jest wyzwalane przez zmiany w procesie.
+
+
+
+* **Automatyczne potoki treści animowanej (GIF)**  
+
+&nbsp; Automatyczne potoki generują połączone wyjścia GIF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

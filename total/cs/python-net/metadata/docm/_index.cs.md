@@ -98,7 +98,93 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Extrakce metadat dokumentů pro soubory **DOCM** pomocí Python API pomáhá systémům kontrolovat vlastnosti dokumentů a zohledňovat makra a s nimi spojená riziková znamení. Toto je cenné pro správu, bezpečné zacházení a klasifikaci, zejména pokud se dokumenty přesouvají mezi týmy nebo prostředími.
+
+
+
+V automatizovaných pracovních postupech mohou metadata DOCM řídit dynamické kontroly - jako je bezpečnostní screening, podmíněné schválení a omezená distribuce - a zároveň umožňovat škálovatelné indexování a reporting bez interaktivního otevírání souborů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití případy" %}}
+
+
+
+* **Screening dokumentů s makry**
+
+  Použití metadat k označení dokumentů s makry pro další kontrolu a řízené zacházení.
+
+
+
+* **Klasifikace citlivých pracovních postupů**
+
+  Klasifikujte soubory DOCM na základě vložených vlastností pro uplatnění přísnějších politik ukládání a přístupu.
+
+
+
+* **Sledování operačního původu**
+
+  Zachytit pole historie autorství a úprav k zjištění, kde a kdy byly soubory s makry vytvořeny.
+
+
+
+* **Reportování stavu repozitáře**
+
+  Generovat zprávy o objemu, stáří a vlastnictví DOCM pro správu rizikové expozice ve velkém měřítku.
+
+
+
+* **Připravenost omezené distribuce**
+
+  Ověřte požadovaná pole metadat před povolením souborů DOCM do procesů sdílení nebo publikování níže.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Pipeline pro příjem s hodnocením rizika**
+
+  Automaticky hodnoťte soubory DOCM pomocí úplnosti a aktuálnosti metadat a poté je směrujte do „kontroly“ nebo „schválených“ pruhů.
+
+
+
+* **Vynucování omezeného ukládání**
+
+  Pokud je detekován soubor DOCM, automatizace ho přesune na omezené místo a uplatní přísnější pravidla uchovávání.
+
+
+
+* **Výjimečné upozornění na makra**
+
+  Spusťte upozornění, když metadata DOCM naznačují neočekávaný původ, neobvyklé časové razítko nebo chybějící pole vlastnictví.
+
+
+
+* **Automatizované inventární nástěnky**
+
+  Nepřetržitě extrahujte a agregujte metadata DOCM do nástěnek pro správu a operační dohled.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

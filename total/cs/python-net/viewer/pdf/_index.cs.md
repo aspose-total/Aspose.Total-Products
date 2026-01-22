@@ -82,7 +82,73 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Zobrazení PDF s Python API umožňuje konzistentní, zachování rozložení dokumentů napříč platformami.
+
+To je klíčové pro automatizované recenze, archivaci a dodržování pracovních postupů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Hodnocení finálního dokumentu**  
+
+&nbsp; Zobrazit dokumenty s pevným rozložením přesně tak, jak byly distribuovány.
+
+
+
+* **Konzezistence napříč platformami**  
+
+&nbsp; Zajistit, aby se dokumenty zobrazovaly identicky ve všech prostředích.
+
+
+
+* **Regulační inspekce**  
+
+&nbsp; Kontrola dokumentů připravených k dodržování předpisů bez úprav.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizované kontrola dodržování předpisů**  
+
+&nbsp; PDF jsou zobrazovány během ověřovacích a auditních pracovních postupů.
+
+
+
+* **Systémy generování náhledů**  
+
+&nbsp; Pythonové služby zobrazují PDF pro uživatelské náhledy.
+
+
+
+* **Ověření archivu**  
+
+&nbsp; Uložené dokumenty jsou pravidelně zobrazovány k potvrzení integrity.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

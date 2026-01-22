@@ -73,7 +73,75 @@ Có các tùy chọn thay thế để cài đặt '[Aspose.Slides for Python via
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Các tệp ODP được sử dụng cho các bài thuyết trình theo tiêu chuẩn mở chứa nhiều slide và thành phần hình ảnh. Chia tách các tệp ODP cho phép truy cập và tái sử dụng ở cấp độ slide.
+
+
+
+Tự động hóa bằng Python hỗ trợ việc chia tách ODP một cách hiệu quả để xử lý bài thuyết trình có thể mở rộng và tái sử dụng nội dung.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tái Sử Dụng Ở Cấp Độ Slide**  
+
+&nbsp; Các slide cá nhân có thể được trích xuất và tái sử dụng trên các bộ slide.
+
+
+
+* **Phân Tích Nội Dung Bài Thuyết Trình**  
+
+&nbsp; Phân tích các slide một cách độc lập để tìm cấu trúc hoặc siêu dữ liệu.
+
+
+
+* **Chỉnh Sửa Đồng Tác**  
+
+&nbsp; Các nhóm làm việc trên các bộ slide cô lập.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Trích Xuất Slide Tự Động**  
+
+&nbsp; Kịch bản Python chia tách slide theo cách lập trình.
+
+
+
+* **Tổ Hợp Bài Thuyết Trình Động**  
+
+&nbsp; Các slide được tổ hợp lại dựa trên các quy tắc chạy.
+
+
+
+* **Hệ Thống Lưu Trữ Bài Thuyết Trình**  
+
+&nbsp; Các slide được lập chỉ mục một cách riêng lẻ để truy xuất.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

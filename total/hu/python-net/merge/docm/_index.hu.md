@@ -78,7 +78,75 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A makrókat használó Word-dokumentumok összevonása Python API-k segítségével strukturált dokumentumösszeállítást tesz lehetővé, miközben megőrzi az ágyazott logikát és az előrehaladott dokumentumviselkedést. Ez alapvető fontosságú vállalati környezetekben, ahol a dokumentumok automatizálást, űrlapokat vagy kiszámított mezőket tartalmaznak.
+
+
+
+Az automatizált DOCM-összevonás támogatja a skálázható dokumentumfolyamatokat, ahol a logikát tartalmazó fájlokat megbízhatóan kombinálják kézi beavatkozás nélkül, biztosítva ezzel az üzleti folytonosságot és hatékonyságot.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Makró alapú sablonösszeállítás (DOCM)**  
+
+&nbsp; Több makrókat használó dokumentum összevonása egyetlen végrehajtható dokumentumba.
+
+
+
+* **Üzemeltetési dokumentumok összecsomagolása (DOCM)**  
+
+&nbsp; Az egyes részlegek által használt DOCM fájlok egyesítése egységes üzemeltetési fájlokká.
+
+
+
+* **Folyamatdokumentáció konszolidációja (DOCM)**  
+
+&nbsp; A DOCM-alapú utasításokat és eszközöket egyetlen ellenőrzött dokumentumba egyesítik.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Automatizált szabályozási fájlgenerálás (DOCM)**  
+
+&nbsp; Rendszerek automatikusan összevonják a DOCM fájlokat a megfelelőségi dokumentumok előállításához.
+
+
+
+* **Szabályvezérelt dokumentumösszeállítás (DOCM)**  
+
+&nbsp; A DOCM fájlokat dinamikusan összevonják a munkafolyamat-szabályok alapján.
+
+
+
+* **Háttérvezérelt makró megőrzése (DOCM)**  
+
+&nbsp; Az automatizált csővezetékek összevonják a DOCM fájlokat, miközben megőrzik az ágyazott logikát.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

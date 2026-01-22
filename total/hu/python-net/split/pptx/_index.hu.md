@@ -73,7 +73,75 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTX egy modern, XML-alapú bemutató formátum, amelyet strukturált dia tartalomra terveztek. A PPTX fájlok felosztása lehetővé teszi a dia szintű adatok finom szabályozását.
+
+
+
+A Python-alapú automatizálás megbízható, skálázható és formátumérzékeny PPTX feldolgozást támogat.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* **Dia-Szintű Tartalomkezelés**  
+
+  Manage individual slides as independent units.
+
+
+
+* **Automatizált Prezentáció Testreszabás**  
+
+  Create tailored presentations from extracted slides.
+
+
+
+* **Prezentációs Elemzés**  
+
+  Analyze slide content programmatically.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* **XML-érzékeny Diaelemzés**  
+
+  Python szkriptek pontosan kinyerik a diákat.
+
+
+
+* **Szabályalapú Prezentáció Összeállítás**  
+
+  A diák dinamikusan összeállítva.
+
+
+
+* **Automatizált Felülvizsgálati Folyamatok**  
+
+  A diák függetlenül ellenőrzött.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

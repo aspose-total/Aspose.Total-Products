@@ -79,7 +79,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT هو تنسيق مستند مفتوح مصمم للمستندات النصية المهيكلة. يمكن تقسيم ملفات ODT لتمكين معالجة مستوى القسم والتعامل مع المحتوى المهيكل.
+
+
+
+باستخدام واجهات برمجة التطبيقات في Python، يمكن جعل تقسيم ODT قابلاً للتوسيع ومناسب لخطوط الأنابيب الآلية للمستندات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **استخراج المحتوى المهيكل**  
+
+&nbsp; استخراج الفصول أو الأقسام بشكل مستقل.
+
+
+
+* **أرشفة بتنسيق مفتوح**  
+
+&nbsp; الحفاظ على المحتوى وإدارته على مستوى دقيق.
+
+
+
+* **معالجة المستندات التعاونية**  
+
+&nbsp; تمكين سير العمل المتوازي على أقسام المستند.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **تحليل الأقسام بناءً على XML**  
+
+&nbsp; يحدد Python علامات الهيكلية للتقسيم.
+
+
+
+* **تصنيف المحتوى الآلي**  
+
+&nbsp; تصنيف الأقسام المستخرجة بشكل برمجي.
+
+
+
+* **توجيه المستندات بناءً على سير العمل**  
+
+&nbsp; تتدفق الأقسام إلى أنظمة مختلفة تلقائيًا.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,75 @@ Para obter mais detalhes, consulte [Documentação do produto](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Os arquivos PDF são amplamente utilizados para documentos de layout fixo nos quais o conteúdo é distribuído em várias páginas. A divisão de PDFs permite o acesso ao nível da página ou da seção sem modificar o arquivo original.
+
+
+
+A divisão de PDFs orientada por Python aprimora a automação, permitindo o processamento em grande escala, extração seletiva e integração com pipelines de documentos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Extração ao Nível da Página**  
+
+&nbsp; Isolar páginas específicas para revisão ou distribuição.
+
+
+
+* **Segmentação de Documentos**  
+
+&nbsp; Dividir PDFs grandes em seções lógicas.
+
+
+
+* **Tratamento de Conformidade e Auditoria**  
+
+&nbsp; Extrair partes relevantes para verificação.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Pipelines de Processamento em Lote de PDFs**  
+
+&nbsp; Milhares de PDFs são divididos automaticamente.
+
+
+
+* **Separação de Páginas com Base em Regras**  
+
+&nbsp; Lógica em Python divide PDFs usando regras de página.
+
+
+
+* **Distribuição Automatizada de Conteúdo**  
+
+&nbsp; PDFs extraídos são encaminhados para sistemas de destino.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

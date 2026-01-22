@@ -79,7 +79,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOC文件广泛用于在传统文档工作流程中存储结构化文本内容，对于管理历史性或长期文档的组织非常重要。拆分DOC文件可以实现对特定部分的有针对性访问，而无需处理整个文档。
+
+
+
+利用Python API拆分DOC文件可通过启用基于规则的分段、高效内容提取以及可扩展的文档处理流程来改进自动化，从而与现代系统集成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **传统内容现代化**  
+
+&nbsp; 从DOC文件中提取部分可将旧文档迁移到结构化或现代格式。
+
+
+
+* **基于部分的审阅工作流程**  
+
+&nbsp; 拆分使审阅者能够独立处理大型文档的各个部分。
+
+
+
+* **内容重用和再利用**  
+
+&nbsp; 可以在多个系统中重复使用各个部分，无需手动复制粘贴。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量处理传统文件**  
+
+&nbsp; 自动化将数千个DOC文件拆分为结构化段，以供下游系统使用。
+
+
+
+* **基于规则的部分提取**  
+
+&nbsp; Python逻辑识别标题并根据模式自动拆分内容。
+
+
+
+* **存档索引流水线**  
+
+&nbsp; 提取的部分通过程序化方式进行索引，以实现更快的搜索和检索。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Файлы ODP используются для презентаций в открытом стандарте, содержащих несколько слайдов и визуальных компонентов. Разделение файлов ODP обеспечивает доступ и повторное использование на уровне слайдов.
+
+
+
+Автоматизация на Python поддерживает эффективное разделение ODP для масштабной обработки презентаций и повторного использования контента.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Повторное использование на уровне слайдов**  
+
+  &nbsp; Отдельные слайды могут быть извлечены и использованы в различных презентациях.
+
+
+
+* **Анализ содержимого презентации**  
+
+  &nbsp; Анализ слайдов независимо для структуры или метаданных.
+
+
+
+* **Совместное редактирование**  
+
+  &nbsp; Команды работают над изолированными наборами слайдов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированное извлечение слайдов**  
+
+  &nbsp; Сценарии Python разделяют слайды программно.
+
+
+
+* **Динамическое сборка презентации**  
+
+  &nbsp; Слайды объединяются на основе правил выполнения.
+
+
+
+* **Системы архивирования презентаций**  
+
+  &nbsp; Слайды индексируются индивидуально для извлечения.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

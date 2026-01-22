@@ -73,7 +73,75 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODP-Dateien werden für Präsentationen im Open-Standard verwendet, die mehrere Folien und visuelle Komponenten enthalten. Das Aufteilen von ODP-Dateien ermöglicht den Zugriff und die Wiederverwendung auf Folien-Ebene.
+
+
+
+Die Python-Automatisierung unterstützt effizientes Aufteilen von ODP-Dateien für skalierbare Präsentationsverarbeitung und Inhalts-Wiederverwendung.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Wiederverwendung auf Folien-Ebene**  
+
+  Individualfolien können extrahiert und in verschiedenen Präsentationen wiederverwendet werden.
+
+
+
+* **Analyse des Präsentationsinhalts**  
+
+  Folien können unabhängig auf Struktur oder Metadaten analysiert werden.
+
+
+
+* **Kollaboratives Bearbeiten**  
+
+  Teams arbeiten an isolierten Folien-Sets.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Automatisierte Folienextraktion**  
+
+  Python-Skripte teilen Folien programmgesteuert auf.
+
+
+
+* **Dynamische Präsentationszusammenstellung**  
+
+  Folien werden basierend auf Laufzeitregeln neu kombiniert.
+
+
+
+* **Präsentationsarchivierungssysteme**  
+
+  Folien werden einzeln indiziert, um abgerufen zu werden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

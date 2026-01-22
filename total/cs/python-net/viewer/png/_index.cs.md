@@ -82,7 +82,73 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Zobrazení PNG pomocí Python API podporuje vysoce kvalitní, ztrátové vykreslování obrázků s transparentní manipulací.
+
+Toto je ideální pro automatizační scénáře vyžadující vizuální přesnost a flexibilní integraci obrázků.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Hodnocení obrázků bez ztráty kvality**  
+
+&nbsp; Zobrazování obrázků bez artefaktů komprese.
+
+
+
+* **Inspekce transparentních prvků**  
+
+&nbsp; Přesné zkoumání obrázků s alfa kanály.
+
+
+
+* **Validace UI prvků**  
+
+&nbsp; Hodnocení vizuálních prvků používaných v aplikacích nebo dokumentech.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizace Asset Pipeline**  
+
+&nbsp; Python skripty vykreslují PNG soubory během sestavení nebo kontrol nasazení.
+
+
+
+* **Dynamické náhledové služby**  
+
+&nbsp; Obrázky jsou automaticky zobrazovány na nástěnkách nebo nástrojích.
+
+
+
+* **Testování vizuální regrese**  
+
+&nbsp; Automatizované zobrazení podporuje porovnávací a validační postupy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

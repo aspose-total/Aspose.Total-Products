@@ -72,7 +72,75 @@ DOC 보호 관리 앱 또는 유틸리티를 개발해야 합니까?[Aspose.Tota
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+프로그래밍 방식으로 DOC 파일을 잠금 해제하면 아카이브, 기업 및 규제 시스템 전반에 여전히 존재하는 레거시 워드 프로세싱 문서에 액세스할 수 있습니다. 이러한 파일에 제어된 액세스를 얻으면 조직은 콘텐츠를 복구하고 준수를 강제하며 역사적 문서를 현대화할 수 있습니다.
+
+
+
+Python API를 사용하여 DOC 잠금 해제를 자동화하면 대규모로 수행할 수 있으며, 수집 파이프라인에 통합되어 수동 개입 없이 문서 처리 워크플로에 통합될 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **레거시 문서 복구**  
+
+&nbsp; 오래된 보호된 문서에서 콘텐츠를 추출하고 재사용할 수 있도록 합니다.
+
+
+
+* **준수 감사**  
+
+&nbsp; 감사나 법적 발견 프로세스 중에 잠금된 파일을 통제된 검토를 지원합니다.
+
+
+
+* **콘텐츠 이전**  
+
+&nbsp; 보호된 DOC 파일을 현대적인 형식으로 안전하게 변환하여 하류 시스템에 활용할 수 있도록 합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 아카이브 처리**  
+
+&nbsp; 예약된 아카이브 스캔 중에 대량의 DOC 파일을 자동으로 잠금 해제하는 작업입니다.
+
+
+
+* **정책 기반 액세스 파이프라인**  
+
+&nbsp; 액세스 규칙 및 문서 메타데이터에 기반하여 자동으로 잠금 해제가 트리거됩니다.
+
+
+
+* **자동 형식 표준화**  
+
+&nbsp; 잠금 해제된 파일은 프로그래밍 방식으로 변환되어 검색 플랫폼에 색인화됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

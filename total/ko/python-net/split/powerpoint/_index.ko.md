@@ -73,7 +73,75 @@ POWERPOINT 파일을 쉽게 분할하기 위해 Python 스크립트 또는 유�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PowerPoint 파일은 프레젠테이션 및 보고서에서 사용되는 슬라이드 기반의 시각적 콘텐츠를 저장합니다. PowerPoint 파일을 분할하면 개별 슬라이드 또는 슬라이드 그룹에 대한 세밀한 액세스가 가능해집니다.
+
+
+
+파이썬 기반의 자동화를 통해 현대적인 워크플로우에서 프레젠테이션 콘텐츠를 확장 가능하게 조작할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **프레젠테이션 간 슬라이드 재사용**  
+
+&nbsp; 새 덱에서 재사용을 위해 슬라이드 추출하기.
+
+
+
+* **프레젠테이션 콘텐츠 관리**  
+
+&nbsp; 슬라이드를 대규모로 독립적으로 관리하기.
+
+
+
+* **검토 및 승인 워크플로우**  
+
+&nbsp; 이해관계자에게 관련 있는 슬라이드만 공유하기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동 슬라이드 분할**  
+
+&nbsp; 파이썬 스크립트가 덱을 슬라이드 단위로 분할합니다.
+
+
+
+* **동적 덱 생성**  
+
+&nbsp; 규칙에 따라 슬라이드를 조합합니다.
+
+
+
+* **프레젠테이션 버전 관리 시스템**  
+
+&nbsp; 슬라이드 수준에서 변경 사항을 자동으로 추적합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

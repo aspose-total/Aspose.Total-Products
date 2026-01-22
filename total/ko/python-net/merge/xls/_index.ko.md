@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 Excel 및 스프레드시트 문서를 병합하는 것은 여러 원본에서 구조화된 데이터를 단일하고 분석 가능한 파일로 통합하는 데 필수적입니다. 이 기능은 데이터가 여러 스프레드시트에 분산되어 있는 보고서, 분석, 금융 및 운영 시스템에서 널리 사용됩니다.
+
+
+
+자동화된 스프레드시트 병합은 일관된 데이터 처리를 가능하게 하며 수동 오류를 줄이고 스케일 가능한 데이터 및 처리 파이프라인에 스프레드시트 워크플로우를 직접 통합합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **레거시 스프레드시트 통합 (XLS)**  
+
+  &nbsp; 이전 XLS 파일을 통합 분석을 위한 단일 워크북으로 병합합니다.
+
+
+
+* **부서별 데이터 집계 (XLS)**  
+
+  &nbsp; 여러 팀의 XLS 스프레드시트를 하나의 마스터 파일로 병합합니다.
+
+
+
+* **역사적 데이터 통합 (XLS)**  
+
+  &nbsp; 보고 및 이관을 위해 보관된 XLS 데이터를 통합합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **정기적 데이터 롤업 (XLS)**  
+
+  &nbsp; 자동화된 작업이 주기적으로 XLS 파일을 통합 보고서로 병합합니다.
+
+
+
+* **백엔드 데이터 정규화 (XLS)**  
+
+  &nbsp; 시스템이 데이터 정리 워크플로의 일부로 XLS 파일을 병합합니다.
+
+
+
+* **파이프라인 기반 스프레드시트 어셈블리 (XLS)**  
+
+  &nbsp; ETL 파이프라인에서 프로그래밍 방식으로 XLS 병합이 트리거됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

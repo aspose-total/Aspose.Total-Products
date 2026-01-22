@@ -90,7 +90,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API查看DOT文件可以检查用作标准化内容创建基础的Word文档模板。
+
+这使得可以自动验证和管理基于模板的文档工作流。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **模板结构审查**  
+
+  查看嵌入在Word模板中的预定义样式和占位符。
+
+
+
+* **标准化执行**  
+
+  检查模板以确保格式和布局的一致性。
+
+
+
+* **预部署验证**  
+
+  在将模板分发到系统之前进行审查。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **模板合规性检查**  
+
+  Python工作流程呈现DOT文件以验证格式规则。
+
+
+
+* **自动化模板审计**  
+
+  定期查看模板以检测未经授权的更改。
+
+
+
+* **文档生成流水线**  
+
+  查看确保模板已准备好用于自动化文档创建。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

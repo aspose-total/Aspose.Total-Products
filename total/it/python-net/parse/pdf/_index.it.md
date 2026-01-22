@@ -100,7 +100,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Parsing **documenti PDF** con API Python consente l'estrazione di testo e informazioni di layout da un formato a layout fisso ampiamente utilizzato. I PDF sono comuni nei report, nelle fatture e nei documenti ufficiali.
+
+
+
+Il parsing automatizzato dei PDF sblocca i contenuti non modificabili per l'analisi, la ricerca e l'integrazione di sistema senza intervento manuale.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Estrazione dati dai report**  
+
+  &nbsp; Recupera contenuti testuali da report PDF statici.
+
+
+
+* **Elaborazione archivistica dei documenti**  
+
+  &nbsp; Converte i PDF in testo cercabile e indicizzabile.
+
+
+
+* **Sistemi di recupero delle informazioni**  
+
+  &nbsp; Consente la scoperta dei contenuti all'interno di grandi collezioni di PDF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Ingestione programmata dei PDF**  
+
+  &nbsp; Elabora automaticamente i PDF in arrivo con una cadenza fissa.
+
+
+
+* **Pipeline di normalizzazione del testo**  
+
+  &nbsp; Pulisce e standardizza il testo PDF estratto in modo programmato.
+
+
+
+* **Abilitazione dell'analisi downstream**  
+
+  &nbsp; Alimenta i contenuti PDF analizzati nei flussi di lavoro di analisi o ML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

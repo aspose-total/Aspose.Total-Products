@@ -75,7 +75,93 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri aracılığıyla **PPT** dosyaları için belge meta verilerinin çıkarılması, yazar, zaman damgaları ve açıklayıcı alanlar gibi özelliklerin okunmasıyla eski sunum varlıklarının yönetilmesini sağlar. Bu, hala eski slayt kütüphanelerini koruyan kuruluşlar için yönetişimi ve keşfedilebilirliği destekler.
+
+
+
+Otomatik iş akışlarında, PPT meta verileri sınıflandırmayı, dizinlemeyi ve yaşam döngüsü kontrollerini destekleyebilir - bu da eski sunumların büyük koleksiyonlarının minimal manuel çaba ile düzenlenmesini, denetlenmesini ve taşınmasını sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Eski Slayt Kütüphanesi Denetimi**
+
+  Arşivlenmiş desteler arasındaki yaş, sahiplik ve bakım boşluklarını anlamak için PPT meta verilerini çıkarın.
+
+
+
+* **Taşınma Hazırlık Değerlendirmesi**
+
+  Hangi PPT destelerinin öncelikli olarak dönüştürülmesi veya güncellenmesi gerektiğini belirlemek için meta verileri kullanın.
+
+
+
+* **Sahiplik Temelli Bakım Yönlendirmesi**
+
+  Güncelleme isteklerini verimli bir şekilde yönlendirmek için yazar/editör alanlarından bakımcıları belirleyin.
+
+
+
+* **İçerik Portföyü Analitiği**
+
+  Kütüphane kapsamını, eskiliği ve işletme riskini ölçmek için PPT meta verilerini bir araya getirin.
+
+
+
+* **Yinelenen Varlık Tespiti**
+
+  Muhtemel yinelenenleri tespit etmek ve kütüphane karmaşasını azaltmak için meta veri desenlerini kullanın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Eski Destek Alma Boru Hattı**
+
+  PPT dosyalarını otomatik olarak alın, meta verileri çıkarın ve bunları standartlaştırılmış alanlara sahip bir envanter sistemine atayın.
+
+
+
+* **Dönüştürme Kuyruğu Otomasyonu**
+
+  Meta veri yaşına ve kullanım sınıflandırma kurallarına dayalı olarak PPT destelerini dönüştürme kuyruklarına ekleyin.
+
+
+
+* **Eskimiş Destek Bildirimi İş Akışı**
+
+  PPT meta verileri uzun süre güncellenmeyen veya eksik sahiplik alanları olan durumları gösterdiğinde uyarıları tetikleyin.
+
+
+
+* **Otomatik Kütüphane Temizleme İşleri**
+
+  Belirli aralıklarla PPT depolarını tarayın ve meta verilere dayalı olarak yinelenen veya yönetilmeyen varlıkları karantinaya alın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+دمج عروض الشرائح ذات التمكين الماكرو باستخدام واجهات برمجة التطبيقات في Python يدعم توصيل العروض التقديمية التفاعلية بشكل آلي. غالبًا ما يتم استخدام هذه الصيغ في بيئات مراقبة.
+
+
+
+التأكد من الحفاظ على الماكرو وسلوكيات العرض التقديمي أثناء الدمج.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تجميع العروض التقديمية التفاعلية (PPSM)**  
+
+&nbsp; دمج ملفات العروض التقديمية ذات التمكين الماكرو.
+
+
+
+* **عرض توضيحي آلي (PPSM)**  
+
+&nbsp; دمج ملفات PPSM للعروض التوضيحية الآلية.
+
+
+
+* **مجموعات تشغيل مراقبة (PPSM)**  
+
+&nbsp; تجميع ملفات PPSM للعروض التقديمية المحكمة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **إنشاء عروض تقديمية مدفوعة بالقواعد (PPSM)**  
+
+&nbsp; تدمج الأنظمة ملفات PPSM بناءً على قواعد منطقية.
+
+
+
+* **الحفاظ على الأتمتة الخلفية (PPSM)**  
+
+&nbsp; يحتفظ الدمج بالسلوكيات التفاعلية.
+
+
+
+* **إنشاء عروض توضيحية مجدولة (PPSM)**  
+
+&nbsp; يتم دمج العروض التقديمية تلقائيًا وفقًا لجداول زمنية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -98,7 +98,93 @@ Voor meer details verwijzen wij u naar [Productdocumentatie](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Document metadata extraction for **ODT**-bestanden via Python API's biedt programmatische toegang tot tekstdocumenteigenschappen, waardoor auditing, classificatie en zoekverrijking mogelijk zijn zonder te vertrouwen op handmatige inspectie. Dit is belangrijk voor documentbeheer, kennisbeheer en levenscyclus tracking.
+
+
+
+In automatiseringssystemen kan ODT-metadata worden gebruikt om standaarden af te dwingen, goedkeuringen te routeren en catalogi te synchroniseren, waardoor schaalbare verwerking over grote repositories met consistente regels wordt ondersteund.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Kennisbankorganisatie**
+
+  Gebruik ODT-metadata om interne documenten te categoriseren en indexeren voor snellere opvraging.
+
+
+
+* **Eigenaarschap en Beheerscontroles**
+
+  Haal auteur- en redactievelden op om beoordelaars toe te wijzen en verantwoordelijkheid te behouden.
+
+
+
+* **Beslissingen over Retentie en Archivering**
+
+  Gebruik tijdstempels om te bepalen of ODT-bestanden moeten worden gearchiveerd, behouden of vernieuwd.
+
+
+
+* **Metadata-normalisatie voor Analyse**
+
+  Converteer ODT-eigenschappen naar consistente velden voor rapportage en trendanalyse.
+
+
+
+* **Validatie vóór Publicatie**
+
+  Valideer vereiste beschrijvende velden voordat ODT-documenten worden geconverteerd naar gepubliceerde formaten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Regelgebaseerde Intake Classificatie**
+
+  Classificeer ODT-documenten automatisch in workflows op basis van de aanwezigheid van metadata, eigenaarschap en tijdstempels.
+
+
+
+* **Catalogussynchronisatieworkflow**
+
+  Haal ODT-metadata dagelijks op en synchroniseer deze met een gecentraliseerd register dat wordt gebruikt door interne zoeksystemen.
+
+
+
+* **Geautomatiseerde Documentbeoordelingen**
+
+  Activeer beoordelingstaken voor ODT-bestanden wanneer metadata aangeeft dat ze niet zijn bijgewerkt binnen de beleidsvensters.
+
+
+
+* **Koppeling van Metadata aan Toegangsbeleid**
+
+  Pas toegangsregels dynamisch toe wanneer ODT-metadata aangeeft dat het om beperkte inhoudscategorieën gaat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

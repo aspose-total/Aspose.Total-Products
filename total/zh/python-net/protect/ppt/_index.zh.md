@@ -71,7 +71,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPT文件代表着许多环境中仍在使用的旧PowerPoint格式。保护PPT文件可确保遗留演示文稿保持安全和合规。
+
+
+
+Python API使得能够自动保护PPT文件，使遗留内容符合现代安全标准。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **遗留幻灯片保护**  
+
+  &nbsp; 保护旧PPT文件免受未经授权的修改。
+
+
+
+* **历史内容保留**  
+
+  &nbsp; 保持存档演示文稿的完整性。
+
+
+
+* **受控重新分发**  
+
+  &nbsp; 在共享遗留幻灯片时限制编辑。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量遗留文件保护**  
+
+  &nbsp; 自动保护大量PPT文件。
+
+
+
+* **迁移时安全性**  
+
+  &nbsp; 在遗留系统过渡期间应用保护。
+
+
+
+* **自动访问限制**  
+
+  &nbsp; 通过程序强制对PPT文件实施一致的限制。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

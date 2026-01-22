@@ -75,7 +75,93 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+通过Python API提取**PPTX**文件的文档元数据，为现代演示文稿属性提供结构化访问，从而实现幻灯片组的一致索引、审计和生命周期跟踪。这对于管理大量运营、培训或面向客户的演示文稿的组织非常有价值。
+
+
+
+在自动化流程中，PPTX元数据成为路由和治理的轻量级控制平面：它支持自动分类、定期审查、发布控制，并与搜索和内容管理系统集成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **演示文稿目录和发现**
+
+  提取PPTX元数据以建立可按主题、所有者和更新历史搜索的目录。
+
+
+
+* **幻灯片组的生命周期治理**
+
+  使用时间戳和自定义属性来强制执行审查周期和内容新鲜度政策。
+
+
+
+* **自动分配所有权**
+
+  将作者和最后编辑者字段映射到负责团队，用于批准和维护。
+
+
+
+* **发布准备验证**
+
+  确保在将PPTX幻灯片组分发到外部之前存在所需的描述性属性。
+
+
+
+* **运营审计追踪**
+
+  维护基于元数据的审计记录，记录演示文稿何时创建、更新以及由谁创建。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **上传时分类和标记**
+
+  在摄入时提取PPTX元数据，并自动应用标记和文件夹路由规则，以实现一致的组织。
+
+
+
+* **定期审查任务生成**
+
+  当PPTX幻灯片组超过陈旧阈值或元数据指示所有权更改时，创建定期审查任务。
+
+
+
+* **受控分发管道**
+
+  基于元数据标志（如仅内部或机密类别）允许或限制PPTX幻灯片组的分发。
+
+
+
+* **元数据同步到搜索系统**
+
+  持续将PPTX元数据推送到索引中，以便演示文稿可以被发现，无需手动维护目录。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

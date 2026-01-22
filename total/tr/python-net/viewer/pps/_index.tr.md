@@ -89,7 +89,73 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'ları ile PPS, PPSM ve PPSX dosyalarını görüntülemek, doğrudan oynatma için tasarlanmış slayt odaklı sunumların incelenmesine olanak tanır.
+
+Bu, sunum yazılımı gerektirmeyen otomatik inceleme desteği sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Slayt İçeriği İncelemesi**  
+
+&nbsp; Hemen gösterim için tasarlanmış sunumları görüntüleyin.
+
+
+
+* **Oynatma Yapısı İncelemesi**  
+
+&nbsp; Slayt akışını ve geçişleri inceleyin.
+
+
+
+* **Dağıtım Doğrulaması**  
+
+&nbsp; Sunum dosyalarının paylaşımdan önce doğru olduğundan emin olun.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik Slayt Kontrolleri**  
+
+&nbsp; Python iş akışları, sunum dosyalarını incelemek için oluşturur.
+
+
+
+* **Dağıtımdan Önce Önizleme**  
+
+&nbsp; Slaytlar dinamik olarak gösterilir.
+
+
+
+* **Kalite Güvence Boruları**  
+
+&nbsp; Görüntüleme, teslimata hazır olduğundan emin olur.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

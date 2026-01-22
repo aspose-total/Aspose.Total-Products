@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용한 DOCX 문서 서명은 구조화된 현대적인 문서에 검증 가능한 승인 메타데이터를 포함할 수 있게 합니다. 이는 추적 가능성과 통제된 문서 수명주기를 지원합니다.
+
+
+
+자동화된 DOCX 서명은 콘텐츠 엔진, 승인 시스템, 그리고 대규모 문서 저장소와 원활하게 통합됩니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **디지털 계약 완료**  
+
+&nbsp; 최종화된 DOCX 계약에 승인 서명을 포함합니다.
+
+
+
+* **보고서 승인 추적**  
+
+&nbsp; 관리자 승인을 확인하기 위해 DOCX 보고서에 서명합니다.
+
+
+
+* **내부 문서 관리**  
+
+&nbsp; 검증된 내부 문서에 서명을 적용합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **이벤트 기반 계약 서명**  
+
+&nbsp; 승인 이벤트 후 자동으로 DOCX 파일에 서명합니다.
+
+
+
+* **다단계 검토 완료**  
+
+&nbsp; 모든 리뷰어가 작업을 완료한 후에 서명이 이루어집니다.
+
+
+
+* **CI 기반 문서 승인**  
+
+&nbsp; 자동화된 빌드 파이프라인의 일부로 DOCX 파일에 서명합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

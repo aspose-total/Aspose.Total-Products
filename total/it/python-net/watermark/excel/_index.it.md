@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'apposizione di filigrane ai fogli di calcolo **Excel** con le API di Python aggiunge controlli di visibilità ai workbook ricchi di dati, aiutando a comunicare la proprietà, la riservatezza e l'uso previsto direttamente all'interno delle visualizzazioni dei fogli di calcolo.
+
+L'automazione rende l'apposizione di filigrane ai fogli di calcolo affidabile su larga scala, ideale per la generazione di report pianificata, la condivisione tra più team e le esportazioni controllate dai sistemi di analisi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Sovrapposizioni di riservatezza dei report finanziari**  
+
+&nbsp; Contrassegnare i fogli di calcolo contenenti budget o previsioni per ridurre il rischio di divulgazione.
+
+
+
+* **Limiti di distribuzione per dashboard condivisi**  
+
+&nbsp; Aggiungere etichette "SOLO USO INTERNO" per scoraggiare l'inoltro esterno.
+
+
+
+* **Indicatori di bozza per la convalida dei dati**  
+
+&nbsp; Applicare filigrane "PRELIMINARI" fino al completamento della riconciliazione o delle approvazioni.
+
+
+
+* **Avvisi di proprietà dei dati dei partner**  
+
+&nbsp; Inserire testo di proprietà nei fogli di lavoro condivisi per chiarire il riutilizzo consentito dei set di dati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Generazione di report pianificata con timbro automatico**  
+
+&nbsp; Apporre filigrane ai report generati automaticamente ogni notte prima di inviarli alle liste di distribuzione.
+
+
+
+* **Filigrana in base alla classificazione del workbook**  
+
+&nbsp; Utilizzare tag di sensibilità per scegliere automaticamente il testo e il posizionamento della filigrana.
+
+
+
+* **Applicazione delle regole di esportazione**  
+
+&nbsp; Apporre filigrane ai fogli di calcolo durante l'esportazione dai sistemi BI o ETL per mantenere la governance.
+
+
+
+* **Etichettatura automatizzata per la conformità regionale**  
+
+&nbsp; Aggiungere avvisi specifici per la giurisdizione in base al team di destinazione o al paese.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

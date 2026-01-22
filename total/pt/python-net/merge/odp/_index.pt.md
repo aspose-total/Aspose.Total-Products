@@ -79,7 +79,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/sli
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A fusão de arquivos de apresentação OpenDocument usando APIs Python suporta padrões abertos e fluxos de trabalho de apresentação multiplataforma. Isso é ideal para ambientes que utilizam ferramentas de escritório de código aberto.
+
+
+
+A automação garante interoperabilidade e processamento de apresentação escalável.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Consolidação de Slides Multiplataforma (ODP)**  
+
+&nbsp; Mesclar arquivos ODP criados em diferentes ferramentas.
+
+
+
+* **Montagem de Apresentação com Padrões Abertos (ODP)**  
+
+&nbsp; Combinar decks ODP para entrega unificada.
+
+
+
+* **Compilação Colaborativa de Slides (ODP)**  
+
+&nbsp; Mesclar arquivos ODP de colaboradores distribuídos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Pipelines de Apresentação Abertos (ODP)**  
+
+&nbsp; Sistemas mesclam arquivos ODP sem dependências proprietárias.
+
+
+
+* **Compilação Agendada de Decks (ODP)**  
+
+&nbsp; A mesclagem de ODP é executada como parte das tarefas de backend.
+
+
+
+* **Automação de Apresentação Interoperável (ODP)**  
+
+&nbsp; Arquivos ODP são mesclados dinamicamente em fluxos de trabalho.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

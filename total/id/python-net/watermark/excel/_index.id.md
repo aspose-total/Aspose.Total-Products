@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Memberi Watermark pada lembar kerja **Excel** dengan API Python menambahkan kontrol visibilitas ke dalam buku kerja yang padat data, membantu komunikasi kepemilikan, kerahasiaan, dan penggunaan yang dimaksud langsung di dalam tampilan lembar kerja.
+
+Automatisasi membuat watermarking lembar kerja menjadi dapat diandalkan dalam skala besar—ideal untuk pelaporan terjadwal, berbagi antar tim, dan ekspor yang terkendali dari sistem analitik.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Tumpang Tindih Kerahasiaan Laporan Keuangan**  
+
+&nbsp; Tandai lembar kerja yang berisi anggaran atau ramalan untuk mengurangi risiko kebocoran.
+
+
+
+* **Batasan Distribusi untuk Dasbor yang Dibagikan**  
+
+&nbsp; Tambahkan label "HANYA UNTUK PENGGUNAAN INTERNAL" untuk mencegah penerusan eksternal.
+
+
+
+* **Indikator Draf untuk Validasi Data**  
+
+&nbsp; Terapkan watermark "PRELIMINARY" sampai rekonsiliasi atau persetujuan selesai.
+
+
+
+* **Pemberitahuan Kepemilikan Data Mitra**  
+
+&nbsp; Tanamkan teks kepemilikan dalam buku kerja yang dibagikan untuk menjelaskan penggunaan kembali dataset yang diizinkan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pelaporan Terjadwal dengan Penandaan Otomatis**  
+
+&nbsp; Watermark laporan yang dihasilkan setiap malam sebelum dikirimkan ke daftar distribusi.
+
+
+
+* **Watermark berdasarkan Klasifikasi Lembar Kerja**  
+
+&nbsp; Gunakan tag sensitivitas untuk memilih teks dan penempatan watermark secara otomatis.
+
+
+
+* **Penegakan Pipa Ekspor**  
+
+&nbsp; Tandai lembar kerja selama proses ekspor dari sistem BI atau ETL untuk menjaga tata kelola.
+
+
+
+* **Pelabelan Kepatuhan Regional Otomatis**  
+
+&nbsp; Tambahkan pemberitahuan spesifik yurisdiksi berdasarkan tim tujuan atau negara.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

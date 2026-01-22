@@ -82,7 +82,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API查看PNG图像支持高质量、无损图像渲染和透明处理。
+
+这对于需要视觉准确性和灵活图像集成的自动化场景非常理想。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **无损图像审查**  
+
+  查看图像而无需压缩伪影。
+
+
+
+* **透明资产检查**  
+
+  准确检查带有alpha通道的图像。
+
+
+
+* **UI资产验证**  
+
+  查看应用程序或文档中使用的视觉资产。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **资产管道自动化**  
+
+  Python脚本在构建或部署检查期间渲染PNG文件。
+
+
+
+* **动态预览服务**  
+
+  图像会自动显示在仪表板或工具中。
+
+
+
+* **视觉回归测试**  
+
+  自动查看支持比较和验证工作流程。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,85 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Dodawanie znaków wodnych do plików **PPTX** za pomocą interfejsów API w języku Python zapewnia skalowalną kontrolę nad nowoczesnymi prezentacjami PowerPoint poprzez oznaczanie właściciela, poufności i statusu na slajdach w spójny, powtarzalny sposób.
+
+Automatyzacja pomaga zespołom integrować znakowanie wodne PPTX do procesów dokumentowych, zapewniając właściwe oznakowanie prezentacji przed dystrybucją, archiwizacją lub publikacją.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Ochrona poufnej prezentacji dla inwestorów**  
+
+&nbsp; Oznaczaj poufne prezentacje, aby zmniejszyć wycieki informacji podczas zbierania funduszy lub negocjacji.
+
+
+
+* **Etykietowanie dostarczalnych dla klienta**  
+
+&nbsp; Dodawaj identyfikatory klientów, aby śledzić dystrybucję udostępnionych prezentacji PPTX.
+
+
+
+* **Znaki wodne wewnętrznej fazy przeglądu**  
+
+&nbsp; Oznaczaj prezentacje jako "W PRZYGOTOWANIU", aby uniknąć zamieszania z zatwierdzonymi wersjami.
+
+
+
+* **Zarządzanie szablonami do wielokrotnego użytku**  
+
+&nbsp; Upewnij się, że wszystkie wygenerowane prezentacje zawierają poprawny znak wodny właściciela lub zasady.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Znaki wodne oparte na master slajdów**  
+
+&nbsp; Dodawaj znaki wodne za pomocą elementów obejmujących cały slajd dla spójnego renderowania na wszystkich slajdach.
+
+
+
+* **Automatyczne generowanie tekstu znaku wodnego z pól CRM**  
+
+&nbsp; Generuj znaki wodne używając ID transakcji, nazwy konta lub kodu projektu programistycznie.
+
+
+
+* **Walidacja i oznakowanie przed wysłaniem**  
+
+&nbsp; Automatyczne oznakowanie plików PPTX podczas wysyłki e-mailowej lub dostarczania przez portal.
+
+
+
+* **Masowe ponowne oznakowanie po aktualizacjach zasad**  
+
+&nbsp; Generuj ponownie warianty z oznaczeniami wodnymi po zmianach w zasadach etykietowania lub tekście prawnym.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

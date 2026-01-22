@@ -79,7 +79,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PDF-файлы широко используются для документов с фиксированным макетом, где контент распределен по страницам. Разделение PDF позволяет получать доступ на уровне страниц или разделов без изменения оригинального файла.
+
+
+
+Разделение PDF с использованием Python повышает автоматизацию, обеспечивая масштабную обработку, выборочное извлечение и интеграцию с документными конвейерами.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Извлечение на уровне страниц**  
+
+&nbsp; Выделение конкретных страниц для просмотра или распределения.
+
+
+
+* **Сегментация документов**  
+
+&nbsp; Разделение больших PDF на логические разделы.
+
+
+
+* **Соблюдение требований и обработка аудита**  
+
+&nbsp; Извлечение соответствующих частей для верификации.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетные конвейеры обработки PDF**  
+
+&nbsp; Тысячи PDF автоматически разделяются.
+
+
+
+* **Разделение страниц на основе правил**  
+
+&nbsp; Логика Python разделяет PDF с использованием правил страниц.
+
+
+
+* **Автоматизированное распределение контента**  
+
+&nbsp; Извлеченные PDF маршрутизируются в целевые системы.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

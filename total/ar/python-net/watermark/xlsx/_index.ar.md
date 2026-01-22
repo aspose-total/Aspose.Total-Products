@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+إضافة علامة مائية **XLSX** إلى جداول البيانات باستخدام واجهات برمجة التطبيقات في Python تضيف حكمة مرئية إلى ملفات Excel الحديثة، مما يساعد على توضيح السرية والملكية والاستخدام المقصود مباشرة في المنتجات التي تحتوي على كميات كبيرة من البيانات.
+
+التأتير يمكن تطبيقه على نطاق واسع لوضع علامات مائية على ملفات XLSX لأنظمة التقارير وعمليات التمويل وتصديرات التحليلات حيث يتطلب وضع علامات سياسية متسقة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **وسم تقارير KPI السرية**
+
+  &nbsp; وضع علامة مائية على تقارير الأداء لتقليل إعادة التوزيع غير المقصود.
+
+
+
+* **مشاركة مراقبة لاستخراج البيانات**
+
+  &nbsp; إضافة علامات "للاستخدام الداخلي فقط" على مجموعات البيانات المصدرة لتعزيز الحوكمة.
+
+
+
+* **مؤشرات حالة الموافقة للتوقعات**
+
+  &nbsp; وضع "مسودة" أو "معتمد" على نماذج التخطيط لمنع التفسير الخاطئ.
+
+
+
+* **تحديد جدول عمل محدد للعميل**
+
+  &nbsp; تضمين معرفات العملاء على جداول البيانات المشتركة لتتبعها.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **وضع علامات مائية على الأنابيب للتقارير التلقائية**
+
+  &nbsp; تطبيق علامات مائية أثناء إنشاء التقرير لضمان حكم متسق.
+
+
+
+* **علامة مائية ديناميكية من سياسات الوصول**
+
+  &nbsp; إنشاء نص علامة مائية استنادًا إلى مستوى الحساسية وصلاحيات المستخدم.
+
+
+
+* **تغطية متعددة الأوراق تلقائية**
+
+  &nbsp; ضمان رؤية العلامة المائية عبر الأوراق والعروض ذات الصلة بشكل برمجي.
+
+
+
+* **وضع علامات صديقة للتدقيق مع معرفات**
+
+  &nbsp; إضافة علامات مائية تحتوي على معرفات التشغيل أو مراجع الدفع لدعم التدقيقات التلقائية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

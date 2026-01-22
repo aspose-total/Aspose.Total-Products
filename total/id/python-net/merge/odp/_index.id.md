@@ -79,7 +79,43 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Menggabungkan file presentasi OpenDocument menggunakan API Python mendukung standar terbuka dan alur kerja presentasi lintas platform. Ini ideal untuk lingkungan yang menggunakan alat kantor sumber terbuka.
+
+Automatisasi memastikan interoperabilitas dan pemrosesan presentasi yang dapat diskalakan.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Konsolidasi Slide lintas Platform (ODP)**
+  &nbsp; Menggabungkan file ODP yang dibuat dengan berbagai alat.
+
+* **Perakitan Presentasi Standar Terbuka (ODP)**
+  &nbsp; Menggabungkan dek ODP untuk pengiriman yang terpadu.
+
+* **Kompilasi Slide Kolaboratif (ODP)**
+  &nbsp; Menggabungkan file ODP dari kontributor yang tersebar.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* **Pipa Presentasi Terbuka (ODP)**
+  &nbsp; Sistem menggabungkan file ODP tanpa ketergantungan propietari.
+
+* **Kompilasi Dek Jadwal (ODP)**
+  &nbsp; Penggabungan ODP berjalan sebagai bagian dari tugas backend.
+
+* **Otomatisasi Presentasi yang Dapat Dioperasikan (ODP)**
+  &nbsp; File ODP digabungkan secara dinamis dalam alur kerja.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

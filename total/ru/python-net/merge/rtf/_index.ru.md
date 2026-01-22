@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Объединение документов в формате Rich Text Format с использованием API Python позволяет легко объединять документы, сохраняя основное форматирование и читаемость. RTF широко используется для взаимодействия между платформами и системами.
+
+
+
+Автоматизированное объединение RTF обеспечивает быструю, программную обработку документов в средах, где важны простота и совместимость.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Компиляция легких документов (RTF)**  
+
+&nbsp; Объединение нескольких файлов RTF в один читаемый документ.
+
+
+
+* **Обмен контентом между системами (RTF)**  
+
+&nbsp; Объединение документов RTF, используемых между гетерогенными системами.
+
+
+
+* **Сохранение обычного форматирования (RTF)**  
+
+&nbsp; Объединение файлов RTF с сохранением основного форматирования.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Текстовые обработчики на стороне сервера (RTF)**  
+
+&nbsp; Объединение RTF автоматизировано в рамках сервисов обработки текста.
+
+
+
+* **Обработка документов большого объема (RTF)**  
+
+&nbsp; Системы программно объединяют большое количество файлов RTF.
+
+
+
+* **Автоматизация с упором на совместимость (RTF)**  
+
+&nbsp; Файлы RTF объединяются автоматически для максимальной переносимости.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

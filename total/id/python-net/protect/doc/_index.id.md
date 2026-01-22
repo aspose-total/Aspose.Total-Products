@@ -76,7 +76,53 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Melindungi dokumen Word dalam format DOC sangat penting untuk menjaga file-file warisan yang masih digunakan dalam banyak alur kerja bisnis dan arsip. Menggunakan perlindungan dokumen memastikan teks sensitif, formulir, dan kekayaan intelektual tetap aman bahkan saat dibagikan di antara tim atau sistem.
+
+Menggunakan API Python, file DOC dapat dilindungi secara programatik dengan kata sandi dan kontrol izin, memungkinkan penegakan kebijakan keamanan secara otomatis di seluruh repositori dokumen besar dan jalur warisan.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Kunci" %}}
+
+
+
+* **Keamanan Dokumen Warisan**  
+  Berlakukan perlindungan pada dokumen Word lama untuk mencegah pengeditan atau penyalinan tanpa izin.
+
+* **Kepatuhan untuk File Arsip**  
+  Memastikan file DOC historis memenuhi persyaratan keamanan dan regulasi modern.
+
+* **Pembagian Dokumen yang Terkendali**  
+  Membatasi hak pengeditan saat mendistribusikan file DOC secara internal atau eksternal.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Perlindungan Batch untuk Arsip**  
+  Secara otomatis melindungi ribuan file DOC selama proses arsip atau migrasi.
+
+* **Kontrol Akses yang Didorong oleh Kebijakan**  
+  Menegakkan aturan perlindungan standar pada file DOC saat dimasukkan ke dalam sistem.
+
+* **Distribusi Aman yang Terotomatisasi**  
+  Melindungi dokumen DOC secara dinamis sebelum mengirimkannya melalui alur kerja otomatis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

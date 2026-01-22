@@ -76,7 +76,75 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Поиск файлов **ODT** с использованием Python API обеспечивает совместимость с открытыми стандартами документов, обеспечивая эффективное обнаружение контента. Документы ODT часто используются в средах с открытым исходным кодом и совместной работе, где важна переносимость и прозрачность.
+
+
+
+Автоматизированный поиск ODT улучшает взаимодействие, поддерживает масштабируемый анализ документов и чисто интегрируется с современными конвейерами автоматизации.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Поиск документов в открытом формате**  
+
+&nbsp; Находит ключевые слова в документах на основе ODT.
+
+
+
+* **Совместный обзор контента**  
+
+&nbsp; Обеспечивает быстрый поиск по общим открытым документам.
+
+
+
+* **Анализ политики и документации**  
+
+&nbsp; Определяет необходимые разделы в файлах ODT.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Создание автоматического индекса ODT**  
+
+&nbsp; Сценарии на Python создают поисковые индексы из файлов ODT.
+
+
+
+* **Обнаружение изменений в ODT**  
+
+&nbsp; Программные сканирования определяют обновленный или измененный контент.
+
+
+
+* **Конвейеры контента ODT**  
+
+&nbsp; Извлеченные данные подаются на автоматизированные системы публикации и обзора.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

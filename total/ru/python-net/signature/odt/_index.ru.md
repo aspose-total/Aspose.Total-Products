@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Подписание документов ODT с использованием Python API позволяет открытым текстовым документам нести проверенные маркеры утверждения и метаданные подписанта. Это поддерживает контролируемые жизненные циклы документов без использования собственных форматов.
+
+
+
+В автоматизированных конвейерах подписание ODT обеспечивает последовательное применение утверждений на этапе закрытия рецензии, улучшая аудит и сокращая ручную обработку документов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* **Утверждение политики в открытом формате**  
+
+&nbsp; Подписывайте документы политики ODT для подтверждения окончательного рассмотрения и авторизации.
+
+
+
+* **Завершение редакционного рабочего процесса**  
+
+&nbsp; Применяйте подписи к черновикам ODT после завершения рецензии контента.
+
+
+
+* **Управление внутренней базой знаний**  
+
+&nbsp; Подписывайте документы ODT перед их публикацией в общие репозитории.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Триггер завершения рецензии**  
+
+&nbsp; Автоматически подписывайте файлы ODT, когда все назначенные рецензенты завершают утверждения.
+
+
+
+* **Шлюз публикации в репозиторий**  
+
+&nbsp; Подписывайте документы ODT перед их загрузкой в базу знаний для публикации.
+
+
+
+* **Автоматическое внедрение журнала аудита**  
+
+&nbsp; Прикрепляйте идентификацию подписанта и метаданные времени во время выполнения подписи ODT.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

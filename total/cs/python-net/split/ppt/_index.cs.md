@@ -73,7 +73,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPT je zastaralý formát prezentace, který je stále používán v starších systémech. Rozdělení souborů PPT umožňuje jejich další použitelnost v moderních automatizovaných prostředích.
+
+
+
+Pythonové API umožňují zpracování souborů PPT programově navzdory jejich zastaralé struktuře.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Migrace zastaralých prezentací**  
+
+&nbsp; Extrahovat snímky pro konverzi nebo upgrade.
+
+
+
+* **Selektivní přístup k obsahu**  
+
+&nbsp; Pracovat s konkrétními snímky bez úplné konverze.
+
+
+
+* **Správa archivace prezentací**  
+
+&nbsp; Ukládat snímky individuálně pro indexaci.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Zpracování zastaralých formátů v rámci procesů**  
+
+&nbsp; Automatizovat rozdělování PPT ve velkém měřítku.
+
+
+
+* **Extrakce snímků pro konverzi**  
+
+&nbsp; Snímky jsou konvertovány do moderních formátů.
+
+
+
+* **Automatizované audity prezentací**  
+
+&nbsp; Programaticky kontrolovat obsah snímků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

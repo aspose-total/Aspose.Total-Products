@@ -85,7 +85,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri kullanarak TIFF görüntülerini birleştirme, genellikle baskı, tıbbi görüntüleme ve belge taramasında kullanılan yüksek çözünürlüklü, çok sayfalı görüntü iş akışlarını destekler.
+
+
+
+Otomasyon, büyük, detaylı görüntü setlerinin güvenilir bir şekilde işlenmesini sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Çok Sayfalı Tarama Birleştirme (TIFF)**  
+
+&nbsp; TIFF sayfalarını tek bir çok sayfalı dosyaya birleştirme.
+
+
+
+* **Yüksek Çözünürlüklü Görüntü İşleme (TIFF)**  
+
+&nbsp; Detaylı analiz için TIFF görüntülerini birleştirme.
+
+
+
+* **Yayına Hazır Görüntü Derlemesi (TIFF)**  
+
+&nbsp; Yayıncılık iş akışları için TIFF dosyalarını birleştirme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik Tarama Boru Hatları (TIFF)**  
+
+&nbsp; Sistemler, tarama alımı sırasında TIFF dosyalarını birleştirir.
+
+
+
+* **Toplu Yüksek Çözünürlüklü İşleme (TIFF)**  
+
+&nbsp; TIFF birleştirme planlanmış işlerde çalışır.
+
+
+
+* **Kurumsal Görüntü Otomasyonu (TIFF)**  
+
+&nbsp; Otomatik iş akışları büyük TIFF veri kümelerini yönetir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -152,7 +220,7 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

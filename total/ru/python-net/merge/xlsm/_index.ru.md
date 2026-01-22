@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Объединение макрос-включенных электронных таблиц Excel с использованием Python API позволяет объединить логику, вычисления и автоматизацию, встроенные в книги. Это распространено в операционных и финансовых средах.
+
+
+
+Автоматизированное объединение XLSM гарантирует сохранение данных и поведения, управляемого макросами, в масштабируемых системах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Сборка отчетов, управляемая макросами (XLSM)**  
+
+&nbsp; Объединение файлов XLSM, содержащих автоматизированные вычисления и логику.
+
+
+
+* **Объединение операционных книг (XLSM)**  
+
+&nbsp; Объединение макрос-включенных электронных таблиц между отделами.
+
+
+
+* **Упаковка автоматизации процессов (XLSM)**  
+
+&nbsp; Агрегирование файлов XLSM, используемых в повторяющихся операционных процессах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Генерация книг на основе правил (XLSM)**  
+
+&nbsp; Системы объединяют файлы XLSM на основе определенных правил автоматизации.
+
+
+
+* **Автоматизированное финансовое моделирование (XLSM)**  
+
+&nbsp; Объединение XLSM поддерживает повторяемые финансовые рабочие процессы.
+
+
+
+* **Сохранение макросов (XLSM) под контролем**  
+
+&nbsp; Автоматизированные конвейеры объединяют файлы XLSM, сохраняя макросы.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

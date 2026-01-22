@@ -90,7 +90,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การดูเอกสาร Word ด้วย Python APIs ให้วิธีการที่สมบูรณ์เพื่อตรวจสอบไฟล์ที่เป็นข้อความในรูปแบบที่เข้ากันได้กับ Word หลายรูปแบบ
+
+นี้สนับสนุนการจัดการเอกสารอย่างสม่ำเสมอในระบบอัตโนมัติ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **การตรวจสอบเอกสารอย่างสมบูรณ์**  
+
+&nbsp; ดูเอกสาร Word ต่าง ๆ ผ่านอินเตอร์เฟซเดียว
+
+
+
+* **การตรวจสอบความสอดคล้องของเนื้อหา**  
+
+&nbsp; ตรวจสอบข้อความและโครงสร้างของไฟล์
+
+
+
+* **การผสานการทำงาน**  
+
+&nbsp; ฝังการดูเอกสารลงในท่อประมวลผล
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **ท่อประมวลผลเนื้อหาอัตโนมัติ**  
+
+&nbsp; กระบวนการ Python แสดงเอกสาร Word ระหว่างขั้นตอนการทำงานหลายขั้นตอน
+
+
+
+* **บริการดูตัวอย่าง**  
+
+&nbsp; เอกสารถูกแสดงอย่างไดนามิกสำหรับการตรวจสอบหรือการอนุมัติ
+
+
+
+* **การดำเนินการกับเอกสารเป็นชุด**  
+
+&nbsp; ดูไฟล์ Word จำนวนมากโดยโปรแกรม
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

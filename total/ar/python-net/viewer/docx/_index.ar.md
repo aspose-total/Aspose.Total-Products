@@ -90,7 +90,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+عرض ملفات DOCX من خلال واجهات برمجة التطبيقات في Python يسمح بعرض وتفتيش المستندات الحديثة بشكل برمجي بوضوح هيكلي كامل.
+
+هذا يمكن من تنفيذ سير العمل للمستندات بشكل مقيد عبر أنظمة ثقيلة المحتوى.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **مراجعة المستندات المنظمة**  
+
+&nbsp; عرض العناوين والفقرات والتنسيق بشكل متسق.
+
+
+
+* **فحص جودة المحتوى**  
+
+&nbsp; تفتيش المستندات لضمان الاكتمال والصحة.
+
+
+
+* **تكامل سير العمل**  
+
+&nbsp; تضمين عرض المستند في الأنظمة الآلية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **أنابيب المستندات التلقائية**  
+
+&nbsp; تعرض عمليات Python ملفات DOCX أثناء سير العمل المتعدد الخطوات.
+
+
+
+* **خدمات المعاينة**  
+
+&nbsp; إنشاء معاينات للمستندات حسب الطلب للويب أو الأدوات الداخلية.
+
+
+
+* **التحقق من صحة المحتوى بالدُفعات**  
+
+&nbsp; يتم مراجعة حجم كبير من المستندات بشكل برمجي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

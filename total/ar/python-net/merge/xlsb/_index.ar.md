@@ -78,7 +78,59 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+دمج دفاتر عمل Excel الثنائية باستخدام واجهات برمجة تطبيقات Python يسمح بالتعامل الفعال مع مجموعات بيانات كبيرة مع تقليل حجم الملف. يتم تحسين هذا التنسيق للبيئات التي تهتم بالأداء وتتعامل مع حجم بيانات كبير.
+
+التأتير حول دمج ملفات XLSB يدعم سير العمل التحليلية القابلة للتوسيع مع الحفاظ على السرعة والكفاءة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **توحيد بيانات حجم كبير (XLSB)**  
+
+&nbsp; دمج جداول بيانات ثنائية كبيرة في دفتر عمل تحليلي واحد.
+
+* **تقارير تعتمد على الأداء (XLSB)**  
+
+&nbsp; دمج ملفات XLSB المحسنة للتحميل السريع والمعالجة.
+
+* **مستودعات بيانات المؤسسة (XLSB)**  
+
+&nbsp; تجميع مجموعات بيانات XLSB للتحليلات اللاحقة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائي" %}}
+
+
+
+* **معالجة الملفات الكبيرة تلقائيًا (XLSB)**  
+
+&nbsp; تدمج الأنظمة ملفات XLSB أثناء استيعاب بيانات حجم كبير.
+
+* **تكامل خط أنابيب التحليل (XLSB)**  
+
+&nbsp; يحدث دمج XLSB كجزء من سير العمل التحليلية التلقائية.
+
+* **وظائف دفعية كفءة من حيث الموارد (XLSB)**  
+
+&nbsp; تدمج الجداول الثنائية في عمليات دفعية مجدولة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

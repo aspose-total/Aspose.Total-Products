@@ -79,7 +79,75 @@ Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het samenvoegen van OpenDocument-presentatiebestanden met behulp van Python-API's ondersteunt open standaarden en cross-platform presentatieworkflows. Dit is ideaal voor omgevingen die open-source kantoortools gebruiken.
+
+
+
+Automatisering zorgt voor interoperabiliteit en schaalbare presentatieverwerking.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Cross-Platform Slide Consolidation (ODP)**  
+
+&nbsp; Voeg ODP-bestanden samen die zijn gemaakt in verschillende tools.
+
+
+
+* **Open-Standaard Presentatieassemblage (ODP)**  
+
+&nbsp; Combineer ODP-decks voor een uniforme levering.
+
+
+
+* **Samenwerking bij het compileren van dia's (ODP)**  
+
+&nbsp; Voeg ODP-bestanden samen van gedistribueerde bijdragers.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Open Presentatie Pipelines (ODP)**  
+
+&nbsp; Systemen voegen ODP-bestanden samen zonder afhankelijkheid van eigenaars.
+
+
+
+* **Geplande Deckcompilatie (ODP)**  
+
+&nbsp; Het samenvoegen van ODP wordt uitgevoerd als onderdeel van backendtaken.
+
+
+
+* **Interoperabele Presentatieautomatisering (ODP)**  
+
+&nbsp; ODP-bestanden worden dynamisch samengevoegd in workflows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

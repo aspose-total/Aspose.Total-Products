@@ -104,7 +104,75 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'analyse des **documents RTF** avec des API Python permet l'extraction à partir d'un format de texte léger et largement pris en charge qui préserve les styles de base. Le RTF est souvent utilisé pour l'interopérabilité et l'échange de données héritées.
+
+
+
+L'analyse RTF conviviale pour l'automatisation prend en charge une extraction rapide du texte avec un minimum de surcharge structurelle.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Extraction de documents légers**  
+
+&nbsp; Récupère du texte à partir de documents simplement formatés.
+
+
+
+* **Interopérabilité avec les systèmes hérités**  
+
+&nbsp; Traite les fichiers générés par des éditeurs anciens ou minimalistes.
+
+
+
+* **Tâches de normalisation de texte**  
+
+&nbsp; Convertit le RTF en représentations de texte propre et simple.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Traitement de texte à haut volume**  
+
+&nbsp; Automatise l'extraction à partir de grands ensembles de données RTF.
+
+
+
+* **Pipelines de simplification de format**  
+
+&nbsp; Supprime les styles tout en préservant le contenu principal.
+
+
+
+* **Échange de données de système à système**  
+
+&nbsp; Permet l'ingestion programmatique d'entrées basées sur le RTF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

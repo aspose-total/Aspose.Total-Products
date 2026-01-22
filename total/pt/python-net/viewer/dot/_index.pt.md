@@ -90,7 +90,73 @@ Para obter mais detalhes, consulte [Documentação do produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Visualizar arquivos DOT com APIs do Python permite a inspeção de modelos de documentos do Word usados como base para a criação de conteúdo padronizado.
+
+Isso possibilita a validação automatizada e governança de fluxos de trabalho de documentos baseados em modelos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Revisão da Estrutura do Modelo**  
+
+  &nbsp; Visualize estilos predefinidos e espaços reservados incorporados em modelos do Word.
+
+
+
+* **Aplicação de Padronização**  
+
+  &nbsp; Inspecione modelos para garantir consistência de formatação e layout.
+
+
+
+* **Validação Pré-Implantação**  
+
+  &nbsp; Revise os modelos antes de distribuí-los em sistemas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Verificação de Conformidade do Modelo**  
+
+  &nbsp; Fluxos de trabalho em Python renderizam arquivos DOT para validar regras de formatação.
+
+
+
+* **Auditorias de Modelo Automatizadas**  
+
+  &nbsp; Os modelos são visualizados periodicamente para detectar alterações não autorizadas.
+
+
+
+* **Pipelines de Geração de Documentos**  
+
+  &nbsp; A visualização garante que os modelos estejam prontos para a criação automatizada de documentos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

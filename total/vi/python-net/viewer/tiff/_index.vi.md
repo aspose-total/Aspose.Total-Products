@@ -82,7 +82,73 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Imaging for Python vi
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Xem tài liệu TIFF bằng Python APIs hỗ trợ định dạng hình ảnh đa trang, độ phân giải cao thường được sử dụng trong quét và lưu trữ.
+
+Điều này cho phép kiểm tra chính xác các tài liệu hình ảnh chi tiết.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Đánh Giá Tài Liệu Quét**  
+
+  Xem các trang quét chất lượng cao.
+
+
+
+* **Kiểm Tra Hình Ảnh Lưu Trữ**  
+
+  Kiểm tra các tệp hình ảnh chất lượng bảo tồn.
+
+
+
+* **Xử Lý Hình Ảnh Đa Trang**  
+
+  Điều hướng tài liệu dựa trên hình ảnh phức tạp.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Xác Nhận Quét Tự Động**  
+
+  Quy trình làm việc Python hiển thị các tệp quét để đảm bảo chất lượng.
+
+
+
+* **Kiểm Tra Tính Nguyên Vẹn của Lưu Trữ**  
+
+  Hình ảnh được lưu trữ được hiển thị định kỳ để xác thực.
+
+
+
+* **Các Quy Trình Số Hóa Tài Liệu**  
+
+  Các trình xem tự động hỗ trợ quy trình số hóa.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

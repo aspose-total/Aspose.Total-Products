@@ -90,7 +90,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+عرض ملفات ODT باستخدام واجهات برمجة التطبيقات في Python يمكن من تفتيش المستندات النصية المفتوحة المستخدمة في سير العمل القائمة على المعايير.
+
+يدعم هذا الأمر التلقائية في أنظمة مستندية بدون تبعيات خاصة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **مراجعة المستند المفتوح**  
+
+&nbsp; عرض المستندات النصية في تنسيقات مفتوحة.
+
+
+
+* **فحص سلامة المحتوى**  
+
+&nbsp; تفتيش هيكل المستند والنص.
+
+
+
+* **التوافق بين الأنظمة المختلفة**  
+
+&nbsp; ضمان عرض المستندات بشكل صحيح عبر البيئات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+
+
+
+* **أنابيب المستندات التلقائية**  
+
+&nbsp; تقوم العمليات في Python بعرض ملفات ODT أثناء سير العمل.
+
+
+
+* **التحقق من الامتثال**  
+
+&nbsp; يتم عرض المستندات لمطابقتها مع المعايير.
+
+
+
+* **إنشاء معاينة**  
+
+&nbsp; تدعم المعاينات التلقائية سير العمل للمراجعة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

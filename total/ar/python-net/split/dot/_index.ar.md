@@ -79,7 +79,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تعمل ملفات DOT كقوالب وثائق تحدد هيكل ومعايير التنسيق. يمكن تقسيم ملفات DOT لتمكين تحليل وإعادة استخدام مكونات القالب الفردية.
+
+
+
+تدعم القدرة على تقسيم ملفات DOT تلقائيًا باستخدام Python إدارة قوالب قابلة للتوسيع وسير العمل المنظم لإنشاء الوثائق.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **إعادة استخدام مكونات القالب**  
+
+&nbsp; استخراج أقسام القالب المحددة لإعادة الاستخدام في جميع الوثائق.
+
+
+
+* **تدقيق القالب**  
+
+&nbsp; تحليل الأجزاء الفردية لضمان الامتثال والاتساق.
+
+
+
+* **إنشاء وثائق موحدة المعايير**  
+
+&nbsp; تمكين الاستخدام المراقب لعناصر القالب.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير" %}}
+
+
+
+* **تأتير تحليل القالب تلقائيًا**  
+
+&nbsp; تعزل النصوص بواسطة Python برمجيًا.
+
+
+
+* **تجميع القالب الديناميكي**  
+
+&nbsp; يتم إعادة تجميع المكونات بشكل ديناميكي حسب الحاجة.
+
+
+
+* **أنابيب فرض الحوكمة**  
+
+&nbsp; تضمن الفحوصات التلقائية استخدام أقسام معتمدة فقط.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

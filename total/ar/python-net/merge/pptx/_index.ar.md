@@ -79,7 +79,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+دمج عروض PPTX باستخدام واجهات برمجة التطبيقات في Python هو النهج الأكثر شيوعًا لتكوين الشرائح الحديثة. يتيح لك التحكم الدقيق في ترتيب الشرائح والتخطيطات واتساق المحتوى.
+
+
+
+تتكامل هذه القدرة بشكل نظيف مع محركات المحتوى الآلي وأنظمة التقارير.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **إنشاء مجموعة شرائح متعددة الأقسام (PPTX)**  
+
+&nbsp; دمج ملفات PPTX تمثل أقسامًا في عرض واحد.
+
+
+
+* **دمج الشرائح التعاونية (PPTX)**  
+
+&nbsp; دمج الشرائح PPTX التي تمت كتابتها بواسطة مساهمين متعددين.
+
+
+
+* **تجميع وحدات الشرائح القابلة لإعادة الاستخدام (PPTX)**  
+
+&nbsp; تجميع الشرائح القابلة للتعديل بشكل وحدات في عروض مخصصة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **إنشاء مجموعة شرائح ديناميكية (PPTX)**  
+
+&nbsp; تدمج الأنظمة ملفات PPTX استنادًا إلى الإدخالات أثناء التشغيل.
+
+
+
+* **أنابيب عرض العروض التقديمية CI/CD (PPTX)**  
+
+&nbsp; يتم دمج ملفات PPTX تلقائيًا أثناء مراحل البناء أو الإصدار.
+
+
+
+* **نشر العروض التقديمية بشكل قابل للتوسيع (PPTX)**  
+
+&nbsp; يتم إنشاء مجموعات عروض PPTX بحجم كبير بشكل برمجي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

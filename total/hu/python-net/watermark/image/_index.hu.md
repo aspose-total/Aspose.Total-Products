@@ -73,7 +73,85 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Vízjel elhelyezése **KÉP** fájlokon (általános csővezetékek) Python API-k segítségével egy egységes megközelítést biztosít a tulajdonosi és felhasználási szabályok pecsételéséhez a modern rendszerek által kezelt vegyes képtípusokon.
+
+Egy egységes automatizálási réteg egyszerűsíti a vízjelezést heterogén bemeneteken át, lehetővé téve az egységesített feldolgozást, az auditálhatóságot és a skálázható média irányítást.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Egységes arculat vegyes formátumok esetén**  
+
+&nbsp; Alkalmazza ugyanazt a vízjelzési irányelvet akkor is, ha a bejövő képek típusban és méretben eltérnek.
+
+
+
+* **Tartalomtárak eszközének eredete**  
+
+&nbsp; Jelölje meg a képeket az eredeti azonosító megőrzése érdekében másolás, átméretezés vagy újrahosting után.
+
+
+
+* **Érzékeny vizuális címkézés**  
+
+&nbsp; Adjon hozzá kockázati vagy osztályozási címkéket a belső grafikák visszaéléseinek korlátozásához.
+
+
+
+* **Partnerterjesztés nyomon követése**  
+
+&nbsp; Jelöljön egyedi azonosítókat megosztott képekbe a visszakövethetőség javítása érdekében.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Egyetlen API végpont az összes képbemenethez**  
+
+&nbsp; Vezesse különböző képformátumokat egy vízjel szolgáltatáson keresztül az egységes viselkedés érdekében.
+
+
+
+* **Automatikus orientáció és biztonságos zónák észlelése**  
+
+&nbsp; Programozottan helyezze el a vízjeleket az arcok, logók és kulcsfontosságú tartalomterületek elkerülése érdekében.
+
+
+
+* **Várakozási sor alapú tétel feldolgozás**  
+
+&nbsp; Vízjelezze a nagy médiahalmazokat aszinkron módon, hogy a munkafolyamatok reagívak maradjanak.
+
+
+
+* **Irányelvek frissítése eszközök újra szerkesztése nélkül**  
+
+&nbsp; Újra generálja a vízjelezett változatokat, amikor a vízjel szabályok megváltoznak, kézi tervezés nélkül.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

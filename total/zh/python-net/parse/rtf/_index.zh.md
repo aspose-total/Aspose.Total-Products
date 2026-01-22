@@ -104,7 +104,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API解析**RTF文档**允许从一种轻量级、广泛支持的文本格式中提取内容，保留基本样式。RTF通常用于互操作性和遗留数据交换。
+
+
+
+支持自动化友好的RTF解析，实现快速文本提取，结构开销最小。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **轻量级文档提取**  
+
+  检索来自简单格式文档的文本。
+
+
+
+* **遗留系统互操作性**  
+
+  处理由旧版或最小编辑器生成的文件。
+
+
+
+* **文本规范化任务**  
+
+  将RTF转换为干净的纯文本表示。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **高容量文本处理**  
+
+  自动从大型RTF数据集中提取内容。
+
+
+
+* **格式简化流水线**  
+
+  剥离样式，保留核心内容。
+
+
+
+* **系统间数据交换**  
+
+  实现对基于RTF的输入进行程序化摄取。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,75 @@ För mer information, se [Product Documentation](https://docs.aspose.com/imaging
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Att signera generiska bildinmatningar med Python-API:er ger ett enhetligt tillvägagångssätt för att tillämpa godkännandemärken och valideringsmetadata över blandade bildkällor. Detta är användbart när pipeliner tar emot bilder från olika verktyg och behöver konsekvent styrning.
+
+
+
+När bildsignering automatiseras, tillämpas en standardiserad "godkänd artefakt"-status, vilket säkerställer att efterföljande system endast konsumerar tillgångar som uppfyller kvalitets-, policy- eller efterlevnadskrav.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsområden" %}}
+
+
+
+* **Standardisering av tillgångar från olika källor**  
+
+&nbsp; Tillämpa en konsekvent signaturoverläggning på bilder som kommer från olika verktyg och team.
+
+
+
+* **Validering av bevisbilder**  
+
+&nbsp; Signera bilder som används som bevis för att bekräfta granskarens identitet och godkännandestatus.
+
+
+
+* **Kontroll av godkänd tillgångsdistribution**  
+
+&nbsp; Markera bilder som godkända innan de inkluderas i distributionspaket.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* **Godkännandemärkning vid inmatningstid**  
+
+&nbsp; Signera bilder under inmatning efter att valideringsregler och metadatakontroller har slutförts.
+
+
+
+* **Policykontrollpunktens genomdrivande**  
+
+&nbsp; Signera automatiskt endast de bilder som passerar automatiserade policy- och säkerhetsregler.
+
+
+
+* **Synkronisering av repositories slutgiltigställande**  
+
+&nbsp; Signera bilder innan synkronisering till delade repositories för att säkerställa att endast verifierade versioner sprids.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

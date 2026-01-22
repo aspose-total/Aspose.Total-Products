@@ -90,7 +90,73 @@ DOTM ビューア アプリまたはユーティリティを開発する必要�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用したDOTMビューイングにより、埋め込まれたロジックを実行せずにマクロが有効化されたWordテンプレートを安全に検査できます。
+
+これは、可視性とセキュリティが共存する制御された環境で不可欠です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **マクロが有効化されたテンプレートのレビュー**
+
+&nbsp; マクロを非アクティブのままでテンプレートの内容を表示します。
+
+
+
+* **セキュリティ志向の検査**
+
+&nbsp; システムを実行リスクにさらすことなく構造を検査します。
+
+
+
+* **テンプレート承認プロセス**
+
+&nbsp; 制御された配布前にテンプレートをレビューします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **安全なテンプレート受け入れ**
+
+&nbsp; Pythonビューアーは、オンボーディング中にDOTMファイルを安全に表示します。
+
+
+
+* **ガバナンスの自動化**
+
+&nbsp; テンプレートは自動化されたポリシーチェックの一環としてレビューされます。
+
+
+
+* **使用前検証パイプライン**
+
+&nbsp; 自動プレビューが承認ワークフローをサポートします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

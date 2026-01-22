@@ -79,7 +79,85 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG DOC TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用して**DOC**ファイルに透かしを入れることで、編集可能なコンテンツ内に所有権、機密性、または配布規則を明確に表示することで、古いWord文書を保護するのに役立ちます。
+
+DOCの透かしを自動化することで、文書ガバナンスの一貫性が向上し、古い文書形式でも視覚ポリシー制御をスケールで適用することができます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **レガシー契約の機密スタンプ**  
+
+&nbsp; 古い契約に“CONFIDENTIAL”のマークを追加して、不正な共有を減らします。
+
+
+
+* **レビューサイクルのステータスラベル**  
+
+&nbsp; 文書を“IN REVIEW”としてマークし、下書きの早期流通を防止します。
+
+
+
+* **テンプレートの内部ポリシー強制**  
+
+&nbsp; ガバナンスに合わせるために、レガシーテンプレート全体に標準化された透かしを適用します。
+
+
+
+* **クライアント固有の配布通知**  
+
+&nbsp; 使用許可および再配布制限を明確にするクライアント向けの通知を埋め込みます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **メールボックスからアーカイブへの文書スタンプ**  
+
+&nbsp; リポジトリに保存する前に、DOC添付ファイルに自動的に透かしを入れます。
+
+
+
+* **レガシーファイルのためのフォルダウォッチャ**  
+
+&nbsp; ディレクトリ内の新しいDOCファイルを検出し、手動手順なしでポリシー透かしを適用します。
+
+
+
+* **メタデータ駆動型透かしテキスト**  
+
+&nbsp; 部署、プロジェクト、または感度レベルなどのドキュメントタグから透かしコンテンツを生成します。
+
+
+
+* **自動的な“下書きから最終版への移行”**  
+
+&nbsp; ワークフローシステムで承認が記録されたときに、下書きの透かしを最終ラベルに置き換えます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

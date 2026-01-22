@@ -71,7 +71,75 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Python via
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTX là định dạng trình bày tiêu chuẩn hiện đại cho PowerPoint. Bảo vệ các tệp PPTX là cần thiết để đảm bảo nội dung trình bày luôn chính xác và không bị can thiệp trong môi trường cộng tác.
+
+
+
+Với Python APIs, việc bảo vệ PPTX có thể được tích hợp một cách mượt mà vào quy trình tạo và phân phối trình bày tự động.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Chia Sẻ Trình Bày Mật**  
+
+&nbsp; Bảo vệ các tệp PPTX trước khi phân phối ra bên ngoài.
+
+
+
+* **Thực Thi Phê Duyệt Nội Dung**  
+
+&nbsp; Khóa trình bày sau khi được phê duyệt cuối cùng.
+
+
+
+* **Quản Lý Trình Bày Doanh Nghiệp**  
+
+&nbsp; Áp dụng bảo vệ đồng nhất cho tất cả tài sản PPTX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Bảo Vệ Tự Động Khi Xuất**  
+
+&nbsp; Bảo vệ các tệp PPTX ngay sau khi tạo ra.
+
+
+
+* **Bảo Mật Kích Hoạt Theo Quy Trình**  
+
+&nbsp; Áp dụng bảo vệ dựa trên sự kiện phê duyệt hoặc xuất bản.
+
+
+
+* **Quản Lý Trình Bày Mở Rộng**  
+
+&nbsp; Bảo vệ hàng ngàn tệp PPTX thông qua các kịch bản tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

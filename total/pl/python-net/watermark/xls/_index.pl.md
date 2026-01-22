@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Znakowanie wodne arkuszy kalkulacyjnych **XLS** za pomocą interfejsów API w języku Python pomaga chronić starsze pliki Excel poprzez dodanie widocznych oznaczeń własności i poufności do artefaktów danych, które wciąż szeroko używane są w starszych procesach raportowania.
+
+Automatyzacja sprawia, że znakowanie wodne XLS staje się praktyczne dla dużych archiwów, zapewniając spójne zarządzanie bez konieczności ręcznej edycji każdej skoroszytu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Ochrona starszych arkuszy finansowych**  
+
+&nbsp; Dodaj etykiety poufności do starszych arkuszy budżetowych i prognozowych w formacie XLS.
+
+
+
+* **Znaczniki własności w raportach operacyjnych**  
+
+&nbsp; Oznaczaj raporty XLS, aby zachować tożsamość źródła w przekazywanych kopach.
+
+
+
+* **Wskaźniki danych roboczych**  
+
+&nbsp; Dodawaj znaki wodne "PRELIMINARY", aby zmniejszyć błędy wynikające z niezweryfikowanych liczb.
+
+
+
+* **Kontrole dystrybucji dla udostępniania zewnętrznego**  
+
+&nbsp; Włóż widoczne ograniczenia użytkowania na starsze arkusze kalkulacyjne udostępniane dostawcom.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Automatyczne oznaczanie archiwów**  
+
+&nbsp; Znakuj pliki XLS podczas migracji do nowych systemów przechowywania lub zarządzania.
+
+
+
+* **Obserwator folderów dla przychodzących raportów**  
+
+&nbsp; Wykrywaj nowe pliki XLS i automatycznie stosuj standardowe znaki wodne zgodnie z polityką.
+
+
+
+* **Znakowanie wodne zgodnie z regułami typu raportu**  
+
+&nbsp; Wybieraj treść znaku wodnego na podstawie wzorców nazw plików lub metadanych klasyfikacyjnych.
+
+
+
+* **Zaplanowane znakowanie eksportu**  
+
+&nbsp; Oznaczaj automatyczne eksporty XLS przed ich dostarczeniem interesariuszom.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

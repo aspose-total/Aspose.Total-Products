@@ -76,7 +76,75 @@ PPT 検索可能なソフトウェアまたはユーティリティを開発す�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用して**PPT**ファイルを検索すると、貴重なビジネス、トレーニング、戦略情報を保持している古いプレゼンテーション文書にアクセスできます。自動検索により、古いスライドデッキがスケールで使用可能で検索可能になります。
+
+
+
+PPT検索を自動化システムに統合することで、組織は手動作業を削減し、アーカイブされたプレゼンテーションコンテンツから洞察を得ることができます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **レガシースライドコンテンツの検索**  
+
+&nbsp; 古いPPTプレゼンテーションファイル内のキーワードを検索します。
+
+
+
+* **アーカイブされたプレゼンテーションの取得**  
+
+&nbsp; 過去のスライドデッキの発見を可能にします。
+
+
+
+* **PPTテキストの抽出**  
+
+&nbsp; インデックス作成および分析のためにスライドテキストを取得します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **自動化されたPPTリポジトリのスキャン**  
+
+&nbsp; PythonジョブがPPTファイルを検索可能なコンテンツでスキャンします。
+
+
+
+* **PPTアーカイブインデックスの作成**  
+
+&nbsp; レガシープレゼンテーションはプログラムによってインデックス化されます。
+
+
+
+* **PPTコンテンツの統合**  
+
+&nbsp; 抽出されたデータがレポートおよび分析ワークフローにフィードされます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

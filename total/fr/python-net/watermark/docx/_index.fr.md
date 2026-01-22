@@ -79,7 +79,67 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'ajout de filigranes aux documents **DOCX** avec des API Python apporte un contrôle visible aux fichiers Word modernes, aidant à prévenir la distribution incorrecte et à clarifier la propriété sur du contenu modifiable et partageable.
+
+L'automatisation avec Python permet d'appliquer des règles de filigrane répétables sur des milliers de fichiers DOCX, garantissant un positionnement, une opacité et un message cohérents au sein des équipes et des systèmes.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Étiquetage de documents confidentiels**  
+
+&nbsp; Apposer "CONFIDENTIEL" sur des rapports sensibles pour dissuader le partage non autorisé.
+
+* **Marquage des versions de brouillon pour les révisions**  
+
+&nbsp; Appliquer des superpositions "BROUILLON" pour réduire les erreurs causées par des versions obsolètes.
+
+* **Marques de propriété des livrables clients**  
+
+&nbsp; Ajouter des filigranes de propriété aux livrables tout en préservant la possibilité de les modifier pour la collaboration.
+
+* **Gouvernance des modèles pour les documents commerciaux**  
+
+&nbsp; Faire respecter les normes de filigrane sur les propositions, lettres et relevés générés.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Filigranage automatique des propositions déclenché par le CRM**  
+
+&nbsp; Générer et apposer des filigranes sur les propositions DOCX automatiquement lorsqu'une étape de négociation change.
+
+* **Filigranage en masse pour la migration en back-office**  
+
+&nbsp; Apposer des filigranes sur des fichiers DOCX d'archives lors de la migration du référentiel pour standardiser la gouvernance.
+
+* **Filigrane dynamique par rôle et région**  
+
+&nbsp; Adapter le texte du filigrane en fonction du rôle de l'utilisateur, de l'emplacement du bureau ou des règles de résidence des données.
+
+* **Flux de travail compagnon de rédaction automatisée**  
+
+&nbsp; Apposer des filigranes sur les documents post-traités après la rédaction pour indiquer "COPIE SANITISÉE".
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

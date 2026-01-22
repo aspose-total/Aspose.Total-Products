@@ -71,7 +71,75 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+File ODP umumnya digunakan untuk alur kerja presentasi standar terbuka. Melindungi file presentasi ini memastikan bahwa konten visual dan pesan tetap utuh selama berbagi dan kolaborasi.
+
+
+
+Dengan API Python, presentasi ODP dapat dilindungi secara otomatis, memungkinkan penanganan yang aman dalam sistem generasi dan pengiriman presentasi yang dapat diskalakan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Kunci" %}}
+
+
+
+* **Perlindungan Integritas Presentasi**  
+
+  Preventif modifikasi yang tidak sah pada slide dan tata letak.
+
+
+
+* **Pembahasan Rahasia**  
+
+  Amankan presentasi sensitif sebelum dibagikan secara internal atau eksternal.
+
+
+
+* **Pemerintahan Presentasi Berstandar**  
+
+  Terapkan aturan perlindungan yang konsisten pada semua file ODP.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Perlindungan Slide Deck Otomatis**  
+
+  Amankan file ODP segera setelah pembuatan otomatis.
+
+
+
+* **Penegakan Keamanan Berbasis Pipa**  
+
+  Terapkan perlindungan selama alur kerja konten gaya CI/CD.
+
+
+
+* **Pembatasan Akses Programatik**  
+
+  Kontrol hak pengeditan dan penayangan secara dinamis melalui skrip.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

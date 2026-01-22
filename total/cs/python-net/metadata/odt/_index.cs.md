@@ -98,7 +98,93 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Extrakce metadat dokumentů pro soubory **ODT** pomocí Python API poskytuje programový přístup k vlastnostem textových dokumentů—umožňuje auditování, klasifikaci a obohacení vyhledávání bez nutnosti manuální inspekce. To je důležité pro správu dokumentů, řízení znalostí a sledování životního cyklu.
+
+
+
+V automatizačních systémech mohou být metadata ODT použity k prosazování standardů, směrování schválení a synchronizaci katalogů—podporující škálovatelné zpracování napříč velkými repozitáři s konzistentními pravidly.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Organizace znalostní báze**
+
+  Použití metadat ODT kategorizovat a indexovat interní dokumenty pro rychlejší získání.
+
+
+
+* **Kontroly vlastnictví a správy**
+
+  Extrahovat pole autora a editora k přiřazení recenzentů a udržení odpovědnosti.
+
+
+
+* **Rozhodnutí o uchování a archivaci**
+
+  Použití časových razítek k určení, zda by měly být soubory ODT archivovány, uchovány nebo obnoveny.
+
+
+
+* **Normalizace metadat pro analytiku**
+
+  Převést vlastnosti ODT do konzistentních polí pro reporting a analýzu trendů.
+
+
+
+* **Validace před publikováním**
+
+  Ověřit požadovaná popisná pole před konverzí dokumentů ODT do publikovaných formátů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Klasifikace na základě pravidel**
+
+  Automaticky klasifikovat dokumenty ODT do pracovních postupů pomocí přítomnosti metadat, vlastnictví a časových razítek.
+
+
+
+* **Synchronizace katalogu pracovního postupu**
+
+  Extrahovat metadata ODT každou noc a synchronizovat je s centralizovaným registrem používaným interními vyhledávacími systémy.
+
+
+
+* **Automatizované recenze dokumentace**
+
+  Spustit úkoly recenze pro soubory ODT, když metadata naznačují, že nebyly aktualizovány v rámci politiky.
+
+
+
+* **Mapování metadat na přístupová pravidla**
+
+  Aplikovat přístupová pravidla dynamicky, když metadata ODT naznačují omezené kategorie obsahu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

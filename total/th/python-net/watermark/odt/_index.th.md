@@ -79,7 +79,85 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG ODT TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การใส่ลายน้ำในเอกสาร **ODT** ด้วย Python APIs ช่วยป้องกันไฟล์เอกสารข้อความเปิดโอกาสโดยการเพิ่มเครื่องหมายเจ้าของและความลับอย่างชัดเจนในขณะที่ยังรักษาเนื้อหาให้สามารถเข้าถึงได้ในระบบนิเวศเปิด
+
+การอัตโนมัติช่วยให้มีกฎการใส่ลายน้ำที่เหมือนกันในไลบรารี ODT ที่รองรับการบริหารเอกสารขนาดใหญ่สำหรับทีมที่ใช้รูปแบบเปิด
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* **การติดป้ายกำกับนโยบายรูปแบบเปิด**  
+
+  &nbsp; ติดตราเอกสาร ODT ด้วย "INTERNAL" หรือ "CONFIDENTIAL" เพื่อลดการส่งผิดที่ไม่เหมาะสม
+
+
+
+* **ควบคุมเอกสารร่างสำหรับการเขียนร่วมกัน**  
+
+  &nbsp; ใช้การนำเสนอ "DRAFT" ในระหว่างการแก้ไขแบบวนรอบ
+
+
+
+* **ประกาศการกระจายเอกสารสำหรับเอกสารที่แชร์**  
+
+  &nbsp; เพิ่มข้อจำกัดการใช้ซ้ำในเอกสารที่แชร์กับผู้รับเหมาะสมหรือพันธมิตร
+
+
+
+* **การรักษาความเป็นตัวต้นฉบับ**  
+
+  &nbsp; ใส่ลายน้ำในไฟล์ ODT ที่ส่งออกเพื่อให้เห็นเจ้าของได้แม้จะคัดลอกระหว่างระบบ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **ขั้นตอนสร้างเอกสาร + ขั้นตอนใส่ลายน้ำ**  
+
+  &nbsp; ใส่ลายน้ำในไฟล์ ODT ที่สร้างจากเทมเพลตหรือข้อมูลโครงสร้างโดยอัตโนมัติ
+
+
+
+* **การบังคับนโยบายที่เก็บรักษา**  
+
+  &nbsp; ใส่ลายน้ำเมื่อ ODT ถูกอัปโหลดเข้าไปในโฟลเดอร์ที่ได้รับการควบคุม
+
+
+
+* **การสลับข้อความลายน้ำเวอร์ชันโดยอัตโนมัติ**  
+
+  &nbsp; เปลี่ยนข้อความลายน้ำตามสถานะเวอร์ชัน (ร่าง, ตรวจสอบ, สุดท้าย) โดยโปรแกรม
+
+
+
+* **ท่อการส่งออกเพื่อปฏิบัติตามกฎระเบียบ**  
+
+  &nbsp; ติดตราเอกสาร ODT ที่ส่งออกใช้สำหรับการตรวจสอบเพื่อให้มั่นใจในการติดป้ายกำกับอย่างสม่ำเสมอในการส่ง
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

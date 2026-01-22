@@ -85,7 +85,75 @@ Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het samenvoegen van TIFF-afbeeldingen met behulp van Python API's ondersteunt workflows met hoge resolutie en meerdere pagina's die veel worden gebruikt in drukwerk, medische beeldvorming en documentscanning.
+
+
+
+Automatisering maakt betrouwbare verwerking van grote, detailrijke beeldensets mogelijk.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Samenvoegen van Meerdere Pagina's (TIFF)**  
+
+&nbsp; Voeg TIFF-pagina's samen tot één multi-pagina bestand.
+
+
+
+* **Verwerking van Beelden met Hoge Resolutie (TIFF)**  
+
+&nbsp; Combineer TIFF-afbeeldingen voor gedetailleerde analyse.
+
+
+
+* **Samenstellen van Drukklare Afbeeldingen (TIFF)**  
+
+&nbsp; Aggregeer TIFF-bestanden voor publicatieworkflows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Geautomatiseerde Scanpipelines (TIFF)**  
+
+&nbsp; Systemen voegen TIFF-bestanden samen tijdens het scannen.
+
+
+
+* **Batch Verwerking van Hoge Resolutie (TIFF)**  
+
+&nbsp; Het samenvoegen van TIFF-bestanden gebeurt in geplande taken.
+
+
+
+* **Automatisering van Beeldverwerking voor Ondernemingen (TIFF)**  
+
+&nbsp; Geautomatiseerde workflows beheren grote TIFF-datasets.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การลงนามเอกสาร ODT โดยใช้ Python APIs ช่วยให้เอกสารข้อความในรูปแบบเปิดสามารถพกเครื่องหมายการอนุมัติที่ได้รับการตรวจสอบและข้อมูลผู้ลงนาม ซึ่งสนับสนุนการดำเนินชีวิตของเอกสารที่มีการควบคุมโดยไม่ต้องพึ่งพากับรูปแบบที่เป็นเอกสารเฉพาะของบริษัท
+
+
+
+ในกระบวนการอัตโนมัติ ODT signing ช่วยให้การอนุมัติถูกใช้โดยสม่ำเสมอที่จุดปิดการทบทวน ซึ่งช่วยเพิ่มความสามารถในการตรวจสอบและลดการจัดการเอกสารด้วยมือ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **การอนุมัตินโยบายในรูปแบบเปิด**  
+
+&nbsp; ลงนามเอกสารนโยบาย ODT เพื่อยืนยันการทบทวนสุดท้ายและการอนุมัติ
+
+
+
+* **การปิดขั้นตอนการทำงานของบรรณาธิการ**  
+
+&nbsp; ใส่ลายเซ็นลงในร่าง ODT เมื่อการทบทวนเนื้อหาเสร็จสิ้น
+
+
+
+* **การบริหารจัดการฐานความรู้ภายใน**  
+
+&nbsp; ลงนามเอกสาร ODT ก่อนที่จะเผยแพร่ไปยังที่เก็บข้อมูลที่ใช้ร่วมกัน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การเริ่มต้นการทบทวนของผู้ทบทวน**  
+
+&nbsp; ลงนามเอกสาร ODT โดยอัตโนมัติเมื่อผู้ทบทวนทั้งหมดที่ได้รับมอบหมายเสร็จสิ้นการอนุมัติ
+
+
+
+* **ประตูการเผยแพร่ที่เก็บข้อมูล**  
+
+&nbsp; ลงนามเอกสาร ODT ก่อนที่จะถูกเผยแพร่ไปยังการเผยแพร่ฐานความรู้
+
+
+
+* **การฉีดเส้นทางการตรวจสอบโดยอัตโนมัติ**  
+
+&nbsp; แนบข้อมูลตัวตนของผู้ลงนามและเวลาที่เกิดขึ้นในระหว่างการทำงานการลงนาม ODT
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

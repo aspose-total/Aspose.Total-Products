@@ -74,7 +74,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Редакція документів за допомогою Python APIs для файлів ODT дозволяє безпечно модифікувати відкриті текстові файли документів без зміни їх основної структури. Це підтримує прозору та стандартизовану обробку документів.
+
+
+
+Автоматизуючи редакцію ODT, організації можуть ефективно управляти конфіденційним вмістом у відкритих та взаємодійсних документальних екосистемах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* **Обмін документами з дотриманням конфіденційності**  
+
+&nbsp; Редакція персональних даних перед обміном файлами ODT зовнішньо.
+
+
+
+* **Видалення вмісту за політикою**  
+
+&nbsp; Застосовуйте правила редакції, які відповідають організаційним політикам.
+
+
+
+* **Публікація відкритих документів**  
+
+&nbsp; Підготовка санітарних документів для публічного або крос-платформенного використання.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Редакція метаданих та тексту**  
+
+&nbsp; Автоматичне видалення конфіденційного вмісту як з основного тексту, так і з метаданих.
+
+
+
+* **Масова обробка файлів у відкритому форматі**  
+
+&nbsp; Редакція великих обсягів файлів ODT в одному автоматизованому запуску.
+
+
+
+* **Інтеграція з CMS-потоками**  
+
+&nbsp; Застосовуйте редакцію перед публікацією або синдикацією документів.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

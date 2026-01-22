@@ -71,7 +71,75 @@ Para obter mais detalhes, consulte [Documentação do produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Os arquivos PPT representam formatos mais antigos do PowerPoint ainda usados em muitos ambientes. Proteger arquivos PPT garante que apresentações legadas permaneçam seguras e em conformidade.
+
+
+
+As APIs do Python permitem a proteção automatizada de arquivos PPT, permitindo que o conteúdo legado esteja alinhado com os padrões de segurança modernos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Proteção de Slides Legados**  
+
+  Proteja arquivos PPT mais antigos contra modificações não autorizadas.
+
+
+
+* **Preservação de Conteúdo Histórico**  
+
+  Mantenha a integridade de apresentações arquivadas.
+
+
+
+* **Redistribuição Controlada**  
+
+  Restrinja a edição ao compartilhar conjuntos de slides legados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Proteção em Lote de Arquivos Legados**  
+
+  Proteja grandes coleções de arquivos PPT automaticamente.
+
+
+
+* **Segurança durante a Migração**  
+
+  Aplique proteção durante transições de sistemas legados.
+
+
+
+* **Limitação de Acesso Automatizada**  
+
+  Imponha restrições consistentes em arquivos PPT programaticamente.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

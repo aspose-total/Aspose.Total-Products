@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+دمج مستندات Word التي تحتوي على تمكين للماكرو باستخدام واجهات برمجة التطبيقات في Python يسمح بتكوين المستندات بشكل منظم مع الاحتفاظ بالمنطق المضمن والسلوكيات المتقدمة للمستند. هذا أمر أساسي في بيئات الشركات حيث تتضمن المستندات الأتمتة أو النماذج أو الحقول المحسوبة.
+
+
+
+عملية دمج ملفات DOCM بشكل آلي تدعم سير العمل للمستندات بشكل قابل للتوسيع حيث يتم دمج الملفات التي تحتوي على المنطق بشكل موثوق دون تدخل يدوي، مما يضمن استمرارية العمل والكفاءة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تجميع القوالب القائمة على الماكرو (DOCM)**  
+
+&nbsp; دمج عدة مستندات تحتوي على تمكين للماكرو في مستند تنفيذي واحد.
+
+
+
+* **تجميع المستندات التشغيلية (DOCM)**  
+
+&nbsp; توحيد ملفات DOCM المستخدمة في الأقسام في ملفات تشغيلية موحدة.
+
+
+
+* **توحيد وثائق العمليات (DOCM)**  
+
+&nbsp; دمج تعليمات وأدوات قائمة على DOCM في مستند واحد مراقب.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **إنشاء ملفات الامتثال تلقائيًا (DOCM)**  
+
+&nbsp; تدمج الأنظمة ملفات DOCM تلقائيًا لإنتاج مستندات جاهزة للامتثال.
+
+
+
+* **تكوين المستندات بناءً على القواعد (DOCM)**  
+
+&nbsp; يتم دمج ملفات DOCM بشكل ديناميكي استنادًا إلى قواعد سير العمل.
+
+
+
+* **الحفاظ على الماكرو المراقبة من الخلفية (DOCM)**  
+
+&nbsp; تدمج الأنابيب الآلية ملفات DOCM مع الحفاظ على المنطق المضمن.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

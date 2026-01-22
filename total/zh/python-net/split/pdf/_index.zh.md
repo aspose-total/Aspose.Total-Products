@@ -79,7 +79,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PDF文件被广泛用于固定布局文档，其中内容分布在各个页面上。拆分PDF文件可以实现基于页面或部分的访问，而无需修改原始文件。
+
+
+
+基于Python的PDF拆分增强了自动化功能，使大规模处理、选择性提取和与文档流程集成成为可能。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **基于页面的提取**  
+
+  &nbsp; 隔离特定页面以供审阅或分发。
+
+
+
+* **文档分割**  
+
+  &nbsp; 将大型PDF文件拆分为逻辑部分。
+
+
+
+* **合规性和审计处理**  
+
+  &nbsp; 提取相关部分以供验证。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量PDF处理流程**  
+
+  &nbsp; 数千个PDF文件被自动拆分。
+
+
+
+* **基于规则的页面分离**  
+
+  &nbsp; 使用Python逻辑根据页面规则拆分PDF文件。
+
+
+
+* **自动化内容分发**  
+
+  &nbsp; 提取的PDF文件被路由到目标系统。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

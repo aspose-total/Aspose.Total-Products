@@ -82,7 +82,73 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Imaging for Python vi
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Xem JPEG và JPG bằng Python APIs cho phép kiểm tra hiệu quả các hình ảnh nén được sử dụng rộng rãi trên các hệ thống.
+
+Điều này hỗ trợ quy trình làm việc trực quan có thể mở rộng nơi hiệu suất và tính tương thích quan trọng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Đánh Giá Hình Ảnh Nén**  
+
+&nbsp; Xem hình ảnh được tối ưu hóa cho việc lưu trữ và truyền tải.
+
+
+
+* **Xác Thực Nội Dung Trực Quan**  
+
+&nbsp; Kiểm tra hình ảnh để đảm bảo rõ ràng và chính xác.
+
+
+
+* **Quản Lý Tài Sản Đa Phương Tiện**  
+
+&nbsp; Đánh giá các tài sản hình ảnh phổ biến được lập trình.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Các Quy Trình Phương Tiện Tự Động Hóa**  
+
+&nbsp; Các tệp JPEG được hiển thị trong quy trình làm việc theo lô.
+
+
+
+* **Hệ Thống Tối Ưu Hóa Xem Trước**  
+
+&nbsp; Hình ảnh được hiển thị động để xem nhanh.
+
+
+
+* **Kiểm Tra Chất Lượng Tài Sản**  
+
+&nbsp; Các trình xem Python hỗ trợ kiểm tra tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

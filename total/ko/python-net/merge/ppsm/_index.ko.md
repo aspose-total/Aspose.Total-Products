@@ -79,7 +79,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 매크로 활성화된 슬라이드 쇼 프레젠테이션을 병합하면 자동화된 대화식 슬라이드 쇼 전달을 지원합니다. 이러한 형식은 일반적으로 통제된 환경에서 사용됩니다.
+
+
+
+자동화를 통해 병합 중에 매크로와 슬라이드 쇼 동작이 보존됩니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **대화식 슬라이드 쇼 조립 (PPSM)**  
+
+&nbsp; 매크로 활성화된 슬라이드 쇼 파일을 병합합니다.
+
+
+
+* **자동화된 데모 프레젠테이션 (PPSM)**  
+
+&nbsp; 자동화된 데모를 위해 PPSM 파일을 결합합니다.
+
+
+
+* **제어된 재생 덱 (PPSM)**  
+
+&nbsp; 통제된 프레젠테이션을 위해 PPSM 파일을 집계합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **규칙 기반 슬라이드 쇼 생성 (PPSM)**  
+
+&nbsp; 시스템이 논리 규칙에 따라 PPSM 파일을 병합합니다.
+
+
+
+* **백엔드 자동화 보존 (PPSM)**  
+
+&nbsp; PPSM 병합은 대화식 동작을 유지합니다.
+
+
+
+* **예약된 데모 생성 (PPSM)**  
+
+&nbsp; 일정에 따라 슬라이드 쇼가 자동으로 병합됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

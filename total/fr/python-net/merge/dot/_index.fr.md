@@ -78,7 +78,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusion des formats de modèles Word à l'aide des API Python permet une création de documents cohérente à travers les équipes et les systèmes. La fusion basée sur des modèles garantit des mises en page standardisées tout en permettant une composition de contenu flexible.
+
+
+
+Cette approche est idéale pour les usines de documents automatisées où la structure et l'image de marque doivent rester cohérentes sur toutes les sorties.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Assemblage de documents basé sur des modèles (DOT)**  
+
+&nbsp; Fusionner des documents basés sur DOT pour imposer un formatage cohérent.
+
+
+
+* **Création de sortie standardisée (DOT)**  
+
+&nbsp; Combinez des fichiers pilotés par des modèles en documents unifiés.
+
+
+
+* **Gestion de mise en page réutilisable (DOT)**  
+
+&nbsp; Agréger des documents DOT pour maintenir l'uniformité de la mise en page.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Application automatisée de modèles (DOT)**  
+
+&nbsp; Les fichiers DOT sont fusionnés automatiquement lors de la génération de documents.
+
+
+
+* **Traitement par lots de modèles (DOT)**  
+
+&nbsp; De gros volumes de documents DOT sont fusionnés dans des tâches planifiées.
+
+
+
+* **Contrôle de mise en page appliqué par le système (DOT)**  
+
+&nbsp; Les systèmes automatisés fusionnent des fichiers DOT pour garantir la cohérence du format.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

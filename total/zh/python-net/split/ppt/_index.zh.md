@@ -73,7 +73,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPT是一种仍在旧系统中使用的传统演示文稿格式。拆分PPT文件可以使其在现代自动化环境中继续可用。
+
+
+
+Python API使得可以在程序中处理PPT文件，尽管它们具有传统的结构。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **传统演示文稿迁移**  
+
+  &nbsp; 提取幻灯片以进行转换或升级。
+
+
+
+* **选择性内容访问**  
+
+  &nbsp; 仅处理特定幻灯片而无需完全转换。
+
+
+
+* **演示文稿存档管理**  
+
+  &nbsp; 将幻灯片单独存储以进行索引。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **传统格式处理流水线**  
+
+  &nbsp; 自动化规模化PPT拆分。
+
+
+
+* **提取幻灯片进行转换**  
+
+  &nbsp; 将幻灯片转换为现代格式。
+
+
+
+* **自动化演示文稿审核**  
+
+  &nbsp; 通过程序自动审核幻灯片内容。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Znakowanie wodne arkuszy kalkulacyjnych **Excel** za pomocą interfejsów API w języku Python dodaje kontrole widoczności do arkuszy kalkulacyjnych z dużą ilością danych, pomagając w komunikacji dotyczącej własności, poufności i zamierzonego zastosowania bezpośrednio w widokach arkusza kalkulacyjnego.
+
+Automatyzacja sprawia, że znakowanie wodne arkuszy kalkulacyjnych jest niezawodne w skali—idealne do planowego raportowania, udostępniania wielu zespołom i kontrolowanych eksportów z systemów analitycznych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Nakładki na poufność raportów finansowych**  
+
+&nbsp; Oznacz arkusze kalkulacyjne zawierające budżety lub prognozy, aby zmniejszyć ryzyko wycieku.
+
+
+
+* **Ograniczenia dystrybucji dla udostępnionych pulpitów nawigacyjnych**  
+
+&nbsp; Dodaj etykiety „TYLKO DO UŻYTKU WEWNĘTRZNEGO”, aby zniechęcić do przekazywania zewnętrznego.
+
+
+
+* **Wskaźniki wersji roboczych do walidacji danych**  
+
+&nbsp; Stosuj znaki wodne „WSTĘPNY” do momentu zakończenia rekonsyliacji lub zatwierdzenia.
+
+
+
+* **Ogłoszenia o własności danych partnerów**  
+
+&nbsp; Włóż tekst dotyczący własności do udostępnionych arkuszy kalkulacyjnych, aby wyjaśnić dozwolone ponowne wykorzystanie zbiorów danych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Planowe raportowanie z automatycznym stemplowaniem**  
+
+&nbsp; Nakładaj znaki wodne na generowane raporty codziennie przed wysłaniem na listy dystrybucyjne.
+
+
+
+* **Znakowanie wodne według klasyfikacji arkusza kalkulacyjnego**  
+
+&nbsp; Użyj tagów wrażliwości do automatycznego wyboru tekstu znaku wodnego i jego umiejscowienia.
+
+
+
+* **Egzekwowanie potoku eksportu**  
+
+&nbsp; Oznaczaj arkusze kalkulacyjne podczas eksportu z systemów BI lub ETL, aby utrzymać zarządzanie.
+
+
+
+* **Automatyczne etykietowanie zgodności regionalnej**  
+
+&nbsp; Dodaj ogłoszenia specyficzne dla jurysdykcji na podstawie zespołu docelowego lub kraju.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

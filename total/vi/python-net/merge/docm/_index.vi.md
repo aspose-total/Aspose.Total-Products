@@ -78,7 +78,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Words for Python via .
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Hợp nhất các tài liệu Word hỗ trợ macro bằng cách sử dụng Python APIs cho phép việc soạn thảo tài liệu có cấu trúc trong khi vẫn giữ nguyên logic nhúng và hành vi tài liệu tiên tiến. Điều này rất quan trọng đối với môi trường doanh nghiệp nơi mà tài liệu bao gồm tự động hóa, biểu mẫu hoặc trường tính toán.
+
+
+
+Hợp nhất DOCM tự động hỗ trợ quy trình làm việc với tài liệu có khả năng chứa logic mà không cần can thiệp thủ công, đảm bảo liên tục và hiệu quả trong hoạt động.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tổ Hợp Mẫu Dựa Trên Macro (DOCM)**  
+
+&nbsp; Hợp nhất nhiều tài liệu hỗ trợ macro vào một tài liệu thực thi duy nhất.
+
+
+
+* **Gói Tài Liệu Vận Hành (DOCM)**  
+
+&nbsp; Tổng hợp các tệp DOCM được sử dụng trong các bộ phận thành các tệp vận hành thống nhất.
+
+
+
+* **Tổng Hợp Tài Liệu Quy Trình (DOCM)**  
+
+&nbsp; Kết hợp hướng dẫn và công cụ dựa trên DOCM vào một tài liệu kiểm soát.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Tạo Tài Liệu Tuân Thủ Tự Động (DOCM)**  
+
+&nbsp; Hệ thống tự động hợp nhất các tệp DOCM để tạo ra tài liệu sẵn sàng tuân thủ.
+
+
+
+* **Tổ Hợp Tài Liệu Dựa Trên Quy Tắc (DOCM)**  
+
+&nbsp; Các tệp DOCM được hợp nhất một cách động dựa trên các quy tắc quy trình làm việc.
+
+
+
+* **Bảo Toàn Macro Được Kiểm Soát Bởi Backend (DOCM)**  
+
+&nbsp; Các đường ống tự động hợp nhất các tệp DOCM trong khi bảo toàn logic nhúng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

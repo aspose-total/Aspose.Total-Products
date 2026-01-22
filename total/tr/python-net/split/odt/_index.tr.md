@@ -79,7 +79,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT, yapılandırılmış metin belgeleri için tasarlanmış açık bir belge biçimidir. ODT dosyalarını bölmek, bölüm düzeyinde işleme ve yapılandırılmış içerik işleme imkanı sağlar.
+
+
+
+Python API'leri kullanarak, ODT bölme ölçeklenebilir hale gelir ve otomatik belge işlemleri için uygun hale gelir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Yapılandırılmış İçerik Çıkarma**  
+
+  &nbsp; Bölümleri veya bölümleri bağımsız olarak çıkarın.
+
+
+
+* **Açık Biçim Arşivleme**  
+
+  &nbsp; İçeriği granüler düzeyde koruyun ve yönetin.
+
+
+
+* **İşbirlikçi Belge İşleme**  
+
+  &nbsp; Belge bölümlerinde paralel iş akışlarını etkinleştirin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **XML Tabanlı Bölüm Ayrıştırma**  
+
+  &nbsp; Python, bölme için yapısal işaretleyicileri tanır.
+
+
+
+* **Otomatik İçerik Sınıflandırma**  
+
+  &nbsp; Çıkarılan bölümler programatik olarak kategorilendirilir.
+
+
+
+* **İş Akışı Odaklı Belge Yönlendirme**  
+
+  &nbsp; Bölümler otomatik olarak farklı sistemlere yönlendirilir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

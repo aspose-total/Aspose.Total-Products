@@ -79,7 +79,76 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Łączenie prezentacji PPTX za pomocą interfejsów API w języku Python jest najczęstszym podejściem do współczesnej kompozycji slajdów. Pozwala to na precyzyjną kontrolę nad kolejnością slajdów, układami i spójnością treści.
+
+
+
+Ta funkcjonalność integruje się czysto z zautomatyzowanymi silnikami treści oraz systemami raportowania.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Tworzenie wielosekcyjnych zestawów slajdów (PPTX)**  
+
+&nbsp; Scal pliki PPTX reprezentujące sekcje w jedną prezentację.
+
+
+
+* **Integracja wspólnych slajdów (PPTX)**  
+
+&nbsp; Łączenie slajdów PPTX autorstwa wielu współautorów.
+
+
+
+* **Montaż modułowych zestawów slajdów (PPTX)**  
+
+&nbsp; Składanie modułowych slajdów PPTX w spersonalizowane prezentacje.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Generowanie dynamicznych zestawów slajdów (PPTX)**  
+
+&nbsp; Systemy łączą pliki PPTX na podstawie danych wejściowych w czasie wykonania.
+
+
+
+* **Potoki prezentacji CI/CD (PPTX)**  
+
+&nbsp; Łączenie plików PPTX jest zautomatyzowane podczas etapów budowania lub wypuszczania.
+
+
+
+* **Skalowalne publikowanie prezentacji (PPTX)**  
+
+&nbsp; Programowo generowane są duże zestawy slajdów PPTX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

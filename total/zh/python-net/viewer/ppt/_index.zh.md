@@ -89,7 +89,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API查看PPT文件可以检查在旧系统中使用的传统演示文档。
+
+这支持需要向后兼容性的自动化。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **传统演示文档审查**  
+
+  &nbsp; 以编程方式查看旧幻灯片。
+
+
+
+* **内容迁移支持**  
+
+  &nbsp; 在升级格式之前检查演示文稿。
+
+
+
+* **演示文稿验证**  
+
+  &nbsp; 确保幻灯片数据保持完整。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **传统审计管道**  
+
+  &nbsp; Python工作流程呈现PPT文件以供检查。
+
+
+
+* **转换前验证**  
+
+  &nbsp; 查看以确保安全格式迁移。
+
+
+
+* **批量演示文稿审查**  
+
+  &nbsp; 大量收藏品会自动检查。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

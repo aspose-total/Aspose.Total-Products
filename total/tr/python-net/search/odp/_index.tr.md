@@ -76,7 +76,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'ları kullanarak **ODP** dosyalarını aramak, işbirlikçi ve açık kaynak ortamlarında yaygın olarak kullanılan yapılandırılmış erişim sağlar. Programlı arama, sistemlerin slayt metni, başlıklar ve meta verileri manuel inceleme olmadan çıkarmasına olanak tanır.
+
+
+
+Otomatikleştirildiğinde, ODP belge araması keşif kolaylaştırır, ölçeklenebilir içerik yönetimini destekler ve modern veri işleme ve iş akışı otomasyon sistemleriyle sorunsuz entegre olur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **ODP Slayt Metni Araması**  
+
+&nbsp; Açık format sunum slaytları arasında anahtar kelimeleri ve ifadeleri bulur.
+
+
+
+* **Açık Sunum İçeriği İncelemesi**  
+
+&nbsp; Paylaşılan veya işbirlikçi slayt desteklerinin hızlı incelenmesini sağlar.
+
+
+
+* **ODP Meta Veri Keşfi**  
+
+&nbsp; Sınıflandırma ve dizinleme için belge özelliklerini çıkarır.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik ODP Dizinleme**  
+
+&nbsp; Python hizmetleri sürekli olarak ODP dosyalarını arama erişimi için dizinler.
+
+
+
+* **ODP İçerik İzleme**  
+
+&nbsp; Programlı taramalar sunumlarında değişiklikleri veya güncellemeleri algılar.
+
+
+
+* **ODP İş Akışı Entegrasyonu**  
+
+&nbsp; Çıkarılan içerik otomatik yayınlama veya inceleme süreçlerine besleme sağlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

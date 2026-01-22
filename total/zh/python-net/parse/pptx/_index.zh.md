@@ -100,7 +100,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API解析**PPTX演示文稿**可以从现代演示文件中结构化访问幻灯片文本、标题、项目符号、布局和演讲者备注。PPTX解析使基于幻灯片的知识可以超越手动查看而被访问。
+
+
+
+在自动化驱动的系统中，PPTX解析支持内容重用、摘要、分析，并与知识管理和报告管道集成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **提取幻灯片内容**  
+
+  检索演示文稿幻灯片中的结构化文本和布局元素。
+
+
+
+* **演示文稿知识挖掘**  
+
+  将幻灯片转换为可搜索和可分析的内容来源。
+
+
+
+* **内容再利用工作流程**  
+
+  可以在文档和平台之间重用演示材料。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化演示文稿摄入**  
+
+  在上传或计划时自动处理PPTX文件。
+
+
+
+* **幻灯片级摘要管道**  
+
+  从解析的幻灯片内容生成简洁摘要。
+
+
+
+* **版本比较自动化**  
+
+  以编程方式检测多个演示文稿版本之间的更改。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

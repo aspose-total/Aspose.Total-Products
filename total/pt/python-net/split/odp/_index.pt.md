@@ -73,7 +73,75 @@ Para obter mais detalhes, consulte [Documentação do produto](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Os arquivos ODP são usados para apresentações de padrão aberto que contêm vários slides e componentes visuais. A divisão de arquivos ODP permite acesso e reutilização ao nível do slide.
+
+
+
+A automação em Python suporta a divisão eficiente de arquivos ODP para processamento de apresentações escalável e reutilização de conteúdo.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Reutilização ao Nível do Slide**  
+
+  &nbsp; Os slides individuais podem ser extraídos e reutilizados em diferentes apresentações.
+
+
+
+* **Análise de Conteúdo da Apresentação**  
+
+  &nbsp; Analisar slides de forma independente quanto à estrutura ou metadados.
+
+
+
+* **Edição Colaborativa**  
+
+  &nbsp; Equipes trabalham em conjuntos de slides isolados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Extração Automatizada de Slides**  
+
+  &nbsp; Scripts em Python dividem os slides de forma programática.
+
+
+
+* **Montagem Dinâmica de Apresentações**  
+
+  &nbsp; Os slides são recombinados com base em regras em tempo de execução.
+
+
+
+* **Sistemas de Arquivamento de Apresentações**  
+
+  &nbsp; Os slides são indexados individualmente para recuperação.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

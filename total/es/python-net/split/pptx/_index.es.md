@@ -84,7 +84,73 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTX es un formato de presentación moderno basado en XML diseñado para contenido de diapositivas estructurado. La división de archivos PPTX permite un control detallado sobre los datos a nivel de diapositiva.
+
+
+
+La automatización basada en Python admite un procesamiento confiable, escalable y consciente del formato de archivos PPTX.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+- **Gestión de contenido a nivel de diapositiva**  
+
+  &nbsp; Administre diapositivas individuales como unidades independientes.
+
+
+
+- **Personalización automatizada de presentaciones**  
+
+  &nbsp; Cree presentaciones personalizadas a partir de diapositivas extraídas.
+
+
+
+- **Análisis de presentaciones**  
+
+  &nbsp; Analice el contenido de las diapositivas de forma programática.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+- **Análisis de diapositivas consciente de XML**  
+
+  &nbsp; Los scripts de Python extraen diapositivas con precisión.
+
+
+
+- **Ensamblaje de mazos basado en reglas**  
+
+  &nbsp; Las diapositivas se ensamblan dinámicamente.
+
+
+
+- **Tuberías de revisión automatizadas**  
+
+  &nbsp; Las diapositivas se validan de forma independiente.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

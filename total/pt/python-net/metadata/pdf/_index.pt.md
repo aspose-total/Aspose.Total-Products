@@ -97,7 +97,93 @@ Para obter mais detalhes, consulte [Documentação do Produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A extração de metadados de documentos para arquivos **PDF** via APIs Python ajuda os sistemas a capturar propriedades essenciais - como título, autor, produtor, datas de criação e modificação e identificadores incorporados - apoiando a governança e descoberta mesmo quando o conteúdo é principalmente de layout fixo. Isso é importante para auditabilidade, catalogação e manipulação operacional de repositórios de PDF de alto volume.
+
+
+
+Nos pipelines de automação, os metadados de PDF podem impulsionar a indexação, roteamento, aplicação de retenção e processamento em lote - tornando prático integrar PDFs em fluxos de trabalho escaláveis sem triagem manual.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Catalogação de Arquivo Digital**
+
+  Extrair metadados de PDF para construir um inventário confiável de documentos com atributos pesquisáveis.
+
+
+
+* **Auditorias de Conformidade e Retenção**
+
+  Utilizar carimbos de data/hora de criação/modificação para validar prazos de retenção e detectar inconsistências.
+
+
+
+* **Atribuição de Produtor e Origem**
+
+  Capturar propriedades relacionadas ao produtor para entender as origens do conteúdo e a linhagem de processamento.
+
+
+
+* **Sinais de Classificação em Lote**
+
+  Utilizar campos de metadados para categorizar PDFs em domínios como políticas, faturas, manuais ou relatórios.
+
+
+
+* **Verificações de Qualidade Operacional**
+
+  Sinalizar PDFs com metadados ausentes ou suspeitos como candidatos para correção ou revisão manual.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Triagem de Admissão Automatizada**
+
+  Quando os PDFs chegam, extrair metadados e encaminhá-los para pistas de processamento com base em regras de completude e sensibilidade.
+
+
+
+* **Atualizações de Índice Orientadas por Metadados**
+
+  Atualizar automaticamente um índice de pesquisa sempre que um PDF for adicionado ou substituído, utilizando metadados para recuperação rápida.
+
+
+
+* **Fluxo de Trabalho de Aplicação de Retenção**
+
+  Executar trabalhos agendados que identificam PDFs além dos limites de retenção e geram tarefas de exclusão ou arquivamento.
+
+
+
+* **Relatórios em Lote e Painéis de Controle**
+
+  Agregar metadados de PDF extraídos em relatórios periódicos para governança, conformidade e supervisão operacional.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

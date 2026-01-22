@@ -90,7 +90,73 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La visualización de archivos DOT con APIs de Python permite inspeccionar las plantillas de documentos de Word utilizadas como base para la creación de contenido estandarizado.
+
+Esto permite la validación automatizada y el gobierno de flujos de trabajo de documentos basados en plantillas.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+
+
+* **Revisión de la Estructura de la Plantilla**  
+
+  &nbsp; Ver estilos predefinidos y marcadores de posición incrustados en las plantillas de Word.
+
+
+
+* **Aplicación de Estandarización**  
+
+  &nbsp; Inspeccionar plantillas para garantizar consistencia en formato y diseño.
+
+
+
+* **Validación Pre-implementación**  
+
+  &nbsp; Revisar plantillas antes de distribuirlas en los sistemas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+
+
+* **Verificación de Cumplimiento de Plantillas**  
+
+  &nbsp; Los flujos de trabajo de Python representan archivos DOT para validar reglas de formato.
+
+
+
+* **Auditorías Automatizadas de Plantillas**  
+
+  &nbsp; Las plantillas se revisan periódicamente para detectar cambios no autorizados.
+
+
+
+* **Tuberías de Generación de Documentos**  
+
+  &nbsp; La visualización garantiza que las plantillas estén listas para la creación automatizada de documentos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -141,7 +207,7 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

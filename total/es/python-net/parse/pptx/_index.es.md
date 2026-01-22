@@ -100,7 +100,41 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Analizar las presentaciones **PPTX** utilizando APIs de Python permite acceder de forma estructurada al texto de las diapositivas, títulos, viñetas, diseños y notas del presentador de los archivos de presentación modernos. El análisis de PPTX hace que el conocimiento basado en diapositivas sea accesible más allá de la visualización manual.
+
+En sistemas impulsados por la automatización, el análisis de PPTX respalda la reutilización de contenido, la síntesis, análisis e integración con la gestión del conocimiento y los flujos de trabajo de informes.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principales Casos de Uso" %}}
+
+* **Extracción de Contenido de Diapositivas**  
+  &nbsp; Recupera texto estructurado y elementos de diseño de las diapositivas de la presentación.
+
+* **Extracción de Conocimiento de la Presentación**  
+  &nbsp; Convierte las presentaciones en diapositivas en fuentes de contenido buscables y analizables.
+
+* **Flujos de Trabajo de Reutilización de Contenido**  
+  &nbsp; Permite la reutilización de material de presentación en la documentación y plataformas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+* **Ingesta Automatizada de Presentaciones**  
+  &nbsp; Procesa archivos PPTX automáticamente al cargarlos o programarlos.
+
+* **Flujos de Resumen a Nivel de Diapositiva**  
+  &nbsp; Genera resúmenes concisos a partir del contenido de las diapositivas analizadas.
+
+* **Automatización de Comparación de Versiones**  
+  &nbsp; Detecta cambios de forma programática entre múltiples versiones de presentaciones.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

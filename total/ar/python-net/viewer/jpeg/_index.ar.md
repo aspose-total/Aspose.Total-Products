@@ -82,7 +82,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+عرض ملفات JPEG وJPG باستخدام واجهات برمجة التطبيقات في Python يمكن من تفتيش كفء الصور المضغوطة المستخدمة على نطاق واسع عبر الأنظمة.
+
+هذا يدعم سير العمل البصري القابل للتوسيع حيث تهم الأداء والتوافق.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **مراجعة الصور المضغوطة**  
+
+&nbsp; عرض الصور المحسنة للتخزين والنقل.
+
+
+
+* **التحقق من محتوى الصور**  
+
+&nbsp; تفتيش الصور للوضوح والصحة.
+
+
+
+* **إدارة الوسائط المرئية**  
+
+&nbsp; مراجعة الأصول المرئية المستخدمة بشكل شائع بشكل برمجي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **أنابيب الوسائط التلقائية**  
+
+&nbsp; يتم عرض ملفات JPEG أثناء سير العمل الدفعي.
+
+
+
+* **أنظمة تحسين المعاينة**  
+
+&nbsp; تعرض الصور بشكل ديناميكي لمراجعة سريعة.
+
+
+
+* **فحوصات جودة الأصول**  
+
+&nbsp; تدعم برامج المعاينة في Python الفحوصات التلقائية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

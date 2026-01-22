@@ -82,7 +82,73 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Melihat format gambar generik dengan API Python memberikan pendekatan yang terpadu untuk memeriksa aset visual di berbagai alur kerja.
+
+Ini memungkinkan penanganan gambar yang konsisten tanpa memandang sumber atau jenisnya.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Pemeriksaan Gambar yang Terpadu**  
+
+  Lihat berbagai file gambar melalui antarmuka tunggal.
+
+
+
+* **Verifikasi Aset Visual**  
+
+  Konfirmasi integritas dan tampilan gambar.
+
+
+
+* **Dukungan Pipa Konten**  
+
+  Periksa gambar selama tahap pemrosesan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pipa Gambar Otomatis**  
+
+  Alur kerja Python menampilkan gambar selama pemrosesan batch.
+
+
+
+* **Layanan Pratinjau Dinamis**  
+
+  Gambar dirender sesuai permintaan untuk tinjauan.
+
+
+
+* **Otomatisasi Jaminan Kualitas**  
+
+  Melihat mendukung pemeriksaan visual otomatis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

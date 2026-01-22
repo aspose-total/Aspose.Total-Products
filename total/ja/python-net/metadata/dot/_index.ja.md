@@ -98,7 +98,93 @@ DOT メタデータ管理アプリまたはユーティリティを開発する�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを介した**DOT**ファイルのドキュメントメタデータ抽出は、テンプレート作成者、作成時刻、説明フィールドなどの埋め込まれたプロパティを読み取ることで、レガシーテンプレート資産の理解と管理をサポートします。これは、標準化、ガバナンス、組織全体での一貫したドキュメント出力の維持に重要です。
+
+
+
+自動システムでは、DOTメタデータにより、制御されたテンプレートライフサイクル管理が可能となり、パイプラインが正しいテンプレートを選択し、承認された標準を強制し、スケールで古くなったり管理されていないテンプレートファイルを検出するのに役立ちます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要ユースケース" %}}
+
+
+
+* **テンプレートカタログ作成**
+
+  DOTメタデータを抽出して、テンプレートとその意図を検索可能な在庫として構築します。
+
+
+
+* **標準化の強制**
+
+  所有権と説明プロパティをチェックして承認されたテンプレートを特定します。
+
+
+
+* **テンプレートライフサイクルの追跡**
+
+  作成/変更時刻を監視して、修正または廃止が必要な古いテンプレートを検出します。
+
+
+
+* **テンプレート使用のガバナンス**
+
+  メタデータを使用して、テンプレートを部門やワークフローにリンクして制御された配布を行います。
+
+
+
+* **監査対応のテンプレート記録**
+
+  コンプライアンスの必要性に応じた、テンプレートの起源とメンテナンス履歴を示す追跡可能なログを生成します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **承認済みテンプレートのゲートキーピング**
+
+  メタデータルールに基づいて、共有リポジトリに保存されるべきでない未承認のDOTテンプレートを自動的にブロックします。
+
+
+
+* **定期的なテンプレート更新アラート**
+
+  DOTテンプレートが年齢の閾値を超えたり、メンテナーのフィールドが欠落している場合に定期的な通知をトリガーします。
+
+
+
+* **テンプレート選択の自動化**
+
+  ワークフローや部門に適した正しいDOTテンプレートをプログラム的に選択するためにメタデータを使用します。
+
+
+
+* **リポジトリのクリーンアップワークフロー**
+
+  メタデータの類似性とタイムスタンプを使用して、重複した古いDOTテンプレートを特定して隔離します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

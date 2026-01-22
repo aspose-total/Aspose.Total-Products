@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 **XLSX** 스프레드시트에 워터마킹을 추가하면 최신 Excel 파일에 직접 기밀성, 소유권 및 의도된 사용 방법을 효과적으로 전달하여 데이터 중심의 결과물에 시각적인 거버넌스를 부여할 수 있습니다.
+
+자동화를 통해 보고 시스템, 금융 업무 및 분석 내보내기를 위한 확장 가능한 XLSX 워터마킹이 가능하며 일관된 정책 라벨링이 필요한 경우에 유용합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **기밀 KPI 보고서 라벨링**  
+
+&nbsp; 의도하지 않은 재배포를 줄이기 위해 성능 보고서에 워터마크를 삽입합니다.
+
+
+
+* **데이터 추출을 위한 제어된 공유**  
+
+&nbsp; 내부 전용으로 표시된 데이터 세트에 "내부 전용" 표시를 추가하여 거버넌스를 강화합니다.
+
+
+
+* **예측을 위한 승인 상태 표시**  
+
+&nbsp; 계획 모델에 "임시" 또는 "승인"을 표시하여 잘못된 해석을 방지합니다.
+
+
+
+* **고객별 워크북 식별**  
+
+&nbsp; 추적 가능성을 위해 공유 스프레드시트에 고객 식별자를 삽입합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동 보고서를 위한 파이프라인 워터마킹**  
+
+&nbsp; 일관된 거버넌스를 보장하기 위해 보고서 생성 시 워터마크를 적용합니다.
+
+
+
+* **액세스 정책에서 동적 워터마크 생성**  
+
+&nbsp; 민감도 수준 및 사용자 권한에 따라 워터마크 텍스트를 생성합니다.
+
+
+
+* **자동화된 다중 시트 커버리지**  
+
+&nbsp; 프로그래밍 방식으로 관련 시트 및 뷰 전체에 워터마크를 표시합니다.
+
+
+
+* **ID를 포함한 감사 친화적인 스탬핑**  
+
+&nbsp; 자동화된 감사를 지원하기 위해 실행 ID 또는 일괄 참조를 포함하는 워터마크를 추가합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La firma dei file TIFF con le API Python rafforza la governance per scansioni ad alta fedeltà e immagini comunemente utilizzate nei flussi di lavoro di gestione dei documenti e archiviazione. Questo aiuta a preservare l'autenticità e la tracciabilità per documenti scansionati critici.
+
+
+
+Nei flussi di lavoro automatizzati, la firma di TIFF può essere eseguita dopo la convalida e l'indicizzazione, garantendo che le scansioni memorizzate portino indicatori di approvazione e provenienza coerenti.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Attestazione dell'autenticità della scansione**  
+
+&nbsp; Firma le scansioni TIFF per confermare che rappresentino originali verificati.
+
+
+
+* **Approvazione della gestione dei documenti**  
+
+&nbsp; Applica firme ai file TIFF prima di archiviarli nei sistemi di conservazione dei documenti.
+
+
+
+* **Conferma dell'evidenza ad alta risoluzione**  
+
+&nbsp; Firma asset di evidenza TIFF per documentare l'identità del revisore e l'approvazione.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Passaggio di firma post-indicizzazione**  
+
+&nbsp; Firma automaticamente i file TIFF dopo che l'OCR/l'indicizzazione e la convalida sono completi.
+
+
+
+* **Pipeline di conservazione della conformità**  
+
+&nbsp; Firma i record TIFF mentre entrano nella conservazione per rafforzare le tracce di audit.
+
+
+
+* **Lavori di finalizzazione della scansione in blocco**  
+
+&nbsp; Firma programmaticamente batch TIFF per grandi operazioni di scansione.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

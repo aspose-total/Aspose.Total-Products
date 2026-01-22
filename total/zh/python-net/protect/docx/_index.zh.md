@@ -76,7 +76,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX是现代广泛用于报告、合同和协作文件的Word文档格式。保护DOCX文件对于维护内容完整性并防止在数字化工作流程中未经授权的更改至关重要。
+
+
+
+Python API允许通过应用密码和权限设置对DOCX文件进行无缝保护，使文档安全成为自动化内容流程的固有部分。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **合同保护**  
+
+  &nbsp; 在批准后防止未经授权的编辑对DOCX合同进行安全保护。
+
+
+
+* **协作内容控制**  
+
+  &nbsp; 锁定敏感部分，同时允许有限的用户交互。
+
+
+
+* **知识产权保护**  
+
+  &nbsp; 保护跨部门或合作伙伴共享的专有文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **基于工作流程的文档锁定**  
+
+  &nbsp; 在特定工作流程阶段自动保护DOCX文件。
+
+
+
+* **动态权限分配**  
+
+  &nbsp; 在文档生成过程中以编程方式应用基于角色的限制。
+
+
+
+* **安全内容发布**  
+
+  &nbsp; 在自动分发或存储之前保护DOCX输出。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

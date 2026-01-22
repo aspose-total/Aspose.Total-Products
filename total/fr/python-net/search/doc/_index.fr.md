@@ -76,7 +76,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La recherche de fichiers **DOC** à l'aide des API Python permet aux systèmes modernes d'extraire et de localiser des informations à partir de documents de traitement de texte hérités qui sont encore largement utilisés dans les archives et les environnements d'entreprise. La recherche programmatique garantit que les données historiques et opérationnelles précieuses restent accessibles sans examen manuel.
+
+
+
+Lorsqu'elle est intégrée dans des flux de travail automatisés, la recherche de fichiers DOC améliore l'efficacité en permettant le traitement par lots, l'indexation structurée et l'intégration transparente avec les pipelines de données et les systèmes de gestion de documents.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Recherche de documents hérités**  
+
+&nbsp; Permet la découverte basée sur des mots-clés au sein des anciens fichiers DOC.
+
+
+
+* **Récupération de contenu d'archives**  
+
+&nbsp; Extrait des informations pertinentes à partir de documents stockés à long terme.
+
+
+
+* **Recherche d'enregistrements de conformité**  
+
+&nbsp; Localise des clauses et des déclarations à l'intérieur des enregistrements basés sur DOC.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Indexation automatique de DOC**  
+
+&nbsp; Les tâches Python analysent les fichiers DOC et mettent à jour les index consultables automatiquement.
+
+
+
+* **Extraction de contenu de masse de DOC**  
+
+&nbsp; De grands volumes de fichiers DOC sont traités sans effort manuel.
+
+
+
+* **Intégration de DOC dans le système**  
+
+&nbsp; Le contenu extrait alimente les flux de travail d'automatisation et d'analyse en aval.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

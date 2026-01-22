@@ -90,7 +90,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การดู DOTM ด้วย Python APIs ช่วยให้การตรวจสอบเทมเพลต Word ที่เปิดใช้งานแมโครได้อย่างปลอดภัยโดยไม่ต้องเรียกใช้ตรรกะที่ซ่อนอยู่
+
+สิ่งนี้เป็นสิ่งจำเป็นสำหรับสภาพแวดล้อมที่มีการควบคุมที่ต้องมีการมองเห็นและความปลอดภัยในตัวเดียวกัน
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **ตรวจสอบเทมเพลตที่เปิดใช้งานแมโคร**  
+
+&nbsp; ดูเนื้อหาเทมเพลตโดยทำให้แมโครไม่ทำงาน
+
+
+
+* **การตรวจสอบที่เน้นความปลอดภัย**  
+
+&nbsp; ตรวจสอบโครงสร้างโดยไม่เปิดเผยระบบต่อความเสี่ยงในการเรียกใช้
+
+
+
+* **กระบวนการอนุมัติเทมเพลต**  
+
+&nbsp; ตรวจสอบเทมเพลตก่อนกระจายที่มีการควบคุม
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* **การรับเทมเพลตอย่างปลอดภัย**  
+
+&nbsp; การดู DOTM ด้วย Python แสดงไฟล์ DOTM อย่างปลอดภัยระหว่างการนำเข้า
+
+
+
+* **การอัตโนมัติของการปกครอง**  
+
+&nbsp; เทมเพลตถูกตรวจสอบเป็นส่วนหนึ่งของการตรวจสอบนโยบายอัตโนมัติ
+
+
+
+* **การตรวจสอบการตรวจสอบก่อนใช้งาน**  
+
+&nbsp; การดูตัวอย่างรองรับกระบวนการอนุมัติโดยอัตโนมัติ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

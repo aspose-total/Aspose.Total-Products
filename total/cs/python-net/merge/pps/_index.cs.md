@@ -79,7 +79,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Slučování formátů prezentací PowerPoint pomocí Python API umožňuje jednotné prezentace připravené k přehrávání. Tyto formáty jsou navrženy pro přímé přehrávání, nikoli pro úpravy.
+
+
+
+Automatizace zajišťuje konzistentní dodávku prezentací týmům a událostem.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Sestavení posloupnosti prezentací (PPS)**  
+
+&nbsp; Slučování souborů PPS do jednoho průběhu prezentace.
+
+
+
+* **Kompilace prezentace události (PPS)**  
+
+&nbsp; Kombinace souborů prezentace pro konference nebo schůze.
+
+
+
+* **Balení přehrávání prezentace (PPS)**  
+
+&nbsp; Seskupení souborů PPS do jedné spustitelné prezentace.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizovaná příprava prezentace události (PPS)**  
+
+&nbsp; Systémy slučují soubory PPS před naplánovanými událostmi.
+
+
+
+* **Generování prezentace na pozadí (PPS)**  
+
+&nbsp; Slučování PPS je spouštěno programově.
+
+
+
+* **Automatizace dodávky prezentace (PPS)**  
+
+&nbsp; Prezentace jsou automaticky slučovány pro přehrávání.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

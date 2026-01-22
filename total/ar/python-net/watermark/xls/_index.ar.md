@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+إضافة علامات مائية **XLS** إلى جداول البيانات بواسطة واجهات برمجة التطبيقات في Python تساعد على حماية الملفات القديمة في Excel من خلال إضافة علامات ملكية وسرية مرئية للبيانات التي لا تزال تستخدم على نطاق واسع في سير العمل القديم للتقارير.
+
+التأمين يجعل من إمكانية إضافة علامات مائية لملفات XLS عمليًا للأرشيفات الكبيرة، مما يضمن توحيد الحوكمة دون الحاجة إلى تحرير يدوي لكل دفتر عمل.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **حماية جداول البيانات المالية القديمة**  
+
+&nbsp; إضافة تسميات سرية لجداول الميزانيات والتنبؤات القديمة في XLS.
+
+
+
+* **علامات ملكية لتقارير العمليات**  
+
+&nbsp; وضع علامات على تقارير XLS للحفاظ على هوية المصدر عبر النسخ المرسلة.
+
+
+
+* **مؤشرات البيانات المسودة**  
+
+&nbsp; تطبيق علامات مائية "PRELIMINARY" لتقليل الأخطاء الناتجة عن الأرقام غير الموثقة.
+
+
+
+* **ضوابط التوزيع للمشاركة الخارجية**  
+
+&nbsp; تضمين قيود الاستخدام المرئية على جداول البيانات القديمة المشتركة مع الموردين.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأمين التلقائي" %}}
+
+
+
+* **وضع علامات مائية تلقائيًا على الأرشيف**  
+
+&nbsp; وضع علامات مائية على ملفات XLS أثناء الترحيل إلى أنظمة تخزين أو حوكمة جديدة.
+
+
+
+* **مراقب المجلد لتقارير الواردة**  
+
+&nbsp; اكتشاف إسقاطات XLS الجديدة وتطبيق علامات مائية للسياسات القياسية تلقائيًا.
+
+
+
+* **وضع علامات مائية حسب قواعد نوع التقرير**  
+
+&nbsp; اختيار محتوى العلامة المائية استنادًا إلى أنماط أسماء الملفات أو البيانات التصنيفية.
+
+
+
+* **جدولة وضع علامات مائية للتصدير التلقائي**  
+
+&nbsp; وضع علامات مائية على تصديرات XLS التلقائية قبل تسليمها لأصحاب المصلحة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

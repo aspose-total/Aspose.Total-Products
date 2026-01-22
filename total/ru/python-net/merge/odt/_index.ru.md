@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Объединение файлов текста OpenDocument с использованием API Python поддерживает открытые стандарты и рабочие процессы на разных платформах. Это обеспечивает безпрепятственное объединение контента, созданного в средах с открытым исходным кодом или смешанных офисных средах.
+
+
+
+Автоматизация вокруг объединения ODT обеспечивает взаимодействие, сохраняя целостность документа между системами.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Объединение документов на разных платформах (ODT)**  
+
+&nbsp; Объединение файлов ODT, созданных в различных офисных пакетах.
+
+
+
+* **Объединение контента по открытым стандартам (ODT)**  
+
+&nbsp; Объединение документов ODT для единой публикации.
+
+
+
+* **Совместная сборка контента (ODT)**  
+
+&nbsp; Объединение файлов ODT от нескольких участников в один документ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизация рабочего процесса (ODT)**  
+
+&nbsp; Автоматизированные системы объединяют файлы ODT без зависимостей от конкретных поставщиков.
+
+
+
+* **Плановая компиляция документов (ODT)**  
+
+&nbsp; Объединение ODT выполняется в рамках повторяющихся задач на стороне сервера.
+
+
+
+* **Взаимодействующие публикационные конвейеры (ODT)**  
+
+&nbsp; Файлы ODT объединяются динамически в перекрестных системных конвейерах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

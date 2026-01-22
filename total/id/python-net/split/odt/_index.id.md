@@ -79,7 +79,75 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT adalah format dokumen terbuka yang dirancang untuk dokumen teks terstruktur. Memisahkan file ODT memungkinkan pemrosesan tingkat bagian dan penanganan konten terstruktur.
+
+
+
+Menggunakan API Python, pemisahan ODT menjadi dapat diskalakan dan cocok untuk alur kerja dokumen otomatis.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Ekstraksi Konten Terstruktur**  
+
+  &nbsp; Ekstrak bab atau bagian secara independen.
+
+
+
+* **Arsip Format Terbuka**  
+
+  &nbsp; Menjaga dan mengelola konten pada tingkat granular.
+
+
+
+* **Pemrosesan Dokumen Kolaboratif**  
+
+  &nbsp; Memungkinkan alur kerja paralel pada bagian dokumen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pemisahan Bagian Berbasis XML**  
+
+  &nbsp; Python mengidentifikasi penanda struktural untuk pemisahan.
+
+
+
+* **Klasifikasi Konten Otomatis**  
+
+  &nbsp; Bagian yang diekstrak dikategorikan secara programatik.
+
+
+
+* **Pengalihan Dokumen Berorientasi Alur Kerja**  
+
+  &nbsp; Bagian-bagian mengalir ke sistem yang berbeda secara otomatis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

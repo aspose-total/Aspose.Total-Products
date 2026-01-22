@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API合并制表符分隔值文件可以快速轻量级地组合结构化表格数据。TSV通常用于数据交换和预处理。
+
+
+
+自动化TSV合并支持高性能数据管道和分析工作流。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **原始数据聚合（TSV）**  
+
+&nbsp; 将TSV文件合并为单个数据集以进行处理。
+
+
+
+* **系统间数据交换（TSV）**  
+
+&nbsp; 合并来自不同平台的TSV导出文件。
+
+
+
+* **预分析数据准备（TSV）**  
+
+&nbsp; 在分析转换之前合并TSV文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **基于流的数据处理（TSV）**  
+
+&nbsp; 自动化系统在数据流中合并TSV文件。
+
+
+
+* **批量ETL操作（TSV）**  
+
+&nbsp; TSV合并发生在定期ETL作业期间。
+
+
+
+* **可扩展的表格数据管道（TSV）**  
+
+&nbsp; 编程合并支持大型TSV数据集。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -104,7 +104,41 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+El análisis de **documentos DOC** utilizando APIs de Python permite la extracción estructurada de archivos de procesamiento de texto heredados que aún son comunes en sistemas de archivo, empresas y entornos impulsados por el cumplimiento. Permite convertir el texto, las señales de formato y la estructura del documento en datos legibles por máquina.
+
+Al integrarse en flujos de trabajo automatizados, el análisis de DOC admite la migración, indexación y validación de documentos a gran escala, lo que hace que el contenido más antiguo sea utilizable en sistemas modernos basados en API.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+* **Digitalización de Contenido Heredado**
+   Extrae texto legible de archivos DOC antiguos para su modernización y reutilización.
+
+* **Análisis de Documentos de Cumplimiento**
+   Permite el escaneo automatizado de texto contractual o regulatorio almacenado en formatos heredados.
+
+* **Preparación de Índices de Búsqueda**
+   Convierte archivos DOC en texto limpio para sistemas de indexación y recuperación.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+* **Procesamiento por Lotes de Archivos Heredados**
+   Automatiza la conversión de grandes archivos DOC en conjuntos de datos estructurados.
+
+* **Flujos de Validación de Documentos**
+   Integra el análisis de DOC en flujos de trabajo de validación y auditoría basados en reglas.
+
+* **Migración a Formatos Modernos**
+   Transforma programáticamente archivos DOC en estándares de documentos más nuevos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API进行DOCX文档签署，使结构化、现代化的文档能够包含可验证的批准元数据。这支持追溯性和受控文档生命周期。
+
+
+
+自动化的DOCX签署与内容引擎、批准系统和文档存储库无缝集成，可实现规模化。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **数字合同最终化**  
+
+  &nbsp; 将批准签名嵌入最终化的DOCX合同中。
+
+
+
+* **报告批准跟踪**  
+
+  &nbsp; 签署DOCX报告以确认管理层签署。
+
+
+
+* **内部文档治理**  
+
+  &nbsp; 为经过验证的内部文档应用签名。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **事件驱动合同签署**  
+
+  &nbsp; 在批准事件后自动签署DOCX文件。
+
+
+
+* **多步骤审查结束**  
+
+  &nbsp; 一旦所有审阅者完成任务，即进行签署。
+
+
+
+* **基于CI的文档批准**  
+
+  &nbsp; DOCX文件作为自动化构建流程的一部分进行签署。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

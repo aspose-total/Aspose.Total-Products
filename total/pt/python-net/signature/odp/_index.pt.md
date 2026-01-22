@@ -73,7 +73,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/sli
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Assinar arquivos de apresentação ODP com APIs Python ajuda equipes a controlar a qualidade e propriedade de lançamento para decks de slides criados em formatos abertos. Isso garante que os decks sejam distribuídos somente após aprovação formal.
+
+
+
+Quando automatizada, a assinatura ODP se torna uma etapa de governança repetível dentro dos fluxos de colaboração, melhorando o controle de versão e impedindo que decks não revisados circulem.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Aprovação de Lançamento de Deck de Treinamento**  
+
+  &nbsp; Assine decks de treinamento ODP para confirmar prontidão para lançamento interno.
+
+
+
+* **Confirmação de Revisão de Stakeholder**  
+
+  &nbsp; Aplique uma marca de assinatura aos decks ODP após a conclusão da revisão do stakeholder.
+
+
+
+* **Certificação de Apresentação de Conformidade**  
+
+  &nbsp; Assine decks de política ou conformidade para documentar quem aprovou a versão final.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Acionamento de Assinatura por Fluxo de Trabalho de Aprovação**  
+
+  &nbsp; Assine automaticamente arquivos ODP quando o estado de aprovação é registrado no sistema.
+
+
+
+* **Portão de Integridade do Deck Antes de Compartilhar**  
+
+  &nbsp; Assine decks somente após verificações confirmarem que os slides e metadados necessários existem.
+
+
+
+* **Assinatura em Lote para Ciclos de Lançamento**  
+
+  &nbsp; Assine programaticamente vários decks ODP como parte de ciclos de lançamento agendados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

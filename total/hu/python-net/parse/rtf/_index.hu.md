@@ -104,7 +104,75 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**RTF dokumentumok** elemzése Python API-k segítségével lehetővé teszi az adatok kinyerését egy könnyű, széles körben támogatott szövegformátumból, amely megőrzi az alapvető formázást. Az RTF gyakran használatos az interoperabilitás és az örökölt adatcserék során.
+
+
+
+Az automatizálásbarát RTF elemzés gyors szövegkinyerést támogat minimális szerkezeti felesleggel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* **Könnyű dokumentumkinyerés**  
+
+&nbsp; Szöveg visszanyerése egyszerűen formázott dokumentumokból.
+
+
+
+* **Örökölt Rendszerinteroperabilitás**  
+
+&nbsp; Fájlok feldolgozása, amelyeket régebbi vagy minimális szerkesztők generáltak.
+
+
+
+* **Szöveg Normalizálási Feladatok**  
+
+&nbsp; Az RTF átalakítása tiszta, egyszerű szöveges reprezentációvá.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* **Nagy mennyiségű szövegfeldolgozás**  
+
+&nbsp; Az adatok automatikus kinyerése nagy RTF adatkészletekből.
+
+
+
+* **Formátum Egyszerűsítő Csővezetékek**  
+
+&nbsp; A formázást eltávolítja, miközben megőrzi az alapvető tartalmat.
+
+
+
+* **Rendszer-ről-rendszerre adatcserék**  
+
+&nbsp; Lehetővé teszi az RTF-alapú bemenetek programozott beolvasását.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

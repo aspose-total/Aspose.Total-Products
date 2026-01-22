@@ -71,7 +71,75 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A DOC fájlok programozott aláírása lehetővé teszi, hogy a régi Word dokumentumok hivatalos jóváhagyási jelzésekkel rendelkezzenek formátumkonverzió nélkül. Ez megőrzi a kompatibilitást az idősebb dokumentumrendszerekkel, miközben hozzáadja a kormányzást.
+
+
+
+A Python-alapú automatizálás biztosítja, hogy a DOC aláírások következetesen megtörténjenek, csökkentve a kézi beavatkozást a dokumentumokban gazdag örökségfolyamatokban.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Örökségi Szerződési Jóváhagyás**  
+
+&nbsp; Adja hozzá az aláíró részleteit a régi rendszerekben használt DOC szerződésekhez.
+
+
+
+* **Irányelvek jóváhagyása dokumentumoknál**  
+
+&nbsp; Jelölje meg a DOC irányelveket áttekintettnek és jóváhagyottnak.
+
+
+
+* **Sablon alapú dokumentumellenőrzés**  
+
+&nbsp; Aláírja a DOC sablonokat a befejezési ellenőrzések után.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Mezőkitöltés által kiváltott aláírás**  
+
+&nbsp; A DOC fájlokat akkor írják alá, amikor a kötelező mezők kitöltődnek.
+
+
+
+* **Jóváhagyási munkafolyamat integrációja**  
+
+&nbsp; Az aláírás a háttér jóváhagyási státuszfrissítések által van kiváltva.
+
+
+
+* **Örökségi archívum tanúsítványozása**  
+
+&nbsp; A DOC fájlokat aláírják az archiválás előtt.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

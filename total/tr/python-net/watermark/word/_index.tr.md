@@ -79,7 +79,85 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri kullanarak **Word** belgelerine filigran eklemek, sıklıkla paylaşılan ve düzenlenen belgelerde mülkiyet, gizlilik ve dağıtım kuralları için görünür etiketler gömerek iş metin dosyalarını korumaya yardımcı olur.
+
+Otomasyon, ekipler ve belge kütüphaneleri genelinde tutarlı Word filigranlama sağlayarak manuel çabayı azaltırken yönetişimi ve iş akışı netliğini sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* **Gizli Politika Belgeleri**  
+
+&nbsp; İç yönergelerin yanlışlıkla iletilmesini azaltmak için gizlilik işaretleri ekleyin.
+
+
+
+* **İşbirlikçi Belgeler İçin Taslak Yönetişim**  
+
+&nbsp; Eski sürümlerin nihai olarak kabul edilmesini önlemek için "TASLAK" etiketleri damgalayın.
+
+
+
+* **Müşteri Teslim Edilebilir Atıf**  
+
+&nbsp; Sahipliği ve izin verilen yeniden kullanımı açıklamak için paylaşılan Word dosyalarına filigran ekleyin.
+
+
+
+* **Kontrollü Şablon Çıktısı Etiketleme**  
+
+&nbsp; Otomatik olarak oluşturulan Word belgelerinin standart filigran politikalarını içermesini sağlayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Şablon'dan-Belgeye Filigran Otomasyonu**  
+
+&nbsp; Yapılandırılmış verilerden Word belgeleri oluşturulduktan hemen sonra filigranları uygulayın.
+
+
+
+* **İş Akışı Durumuna Göre Filigran Değiştirme**  
+
+&nbsp; Belgeler taslaktan onaylı hale geldiğinde filigran metnini otomatik olarak değiştirin.
+
+
+
+* **Depo Yükleme Politikası Uygulama**  
+
+&nbsp; Düzenlenmiş klasörlere veya vaka yönetim sistemlerine yükleme sırasında Word dosyalarına filigran ekleyin.
+
+
+
+* **Paylaşım İçin Alıcıya Özel Filigranlama**  
+
+&nbsp; Belgeler harici olarak paylaşıldığında izlenebilirliği artırmak için alıcı tanımlayıcılarını gömün.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

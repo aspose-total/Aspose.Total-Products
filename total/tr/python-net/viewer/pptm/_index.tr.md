@@ -89,7 +89,73 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri ile PPTM görüntüleme, gömülü kodları çalıştırmadan makro etkin sunumların incelenmesine olanak tanır.
+
+Bu, otomatik ortamlarda güvenli bir şekilde gözden geçirmeyi sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Makro Etkin Slayt İncelemesi**  
+
+&nbsp; Sunum içeriğini güvenli bir şekilde görüntüleyin.
+
+
+
+* **Risk-Aware İnceleme**  
+
+&nbsp; Makro çalıştırmadan slaytları inceleyin.
+
+
+
+* **Onay Akışı Desteği**  
+
+&nbsp; Kontrollü kullanımdan önce sunumları gözden geçirin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Güvenli Sunum Alma**  
+
+&nbsp; Python görüntüleyiciler PPTM dosyalarını güvenli bir şekilde işler.
+
+
+
+* **Uyumluluk İnceleme Boruları**  
+
+&nbsp; Sunumlar otomatik olarak incelenir.
+
+
+
+* **Dağıtım Öncesi Doğrulama**  
+
+&nbsp; İnceleme süreçlerini destekleyen görüntüleme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

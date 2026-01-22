@@ -89,7 +89,73 @@ För mer information, se [Produktdokumentation](https://docs.aspose.com/slides/p
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTM-visning med Python API:er möjliggör inspektion av makroaktiverade presentationer utan att köra inbäddad kod.
+
+Detta möjliggör säker granskning i automatiserade miljöer.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsområden" %}}
+
+
+
+* **Granskning av makroaktiverade slides**  
+
+&nbsp; Visa presentationsinnehåll säkert.
+
+
+
+* **Riskmedveten inspektion**  
+
+&nbsp; Inspektera slides utan makroexekvering.
+
+
+
+* **Stöd för godkännandeflöde**  
+
+&nbsp; Granska presentationer innan kontrollerad användning.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* **Säker presentationstillförsel**  
+
+&nbsp; Python-visare renderar PPTM-filer säkert.
+
+
+
+* **Efterlevnadsgenomgångspipelines**  
+
+&nbsp; Presentationer inspekteras automatiskt.
+
+
+
+* **Validering före distribution**  
+
+&nbsp; Visning stödjer godkännandeprocesser.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

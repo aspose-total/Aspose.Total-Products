@@ -79,7 +79,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Файлы DOT служат в качестве шаблонов документов, определяющих структуру и стандарты форматирования. Разделение файлов DOT позволяет анализировать и повторно использовать отдельные компоненты шаблона.
+
+
+
+Автоматизация разделения DOT с помощью Python поддерживает масштабное управление шаблонами и структурированные рабочие процессы по созданию документов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Повторное использование компонентов шаблона**  
+
+  &nbsp; Извлечение конкретных разделов шаблона для повторного использования в различных документах.
+
+
+
+* **Проверка шаблона**  
+
+  &nbsp; Анализ отдельных частей на соответствие и последовательность.
+
+
+
+* **Генерация стандартизированных документов**  
+
+  &nbsp; Обеспечение контролируемого использования элементов шаблона.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизация анализа шаблона**  
+
+  &nbsp; Сценарии Python программно выделяют блоки шаблона.
+
+
+
+* **Динамическое сборка шаблона**  
+
+  &nbsp; Разделенные компоненты динамически объединяются по мере необходимости.
+
+
+
+* **Контрольные процессы обеспечения соблюдения правил**  
+
+  &nbsp; Автоматические проверки гарантируют использование только утвержденных разделов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

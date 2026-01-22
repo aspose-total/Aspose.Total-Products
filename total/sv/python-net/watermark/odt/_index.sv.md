@@ -79,7 +79,85 @@ För mer information, se [Product Documentation](https://docs.aspose.com/words/p
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Vattenstämplar **ODT**-dokument med Python API:er hjälper till att skydda öppna dokumenttextfiler genom att lägga till tydliga ägar- och konfidentialitetsmarkeringar samtidigt som innehållet förblir tillgängligt i öppna ekosystem.
+
+Automatisering möjliggör konsekventa vattenstämplingsregler över ODT-bibliotek och stödjer skalbar dokumentstyrning för team som använder öppna format.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* **Policyetiketter för öppna format**  
+
+&nbsp; Stämpla ODT-dokument med "INTERN" eller "KONFIDENTIELLT" för att minska felaktig ruttering.
+
+
+
+* **Utkastskontroll för samarbetsförfattande**  
+
+&nbsp; Applicera "UTKAST" överlagringar under iterativa redigeringscykler.
+
+
+
+* **Distributionsmeddelanden för delade dokument**  
+
+&nbsp; Lägg till återanvändningsbegränsningar för dokument som delas med entreprenörer eller partners.
+
+
+
+* **Arkividentitetsbevarande**  
+
+&nbsp; Vattenstämpla exporterade ODT-filer så att ägarskapet är synligt även efter kopiering mellan system.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* **Dokumentgenerator + vattensteg**  
+
+&nbsp; Vattenstämpla automatiskt ODT-filer som producerats från mallar eller strukturerade data.
+
+
+
+* **Repositoriepolicytillämpning**  
+
+&nbsp; Applicera vattenstämplar när ODT-filer laddas upp i reglerade mappar.
+
+
+
+* **Automatisk versionsvattenstämpelväxling**  
+
+&nbsp; Ändra vattenstämpeltext baserat på versionsstatus (utkast, granskning, slutgiltig) programmatiskt.
+
+
+
+* **Efterlevnadsexportpipelines**  
+
+&nbsp; Stämpla ODT-exporter som används för revisioner för att säkerställa konsekvent märkning över inlämningar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

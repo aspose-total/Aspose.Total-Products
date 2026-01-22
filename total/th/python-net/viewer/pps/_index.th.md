@@ -89,7 +89,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การดูไฟล์ PPS, PPSM, และ PPSX ด้วย Python APIs ช่วยให้สามารถตรวจสอบงานนำเสนอที่ออกแบบมาเพื่อเล่นโชว์โดยตรงได้
+
+การสนับสนุนการตรวจสอบโดยอัตโนมัติโดยไม่ต้องใช้ซอฟต์แวร์งานนำเสนอ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **ตรวจสอบเนื้อหาสไลด์โชว์**  
+
+&nbsp; ดูงานนำเสนอที่ต้องการแสดงทันที
+
+
+
+* **การตรวจสอบโครงสร้างการเล่น**  
+
+&nbsp; ตรวจสอบการไหลของสไลด์และการเปลี่ยนฉาก
+
+
+
+* **การตรวจสอบความถูกต้องในการกระจาย**  
+
+&nbsp; ให้แน่ใจว่าไฟล์สไลด์โชว์ถูกต้องก่อนที่จะแชร์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* **การตรวจสอบสไลด์โชว์อัตโนมัติ**  
+
+&nbsp; การทำงานของ Python ทำให้ไฟล์สไลด์โชว์สามารถตรวจสอบได้
+
+
+
+* **ดูตัวอย่างก่อนที่จะกระจาย**  
+
+&nbsp; การแสดงสไลด์โชว์ได้โดยไดนามิก
+
+
+
+* **กระบวนการประกันคุณภาพ**  
+
+&nbsp; การดูแน่ใจว่าพร้อมสำหรับการส่งมอบ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,93 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A dokumentum metaadatok kinyerése **PPT** fájlokból Python API-k segítségével lehetővé teszi az örökségi prezentációs eszközök kezelését olyan tulajdonságok olvasásával, mint például szerző, időbélyegzők és leíró mezők. Ez támogatja a szervezetek számára a kormányzást és a felfedezhetőséget, amelyek továbbra is kezelik az régebbi dia könyvtárakat.
+
+
+
+Automatizált munkafolyamatokban a PPT metaadatok képesek osztályozást, indexelést és életciklus-vezérlést biztosítani - lehetővé téve az örökségi prezentációk nagy gyűjteményeinek szervezését, ellenőrzését és minimális manuális erőfeszítéssel történő migrálását.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Örökségi Dia Könyvtár Átvizsgálása**
+
+  PPT metaadatok kinyerése az archivált dekkek életkorának, tulajdonjogának és karbantartási hiányosságainak megértéséhez.
+
+
+
+* **Migrációs Készenlét Értékelése**
+
+  Használja a metaadatokat annak meghatározására, hogy mely PPT dekkek konvertálásra vagy frissítésre szorulnak először.
+
+
+
+* **Tulajdonon Alapuló Karbantartási Útválasztás**
+
+  Az író/szerkesztő mezőkből származó karbantartók azonosítása az update kérések hatékony útválasztásához.
+
+
+
+* **Tartalom Portfólió Elemzések**
+
+  PPT metaadatok összegyűjtése a könyvtár lefedettségének, elavultságának és operatív kockázatának méréséhez.
+
+
+
+* **Ismétlődő Eszközök Azonosítása**
+
+  Használja a metaadat mintákat a valószínű ismétlődések azonosítására és a könyvtár feleslegének csökkentésére.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Szcenáriók" %}}
+
+
+
+* **Örökségi Dekk Beolvasási Csővezeték**
+
+  Automatikusan beolvassa a PPT fájlokat, kinyeri a metaadatokat, és standardizált mezőkkel rendeli őket egy raktárrendszerhez.
+
+
+
+* **Konverziós Sor Automatizálás**
+
+  Adj hozzá PPT dekkek a konverziós sorokhoz a metaadatok életkora és felhasználási osztályozási szabályok alapján.
+
+
+
+* **Elavult Dekk Értesítési Munkafolyamat**
+
+  Riasztások kiváltása, amikor a PPT metaadatok hosszú időszakokat jeleznek frissítések nélkül vagy hiányzó tulajdonosi mezőkkel.
+
+
+
+* **Automatizált Könyvtár Takarítási Feladatok**
+
+  Időszakosan ellenőrizze a PPT tárolókat és zárja karanténba azon eszközöket, amelyeket metaadatok alapján azonosítottak ismétlődőként vagy nem kezeltként.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

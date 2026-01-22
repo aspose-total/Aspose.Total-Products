@@ -72,7 +72,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPT - це застарілий формат презентацій, який все ще використовується в старіших системах. Розбиття файлів PPT дозволяє продовжувати використання їх в сучасних автоматизованих середовищах.
+
+
+
+Python APIs дозволяють обробляти файли PPT програмно незважаючи на їх застарілу структуру.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові використання" %}}
+
+
+
+* **Міграція застарілих презентацій**  
+
+&nbsp; Видобування слайдів для конвертації або оновлення.
+
+
+
+* **Вибірковий доступ до вмісту**  
+
+&nbsp; Робота з конкретними слайдами без повної конвертації.
+
+
+
+* **Управління архівуванням презентацій**  
+
+&nbsp; Зберігання слайдів окремо для індексації.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Обробка пайплайнів застарілих форматів**  
+
+&nbsp; Автоматизація розбиття PPT в масштабі.
+
+
+
+* **Видобування слайдів для конвертації**  
+
+&nbsp; Слайди конвертуються в сучасні формати.
+
+
+
+* **Автоматизовані перевірки презентацій**  
+
+&nbsp; Програмне перегляд вмісту слайдів.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

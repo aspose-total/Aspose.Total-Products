@@ -76,7 +76,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Wyszukiwanie plików **DOCX** za pomocą interfejsów API w języku Python zapewnia niezawodny dostęp do strukturalnych i nowoczesnych dokumentów przetwarzania tekstu. Pliki DOCX zawierają bogaty tekst, nagłówki, tabele i metadane, które można programowo analizować w celu zaawansowanego wyszukiwania i odzyskiwania informacji.
+
+
+
+Automatyzowane wyszukiwanie DOCX wspiera skalowalne zarządzanie treścią, ekstrakcję wiedzy i inteligentne przetwarzanie dokumentów w systemach przedsiębiorstwowych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Wyszukiwanie strukturalnego tekstu**  
+
+&nbsp; Umożliwia precyzyjne wyszukiwanie w nagłówkach, akapitach i tabelach.
+
+
+
+* **Odkrywanie oparte na metadanych**  
+
+&nbsp; Wykorzystuje właściwości dokumentu w celu poprawy dokładności wyszukiwania.
+
+
+
+* **Generowanie bazy wiedzy**  
+
+&nbsp; Konwertuje zawartość DOCX na przeszukiwalne zasoby wiedzy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Ciągłe aktualizacje indeksu DOCX**  
+
+&nbsp; Usługi w języku Python monitorują i indeksują nowe lub zaktualizowane pliki DOCX.
+
+
+
+* **Automatyczna klasyfikacja treści**  
+
+&nbsp; Dokumenty DOCX są kategoryzowane programowo na podstawie treści.
+
+
+
+* **Integracja przepływu pracy DOCX**  
+
+&nbsp; Wyniki wyszukiwania dynamicznie zasila pulpit i systemy treści.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

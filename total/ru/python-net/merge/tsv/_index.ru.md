@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Объединение файлов со значениями, разделенными табуляцией, с использованием API Python позволяет быстро и легко комбинировать структурированные табличные данные. TSV обычно используется для обмена данными и предварительной обработки.
+
+
+
+Автоматизированное объединение TSV поддерживает высокопроизводительные конвейеры данных и рабочие процессы аналитики.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Агрегация исходных данных (TSV)**  
+
+&nbsp; Объединение файлов TSV в один набор данных для обработки.
+
+
+
+* **Обмен данными между системами (TSV)**  
+
+&nbsp; Объединение экспортов TSV из разных платформ.
+
+
+
+* **Подготовка данных перед анализом (TSV)**  
+
+&nbsp; Объединение файлов TSV перед аналитическим преобразованием.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Обработка данных на основе потоков (TSV)**  
+
+&nbsp; Автоматизированные системы объединяют файлы TSV в потоках данных.
+
+
+
+* **Пакетные операции ETL (TSV)**  
+
+&nbsp; Объединение TSV происходит во время запланированных задач ETL.
+
+
+
+* **Масштабируемые конвейеры табличных данных (TSV)**  
+
+&nbsp; Программное объединение поддерживает большие наборы данных TSV.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

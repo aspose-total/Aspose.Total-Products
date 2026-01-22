@@ -73,7 +73,87 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Imaging for Python via
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chèn dấu nước vào các tệp **JPG** bằng Python APIs hỗ trợ các luồng làm việc hình ảnh thông thường bằng cách thêm nhãn sở hữu rõ ràng, nhãn chứng minh và quy tắc phân phối vào định dạng hình ảnh web được sử dụng phổ biến nhất.
+
+Chèn dấu nước tự động vào các tệp JPG là lý tưởng cho các đường ống xử lý có công suất lớn nơi cần đặt vị trí nhất quán và kiểu dáng lặp lại trên nhiều tài sản.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Thương Hiệu Hóa Hàng Loạt cho Thư Viện Hình Ảnh**  
+
+&nbsp; Đặt dấu nước cho các tài sản JPG lớn để duy trì đồng nhất trên các kênh.
+
+
+
+* **Bảo Vệ Nội Dung Trước Phát Hành**  
+
+&nbsp; Thêm lớp phủ "KHÔNG ĐƯỢC XUẤT BẢN" để ngăn chặn việc đăng bài sớm một cách tình cờ.
+
+
+
+* **Đánh Dấu Xem Trước Tài Liệu Bán Hàng**  
+
+&nbsp; Đóng dấu nhãn xem trước trên hình ảnh JPG được sử dụng trong đề xuất và thuyết trình.
+
+
+
+* **Phân Biệt Tài Sản Liên Kết**  
+
+&nbsp; Nhúng dấu nước ghi công cho phương tiện chia sẻ để cải thiện việc theo dõi nguồn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Đặt Dấu Tự Động Dựa Trên Thư Mục**  
+
+&nbsp; Phát hiện tệp JPG mới trong các thư mục theo dõi và đặt dấu nước ngay lập tức.
+
+
+
+* **Tự Động Điều Chỉnh Kích Thước Dấu Nước**  
+
+&nbsp; Điều chỉnh kích thước dấu nước dựa trên độ phân giải và tỷ lệ khung hình tự động.
+
+
+
+* **Tạo Dấu Nước Đa Ngôn Ngữ**  
+
+&nbsp; Tạo văn bản dấu nước địa phương dựa trên quy tắc đối tượng mục tiêu hoặc khu vực.
+
+
+
+* **Tạo Biến Thể Được Loại Bỏ Trùng Lặp**  
+
+&nbsp; Tránh xử lý lại các tệp JPG đã được đặt dấu nước bằng cách theo dõi dấu vân tay trong quá trình tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

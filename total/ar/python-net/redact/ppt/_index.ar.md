@@ -77,7 +77,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحرير المستند باستخدام واجهات برمجة التطبيقات باستخدام لغة Python لملفات PPT يدعم معالجة آمنة لتنسيقات العروض القديمة التي تظل شائعة في الأنظمة القديمة. يضمن هذا حماية المعلومات الحساسة بغض النظر عن عمر الملف.
+
+
+
+التحرير التلقائي يسمح بإعادة استخدام ملفات PPT بأمان، أو أرشفتها، أو مشاركتها دون تدخل يدوي.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تنظيف العروض القديمة**  
+
+&nbsp; إزالة البيانات القديمة أو الحساسة من ملفات PPT القديمة.
+
+
+
+* **تحديث الأرشيف**  
+
+&nbsp; تطهير العروض التاريخية لإعادة استخدامها بأمان.
+
+
+
+* **مشاركة المعلومات بشكل محدود**  
+
+&nbsp; تحضير ملفات PPT المحررة لجمهور محدود.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **أنابيب التنسيق القديم**  
+
+&nbsp; معالجة ملفات PPT تلقائيًا جنبًا إلى جنب مع التنسيقات الأحدث.
+
+
+
+* **تحرير قائم على الأنماط**  
+
+&nbsp; اكتشاف وإزالة المصطلحات الحساسة باستخدام قواعد محددة مسبقًا.
+
+
+
+* **معالجة الأرشيف التلقائية**  
+
+&nbsp; تطهير أرشيفات العروض بشكل برمجي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -85,7 +85,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用してTIFF画像をマージすると、印刷、医療画像、文書スキャンなどで一般的に使用される高解像度のマルチページ画像ワークフローをサポートします。
+
+
+
+自動化により、大規模で詳細な画像セットを信頼性の高い方法で処理できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* **マルチページスキャンの組み立て（TIFF）**  
+
+  ティファイルを1つのマルチページファイルにマージします。
+
+
+
+* **高解像度画像処理（TIFF）**  
+
+  詳細な分析のためにTIFF画像を結合します。
+
+
+
+* **印刷用画像の編集（TIFF）**  
+
+  出版ワークフロー向けにTIFFファイルを集約します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **自動スキャンパイプライン（TIFF）**  
+
+  システムはスキャン取り込み中にTIFFファイルをマージします。
+
+
+
+* **バッチ高解像度処理（TIFF）**  
+
+  TIFFのマージはスケジュールされたジョブで実行されます。
+
+
+
+* **エンタープライズ画像自動化（TIFF）**  
+
+  自動化されたワークフローが大規模なTIFFデータセットを管理します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -152,7 +220,7 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

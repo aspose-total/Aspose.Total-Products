@@ -82,7 +82,73 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A JPEG és JPG megtekintése Python API-k segítségével lehetővé teszi a tömörített képek hatékony ellenőrzését, amelyek széles körben használatosak rendszereken belül.
+
+Ez támogatja a skálázható vizuális munkafolyamatokat, ahol a teljesítmény és a kompatibilitás számít.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Tömörített kép áttekintése**  
+
+  View images optimized for storage and transmission.
+
+
+
+* **Vizuális tartalom ellenőrzése**  
+
+  Inspect images for clarity and correctness.
+
+
+
+* **Médiaeszköz-kezelés**  
+
+  Review commonly used image assets programmatically.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Automatizált média csővezetékek**  
+
+  A JPEG fájlokat renderelik a batch munkafolyamatok során.
+
+
+
+* **Előnézeti optimalizálási rendszerek**  
+
+  A képek dinamikusan jelennek meg gyors áttekintés céljából.
+
+
+
+* **Eszközminőség-ellenőrzések**  
+
+  A Python nézők támogatják az automatizált ellenőrzéseket.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

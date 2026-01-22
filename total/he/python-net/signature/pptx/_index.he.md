@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+חתימה על קבצי PPTX מאפשרת למצגות להכיל מטא-נתונים של אישור ושחרור ברורים, מונעת חלוקה לא מורשית או מוקדמת.
+
+
+
+אוטומציה בבסיס פייתון מבטיחה שהאישור של המצגת יהיה עקבי בקרב צוותים וגרסאות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **אישור חבילת הנהגים**  
+
+&nbsp; לחתום על קבצי PPTX לפני הפצת הנהגת המנהל.
+
+
+
+* **סיום מצגת מכירות**  
+
+&nbsp; להחיל אינדיקטורים של אישור על מצגות המופנות ללקוח.
+
+
+
+* **אישור חומרי הדרכה**  
+
+&nbsp; לסמן מצגות הדרכה מאושרות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **חתימה כתובת על ידי העוסקים**  
+
+&nbsp; קבצי PPTX נחתמים כאשר אישורים מתעדים.
+
+
+
+* **אכיפת שחרור מבוקר בגרסאות**  
+
+&nbsp; רק מצגות חתומות משותפות חוץ.
+
+
+
+* **פרסום מצגות אוטומטי**  
+
+&nbsp; החתימה משולבת בזרימי עבודה לפרסום.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

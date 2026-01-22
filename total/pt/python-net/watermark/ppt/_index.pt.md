@@ -79,7 +79,85 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/sli
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Adicionar marcas d'água nos arquivos **PPT** com APIs Python ajuda a proteger apresentações antigas do PowerPoint, adicionando rótulos de controle visíveis sem exigir edições manuais no ambiente original de autoria.
+
+A automação suporta a marcação consistente de marcas d'água em decks mais antigos, permitindo governança escalável para arquivos, bibliotecas de vendas e ativos de apresentação herdados.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Carimbos de Confidencialidade em Decks Antigos**  
+
+&nbsp; Aplicar marcas "CONFIDENCIAL" em decks antigos do PPT ainda usados internamente.
+
+
+
+* **Controles de Compartilhamento Apenas para Revisão**  
+
+&nbsp; Adicionar sobreposições "PARA REVISÃO" para evitar distribuição pública acidental.
+
+
+
+* **Rótulos de Propriedade para Propriedade Intelectual Histórica**  
+
+&nbsp; Adicionar marcas d'água em slides antigos para preservar a atribuição em apresentações copiadas.
+
+
+
+* **Bibliotecas de Slides Restritas a Parceiros**  
+
+&nbsp; Incorporar restrições em decks do PPT distribuídos a colaboradores externos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Marcação em Lote Automática de PPT em Toda a Biblioteca**  
+
+&nbsp; Carimbar automaticamente diretórios inteiros de legado para padronizar a governança.
+
+
+
+* **Posicionamento Automático Consciente do Layout**  
+
+&nbsp; Colocar marcas d'água com base nos layouts de slides para evitar sobreposição de blocos de conteúdo.
+
+
+
+* **Geração de Saída Versionada**  
+
+&nbsp; Produzir variantes "preview" e "interna" com marcas d'água de forma programática.
+
+
+
+* **Carimbo Acionado em Solicitações de Acesso**  
+
+&nbsp; Aplicar marcas d'água específicas para o destinatário quando os decks são solicitados por meio de um portal automatizado.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

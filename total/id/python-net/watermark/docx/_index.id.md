@@ -79,7 +79,83 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Memberi Watermark pada dokumen **DOCX** dengan Python APIs menambahkan kontrol yang terlihat pada file Word modern, membantu mencegah penyebaran yang salah dan menjelaskan kepemilikan di seluruh konten yang dapat diedit dan dibagikan.
+
+Automasi Python memungkinkan aturan watermark yang dapat diulang di ribuan file DOCX, memastikan penempatan, opasitas, dan pesan yang konsisten di antara tim dan sistem.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Pelabelan Dokumen Rahasia**  
+
+&nbsp; Tandai "RAHASIA" pada laporan sensitif untuk mencegah berbagi secara sembarangan.
+
+
+
+* **Penandaan Versi Draf untuk Ulasan**  
+
+&nbsp; Terapkan overlay "DRAFT" untuk mengurangi kesalahan yang disebabkan oleh versi yang sudah ketinggalan.
+
+
+
+* **Tanda Kepemilikan Pengiriman Klien**  
+
+&nbsp; Tambahkan watermark kepemilikan pada dokumen yang dikirim sambil mempertahankan kemampuan untuk diedit untuk kolaborasi.
+
+
+
+* **Governansi Template untuk Dokumen Bisnis**  
+
+&nbsp; Menegakkan standar watermark pada proposal, surat, dan laporan yang dihasilkan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Watermark Proposal yang Dipicu CRM**  
+
+&nbsp; Hasilkan dan beri watermark pada proposal DOCX secara otomatis ketika tahap kesepakatan berubah.
+
+
+
+* **Watermark Massal untuk Migrasi Back-Office**  
+
+&nbsp; Tandai file DOCX arsip selama migrasi repositori untuk standarisasi governansi.
+
+
+
+* **Watermark Dinamis berdasarkan Peran dan Wilayah**  
+
+&nbsp; Sesuaikan teks watermark berdasarkan peran pengguna, lokasi kantor, atau aturan residensi data.
+
+
+
+* **Alur Kerja Pendamping Redaksi Otomatis**  
+
+&nbsp; Watermark dokumen yang diproses setelah redaksi untuk menunjukkan "SALINAN DISENSITIFKAN".
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

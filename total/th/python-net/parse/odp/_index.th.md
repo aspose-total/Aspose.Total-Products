@@ -100,7 +100,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การวิเคราะห์ไฟล์นำเสนอ ODP โดยใช้ Python APIs จะให้การเข้าถึงเนื้อหาที่เก็บไว้ในรูปแบบนำเสนอเปิด ซึ่งสนับสนุนการสกัดโครงสร้างโดยไม่ต้องพึ่งพาเครื่องมือเฉพาะเจาะจง
+
+
+
+การวิเคราะห์ ODP โดยอัตโนมัติช่วยให้การประมวลผลข้อมูลการนำเสนอได้ในนิเวศที่เปิดและสามารถขยายขยายได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **วิเคราะห์การนำเสนอเปิด**  
+
+  &nbsp; สกัดเนื้อหาของสไลด์และโครงสร้างจากไฟล์ ODP
+
+
+
+* **ดัชนีเนื้อหาการนำเสนอ**  
+
+  &nbsp; ทำให้สไลด์ในรูปแบบเปิดสามารถค้นหาและนำกลับมาใช้ซ้ำได้
+
+
+
+* **การสกัดข้อมูลสำหรับรายงาน**  
+
+  &nbsp; แปลงเนื้อหาของสไลด์เป็นชุดข้อมูลโครงสร้าง
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* **การนำเข้าสไลด์โดยอัตโนมัติ**  
+
+  &nbsp; ประมวลผลไฟล์ ODP เป็นส่วนหนึ่งของขั้นตอนการทำงานตามกำหนดเวลา
+
+
+
+* **การตรวจสอบความสอดคล้องของเนื้อหา**  
+
+  &nbsp; ตรวจสอบโครงสร้างของสไลด์ตามกฎที่กำหนด
+
+
+
+* **ท่อการนำเสนอรูปแบบต่าง ๆ โดยอัตโนมัติ**  
+
+  &nbsp; แปลงเนื้อหา ODP เป็นรูปแบบอื่นๆ โดยโปรแกรม
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

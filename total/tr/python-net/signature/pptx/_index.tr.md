@@ -73,7 +73,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTX dosyalarına imza atmak sunumların açık onay ve yayın meta verilerini taşımasını sağlar, yetkisiz veya erken dağıtımı önler.
+
+
+
+Python tabanlı otomasyon, sunum onayının ekipler ve sürümler arasında tutarlı olmasını sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* **Yönetici Sunumu Onayı**  
+
+&nbsp; Liderlik dağıtımından önce PPTX sunumlarını imzalayın.
+
+
+
+* **Satış Sunumu Sonlandırma**  
+
+&nbsp; Müşteriye yönelik sunumlara onay göstergeleri uygulayın.
+
+
+
+* **Eğitim Materyali Sertifikasyonu**  
+
+&nbsp; Onaylanmış eğitim sunumlarını işaretleyin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Paydaş Onay Tetikli İmzalama**  
+
+&nbsp; Onaylar kaydedildiğinde PPTX dosyaları imzalanır.
+
+
+
+* **Sürüm Kontrollü Yayın Uygulaması**  
+
+&nbsp; Yalnızca imzalı sunumlar dışa paylaşılır.
+
+
+
+* **Otomatik Sunum Yayınlama**  
+
+&nbsp; İmzalama yayınlama iş akışlarına entegre edilmiştir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

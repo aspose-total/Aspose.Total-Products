@@ -79,7 +79,75 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Das Zusammenführen von PowerPoint-Präsentationsformaten mithilfe von Python-APIs ermöglicht einheitliche, abspielbereite Präsentationen. Diese Formate sind für die direkte Präsentation und nicht für die Bearbeitung konzipiert.
+
+
+
+Die Automatisierung gewährleistet eine konsistente Präsentationsbereitstellung für Teams und Veranstaltungen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Zusammenstellung von Diashow-Sequenzen (PPS)**  
+
+&nbsp; PPS-Dateien zu einem einzigen Präsentationsfluss zusammenführen.
+
+
+
+* **Zusammenstellung von Event-Präsentationen (PPS)**  
+
+&nbsp; Diashow-Dateien für Konferenzen oder Meetings kombinieren.
+
+
+
+* **Verpackung von Präsentationswiedergaben (PPS)**  
+
+&nbsp; PPS-Dateien zu einer ausführbaren Diashow aggregieren.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Automatisierte Event-Deck-Vorbereitung (PPS)**  
+
+&nbsp; Systeme führen PPS-Dateien vor geplanten Veranstaltungen zusammen.
+
+
+
+* **Backend-Diashow-Erstellung (PPS)**  
+
+&nbsp; PPS-Zusammenführung wird programmgesteuert ausgelöst.
+
+
+
+* **Automatisierung der Präsentationsbereitstellung (PPS)**  
+
+&nbsp; Diashows werden automatisch für die Wiedergabe zusammengeführt.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

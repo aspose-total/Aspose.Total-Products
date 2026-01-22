@@ -90,7 +90,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API查看DOCX文档，可以安全地检查带有嵌入式逻辑但不执行的宏启用文档。
+
+这对需要可见性但又不带安全风险的受控环境至关重要。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **宏感知文档审查**  
+
+  &nbsp; 在保持宏非活动状态的同时查看内容。
+
+
+
+* **面向安全的检查**  
+
+  &nbsp; 检查文档的结构和文本，而不执行。
+
+
+
+* **受控文档访问**  
+
+  &nbsp; 在受限或自动化系统中实现安全查看。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **安全的接收管道**  
+
+  &nbsp; Python自动化显示DOCX内容，而不触发宏。
+
+
+
+* **合规审查自动化**  
+
+  &nbsp; 文档作为自动化策略检查的一部分进行查看。
+
+
+
+* **预先批准工作流程**  
+
+  &nbsp; 自动化预览支持人工审批。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -85,7 +85,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusion de formats d'image génériques à l'aide d'API Python offre une approche unifiée pour gérer divers actifs visuels dans un flux de travail unique. Cette abstraction simplifie le traitement d'images à travers des formats mixtes.
+
+
+
+L'automatisation permet une consolidation d'images évolutive et agnostique au format pour les systèmes modernes.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Unification d'images multi-formats (IMAGE)**  
+
+  Fusionner différents formats d'image en une seule sortie.
+
+
+
+* **Agrégation visuelle multi-source (IMAGE)**  
+
+  Combinez des images provenant de différents outils et plateformes.
+
+
+
+* **Harmonisation d'images d'entreprise (IMAGE)**  
+
+  Agréger des images hétérogènes en visuels unifiés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Pipelines d'images agnostiques au format (IMAGE)**  
+
+  Les flux de travail automatisés fusionnent des images indépendamment du format.
+
+
+
+* **Génération visuelle unifiée (IMAGE)**  
+
+  Les systèmes génèrent dynamiquement des images consolidées.
+
+
+
+* **Orchestration d'images évolutive (IMAGE)**  
+
+  La fusion programmatique prend en charge des flux de travail d'images à grande échelle.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

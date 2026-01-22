@@ -76,7 +76,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mencari file **ODP** menggunakan API Python memungkinkan akses terstruktur ke dokumen presentasi standar terbuka yang umum digunakan dalam lingkungan kolaboratif dan sumber terbuka. Pencarian programatik memungkinkan sistem mengekstrak teks slide, judul, dan metadata tanpa tinjauan manual.
+
+
+
+Ketika diotomatisasi, pencarian dokumen ODP meningkatkan kemampuan ditemukan, mendukung manajemen konten yang dapat diskalakan, dan terintegrasi dengan lancar dengan sistem pemrosesan data modern dan otomatisasi alur kerja.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Pencarian Teks Slide ODP**  
+
+&nbsp; Menemukan kata kunci dan frasa di seluruh slide presentasi format terbuka.
+
+
+
+* **Peninjauan Konten Presentasi Terbuka**  
+
+&nbsp; Memungkinkan inspeksi cepat dari slide presentasi yang dibagikan atau kolaboratif.
+
+
+
+* **Penemuan Metadata ODP**  
+
+&nbsp; Mengekstrak properti dokumen untuk klasifikasi dan pengindeksan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pengindeksan ODP Otomatis**  
+
+&nbsp; Layanan Python terus-menerus mengindeks file ODP untuk akses pencarian.
+
+
+
+* **Pemantauan Konten ODP**  
+
+&nbsp; Pemindaian programatik mendeteksi perubahan atau pembaruan dalam presentasi.
+
+
+
+* **Integrasi Alur Kerja ODP**  
+
+&nbsp; Konten yang diekstrak memberi makan otomatisasi penerbitan atau alur kerja peninjauan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

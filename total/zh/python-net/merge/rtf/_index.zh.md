@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API合并富文本格式文档可实现轻量级文档合并，同时保留基本格式和可读性。RTF广泛用于跨平台和系统的互操作性。
+
+
+
+自动化的RTF合并支持在简单性和兼容性至关重要的环境中进行快速、程序化的文档处理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* **轻量级文档编译（RTF）**  
+
+&nbsp; 将多个RTF文件合并为一个可读文档。
+
+
+
+* **跨系统内容交换（RTF）**  
+
+&nbsp; 结合在异构系统之间共享的RTF文档。
+
+
+
+* **保留纯文本格式（RTF）**  
+
+&nbsp; 聚合RTF文件同时保留基本格式。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **后端文本处理流水线（RTF）**  
+
+&nbsp; RTF合并在文本处理服务中自动化。
+
+
+
+* **大容量文档处理（RTF）**  
+
+&nbsp; 系统以编程方式合并大量RTF文件。
+
+
+
+* **以兼容性为重点的自动化（RTF）**  
+
+&nbsp; RTF文件被自动合并以实现最大的可移植性。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

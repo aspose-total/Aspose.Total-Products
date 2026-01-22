@@ -79,7 +79,75 @@ Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het samenvoegen van met macro's ingeschakelde diavoorstellingpresentaties met behulp van Python API's ondersteunt geautomatiseerde, interactieve diavoorstellinglevering. Deze formaten worden vaak gebruikt in gecontroleerde omgevingen.
+
+
+
+Automatisering zorgt ervoor dat macro's en diavoorstellingsgedrag behouden blijven tijdens het samenvoegen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Interactieve Diavoorstelling Assemblage (PPSM)**  
+
+&nbsp; Voeg diavoorstellingsbestanden met macro's samen.
+
+
+
+* **Geautomatiseerde Demonstratiepresentatie (PPSM)**  
+
+&nbsp; Combineer PPSM-bestanden voor geautomatiseerde demonstraties.
+
+
+
+* **Gecontroleerde Afspeldecks (PPSM)**  
+
+&nbsp; Voeg PPSM-bestanden samen voor beheerde presentaties.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Regelgestuurde Diavoorstellingcreatie (PPSM)**  
+
+&nbsp; Systemen voegen PPSM-bestanden samen op basis van logische regels.
+
+
+
+* **Behoud van Automatisering aan de Backend (PPSM)**  
+
+&nbsp; Het samenvoegen van PPSM behoudt interactieve gedragingen.
+
+
+
+* **Geplande Demonstratiegeneratie (PPSM)**  
+
+&nbsp; Diavoorstellingen worden automatisch samengevoegd volgens schema's.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

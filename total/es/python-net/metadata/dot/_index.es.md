@@ -98,7 +98,50 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La extracción de metadatos de documentos para archivos **DOT** a través de API de Python admite la comprensión y gestión de activos de plantillas heredadas leyendo propiedades incrustadas como autor de la plantilla, tiempos de creación y campos descriptivos. Esto es importante para la estandarización, gobernanza y mantenimiento de salidas de documentos consistentes en toda una organización.
+
+En sistemas automatizados, los metadatos DOT permiten la gestión controlada del ciclo de vida de las plantillas, ayudando a los flujos de trabajo a elegir las plantillas correctas, hacer cumplir los estándares aprobados y detectar archivos de plantillas obsoletos o no gestionados a gran escala.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+- **Creación de Catálogo de Plantillas**
+  Extraer metadatos DOT para construir un inventario de plantillas buscable y sus propósitos previstos.
+
+- **Aplicación de Estandarización**
+  Identificar qué plantillas están aprobadas verificando la propiedad y las propiedades descriptivas.
+
+- **Seguimiento del Ciclo de Vida de la Plantilla**
+  Supervisar los tiempos de creación/modificación para detectar plantillas obsoletas que necesitan revisión o retiro.
+
+- **Gobernanza del Uso de Plantillas**
+  Utilizar metadatos para vincular plantillas a departamentos o flujos de trabajo para una distribución controlada.
+
+- **Registros de Plantillas Listos para Auditoría**
+  Producir registros rastreables que muestren el origen de la plantilla y el historial de mantenimiento para necesidades de cumplimiento.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+- **Control de Acceso a Plantillas Aprobadas**
+  Bloquear automáticamente plantillas DOT no aprobadas para ser almacenadas en repositorios compartidos basándose en reglas de metadatos.
+
+- **Alertas Programadas de Actualización de Plantillas**
+  Activar notificaciones periódicas cuando las plantillas DOT excedan los límites de antigüedad o carezcan de campos de mantenimiento.
+
+- **Automatización de Selección de Plantillas**
+  Utilizar metadatos para seleccionar programáticamente la plantilla DOT correcta para un flujo de trabajo o departamento dado.
+
+- **Flujo de Trabajo de Limpieza de Repositorio**
+  Identificar y poner en cuarentena plantillas DOT duplicadas u obsoletas utilizando similitud de metadatos y marcas de tiempo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

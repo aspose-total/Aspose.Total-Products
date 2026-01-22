@@ -76,7 +76,75 @@ Para obter mais detalhes, consulte [Documentação do produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT é um formato de texto de documento aberto amplamente utilizado para relatórios e documentação. Proteger arquivos ODT é essencial para preservar a autenticidade do documento e evitar alterações acidentais ou maliciosas.
+
+
+
+A proteção de documentos baseada em Python permite que a segurança do ODT seja incorporada em fluxos de trabalho automatizados de documentação e publicação com o mínimo de sobrecarga.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Distribuição Segura de Relatórios**  
+
+  Proteja relatórios ODT finalizados antes de compartilhar.
+
+
+
+* **Integridade da Documentação**  
+
+  Garanta que os documentos oficiais permaneçam inalterados após a aprovação.
+
+
+
+* **Segurança de Documentos entre Plataformas**  
+
+  Aplique proteção independentemente do ambiente de edição.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Pipelines de Documentação Automatizados**  
+
+  Proteja arquivos ODT como parte da geração contínua de documentação.
+
+
+
+* **Segurança de Arquivos Baseada em Regras**  
+
+  Aplique políticas de proteção com base em metadados do documento.
+
+
+
+* **Fortalecimento em Lote de Documentos**  
+
+  Proteja vários arquivos ODT de forma programática em operações em lote.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

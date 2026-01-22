@@ -82,7 +82,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+מיזוג תמונות TIFF באמצעות Python APIs תומך בזרימות עבודה של תמונות ברזולוציה גבוהה, מרובות עמודים, המשמשות בדפוס, בתמונות רפואיות ובסריקת מסמכים.
+
+
+
+האוטומציה מאפשרת טיפול אמין בסטים גדולים של תמונות עשירות בפרטים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **אספקת סריקות מרובות עמודים (TIFF)**  
+
+&nbsp; מיזוג עמודי TIFF לקובץ רב-עמודים אחד.
+
+
+
+* **עיבוד תמונה ברזולוציה גבוהה (TIFF)**  
+
+&nbsp; שילוב של תמונות TIFF לצורך ניתוח מפורט.
+
+
+
+* **איסוף תמונות מוכנות להדפסה (TIFF)**  
+
+&nbsp; איגוד קבצי TIFF לצורך זרימות פרסום.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **צינורות סריקה אוטומטיים (TIFF)**  
+
+&nbsp; מערכות ממזגות קבצי TIFF במהלך קליטת הסריקה.
+
+
+
+* **עיבוד ברזולוציה גבוהה בצורת צמיגה (TIFF)**  
+
+&nbsp; מיזוג TIFF רץ במשימות מתוזמנות.
+
+
+
+* **אוטומציה בתחום התמונה העסקית (TIFF)**  
+
+&nbsp; זרימות עבודה אוטומטיות ניהלות סטים גדולים של TIFF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

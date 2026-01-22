@@ -89,7 +89,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API查看POTX文件，可以检查用于自动生成幻灯片的现代演示模板。
+
+这支持可扩展的、基于模板的演示工作流。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **现代模板检查**  
+
+  查看幻灯片母版和布局。
+
+
+
+* **品牌一致性检查**  
+
+  确保模板符合演示标准。
+
+
+
+* **自动化准备验证**  
+
+  在使用之前检查模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **模板部署流水线**  
+
+  在推出之前渲染POTX文件。
+
+
+
+* **自动化演示系统**  
+
+  查看确保模板功能正常。
+
+
+
+* **质量保证工作流**  
+
+  模板通过程序验证。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

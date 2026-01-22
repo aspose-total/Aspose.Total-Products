@@ -78,7 +78,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusione di documenti utilizzando le API di Python è una capacità fondamentale per l'elaborazione moderna dei contenuti, la generazione di report e la gestione del ciclo di vita dei documenti. Consente agli sviluppatori e ai sistemi di combinare più file in un'unica uscita strutturata, preservando formattazione, layout e flusso logico attraverso fonti documentali eterogenee.
+
+
+
+Automatizzando la fusione dei documenti, le organizzazioni possono ridurre lo sforzo manuale, garantire la coerenza e integrare i flussi di lavoro dei documenti direttamente nelle pipeline di dati, nei servizi backend e nei sistemi di automazione scalabili costruiti su Python.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* **Rapporti Word Consolidati (DOC)**  
+
+  &nbsp; Combina documenti Word legacy in un unico rapporto per una revisione unificata e archiviazione.
+
+
+
+* **Assemblaggio di Documenti Batch (DOC)**  
+
+  &nbsp; Assembla più file DOC generati da sistemi diversi in un unico documento consegnabile.
+
+
+
+* **Aggregazione di Contenuti Storici (DOC)**  
+
+  &nbsp; Unisce file DOC archiviati per modernizzare e riutilizzare collezioni di contenuti più vecchie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Compilazione Programmata di Report (DOC)**  
+
+  &nbsp; I lavori automatizzati uniscono quotidianamente o settimanalmente file DOC in un unico rapporto distribuibile.
+
+
+
+* **Unione di Documenti Basata su Flussi di Lavoro (DOC)**  
+
+  &nbsp; I flussi di lavoro backend uniscono dinamicamente i file DOC quando le fasi del processo sono completate.
+
+
+
+* **Generazione di Output Guidata da Pipeline (DOC)**  
+
+  &nbsp; La fusione di DOC è attivata in modo programmato come parte di una pipeline di documenti più ampia.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

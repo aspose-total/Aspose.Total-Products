@@ -76,7 +76,75 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Поиск файлов **DOC** с использованием Python API позволяет современным системам извлекать и находить информацию из устаревших текстовых документов, которые все еще широко используются в архивах и корпоративных средах. Программный поиск обеспечивает доступ к ценным историческим и операционным данным без необходимости ручного просмотра.
+
+
+
+При интеграции в автоматизированные рабочие процессы поиск файлов DOC повышает эффективность, обеспечивая пакетную обработку, структурированный индексирование и безшовную интеграцию с конвейерами данных и системами управления документами.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Поиск устаревших документов**  
+
+&nbsp; Позволяет находить информацию по ключевым словам в старых файлах DOC.
+
+
+
+* **Извлечение архивного контента**  
+
+&nbsp; Извлекает актуальную информацию из долгосрочно хранимых документов.
+
+
+
+* **Поиск записей о соответствии**  
+
+&nbsp; Находит пункты и заявления в записях на основе файлов DOC.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированное индексирование DOC**  
+
+&nbsp; Python-задачи сканируют файлы DOC и автоматически обновляют поисковые индексы.
+
+
+
+* **Пакетное извлечение содержимого DOC**  
+
+&nbsp; Большие объемы файлов DOC обрабатываются без ручного участия.
+
+
+
+* **Интеграция DOC с системой**  
+
+&nbsp; Извлеченный контент подает потоком в автоматизированные рабочие процессы и аналитические сценарии.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

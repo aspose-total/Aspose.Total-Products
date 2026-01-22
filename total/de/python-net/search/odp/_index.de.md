@@ -76,7 +76,75 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Suche nach **ODP**-Dateien mithilfe von Python-APIs ermöglicht strukturierten Zugriff auf in kollaborativen und Open-Source-Umgebungen häufig verwendete Präsentationsdokumente im offenen Standard. Die programmgesteuerte Suche ermöglicht es Systemen, Folientexte, Titel und Metadaten ohne manuelle Überprüfung zu extrahieren.
+
+
+
+Bei automatisierter Suche in ODP-Dokumenten verbessert sich die Auffindbarkeit, unterstützt skalierbares Content-Management und integriert sich nahtlos in moderne Datenverarbeitungs- und Workflow-Automatisierungssysteme.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **ODP-Folientextsuche**  
+
+&nbsp; Lokalisiert Schlüsselwörter und Phrasen auf Präsentationsfolien im offenen Format.
+
+
+
+* **Überprüfung von Open Presentation-Inhalten**  
+
+&nbsp; Ermöglicht eine schnelle Inspektion von gemeinsam genutzten oder kollaborativen Folienpräsentationen.
+
+
+
+* **ODP-Metadatenerfassung**  
+
+&nbsp; Extrahiert Dokumenteigenschaften zur Klassifizierung und Indizierung.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Automatisierte ODP-Indizierung**  
+
+&nbsp; Python-Services indizieren kontinuierlich ODP-Dateien für den Suchzugriff.
+
+
+
+* **Überwachung von ODP-Inhalten**  
+
+&nbsp; Programmgesteuerte Scans erkennen Änderungen oder Updates in Präsentationen.
+
+
+
+* **ODP-Workflow-Integration**  
+
+&nbsp; Extrahierte Inhalte speisen automatisierte Veröffentlichungs- oder Überprüfungs-Pipelines.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

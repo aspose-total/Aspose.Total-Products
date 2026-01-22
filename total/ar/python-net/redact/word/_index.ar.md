@@ -74,7 +74,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحرير المستند باستخدام واجهات برمجة تطبيقات Python لملفات Word يمكن من معالجة آمنة عبر تنسيقات معالجة النصوص المتعددة تحت نهج موحد. وهذا يضمن حماية البيانات المتسقة بغض النظر عن مصدر المستند.
+
+
+
+من خلال تلقين تحرير مستند Word، يمكن للمؤسسات توحيد ضوابط الخصوصية مع تحسين الكفاءة والقابلية للتوسيع.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **حوكمة المستندات الشركية**  
+
+&nbsp; تطبيق سياسات تحرير متسقة على جميع مستندات Word.
+
+
+
+* **التحكم في المحتوى عبر التنسيقات المختلطة**  
+
+&nbsp; إدارة البيانات الحساسة في بيئات ملفات Word المختلطة.
+
+
+
+* **مشاركة المعرفة بشكل آمن**  
+
+&nbsp; توزيع المستندات المحررة بأمان داخل وخارج المؤسسة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **خدمات التحرير الموحدة**  
+
+&nbsp; عرض التحرير كخدمة قابلة لإعادة الاستخدام بناءً على Python.
+
+
+
+* **معالجة مدفوعة بالأحداث**  
+
+&nbsp; تشغيل التحرير عند تحميل أو تعديل ملفات Word.
+
+
+
+* **سير العمل جاهزة للتدقيق**  
+
+&nbsp; تسجيل وتتبع إجراءات التحرير التلقائي للامتثال.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

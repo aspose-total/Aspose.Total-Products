@@ -73,7 +73,75 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPT est un format de présentation hérité encore utilisé dans les anciens systèmes. La division des fichiers PPT permet une utilisation continue dans les environnements automatisés modernes.
+
+
+
+Les API Python permettent de traiter les fichiers PPT de manière programmable malgré leur structure héritée.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Migration de Présentation Héritée**  
+
+  &nbsp; Extraire des diapositives pour conversion ou mise à niveau.
+
+
+
+* **Accès Sélectif au Contenu**  
+
+  &nbsp; Travailler avec des diapositives spécifiques sans conversion complète.
+
+
+
+* **Gestion d'Archivage de Présentation**  
+
+  &nbsp; Stocker les diapositives individuellement pour l'indexation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'Automatisation" %}}
+
+
+
+* **Pipelines de Traitement de Format Hérité**  
+
+  &nbsp; Automatiser la division des PPT à grande échelle.
+
+
+
+* **Extraction de Diapositives pour Conversion**  
+
+  &nbsp; Les diapositives sont converties en formats modernes.
+
+
+
+* **Audits de Présentation Automatisés**  
+
+  &nbsp; Examiner le contenu des diapositives de manière programmable.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

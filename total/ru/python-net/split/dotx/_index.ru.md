@@ -79,7 +79,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTX - это современный формат шаблонов, который предоставляет структурированные и расширяемые образцы документов. Разделение файлов DOTX позволяет иметь детальный контроль над повторно используемыми компонентами макета.
+
+
+
+Автоматизация на основе Python делает разделение DOTX масштабируемым и надежным для систем генерации документов предприятия.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Управление повторно используемыми макетами**  
+
+  &nbsp; Индивидуальные разделы макета извлекаются для модульного использования.
+
+
+
+* **Оптимизация шаблона**  
+
+  &nbsp; Определение и уточнение конкретных элементов шаблона.
+
+
+
+* **Контроль сборки документов**  
+
+  &nbsp; Обеспечение однородной структуры в создаваемых документах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Извлечение шаблонов с учетом XML**  
+
+  &nbsp; Python анализирует структуру DOTX для точного разделения.
+
+
+
+* **Автоматизированное внедрение макета**  
+
+  &nbsp; Извлеченные разделы динамически внедряются в документы.
+
+
+
+* **Рабочие процессы проверки шаблона**  
+
+  &nbsp; Разделы проверяются независимо перед использованием.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -77,7 +77,75 @@ Para obter mais detalhes, consulte [Documentação do produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A redação de documentos usando APIs do Python para arquivos PPTX oferece controle preciso sobre o conteúdo de apresentações modernas, possibilitando colaboração e distribuição seguras. Isso é fundamental para proteger dados sensíveis dos slides.
+
+
+
+A automação garante que a redação de PPTX seja consistente, auditável e facilmente integrada aos fluxos de trabalho de conteúdo modernos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Proteção de Dados Confidenciais**  
+
+  Reduza figuras e textos sensíveis dos slides de apresentação.
+
+
+
+* **Distribuição para Múltiplos Públicos**  
+
+  Crie versões redigidas adaptadas a diferentes partes interessadas.
+
+
+
+* **Gestão do Ciclo de Vida da Apresentação**  
+
+  Garanta que todos os arquivos PPTX compartilhados atendam aos padrões de privacidade.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Redação de Objetos de Slide**  
+
+  Remova programaticamente caixas de texto ou formas sensíveis.
+
+
+
+* **Tratamento de Atualização Contínua**  
+
+  Reaplique a redação automaticamente quando os slides mudam.
+
+
+
+* **Integração de Fluxo de Trabalho**  
+
+  Incorpore a redação em pipelines de conteúdo no estilo CI/CD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

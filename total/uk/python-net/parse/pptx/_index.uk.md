@@ -100,7 +100,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Розбір **презентацій PPTX** за допомогою Python APIs дозволяє структурований доступ до тексту слайдів, заголовків, маркерів, макетів та нотаток доповідача з сучасних файлів презентацій. Розбір PPTX робить доступним знання на основі слайдів поза ручним переглядом.
+
+
+
+У системах, що працюють на автоматизації, розбір PPTX підтримує повторне використання контенту, узагальнення, аналітику та інтеграцію з управлінням знаннями та звітністю.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні використання" %}}
+
+
+
+* **Вилучення вмісту слайдів**  
+
+&nbsp; Витягує структурований текст та елементи макету зі слайдів презентації.
+
+
+
+* **Видобуток знань з презентацій**  
+
+&nbsp; Перетворює слайди в джерела вмісту, які можна шукати та аналізувати.
+
+
+
+* **Робочі процеси переробки вмісту**  
+
+&nbsp; Дозволяє повторне використання матеріалів презентацій у документації та на платформах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Автоматизоване введення презентацій**  
+
+&nbsp; Обробляє файли PPTX автоматично при завантаженні або за розкладом.
+
+
+
+* **Потоки узагальнення на рівні слайдів**  
+
+&nbsp; Генерує стислі узагальнення з вилученого вмісту слайдів.
+
+
+
+* **Автоматизація порівняння версій**  
+
+&nbsp; Програмно виявляє зміни між кількома версіями презентацій.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

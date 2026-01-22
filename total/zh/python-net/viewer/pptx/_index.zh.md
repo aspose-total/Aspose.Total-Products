@@ -89,7 +89,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API查看PowerPoint PPTX演示文稿可统一访问多种格式的基于幻灯片的文档。
+
+这支持自动审阅和以演示为中心的工作流程。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **统一幻灯片审阅**  
+
+  查看演示文稿，无论其变体如何。
+
+
+
+* **演示验证**  
+
+  检查幻灯片内容和布局。
+
+
+
+* **工作流集成**  
+
+  将查看嵌入自动化系统中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动审阅流水线**  
+
+  在验证过程中呈现演示文稿。
+
+
+
+* **预览服务**  
+
+  为利益相关者动态显示幻灯片。
+
+
+
+* **批量演示操作**  
+
+  可以通过编程方式查看多个幻灯片组。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Łączenie formatów szablonów PowerPoint za pomocą interfejsów API w języku Python zapewnia spójny design, układ i branding w prezentacjach. Szablony są kluczowe dla standaryzowanej produkcji slajdów.
+
+
+
+Automatyzacja umożliwia szybkie generowanie jednolitych prezentacji na dużą skalę.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Montaż prezentacji opartych na szablonach (POT)**  
+
+&nbsp; Łączenie plików opartych na POT w celu narzucenia spójnych układów.
+
+
+
+* **Tworzenie standaryzowanych prezentacji (POT)**  
+
+&nbsp; Łączenie prezentacji opartych na szablonach w jedną prezentację.
+
+
+
+* **Zarządzanie projektowaniem do ponownego wykorzystania (POT)**  
+
+&nbsp; Łączenie plików POT w celu uzyskania jednolitego stylu slajdów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Automatyczne stosowanie szablonów (POT)**  
+
+&nbsp; Pliki POT są łączone podczas generowania prezentacji.
+
+
+
+* **Przetwarzanie wsadowe szablonów (POT)**  
+
+&nbsp; Zaplanowane zadania łączą szablony oparte na POT.
+
+
+
+* **Automatyzacja z kontrolą projektowania (POT)**  
+
+&nbsp; Systemy łączą pliki POT w celu zapewnienia spójności brandingowej.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

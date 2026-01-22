@@ -74,7 +74,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'ları kullanarak belgelerin kırmızıya çekilmesi, işletmelerde hala yaygın olarak kullanılan eski kelime işlem belgelerinden hassas bilgilerin güvenli bir şekilde kaldırılmasını sağlar. Bu yetenek, uyumluluk, veri koruması ve düzenlenmiş ortamlarda güvenli belge paylaşımı için kritiktir.
+
+
+
+Python tabanlı kırmızıya alma işlemini otomatik iş akışlarına entegre ederek, DOC dosyaları ölçeklenebilir bir şekilde işlenebilir, veri gizlilik kurallarının tutarlı bir şekilde uygulanmasını sağlarken manuel çaba ve insan hatalarını azaltır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Eski Belge Uyumluluğu**  
+
+&nbsp; Düzenleyici ve denetim gereksinimlerini karşılamak için eski DOC dosyalarından gizli verileri kırmızıya alın.
+
+
+
+* **Güvenli İçsel Paylaşım**  
+
+&nbsp; Belgeleri bölümler arası veya ekipler arasında dağıtmadan önce hassas bölümleri kaldırın.
+
+
+
+* **Tarihsel Arşiv Temizliği**  
+
+&nbsp; Arşivlenmiş DOC dosyalarını temizleyerek uzun vadeli depolama veya genel erişim için güvenli hale getirin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu Kırmızıya Alma Boruları**  
+
+&nbsp; Zamanlanmış Python işleri kullanarak binlerce DOC dosyasının kırmızıya alınmasını otomatikleştirin.
+
+
+
+* **Kural Tabanlı Metin Maskeleme**  
+
+&nbsp; Hassas terimleri otomatik olarak tespit etmek ve kırmızıya almak için önceden tanımlanmış desenleri uygulayın.
+
+
+
+* **Belge Alımı Otomasyonu**  
+
+&nbsp; Belgeler depolama sistemlerine girmeden önce kırmızıya alma işlemini entegre edin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

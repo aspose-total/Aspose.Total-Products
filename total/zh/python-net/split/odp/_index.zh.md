@@ -73,7 +73,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODP文件用于包含多个幻灯片和视觉组件的开放标准演示文稿。拆分ODP文件可以实现幻灯片级别的访问和重复使用。
+
+
+
+Python自动化支持高效的ODP拆分，用于可扩展的演示文稿处理和内容重复使用。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **幻灯片级别的重复使用**  
+
+  &nbsp; 可以提取单独的幻灯片并在不同的演示文稿中重复使用。
+
+
+
+* **演示文稿内容分析**  
+
+  &nbsp; 独立分析幻灯片的结构或元数据。
+
+
+
+* **协作编辑**  
+
+  &nbsp; 团队可以在隔离的幻灯片集上共同工作。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化幻灯片提取**  
+
+  &nbsp; Python脚本以程序方式拆分幻灯片。
+
+
+
+* **动态演示文稿组装**  
+
+  &nbsp; 根据运行时规则重新组合幻灯片。
+
+
+
+* **演示文稿存档系统**  
+
+  &nbsp; 单独索引幻灯片以便检索。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

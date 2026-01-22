@@ -77,7 +77,73 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG ODT TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+הטמעת סימן מים במסמכי ODT באמצעות Python APIs עוזרת להגן על קבצי טקסט פתוחים ODT על ידי הוספת סימני בעלות וסודיות ברורים תוך שמירה על נגישות התוכן באקוסיסטמות פתוחות.
+
+האוטומציה מאפשרת כללי סימון סימני מים עבור ספריות ODT, תומכת בשלטון מסמכים נמוך לצוותים המשתמשים בפורמטים פתוחים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **סימון מדיניות בפורמט פתוח**
+
+  &nbsp; לחתום על מסמכי ODT ב-"פנימי" או "סודי" כדי להפחית מסילות טעות.
+
+* **שליטה בטיוטה לצורך כתיבה שיתופית**
+
+  &nbsp; ליישם חיפושים "טיוטה" במהלך מחזורי עריכה.
+
+* **הודעות חלוקה למסמכים משותפים**
+
+  &nbsp; להוסיף הגבלות שימוש למסמכים שמשותפים עם קבלנים או שותפים.
+
+* **שמירת זהות לארכיון**
+
+  &nbsp; להטמיע סימני מים בקבצי ODT מיוצאים כך שהבעלות תהיה גלויה גם לאחר העתקה בין מערכות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **יוצר מסמך + שלב סימון מים**
+
+  &nbsp; להטמיע באופן אוטומטי סימני מים בקבצי ODT שנוצרו מתבניות או מנתונים מובנים.
+
+* **אכיפת מדיניות מאגרים**
+
+  &nbsp; ליישם סימני מים כאשר מסמכי ODT מועלים לתיקיות מורשות.
+
+* **החלפת סימני מים בגרסאות אוטומטית**
+
+  &nbsp; לשנות טקסט סימן המים בהתאם למצב הגרסה (טיוטה, ביקורת, סופי) באופן תכנותי.
+
+* **צינורות ייצוא התאמה לתקנות**
+
+  &nbsp; לחתום על ייצואי ODT המשמשים לצורך בדיקות כדי להבטיח תיווי קבוע בהגשות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

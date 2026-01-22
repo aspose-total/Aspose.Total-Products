@@ -73,7 +73,85 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用して**JPEG**画像に透かしを入れることで、広く共有される写真や圧縮されたビジュアルを重いファイルのオーバーヘッドなしに、目に見える所有権と配布の手がかりを追加することができます。
+
+自動化により、ウェブパブリッシングやコンテンツオペレーションで使用される大規模なJPEGコレクション全体にわたって、一貫した透かしの配置と品質保存のレンダリングが可能になります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* **ウェブサイトメディア所有権マーク**  
+
+&nbsp; ランディングページやブログで使用される写真に透かしオーバーレイを追加して再利用を減らします。
+
+
+
+* **写真成果物のクライアント確認**  
+
+&nbsp; 最終納品が承認される前に共有プレビューに「PROOF」とスタンプを押します。
+
+
+
+* **マーケットプレイスリスティング画像保護**  
+
+&nbsp; 製品画像に透かしを入れて、再投稿時にソースの正体を保ちます。
+
+
+
+* **ユーザー生成コンテンツの帰属**  
+
+&nbsp; キュレーションされたコミュニティ画像に自動的に作成者またはポータルマークを適用します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **品質を考慮した透かしのレンダリング**  
+
+&nbsp; 明瞭さとファイルサイズのバランスを取るために圧縮設定を管理しながら透かしを適用します。
+
+
+
+* **CDNアップロードフック透かし**  
+
+&nbsp; JPEGを配信ネットワークにプッシュする前に自動的にスタンプを押します。
+
+
+
+* **コンテンツメタデータからの動的テキスト**  
+
+&nbsp; SKU、著者、またはキャンペーン識別子から透かしテキストをプログラムで生成します。
+
+
+
+* **A/B透かし配置テスト**  
+
+&nbsp; 可視性を測定するために自動的にバリアントを作成し、エンゲージメントメトリクスを損なうことなくテストします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

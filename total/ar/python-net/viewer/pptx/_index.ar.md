@@ -89,7 +89,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+عرض عروض PowerPoint PPTX باستخدام واجهات برمجة التطبيقات في Python يوفر وصولًا موحدًا إلى المستندات القائمة على الشرائح عبر تنسيقات متعددة.
+
+يدعم هذا الأمر استعراض الشرائح بشكل آلي وسير العمل المركزة على العروض.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **مراجعة الشرائح الموحدة**  
+
+&nbsp; عرض العروض بغض النظر عن الاختلاف.
+
+
+
+* **التحقق من صحة العرض**  
+
+&nbsp; تفقد محتوى الشريحة وتخطيطها.
+
+
+
+* **تكامل سير العمل**  
+
+&nbsp; تضمين العرض في الأنظمة الآلية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **أنابيب مراجعة آلية**  
+
+&nbsp; يتم عرض العروض أثناء التحقق من صحتها.
+
+
+
+* **خدمات المعاينة**  
+
+&nbsp; يتم عرض الشرائح ديناميكيًا لأصحاب المصلحة.
+
+
+
+* **عمليات العروض الدفعية**  
+
+&nbsp; يتم عرض مجموعات عروض برمجيًا.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

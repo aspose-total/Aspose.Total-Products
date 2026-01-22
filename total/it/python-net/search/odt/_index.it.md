@@ -76,7 +76,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La ricerca dei file **ODT** utilizzando le API di Python garantisce la compatibilità con gli standard dei documenti aperti consentendo nel contempo una scoperta efficiente dei contenuti. I documenti ODT sono comunemente utilizzati in ambienti open-source e collaborativi in cui la portabilità e la trasparenza sono essenziali.
+
+
+
+La ricerca automatizzata di file ODT migliora l'interoperabilità, supporta l'analisi scalabile dei documenti e si integra perfettamente con i moderni flussi di automazione.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Ricerca di Documenti in Formato Aperto**  
+
+&nbsp; Trova parole chiave all'interno dei documenti basati su ODT.
+
+
+
+* **Revisione Collaborativa dei Contenuti**  
+
+&nbsp; Consente una rapida consultazione attraverso documenti aperti condivisi.
+
+
+
+* **Analisi di Politiche e Documentazione**  
+
+&nbsp; Identifica le sezioni richieste all'interno dei file ODT.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Creazione Automatica di Indici ODT**  
+
+&nbsp; Gli script Python generano indici ricercabili dai file ODT.
+
+
+
+* **Rilevamento delle Modifiche ODT**  
+
+&nbsp; Scansioni programmatiche identificano i contenuti aggiornati o modificati.
+
+
+
+* **Flussi di Contenuti ODT**  
+
+&nbsp; I dati estratti alimentano sistemi automatizzati di pubblicazione e revisione.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

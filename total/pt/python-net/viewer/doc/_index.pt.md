@@ -90,7 +90,73 @@ Para obter mais detalhes, consulte [Documentação do produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Visualizar arquivos DOC usando APIs do Python permite acesso estruturado a documentos de processamento de texto legados para fins de leitura e inspeção.
+
+Isso suporta o manuseio automatizado de documentos em sistemas que ainda dependem de padrões de arquivo mais antigos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Inspeção de Documentos Legados**  
+
+&nbsp; Abrir e visualizar documentos de texto mais antigos sem conversão manual.
+
+
+
+* **Verificação de Conteúdo**  
+
+&nbsp; Revisar texto e layout do documento de forma programática para precisão.
+
+
+
+* **Suporte à Migração de Documentos**  
+
+&nbsp; Inspecionar arquivos DOC antes de transformá-los em formatos mais recentes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Auditorias Automatizadas de Documentos Legados**  
+
+&nbsp; Fluxos de trabalho em Python renderizam arquivos DOC para confirmar a legibilidade antes do processamento.
+
+
+
+* **Revisão em Lote de Documentos**  
+
+&nbsp; Grandes coleções de documentos são visualizadas automaticamente para verificações de conformidade.
+
+
+
+* **Validação Pré-Conversão**  
+
+&nbsp; Visualizadores automatizados garantem que os documentos estejam íntegros antes das atualizações de formato.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

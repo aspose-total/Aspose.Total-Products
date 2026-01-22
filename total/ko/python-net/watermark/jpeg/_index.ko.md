@@ -73,7 +73,85 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+파이썬 API를 사용하여 **JPEG** 이미지에 워터마킹을 적용하면, 무겁지 않은 파일 부담 없이 시각적인 소유권 및 배포 힌트를 추가하여 널리 공유되는 사진과 압축된 시각 자료를 보호할 수 있습니다.
+
+자동화를 통해 웹 게시 및 콘텐츠 운영에 사용되는 대규모 JPEG 컬렉션 전체에 일관된 워터마크 배치와 품질 보존 렌더링이 가능해집니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **웹사이트 미디어 소유권 마크**  
+
+&nbsp; 랜딩 페이지 및 블로그에 사용되는 사진에 워터마크 오버레이를 추가하여 재사용을 줄입니다.
+
+
+
+* **사진 전달물에 대한 클라이언트 검수**  
+
+&nbsp; 최종 전달이 승인되기 전에 공유 미리보기에 "PROOF"를 남깁니다.
+
+
+
+* **마켓플레이스 상품 이미지 보호**  
+
+&nbsp; 제품 이미지에 워터마크를 적용하여 재게시 시 소스 식별을 유지합니다.
+
+
+
+* **사용자 생성 콘텐츠 소유권 표시**  
+
+&nbsp; 큐레이션된 커뮤니티 이미지에 자동으로 창조자 또는 포털 마크를 적용합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **품질 인식 워터마크 렌더링**  
+
+&nbsp; 명료도와 파일 크기를 균형있게 유지하면서 워터마크를 적용합니다.
+
+
+
+* **CDN 업로드 후크 워터마킹**  
+
+&nbsp; 배달 네트워크로 전송되기 전에 JPEG에 자동으로 워터마크를 남깁니다.
+
+
+
+* **콘텐츠 메타데이터에서 동적 텍스트 생성**  
+
+&nbsp; SKU, 작성자 또는 캠페인 식별자에서 워터마크 텍스트를 프로그래밍적으로 생성합니다.
+
+
+
+* **A/B 워터마크 배치 테스트**  
+
+&nbsp; 참여 지표를 해치지 않고 가시성을 측정하기 위해 자동으로 변형을 생성합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

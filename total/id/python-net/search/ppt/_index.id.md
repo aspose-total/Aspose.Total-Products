@@ -76,7 +76,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mencari file **PPT** dengan Python APIs memungkinkan akses ke dokumen presentasi warisan yang masih menyimpan informasi bisnis, pelatihan, dan strategis yang berharga. Pencarian otomatis memastikan slide deck lama tetap dapat digunakan dan dapat dicari dalam skala besar.
+
+
+
+Dengan mengintegrasikan pencarian PPT ke dalam sistem otomatis, organisasi mengurangi upaya manual dan membuka wawasan dari konten presentasi yang diarsipkan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Pencarian Konten Slide Warisan**  
+
+&nbsp; Menemukan kata kunci dalam file presentasi PPT yang lebih lama.
+
+
+
+* **Pemulihan Presentasi yang Diarsipkan**  
+
+&nbsp; Memungkinkan penemuan slide deck historis.
+
+
+
+* **Ekstraksi Teks PPT**  
+
+&nbsp; Menarik teks slide untuk pengindeksan dan analisis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pemindaian Repositori PPT Otomatis**  
+
+&nbsp; Pekerjaan Python memindai file PPT untuk konten yang dapat dicari.
+
+
+
+* **Pembuatan Indeks Arsip PPT**  
+
+&nbsp; Presentasi warisan diindeks secara programatis.
+
+
+
+* **Integrasi Konten PPT**  
+
+&nbsp; Data yang diekstrak memberi makan alur kerja pelaporan dan analitik.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

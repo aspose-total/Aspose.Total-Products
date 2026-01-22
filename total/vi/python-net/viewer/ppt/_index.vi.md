@@ -89,7 +89,73 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Python via
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Xem tệp PPT bằng Python APIs cho phép kiểm tra tài liệu trình bày cũ được sử dụng trong các hệ thống cũ hơn.
+
+Điều này hỗ trợ tự động hóa khi cần tương thích ngược.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Đánh Giá Bản Trình Bày Cũ**  
+
+  Xem các bộ slide cũ theo cách tự động.
+
+
+
+* **Hỗ Trợ Di Dời Nội Dung**  
+
+  Kiểm tra bản trình bày trước khi nâng cấp định dạng.
+
+
+
+* **Xác Thực Bản Trình Bày**  
+
+  Đảm bảo dữ liệu slide vẫn nguyên vẹn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Kiểm Tra Hệ Thống Kiểm Toán Cũ**  
+
+  Các luồng làm việc Python render tệp PPT để kiểm tra.
+
+
+
+* **Xác Thực Trước Chuyển Đổi**  
+
+  Việc xem đảm bảo di chuyển định dạng an toàn.
+
+
+
+* **Đánh Giá Bản Trình Bày Theo Lô**  
+
+  Các bộ sưu tập lớn được kiểm tra tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

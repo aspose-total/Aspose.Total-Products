@@ -82,7 +82,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การผสานภาพแบบ Bitmap โดยใช้ Python APIs ช่วยให้สามารถรวมภาพที่ไม่บีบอัดเข้าด้วยกันเป็นภาพรวมเดียวหรือลำดับเดียวกันได้ ซึ่งมีประโยชน์ในการสร้างภาพทางเทคนิค การสแกนงานที่ต้องการความคมชัดในภาพ และระบบที่มีการความสำคัญในความคมชัดของภาพมากกว่าขนาดของไฟล์
+
+
+
+การผสาน BMP อัตโนมัติสนับสนุนกระบวนการประมวลผลภาพที่แน่นอนที่ต้องการความแม่นยำ การทำซ้ำ และการสร้างระบบโดยอัตโนมัติ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **การรวมภาพที่สแกนมา (BMP)**  
+
+&nbsp; ผสานการสแกน BMP หลายรูปเข้าด้วยกันเป็นภาพรวมเดียว
+
+
+
+* **การประกอบแผนภาพทางเทคนิค (BMP)**  
+
+&nbsp; รวมแผนภาพแบบ Bitmap เข้าด้วยกันให้เป็นภาพรวม
+
+
+
+* **การเก็บข้อมูลภาพแบบดิจิตอล (BMP)**  
+
+&nbsp; รวบรวมไฟล์ BMP เพื่อการเก็บรักษาหรือประมวลผลในระยะยาว
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การประมวลผลสแกนโดยอัตโนมัติ (BMP)**  
+
+&nbsp; ระบบผสานภาพ BMP ในกระบวนการรับเข้าข้อมูล
+
+
+
+* **การประกอบภาพเป็นชุด (BMP)**  
+
+&nbsp; งานที่กำหนดเวลาผสานภาพแบบ Bitmap โดยโปรแกรม
+
+
+
+* **กระบวนการประมวลผลภาพที่แม่นยำ (BMP)**  
+
+&nbsp; การผสาน BMP ถูกฝังอยู่ในระบบประมวลผลที่ควบคุมได้
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,85 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Vízjel készítése **ODT** dokumentumokhoz Python API-k segítségével segít megvédeni az open document text fájlokat egyértelmű tulajdonosi és bizalmas jelölések hozzáadásával, miközben a tartalom hozzáférhető marad az open ökoszisztémákban.
+
+Az automatizálás lehetővé teszi az állandó vízjel szabályok alkalmazását az ODT könyvtárakban, támogatva a skálázható dokumentumkezelést csapatok számára, akik nyílt formátumokat használnak.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* **Nyílt-Formátumú Irányelv Címkézés**
+
+&nbsp; Jelölje meg az ODT dokumentumokat "BELSŐ" vagy "BIZALMAS" felirattal a téves irányítás csökkentése érdekében.
+
+
+
+* **Vázlatvezérlés a Közös Íráshoz**
+
+&nbsp; Alkalmazzon "VÁZLAT" átfedéseket az iteratív szerkesztési ciklusok során.
+
+
+
+* **Közös Dokumentumokhoz Továbbítási Értesítések**
+
+&nbsp; Adjon hozzá újrafelhasználási korlátozásokat a vállalkozásokkal vagy partnerekkel megosztott dokumentumokhoz.
+
+
+
+* **Archívumazonosság Megőrzése**
+
+&nbsp; Vízjelezze az exportált ODT fájlokat, így a tulajdonjog még akkor is látható marad, ha másolás történik rendszerek között.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* **Dokumentumgenerátor + Vízjel Lépés**
+
+&nbsp; Automatikusan vízjelezze az ODT fájlokat, amelyeket sablonokból vagy strukturált adatokból hoztak létre.
+
+
+
+* **Tároló Irányelv Végrehajtás**
+
+&nbsp; Alkalmazzon vízjeleket, amikor az ODT-k feltöltésre kerülnek szabályozott mappákba.
+
+
+
+* **Automatizált Verzióvízjel Váltás**
+
+&nbsp; Változtassa meg a vízjel szövegét a verzió állapotától függően (vázlat, felülvizsgálat, végleges) programozott módon.
+
+
+
+* **Megfelelőségi Export Csatornák**
+
+&nbsp; Jelölje meg az auditokhoz használt ODT exportokat annak érdekében, hogy biztosítsa a következetes címkézést a benyújtások során.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

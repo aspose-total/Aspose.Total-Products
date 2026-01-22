@@ -73,7 +73,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Файлы PowerPoint хранят визуальный контент на основе слайдов, используемый в презентациях и отчетах. Разделение файлов PowerPoint обеспечивает детальный доступ к отдельным слайдам или группам слайдов.
+
+
+
+Автоматизация на основе Python позволяет масштабировать обработку содержимого презентаций в современных рабочих процессах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Повторное использование слайдов в различных презентациях**  
+
+&nbsp; Извлекайте слайды для повторного использования в новых презентациях.
+
+
+
+* **Управление содержимым презентации**  
+
+&nbsp; Управляйте слайдами независимо в масштабе.
+
+
+
+* **Рабочие процессы проверки и утверждения**  
+
+&nbsp; Делитесь только актуальными слайдами с заинтересованными сторонами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматическое разделение слайдов**  
+
+&nbsp; Сценарии на Python разбивают слайды на отдельные единицы.
+
+
+
+* **Генерация динамических презентаций**  
+
+&nbsp; Слайды собираются на основе заданных правил.
+
+
+
+* **Системы версионирования презентаций**  
+
+&nbsp; Автоматическое отслеживание изменений на уровне слайдов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

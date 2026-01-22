@@ -85,7 +85,69 @@ För mer information, se [Product Documentation](https://docs.aspose.com/imaging
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Sammanfogning av TIFF-bilder med hjälp av Python API:er stödjer arbetsflöden med hög upplösning och flera sidor som vanligtvis används inom tryckning, medicinsk avbildning och dokumentgenomgång.
+
+
+
+Automatisering möjliggör pålitlig hantering av stora, detaljrika bilduppsättningar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+
+
+
+* **Sammanställning av flersidiga skanningar (TIFF)**  
+&nbsp; Sammanfoga TIFF-sidor till en enda flersidig fil.
+
+
+
+* **Bearbetning av högupplösta bilder (TIFF)**  
+&nbsp; Kombinera TIFF-bilder för detaljerad analys.
+
+
+
+* **Sammanställning av utskriftsredo bilder (TIFF)**  
+&nbsp; Samla TIFF-filer för publiceringsarbetsflöden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* **Automatiserade skanningspipeliner (TIFF)**  
+&nbsp; System sammanfogar TIFF-filer under skanningens intag.
+
+
+
+* **Batchbearbetning med hög upplösning (TIFF)**  
+&nbsp; Sammanfogning av TIFF körs i schemalagda jobb.
+
+
+
+* **Automatisering av företagsavbildning (TIFF)**  
+&nbsp; Automatiserade arbetsflöden hanterar stora TIFF-dataset.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Документи Word охоплюють ряд структурованих текстових форматів, які використовуються в бізнесі та технічних робочих процесах. Розділення документів Word дозволяє зосередитися на доступі до відповідних розділів контенту.
+
+
+
+Розділення на основі Python підтримує автоматизацію, забезпечуючи послідовну, масштабовану обробку документів між системами.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* **Обробка контенту на основі розділів**  
+
+&nbsp; Обробка розділів або розділів незалежно.
+
+
+
+* **Оптимізація великих документів**  
+
+&nbsp; Покращення продуктивності шляхом розділення надмірно великих файлів.
+
+
+
+* **Управління контентом**  
+
+&nbsp; Застосування правил до окремих частин документа.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Єдинообразні конвеєри обробки документів**  
+
+&nbsp; Документи Word автоматично розділяються та обробляються.
+
+
+
+* **Автоматизована маршрутизація контенту**  
+
+&nbsp; Розділі відправляються до різних систем на основі логіки.
+
+
+
+* **Масштабований вилучення знань**  
+
+&nbsp; Вилучені розділи живлять аналітику або робочі процеси з штучним інтелектом.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

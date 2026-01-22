@@ -73,7 +73,85 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/ima
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Adicionar marcas d'água em imagens **TIFF** com APIs Python suporta fluxos de trabalho de imagem de alta qualidade, adicionando etiquetas de propriedade e controle a arquivos comumente usados em digitalização, impressão e arquivamento.
+
+A automação é especialmente valiosa para marca d'água em TIFF devido ao tamanho grande dos arquivos e processos em lote intensivos, permitindo um manuseio consistente em pipelines de imagem de documentos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Marcas de Propriedade de Documentos Digitalizados**  
+
+&nbsp; Aplicar marcas d'água em TIFFs digitalizados para preservar a procedência em arquivos de imagem.
+
+
+
+* **Carimbos de Prova de Fluxo de Impressão**  
+
+&nbsp; Adicionar marcas d'água "PROVA" a arquivos TIFF de pré-impressão para revisão controlada.
+
+
+
+* **Etiquetas de Conformidade para Repositórios de Imagens**  
+
+&nbsp; Carimbar imagens restritas com texto de classificação para apoiar políticas de manuseio.
+
+
+
+* **Rastreabilidade de Conversão de Arquivo**  
+
+&nbsp; Marcar TIFFs antes da conversão para outros formatos para manter a identidade da fonte.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Marca d'água Automática na Saída do Scanner**  
+
+&nbsp; Carimbar arquivos TIFF imediatamente após a digitalização usando pastas monitoradas ou trabalhos de ingestão.
+
+
+
+* **Processamento de TIFF de Múltiplas Páginas**  
+
+&nbsp; Aplicar marcas d'água consistentes em todas as páginas de arquivos TIFF de várias páginas de forma programática.
+
+
+
+* **Dimensionamento de Marca d'água Consciente da Resolução**  
+
+&nbsp; Ajustar o tamanho da marca d'água com base no DPI para manter uma aparência de impressão física consistente.
+
+
+
+* **Fluxos de Trabalho Automatizados de Retenção e Auditoria**  
+
+&nbsp; Marcar imagens como parte de etiquetagem automática de retenção e pipelines de revisão de conformidade.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

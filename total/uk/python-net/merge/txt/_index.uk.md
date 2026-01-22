@@ -76,7 +76,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Об'єднання простих текстових документів за допомогою Python API надає найпростіший і найбільш гнучкий спосіб комбінування вмісту програмно. Це ідеально підходить для журналів, експорту, виведення системи та машинно-генерованого тексту.
+
+
+
+Об'єднання на основі тексту природним чином інтегрується з автоматизованими конвеєрами, пропонуючи максимальну швидкість, масштабованість та контроль.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* **Агрегація файлів журналу (TXT)**  
+
+&nbsp; Об'єднайте кілька текстових журналів в один об'єднаний файл.
+
+
+
+* **Комбінація експорту даних (TXT)**  
+
+&nbsp; Об'єднайте текстові експорти з різних систем.
+
+
+
+* **Попередня обробка вмісту (TXT)**  
+
+&nbsp; Об'єднайте сирі текстові файли перед наступною обробкою.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Конвеєри тексту на основі потоку (TXT)**  
+
+&nbsp; Автоматизовані конвеєри об'єднують текстові файли в реальному часі.
+
+
+
+* **Автоматизація пакетної обробки (TXT)**  
+
+&nbsp; Файли TXT об'єднуються під час запланованих пакетних завдань.
+
+
+
+* **Масштабована трансформація тексту (TXT)**  
+
+&nbsp; Програмне об'єднання підтримує великомасштабні текстові робочі процеси.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

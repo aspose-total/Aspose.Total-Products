@@ -89,7 +89,73 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La visualización de PPTM con Python APIs permite inspeccionar presentaciones habilitadas para macros sin ejecutar código incrustado.
+
+Esto permite una revisión segura en entornos automatizados.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* **Revisión de diapositivas habilitadas para macros**  
+
+&nbsp; Ver contenido de presentaciones de forma segura.
+
+
+
+* **Inspección consciente del riesgo**  
+
+&nbsp; Inspeccionar diapositivas sin ejecutar macros.
+
+
+
+* **Soporte para flujos de trabajo de aprobación**  
+
+&nbsp; Revisar presentaciones antes de su uso controlado.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* **Admisión segura de presentaciones**  
+
+&nbsp; Los visores de Python renderizan archivos PPTM de forma segura.
+
+
+
+* **Tuberías de revisión de cumplimiento**  
+
+&nbsp; Las presentaciones son inspeccionadas automáticamente.
+
+
+
+* **Validación previa a la implementación**  
+
+&nbsp; La visualización respalda los procesos de aprobación.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

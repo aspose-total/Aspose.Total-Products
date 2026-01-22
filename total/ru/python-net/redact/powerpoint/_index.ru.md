@@ -77,7 +77,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Редактирование документов с использованием Python API для форматов PowerPoint обеспечивает безопасную обработку содержимого слайдов, которое часто содержит стратегическую или конфиденциальную информацию. Это помогает предотвратить случайное разглашение данных во время презентаций.
+
+
+
+Через автоматизацию редактирование PowerPoint становится повторяющимся процессом, который легко вписывается в управление жизненным циклом презентаций.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Безопасность исполнительной презентации**  
+
+  &nbsp; Удаление чувствительных показателей перед широким распространением слайдов.
+
+
+
+* **Подготовка слайдов для клиентов**  
+
+  &nbsp; Санитарная обработка внутренних заметок и данных из презентаций.
+
+
+
+* **Редактирование с контролем версий**  
+
+  &nbsp; Поддержание чистых вариантов презентаций для различных аудиторий.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Сканирование содержимого слайдов**  
+
+  &nbsp; Автоматическая проверка и редактирование текста на всех слайдах.
+
+
+
+* **Рабочие процессы утверждения презентаций**  
+
+  &nbsp; Принудительное редактирование перед утверждением или распространением презентаций.
+
+
+
+* **Автоматическое восстановление слайдов**  
+
+  &nbsp; Редактирование и динамическое восстановление презентаций из исходных данных.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

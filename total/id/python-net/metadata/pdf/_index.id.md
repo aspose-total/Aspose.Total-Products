@@ -97,7 +97,93 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Ekstraksi metadata dokumen untuk file **PDF** melalui API Python membantu sistem menangkap properti inti—seperti judul, penulis, produsen, tanggal pembuatan dan modifikasi, dan pengenal tersemat—mendukung tata kelola dan penemuan bahkan ketika konten secara utama adalah tata letak tetap. Hal ini penting untuk auditabilitas, katalogisasi, dan penanganan operasional repositori PDF berkapasitas besar.
+
+
+
+Dalam pipa otomatisasi, metadata PDF dapat menggerakkan pengindeksan, routing, penegakan retensi, dan pemrosesan batch—membuatnya praktis untuk mengintegrasikan PDF ke dalam alur kerja yang dapat diskalakan tanpa triase manual.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Katalog Arsip Digital**
+
+  Ekstraksi metadata PDF untuk membangun inventaris dokumen yang dapat diandalkan dengan atribut yang dapat dicari.
+
+
+
+* **Audit Kepatuhan dan Retensi**
+
+  Gunakan timestamp pembuatan/modifikasi untuk memvalidasi batas waktu retensi dan mendeteksi inkonsistensi.
+
+
+
+* **Atribusi Produsen dan Sumber**
+
+  Tangkap properti terkait produsen untuk memahami asal-usul konten dan garis keturunan pemrosesan.
+
+
+
+* **Sinyal Klasifikasi Batch**
+
+  Gunakan bidang metadata untuk mengkategorikan PDF ke dalam domain seperti kebijakan, faktur, manual, atau laporan.
+
+
+
+* **Pemeriksaan Kualitas Operasional**
+
+  Tandai PDF dengan metadata yang hilang atau mencurigakan sebagai kandidat untuk perbaikan atau tinjauan manual.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Triage Penerimaan Otomatis**
+
+  Ketika PDF tiba, ekstraksi metadata dan rutekan ke jalur pemrosesan berdasarkan aturan kelengkapan dan sensitivitas.
+
+
+
+* **Pembaruan Indeks yang Didorong Metadata**
+
+  Perbarui indeks pencarian secara otomatis setiap kali PDF ditambahkan atau diganti, menggunakan metadata untuk pengambilan cepat.
+
+
+
+* **Alur Kerja Penegakan Retensi**
+
+  Jalankan pekerjaan terjadwal yang mengidentifikasi PDF melewati batas retensi dan menghasilkan tugas penghapusan atau arsip.
+
+
+
+* **Pelaporan Batch dan Dasbor**
+
+  Gabungkan metadata PDF yang diekstraksi ke dalam laporan periodik untuk tata kelola, kepatuhan, dan pengawasan operasional.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -77,7 +77,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+כתיבת מסמך באמצעות Python APIs עבור קבצי PPT תומך בעיבוד מאובטח של פורמטים ישנים שנפוצים עדיין במערכות מורשות. זה מבטיח שמידע רגיש מוגן ללא קשר לגילוי של הקובץ.
+
+
+
+המחיקה האוטומטית מאפשרת לקבצי PPT להיות משומשים, מאוחסנים או משותפים בצורה בטוחה מבלי לדרוש התערבות ידנית.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* **ניקוי מצגות מורשות**  
+
+&nbsp; הסרת מידע מיושן או רגיש מקבצי PPT ישנים.
+
+
+
+* **מודרניזציה של ארכיונים**  
+
+&nbsp; ניקוי של מצגות היסטוריות לשימוש בטוח.
+
+
+
+* **שיתוף מידע מבוקר**  
+
+&nbsp; הכנת קבצי PPT ממוקפלים לקהלים מוגבלים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **צינורות פורמטים מורשים**  
+
+&nbsp; עיבוד אוטומטי של קבצי PPT לצד פורמטים חדשים יותר.
+
+
+
+* **מחיקה על בסיס תבניות**  
+
+&nbsp; זיהוי והסרת מונחים רגישים באמצעות כללים מוגדרים מראש.
+
+
+
+* **עיבוד אוטומטי של ארכיונים**  
+
+&nbsp; ניקוי של ארכיונים של מצגות באופן תכנותי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

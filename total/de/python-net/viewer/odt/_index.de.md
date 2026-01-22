@@ -90,7 +90,73 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Das Anzeigen von ODT-Dateien mit Python-APIs ermöglicht die Inspektion von offenen Textdokumenten, die in workflows auf Basis von Standards verwendet werden.
+
+Dies unterstützt die Automatisierung in dokumentenzentrierten Systemen ohne proprietäre Abhängigkeiten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Offene Dokumentenprüfung**  
+
+&nbsp; Anzeigen von Textdokumenten in offenen Formaten.
+
+
+
+* **Integritätsprüfungen des Inhalts**  
+
+&nbsp; Inspektion der Dokumentenstruktur und des Textes.
+
+
+
+* **Kompatibilität zwischen Systemen**  
+
+&nbsp; Sicherstellen, dass Dokumente in verschiedenen Umgebungen korrekt dargestellt werden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Automatisierte Dokumentenpipelines**  
+
+&nbsp; Python-Prozesse rendern ODT-Dateien während der Workflows.
+
+
+
+* **Compliance-Validierung**  
+
+&nbsp; Dokumente werden auf Einhaltung von Standards überprüft.
+
+
+
+* **Vorschau-Generierung**  
+
+&nbsp; Automatisierte Viewer unterstützen Prüfungsworkflows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

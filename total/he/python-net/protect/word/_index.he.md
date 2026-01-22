@@ -76,7 +76,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+קטגוריית פורמט Word מייצגת מסמכי טקסט המשמשים בתהליכי טיוטה, דיווח ושיתוף פעולה. הגנה על קבצי Word מבטיחה סודיות מסמכים, שלמות וגישה מבוקרת לאורך מחזור חייהם.
+
+
+
+ממשקי תכנות Python מאפשרים להגן על מסמכי Word באופן אוטומטי, ובכך להפוך את האבטחה ליכולת מובנית של מערכות ניהול תוכן ומסמכים מודרניות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **הגנת תוכן רגיש**  
+
+&nbsp; להגן על מסמכי Word המכילים מידע סודי.
+
+
+
+* **אכיפת הגבלות עריכה**  
+
+&nbsp; לשלוט במי יכול לשנות או לסקור מסמכים.
+
+
+
+* **אבטחת מחזור חיי המסמך**  
+
+&nbsp; להגן על קבצים בשלבים שונים של יצירה ואישור.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **הגנת קבצי Word באופן אוטומטי**  
+
+&nbsp; ליישם כללי אבטחה באופן אוטומטי במהלך יצירת המסמך.
+
+
+
+* **בקרת מסמכים על סמך תפקיד**  
+
+&nbsp; להגן על קבצי Word באופן דינמי בהתאם לתפקידי המשתמשים.
+
+
+
+* **זרימי עבודה מאובטומטיים מקצה לקצה**  
+
+&nbsp; לשלב אבטחת Word בצינורות עבודה למסמכים מאובטומטיים לחלוטין.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

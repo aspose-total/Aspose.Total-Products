@@ -73,7 +73,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Podpisywanie plików prezentacji ODP za pomocą interfejsów API w języku Python pomaga zespołom kontrolować jakość wydania i własność slajdów utworzonych w otwartych formatach. Zapewnia to, że prezentacje są dystrybuowane dopiero po formalnym zatwierdzeniu.
+
+
+
+Gdy jest zautomatyzowane, podpisywanie ODP staje się powtarzalnym krokiem zarządzania w ramach procesów współpracy, poprawiając kontrolę wersji i zapobiegając obiegu niezweryfikowanych prezentacji.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+
+
+* **Zatwierdzenie wydania prezentacji szkoleniowej**  
+
+&nbsp; Podpisz prezentacje szkoleniowe ODP, aby potwierdzić gotowość do wewnętrznego wdrożenia.
+
+
+
+* **Potwierdzenie recenzji interesariuszy**  
+
+&nbsp; Dodaj znak podpisu do prezentacji ODP po zakończeniu recenzji interesariuszy.
+
+
+
+* **Certyfikacja prezentacji zgodności**  
+
+&nbsp; Podpisz prezentacje związane z polityką lub zgodnością, aby udokumentować, kto zatwierdził ostateczną wersję.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Uruchamianie podpisu na podstawie procesu zatwierdzania**  
+
+&nbsp; Automatycznie podpisuj pliki ODP, gdy stan zatwierdzenia jest rejestrowany w systemie.
+
+
+
+* **Sprawdzanie integralności prezentacji przed udostępnieniem**  
+
+&nbsp; Podpisuj prezentacje dopiero po potwierdzeniu, że wymagane slajdy i metadane istnieją.
+
+
+
+* **Podpisywanie zbiorcze dla cykli wydań**  
+
+&nbsp; Programowo podpisuj wiele prezentacji ODP jako część zaplanowanych cykli wydań.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

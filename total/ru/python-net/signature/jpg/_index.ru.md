@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Подписание файлов JPG с помощью Python API предоставляет практический способ пометить общие изображения как утвержденные, завершенные или готовые к выпуску. Это помогает уменьшить путаницу между черновиками и окончательными версиями.
+
+
+
+В автоматизированных рабочих процессах подписание JPG может быть обязательным этапом перед публикацией, распространением или архивированием, что повышает надежность и готовность к проверке.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Окончательное утверждение маркетинговой визуальной продукции**  
+
+&nbsp; Подписывайте JPG рекламные визуальные материалы для подтверждения согласования заинтересованных сторон.
+
+
+
+* **Пометка готовности изображений каталога**  
+
+&nbsp; Помечайте JPG изображения продуктов как утвержденные для размещения и публикации.
+
+
+
+* **Сертификация скриншотов документации**  
+
+&nbsp; Подписывайте JPG скриншоты, чтобы убедиться, что они отражают утвержденное состояние системы.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Этап подписания перед публикацией**  
+
+&nbsp; Автоматически подписывайте JPG файлы прямо перед их публикацией или выходом в сеть.
+
+
+
+* **Автоматизация заморозки версии ресурса**  
+
+&nbsp; Подписывайте JPG ресурсы при замораживании версии, чтобы предотвратить случайные изменения.
+
+
+
+* **Проверка пакета распространения**  
+
+&nbsp; Подписывайте JPG, включенные в пакеты, после прохождения автоматических проверок на завершенность.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -138,7 +206,7 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

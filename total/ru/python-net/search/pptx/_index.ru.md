@@ -76,7 +76,75 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Поиск файлов **PPTX** с использованием Python API обеспечивает надежный доступ к современным презентационным документам с структурированными слайдами, текстовыми блоками и заметками докладчика. Файлы PPTX широко используются для отчетов, обучения и принятия решений.
+
+
+
+Автоматизированный поиск PPTX поддерживает масштабный анализ слайдов, интеллектуальное извлечение и безшовную интеграцию с системами управления знаниями и контентом.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Поиск структурированных слайдов**  
+
+&nbsp; Поиск заголовков, маркированных пунктов и заметок в файлах PPTX.
+
+
+
+* **Анализ содержимого презентации**  
+
+&nbsp; Идентификация ключевых тем и разделов программно.
+
+
+
+* **Поиск повторно используемых слайдов**  
+
+&nbsp; Поиск слайдов, подходящих для повторного использования в отчетах или презентациях.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Постоянное обновление индекса PPTX**  
+
+&nbsp; Сервисы Python отслеживают и индексируют новые файлы PPTX.
+
+
+
+* **Автоматическая классификация слайдов**  
+
+&nbsp; Слайды категоризируются на основе извлеченного содержимого.
+
+
+
+* **Конвейеры содержимого PPTX**  
+
+&nbsp; Результаты поиска подаются на панели и в рабочие процессы автоматизации.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

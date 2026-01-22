@@ -71,7 +71,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Prezentace v programu PowerPoint jsou klíčové pro obchodní komunikaci a školení. Ochrana těchto souborů zajišťuje, že obsah snímků, zprávy a vizuální prvky nebudou změněny bez autorizace.
+
+
+
+Pomocí Python API lze automaticky chránit soubory PowerPoint a podporovat zabezpečené pracovní postupy pro prezentace ve velkém měřítku.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Zabezpečení výkonnostních prezentací**  
+
+&nbsp; Ochrana prezentací na vysoké úrovni před neoprávněnými úpravami.
+
+
+
+* **Kontrola školicích materiálů**  
+
+&nbsp; Zabezpečení výukových snímků před distribucí.
+
+
+
+* **Zachování konzistence značky**  
+
+&nbsp; Zabránění nechtěným změnám schválených sad snímků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatické zabezpečení prezentací**  
+
+&nbsp; Zabezpečení souborů PowerPoint jako součásti generování dat.
+
+
+
+* **Řízení přístupu na základě oprávnění**  
+
+&nbsp; Aplikace ochrany na základě uživatelských rolí programově.
+
+
+
+* **Plánované prosazování zabezpečení**  
+
+&nbsp; Automatická ochrana prezentací v čase vydání.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Slučování OpenDocument tabulek pomocí Python API podporuje otevřené standardy a datové pracovní postupy mezi platformami. Toto je ideální pro prostředí, která spoléhají na open-source kancelářské nástroje.
+
+
+
+Automatizace kolem slučování ODS zajišťuje interoperabilitu a zachování integrity strukturovaných dat.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Konsolidace tabulek mezi platformami (ODS)**  
+
+&nbsp; Slučování souborů ODS vytvořených v různých kancelářských balících.
+
+
+
+* **Agregace dat podle otevřených standardů (ODS)**  
+
+&nbsp; Slučování tabulek ODS pro sjednocenou analýzu.
+
+
+
+* **Kompilace dat ve spolupráci (ODS)**  
+
+&nbsp; Slučování souborů ODS od distribuovaných přispěvatelů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizace datového potrubí (ODS)**  
+
+&nbsp; Systémy slučují soubory ODS bez proprietárních závislostí.
+
+
+
+* **Plánovaná kompilace tabulek (ODS)**  
+
+&nbsp; Slučování ODS běží jako součást opakujících se úloh na pozadí.
+
+
+
+* **Interoperabilní reportovací potrubí (ODS)**  
+
+&nbsp; Soubory ODS jsou dynamicky slučovány v datových pracovních postupech.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

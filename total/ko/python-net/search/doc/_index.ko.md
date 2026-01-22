@@ -76,7 +76,75 @@ DOC 검색 가능 앱이나 유틸리티를 개발해야 합니까? .NET을 통�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+파이썬 API를 사용하여 **DOC** 파일을 검색하면 현대 시스템이 아카이브 및 기업 환경에서 여전히 널리 사용되는 레거시 워드 프로세싱 문서에서 정보를 추출하고 찾을 수 있습니다. 프로그래밍 검색을 통해 가치 있는 역사적 및 운영 데이터가 수동 검토 없이도 접근 가능하게 됩니다.
+
+
+
+자동화된 워크플로에 통합되면 DOC 파일 검색은 일괄 처리, 구조화된 색인 작업 및 데이터 파이프라인 및 문서 관리 시스템과의 원활한 통합을 통해 효율성을 향상시킵니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **레거시 문서 검색**  
+
+&nbsp; 오래된 DOC 파일 내에서 키워드 기반 검색을 가능하게 합니다.
+
+
+
+* **아카이브 콘텐츠 검색**  
+
+&nbsp; 장기 보관된 문서에서 관련 정보를 추출합니다.
+
+
+
+* **컴플라이언스 레코드 조회**  
+
+&nbsp; DOC 기반 레코드 내의 조항 및 문장을 찾습니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동화된 DOC 색인 작업**  
+
+&nbsp; 파이썬 작업이 DOC 파일을 스캔하고 검색 가능한 색인을 자동으로 업데이트합니다.
+
+
+
+* **일괄 DOC 콘텐츠 추출**  
+
+&nbsp; 수동 노력 없이 대량의 DOC 파일을 처리합니다.
+
+
+
+* **DOC-to-시스템 통합**  
+
+&nbsp; 추출된 콘텐츠가 하류 자동화 및 분석 워크플로에 공급됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -85,7 +85,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+دمج تنسيقات الصور العامة باستخدام واجهات برمجة تطبيقات Python يوفر نهجًا موحدًا للتعامل مع الأصول البصرية المتنوعة ضمن سير عمل واحد. تجريد هذا يبسط معالجة الصور عبر تنسيقات مختلطة.
+
+
+
+التأتير يمكن توحيد الصور بطريقة قابلة للتوسع وغير متعلقة بالتنسيق لأنظمة حديثة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **توحيد الصور متعددة التنسيقات (IMAGE)**  
+
+&nbsp; دمج تنسيقات الصور المختلفة في إخراج واحد.
+
+
+
+* **تجميع الصور من مصادر متعددة (IMAGE)**  
+
+&nbsp; دمج الصور من أدوات ومنصات مختلفة.
+
+
+
+* **توحيد الصور للشركات (IMAGE)**  
+
+&nbsp; تجميع الصور غير المتجانسة في صور موحدة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير" %}}
+
+
+
+* **أنابيب الصور غير المتعلقة بالتنسيق (IMAGE)**  
+
+&nbsp; سير العمل التلقائي يدمج الصور بغض النظر عن التنسيق.
+
+
+
+* **توليد بصري موحد (IMAGE)**  
+
+&nbsp; تنظم الأنظمة الصور الموحدة ديناميكيًا.
+
+
+
+* **تنسيق الصور القابل للتوسيع (IMAGE)**  
+
+&nbsp; الدمج البرمجي يدعم سير العمل الكبير للصور.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

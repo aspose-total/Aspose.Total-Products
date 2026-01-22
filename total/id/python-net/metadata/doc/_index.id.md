@@ -98,7 +98,93 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Ekstraksi metadata dokumen untuk file **DOC** melalui API Python memungkinkan sistem untuk membaca dan menginterpretasikan atribut inti file—seperti penulis, waktu pembuatan, waktu terakhir dimodifikasi, jumlah revisi, dan properti tersemat—tanpa inspeksi manual. Hal ini penting untuk tata kelola, pencarian, audit, dan kontrol siklus hidup konten di sepanjang alur kerja yang banyak menggunakan dokumen.
+
+
+
+Ketika diintegrasikan ke dalam alur kerja otomatisasi, metadata DOC menjadi sinyal yang dapat diandalkan untuk routing, pemeriksaan kepatuhan, pengindeksan, dan pemrosesan batch—mendukung operasi dokumen yang dapat diskalakan, klasifikasi yang konsisten, dan integrasi downstream dengan lapisan penyimpanan, pencarian, dan pelaporan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Inventaris Dokumen Warisan**
+
+  Ekstraksi metadata dari arsip DOC untuk membangun indeks terstruktur untuk penemuan, penghapusan duplikat, dan perencanaan siklus hidup.
+
+
+
+* **Verifikasi Timestamp Kepatuhan**
+
+  Gunakan bidang dibuat/dimodifikasi untuk memverifikasi aturan retensi dan mendeteksi anomali dalam dokumentasi yang diatur.
+
+
+
+* **Pemetaan Kepemilikan Dokumen**
+
+  Baca properti penulis dan editor terakhir untuk memetakan kepemilikan dokumen untuk penugasan ulasan dan kontrol akses.
+
+
+
+* **Kategorisasi Batch untuk Pencarian**
+
+  Konversi properti tersemat menjadi tag yang dinormalisasi untuk penyaringan konsisten dan pengayaan pencarian internal.
+
+
+
+* **Sinyal Pelacakan Perubahan**
+
+  Tangkap bidang terkait revisi untuk mendukung pelacakan dalam alur kerja editorial dan persetujuan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Gerbang Penerimaan Arsip**
+
+  Otomatis menerima atau karantina file DOC berdasarkan bidang penulis yang hilang, timestamp yang mencurigakan, atau pola metadata yang tidak valid.
+
+
+
+* **Sinkronisasi Metadata-ke-Indeks**
+
+  Saat diunggah, ekstraksi metadata DOC dan dorong ke dalam indeks pencarian sehingga hasil tetap terkini tanpa katalogisasi manual.
+
+
+
+* **Aturan Penentuan Berbasis Kebijakan**
+
+  Arahkan file DOC ke antrian tertentu ketika metadata menunjukkan konten rahasia, versi usang, atau kepemilikan yang tidak diketahui.
+
+
+
+* **Audit Metadata Terjadwal**
+
+  Jalankan pemindaian malam yang mendeteksi pergeseran metadata dan hasilkan laporan pengecualian untuk tim operasional.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

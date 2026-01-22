@@ -79,7 +79,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Объединение макро-включенных файлов PowerPoint с использованием API Python поддерживает презентации, содержащие встроенную логику, автоматизацию или интерактивное поведение. Это распространено в предприятиях и операционных презентациях.
+
+
+
+Автоматизация гарантирует надежное объединение слайдов с макросами без нарушения встроенной функциональности.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Сборка презентаций на основе макросов (PPTM)**  
+
+&nbsp; Объединение файлов PPTM, содержащих автоматизированные или интерактивные элементы.
+
+
+
+* **Объединение операционных слайдов (PPTM)**  
+
+&nbsp; Объединение макро-включенных презентаций, используемых во внутренних процессах.
+
+
+
+* **Упаковка интерактивных досок (PPTM)**  
+
+&nbsp; Сбор файлов PPTM в одну исполняемую презентацию.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Генерация презентаций на основе правил (PPTM)**  
+
+&nbsp; Системы объединяют файлы PPTM на основе правил автоматизации.
+
+
+
+* **Сохранение макросов под управлением сзади (PPTM)**  
+
+&nbsp; Автоматизированные конвейеры объединяют файлы PPTM, сохраняя логику.
+
+
+
+* **Автоматизация презентаций в области соблюдения требований (PPTM)**  
+
+&nbsp; Объединение PPTM поддерживает повторяемые, управляемые результаты.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

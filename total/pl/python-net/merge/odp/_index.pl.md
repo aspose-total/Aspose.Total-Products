@@ -79,7 +79,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Łączenie plików prezentacji OpenDocument za pomocą interfejsów API w języku Python wspiera otwarte standardy i przepływy pracy prezentacyjnej między platformami. Jest to idealne rozwiązanie dla środowisk korzystających z narzędzi biurowych typu open-source.
+
+
+
+Automatyzacja zapewnia interoperacyjność i skalowalne przetwarzanie prezentacji.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+
+
+* **Konsolidacja slajdów między platformami (ODP)**  
+
+&nbsp; Łączenie plików ODP utworzonych w różnych narzędziach.
+
+
+
+* **Montaż prezentacji zgodny ze standardami otwartymi (ODP)**  
+
+&nbsp; Łączenie zestawów slajdów ODP dla jednolitej prezentacji.
+
+
+
+* **Kompilacja wspólnych slajdów (ODP)**  
+
+&nbsp; Łączenie plików ODP od rozproszonych współpracowników.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Otwarte potoki prezentacji (ODP)**  
+
+&nbsp; Systemy łączą pliki ODP bez zależności od własności intelektualnej.
+
+
+
+* **Zaplanowana kompilacja zestawów slajdów (ODP)**  
+
+&nbsp; Łączenie plików ODP jest wykonywane jako część zadań backendowych.
+
+
+
+* **Automatyzacja prezentacji zgodna z zasadą interoperacyjności (ODP)**  
+
+&nbsp; Pliki ODP są łączone dynamicznie w przepływach pracy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API合并演示文稿模板格式，实现在开放和专有生态系统中创建一致的幻灯片。模板合并确保结构统一。
+
+
+
+自动化支持快速生成具有可预测布局的演示文稿。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **基于模板驱动的演示文稿组装（OTP）**  
+
+&nbsp; 将OTP模板合并到标准化的幻灯片中。
+
+
+
+* **可重复使用的幻灯片框架（OTP）**  
+
+&nbsp; 结合基于OTP的结构以保持一致性。
+
+
+
+* **设计标准化（OTP）**  
+
+&nbsp; 将OTP模板聚合到统一格式中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化模板强制执行（OTP）**  
+
+&nbsp; OTP模板通过程序合并。
+
+
+
+* **批量生成演示文稿（OTP）**  
+
+&nbsp; 模板在计划运行期间合并。
+
+
+
+* **布局受控管道（OTP）**  
+
+&nbsp; 系统通过模板合并强制执行结构。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

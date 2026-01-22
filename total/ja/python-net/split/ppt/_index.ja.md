@@ -73,7 +73,75 @@ PPT ファイルを簡単に分割するための Python スクリプトまた�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTは、古いシステムでまだ使用されているレガシーなプレゼンテーション形式です。PPTファイルを分割することで、現代の自動化環境での利用が可能になります。
+
+
+
+Python APIを使用すると、レガシーな構造を持つPPTファイルをプログラムで処理することができます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **レガシープレゼンテーションの移行**  
+
+  &nbsp; 変換やアップグレードのためにスライドを抽出します。
+
+
+
+* **選択的なコンテンツアクセス**  
+
+  &nbsp; 完全な変換せずに特定のスライドで作業します。
+
+
+
+* **プレゼンテーションのアーカイブ管理**  
+
+  &nbsp; インデックス作成のためにスライドを個別に保存します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **レガシーフォーマット処理パイプライン**  
+
+  &nbsp; スケールでPPTの分割を自動化します。
+
+
+
+* **変換用のスライド抽出**  
+
+  &nbsp; スライドを現代の形式に変換します。
+
+
+
+* **自動化されたプレゼンテーション監査**  
+
+  &nbsp; スライドコンテンツをプログラムで確認します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

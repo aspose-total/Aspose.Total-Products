@@ -75,7 +75,93 @@ För mer information, se [Produktdokumentation](https://docs.aspose.com/slides/p
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Dokumentmetadataextrahering för **PPT**-filer via Python API:er möjliggör hantering av äldre presentationsresurser genom att läsa egenskaper som författare, tidsstämplar och beskrivande fält. Detta stödjer styrning och upptäckbarhet för organisationer som fortfarande underhåller äldre bildspelsbibliotek.
+
+
+
+I automatiserade arbetsflöden kan PPT-metadata driva klassificering, indexering och livscykelkontroller – vilket möjliggör att stora samlingar av äldre presentationer organiseras, granskas och migreras med minimal manuell ansträngning.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* **Granskning av äldre bildspelsbibliotek**
+
+  Extrahera PPT-metadata för att förstå ålder, ägarskap och underhållsgap över arkiverade bildspel.
+
+
+
+* **Migrationsberedskapsbedömning**
+
+  Använd metadata för att prioritera vilka PPT-bildspel som bör konverteras eller uppdateras först.
+
+
+
+* **Ägarskapsbaserad underhållsdirigering**
+
+  Identifiera underhållare från författar-/redigeringsfälten för att effektivt dirigera uppdateringsförfrågningar.
+
+
+
+* **Portföljanalys av innehåll**
+
+  Sammanställ PPT-metadata för att mäta bibliotekstäckning, föråldring och operativ risk.
+
+
+
+* **Identifiering av dubbletter**
+
+  Använd metadata mönster för att upptäcka troliga dubbletter och minska röran i biblioteket.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* **Pipeline för att ta emot äldre bildspel**
+
+  Automatiskt ta emot PPT-filer, extrahera metadata och tilldela dem till ett inventeringssystem med standardiserade fält.
+
+
+
+* **Automatisering av konverteringsköer**
+
+  Lägg till PPT-bildspel i konverteringsköer baserat på metadataålder och användningsklassificeringsregler.
+
+
+
+* **Meddelandeflöde för föråldrade bildspel**
+
+  Utlös varningar när PPT-metadata indikerar långa perioder utan uppdateringar eller saknade ägarskapsfält.
+
+
+
+* **Automatiserade jobb för biblioteksrensning**
+
+  Skanna regelbundet PPT-repositorier och karantänresurser som identifierats som dubbletter eller ohanterade baserat på metadata.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

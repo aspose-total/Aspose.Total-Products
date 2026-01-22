@@ -73,7 +73,87 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Imaging for Python via
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chèn dấu nước vào hình ảnh **JPEG** bằng Python APIs giúp bảo vệ những bức ảnh được chia sẻ rộng rãi và hình ảnh nén bằng cách thêm dấu sở hữu và chỉ dẫn phân phối mà không tăng quá nhiều dung lượng tệp.
+
+Tự động hóa giúp đặt dấu nước một cách nhất quán và render chất lượng qua các bộ sưu tập JPEG lớn được sử dụng trong xuất bản web và hoạt động nội dung.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Đánh Dấu Sở Hữu Phương Tiện Truyền Thông trên Website**  
+
+&nbsp; Thêm lớp dấu nước vào hình ảnh được sử dụng trên trang đích và blog để giảm việc tái sử dụng.
+
+
+
+* **Chứng Thực Khách Hàng cho Hình Ảnh Giao Hàng**  
+
+&nbsp; Đóng dấu “PROOF” lên bản xem trước trước khi giao hàng cuối cùng được phê duyệt.
+
+
+
+* **Bảo Vệ Hình Ảnh Sản Phẩm trên Danh Sách Thị Trường**  
+
+&nbsp; Đặt dấu nước vào hình ảnh sản phẩm để giữ nguyên danh tính nguồn gốc qua các bài đăng lại.
+
+
+
+* **Phân Quyền Nguồn Gốc Nội Dung Người Dùng**  
+
+&nbsp; Áp dụng dấu sở hữu hoặc dấu cổng thông tin tự động vào hình ảnh cộng đồng được tạo ra.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Render Dấu Nước Nhận Biết Chất Lượng**  
+
+&nbsp; Áp dụng dấu nước trong quá trình quản lý cài đặt nén để cân bằng sự rõ ràng và kích thước tệp.
+
+
+
+* **Đóng Dấu JPEG Tự Động trước khi Tải Lên CDN**  
+
+&nbsp; Đóng dấu JPEG tự động trước khi chúng được đẩy lên mạng phân phối.
+
+
+
+* **Văn Bản Động từ Dữ Liệu Nội Dung**  
+
+&nbsp; Tạo văn bản dấu nước từ SKU, tác giả, hoặc các chỉ số chiến dịch theo cách lập trình.
+
+
+
+* **Kiểm Tra A/B Vị Trí Đặt Dấu Nước**  
+
+&nbsp; Tự động tạo các biến thể để đo lường sự hiển thị mà không ảnh hưởng đến các chỉ số tương tác.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

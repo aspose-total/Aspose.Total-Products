@@ -98,7 +98,93 @@ RTF 메타데이터 관리 앱 또는 유틸리티를 개발해야 합니까?[As
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+파이썬 API를 통한 **RTF** 파일의 문서 메타데이터 추출은 시스템이 풍부한 텍스트 문서의 기본 파일 속성 및 포터빌리티와 레거시 호환성을 위해 자주 사용되는 포함된 설명자를 캡처하는 데 도움이 됩니다. 이는 혼합 문서 유형을 포함하는 저장소의 색인, 거버넌스 및 라이프사이클 추적을 지원합니다.
+
+
+
+자동화된 워크플로우에서 RTF 메타데이터는 분류, 라우팅 및 카탈로그 동기화를 주도하여 수동 검토 없이 레거시 또는 교환 지향 문서의 확장 가능한 처리를 가능하게 합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **혼합 형식 저장소 색인**
+
+  다양한 문서 저장소 간에 발견성을 개선하고 통합 보고를 위해 RTF 메타데이터를 추출합니다.
+
+
+
+* **레거시 콘텐츠 거버넌스**
+
+  타임스탬프 및 작성자 필드를 사용하여 오래된 문서에 대한 관리 및 갱신 주기를 설정합니다.
+
+
+
+* **운영을 위한 대량 분류**
+
+  사용 가능한 RTF 속성을 구조화된 태그로 표준화하여 라우팅 및 액세스 제어를 위해 정규화합니다.
+
+
+
+* **이주 및 변환 계획**
+
+  변환 대상을 우선 순위로 지정하고 소유권 세부 정보의 부재를 식별하기 위해 RTF 메타데이터를 감사합니다.
+
+
+
+* **수용량 품질 통제**
+
+  불완전하거나 일관되지 않은 메타데이터를 가진 RTF 파일을 수용량 품질 통제를 위한 조치 워크플로에 표시합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **레거시 수용량 표준화**
+
+  RTF 메타데이터를 자동으로 추출하고 중앙 문서 레지스트리를 위해 표준화된 필드로 변환합니다.
+
+
+
+* **변환 대기열 조정**
+
+  메타데이터 완전성 및 오래된 정도에 따라 RTF 파일을 변환 파이프라인으로 라우팅합니다.
+
+
+
+* **자동 관리 할당**
+
+  유지 관리자 속성이 없는 RTF 파일에 대한 소유권 작업을 생성하며 디렉터리 컨텍스트 및 메타데이터 신호를 사용합니다.
+
+
+
+* **주기적인 저장소 건강 보고서**
+
+  거버넌스 추적을 위해 RTF 메타데이터 커버리지, 누락된 필드 및 노화 분포에 대한 예정된 요약을 생성합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

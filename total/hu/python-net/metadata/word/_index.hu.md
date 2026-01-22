@@ -98,7 +98,93 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A dokumentum metaadatok kinyerése **Word** fájlokból Python API-k segítségével lehetővé teszi a fő tulajdonságok programozott rögzítését a szövegszerkesztő dokumentumokban - például cím, szerző, időbélyegzők és egyéni mezők - támogatva ezzel a kormányzást, a keresés gazdagítását és az életcikluskezelést. Ez nélkülözhetetlen a dokumentumokkal nehéz műveletek esetén, ahol a manuális ellenőrzés nem skálázható.
+
+
+
+Amikor automatizációs rendszerekhez csatlakozik, a Word metaadatok megbízható réteggé válnak az útvonalvezetéshez, az ellenőrzéshez és az indexeléshez - segítve a modern munkafolyamatok gyorsabb futását, az egyenletes szabványok betartását és az egyszerű integrációt a tárolási, keresési és jelentéstételi szolgáltatásokkal.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Vállalati dokumentumindexelés**
+
+&nbsp; Metaadatok kinyerése a gyors keresést és az egyenletes szervezést támogató katalógusokba.
+
+
+
+* **Irányelv-összhang ellenőrzése**
+
+&nbsp; Ellenőrizze, hogy a szükséges metaadatmezők léteznek-e, mielőtt a dokumentumok bekerülnének a vezérelt tárolókba vagy közzétételi folyamatokba.
+
+
+
+* **Tulajdonosi és felelősségi hozzárendelés**
+
+&nbsp; Használja a szerzőséget és szerkesztői tulajdonságokat a felülvizsgálat és karbantartás felelősségeinek hozzárendeléséhez.
+
+
+
+* **Életciklus- és megőrzéskezelés**
+
+&nbsp; Használja a létrehozás és módosítás időbélyegzőit az automatikus megőrzési és archiválási döntésekhez.
+
+
+
+* **Működési elemzések és betekintések**
+
+&nbsp; Metaadatok összesítése Word dokumentumokban a elavultság, lefedettségi hiányok és folyamat akadályok felfedésére.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Metaadat-vezérelt dokumentumirányítás**
+
+&nbsp; Word fájlok automatikus irányítása felülvizsgálatba, jóváhagyásba vagy archiválási sávokba metaadat küszöbértékek és teljességi szabályok alapján.
+
+
+
+* **Automatizált katalógus szinkronizálás**
+
+&nbsp; Word metaadatok kinyerése ütemezetten és szinkronizálása belső indexekbe mindig aktuális felfedezés érdekében.
+
+
+
+* **Kormányzati kivételkezelés**
+
+&nbsp; Hiányzó tulajdonosi információk, gyanús időbélyegzők vagy érvénytelen mezők észlelése és automatikus helyreállítási feladatok létrehozása.
+
+
+
+* **Programozott közzététel előkészítése**
+
+&nbsp; Használja a Word metaadatokat a közzétételi mezők (címek, összefoglalók, kategóriák) előre kitöltésére és az egyenletesség érvényesítésére a kimenetekben.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -90,7 +90,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+عرض ملفات RTF باستخدام واجهات برمجة التطبيقات في Python يمكن من تفحص المستندات النصية الغنية التي تحافظ على التنسيق والنقل.
+
+يدعم هذا الأمر الأتمتة في سير العمل المركزة على النصوص التي تتطلب تنسيقًا أساسيًا.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **مراجعة النص المنسق**  
+
+&nbsp; عرض النص المنسق دون تعقيد الوثيقة بالكامل.
+
+
+
+* **تفتيش الوثيقة التوافقية**  
+
+&nbsp; تفتيش المستندات عبر أنظمة متنوعة.
+
+
+
+* **التحقق من صحة المحتوى**  
+
+&nbsp; ضمان تنسيق ودقة النص.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **أنابيب النص الآلية**  
+
+&nbsp; تقوم سير العمل في Python بتقديم ملفات RTF أثناء المعالجة.
+
+
+
+* **خدمات المعاينة**  
+
+&nbsp; يتم عرض المستندات ديناميكيًا للمراجعة.
+
+
+
+* **التحقق من الهجرة**  
+
+&nbsp; يضمن العرض التحويل الآمن إلى تنسيقات أخرى.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Łączenie formatów szablonów Excel za pomocą interfejsów API w języku Python zapewnia spójną strukturę i układ w generowanych arkuszach kalkulacyjnych. Łączenie oparte na szablonach jest kluczowe dla standaryzowanych raportów i przepływów pracy związanych z wprowadzaniem danych.
+
+
+
+Automatyzacja umożliwia szybkie generowanie jednolitych arkuszy kalkulacyjnych bez konieczności ręcznego formatowania.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+
+
+* **Montaż arkuszy kalkulacyjnych opartych na szablonach (XLT)**  
+
+&nbsp; Łączenie plików opartych na XLT w celu narzucenia spójnych układów.
+
+
+
+* **Standaryzowane zbieranie danych (XLT)**  
+
+&nbsp; Łączenie arkuszy kalkulacyjnych sterowanych szablonem w jeden plik.
+
+
+
+* **Struktury arkuszy kalkulacyjnych do ponownego wykorzystania (XLT)**  
+
+&nbsp; Łączenie dokumentów XLT w celu utrzymania jednolitego projektu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Automatyczne stosowanie szablonów (XLT)**  
+
+&nbsp; Pliki XLT są łączone automatycznie podczas generowania.
+
+
+
+* **Przetwarzanie wsadowe szablonów (XLT)**  
+
+&nbsp; Zaplanowane zadania łączą wiele arkuszy kalkulacyjnych opartych na XLT.
+
+
+
+* **Automatyzacja z kontrolą układu (XLT)**  
+
+&nbsp; Systemy łączą pliki XLT, aby zagwarantować spójność formatu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

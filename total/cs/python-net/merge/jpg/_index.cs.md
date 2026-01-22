@@ -85,7 +85,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Slučování obrázků ve formátu JPEG pomocí Python API podporuje efektivní sloučení komprimovaných vizuálů při zachování kvality a velikosti souboru. Tato metoda je široce využívána ve webovém publikování, reportingu a systémech doručování obsahu.
+
+
+
+Automatizace umožňuje škálování slučování JPEG obrázků v rámci pracovních postupů s vysokým objemem obrázků s minimální režií.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Sestavení kolekce fotografií (JPG)**  
+
+&nbsp; Sloučení JPEG fotografií do jednoho kompozitního obrázku.
+
+
+
+* **Konsolidace webových prostředků (JPG)**  
+
+&nbsp; Sloučení JPEG prostředků pro optimalizované publikování.
+
+
+
+* **Generování vizuálních zpráv (JPG)**  
+
+&nbsp; Seskupení JPEG grafů a obrázků do jednotných vizuálů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* **Dynamická kompozice obrázků (JPG)**  
+
+&nbsp; Systémy slučují JPEG obrázky na základě vstupů za běhu.
+
+
+
+* **Zpracování médií ve vysokém objemu (JPG)**  
+
+&nbsp; Slučování JPEG probíhá automaticky ve velkém měřítku.
+
+
+
+* **Optimalizace doručování obsahu (JPG)**  
+
+&nbsp; Automatizované potrubí slučuje a optimalizuje JPEG prostředky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,69 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Menggabungkan lembar kerja OpenDocument menggunakan API Python mendukung standar terbuka dan alur kerja data lintas platform. Ini ideal untuk lingkungan yang mengandalkan alat kantor sumber terbuka.
+
+
+
+Automatisasi seputar penggabungan ODS memastikan interoperabilitas sambil menjaga integritas data terstruktur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Konsolidasi Lembar Kerja lintas Platform (ODS)**  
+   Gabungkan file ODS yang dibuat di berbagai suite kantor.
+
+
+
+* **Agregasi Data Standar Terbuka (ODS)**  
+   Gabungkan lembar kerja ODS untuk analisis yang terpadu.
+
+
+
+* **Kompilasi Data Kolaboratif (ODS)**  
+   Gabungkan file ODS dari kontributor yang tersebar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Otomatisasi Pipa Data Terbuka (ODS)**  
+   Sistem menggabungkan file ODS tanpa ketergantungan propietari.
+
+
+
+* **Kompilasi Lembar Kerja Terjadwal (ODS)**  
+   Penggabungan ODS berjalan sebagai bagian dari tugas backend berulang.
+
+
+
+* **Pipa Pelaporan yang Interoperabel (ODS)**  
+   File ODS digabungkan secara dinamis dalam alur kerja data.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

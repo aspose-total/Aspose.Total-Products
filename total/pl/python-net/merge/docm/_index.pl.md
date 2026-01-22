@@ -78,7 +78,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Łączenie makroaktywowanych dokumentów programu Word za pomocą interfejsów API w języku Python umożliwia strukturalną kompozycję dokumentów, zachowując wbudowaną logikę i zaawansowane zachowania dokumentów. Jest to istotne w środowiskach przedsiębiorstw, gdzie dokumenty zawierają automatyzację, formularze lub pola obliczeniowe.
+
+
+
+Zautomatyzowane łączenie plików DOCM wspiera skalowalne przepływy pracy dokumentów, w których pliki zawierające logikę są łączone niezawodnie bez konieczności ingerencji manualnej, zapewniając ciągłość i efektywność operacyjną.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Montaż szablonów opartych na makrach (DOCM)**  
+
+&nbsp; Łączenie wielu makroaktywowanych dokumentów w pojedynczy dokument wykonywalny.
+
+
+
+* **Pakietowanie operacyjnych dokumentów (DOCM)**  
+
+&nbsp; Konsolidacja plików DOCM używanych w różnych działach w jednolite pliki operacyjne.
+
+
+
+* **Konsolidacja dokumentacji procesowej (DOCM)**  
+
+&nbsp; Łączenie instrukcji i narzędzi opartych na DOCM w jeden kontrolowany dokument.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Automatyczne generowanie plików zgodności (DOCM)**  
+
+&nbsp; Systemy automatycznie łączą pliki DOCM w celu generowania dokumentów gotowych do zastosowania w zakresie zgodności.
+
+
+
+* **Kompozycja dokumentów zgodnie z regułami (DOCM)**  
+
+&nbsp; Pliki DOCM są łączone dynamicznie na podstawie reguł przepływu pracy.
+
+
+
+* **Zachowanie makr kontrolowane z poziomu backendu (DOCM)**  
+
+&nbsp; Zautomatyzowane potoki łączą pliki DOCM, zachowując wbudowaną logikę.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

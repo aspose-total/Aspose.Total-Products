@@ -85,7 +85,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PythonのAPIを使用してPNG画像をマージすると、透明性をサポートしたロスレスな画像合成が可能です。これはデザイン資産、UI要素、およびレイヤー化されたビジュアルに最適です。
+
+
+
+自動化により、視覚的な整合性を保ちながら一貫した画像の組み立てが実現されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* **透明なアセットの組み立て（PNG）**  
+
+  各チャンネルを保持しながらPNG画像をマージします。
+
+
+
+* **UI要素の組成（PNG）**  
+
+  インターフェースグラフィックスを単一の画像に組み合わせます。
+
+
+
+* **デザインリソースの統合（PNG）**  
+
+  再利用するためにPNGアセットを集約します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **自動化されたデザインパイプライン（PNG）**  
+
+  システムはビルドプロセス中にPNGアセットをマージします。
+
+
+
+* **レイヤー化された画像の生成（PNG）**  
+
+  PNGのマージはプログラムルールによって駆動されます。
+
+
+
+* **スケーラブルなビジュアルアセットの自動化（PNG）**  
+
+  自動化されたパイプラインがマージされたPNGビジュアルを生成します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

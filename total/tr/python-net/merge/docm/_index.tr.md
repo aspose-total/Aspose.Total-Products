@@ -78,7 +78,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'lerini kullanarak makro özellikli Word belgelerini birleştirmek, gömülü mantığı ve gelişmiş belge davranışlarını korurken yapılandırılmış belge oluşturmayı sağlar. Bu, belgelerin otomasyonu, formlar veya hesaplanmış alanlar içerdiği kurumsal ortamlar için önemlidir.
+
+
+
+Otomatik DOCM birleştirme, mantık taşıyan dosyaların manuel müdahale olmadan güvenilir bir şekilde birleştirildiği ölçeklenebilir belge iş akışlarını destekler, işletme sürekliliğini ve verimliliğini sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Makro Tabanlı Şablon Birleştirme (DOCM)**  
+
+&nbsp; Birden fazla makro özellikli belgeyi tek bir yürütülebilir belgeye birleştirme.
+
+
+
+* **Operasyonel Belge Paketleme (DOCM)**  
+
+&nbsp; Bölümler arasında kullanılan DOCM dosyalarını birleştirerek birleşik operasyonel dosyalar oluşturma.
+
+
+
+* **Süreç Belge Konsolidasyonu (DOCM)**  
+
+&nbsp; DOCM tabanlı talimatları ve araçları tek bir kontrol edilen belgede birleştirme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik Uyumluluk Dosyası Oluşturma (DOCM)**  
+
+&nbsp; Sistemler, uyumluluk için hazır belgeler üretmek için DOCM dosyalarını otomatik olarak birleştirir.
+
+
+
+* **Kural Tabanlı Belge Oluşturma (DOCM)**  
+
+&nbsp; İş akışı kurallarına dayalı olarak DOCM dosyaları dinamik olarak birleştirilir.
+
+
+
+* **Arka Planda Kontrollü Makro Koruma (DOCM)**  
+
+&nbsp; Otomatik boru hatları, gömülü mantığı koruyarak DOCM dosyalarını birleştirir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -98,7 +98,93 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'estrazione dei metadati dei file **DOTX** tramite API Python fornisce un modo strutturato per gestire i file di modello moderni leggendo proprietà come il titolo del modello, i dettagli dell'autore e la cronologia degli aggiornamenti. Questo migliora la governance e garantisce che la generazione dei documenti rimanga coerente e allineata alle politiche.
+
+
+
+Nei flussi di automazione, i metadati DOTX sono utili per la risoluzione dei modelli, i flussi di approvazione e i controlli del ciclo di vita, consentendo operazioni di modelli scalabili che riducono controlli manuali e deviazioni di configurazione.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Scoperta e Ricerca di Modelli**
+
+  Estrarre i metadati DOTX per rendere i modelli ricercabili per scopo, dipartimento o tipo di documento previsto.
+
+
+
+* **Monitoraggio dello Stato di Approvazione**
+
+  Utilizzare proprietà personalizzate per monitorare se un modello è bozza, approvato o deprecato.
+
+
+
+* **Mappatura della Proprietà dei Modelli**
+
+  Identificare i responsabili e gli autori per instradare le richieste di aggiornamento e i compiti di responsabilità.
+
+
+
+* **Assicurazione della Coerenza per i Documenti Generati**
+
+  Convalidare che i flussi di lavoro stiano utilizzando il modello DOTX corretto in base agli identificatori dei metadati.
+
+
+
+* **Governance dei Cambiamenti del Modello**
+
+  Monitorare la cronologia delle modifiche per rilevare modifiche inaspettate ai modelli controllati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Registro dei Modelli basato sui Metadati**
+
+  Ingerire automaticamente i metadati DOTX in un servizio di registro utilizzato dai sistemi di generazione dei documenti.
+
+
+
+* **Flusso di Lavoro per l'Obsolescenza**
+
+  Instradare i modelli DOTX deprecati verso un archivio e impedirne l'uso in base ai flag dei metadati.
+
+
+
+* **Controlli QA Automatici sui Modelli**
+
+  Eseguire convalidhe che garantiscano che le proprietà DOTX richieste esistano e corrispondano agli standard organizzativi prima del rilascio.
+
+
+
+* **Instradamento del Flusso di Lavoro per gli Aggiornamenti dei Modelli**
+
+  Quando i metadati DOTX indicano un cambiamento, creare automaticamente compiti di revisione per il responsabile assegnato.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

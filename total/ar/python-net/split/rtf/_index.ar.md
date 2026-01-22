@@ -79,7 +79,77 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+توفر ملفات RTF تنسيقًا مدمجًا لتنسيق النصوص في شكل وثيقة قابلة للنقل. يسمح تقسيم ملفات RTF باستخراج محتوى مُنسَّق بشكل مُراقب.
+
+
+
+التأتير بلغة Python يمكن من التعامل الفعال مع مستندات RTF في أنظمة كبيرة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **استخراج النص المُنسَق**  
+
+   استخراج الأقسام مع الحفاظ على التنسيق.
+
+
+
+* **معالجة المحتوى التفاعلية**  
+
+   استخدام المحتوى المستخرج عبر المنصات.
+
+
+
+* **تبسيط الوثائق**  
+
+   تقسيم الملفات المعقدة إلى وحدات قابلة للإدارة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **تقسيم الأقسام بناءً على الأنماط**  
+
+   يحدد Python كلمات التحكم لتقسيم المحتوى.
+
+
+
+* **تحويل المحتوى تلقائيًا**  
+
+   يتم تحويل الأقسام المستخرجة برمجيًا.
+
+
+
+* **أنابيب المحتوى عبر الأنظمة المتعددة**  
+
+   تتدفق الأقسام إلى أنظمة مختلفة بسلاسة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

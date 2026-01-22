@@ -104,7 +104,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri kullanarak **DOCX belgelerini** ayrıştırmak, başlıklar, paragraflar, tablolar ve meta verilere güvenilir erişim sağlar. Bu, DOCX'ı yapılandırılmış belge çıkarma için son derece pratik bir formata dönüştürür.
+
+
+
+DOCX ayrıştırma, ölçeklenebilir otomasyon sistemlerine doğal bir şekilde entegre olur ve dağıtılmış iş akışları boyunca verimli içerik alımı, analizi ve dönüşümü sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Yapılandırılmış İçerik Çıkarma**  
+
+&nbsp; Tahmin edilebilir bir yapıda metin, başlıklar ve tabloları alır.
+
+
+
+* **Belge Zekası Sistemleri**  
+
+&nbsp; Temiz verileri NLP ve sınıflandırma boru hatlarına iletir.
+
+
+
+* **Bilgi Tabanı Oluşturma**  
+
+&nbsp; DOCX dosyalarını belge sistemleri için yapılandırılmış kaynaklara dönüştürür.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Sürekli İçerik Alımı**  
+
+&nbsp; Yeni DOCX yüklemelerini otomatik olarak işler ve akıştaki sistemlere aktarır.
+
+
+
+* **Şema Tabanlı Doğrulama**  
+
+&nbsp; Çıkarılan içeriğin önceden belirlenmiş yapısal kurallara uygun olduğunu sağlar.
+
+
+
+* **Otomatik Yayınlama Boru Hatları**  
+
+&nbsp; DOCX içeriğini web veya veritabanı için hazır formatlara dönüştürür.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

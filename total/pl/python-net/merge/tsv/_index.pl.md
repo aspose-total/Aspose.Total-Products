@@ -78,7 +78,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Łączenie plików wartości oddzielonych tabulatorem za pomocą interfejsów API w języku Python umożliwia szybkie i lekkie łączenie strukturyzowanych danych tabelarycznych. TSV jest powszechnie używany do wymiany danych i wstępnego przetwarzania.
+
+
+
+Zautomatyzowane łączenie plików TSV wspiera wysokowydajne potoki danych i przepływy pracy analitycznej.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Agregacja surowych danych (TSV)**  
+
+&nbsp; Łączenie plików TSV w jedny zbiór danych do przetwarzania.
+
+
+
+* **Wymiana danych między systemami (TSV)**  
+
+&nbsp; Łączenie eksportów TSV z różnych platform.
+
+
+
+* **Przygotowanie danych przed analizą (TSV)**  
+
+&nbsp; Łączenie plików TSV przed transformacją analityczną.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Przetwarzanie danych oparte na strumieniach (TSV)**  
+
+&nbsp; Zautomatyzowane systemy łączą pliki TSV w strumieniach danych.
+
+
+
+* **Operacje ETL wsadowe (TSV)**  
+
+&nbsp; Łączenie plików TSV zachodzi podczas zaplanowanych zadań ETL.
+
+
+
+* **Skalowalne potoki danych tabelarycznych (TSV)**  
+
+&nbsp; Programistyczne łączenie wspiera duże zbiory danych TSV.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

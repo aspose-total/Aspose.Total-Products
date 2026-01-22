@@ -73,7 +73,75 @@ Có các tùy chọn thay thế để cài đặt '[Aspose.Slides for Python via
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Tệp PowerPoint lưu trữ nội dung trực quan dựa trên slide được sử dụng trong bài thuyết trình và báo cáo. Chia tách tệp PowerPoint cho phép truy cập chi tiết vào từng slide hoặc nhóm slide.
+
+
+
+Tự động hóa dựa trên Python cho phép thay đổi quy mô nội dung bài thuyết trình trong quy trình làm việc hiện đại.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tái Sử Dụng Slide Trên Các Bài Thuyết Trình**  
+
+&nbsp; Trích xuất slide để tái sử dụng trong các bộ slide mới.
+
+
+
+* **Quản Lý Nội Dung Bài Thuyết Trình**  
+
+&nbsp; Quản lý slide độc lập với quy mô lớn.
+
+
+
+* **Quy Trình Xem Xét và Phê Duyệt**  
+
+&nbsp; Chia sẻ chỉ các slide liên quan với các bên liên quan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Phân Đoạn Slide Tự Động**  
+
+&nbsp; Kịch bản Python chia các bộ slide thành các đơn vị slide.
+
+
+
+* **Tạo Bộ Slide Động**  
+
+&nbsp; Slide được tổ chức dựa trên các quy tắc.
+
+
+
+* **Hệ Thống Phiên Bản Bài Thuyết Trình**  
+
+&nbsp; Theo dõi thay đổi ở mức slide một cách tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

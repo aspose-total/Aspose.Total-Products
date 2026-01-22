@@ -82,7 +82,73 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Wyświetlanie plików JPEG i JPG za pomocą interfejsów API w języku Python umożliwia efektywne sprawdzanie skompresowanych obrazów szeroko stosowanych w różnych systemach.
+
+To wspiera skalowalne przepływy pracy wizualnej, gdzie liczy się wydajność i kompatybilność.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Recenzja skompresowanych obrazów**  
+
+&nbsp; Przeglądaj obrazy zoptymalizowane pod kątem przechowywania i transmisji.
+
+
+
+* **Walidacja treści wizualnej**  
+
+&nbsp; Sprawdzaj obrazy pod kątem klarowności i poprawności.
+
+
+
+* **Zarządzanie zasobami multimedialnymi**  
+
+&nbsp; Przeglądaj programowo często używane zasoby obrazów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Automatyzacja potoków mediów**  
+
+&nbsp; Pliki JPEG są renderowane podczas wsadowych przepływów pracy.
+
+
+
+* **Systemy optymalizacji podglądu**  
+
+&nbsp; Obrazy są wyświetlane dynamicznie dla szybkiej recenzji.
+
+
+
+* **Sprawdzenia jakości zasobów**  
+
+&nbsp; Przeglądarki w języku Python wspierają automatyczne inspekcje.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

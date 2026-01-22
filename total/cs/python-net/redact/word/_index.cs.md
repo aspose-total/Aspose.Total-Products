@@ -74,7 +74,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Redakce dokumentů pomocí Python API pro soubory Word umožňuje bezpečné zpracování napříč různými formáty textových editorů pod jednotným přístupem. To zajistí konzistentní ochranu dat bez ohledu na původ dokumentu.
+
+
+
+Automatizací redakce dokumentů ve formátu Word mohou organizace standardizovat ochranu soukromí a zároveň zlepšit efektivitu a škálovatelnost.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Správa dokumentů ve firmě**  
+
+&nbsp; Aplikujte konzistentní politiky redakce na všechny dokumenty ve formátu Word.
+
+
+
+* **Kontrola obsahu napříč různými formáty**  
+
+&nbsp; Spravujte citlivá data v prostředí s různými soubory ve formátu Word.
+
+
+
+* **Bezpečné sdílení znalostí**  
+
+&nbsp; Rozdistribuujte redakované dokumenty bezpečně uvnitř i vně organizace.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* **Jednotné služby pro redakci**  
+
+&nbsp; Zpřístupněte redakci jako znovupoužitelnou službu založenou na Pythonu.
+
+
+
+* **Zpracování řízené událostmi**  
+
+&nbsp; Spusťte redakci při nahrání nebo úpravě souborů ve formátu Word.
+
+
+
+* **Pracovní postupy připravené pro audit**  
+
+&nbsp; Zaznamenejte a sledujte automatizované akce redakce pro dodržování předpisů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

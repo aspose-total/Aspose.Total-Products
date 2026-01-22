@@ -98,7 +98,93 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La extracción de metadatos de documentos para archivos **DOTX** a través de APIs de Python proporciona una forma estructurada de gestionar archivos de plantilla modernos leyendo propiedades como el título de la plantilla, detalles de autoría e historial de actualizaciones. Esto mejora la gobernanza y asegura que la generación de documentos se mantenga consistente y alineada con las políticas.
+
+
+
+En los flujos de automatización, los metadatos de DOTX son útiles para la resolución de plantillas, flujos de aprobación y controles de ciclo de vida, lo que permite operaciones de plantillas escalables que reducen las verificaciones manuales y la deriva de configuración.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principales Casos de Uso" %}}
+
+
+
+* **Descubrimiento y Búsqueda de Plantillas**
+
+  Extraer metadatos de DOTX para hacer que las plantillas sean buscables por propósito, departamento o tipo de documento previsto.
+
+
+
+* **Seguimiento del Estado de Aprobación**
+
+  Utilizar propiedades personalizadas para hacer un seguimiento de si una plantilla está en borrador, aprobada o descontinuada.
+
+
+
+* **Mapeo de Propietarios de Plantillas**
+
+  Identificar responsables y autores para dirigir solicitudes de actualización y tareas de responsabilidad.
+
+
+
+* **Garantía de Consistencia para Documentos Generados**
+
+  Validar que los flujos de trabajo estén utilizando la plantilla DOTX correcta basándose en identificadores de metadatos.
+
+
+
+* **Gobernanza de Cambios en Plantillas**
+
+  Supervisar el historial de modificaciones para detectar ediciones inesperadas en plantillas controladas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+
+
+* **Registro de Plantillas Dirigido por Metadatos**
+
+  Ingerir automáticamente metadatos de DOTX en un servicio de registro utilizado por sistemas de generación de documentos.
+
+
+
+* **Canalización de Aplicación de Obsolescencia**
+
+  Enviar plantillas DOTX descontinuadas a un archivo y evitar su uso basándose en indicadores de metadatos.
+
+
+
+* **Validaciones Automatizadas de Control de Calidad de Plantillas**
+
+  Ejecutar validaciones que aseguren que las propiedades requeridas de DOTX existan y cumplan con los estándares organizativos antes de su lanzamiento.
+
+
+
+* **Enrutamiento de Flujo de Trabajo de Actualización de Plantillas**
+
+  Cuando los metadatos de DOTX indiquen un cambio, crear automáticamente tareas de revisión para el responsable asignado.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

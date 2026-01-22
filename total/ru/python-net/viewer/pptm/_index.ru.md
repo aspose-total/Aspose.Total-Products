@@ -89,7 +89,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Просмотр PPTM с помощью Python API позволяет осматривать презентации с макросами без выполнения встроенного кода.
+
+Это обеспечивает безопасный просмотр в автоматизированных средах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Просмотр слайдов с макросами**  
+
+&nbsp; Просмотр содержимого презентации в безопасном режиме.
+
+
+
+* **Проверка на основе рисков**  
+
+&nbsp; Осмотр слайдов без выполнения макросов.
+
+
+
+* **Поддержка рабочего процесса утверждения**  
+
+&nbsp; Просмотр презентаций перед контролируемым использованием.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Безопасный прием презентаций**  
+
+&nbsp; Просмотр PPTM файлов с помощью Python безопасен.
+
+
+
+* **Проверка соответствия процедурам**  
+
+&nbsp; Презентации проверяются автоматически.
+
+
+
+* **Предварительная проверка перед развертыванием**  
+
+&nbsp; Просмотр поддерживает процессы утверждения.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

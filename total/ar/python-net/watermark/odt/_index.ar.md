@@ -79,7 +79,85 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG ODT TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+وضع علامة مائية على مستندات **ODT** باستخدام واجهات برمجة التطبيقات بلغة Python يساعد في حماية ملفات النص المفتوحة عن طريق إضافة علامات واضحة للملكية والسرية مع الاحتفاظ بإمكانية الوصول إلى المحتوى في البيئات المفتوحة.
+
+التأمين يمكن من تطبيق قواعد علامة مائية متسقة عبر مكتبات ODT، داعمًا لحكم المستندات القابل للتوسيع للفرق التي تستخدم التنسيقات المفتوحة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **وسم السياسة للتنسيق المفتوح**  
+
+&nbsp; وضع علامات على مستندات ODT بـ "داخلي" أو "سري" لتقليل الإرسال الخاطئ.
+
+
+
+* **التحكم في المسودة للكتابة التعاونية**  
+
+&nbsp; تطبيق تغطيات "مسودة" أثناء دورات التحرير التكرارية.
+
+
+
+* **إشعارات التوزيع للمستندات المشتركة**  
+
+&nbsp; إضافة قيود إعادة الاستخدام للمستندات المشتركة مع المقاولين أو الشركاء.
+
+
+
+* **الحفاظ على هوية الأرشيف**  
+
+&nbsp; وضع علامة مائية على ملفات ODT المصدرة بحيث يكون من الواضح من هو المالك حتى بعد النسخ بين الأنظمة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأمين التلقائي" %}}
+
+
+
+* **مُنشئ المستند + خطوة العلامة المائية**  
+
+&nbsp; وضع علامة مائية تلقائيًا على ملفات ODT المنتجة من القوالب أو البيانات المهيكلة.
+
+
+
+* **فرض سياسة المستودع**  
+
+&nbsp; تطبيق علامات مائية عند تحميل ملفات ODT في مجلدات محكمة.
+
+
+
+* **تبديل علامات المياه التلقائي للإصدار**  
+
+&nbsp; تغيير نص العلامة المائية استنادًا إلى حالة الإصدار (مسودة، مراجعة، نهائي) بشكل برمجي.
+
+
+
+* **أنابيب تصدير الامتثال**  
+
+&nbsp; وضع علامات على تصديرات ODT المستخدمة للتدقيقات لضمان تسمية متسقة عبر التقديمات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

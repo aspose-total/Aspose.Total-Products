@@ -73,7 +73,85 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Pemberian watermark pada gambar **TIFF** dengan Python APIs mendukung alur kerja gambar berkualitas tinggi dengan menambahkan label kepemilikan dan kontrol ke file yang umum digunakan dalam pemindaian, cetak, dan arsip.
+
+Automatisasi sangat berharga untuk pemberian watermark pada TIFF karena ukuran file yang besar dan proses yang membutuhkan batch, memungkinkan penanganan yang konsisten di seluruh alur kerja pemindaian dokumen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Tanda Kepemilikan Dokumen yang Dipindai**  
+
+  &nbsp; Terapkan watermark pada file TIFF yang dipindai untuk mempertahankan asal-usul dalam arsip gambar.
+
+
+
+* **Cap Bukti Alur Kerja Cetak**  
+
+  &nbsp; Tambahkan watermark "BUKTI" ke file TIFF pra-cetak untuk tinjauan yang terkontrol.
+
+
+
+* **Label Kepatuhan untuk Repositori Gambar**  
+
+  &nbsp; Tandai gambar terbatas dengan teks klasifikasi untuk mendukung kebijakan penanganan.
+
+
+
+* **Jejak Konversi Arsip**  
+
+  &nbsp; Watermark TIFF sebelum konversi ke format lain untuk mempertahankan identitas sumber.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pemberian Watermark Otomatis Hasil Pemindai**  
+
+  &nbsp; Tandai file TIFF segera setelah pemindaian menggunakan folder yang dipantau atau pekerjaan ingest.
+
+  
+
+* **Pemrosesan TIFF Multi-Halaman**  
+
+  &nbsp; Terapkan watermark konsisten di seluruh halaman dalam file TIFF multi-halaman secara programatik.
+
+
+
+* **Penskalaan Watermark yang Menyadari Resolusi**  
+
+  &nbsp; Sesuaikan ukuran watermark berdasarkan DPI untuk mempertahankan penampilan cetak fisik yang konsisten.
+
+
+
+* **Alur Kerja Retensi dan Audit Otomatis**  
+
+  &nbsp; Watermark gambar sebagai bagian dari penandaan retensi otomatis dan alur kerja tinjauan kepatuhan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

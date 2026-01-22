@@ -98,7 +98,93 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Extraktion von Metadaten für **DOC**-Dateien über Python-APIs ermöglicht es Systemen, Kerndateiattribute wie Autor, Erstellungszeit, letzte Änderungszeit, Revisionsanzahl und eingebettete Eigenschaften zu lesen und zu interpretieren, ohne manuelle Inspektion. Dies ist wichtig für Governance, Suchfunktionen, Audits und die Kontrolle des Lebenszyklus von dokumentenlastigen Workflows.
+
+
+
+Wenn in Automatisierungspipelines integriert, werden DOC-Metadaten zu einer zuverlässigen Signalquelle für Routing, Compliance-Checks, Indizierung und Stapelverarbeitung - zur Unterstützung skalierbarer Dokumentenoperationen, konsistenter Klassifizierung und nachgelagerter Integrationen mit Speicher-, Such- und Berichtsschichten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Legacy-Dokumenteninventar**
+
+  Extrahieren Sie Metadaten aus DOC-Archiven, um einen strukturierten Index für die Entdeckung, die Deduplizierung und die Lebenszyklusplanung zu erstellen.
+
+
+
+* **Compliance-Zeitstempelüberprüfung**
+
+  Verwenden Sie die Felder Erstellt/Geändert, um Aufbewahrungsregeln zu überprüfen und Anomalien in regulierten Dokumenten zu erkennen.
+
+
+
+* **Zuordnung von Dokumenteneigentum**
+
+  Lesen Sie Autor- und letzte Editor-Eigenschaften, um das Dokumenteneigentum für Überprüfungsaufgaben und Zugriffssteuerungen zuzuordnen.
+
+
+
+* **Stapelkategorisierung für die Suche**
+
+  Konvertieren Sie eingebettete Eigenschaften in normierte Tags für konsistentes Filtern und interne Suchanreicherung.
+
+
+
+* **Änderungsrückverfolgungssignale**
+
+  Erfassen Sie revisionsbezogene Felder, um die Rückverfolgbarkeit in redaktionellen und Genehmigungsworkflows zu unterstützen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Archiv-Eingangstor**
+
+  Akzeptieren oder quarantäne DOC-Dateien automatisch basierend auf fehlenden Autorenfeldern, verdächtigen Zeitstempeln oder ungültigen Metadatenmustern.
+
+
+
+* **Metadaten-zu-Index-Synchronisierung**
+
+  Extrahieren Sie beim Hochladen DOC-Metadaten und übertragen Sie sie in einen Suchindex, damit die Ergebnisse aktuell bleiben, ohne manuelle Katalogisierung.
+
+
+
+* **Routenregeln basierend auf Richtlinien**
+
+  Leiten Sie DOC-Dateien in spezifische Warteschlangen, wenn Metadaten auf vertrauliche Inhalte, veraltete Versionen oder unbekanntes Eigentum hinweisen.
+
+
+
+* **Geplante Metadatenprüfungen**
+
+  Führen Sie nächtliche Scans durch, die Metadatendrift erkennen und Ausnahmereports für Betriebsteams generieren.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

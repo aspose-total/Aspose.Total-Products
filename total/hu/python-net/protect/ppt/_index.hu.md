@@ -71,7 +71,75 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPT fájlok az idősebb PowerPoint formátumokat képviselik, amelyeket még mindig sok környezetben használnak. A PPT fájlok védelme biztosítja, hogy az örökségként megmaradt prezentációk biztonságosak és megfelelnek a szabályozásoknak.
+
+
+
+A Python API-k automatizálják a PPT fájlok védelmét, lehetővé téve az örökséges tartalomnak, hogy megfeleljen a modern biztonsági szabványoknak.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Örökséges diavédelem**  
+
+&nbsp; Biztosítsa az idősebb PPT fájlok védelmét a jogosulatlan módosítások ellen.
+
+
+
+* **Történelmi tartalom megőrzése**  
+
+&nbsp; Tartsa fenn az archivált prezentációk integritását.
+
+
+
+* **Irányított újraosztás**  
+
+&nbsp; Korlátozza a szerkesztést az örökséges diavetítések megosztásakor.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Tömeges örökséges fájlvédelem**  
+
+&nbsp; Automatikusan biztosítsa a nagy mennyiségű PPT fájlokat.
+
+
+
+* **Migrációs idő biztonsága**  
+
+&nbsp; Alkalmazza a védelmet az örökséges rendszerátmenetek során.
+
+
+
+* **Automatizált hozzáférés korlátozás**  
+
+&nbsp; Programozottan érvényesítse a PPT fájlokra vonatkozó következetes korlátozásokat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

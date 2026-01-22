@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API签署Word文档，为日常业务文档（如提案、政策和内部沟通）的批准形式化。这提供了在标准办公流程中对审阅和所有权的一致证明。
+
+
+
+自动化驱动的Word签署通过在文档达到特定生命周期里程碑时应用签名，减少了手动处理，提高了可扩展性和可追溯性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **提案批准最终化**  
+
+  &nbsp; 在审阅完成并内容最终确定后签署Word提案。
+
+
+
+* **政策更新授权**  
+
+  &nbsp; 对Word政策文件应用签名以确认授权发布。
+
+
+
+* **运营文档签署**  
+
+  &nbsp; 签署Word运营文档以指示发布准备就绪。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批准路由完成签署**  
+
+  &nbsp; 当路由步骤完成时自动签署Word文档。
+
+
+
+* **文档存储库发布门槛**  
+
+  &nbsp; 在将Word文件发布到共享存储库之前签署。
+
+
+
+* **自动化版本发布认证**  
+
+  &nbsp; 当最终版本标记为发布时签署Word文档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

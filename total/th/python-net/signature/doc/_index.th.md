@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การเซ็นเอกสาร DOC โดยโปรแกรมช่วยให้เอกสาร Word เวอร์ชันเก่าสามารถแสดงตัวบ่งชี้การอนุมัติอย่างเป็นทางการโดยไม่ต้องแปลงรูปแบบ ซึ่งช่วยรักษาความเข้ากันได้กับระบบเอกสารเวอร์ชันเก่าในขณะเดียวกันเพิ่มการควบคุม
+
+
+
+การอัตโนมัติที่ใช้ Python ช่วยให้การเซ็นเอกสาร DOC เกิดขึ้นอย่างสม่ำเสมอ ลดการเข้ามาเกี่ยวข้องด้วยมือในกระบวนการทำงานที่มีเอกสารเป็นหลัก
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการใช้งานหลัก" %}}
+
+
+
+* **การอนุมัติสัญญาเก่า**  
+
+&nbsp; เพิ่มรายละเอียดผู้เซ็นในสัญญา DOC ที่ใช้ในระบบที่เก่า
+
+
+
+* **การลงนามเอกสารนโยบาย**  
+
+&nbsp; ทำเครื่องหมายบนเอกสารนโยบาย DOC ว่าได้รับการทบทวนและอนุมัติ
+
+
+
+* **การตรวจสอบเอกสารตามแม่แบบ**  
+
+&nbsp; เซ็นเอกสารแม่แบบ DOC หลังจากตรวจสอบเสร็จ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การเซ็นเมื่อกรอกข้อมูลครบ**  
+
+&nbsp; เอกสาร DOC จะถูกเซ็นเมื่อกรอกข้อมูลที่จำเป็นครบ
+
+
+
+* **การผสานข้อมูลของการอนุมัติ**  
+
+&nbsp; เริ่มกระบวนการเซ็นเมื่อมีการอัพเดตสถานะการอนุมัติที่อยู่ในระบบหลังส่งออก
+
+
+
+* **การรับรองเอกสารเก่า**  
+
+&nbsp; เอกสาร DOC จะถูกเซ็นก่อนถูกเก็บถาวร
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

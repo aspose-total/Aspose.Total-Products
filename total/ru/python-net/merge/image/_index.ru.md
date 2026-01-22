@@ -85,7 +85,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Объединение общих форматов изображений с использованием API Python обеспечивает единый подход к обработке разнообразных визуальных ресурсов в рамках одного рабочего процесса. Эта абстракция упрощает обработку изображений различных форматов.
+
+
+
+Автоматизация обеспечивает масштабируемое, не зависящее от формата объединение изображений для современных систем.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Объединение изображений различных форматов (IMAGE)**  
+
+&nbsp; Объединение различных форматов изображений в один выход.
+
+
+
+* **Комбинирование визуальных данных из разных источников (IMAGE)**  
+
+&nbsp; Объединение изображений из разных инструментов и платформ.
+
+
+
+* **Гармонизация корпоративных изображений (IMAGE)**  
+
+&nbsp; Объединение гетерогенных изображений в единые визуальные ресурсы.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Потоки обработки изображений, не зависящие от формата (IMAGE)**  
+
+&nbsp; Автоматизированные рабочие процессы объединяют изображения независимо от формата.
+
+
+
+* **Генерация унифицированных визуальных ресурсов (IMAGE)**  
+
+&nbsp; Системы динамически генерируют объединенные изображения.
+
+
+
+* **Масштабируемая оркестрация изображений (IMAGE)**  
+
+&nbsp; Программное объединение поддерживает крупномасштабные рабочие процессы с изображениями.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

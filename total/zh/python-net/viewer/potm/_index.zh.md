@@ -89,7 +89,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API查看POTM文件，可以检查带有宏的演示文稿模板，而无需执行宏。
+
+这支持对可重复使用的演示文稿结构进行安全验证。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **宏启用模板审查**  
+
+  查看演示文稿模板，确保安全性。
+
+
+
+* **幻灯片布局验证**  
+
+  检查预定义的幻灯片结构。
+
+
+
+* **模板批准工作流程**  
+
+  在部署之前审查模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **安全模板接收**  
+
+  Python工作流安全呈现POTM文件。
+
+
+
+* **自动化模板审计**  
+
+  对模板进行一致性审查。
+
+
+
+* **演示文稿生成流水线**  
+
+  查看确保自动化准备就绪。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+RTF soubory poskytují přenosný formát dokumentu zaměřený na text s vestavěným formátováním. Rozdělení RTF souborů umožňuje kontrolované extrahování formátovaného obsahu.
+
+
+
+Automatizace v Pythonu umožňuje efektivní zpracování RTF dokumentů ve velkých systémech.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Extrakce formátovaného textu**  
+
+&nbsp; Extrahovat sekce s zachováním formátování.
+
+
+
+* **Zpracování interoperabilního obsahu**  
+
+&nbsp; Používat extrahovaný obsah napříč platformami.
+
+
+
+* **Zjednodušení dokumentů**  
+
+&nbsp; Rozdělit složité soubory do spravovatelných jednotek.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Rozdělení sekcí na základě vzoru**  
+
+&nbsp; Python identifikuje řídící slova pro rozdělení obsahu.
+
+
+
+* **Automatizovaná transformace obsahu**  
+
+&nbsp; Extrahované sekce jsou transformovány programově.
+
+
+
+* **Přesměrování obsahu mezi systémy**  
+
+&nbsp; Sekce plynule proudí do různých systémů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

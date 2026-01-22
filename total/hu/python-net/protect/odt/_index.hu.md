@@ -76,7 +76,75 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT egy széles körben használt nyílt dokumentum szöveges formátum jelentésekhez és dokumentációhoz. Az ODT fájlok védelme lényeges a dokumentum hitelességének megőrzése és a véletlen vagy rosszindulatú változtatások megakadályozása érdekében.
+
+
+
+Python alapú dokumentumvédelem lehetővé teszi az ODT biztonság beágyazását az automatizált dokumentációs és közzétételi folyamatokba minimális túlterheléssel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Biztonságos jelentéselosztás**  
+
+&nbsp; Védd meg a véglegesített ODT jelentéseket a megosztás előtt.
+
+
+
+* **Dokumentáció integritása**  
+
+&nbsp; Biztosítsd, hogy az hivatalos dokumentumok változatlanok maradjanak jóváhagyás után.
+
+
+
+* **Keresztplatformos dokumentumbiztonság**  
+
+&nbsp; Alkalmazz védelmet függetlenül a szerkesztési környezettől.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Automatizált dokumentációs csővezetékek**  
+
+&nbsp; Védj meg ODT fájlokat a folyamatos dokumentáció generálásának részeként.
+
+
+
+* **Szabályalapú fájlbiztonság**  
+
+&nbsp; Alkalmazz védelmi irányelveket a dokumentum metaadatai alapján.
+
+
+
+* **Tömeges dokumentum megerősítése**  
+
+&nbsp; Biztonságosan több ODT fájlt programozottan tömegműveletek során.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

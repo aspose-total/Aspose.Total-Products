@@ -104,7 +104,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API解析**Word文档**可以可靠地从广泛使用的文字处理文件中提取结构化文本、标题、表格和文档元数据。这种能力对于管理报告、合同、手册和Word格式的操作文档的组织至关重要。
+
+
+
+通过将Word文档解析集成到自动化系统中，团队可以简化内容摄取、验证、转换和重复使用，使文档密集型工作流程更高效和可扩展。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **企业文档处理**  
+
+  提取Word文件中的结构化内容，用于下游系统和分析。
+
+
+
+* **知识提取和索引**  
+
+  将Word文档转换为可搜索和可机器阅读的数据。
+
+
+
+* **内容迁移和现代化**  
+
+  实现大规模将Word文件迁移到现代平台或格式。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化文档摄取**  
+
+  处理作为连续管道的一部分的新上传的Word文档。
+
+
+
+* **基于模式的内容验证**  
+
+  确保提取的Word内容符合预定义的结构规则。
+
+
+
+* **动态内容转换**  
+
+  以编程方式将Word文档转换为Web、数据库或API可用的格式。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

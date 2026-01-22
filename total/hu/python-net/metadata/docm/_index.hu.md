@@ -98,7 +98,93 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A dokumentum metaadatok kinyerése **DOCM** fájlokból Python API-k segítségével lehetővé teszi a rendszerek számára, hogy ellenőrizzék a dokumentum tulajdonságait, miközben figyelembe veszik a makróval ellátott tartalmat és az ehhez kapcsolódó kockázati jeleket. Ez értékes a kormányzás, a biztonságos kezelés és a besorolás szempontjából, különösen akkor, amikor a dokumentumok csapatok vagy környezetek között mozognak.
+
+
+
+Az automatizált munkafolyamatokban a DOCM metaadatok dinamikus vezérléseket is kormányozhat—például biztonsági ellenőrzéseket, feltételes jóváhagyásokat és korlátozott terjesztést—miközben lehetővé teszi a skálázható indexelést és jelentéskészítést anélkül, hogy interaktívan megnyitnánk a fájlokat.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Fő felhasználási esetek" %}}
+
+
+
+* **Makró-érzékeny dokumentum ellenőrzés**
+
+  Használja a metaadatokat a makróval ellátott dokumentumok jelölésére további áttekintés és ellenőrzött kezelés céljából.
+
+
+
+* **Érzékeny munkafolyamat besorolás**
+
+  Besorolja a DOCM fájlokat az ágyazott tulajdonságok alapján, hogy szigorúbb tárolási és hozzáférési irányelveket alkalmazzon.
+
+
+
+* **Működési eredetkövetés**
+
+  Rögzítse az írói és módosítási előzményeket annak nyomon követésére, hogy hol és mikor készültek a makróval ellátott fájlok.
+
+
+
+* **Tároló egészségügyi jelentések**
+
+  Hozzon létre jelentéseket a DOCM mennyiségéről, életkoráról és tulajdonjogáról a kockázati expozíció kezeléséhez nagyobb méretben.
+
+
+
+* **Irányított terjesztésre való felkészültség**
+
+  Ellenőrizze a szükséges metaadat mezőket, mielőtt a DOCM fájlokat engedélyezné az alárendelt megosztási vagy közzétételi folyamatokban.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Kockázat-pontszámú befogadási csatorna**
+
+  Automatikusan pontozza a DOCM fájlokat a metaadatok teljessége és frissessége alapján, majd irányítsa azokat az "áttekintésre" vagy "jóváhagyott" sávokba.
+
+
+
+* **Korlátozott tárolási végrehajtás**
+
+  Ha egy DOCM fájlt észlel, az automatizmus áthelyezi egy korlátozott helyre és szigorúbb megőrzési szabályokat alkalmaz.
+
+
+
+* **Makróval ellátott kivételriasztások**
+
+  Riasztásokat indítson, amikor a DOCM metaadatok arra utalnak, hogy váratlan eredetekről, szokatlan időbélyegekről vagy hiányzó tulajdonosi mezőkről van szó.
+
+
+
+* **Automatizált készleti irányítópultok**
+
+  Folyamatosan kinyerje és összesítse a DOCM metaadatokat irányítópultokba a kormányzás és az operatív felügyelet céljából.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

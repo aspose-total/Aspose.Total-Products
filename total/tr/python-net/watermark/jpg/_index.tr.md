@@ -73,7 +73,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri kullanarak JPG dosyalarına filigran eklemek, en sık kullanılan web görüntü formatına açık sahiplik, kanıt etiketleri ve dağıtım kuralları ekleyerek yaygın görüntü iş akışlarını destekler.
+
+Otomatik JPG filigranı, tutarlı yerleşim ve tekrarlanabilir stillemenin birçok varlık üzerinde gerektiği yüksek verimli iş akışları için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Görüntü Kütüphaneleri için Toplu Markalama**
+
+  &nbsp; Kanallar arasında tutarlı kimlik korumak için büyük JPG varlıklarına filigran ekleyin.
+
+
+
+* **Ön Yayın İçeriği Koruma**
+
+  &nbsp; Erken yayınlamayı önlemek için "YAYINLANMAMAKTADIR" örtükleri ekleyin.
+
+
+
+* **Satış Destek Materyali Önizleme İşaretleme**
+
+  &nbsp; Tekliflerde ve sunumlarda kullanılan JPG görsellerine önizleme etiketleri damgalayın.
+
+
+
+* **Ortak Varlık Atıfı**
+
+  &nbsp; Kaynak izleme iyileştirmek için paylaşılan medya için atıf filigranları gömün.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Klasör Tabanlı Otomatik Damgalama**
+
+  &nbsp; İzleme klasörlerinde yeni JPG dosyalarını algılayın ve hemen filigran ekleyin.
+
+
+
+* **Duyarlı Filigran Ölçekleme**
+
+  &nbsp; Filigran boyutunu otomatik olarak çözünürlüğe ve en boy oranına göre ayarlayın.
+
+
+
+* **Çoklu Dil Filigran Oluşturma**
+
+  &nbsp; Hedef kitle veya bölge kurallarına göre yerelleştirilmiş filigran metni üretin.
+
+
+
+* **Yinelenen Varyant Oluşturma**
+
+  &nbsp; Otomasyonda parmak izlerini takip ederek zaten filigran eklenmiş JPG'leri yeniden işlemeden kaçının.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

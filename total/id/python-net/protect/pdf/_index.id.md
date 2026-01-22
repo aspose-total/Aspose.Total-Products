@@ -72,7 +72,75 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PDF adalah format yang paling umum digunakan untuk dokumen akhir dan dapat dibagikan. Melindungi PDF sangat penting untuk mengontrol akses, mencegah penyalinan, dan memastikan keaslian konten di berbagai saluran distribusi digital.
+
+
+
+API Python memungkinkan otomatisasi perlindungan PDF, dengan mengintegrasikan keamanan langsung ke dalam alur kerja pembuatan dokumen, persetujuan, dan pengiriman.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Utama" %}}
+
+
+
+* **Pengiriman Dokumen yang Aman**  
+
+&nbsp; Lindungi PDF yang didistribusikan kepada klien atau pemangku kepentingan.
+
+
+
+* **Penegakan Konten Hanya Baca**  
+
+&nbsp; Mencegah pengeditan atau penyalinan dokumen final.
+
+
+
+* **Perlindungan Informasi Rahasia**  
+
+&nbsp; Batasi akses ke data sensitif dalam PDF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Penguncian PDF Otomatis**  
+
+&nbsp; Terapkan perlindungan segera setelah pembuatan PDF.
+
+
+
+* **Penugasan Kata Sandi Dinamis**  
+
+&nbsp; Hasilkan dan terapkan kata sandi secara programatis per penerima.
+
+
+
+* **Keamanan yang Dipacu oleh Kepatuhan**  
+
+&nbsp; Terapkan perlindungan PDF secara otomatis untuk memenuhi kebutuhan regulasi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

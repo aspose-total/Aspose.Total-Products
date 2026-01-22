@@ -71,7 +71,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri kullanarak DOCX belgelerinin imzalanması, yapılandırılmış, modern belgelerin doğrulanabilir onay meta verilerini içermesini sağlar. Bu, izlenebilirlik ve kontrol edilen belge yaşam döngülerini destekler.
+
+
+
+Otomatik DOCX imzalama, içerik motorları, onay sistemleri ve belge depolarıyla sorunsuz bir şekilde entegre olur ve ölçeklenebilir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Dijital Sözleşme Tamamlama**  
+
+&nbsp; Onay imzalarını nihai DOCX sözleşmelere gömün.
+
+
+
+* **Rapor Onay Takibi**  
+
+&nbsp; Yönetim onayını doğrulamak için DOCX raporlarına imza atın.
+
+
+
+* **İç Dokümantasyon Yönetişimi**  
+
+&nbsp; Onaylanmış iç belgelere imza atın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Olaya Dayalı Sözleşme İmzalama**  
+
+&nbsp; Onay olaylarından sonra DOCX dosyaları otomatik olarak imzalanır.
+
+
+
+* **Çok Adımlı İnceleme Kapanışı**  
+
+&nbsp; İmzalama, tüm inceleyiciler görevlerini tamamladıktan sonra gerçekleşir.
+
+
+
+* **CI Tabanlı Belge Onayı**  
+
+&nbsp; DOCX dosyaları, otomatik yapılandırma boru hatlarının bir parçası olarak imzalanır.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

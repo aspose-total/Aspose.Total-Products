@@ -89,7 +89,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การดูไฟล์ PPSM ด้วย Python APIs ช่วยให้สามารถตรวจสอบไฟล์สไลด์โชว์ที่เปิดใช้งานแมโครอย่างปลอดภัยที่ออกแบบมาสำหรับการเล่นอัตโนมัติ
+
+นี้สนับสนุนการทำงานอัตโนมัติที่ควบคุมได้ที่ต้องการมองเห็นโดยไม่ต้อง execute แมโครที่ฝังอยู่
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **การทบทวนสไลด์โชว์ที่เปิดใช้งานแมโคร**  
+
+  &nbsp; ดูเนื้อหาสไลด์โชว์ในขณะที่แมโครยังไม่ได้เปิดใช้งาน
+
+
+
+* **การตรวจสอบลำดับการเล่น**  
+
+  &nbsp; ตรวจสอบลำดับสไลด์และโครงสร้างการนำเสนอที่ตั้งไว้สำหรับการแสดงอัตโนมัติ
+
+
+
+* **การตรวจสอบการกระจายที่ปลอดภัย**  
+
+  &nbsp; ทบทวนไฟล์ PPSM ก่อนแชร์หรือใช้งานอย่างควบคุม
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+
+
+* **การรับเข้าสไลด์โชว์ที่ปลอดภัย**  
+
+  &nbsp; การทำงานของ Python ทำให้ไฟล์ PPSM ถูกตรวจสอบอย่างปลอดภัยในขั้นตอนการรับเข้า
+
+
+
+* **การทบทวนตามข้อบังคับโดยการใช้งานอัตโนมัติ**  
+
+  &nbsp; สไลด์โชว์ถูกดูเป็นส่วนหนึ่งของการตรวจสอบนโยบายอัตโนมัติ
+
+
+
+* **เวิร์กโฟลว์การนำเสนอก่อนการอนุมัติ**  
+
+  &nbsp; การดูตัวอย่างอัตโนมัติสนับสนุนการอนุมัติโดยมนุษย์หรือระบบ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

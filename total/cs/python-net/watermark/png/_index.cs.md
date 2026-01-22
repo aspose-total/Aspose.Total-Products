@@ -73,7 +73,85 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Vodoznakování **PNG** obrázků pomocí Python API chrání grafiku, která závisí na ostrých hranách a průhlednosti, jako jsou UI prvky, diagramy a vizuální prvky značky.
+
+Automatizace umožňuje konzistentní překrývání vodoznaků s respektováním alfa kanálů, což činí vodoznakování PNG spolehlivým pro designové systémy a publikování na webu ve velkém měřítku.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Ochrana průhledného loga**  
+
+&nbsp; Aplikujte vodoznaky na průhledná PNG loga k odrazování od neoprávněného použití.
+
+
+
+* **Vlastnictví diagramu pro dokumentaci**  
+
+&nbsp; Opečetěte technické diagramy k zachování atribuce napříč kopírovanými znalostními bázemi.
+
+
+
+* **Správa UI prvků**  
+
+&nbsp; Vodoznakujte exportované návrhy uživatelského rozhraní k objasnění stavu návrhu a vlastnictví.
+
+
+
+* **Kontrola distribuce partnerů**  
+
+&nbsp; Přidejte identifikátory k sdíleným PNG souborům pro sledování distribuce a opětovné použití.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Renderování vodoznaku s alfa kanálem**  
+
+&nbsp; Aplikujte poloprůhledné vodoznaky bez narušení průhlednosti v původním obrázku.
+
+
+
+* **Označení exportního potrubí designu**  
+
+&nbsp; Automaticky vodoznakujte exporty PNG při generování aktiv z šablon.
+
+
+
+* **Umístění s ohledem na obsah**  
+
+&nbsp; Programově se vyhněte vodoznakování nad klíčovými prvkami uživatelského rozhraní nebo popisky diagramů.
+
+
+
+* **Automatizovaná produkce variant pro týmy**  
+
+&nbsp; Generujte týmově specifické sady PNG s vodoznakem pro řízenou spolupráci.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -85,7 +85,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+일반 이미지 형식을 병합하는 Python API를 사용하면 다양한 시각 자산을 하나의 워크플로우에서 처리하는 통합된 방법을 제공합니다. 이 추상화는 혼합된 형식을 효율적으로 처리할 수 있도록 이미지 처리를 간단하게 합니다.
+
+
+
+자동화를 통해 현대 시스템을 위한 확장 가능하고 형식에 구애받지 않는 이미지 통합이 가능해집니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **다중 형식 이미지 통합 (IMAGE)**
+
+&nbsp; 다양한 이미지 형식을 하나의 출력물로 병합합니다.
+
+
+
+* **다양한 소스 시각적 집합 (IMAGE)**
+
+&nbsp; 다양한 도구와 플랫폼에서 이미지를 결합합니다.
+
+
+
+* **기업 이미지 조화 (IMAGE)**
+
+&nbsp; 이질적인 이미지를 통합된 시각 자료로 집계합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **형식에 구애받지 않는 이미지 파이프라인 (IMAGE)**
+
+&nbsp; 형식에 관계없이 이미지를 병합하는 자동화된 워크플로우입니다.
+
+
+
+* **통합된 시각 생성 (IMAGE)**
+
+&nbsp; 시스템이 동적으로 통합된 이미지를 생성합니다.
+
+
+
+* **확장 가능한 이미지 조정 (IMAGE)**
+
+&nbsp; 프로그래밍 방식의 병합이 대규모 이미지 워크플로우를 지원합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -90,7 +90,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การดูไฟล์ ODT ด้วย Python APIs ช่วยให้สามารถตรวจสอบเอกสารข้อความเปิดที่ใช้ในขั้นตอนการทำงานที่ใช้มาตรฐาน
+
+นี้สนับสนุนการอัตโนมัติในระบบที่เน้นเอกสารโดยไม่มีการขึ้นอยู่กับซอฟต์แวร์ที่เป็นเอกสาร
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **การทบทวนเอกสารเปิด**  
+
+&nbsp; ดูเอกสารข้อความในรูปแบบเปิด
+
+
+
+* **การตรวจสอบความสมบูรณ์ของเนื้อหา**  
+
+&nbsp; ตรวจสอบโครงสร้างของเอกสารและข้อความ
+
+
+
+* **ความเข้ากันได้ระหว่างระบบ**  
+
+&nbsp; ให้แน่ใจว่าเอกสารแสดงผลถูกต้องในทุกสภาพแวดล้อม
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **กระบวนการเอกสารอัตโนมัติ**  
+
+&nbsp; กระบวนการ Python แสดงไฟล์ ODT ระหว่างขั้นตอนการทำงาน
+
+
+
+* **การตรวจสอบความเป็นไปตามข้อกำหนด**  
+
+&nbsp; ดูเอกสารเพื่อการปฏิบัติตามมาตรฐาน
+
+
+
+* **การสร้างตัวอย่างการดู**  
+
+&nbsp; ผู้ดูแลระบบอัตโนมัติสนับสนุนกระบวนการทบทวน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

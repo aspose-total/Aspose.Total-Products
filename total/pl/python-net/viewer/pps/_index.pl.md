@@ -89,7 +89,73 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Przeglądanie plików PPS, PPSM i PPSX za pomocą interfejsów API w języku Python umożliwia inspekcję prezentacji zorientowanych na pokaz slajdów przeznaczonych do bezpośredniego odtwarzania.
+
+To umożliwia zautomatyzowaną recenzję bez konieczności korzystania z oprogramowania prezentacyjnego.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+
+
+* **Przeglądanie Zawartości Pokazu Slajdów**
+
+&nbsp; Przeglądaj prezentacje przeznaczone do natychmiastowego wyświetlenia.
+
+
+
+* **Inspekcja Struktury Odtwarzania**
+
+&nbsp; Sprawdź przepływ slajdów i przejścia.
+
+
+
+* **Walidacja Dystrybucji**
+
+&nbsp; Upewnij się, że pliki pokazu slajdów są poprawne przed udostępnieniem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Automatyczne Sprawdzanie Pokazu Slajdów**
+
+&nbsp; Skrypty w języku Python renderują pliki pokazu slajdów do recenzji.
+
+
+
+* **Podgląd Przed Dystrybucją**
+
+&nbsp; Pokazy slajdów są wyświetlane dynamicznie.
+
+
+
+* **Potoki Zapewnienia Jakości**
+
+&nbsp; Przeglądanie zapewnia gotowość do dostarczenia.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

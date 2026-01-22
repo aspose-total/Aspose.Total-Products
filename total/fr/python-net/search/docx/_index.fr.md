@@ -76,7 +76,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La recherche de fichiers **DOCX** avec les API Python offre un accès fiable aux documents de traitement de texte structurés et modernes. Les fichiers DOCX contiennent du texte enrichi, des titres, des tableaux et des métadonnées qui peuvent être analysés de manière programmable pour une recherche et une récupération avancées.
+
+
+
+La recherche DOCX prête à l'automatisation prend en charge la gestion de contenu évolutive, l'extraction de connaissances et le traitement intelligent des documents au sein des systèmes d'entreprise.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Recherche de texte structuré**  
+
+&nbsp; Permet une recherche précise à travers les titres, les paragraphes et les tableaux.
+
+
+
+* **Découverte basée sur les métadonnées**  
+
+&nbsp; Utilise les propriétés du document pour améliorer la précision de la recherche.
+
+
+
+* **Génération de base de connaissances**  
+
+&nbsp; Convertit le contenu DOCX en actifs de connaissances consultables.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Mises à jour continues de l'index DOCX**  
+
+&nbsp; Les services Python surveillent et indexent les nouveaux fichiers DOCX ou ceux mis à jour.
+
+
+
+* **Classification automatique du contenu**  
+
+&nbsp; Les documents DOCX sont catégorisés de manière programmable en fonction du contenu.
+
+
+
+* **Intégration des flux de travail DOCX**  
+
+&nbsp; Les résultats de la recherche alimentent dynamiquement les tableaux de bord et les systèmes de contenu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

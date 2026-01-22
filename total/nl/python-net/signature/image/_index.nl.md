@@ -71,7 +71,75 @@ Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het ondertekenen van generieke afbeeldingsinputs met Python-API's biedt een uniforme aanpak om goedkeuringsmarkeringen en validatiemetadata toe te passen op gemengde afbeeldingsbronnen. Dit is handig wanneer pipelines afbeeldingen verwerken vanuit meerdere tools en consistente governance nodig hebben.
+
+
+
+Bij geautomatiseerd gebruik dwingt het ondertekenen van afbeeldingen een gestandaardiseerde "goedgekeurd artefact" -status af, zodat downstreamsystemen alleen assets consumeren die voldoen aan kwaliteits-, beleids- of nalevingsvereisten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Standaardisatie van Assets van Verschillende Bronnen**  
+
+&nbsp; Pas een consistente handtekening-overlay toe op afbeeldingen die afkomstig zijn van verschillende tools en teams.
+
+
+
+* **Validatie van Bewijsafbeeldingen**  
+
+&nbsp; Onderteken afbeeldingen die als bewijs worden gebruikt om de identiteit van de reviewer en de goedkeuringsstatus te bevestigen.
+
+
+
+* **Controle over de Distributie van Goedgekeurde Assets**  
+
+&nbsp; Markeer afbeeldingen als goedgekeurd voordat ze worden opgenomen in distributiepakketten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Goedkeuringsmarkering bij Inname**  
+
+&nbsp; Onderteken afbeeldingen tijdens inname nadat validatieregels en metagegevenscontroles zijn voltooid.
+
+
+
+* **Handhavingspunt voor Beleid Controle**  
+
+&nbsp; Onderteken automatisch alleen die afbeeldingen die voldoen aan geautomatiseerde beleids- en veiligheidsregels.
+
+
+
+* **Finalisering van Repository-synchronisatie**  
+
+&nbsp; Onderteken afbeeldingen voordat ze worden gesynchroniseerd met gedeelde repositories om ervoor te zorgen dat alleen geverifieerde versies zich verspreiden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

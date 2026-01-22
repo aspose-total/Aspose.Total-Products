@@ -76,7 +76,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Word format kategorisi, taslak, raporlama ve işbirliği iş akışlarında kullanılan metin belgelerini temsil eder. Word dosyalarını korumak, belge gizliliğini, bütünlüğünü ve yaşam döngüleri boyunca kontrol edilen erişimi sağlar.
+
+
+
+Python API'leri, Word belge korumasının otomatikleştirilmesine izin verir, böylece güvenlik, modern içerik ve belge yönetim sistemlerinin yerleşik bir yeteneği haline gelir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Hassas İçerik Koruma**  
+
+&nbsp; Gizli bilgiler içeren Word belgelerini güvence altına alın.
+
+
+
+* **Düzenleme Kısıtlama Uygulaması**  
+
+&nbsp; Kimlerin belgeleri değiştirebileceğini veya inceleyebileceğini kontrol edin.
+
+
+
+* **Belge Yaşam Döngüsü Güvenliği**  
+
+&nbsp; Oluşturma ve onay aşamalarında dosyaları koruyun.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik Word Dosyası Koruma**  
+
+&nbsp; Belge oluşturma sırasında güvenlik kurallarını otomatik olarak uygulayın.
+
+
+
+* **Rol Bazlı Belge Kontrolleri**  
+
+&nbsp; Kullanıcı rollerine dayalı olarak Word dosyalarını dinamik olarak koruyun.
+
+
+
+* **Uçtan Uca Güvenli İş Akışları**  
+
+&nbsp; Word korumasını tamamen otomatikleştirilmiş belge akışlarına entegre edin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,75 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Redagowanie dokumentów za pomocą interfejsów API Pythona dla plików Word umożliwia bezpieczne przetwarzanie w różnych formatach przetwarzania tekstu w ramach jednolitego podejścia. Zapewnia to spójną ochronę danych niezależnie od pochodzenia dokumentu.
+
+
+
+Automatyzując redagowanie dokumentów Word, organizacje mogą standaryzować kontrole prywatności, poprawiając jednocześnie efektywność i skalowalność.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+
+
+* **Zarządzanie dokumentami przedsiębiorstwa**  
+
+&nbsp; Stosuj spójne zasady redagowania we wszystkich dokumentach Word.
+
+
+
+* **Kontrola treści w różnych formatach**  
+
+&nbsp; Zarządzaj danymi wrażliwymi w środowiskach z mieszanych plików Word.
+
+
+
+* **Bezpieczne udostępnianie wiedzy**  
+
+&nbsp; Dystrybuuj zredagowane dokumenty bezpiecznie wewnątrz i na zewnątrz organizacji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Usługi redagowania zintegrowane**  
+
+&nbsp; Udostępnij redagowanie jako wielokrotnie użyteczną usługę opartą na Pythonie.
+
+
+
+* **Przetwarzanie zdarzeniowe**  
+
+&nbsp; Wywołuj redagowanie, gdy pliki Word są przesyłane lub modyfikowane.
+
+
+
+* **Przepływy pracy gotowe do audytu**  
+
+&nbsp; Rejestruj i śledź zautomatyzowane akcje redagowania w celu zapewnienia zgodności.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

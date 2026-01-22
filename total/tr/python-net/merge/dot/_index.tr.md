@@ -78,7 +78,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri kullanarak Word şablon formatlarını birleştirmek, ekipler ve sistemler arasında tutarlı belge oluşturmayı sağlar. Şablon tabanlı birleştirme, esnek içerik kompozisyonuna izin verirken standartlaştırılmış düzenleri garanti altına alır.
+
+
+
+Bu yaklaşım, yapı ve markalamanın çıktılar arasında tutarlı kalması gereken otomatik belge fabrikaları için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Şablon Tabanlı Belge Birleştirme (DOT)**  
+
+&nbsp; Tutarlı biçimlendirmeyi zorlamak için DOT tabanlı belgeleri birleştirin.
+
+
+
+* **Standartlaştırılmış Çıktı Oluşturma (DOT)**  
+
+&nbsp; Şablon odaklı dosyaları birleştirerek birleşik belgeler oluşturun.
+
+
+
+* **Yeniden Kullanılabilir Düzen Yönetimi (DOT)**  
+
+&nbsp; Düzen birliğini korumak için DOT belgelerini bir araya getirin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik Şablon Uygulaması (DOT)**  
+
+&nbsp; DOT dosyaları belge oluşturulurken otomatik olarak birleştirilir.
+
+
+
+* **Toplu Şablon İşleme (DOT)**  
+
+&nbsp; Büyük miktarda DOT belge, zamanlanmış işlerde birleştirilir.
+
+
+
+* **Sistem Tarafından Zorunlu Düzen Kontrolü (DOT)**  
+
+&nbsp; Otomatik sistemler, biçim tutarlılığını garanti etmek için DOT dosyalarını birleştirir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

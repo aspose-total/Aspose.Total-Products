@@ -89,7 +89,73 @@ PPS ビューア アプリまたはユーティリティを開発する必要が
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用してPPS、PPSM、およびPPSXファイルを表示すると、直接再生用に設計されたスライドショー指向のプレゼンテーションを検査できます。
+
+これにより、プレゼンテーションソフトウェアを必要とせずに自動化されたレビューがサポートされます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **スライドショーコンテンツのレビュー**  
+
+&nbsp; 即座の表示を意図したプレゼンテーションを表示します。
+
+
+
+* **再生構造の検査**  
+
+&nbsp; スライドの流れやトランジションを検査します。
+
+
+
+* **配布の検証**  
+
+&nbsp; 共有する前にスライドショーファイルが正しいことを確認します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **自動化されたスライドショーチェック**  
+
+&nbsp; Pythonワークフローがスライドショーファイルをレビューします。
+
+
+
+* **配布前のプレビュー**  
+
+&nbsp; スライドショーが動的に表示されます。
+
+
+
+* **品質保証パイプライン**  
+
+&nbsp; 表示により配信の準備が整っていることが確認されます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

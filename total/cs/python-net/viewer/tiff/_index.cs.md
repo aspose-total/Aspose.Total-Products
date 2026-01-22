@@ -82,7 +82,73 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Zobrazení dokumentu TIFF s Python API podporuje formáty obrázků s vysokým rozlišením a více stránkami, které jsou běžně používané při skenování a archivaci.
+
+To umožňuje přesnou kontrolu detailních vizuálních dokumentů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Hodnocení naskenovaných dokumentů**  
+
+&nbsp; Zobrazení naskenovaných stránek ve vysoké kvalitě.
+
+
+
+* **Kontrola archivačních obrázků**  
+
+&nbsp; Kontrola obrázkových souborů s archivační kvalitou.
+
+
+
+* **Manipulace s obrázky s více stránkami**  
+
+&nbsp; Navigace v komplexních dokumentech založených na obrazech.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizované ověřování skenování**  
+
+&nbsp; Pythonové pracovní postupy zobrazují naskenované soubory pro kontrolu kvality.
+
+
+
+* **Kontroly integrity archivu**  
+
+&nbsp; Uložené obrázky jsou pravidelně zobrazovány pro ověření.
+
+
+
+* **Digitální procesy dokumentace**  
+
+&nbsp; Automatizovaní zobrazovače podporují procesy digitalizace.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

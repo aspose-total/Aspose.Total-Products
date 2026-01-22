@@ -104,7 +104,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API解析**DOCX文档**可可靠地访问现代文字处理文件，包括标题、段落、表格和元数据。这使得DOCX成为结构化文档提取的高度实用格式。
+
+
+
+DOCX解析自然适用于可扩展的自动化系统，实现跨分布式工作流的高效内容摄取、分析和转换。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **结构化内容提取**  
+
+&nbsp; 以可预测的结构检索文本、标题和表格。
+
+
+
+* **文档智能系统**  
+
+&nbsp; 将干净数据提供给NLP和分类管道。
+
+
+
+* **知识库生成**  
+
+&nbsp; 将DOCX文件转换为文档系统的结构化来源。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **持续内容摄取**  
+
+&nbsp; 自动处理新的DOCX上传到下游系统。
+
+
+
+* **基于模式的验证**  
+
+&nbsp; 确保提取的内容符合预定义的结构规则。
+
+
+
+* **自动发布管道**  
+
+&nbsp; 将DOCX内容转换为适用于Web或数据库的格式。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

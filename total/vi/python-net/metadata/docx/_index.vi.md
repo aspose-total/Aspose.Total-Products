@@ -98,7 +98,93 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Words for Python via 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Trích xuất siêu dữ liệu tài liệu cho các tệp **DOCX** thông qua Python APIs cho phép truy cập cấu trúc vào các thuộc tính tài liệu Word hiện đại - hỗ trợ việc lập chỉ mục, kiểm toán và các hoạt động nội dung mà không cần xem xét thủ công. Điều này cải thiện khả năng nhìn thấy chi tiết vòng đời tài liệu như tác giả, chỉnh sửa và các bộ mô tả nhúng.
+
+
+
+Trong tự động hóa, siêu dữ liệu DOCX trở thành một lớp kiểm soát hiệu quả cho việc định tuyến và xác nhận: các đường ống có thể bắt buộc tuân thủ các tiêu chuẩn, điền vào các danh mục và tích hợp với công cụ tìm kiếm, phân tích và quản lý một cách quy mô.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Bổ sung Chỉ Mục Tìm Kiếm**
+
+  Chuyển đổi siêu dữ liệu DOCX thành các trường chuẩn hóa để tăng cường việc lọc, xếp hạng và khám phá.
+
+
+
+* **Sở Hữu và Phân Công Xem Xét**
+
+  Sử dụng siêu dữ liệu tác giả và chỉnh sửa cuối cùng để tự động phân công người xem xét và duy trì trách nhiệm.
+
+
+
+* **Giám Sát Vệ Sinh Phiên Bản**
+
+  Phát hiện tài liệu lỗi thời bằng cách so sánh thời gian chỉnh sửa cuối cùng với ngưỡng chính sách.
+
+
+
+* **Xác Thực Đầy Đủ Siêu Dữ Liệu**
+
+  Đảm bảo các thuộc tính cần thiết (tiêu đề, chủ đề, từ khóa) tồn tại trước khi xuất bản hoặc phân phối.
+
+
+
+* **Báo Cáo ở Cấp Độ Hồ Sơ**
+
+  Tổng hợp siêu dữ liệu DOCX trên các kho lưu trữ để tạo ra cái nhìn về phạm vi, tuổi đời và hoạt động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Xác Thực Siêu Dữ Liệu Lúc Tải Lên**
+
+  Khi nhập, từ chối hoặc đánh dấu các tệp DOCX thiếu các thuộc tính bắt buộc và thông báo cho người tải lên một cách tự động.
+
+
+
+* **Tự Động Gắn Thẻ và Phân Loại**
+
+  Sử dụng từ khóa DOCX và các trường tùy chỉnh để áp dụng các thẻ và quy tắc định tuyến thư mục một cách nhất quán theo cách lập trình.
+
+
+
+* **Quét Tuân Thủ Liên Tục**
+
+  Chạy các công việc theo lịch trình để xác định các tệp DOCX vi phạm thời gian bảo tồn hoặc thiếu chi tiết sở hữu.
+
+
+
+* **Đường ống Xuất Bản Dựa Trên Siêu Dữ Liệu**
+
+  Trích xuất siêu dữ liệu DOCX để điền vào tiêu đề trang, tóm tắt và mục lục cho các hệ thống xuất bản tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -104,7 +104,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leriyle **RTF belgelerini** ayrıştırmak, temel biçimlendirmeyi koruyan hafif ve geniş desteklenen bir metin formatından veri çıkarmayı sağlar. RTF sıklıkla etkileşimlilik ve eski veri alışverişi için kullanılır.
+
+
+
+Otomasyon dostu RTF ayrıştırma, minimum yapısal fazlalıkla hızlı metin çıkarma desteği sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Hafif Belgelerden Metin Çıkarma**  
+
+&nbsp; Basit biçimlendirilmiş belgelerden metin alır.
+
+
+
+* **Eski Sistemler Arası Uyum**  
+
+&nbsp; Daha eski veya minimal düzenleyiciler tarafından oluşturulan dosyaları işler.
+
+
+
+* **Metin Normalleştirme Görevleri**  
+
+&nbsp; RTF'yi temiz, düz metin temsillerine dönüştürür.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Yüksek Hacimli Metin İşleme**  
+
+&nbsp; Büyük RTF veri kümelerinden veri çıkarmayı otomatikleştirir.
+
+
+
+* **Biçim Basitleştirme Boruları**  
+
+&nbsp; Temel içeriği korurken biçimlendirmeyi kaldırır.
+
+
+
+* **Sistemden Sisteme Veri Alışverişi**  
+
+&nbsp; RTF tabanlı girdilerin programatik olarak alınmasını sağlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

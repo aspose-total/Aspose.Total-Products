@@ -98,7 +98,93 @@ Para obter mais detalhes, consulte [Documentação do produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Extração de metadados de documentos para arquivos **ODT** via APIs Python fornece acesso programático às propriedades do documento de texto — permitindo auditoria, classificação e enriquecimento de pesquisa sem depender de inspeção manual. Isso é importante para governança de documentos, gestão do conhecimento e rastreamento do ciclo de vida.
+
+
+
+Em sistemas de automação, os metadados ODT podem ser usados para impor padrões, encaminhar aprovações e sincronizar catálogos — suportando processamento escalável em grandes repositórios com regras consistentes.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Organização da Base de Conhecimento**
+
+  Use metadados ODT para categorizar e indexar documentos internos para recuperação mais rápida.
+
+
+
+* **Controles de Propriedade e Responsabilidade**
+
+  Extraia campos de autor e editor para atribuir revisores e manter responsabilidade.
+
+
+
+* **Decisões de Retenção e Arquivamento**
+
+  Use carimbos de data/hora para determinar se os arquivos ODT devem ser arquivados, retidos ou atualizados.
+
+
+
+* **Normalização de Metadados para Análises**
+
+  Converta propriedades ODT em campos consistentes para relatórios e análises de tendências.
+
+
+
+* **Validação Pré-Publicação**
+
+  Valide campos descritivos necessários antes de converter documentos ODT em formatos publicados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Classificação de Admissão Baseada em Regras**
+
+  Classifique automaticamente documentos ODT em fluxos de trabalho usando a presença de metadados, propriedade e carimbos de data/hora.
+
+
+
+* **Fluxo de Trabalho de Sincronização de Catálogo**
+
+  Extraia metadados ODT diariamente e sincronize-os com um registro centralizado usado por sistemas de busca internos.
+
+
+
+* **Revisões de Documentação Automatizadas**
+
+  Acione tarefas de revisão para arquivos ODT quando os metadados indicam que não foram atualizados dentro das janelas de política.
+
+
+
+* **Mapeamento de Metadados para Política de Acesso**
+
+  Aplique regras de acesso dinamicamente quando os metadados ODT indicam categorias de conteúdo restrito.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'lerini kullanarak modern Excel çalışma kitaplarını birleştirmek, yapılandırılmış veri kümelerini, raporları ve modelleri birleştirmenin standart bir yaklaşımıdır. XLSX, modern sistemlerde en yaygın kullanılan elektronik tablo formatıdır.
+
+
+
+Bu yetenek, veri platformlarıyla sorunsuz bir şekilde entegre olur ve ölçekte otomatik elektronik tablo oluşturma ve birleştirme imkanı sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Çoklu Sayfalı Rapor Oluşturma (XLSX)**  
+
+&nbsp; XLSX dosyalarını kapsamlı bir rapor çalışma kitabına birleştirme.
+
+
+
+* **Veri Kaynağı Birleştirme (XLSX)**  
+
+&nbsp; Birden fazla sistemden XLSX veri kümelerini birleştirme.
+
+
+
+* **İşbirlikçi Veri Derleme (XLSX)**  
+
+&nbsp; Birden fazla paydaş tarafından sağlanan XLSX dosyalarını birleştirme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Dinamik Elektronik Tablo Oluşturma (XLSX)**  
+
+&nbsp; Sistemler, çalışma zamanı veri koşullarına dayalı olarak XLSX dosyalarını birleştirir.
+
+
+
+* **ETL Boru Hattı Entegrasyonu (XLSX)**  
+
+&nbsp; XLSX birleştirme, veri alımı boru hatları içinde otomatikleştirilmiştir.
+
+
+
+* **Ölçeklenebilir Raporlama Otomasyonu (XLSX)**  
+
+&nbsp; Yüksek hacimli XLSX raporlar programatik olarak birleştirilir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,75 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+I file ODP vengono utilizzati per presentazioni standard aperte che contengono più diapositive e componenti visivi. La suddivisione dei file ODP consente l'accesso e il riutilizzo a livello di diapositiva.
+
+
+
+L'automazione in Python supporta la suddivisione efficiente dei file ODP per un'elaborazione delle presentazioni scalabile e il riutilizzo dei contenuti.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* **Riutilizzo a Livello di Diapositiva**  
+
+  &nbsp; Le singole diapositive possono essere estratte e riutilizzate tra le presentazioni.
+
+
+
+* **Analisi dei Contenuti della Presentazione**  
+
+  &nbsp; Analizzare le diapositive in modo indipendente per struttura o metadati.
+
+
+
+* **Modifica Collaborativa**  
+
+  &nbsp; I team lavorano su set di diapositive isolati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Estrazione Automatica delle Diapositive**  
+
+  &nbsp; Gli script Python dividono le diapositive in modo programmato.
+
+
+
+* **Assemblaggio Dinamico della Presentazione**  
+
+  &nbsp; Le diapositive vengono ricomposte in base alle regole di runtime.
+
+
+
+* **Sistemi di Archiviazione delle Presentazioni**  
+
+  &nbsp; Le diapositive vengono indicizzate singolarmente per il recupero.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

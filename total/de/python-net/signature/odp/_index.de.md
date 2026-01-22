@@ -73,7 +73,75 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Das Signieren von ODP-Präsentationsdateien mit Python-APIs hilft Teams, die Freigabequalität und Eigentümerschaft für in offenen Formaten erstellte Folienstapel zu kontrollieren. Dies stellt sicher, dass die Stapel nur nach formeller Genehmigung verteilt werden.
+
+
+
+Wenn automatisiert, wird das ODP-Signieren zu einem wiederholbaren Governance-Schritt innerhalb von Kollaborations-Workflows, der die Versionskontrolle verbessert und verhindert, dass nicht überprüfte Stapel im Umlauf sind.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Freigabezustimmung für Schulungsstapel**  
+
+&nbsp; Signieren Sie ODP-Schulungsstapel, um die Einsatzbereitschaft für den internen Rollout zu bestätigen.
+
+
+
+* **Bestätigung der Stakeholder-Überprüfung**  
+
+&nbsp; Setzen Sie ein Signaturzeichen auf ODP-Stapel, nachdem die Stakeholder-Überprüfung abgeschlossen ist.
+
+
+
+* **Zertifizierung von Compliance-Präsentationen**  
+
+&nbsp; Signieren Sie Richtlinien- oder Compliance-Stapel, um zu dokumentieren, wer die endgültige Version genehmigt hat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Auslösen der Genehmigungs-Workflowsignierung**  
+
+&nbsp; Signieren Sie ODP-Dateien automatisch, wenn der Genehmigungszustand im System erfasst wird.
+
+
+
+* **Integritätsschranke für Stapel vor dem Teilen**  
+
+&nbsp; Signieren Sie Stapel erst, nachdem überprüft wurde, dass erforderliche Folien und Metadaten vorhanden sind.
+
+
+
+* **Batch-Signierung für Freigabekreisläufe**  
+
+&nbsp; Signieren Sie programmgesteuert mehrere ODP-Stapel als Teil geplanter Freigabekreisläufe.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

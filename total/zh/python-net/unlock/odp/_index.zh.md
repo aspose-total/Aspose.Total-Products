@@ -71,7 +71,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODP文件通常在开放式演示生态系统中使用，解锁它们可以访问受保护的幻灯片、注释和布局。这对于演示资产的重复使用、本地化和长期保存至关重要。
+
+
+
+Python API使ODP文件能够自动解锁，使其能够集成到可扩展的演示工作流程和转换管道中。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **幻灯片内容重用**  
+
+  &nbsp; 可以提取受保护的幻灯片，以便在不同演示中重复使用。
+
+
+
+* **本地化支持**  
+
+  &nbsp; 支持访问锁定文本，用于自动化翻译工作流程。
+
+
+
+* **演示文稿归档**  
+
+  &nbsp; 允许在长期存储之前安全检查受保护文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化幻灯片翻译**  
+
+  &nbsp; 解锁可用于多语言自动化流水线的文本提取。
+
+
+
+* **演示文稿索引**  
+
+  &nbsp; 解锁受保护内容，并为企业搜索系统建立索引。
+
+
+
+* **批量演示转换**  
+
+  &nbsp; ODP文件被解锁并以编程方式转换为其他格式。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

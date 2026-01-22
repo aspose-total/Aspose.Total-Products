@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Объединение форматов шаблонов Word с помощью Python API обеспечивает последовательное создание документов в командах и системах. Объединение на основе шаблонов гарантирует стандартизированные макеты, сохраняя при этом гибкую композицию контента.
+
+
+
+Этот подход идеален для автоматизированных фабрик документов, где структура и брендинг должны оставаться постоянными для всех результатов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Сборка документов на основе шаблонов (DOT)**  
+
+&nbsp; Объединение документов на основе DOT для обеспечения согласованного форматирования.
+
+
+
+* **Создание стандартизированных результатов (DOT)**  
+
+&nbsp; Объединение файлов, управляемых шаблонами, в единые документы.
+
+
+
+* **Управление повторно используемым макетом (DOT)**  
+
+&nbsp; Агрегирование документов DOT для поддержания единообразия макета.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированное применение шаблонов (DOT)**  
+
+&nbsp; Файлы DOT объединяются автоматически во время создания документа.
+
+
+
+* **Пакетная обработка шаблонов (DOT)**  
+
+&nbsp; Большие объемы документов DOT объединяются в запланированных задачах.
+
+
+
+* **Контроль макета, обеспечиваемый системой (DOT)**  
+
+&nbsp; Автоматизированные системы объединяют файлы DOT для гарантии согласованности формата.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

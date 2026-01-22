@@ -79,7 +79,75 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT è un formato di documento aperto progettato per documenti di testo strutturato. La suddivisione dei file ODT consente il trattamento a livello di sezione e la gestione dei contenuti strutturati.
+
+
+
+Utilizzando le API di Python, la suddivisione di ODT diventa scalabile e adatta per i flussi di lavoro automatizzati dei documenti.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* **Estrazione di Contenuti Strutturati**  
+
+&nbsp; Estrarre capitoli o sezioni indipendentemente.
+
+
+
+* **Archiviazione in Formato Aperto**  
+
+&nbsp; Conservare e gestire i contenuti a livello granulare.
+
+
+
+* **Elaborazione Collaborativa dei Documenti**  
+
+&nbsp; Abilitare flussi di lavoro paralleli sulle sezioni del documento.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Analisi delle Sezioni Basata su XML**  
+
+&nbsp; Python identifica i marcatori strutturali per la suddivisione.
+
+
+
+* **Classificazione Automatica dei Contenuti**  
+
+&nbsp; Le sezioni estratte vengono categorizzate in modo programmato.
+
+
+
+* **Instradamento dei Documenti Orientato al Flusso di Lavoro**  
+
+&nbsp; Le sezioni vengono inviate automaticamente a sistemi diversi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

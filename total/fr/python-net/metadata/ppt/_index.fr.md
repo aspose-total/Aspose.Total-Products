@@ -75,7 +75,84 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'extraction des métadonnées de documents pour les fichiers **PPT** via des API Python permet de gérer les actifs de présentation hérités en lisant des propriétés telles que l'auteur, les horodatages et les champs descriptifs. Cela soutient la gouvernance et la découvrabilité pour les organisations qui continuent de maintenir d'anciennes bibliothèques de diapositives.
+
+
+
+Dans les flux de travail automatisés, les métadonnées PPT peuvent alimenter la classification, l'indexation et les contrôles du cycle de vie, permettant ainsi d'organiser, d'auditer et de migrer de grandes collections de présentations héritées avec un effort manuel minimal.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Audit de la bibliothèque de diapositives héritées**
+  Extraire les métadonnées PPT pour comprendre l'ancienneté, la propriété et les lacunes en matière de maintenance dans les decks archivés.
+
+
+
+* **Évaluation de la préparation à la migration**
+  Utiliser les métadonnées pour prioriser les decks PPT à convertir ou à actualiser en premier.
+
+
+
+* **Acheminement de la maintenance basée sur la propriété**
+  Identifier les responsables à partir des champs auteur/éditeur pour acheminer efficacement les demandes de mise à jour.
+
+
+
+* **Analyse du portefeuille de contenu**
+  Agréger les métadonnées PPT pour mesurer la couverture de la bibliothèque, son obsolescence et les risques opérationnels.
+
+
+
+* **Détection des actifs en double**
+  Utiliser les motifs des métadonnées pour détecter les doublons probables et réduire l'encombrement de la bibliothèque.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Pipeline d'ingestion de decks hérités**
+  Ingestion automatique des fichiers PPT, extraction des métadonnées et attribution à un système d'inventaire avec des champs normalisés.
+
+
+
+* **Automatisation de la file d'attente de conversion**
+  Ajouter des decks PPT aux files d'attente de conversion en fonction de l'ancienneté des métadonnées et des règles de classification d'utilisation.
+
+
+
+* **Workflow de notification des decks obsolètes**
+  Déclencher des alertes lorsque les métadonnées PPT indiquent de longues périodes sans mises à jour ou des champs de propriété manquants.
+
+
+
+* **Tâches automatisées de nettoyage de la bibliothèque**
+  Scanner périodiquement les référentiels PPT et mettre en quarantaine les actifs identifiés comme des doublons ou non gérés en fonction des métadonnées.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

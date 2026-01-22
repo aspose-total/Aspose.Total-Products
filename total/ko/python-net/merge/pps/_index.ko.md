@@ -79,7 +79,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+파이썬 API를 사용하여 PowerPoint 슬라이드 쇼 형식을 병합하면 통합된 재생 가능한 프레젠테이션이 가능해집니다. 이러한 형식은 편집보다는 직접 프레젠테이션을 위해 설계되었습니다.
+
+
+
+자동화를 통해 팀과 이벤트 간 일관된 슬라이드 쇼 전달이 보장됩니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **슬라이드 쇼 시퀀스 조립 (PPS)**  
+
+&nbsp; PPS 파일을 하나의 프레젠테이션 흐름으로 병합합니다.
+
+
+
+* **이벤트 프레젠테이션 편성 (PPS)**  
+
+&nbsp; 회의나 모임을 위해 슬라이드 쇼 파일을 결합합니다.
+
+
+
+* **프레젠테이션 재생 패키징 (PPS)**  
+
+&nbsp; PPS 파일을 하나의 실행 가능한 슬라이드 쇼로 집계합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동화된 이벤트 덱 준비 (PPS)**  
+
+&nbsp; 시스템이 예정된 이벤트 전에 PPS 파일을 병합합니다.
+
+
+
+* **백엔드 슬라이드쇼 생성 (PPS)**  
+
+&nbsp; PPS 병합이 프로그래밍적으로 트리거됩니다.
+
+
+
+* **프레젠테이션 전달 자동화 (PPS)**  
+
+&nbsp; 재생을 위해 슬라이드 쇼가 자동으로 병합됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

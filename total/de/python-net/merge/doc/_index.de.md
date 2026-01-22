@@ -78,7 +78,75 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Das Zusammenführen von Dokumenten mithilfe von Python-APIs ist eine grundlegende Fähigkeit für die moderne Verarbeitung von Inhalten, Berichterstellung und Dokumentenlebenszyklusverwaltung. Es ermöglicht Entwicklern und Systemen, mehrere Dateien zu einer einzigen strukturierten Ausgabe zu kombinieren, wobei das Format, das Layout und der logische Fluss über heterogene Dokumentenquellen hinweg erhalten bleiben.
+
+
+
+Durch die Automatisierung des Dokumentenzusammenführens können Organisationen den manuellen Aufwand reduzieren, Konsistenz sicherstellen und Dokumenten-Workflows direkt in Datenpipelines, Backend-Services und skalierbare Automatisierungssysteme integrieren, die auf Python aufbauen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Konsolidierte Word-Berichte (DOC)**  
+
+&nbsp; Kombinieren Sie Legacy-Word-Dokumente zu einem einzigen Bericht für eine einheitliche Überprüfung und Archivierung.
+
+
+
+* **Stapelverarbeitung von Dokumenten (DOC)**  
+
+&nbsp; Fügen Sie mehrere von verschiedenen Systemen generierte DOC-Dateien zu einem lieferbaren Dokument zusammen.
+
+
+
+* **Historische Inhaltsaggregation (DOC)**  
+
+&nbsp; Verschmelzen Sie archivierte DOC-Dateien, um ältere Inhaltskollektionen zu modernisieren und neu zu nutzen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Geplante Berichtszusammenstellung (DOC)**  
+
+&nbsp; Automatisierte Jobs fügen täglich oder wöchentlich DOC-Dateien zu einem verteilbaren Bericht zusammen.
+
+
+
+* **Workflow-basiertes Dokumentenverknüpfen (DOC)**  
+
+&nbsp; Backend-Workflows fügen DOC-Dateien dynamisch zusammen, wenn Prozessschritte abgeschlossen sind.
+
+
+
+* **Pipeline-gesteuerte Ausgabenerzeugung (DOC)**  
+
+&nbsp; Das Zusammenführen von DOC-Dateien wird programmgesteuert als Teil einer größeren Dokumentenpipeline ausgelöst.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -72,7 +72,75 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Words for Python via 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Tệp DOCX được sử dụng rộng rãi trong các luồng công việc hiện đại, và mở khóa chúng theo cách tự động cho phép truy cập mượt mà vào nội dung được bảo vệ mà không làm gián đoạn sự hợp tác hoặc quản lý. Khả năng này là cần thiết cho việc tái sử dụng tài liệu, xác nhận và phân phối kiểm soát.
+
+
+
+Tự động hóa dựa trên Python cho phép mở khóa DOCX mở rộng trên các hệ thống, tích hợp một cách mượt mà với các công cụ động cơ nội dung, lớp xác nhận và công cụ vòng đời tài liệu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Trích Xuất Nội Dung Kiểm Soát**  
+
+&nbsp; Cho phép đọc an toàn các phần được bảo vệ để phân tích hoặc biến đổi.
+
+
+
+* **Kiểm Tra Chất Lượng Tự Động**  
+
+&nbsp; Hỗ trợ xác nhận tài liệu bị khóa so với các quy tắc định dạng hoặc chính sách.
+
+
+
+* **Tương Thích Luồng Công Việc**  
+
+&nbsp; Cho phép các tệp DOCX được bảo vệ tham gia vào các đường ống tự động mà không cần bước mở khóa thủ công.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Xác Thực Tài Liệu Dựa Trên CI**  
+
+&nbsp; Tệp DOCX được mở tự động trong quá trình kiểm tra tài liệu liên tục.
+
+
+
+* **Các Đường Ống Bổ Sung Dữ Liệu Siêu Dữ Liệu**  
+
+&nbsp; Mở khóa cho phép trích xuất dữ liệu có cấu trúc để gắn thẻ và phân loại.
+
+
+
+* **Hệ Thống Xuất Bản Tự Động**  
+
+&nbsp; Các tệp được bảo vệ được mở khóa đúng lúc để hiển thị và phân phối.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

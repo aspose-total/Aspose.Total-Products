@@ -98,7 +98,93 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'estrazione dei metadati dei documenti per i file **Word** tramite API Python consente di acquisire in modo programmatico le proprietà principali dei documenti di elaborazione testi, come titolo, autore, timestamp e campi personalizzati, supportando la governance, l'arricchimento della ricerca e la gestione del ciclo di vita. Questo è essenziale per operazioni con un elevato numero di documenti in cui l'ispezione manuale non è scalabile.
+
+
+
+Quando collegati a sistemi di automazione, i metadati di Word diventano uno strato affidabile per il routing, la convalida e l'indicizzazione, aiutando i flussi di lavoro moderni a funzionare più velocemente, a far rispettare gli standard in modo coerente e a integrarsi senza problemi con servizi di archiviazione, ricerca e reportistica.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Indicizzazione dei documenti aziendali**
+
+&nbsp; Estrarre i metadati per popolare cataloghi che supportano una ricerca rapida e un'organizzazione coerente.
+
+
+
+* **Convalida della conformità alle normative**
+
+&nbsp; Verificare che i campi dei metadati richiesti esistano prima che i documenti possano entrare in repository controllati o flussi di pubblicazione.
+
+
+
+* **Mappatura della proprietà e dell'accountability**
+
+&nbsp; Utilizzare le proprietà di autore e editore per assegnare responsabilità per la revisione e la manutenzione.
+
+
+
+* **Gestione del ciclo di vita e della conservazione**
+
+&nbsp; Utilizzare i timestamp di creazione e modifica per automatizzare le decisioni di conservazione e archiviazione.
+
+
+
+* **Analisi operativa e insights**
+
+&nbsp; Aggregare i metadati dei documenti di Word per rivelare obsolescenza, lacune nella copertura e blocchi nei processi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Routing dei documenti basato sui metadati**
+
+&nbsp; Instradare automaticamente i file di Word in percorsi di revisione, approvazione o archiviazione in base a soglie di metadati e regole di completezza.
+
+
+
+* **Sincronizzazione automatica del catalogo**
+
+&nbsp; Estrarre i metadati di Word su base programmata e sincronizzarli negli indici interni per una scoperta sempre aggiornata.
+
+
+
+* **Gestione delle eccezioni di governance**
+
+&nbsp; Rilevare la mancanza di proprietà, timestamp sospetti o campi non validi e creare automaticamente compiti di correzione.
+
+
+
+* **Preparazione alla pubblicazione programmata**
+
+&nbsp; Utilizzare i metadati di Word per pre-compilare i campi di pubblicazione (titoli, riassunti, categorie) e far rispettare la coerenza tra le uscite.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

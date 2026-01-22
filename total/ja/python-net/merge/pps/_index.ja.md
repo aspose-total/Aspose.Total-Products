@@ -79,7 +79,69 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PythonのAPIを使用してPowerPointスライドショー形式を統合すると、再生準備が整ったプレゼンテーションが可能になります。これらの形式は編集よりも直接プレゼンテーション用に設計されています。
+
+
+
+自動化により、チームやイベント間で一貫したスライドショーの配信が確保されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+- **スライドショーのシーケンス組み立て（PPS）**  
+  PPSファイルを1つのプレゼンテーションフローにマージします。
+
+
+
+- **イベントプレゼンテーションの編集（PPS）**  
+  会議やミーティング用にスライドショーファイルを組み合わせます。
+
+
+
+- **プレゼンテーション再生パッケージング（PPS）**  
+  PPSファイルを1つの実行可能なスライドショーに集約します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+- **自動化されたイベントデッキの準備（PPS）**  
+  システムが予定されたイベント前にPPSファイルをマージします。
+
+
+
+- **バックエンドスライドショーの生成（PPS）**  
+  PPSのマージはプログラムによってトリガーされます。
+
+
+
+- **プレゼンテーション配信の自動化（PPS）**  
+  スライドショーは再生用に自動的にマージされます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

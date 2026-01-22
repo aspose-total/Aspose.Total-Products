@@ -71,7 +71,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La firma programmata dei file DOC consente ai documenti Word legacy di portare indicatori di approvazione formale senza conversione di formato. Ciò preserva la compatibilità con i sistemi di documenti più vecchi aggiungendo governance.
+
+
+
+L'automazione basata su Python garantisce che la firma dei DOC avvenga in modo coerente, riducendo l'intervento manuale nei flussi di lavoro legacy ricchi di documenti.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* **Approvazione di Contratti Legacy**  
+
+&nbsp; Aggiungi dettagli del firmatario ai contratti DOC utilizzati nei sistemi più vecchi.
+
+
+
+* **Approvazione di Documenti di Politica**  
+
+&nbsp; Contrassegna le politiche DOC come revisionate e approvate.
+
+
+
+* **Convalida di Documenti Basata su Modelli**  
+
+&nbsp; Firma i modelli DOC dopo controlli di completamento.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Firma Attivata dal Completamento dei Campi**  
+
+&nbsp; I file DOC vengono firmati una volta che i campi obbligatori sono compilati.
+
+
+
+* **Integrazione con Flusso di Approvazione**  
+
+&nbsp; La firma è attivata dagli aggiornamenti dello stato di approvazione nel backend.
+
+
+
+* **Certificazione dell'Archivio Legacy**  
+
+&nbsp; I file DOC vengono firmati prima di essere archiviati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

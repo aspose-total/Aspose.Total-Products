@@ -89,7 +89,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+عرض ملفات ODP باستخدام واجهات برمجة التطبيقات في Python يسمح بفحص المستندات التقديمية المفتوحة في تنسيق محايد للمنصة.
+
+هذا يدعم التشغيل المشترك وسير العمل التقديمي التلقائي.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **مراجعة العروض التقديمية المفتوحة**  
+
+&nbsp; عرض الشرائح التي تم إنشاؤها بتنسيقات المستندات المفتوحة.
+
+
+
+* **التحقق من التوافق عبر المنصات**  
+
+&nbsp; ضمان تقديم العروض بشكل متسق.
+
+
+
+* **تفتيش محتوى العروض التقديمية**  
+
+&nbsp; مراجعة نص الشريحة والهيكل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائي" %}}
+
+
+
+* **تدقيقات العروض التقديمية التلقائية**  
+
+&nbsp; تقوم سير العمل في Python بتقديم ملفات ODP للمراجعة.
+
+
+
+* **فحوصات التوافق**  
+
+&nbsp; يتم عرض الشرائح لضمان توافق التنسيق.
+
+
+
+* **خدمات المعاينة**  
+
+&nbsp; يتم عرض العروض بشكل ديناميكي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

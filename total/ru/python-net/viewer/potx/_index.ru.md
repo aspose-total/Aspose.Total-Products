@@ -89,7 +89,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Просмотр файлов POTX с использованием Python API позволяет осматривать современные шаблоны презентаций, используемые в автоматизированном создании слайдов.
+
+Это поддерживает масштабируемые рабочие процессы презентаций, основанные на шаблонах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Осмотр современных шаблонов**  
+
+  Просмотр мастер-слайдов и макетов.
+
+
+
+* **Проверка согласованности бренда**  
+
+  Гарантия соответствия шаблонов стандартам презентаций.
+
+
+
+* **Проверка готовности к автоматизации**  
+
+  Осмотр шаблонов перед использованием.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Процессы развертывания шаблонов**  
+
+  Файлы POTX рендерятся перед внедрением.
+
+
+
+* **Автоматизированные системы презентаций**  
+
+  Просмотр обеспечивает корректную работу шаблонов.
+
+
+
+* **Рабочие процессы по обеспечению качества**  
+
+  Шаблоны проверяются программно.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

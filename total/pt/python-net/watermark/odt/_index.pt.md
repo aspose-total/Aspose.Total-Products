@@ -79,7 +79,85 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/wor
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Adicionar marcas de propriedade e confidencialidade a documentos **ODT** com APIs Python ajuda a proteger arquivos de texto de documento aberto, mantendo o conteúdo acessível em ecossistemas abertos.
+
+A automação permite regras de marca d'água consistentes em bibliotecas ODT, oferecendo suporte à governança de documentos escalável para equipes que utilizam formatos abertos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Etiquetagem de Política de Formato Aberto**  
+
+&nbsp; Carimbar documentos ODT com "INTERNO" ou "CONFIDENCIAL" para reduzir encaminhamentos incorretos.
+
+
+
+* **Controle de Rascunho para Escrita Colaborativa**  
+
+&nbsp; Aplicar sobreposições de "RASCUNHO" durante ciclos de edição iterativos.
+
+
+
+* **Avisos de Distribuição para Documentos Compartilhados**  
+
+&nbsp; Adicionar restrições de reutilização a documentos compartilhados com contratados ou parceiros.
+
+
+
+* **Preservação de Identidade de Arquivo**  
+
+&nbsp; Marcar arquivos ODT exportados para que a propriedade seja visível mesmo após a cópia entre sistemas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Gerador de Documentos + Etapa de Marcação**  
+
+&nbsp; Marcar automaticamente arquivos ODT produzidos a partir de modelos ou dados estruturados.
+
+
+
+* **Aplicação de Política de Repositório**  
+
+&nbsp; Aplicar marcas d'água quando os ODTs são carregados em pastas regulamentadas.
+
+
+
+* **Troca Automatizada de Marca d'água de Versão**  
+
+&nbsp; Alterar o texto da marca d'água com base no estado da versão (rascunho, revisão, final) de forma programática.
+
+
+
+* **Pipelines de Exportação de Conformidade**  
+
+&nbsp; Carimbar exportações ODT usadas em auditorias para garantir etiquetagem consistente em envios.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

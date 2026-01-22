@@ -89,7 +89,73 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La visualización de POTM con Python APIs permite inspeccionar plantillas de presentación habilitadas para macros sin ejecutar los macros.
+
+Esto respalda la validación segura de estructuras de presentación reutilizables.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+
+
+* **Revisión de Plantillas Habilitadas para Macros**  
+
+&nbsp; Ver plantillas de presentación de forma segura.
+
+
+
+* **Validación de Diseño de Diapositivas**  
+
+&nbsp; Inspeccionar estructuras de diapositivas predefinidas.
+
+
+
+* **Flujos de Aprobación de Plantillas**  
+
+&nbsp; Revisar plantillas antes de su implementación.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+
+
+* **Admisión Segura de Plantillas**  
+
+&nbsp; Los flujos de trabajo de Python renderizan archivos POTM de forma segura.
+
+
+
+* **Auditorías Automatizadas de Plantillas**  
+
+&nbsp; Las plantillas se revisan para garantizar consistencia.
+
+
+
+* **Tuberías de Generación de Presentaciones**  
+
+&nbsp; La visualización garantiza la preparación para la automatización.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

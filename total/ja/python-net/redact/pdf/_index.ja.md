@@ -75,7 +75,75 @@ PDF 編集アプリまたはユーティリティを開発する必要があり�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用した文書の編集は、固定レイアウトの文書から機密情報を永久に削除するために不可欠です。これにより、編集されたデータが回復されたり公開されたりすることが防がれます。
+
+
+
+自動化により、信頼性の高い、繰り返し可能なPDFの大規模な編集が可能となり、高容量のコンプライアンスおよび開示ワークフローに適しています。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **法的開示の準備**  
+
+&nbsp; 法廷や規制当局への提出前にPDFから機密情報を削除します。
+
+
+
+* **公開文書のリリース**  
+
+&nbsp; 公開前にレポートや記録を浄化します。
+
+
+
+* **セキュアなクライアント納品物**  
+
+&nbsp; 共有されたPDFから機密情報が不可逆的に削除されることを保証します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **コンテンツを認識した編集**  
+
+&nbsp; 自動的に機密テキストや領域を検出して削除します。
+
+
+
+* **高容量PDFパイプライン**  
+
+&nbsp; 大量のPDFバッチをプログラムで処理および編集します。
+
+
+
+* **公開前の保護措置**  
+
+&nbsp; 文書が公開または配布される前に編集のチェックを強制します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

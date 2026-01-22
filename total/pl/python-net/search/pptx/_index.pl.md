@@ -76,7 +76,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Wyszukiwanie plików **PPTX** za pomocą interfejsów API w języku Python zapewnia niezawodny dostęp do nowoczesnych dokumentów prezentacyjnych zawierających strukturalne układy slajdów, bloki tekstu i notatki prelegenta. Pliki PPTX są powszechnie wykorzystywane do raportowania, szkoleń i treści decyzyjnych.
+
+
+
+Zautomatyzowane wyszukiwanie PPTX obsługuje skalowalną analizę slajdów, inteligentne odzyskiwanie i bezproblemową integrację z systemami zarządzania wiedzą i treściami.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Wyszukiwanie Strukturalnych Slajdów**  
+
+&nbsp; Wyszukuje tytuły, punkty wypunktowania i notatki w plikach PPTX.
+
+
+
+* **Analiza Treści Prezentacji**  
+
+&nbsp; Identyfikuje kluczowe tematy i sekcje programistycznie.
+
+
+
+* **Odkrywanie Ponownie Wykorzystywalnych Slajdów**  
+
+&nbsp; Znajduje slajdy odpowiednie do ponownego wykorzystania w raportach lub prezentacjach.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Ciągłe Aktualizacje Indeksu PPTX**  
+
+&nbsp; Usługi w języku Python monitorują i indeksują nowe pliki PPTX.
+
+
+
+* **Automatyczna Klasyfikacja Slajdów**  
+
+&nbsp; Slajdy są kategoryzowane na podstawie wyodrębnionej treści.
+
+
+
+* **Potoki Treści PPTX**  
+
+&nbsp; Wyniki wyszukiwania zasilają pulpity nawigacyjne i procesy automatyzacji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

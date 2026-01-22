@@ -73,7 +73,85 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Znakowanie wodne plików **OBRAZÓW** (ogólne potoki) za pomocą interfejsów Pythona zapewnia spójne podejście do stemplowania własności i zasad użytkowania różnych typów obrazów obsługiwanych przez nowoczesne systemy.
+
+Zjednoczona warstwa automatyzacji upraszcza znakowanie wodne różnorodnych wejść, umożliwiając standaryzację przetwarzania, możliwość audytowania i skalowalne zarządzanie mediami.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Jednolite Branding w Różnych Formatach**  
+
+&nbsp; Zastosuj tę samą politykę znakowania wodnego nawet wtedy, gdy przychodzące obrazy różnią się typem i rozmiarem.
+
+
+
+* **Pochodzenie Zasobów dla Bibliotek Zawartości**  
+
+&nbsp; Oznacz obrazy, aby zachować tożsamość źródła po kopiowaniu, zmianie rozmiaru lub ponownym hostowaniu.
+
+
+
+* **Czułe Oznakowanie Wizualne**  
+
+&nbsp; Dodaj etykiety ryzyka lub klasyfikacji, aby ograniczyć nadużycia wewnętrznych grafik.
+
+
+
+* **Śledzenie Dystrybucji Partnerów**  
+
+&nbsp; Oznacz unikalne identyfikatory w udostępnionych obrazach, aby poprawić możliwość śledzenia.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Jedno Zakończenie API dla Wszystkich Wejść Obrazów**  
+
+&nbsp; Kieruj różne formaty obrazów przez jedną usługę znakowania wodnego dla spójnego zachowania.
+
+
+
+* **Automatyczne Wykrywanie Orientacji i Stref Bezpiecznych**  
+
+&nbsp; Programowo umieszczaj znaki wodne, aby uniknąć twarzy, logotypów i kluczowych obszarów treści.
+
+
+
+* **Przetwarzanie Partii na Podstawie Kolejki**  
+
+&nbsp; Znakuj duże zestawy mediów asynchronicznie, aby zachować responsywność przepływów pracy.
+
+
+
+* **Aktualizacje Polityki Bez Ponownego Edytowania Zasobów**  
+
+&nbsp; Generuj warianty z znakiem wodnym, gdy zmieniają się zasady znakowania, bez konieczności ręcznej pracy projektowej.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

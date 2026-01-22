@@ -78,7 +78,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Cells for Python via .
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Hợp nhất các bảng tính Excel nhị phân bằng cách sử dụng Python APIs cho phép xử lý hiệu quả các bộ dữ liệu lớn với kích thước tệp giảm. Định dạng này được tối ưu hóa cho môi trường yêu cầu hiệu suất xử lý cao xử lý các lượng dữ liệu lớn.
+
+
+
+Tự động hóa quá trình hợp nhất XLSB hỗ trợ quy trình làm việc phân tích có khả năng mở rộng trong khi duy trì tốc độ và hiệu suất.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tổng hợp Dữ liệu Lớn (XLSB)**  
+
+&nbsp; Hợp nhất các bảng tính nhị phân lớn thành một bảng tính phân tích duy nhất.
+
+
+
+* **Báo cáo Yêu Cầu Hiệu Suất (XLSB)**  
+
+&nbsp; Kết hợp các tệp XLSB được tối ưu hóa cho việc tải và xử lý nhanh chóng.
+
+
+
+* **Kho Dữ Liệu Doanh Nghiệp (XLSB)**  
+
+&nbsp; Tổng hợp các bộ dữ liệu XLSB cho phân tích phía dưới.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Xử Lý Tệp Lớn Tự Động (XLSB)**  
+
+&nbsp; Hệ thống hợp nhất các tệp XLSB trong quá trình tiếp nhận dữ liệu lớn.
+
+
+
+* **Tích hợp Đường ống Phân Tích (XLSB)**  
+
+&nbsp; Hợp nhất XLSB diễn ra như một phần của quy trình làm việc phân tích tự động.
+
+
+
+* **Công Việc Đợt Hiệu Quả Về Tài Nguyên (XLSB)**  
+
+&nbsp; Các bảng tính nhị phân được hợp nhất trong các quy trình đợt được lên lịch.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

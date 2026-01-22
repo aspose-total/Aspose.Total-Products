@@ -90,7 +90,73 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Zobrazení souborů DOCX pomocí Python API umožňuje programově renderovat a inspirovat moderní dokumenty ve formátu Word s plnou strukturální jasností.
+
+To umožňuje škálovatelné pracovní postupy s dokumenty napříč obsahově náročnými systémy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Strukturované přezkoumání dokumentu**  
+
+&nbsp; Zobrazování nadpisů, odstavců a formátování konzistentně.
+
+
+
+* **Kontrola kvality obsahu**  
+
+&nbsp; Kontrola dokumentů z hlediska úplnosti a správnosti.
+
+
+
+* **Integrace pracovního postupu**  
+
+&nbsp; Vložení zobrazení dokumentu do automatizovaných systémů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizované dokumentační potrubí**  
+
+&nbsp; Pythonové procesy zobrazují soubory DOCX během vícekrokových pracovních postupů.
+
+
+
+* **Náhledové služby**  
+
+&nbsp; Generování náhledů dokumentů na vyžádání pro webové stránky nebo interní nástroje.
+
+
+
+* **Hromadná ověřování obsahu**  
+
+&nbsp; Velké objemy dokumentů jsou programově přezkoumány.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

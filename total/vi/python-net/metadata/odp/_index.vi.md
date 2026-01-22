@@ -75,7 +75,93 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Python via
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Trích xuất siêu dữ liệu tài liệu cho các tệp **ODP** thông qua Python APIs cho phép hệ thống đọc các thuộc tính trình bày và các thuộc tính nhúng cho bộ trình chiếu - hỗ trợ quản lý, khám phá và quản lý vòng đời mà không cần mở tệp trong giao diện đồ họa. Điều này quan trọng đối với các nhóm quản lý số lượng lớn các bộ trình chiếu đào tạo, bán hàng hoặc vận hành.
+
+
+
+Trong quy trình làm việc tự động, siêu dữ liệu ODP có thể thúc đẩy việc chỉ mục, phân loại và xuất bản kiểm soát - giúp thư viện trình chiếu dễ dàng bảo trì, tìm kiếm và tích hợp vào hệ thống phân phối nội dung.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Chỉ mục Thư Viện Trình Bày**
+
+  Trích xuất siêu dữ liệu ODP để xây dựng danh mục trình chiếu có thể tìm kiếm theo tác giả, chủ đề và thời gian cập nhật.
+
+
+
+* **Kiểm Tra Nội Dung Đào Tạo Hiện Tại**
+
+  Sử dụng dấu thời gian sửa đổi để xác định các bộ trình chiếu lỗi thời cần chu kỳ làm mới.
+
+
+
+* **Phân Loại Theo Phòng Ban**
+
+  Chuẩn hóa các thuộc tính siêu dữ liệu thành các danh mục có cấu trúc để tổ chức và kiểm soát truy cập một cách nhất quán.
+
+
+
+* **Báo Cáo Quản Trị Tài Sản**
+
+  Tổng hợp siêu dữ liệu ODP để đo lường sẵn sàng sử dụng, khoảng trống về phạm vi và quyền sở hữu bảo trì.
+
+
+
+* **Chuẩn Bị Di Chuyển Theo Lô**
+
+  Kiểm tra các thuộc tính ODP trước khi di chuyển đến môi trường lưu trữ hoặc xuất bản mới.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Hấp Thụ Tự Động Bộ Trình Chiếu**
+
+  Khi tải lên, trích xuất siêu dữ liệu ODP và gán bộ trình chiếu vào phần lưu trữ đúng một cách tự động.
+
+
+
+* **Tự Động Cảnh Báo Sự Lỗi Thời**
+
+  Kích hoạt cảnh báo khi các bộ trình chiếu ODP vượt quá ngưỡng cập nhật hoặc thiếu các trường sở hữu có trách nhiệm.
+
+
+
+* **Quy Tắc Xuất Bản Dựa Trên Siêu Dữ Liệu**
+
+  Xuất bản hoặc hạn chế các bộ trình chiếu ODP dựa trên các cờ siêu dữ liệu chỉ ra tính bảo mật hoặc sử dụng chỉ nội bộ.
+
+
+
+* **Công Việc Kiểm Tra Theo Lô và Báo Cáo**
+
+  Chạy các công việc theo lịch trình xuất bản tóm tắt siêu dữ liệu ODP cho quản trị và kiểm toán vận hành.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -90,7 +90,61 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+"""
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri ile DOTM görüntüleme, gömülü mantığı yürütmeksizin makro etkin Word şablonlarının güvenli denetimini sağlar.
+
+Bu, görünürlüğün ve güvenliğin bir arada olması gereken kontrollü ortamlar için hayati önem taşır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Makro Etkin Şablon İncelemesi**  &nbsp; Makroları etkisiz tutarak şablon içeriğini görüntüleyin.
+
+
+
+* **Güvenlik Odaklı İnceleme**  &nbsp; Sistemleri yürütme risklerine maruz bırakmadan yapıyı inceleyin.
+
+
+
+* **Şablon Onay Süreçleri**  &nbsp; Kontrollü dağıtımdan önce şablonları inceleyin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Güvenli Şablon Alımı**  &nbsp; Python görüntüleyicileri, onboarding sırasında DOTM dosyalarını güvenli bir şekilde gösterir.
+
+
+
+* **Yönetişim Otomasyonu**  &nbsp; Şablonlar, otomatik politika kontrollerinin bir parçası olarak incelenir.
+
+
+
+* **Kullanımdan Önce Doğrulama Boruları**  &nbsp; Otomatik önizlemeler, onay akışlarını destekler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+"""
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

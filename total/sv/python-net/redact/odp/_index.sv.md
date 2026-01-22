@@ -77,7 +77,75 @@ För mer information, se [Produktdokumentation](https://docs.aspose.com/slides/p
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Dokumentredigering med Python API:er för ODP-filer möjliggör säker hantering av presentationsinnehåll skapat i öppna dokumentstandarder. Detta är avgörande när man delar slides som kan innehålla känslig eller proprietär information.
+
+
+
+Automatisering säkerställer att ODP-presentationer kan saneras konsekvent, vilket stöder skalbara och upprepbara integritetskontroller över presentationsresurser.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* **Konfidentiell Slide-delnings**  
+
+&nbsp; Ta bort känsliga data från presentationsbilder innan distribution.
+
+
+
+* **Öppen Formatstyrning**  
+
+&nbsp; Tillämpa dataskyddspolicyer på öppna standardpresentationer.
+
+
+
+* **Sanering av Utbildningsmaterial**  
+
+&nbsp; Redigera interna referenser innan publicering av läromedel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* **Regler för Redigering på Slide-nivå**  
+
+&nbsp; Redigera automatiskt innehåll från specifika slides eller layouter.
+
+
+
+* **Byggpipelines för Presentationer**  
+
+&nbsp; Integrera redigering i automatiserade presentationsgenereringsflöden.
+
+
+
+* **Planerade Efterlevnadsskanningar**  
+
+&nbsp; Sanera periodvis lagrade ODP-filer med hjälp av automatiserade jobb.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -100,7 +100,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri kullanarak **PowerPoint sunumlarının** ayrıştırılması, sunum dosyalarından başlıklar, madde işaretleri, düzenler ve sunucu notları da dahil olmak üzere yapılandırılmış içerik çıkarmayı sağlar. Bu, sunum tabanlı bilgilerin analiz, yeniden kullanım ve sistem entegrasyonu için erişilebilir hale gelmesini sağlar.
+
+
+
+Otomatik iş akışlarına bağlandığında, PowerPoint ayrıştırma, statik slayt paketlerini ölçeklenebilir bilgi işleme, raporlama ve içerik operasyonlarını destekleyen dinamik veri kaynaklarına dönüştürür.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Slayt İçeriği Çıkarma**  
+
+&nbsp; PowerPoint slaytlarından yapılandırılmış metin ve düzen öğelerini alır.
+
+
+
+* **Sunum Bilgi İşleme**  
+
+&nbsp; Slayt paketlerini aranabilir ve analiz edilebilir bilgi varlıklarına dönüştürür.
+
+
+
+* **İçeriğin Yeniden Kullanımı ve Dönüşümü**  
+
+&nbsp; Sunum materyalinin belgeler ve platformlar arasında yeniden kullanılmasını sağlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik Sunum Alma**  
+
+&nbsp; Alım borularının bir parçası olarak PowerPoint dosyalarını otomatik olarak işler.
+
+
+
+* **Slayt Düzeyinde İçerik Özetleme**  
+
+&nbsp; Ayrıştırılmış slayt verilerinden özetler ve yapılandırılmış çıktılar oluşturur.
+
+
+
+* **Programatik İçerik Dağıtımı**  
+
+&nbsp; Çıkarılan sunum içeriğini aşağı akış sistemlere ve iş akışlarına besler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

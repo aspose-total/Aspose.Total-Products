@@ -79,7 +79,75 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Les fichiers DOC sont largement utilisés pour stocker du contenu textuel structuré dans les flux de travail documentaires hérités, ce qui les rend importants pour les organisations gérant une documentation historique ou de longue durée. La division des fichiers DOC permet un accès ciblé à des sections spécifiques sans traiter l'ensemble des documents.
+
+
+
+L'utilisation des API Python pour diviser les fichiers DOC améliore l'automatisation en permettant une segmentation basée sur des règles, une extraction de contenu efficace et des pipelines de traitement de documents évolutifs qui s'intègrent aux systèmes modernes.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Modernisation du contenu hérité**  
+
+&nbsp; Extraire des sections des fichiers DOC permet de migrer d'anciens documents vers des formats structurés ou modernes.
+
+
+
+* **Flux de travail de révision basés sur les sections**  
+
+&nbsp; La division permet aux relecteurs de travailler sur des parties isolées de grands documents de manière indépendante.
+
+
+
+* **Réutilisation et réadaptation du contenu**  
+
+&nbsp; Les sections individuelles peuvent être réutilisées dans plusieurs systèmes sans copier-coller manuel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Traitement par lots de fichiers hérités**  
+
+&nbsp; L'automatisation divise des milliers de fichiers DOC en segments structurés pour les systèmes en aval.
+
+
+
+* **Extraction de sections basée sur des règles**  
+
+&nbsp; La logique Python identifie les en-têtes et divise le contenu automatiquement en fonction de motifs.
+
+
+
+* **Pipelines d'indexation d'archives**  
+
+&nbsp; Les sections extraites sont indexées de manière programmable pour une recherche et une récupération plus rapides.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

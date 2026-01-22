@@ -78,7 +78,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Slučování formátů tabulek kompatibilních s Excel pomocí Python API poskytuje sjednocený přístup k manipulaci s různými zdroji tabulek pod jedním pracovním postupem. Tato abstrakce zjednodušuje konsolidaci dat napříč různými formáty.
+
+
+
+Automatizace umožňuje bezproblémové slučování tabulek bez ohledu na původní formát, což zlepšuje flexibilitu a škálovatelnost systému.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití případy" %}}
+
+
+
+* **Sjednocení tabulek v různých formátech (EXCEL)**  
+
+&nbsp; Sloučení různých souborů kompatibilních s Excel do jednoho sešitu.
+
+
+
+* **Konsolidace dat z různých zdrojů (EXCEL)**  
+
+&nbsp; Sloučení tabulek z různých nástrojů a formátů.
+
+
+
+* **Harmonizace firemních dat (EXCEL)**  
+
+&nbsp; Seskupení heterogenních dat z tabulek do hlavního souboru.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* **Datové potrubí nezávislé na formátu (EXCEL)**  
+
+&nbsp; Automatizované pracovní postupy slučují tabulky bez ohledu na formát.
+
+
+
+* **Automatizace sjednoceného generování reportů (EXCEL)**  
+
+&nbsp; Systémy dynamicky generují konsolidované výstupy v Excelu.
+
+
+
+* **Škálovatelná orchestrace tabulek (EXCEL)**  
+
+&nbsp; Programové slučování podporuje datové pracovní postupy ve firmách.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

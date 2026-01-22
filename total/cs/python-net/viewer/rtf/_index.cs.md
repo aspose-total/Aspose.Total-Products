@@ -90,7 +90,73 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Prohlížení souborů RTF pomocí Python API umožňuje inspekci dokumentů s bohatým textem, které kombinují formátování a přenositelnost.
+
+Toto podporuje automatizaci v pracovních postupech zaměřených na text, které vyžadují základní formátování.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Hodnocení formátovaného textu**  
+
+&nbsp; Zobrazte stylizovaný text bez plné složitosti dokumentu.
+
+
+
+* **Inspekce interoperabilních dokumentů**  
+
+&nbsp; Inspekce dokumentů napříč různými systémy.
+
+
+
+* **Validace obsahu**  
+
+&nbsp; Zajistěte formátování a přesnost textu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizované textové potrubí**  
+
+&nbsp; Pythonové pracovní postupy zobrazují soubory RTF během zpracování.
+
+
+
+* **Náhledové služby**  
+
+&nbsp; Dokumenty jsou dynamicky zobrazovány k prohlížení.
+
+
+
+* **Validace migrace**  
+
+&nbsp; Prohlížení zajišťuje bezpečnou transformaci do jiných formátů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

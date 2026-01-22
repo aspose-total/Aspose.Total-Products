@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 매크로가 활성화된 Word 문서를 병합하면 포함된 로직과 고급 문서 동작을 유지하면서 구조화된 문서 구성이 가능합니다. 이는 자동화, 양식 또는 계산 필드가 포함된 문서가 있는 기업 환경에서 필수적입니다.
+
+
+
+자동화된 DOCM 병합은 수동 개입 없이 논리를 포함한 파일이 신뢰성 있게 결합되어 운영의 연속성과 효율성을 보장하는 확장 가능한 문서 워크플로를 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **매크로 기반 템플릿 어셈블리 (DOCM)**  
+
+&nbsp; 여러 매크로가 활성화된 문서를 하나의 실행 가능 문서로 병합합니다.
+
+
+
+* **운영 문서 번들링 (DOCM)**  
+
+&nbsp; 부서 간에 사용되는 DOCM 파일을 통합하여 통합된 운영 파일로 만듭니다.
+
+
+
+* **프로세스 문서 통합 (DOCM)**  
+
+&nbsp; DOCM 기반 지침과 도구를 하나의 통제된 문서로 결합합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동 준수 파일 생성 (DOCM)**  
+
+&nbsp; 시스템이 DOCM 파일을 자동으로 병합하여 준수 준비 문서를 생성합니다.
+
+
+
+* **규칙 기반 문서 구성 (DOCM)**  
+
+&nbsp; 워크플로 규칙에 따라 동적으로 DOCM 파일을 병합합니다.
+
+
+
+* **백엔드 제어된 매크로 보존 (DOCM)**  
+
+&nbsp; 자동화된 파이프라인이 포함된 로직을 보존하면서 DOCM 파일을 병합합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

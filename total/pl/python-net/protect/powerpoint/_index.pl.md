@@ -71,7 +71,75 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Prezentacje PowerPoint są kluczowe dla komunikacji biznesowej i szkoleń. Chroniąc te pliki, zapewniamy, że treść slajdów, przekaz i wizualizacje nie zostaną zmienione bez autoryzacji.
+
+
+
+Za pomocą interfejsów API w języku Python można automatycznie chronić pliki PowerPoint, wspierając bezpieczne przepływy pracy z prezentacjami na dużą skalę.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Bezpieczeństwo prezentacji dla kadry zarządzającej**  
+
+&nbsp; Chronić prezentacje na wysokim poziomie przed nieautoryzowanymi edycjami.
+
+
+
+* **Kontrola materiałów szkoleniowych**  
+
+&nbsp; Zabezpieczyć slajdy instruktażowe przed dystrybucją.
+
+
+
+* **Zachowanie spójności marki**  
+
+&nbsp; Zapobiec niezamierzonym zmianom w zatwierdzonych zestawach slajdów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Automatyzacja zabezpieczania prezentacji**  
+
+&nbsp; Zabezpieczać pliki PowerPoint jako część procesów generowania.
+
+
+
+* **Kontrola dostępu oparta na uprawnieniach**  
+
+&nbsp; Zastosować ochronę na podstawie ról użytkowników programistycznie.
+
+
+
+* **Harmonogramowe egzekwowanie zabezpieczeń**  
+
+&nbsp; Automatyczna ochrona prezentacji w momencie wydania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

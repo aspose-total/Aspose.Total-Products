@@ -71,7 +71,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PDF-файлы часто защищены для защиты конфиденциальной информации, но контролируемое разблокирование необходимо для автоматизации, анализа и законного повторного использования. Программный доступ обеспечивает возможность защищенным PDF-файлам участвовать в современных цифровых рабочих процессах.
+
+
+
+Python API позволяет обеспечить безопасное и масштабируемое разблокирование PDF, интегрируясь с системами извлечения данных, индексации и преобразования.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Извлечение текста и данных**  
+
+&nbsp; Обеспечивает доступ к защищенному контенту для аналитики и отчетности.
+
+
+
+* **Автоматизация проверки документов**  
+
+&nbsp; Поддерживает автоматизированную проверку заблокированных файлов во время циклов проверки.
+
+
+
+* **Преобразование формата**  
+
+&nbsp; Позволяет преобразовывать защищенные PDF в редактируемые или искабельные форматы.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированные рабочие процессы OCR**  
+
+&nbsp; PDF разблокируются перед процессами распознавания текста и обогащения.
+
+
+
+* **Генерация индекса поиска**  
+
+&nbsp; Защищенный контент разблокируется и индексируется программно.
+
+
+
+* **Массовая обработка соответствия**  
+
+&nbsp; Большие наборы PDF разблокируются во время запланированных операций соответствия.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -122,7 +190,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

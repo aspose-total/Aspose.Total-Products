@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η υπογραφή εγγράφων ODT χρησιμοποιώντας τα APIs της Python επιτρέπει σε εγγράφα κειμένου σε ανοιχτή μορφή να μεταφέρουν επαληθευμένα σήματα έγκρισης και μεταδεδομένα υπογραφέα. Αυτό υποστηρίζει ελεγχόμενους κύκλους ζωής τεκμηρίωσης χωρίς να βασίζεται σε ιδιόκτητες μορφές.
+
+
+
+Στις αυτοματοποιημένες διαδικασίες, η υπογραφή ODT εξασφαλίζει ότι οι έγκρισεις εφαρμόζονται συνεπώς στο σημείο κλεισίματος της αναθεώρησης, βελτιώνοντας τη δυνατότητα ελέγχου και μειώνοντας τη χειρωνακτική χειριστικότητα των εγγράφων.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* **Έγκριση Πολιτικής σε Ανοιχτή Μορφή**  
+
+&nbsp; Υπογράψτε τα έγγραφα πολιτικής ODT για επιβεβαίωση της τελικής αναθεώρησης και εξουσιοδότηση.
+
+
+
+* **Κλείσιμο Ροής Επιμέλειας**  
+
+&nbsp; Εφαρμόστε υπογραφές σε πρόχειρα ODT όταν ολοκληρωθεί η αναθεώρηση περιεχομένου.
+
+
+
+* **Διακυβέρνηση Εσωτερικής Βάσης Γνώσεων**  
+
+&nbsp; Υπογράψτε τα έγγραφα ODT πριν από τη δημοσίευσή τους σε κοινόχρηστες αποθήκες.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* **Ενεργοποίηση Ολοκλήρωσης Αναθεωρητή**  
+
+&nbsp; Υπογράψτε αυτόματα αρχεία ODT όταν ολοκληρωθούν όλοι οι ανατεθειμένοι αναθεωρητές.
+
+
+
+* **Πύλη Δημοσίευσης Αποθετηρίου**  
+
+&nbsp; Υπογράψτε τα έγγραφα ODT πριν από τη μεταφορά τους στη δημοσίευση της βάσης γνώσεων.
+
+
+
+* **Αυτοματοποιημένη Εισαγωγή Αποτελεσμάτων Ελέγχου**  
+
+&nbsp; Συνδέστε τα μεταδεδομένα ταυτότητας υπογράφοντα και χρονικού σημείου κατά τη διάρκεια των εκτελέσεων υπογραφής ODT.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

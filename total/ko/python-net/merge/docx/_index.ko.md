@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 DOCX 문서를 병합하는 것은 규모에 맞게 정제되고 현대적인 워드 출력물을 생성하기 위한 일반적인 요구사항입니다. 이를 통해 여러 소스 간의 구조, 스타일링 및 섹션 연속성에 대한 정밀한 제어가 가능합니다.
+
+
+
+이 기능은 자동화된 콘텐츠 엔진과 완벽하게 통합되어 보고서, 매뉴얼 및 구조화된 문서를 위한 확장 가능한 문서 생성을 가능하게 합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **다중 섹션 보고서 생성 (DOCX)**  
+
+&nbsp; 챕터를 나타내는 DOCX 파일을 하나의 보고서로 병합합니다.
+
+
+
+* **콘텐츠 모듈 재사용 (DOCX)**  
+
+&nbsp; 재사용 가능한 DOCX 섹션을 사용자 정의 문서로 조합합니다.
+
+
+
+* **편집 워크플로 통합 (DOCX)**  
+
+&nbsp; 편집자 승인된 DOCX 파일을 최종 결과물로 결합합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **동적 문서 생성 (DOCX)**  
+
+&nbsp; 시스템은 사용자 입력 또는 데이터 조건에 따라 DOCX 파일을 병합합니다.
+
+
+
+* **CI/CD 문서화 파이프라인 (DOCX)**  
+
+&nbsp; DOCX 병합은 빌드 및 릴리스 워크플로의 일부로 자동화됩니다.
+
+
+
+* **확장 가능한 게시 자동화 (DOCX)**  
+
+&nbsp; 대량의 DOCX 문서가 프로그래밍 방식으로 규모에 맞게 병합됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

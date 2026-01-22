@@ -82,7 +82,41 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Firmar documentos ODT utilizando APIs de Python permite que los documentos de texto en formato abierto lleven marcadores de aprobación verificados y metadatos del firmante. Esto respalda ciclos de vida de documentación controlados sin depender de formatos propietarios.
+
+En los flujos de automatización, la firma de ODT garantiza que las aprobaciones se apliquen de manera consistente en el momento del cierre de la revisión, mejorando la auditabilidad y reduciendo el manejo manual de documentos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+- **Aprobación de Políticas en Formato Abierto**
+  &nbsp; Firmar documentos de políticas ODT para confirmar la revisión final y la autorización.
+
+- **Cierre del Flujo de Trabajo Editorial**
+  &nbsp; Aplicar firmas a borradores ODT cuando se completa la revisión de contenido.
+
+- **Gobernanza de la Base de Conocimientos Interna**
+  &nbsp; Firmar documentos ODT antes de publicar en repositorios compartidos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+- **Disparador de Finalización del Revisor**
+  &nbsp; Firmar automáticamente archivos ODT cuando todos los revisores asignados completen las aprobaciones.
+
+- **Puerta de Publicación del Repositorio**
+  &nbsp; Firmar documentos ODT antes de que se envíen a la publicación en la base de conocimientos.
+
+- **Inyección Automatizada de Registro de Auditoría**
+  &nbsp; Adjuntar la identidad del firmante y metadatos de marca de tiempo durante las ejecuciones de firma de ODT.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

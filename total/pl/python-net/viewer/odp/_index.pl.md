@@ -89,7 +89,73 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Przeglądanie plików ODP za pomocą interfejsów API w języku Python umożliwia inspekcję otwartych dokumentów prezentacji w formacie neutralnym dla platformy.
+
+To wspiera interoperacyjność i zautomatyzowane przepływy pracy prezentacji.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Przeglądanie Otwartych Prezentacji**  
+
+&nbsp; Przeglądaj slajdy utworzone w formatach otwartych dokumentów.
+
+
+
+* **Walidacja na Wielu Platformach**  
+
+&nbsp; Upewnij się, że prezentacje są renderowane spójnie.
+
+
+
+* **Inspekcja Zawartości Prezentacji**  
+
+&nbsp; Przeglądaj tekst i strukturę slajdów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Audyty Automatyzacji Prezentacji**  
+
+&nbsp; Przepływy pracy w Pythonie renderują pliki ODP do przeglądu.
+
+
+
+* **Sprawdzenia Interoperacyjności**  
+
+&nbsp; Slajdy są przeglądane, aby zapewnić zgodność formatu.
+
+
+
+* **Usługi Podglądu**  
+
+&nbsp; Prezentacje są wyświetlane dynamicznie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

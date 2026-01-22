@@ -82,7 +82,73 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Anzeige generischer Bildformate mit Python-APIs bietet einen einheitlichen Ansatz zur Inspektion visueller Assets über Workflows hinweg.
+
+Dies ermöglicht eine konsistente Handhabung von Bildern unabhängig von Quelle oder Typ.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Einheitliche Bildinspektion**  
+
+  Ansicht verschiedener Bilddateien über eine einzige Schnittstelle.
+
+
+
+* **Überprüfung visueller Assets**  
+
+  Bestätigen Sie die Integrität und das Erscheinungsbild des Bildes.
+
+
+
+* **Unterstützung des Inhalts-Pipelines**  
+
+  Inspektion von Bildern während der Verarbeitungsphasen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Automatisierte Bildpipelines**  
+
+  Python-Workflows zeigen Bilder während der Stapelverarbeitung an.
+
+
+
+* **Dynamische Vorschaudienste**  
+
+  Bilder werden bei Bedarf zur Überprüfung gerendert.
+
+
+
+* **Automatisierung der Qualitätskontrolle**  
+
+  Die Anzeige unterstützt automatisierte visuelle Überprüfungen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

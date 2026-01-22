@@ -77,7 +77,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'ları kullanarak ODP dosyaları için belge düzenleme, açık belge standartlarında oluşturulan sunum içeriğinin güvenli bir şekilde işlenmesini sağlar. Bu, hassas veya mülkiyet bilgileri içerebilecek slaytların paylaşılması gerektiğinde önemlidir.
+
+
+
+Otomasyon, ODP sunumlarının tutarlı bir şekilde temizlenmesini sağlayarak, sunum varlıkları üzerinde ölçeklenebilir ve tekrarlanabilir gizlilik kontrollerini destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Gizli Slayt Paylaşımı**  
+
+  &nbsp; Dağıtımdan önce sunum slaytlarından hassas verileri kaldırın.
+
+
+
+* **Açık Format Yönetimi**  
+
+  &nbsp; Açık standart sunum dosyalarında veri koruma politikalarını zorlayın.
+
+
+
+* **Eğitim Materyali Temizleme**  
+
+  &nbsp; Öğrenme içeriğini yayınlamadan önce iç referansları gizleyin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Slayt Düzeyinde Düzenleme Kuralları**  
+
+  &nbsp; Belirli slaytlardan veya düzenlerden içeriği otomatik olarak gizleyin.
+
+
+
+* **Sunum Oluşturma Boruları**  
+
+  &nbsp; Düzenlemeyi otomatik sunum oluşturma iş akışlarına entegre edin.
+
+
+
+* **Zamanlanmış Uyumluluk Taramaları**  
+
+  &nbsp; Otomatik işler kullanarak depolanan ODP dosyalarını periyodik olarak temizleyin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -100,7 +100,75 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Python via
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Phân tích **tệp trình bày ODP** bằng cách sử dụng Python APIs cung cấp quyền truy cập vào nội dung dựa trên slide được lưu trữ trong các định dạng trình bày mở. Điều này hỗ trợ việc trích xuất có cấu trúc mà không phụ thuộc vào các công cụ độc quyền.
+
+
+
+Phân tích ODP tự động cho phép xử lý quy mô của dữ liệu trình bày trong các hệ sinh thái mở và mở rộng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Phân Tích Trình Bày Mở**  
+
+&nbsp; Trích xuất văn bản và cấu trúc slide từ các tệp ODP.
+
+
+
+* **Chỉ Mục Nội Dung Trình Bày**  
+
+&nbsp; Làm cho các slide định dạng mở có thể tìm kiếm và tái sử dụng.
+
+
+
+* **Trích Xuất Dữ Liệu Cho Báo Cáo**  
+
+&nbsp; Chuyển đổi nội dung slide thành các bộ dữ liệu có cấu trúc.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Tiếp Nhận Slide Tự Động**  
+
+&nbsp; Xử lý các tệp ODP như một phần của quy trình làm việc được lên lịch.
+
+
+
+* **Kiểm Tra Tính Nhất Quán Nội Dung**  
+
+&nbsp; Xác thực cấu trúc slide so với các quy tắc đã xác định.
+
+
+
+* **Các Đường Ống Trình Bày Đa Định Dạng**  
+
+&nbsp; Chuyển đổi nội dung ODP thành các định dạng khác một cách tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

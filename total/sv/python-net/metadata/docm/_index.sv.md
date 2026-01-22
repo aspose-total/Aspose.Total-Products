@@ -98,7 +98,93 @@ För mer information, se [Produktdokumentation](https://docs.aspose.com/words/py
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Dokumentmetadataextrahering för **DOCM**-filer via Python API:er hjälper system att inspektera dokumentegenskaper samtidigt som man beaktar makroaktiverat innehåll och dess associerade risksignaler. Detta är värdefullt för styrning, säker hantering och klassificering, särskilt när dokument förflyttas mellan team eller miljöer.
+
+
+
+I automatiserade arbetsflöden kan DOCM-metadata driva dynamiska kontroller—som säkerhetsscreening, villkorliga godkännanden och begränsad distribution—samtidigt som det möjliggör skalbar indexering och rapportering utan att öppna filer interaktivt.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* **Makromedveten dokumentgranskning**
+
+  Använd metadata för att markera makroaktiverade dokument för ytterligare granskning och kontrollerad hantering.
+
+
+
+* **Känslig arbetsflödesklassificering**
+
+  Klassificera DOCM-filer baserat på inbäddade egenskaper för att tillämpa strängare lagrings- och åtkomstpolicyer.
+
+
+
+* **Operativt ursprungsspårning**
+
+  Fånga författar- och ändringshistorikfält för att spåra var och när makroaktiverade filer producerades.
+
+
+
+* **Repository-hälsorapportering**
+
+  Generera rapporter om DOCM-volym, ålder och ägarskap för att hantera riskexponering i skala.
+
+
+
+* **Kontrollerad distributionsberedskap**
+
+  Validera obligatoriska metadatafält innan DOCM-filer tillåts i nedströms delnings- eller publiceringsprocesser.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* **Riskbetygsatt intagningspipeline**
+
+  Poängsätt automatiskt DOCM-filer med metadatakompletthet och aktualitet, och dirigerar dem till "gransknings" eller "godkända" banor.
+
+
+
+* **Begränsad lagringshandhavande**
+
+  Om en DOCM-fil upptäcks flyttar automatiseringen den till en begränsad plats och tillämpar strängare retentionsregler.
+
+
+
+* **Makroaktiverade undantagslarm**
+
+  Utlös larm när DOCM-metadata indikerar oväntade ursprung, ovanliga tidsstämplar eller saknade ägarfält.
+
+
+
+* **Automatiserade inventeringsinstrumentpaneler**
+
+  Extrahera och sammanställ kontinuerligt DOCM-metadata i instrumentpaneler för styrning och operativ översyn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -90,7 +90,73 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Przeglądanie plików DOCX za pomocą interfejsów API w języku Python umożliwia renderowanie i inspekcję nowoczesnych dokumentów tekstowych programowo z pełną jasnością strukturalną.
+
+To umożliwia skalowalne przepływy dokumentów w systemach o dużej zawartości treści.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Strukturalna ocena dokumentu**  
+
+&nbsp; Przeglądaj nagłówki, akapity i formatowanie w sposób spójny.
+
+
+
+* **Sprawdzanie jakości treści**  
+
+&nbsp; Sprawdzaj dokumenty pod kątem kompletności i poprawności.
+
+
+
+* **Integracja z przepływem pracy**  
+
+&nbsp; Osadź przeglądanie dokumentów w zautomatyzowanych systemach.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Automatyzowane potoki dokumentów**  
+
+&nbsp; Procesy w języku Python wyświetlają pliki DOCX podczas wieloetapowych przepływów pracy.
+
+
+
+* **Usługi podglądu**  
+
+&nbsp; Generuj podglądy dokumentów na żądanie dla stron internetowych lub narzędzi wewnętrznych.
+
+
+
+* **Walidacja zbiorcza treści**  
+
+&nbsp; Duże ilości dokumentów są oceniane programowo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

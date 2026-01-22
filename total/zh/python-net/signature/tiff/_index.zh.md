@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API对TIFF文件进行签名，加强对常用于记录管理和档案工作流程中的高保真扫描和图像的治理。这有助于保留关键扫描文档的真实性和可追溯性。
+
+
+
+在自动化流程中，可以在验证和索引之后执行TIFF签名，确保存储的扫描文件带有一致的批准和来源指示。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **扫描真实性证明**  
+
+  签署TIFF扫描以确认其代表经过验证的原始文件。
+
+
+
+* **记录管理批准**  
+
+  在将TIFF文件归档到记录保存系统之前对其应用签名。
+
+
+
+* **高分辨率证据确认**  
+
+  签署TIFF证据资产以记录审阅者身份和批准。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **索引后签名步骤**  
+
+  在OCR/索引和验证完成后自动对TIFF文件进行签名。
+
+
+
+* **合规性保留流程**  
+
+  在进入保留存储时对TIFF记录进行签名，加强审计追踪。
+
+
+
+* **批量扫描完成作业**  
+
+  为大型扫描操作批量签署TIFF文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX, raporlar, sözleşmeler ve işbirlikçi belgeler için yaygın olarak kullanılan modern Word belge formatıdır. DOCX dosyalarını korumak, içerik bütünlüğünü korumak ve yetkisiz değişiklikleri önlemek için dijital odaklı iş akışlarında kritiktir.
+
+
+
+Python API'leri, belge güvenliğini otomatik içerik akışlarının doğal bir parçası haline getirerek DOCX dosyalarını sorunsuz bir şekilde korumayı sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Sözleşme Koruma**  
+
+&nbsp; Onaylandıktan sonra yetkisiz düzenlemeleri önlemek için DOCX sözleşmeleri güvence altına alın.
+
+
+
+* **İşbirlikçi İçerik Kontrolü**  
+
+&nbsp; Sınırlı kullanıcı etkileşimine izin verirken hassas bölümleri kilitle.
+
+
+
+* **Fikri Mülkiyetin Korunması**  
+
+&nbsp; Departmanlar veya ortaklar arasında paylaşılan özel belgeleri koru.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **İş Akışına Dayalı Belge Kilitleme**  
+
+&nbsp; Belirli iş akışı aşamalarında DOCX dosyalarını otomatik olarak koru.
+
+
+
+* **Dinamik İzin Atama**  
+
+&nbsp; Belge oluşturma sırasında programlı olarak rol tabanlı kısıtlamalar uygula.
+
+
+
+* **Güvenli İçerik Yayınlama**  
+
+&nbsp; Otomatik dağıtımdan veya depolamadan önce DOCX çıktılarını koru.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

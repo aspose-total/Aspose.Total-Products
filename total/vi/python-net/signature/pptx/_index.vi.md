@@ -73,7 +73,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Slides for Python via 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Việc ký tệp PPTX cho phép bài thuyết trình mang thông tin phê duyệt và phát hành rõ ràng, ngăn chặn việc phân phối trái phép hoặc sớm hơn.
+
+
+
+Tự động hóa dựa trên Python đảm bảo việc phê duyệt bài thuyết trình được thống nhất trên các nhóm và phiên bản.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Phê Duyệt Bộ Slides Ban Lãnh Đạo**  
+
+&nbsp; Ký tệp PPTX trước khi phân phối cho lãnh đạo.
+
+
+
+* **Hoàn Thành Bài Thuyết Trình Bán Hàng**  
+
+&nbsp; Áp dụng các chỉ số phê duyệt vào các bộ slides dành cho khách hàng.
+
+
+
+* **Chứng Nhận Tài Liệu Đào Tạo**  
+
+&nbsp; Đánh dấu bài thuyết trình đào tạo đã được phê duyệt.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Kích Hoạt Ký Tệp theo Sự Phê Duyệt của Bên Liên Quan**  
+
+&nbsp; Các tệp PPTX được ký khi việc phê duyệt được ghi nhận.
+
+
+
+* **Thực Thi Phát Hành Được Kiểm Soát Phiên Bản**  
+
+&nbsp; Chỉ các bộ slides đã được ký mới được chia sẻ bên ngoài.
+
+
+
+* **Xuất Bản Bài Thuyết Trình Tự Động**  
+
+&nbsp; Việc ký được tích hợp vào quy trình công bố.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

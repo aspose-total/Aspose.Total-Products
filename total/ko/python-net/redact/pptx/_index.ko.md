@@ -77,7 +77,75 @@ PPTX 편집 앱 또는 유틸리티를 개발해야 합니까?[Aspose.Total for 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 PPTX 파일의 문서 작성은 현대적인 프레젠테이션 콘텐츠에 대해 정확한 제어를 제공하여 안전한 협업 및 배포를 가능하게 합니다. 이는 민감한 슬라이드 데이터를 보호하는 데 중요합니다.
+
+
+
+자동화를 통해 PPTX 문서의 삭제가 일관되고 감사 가능하며 현대적인 콘텐츠 워크플로에 쉽게 통합됩니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **기밀 데이터 보호**  
+
+  Redact sensitive figures and text from presentation slides.
+
+
+
+* **다중 대상 그룹 배포**  
+
+  Create redacted versions tailored to different stakeholders.
+
+
+
+* **프레젠테이션 라이프사이클 관리**  
+
+  Ensure all shared PPTX files meet privacy standards.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **슬라이드 객체 수준의 삭제**  
+
+  Programmatically remove sensitive text boxes or shapes.
+
+
+
+* **지속적인 업데이트 처리**  
+
+  Reapply redaction automatically when slides change.
+
+
+
+* **워크플로 통합**  
+
+  Embed redaction into CI/CD-style content pipelines.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,75 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A PowerPoint diavetítés formátumainak összevonása Python API-k segítségével egységes lejátszásra kész prezentációkat eredményez. Ezeket a formátumokat közvetlen bemutatásra tervezték, nem szerkesztésre.
+
+
+
+Az automatizálás biztosítja a konzisztens diavetítés szállítást csapatok és események között.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Diavetítés sorrend összeállítása (PPS)**
+
+&nbsp; PPS fájlok egyesítése egyetlen prezentációs folyamba.
+
+
+
+* **Eseménybemutató összeállítása (PPS)**
+
+&nbsp; Diavetítés fájlok kombinálása konferenciákhoz vagy találkozókhoz.
+
+
+
+* **Prezentáció lejátszási csomagolása (PPS)**
+
+&nbsp; PPS fájlok összevonása egy végrehajtható diavetítésbe.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Automatizált esemény előkészítése (PPS)**
+
+&nbsp; Rendszerek egyesítik a PPS fájlokat a tervezett események előtt.
+
+
+
+* **Háttér diavetítés generálása (PPS)**
+
+&nbsp; PPS összevonás programozottan van kiváltva.
+
+
+
+* **Prezentáció szállításának automatizálása (PPS)**
+
+&nbsp; A diavetítések automatikusan össze vannak vonva a lejátszáshoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

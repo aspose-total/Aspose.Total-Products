@@ -89,7 +89,73 @@ Para obter mais detalhes, consulte [Documentação do produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Visualizar apresentações do PowerPoint com APIs do Python permite acesso programático ao conteúdo baseado em slides para revisão e validação.
+
+Isso suporta relatórios automatizados, fluxos de trabalho de apresentação e pipelines de conteúdo.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Revisão de Conteúdo de Slides**  
+
+  Visualize os slides sequencialmente sem abrir o software de apresentação.
+
+
+
+* **Verificação de Qualidade da Apresentação**  
+
+  Inspecione o layout e o texto em decks.
+
+
+
+* **Suporte à Automação de Relatórios**  
+
+  Valide as apresentações geradas antes da distribuição.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Revisão Automatizada de Geração de Decks**  
+
+  Fluxos de trabalho em Python exibem slides após a criação automatizada.
+
+
+
+* **Auditorias em Lote de Apresentações**  
+
+  Múltiplas apresentações são revisadas de forma programática.
+
+
+
+* **Serviços de Visualização para Partes Interessadas**  
+
+  Os slides são renderizados dinamicamente para fluxos de trabalho de aprovação.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

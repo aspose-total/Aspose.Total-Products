@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API对BMP文件进行签名，可以批准和验证基于位图的资产，如扫描、图表和操作可视化。这确保了工作流程中使用的视觉数据具有清晰的所有权和批准上下文。
+
+
+
+当集成到自动化流水线中时，BMP签名充当最后的验证步骤，确保只有经过审查和批准的视觉资产才能继续在处理或分发系统中进行。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **操作图表批准**  
+
+  &nbsp; 在工程或内部文档中使用的BMP图表上应用批准印章。
+
+
+
+* **记录扫描验证**  
+
+  &nbsp; 对扫描的BMP文件进行签名，以确认真实性，然后进行归档或合规存储。
+
+
+
+* **视觉质量确认**  
+
+  &nbsp; 在下游消费之前将BMP资产标记为经过质量检查。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化QA印章注入**  
+
+  &nbsp; 在通过图像验证规则后自动对BMP文件进行签名。
+
+
+
+* **工作流程完成标记**  
+
+  &nbsp; 当操作工作流程达到最终批准时进行签名。
+
+
+
+* **批量视觉批准处理**  
+
+  &nbsp; 可编程地对多个BMP文件进行批量签名处理。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,75 @@ För mer information, se [Product Documentation](https://docs.aspose.com/slides/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Att sammanfoga OpenDocument-presentationfiler med Python API:er stöder öppna standarder och plattformsoberoende presentationsflöden. Detta är idealiskt för miljöer som använder öppen källkodsverktyg.
+
+
+
+Automatisering säkerställer interoperabilitet och skalbar presentationshantering.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsområden" %}}
+
+
+
+* **Plattformsoberoende sammanställning av slides (ODP)**
+
+&nbsp; Sammanfoga ODP-filer skapade i olika verktyg.
+
+
+
+* **Presentationssammanställning enligt öppen standard (ODP)**
+
+&nbsp; Kombinera ODP-deck för enhetlig leverans.
+
+
+
+* **Samarbetsbaserad slide-sammanställning (ODP)**
+
+&nbsp; Sammanfoga ODP-filer från distribuerade bidragsgivare.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* **Öppna presentationspipeliner (ODP)**
+
+&nbsp; System sammanfogar ODP-filer utan proprietära beroenden.
+
+
+
+* **Schemalagd sammanställning av deckar (ODP)**
+
+&nbsp; Sammanfogning av ODP körs som en del av bakgrundsuppgifter.
+
+
+
+* **Interoperabel presentationsautomatisering (ODP)**
+
+&nbsp; ODP-filer sammanfogas dynamiskt i arbetsflöden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,93 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Extraktion von Metadaten für **ODP**-Dateien über Python-APIs ermöglicht es Systemen, Präsentationsattribute und eingebettete Eigenschaften für Präsentationsfolien zu lesen – unterstützt Governance, Entdeckung und Lebenszyklusmanagement, ohne die Datei in einer GUI öffnen zu müssen. Dies ist wichtig für Teams, die große Mengen von Schulungs-, Verkaufs- oder Betriebspräsentationen verwalten.
+
+
+
+In automatisierten Workflows können ODP-Metadaten die Indizierung, Klassifizierung und kontrollierte Veröffentlichung vorantreiben – und so die Pflege, Suche und Integration von Folienbibliotheken in Content-Verteilsysteme erleichtern.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Indizierung der Präsentationsbibliothek**
+
+  Extrahieren Sie ODP-Metadaten, um durchsuchbare Kataloge von Präsentationsfolien nach Autor, Thema und Aktualisierungszeit zu erstellen.
+
+
+
+* **Überprüfung der Aktualität von Schulungsinhalten**
+
+  Verwenden Sie geänderte Zeitstempel, um veraltete Präsentationsfolien zu identifizieren, die Auffrischungszyklen erfordern.
+
+
+
+* **Klassifizierung nach Abteilungen**
+
+  Normalisieren Sie Metadateneigenschaften in strukturierte Kategorien für eine konsistente Organisation und Zugriffssteuerung.
+
+
+
+* **Berichterstattung zur Asset-Governance**
+
+  Aggregieren Sie ODP-Metadaten, um die Nutzungsbereitschaft, Abdeckungslücken und Wartungszuständigkeiten zu messen.
+
+
+
+* **Vorbereitung für den Massenmigration**
+
+  Überprüfen Sie ODP-Eigenschaften vor der Migration in neue Speicher- oder Veröffentlichungsumgebungen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Automatisierte Aufnahme von Präsentationsfolien**
+
+  Extrahieren Sie beim Hochladen ODP-Metadaten und weisen Sie die Folie automatisch dem richtigen Repository-Bereich zu.
+
+
+
+* **Automatisierte Benachrichtigung bei Veraltungsgefahr**
+
+  Lösen Sie Warnungen aus, wenn ODP-Folien Aktualisierungsschwellenwerte überschreiten oder verantwortliche Eigentumsfelder fehlen.
+
+
+
+* **Regeln für die veröffentlichungsbezogene Metadatensteuerung**
+
+  Veröffentlichen oder beschränken Sie ODP-Folien basierend auf Metadatenflags, die Vertraulichkeit oder ausschließliche interne Nutzung anzeigen.
+
+
+
+* **Batch-Audit- und Berichterstellungsjobs**
+
+  Führen Sie geplante Jobs aus, die ODP-Metadatensummaries für Governance- und Betriebsaudits exportieren.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

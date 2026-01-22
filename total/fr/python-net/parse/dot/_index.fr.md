@@ -104,7 +104,75 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'analyse des **modèles DOT** à l'aide des API Python permet aux organisations d'extraire des structures prédéfinies, des espaces réservés et des règles de formatage intégrés dans les modèles de documents. Ceci est essentiel pour la normalisation et la cohérence.
+
+
+
+L'analyse conviviale pour l'automatisation des modèles permet la génération dynamique de documents et garantit l'intégrité structurelle à grande échelle.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Analyse de la structure du modèle**  
+
+&nbsp; Identifie les espaces réservés et les définitions de mise en page dans les modèles.
+
+
+
+* **Génération de documents normalisée**  
+
+&nbsp; Soutient la création basée sur des règles de documents cohérents.
+
+
+
+* **Application de la gouvernance et de la conformité**  
+
+&nbsp; Valide que les documents générés suivent les modèles approuvés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Assemblage dynamique de documents**  
+
+&nbsp; Utilise les modèles analysés pour générer des documents de manière programmable.
+
+
+
+* **Détection de dérive de modèle**  
+
+&nbsp; Signale automatiquement les modifications non autorisées des modèles.
+
+
+
+* **Injection de contenu automatisée**  
+
+&nbsp; Remplit les données structurées dans les sections définies par le modèle.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

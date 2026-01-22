@@ -73,7 +73,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API进行PDF签名可为最终文档提供强大的完整性、真实性和不可否认的保证。这对于外部共享和受监管的工作流程至关重要。
+
+
+
+自动化PDF签名确保文档在流程完成的确切时刻被加密封存。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **法律文件认证**  
+
+&nbsp; 数字签署PDF以确保真实性。
+
+
+
+* **发票和财务批准**  
+
+&nbsp; 对批准的财务文件应用签名。
+
+
+
+* **合规文件最终化**  
+
+&nbsp; 封存用于审计或报告的PDF。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **工作流程结束的加密签名**  
+
+&nbsp; 当流程完成时对PDF进行签名。
+
+
+
+* **定时批量签名**  
+
+&nbsp; 在定义的时间间隔内对多个PDF进行签名。
+
+
+
+* **安全分发准备**  
+
+&nbsp; 在外部交付之前进行签名。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

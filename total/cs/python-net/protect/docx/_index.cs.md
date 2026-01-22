@@ -76,7 +76,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX je moderní formát dokumentu Word široce používaný pro zprávy, smlouvy a spolupracovní dokumenty. Chránění souborů DOCX je klíčové pro udržení integrity obsahu a zabránění neoprávněným změnám v digitálních pracovních postupech.
+
+
+
+Pythonové API umožňují bezproblémovou ochranu souborů DOCX aplikací hesel a nastavení oprávnění, čímž zabezpečení dokumentů přirozeně zapadá do automatizovaných pracovních postupů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Ochrana smluv**  
+
+&nbsp; Zabezpečte smlouvy ve formátu DOCX proti neoprávněným úpravám po schválení.
+
+
+
+* **Kontrola spolupracovního obsahu**  
+
+&nbsp; Zamkněte citlivé části a zároveň umožněte omezenou interakci uživatelů.
+
+
+
+* **Ochrana duševního vlastnictví**  
+
+&nbsp; Chrání vlastní dokumenty sdílené mezi odděleními nebo partnery.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Zamknutí dokumentů založené na pracovním postupu**  
+
+&nbsp; Automaticky chrání soubory DOCX v konkrétních fázích pracovního postupu.
+
+
+
+* **Dynamické přiřazení oprávnění**  
+
+&nbsp; Aplikujte omezení založená na rolích programově během generování dokumentu.
+
+
+
+* **Bezpečné publikování obsahu**  
+
+&nbsp; Chrání výstupy ve formátu DOCX před automatizovaným distribuováním nebo uložením.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

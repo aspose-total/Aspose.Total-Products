@@ -73,7 +73,75 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Les fichiers ODP sont utilisés pour des présentations standard ouvertes contenant plusieurs diapositives et composants visuels. La division des fichiers ODP permet un accès et une réutilisation au niveau des diapositives.
+
+
+
+L'automatisation en Python prend en charge la division efficace des fichiers ODP pour un traitement de présentation évolutif et une réutilisation de contenu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Réutilisation au niveau des diapositives**  
+
+&nbsp; Les diapositives individuelles peuvent être extraites et réutilisées dans différentes présentations.
+
+
+
+* **Analyse du contenu de la présentation**  
+
+&nbsp; Analyser les diapositives de manière indépendante pour leur structure ou leurs métadonnées.
+
+
+
+* **Édition collaborative**  
+
+&nbsp; Les équipes travaillent sur des ensembles de diapositives isolés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Extraction automatisée des diapositives**  
+
+&nbsp; Les scripts Python divisent les diapositives de manière programmée.
+
+
+
+* **Assemblage dynamique de la présentation**  
+
+&nbsp; Les diapositives sont recombinées en fonction des règles d'exécution.
+
+
+
+* **Systèmes d'archivage de présentations**  
+
+&nbsp; Les diapositives sont indexées individuellement pour être récupérées.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

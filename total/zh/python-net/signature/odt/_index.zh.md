@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API签署ODT文档可以使开放格式文档携带经过验证的批准标记和签署者元数据。这支持受控文档生命周期，而无需依赖专有格式。
+
+
+
+在自动化流程中，ODT签署确保批准在审阅关闭时一致应用，提高审计性并减少手动处理文档。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **开放格式政策批准**  
+
+&nbsp; 签署ODT政策文档以确认最终审查和授权。
+
+
+
+* **编辑工作流程结束**  
+
+&nbsp; 在内容审查完成时向ODT草稿应用签名。
+
+
+
+* **内部知识库治理**  
+
+&nbsp; 在发布到共享存储库之前签署ODT文档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **审阅者完成触发器**  
+
+&nbsp; 当所有指定审阅者完成批准时自动签署ODT文件。
+
+
+
+* **存储库发布门限**  
+
+&nbsp; 在将ODT文档推送到知识库发布之前签署。
+
+
+
+* **自动化审计追踪注入**  
+
+&nbsp; 在ODT签署运行期间附加签署者身份和时间戳元数据。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

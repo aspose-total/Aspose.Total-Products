@@ -75,7 +75,93 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Python via
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Trích xuất siêu dữ liệu tài liệu cho các tệp **PPTX** thông qua Python APIs cung cấp quyền truy cập cấu trúc vào các thuộc tính trình bày hiện đại—cho phép chỉ mục, kiểm toán và theo dõi vòng đời cho bộ slide ở quy mô lớn. Điều này rất quan trọng đối với các tổ chức quản lý số lượng lớn các bài thuyết trình vận hành, đào tạo hoặc phục vụ khách hàng.
+
+
+
+Trong các đường ống tự động hóa, siêu dữ liệu PPTX trở thành một bảng điều khiển nhẹ cho việc định tuyến và quản trị: nó hỗ trợ phân loại tự động, xem xét định kỳ, kiểm soát xuất bản và tích hợp với hệ thống tìm kiếm và quản lý nội dung.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Danh Mục và Khám Phá Bài Thuyết Trình**
+
+  Trích xuất siêu dữ liệu PPTX để xây dựng danh mục có thể tìm kiếm theo chủ đề, chủ sở hữu và lịch sử cập nhật.
+
+
+
+* **Quản Trị Vòng Đời cho Bộ Slide**
+
+  Sử dụng dấu thời gian và các thuộc tính tùy chỉnh để thực hiện chu kỳ xem xét và chính sách cập nhật nội dung.
+
+
+
+* **Phân Công Chủ Sở Hữu Tự Động**
+
+  Ánh xạ trường tác giả và biên tập viên cuối cùng cho các nhóm chịu trách nhiệm phê duyệt và bảo trì.
+
+
+
+* **Xác Nhận Sẵn Sàng Xuất Bản**
+
+  Đảm bảo các thuộc tính mô tả cần thiết tồn tại trước khi một bộ slide PPTX được phân phối ra bên ngoài.
+
+
+
+* **Dấu Vết Kiểm Toán Vận Hành**
+
+  Duy trì hồ sơ kiểm toán dựa trên siêu dữ liệu để biết bộ slide được tạo ra khi nào, được cập nhật và do ai tạo ra.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Phân Loại và Đánh Dấu Lúc Tải Lên**
+
+  Khi tiếp nhận, trích xuất siêu dữ liệu PPTX và tự động áp dụng thẻ và quy tắc định tuyến thư mục để tổ chức một cách nhất quán.
+
+
+
+* **Tạo Nhiệm Vụ Xem Xét Định Kỳ**
+
+  Tạo nhiệm vụ xem xét định kỳ khi bộ slide PPTX vượt quá ngưỡng lỗi thời hoặc siêu dữ liệu cho thấy sự thay đổi chủ sở hữu.
+
+
+
+* **Đường Ống Phân Phối Kiểm Soát**
+
+  Cho phép hoặc hạn chế việc phân phối bộ slide PPTX dựa trên cờ siêu dữ liệu như danh mục chỉ dành nội bộ hoặc danh mục mật.
+
+
+
+* **Đồng Bộ Siêu Dữ Liệu với Hệ Thống Tìm Kiếm**
+
+  Liên tục đẩy siêu dữ liệu PPTX vào một chỉ mục để bộ slide có thể được tìm thấy mà không cần bảo trì danh mục thủ công.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

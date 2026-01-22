@@ -79,7 +79,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Łączenie prezentacji z makrami za pomocą interfejsów API w języku Python umożliwia zautomatyzowane, interaktywne dostarczanie prezentacji. Te formaty są często używane w kontrolowanych środowiskach.
+
+
+
+Automatyzacja zapewnia zachowanie makr i zachowań prezentacji podczas łączenia.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Montaż interaktywnej prezentacji (PPSM)**  
+
+&nbsp; Łączenie plików prezentacji z makrami.
+
+
+
+* **Automatyczna prezentacja demonstracyjna (PPSM)**  
+
+&nbsp; Łączenie plików PPSM dla automatycznych demonstracji.
+
+
+
+* **Kontrolowane deki prezentacyjne (PPSM)**  
+
+&nbsp; Łączenie plików PPSM dla zarządzanych prezentacji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Tworzenie prezentacji zgodnie z regułami (PPSM)**  
+
+&nbsp; Systemy łączą pliki PPSM na podstawie reguł logicznych.
+
+
+
+* **Zachowanie automatyzacji z poziomu backendu (PPSM)**  
+
+&nbsp; Łączenie PPSM zachowuje interaktywne zachowania.
+
+
+
+* **Generowanie planowych prezentacji demonstracyjnych (PPSM)**  
+
+&nbsp; Prezentacje są łączone automatycznie zgodnie z harmonogramem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

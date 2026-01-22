@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Ajouter un filigrane aux feuilles de calcul **XLSX** avec des API Python apporte une gouvernance visible aux fichiers Excel modernes, aidant à communiquer la confidentialité, la propriété et l'utilisation prévue directement dans les livrables riches en données.
+
+L'automatisation permet d'ajouter des filigranes XLSX évolutifs pour les systèmes de reporting, les opérations financières et les exportations d'analyses où un étiquetage de politique cohérent est requis.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Étiquetage confidentiel des rapports KPI**  
+
+&nbsp; Filigraner les rapports de performance pour réduire la redistribution non intentionnelle.
+
+
+
+* **Partage contrôlé des extractions de données**  
+
+&nbsp; Ajouter des marques "INTERNE UNIQUEMENT" aux ensembles de données exportés pour renforcer la gouvernance.
+
+
+
+* **Indicateurs d'état d'approbation pour les prévisions**  
+
+&nbsp; Apposer "BROUILLON" ou "APPROUVÉ" sur les modèles de planification pour éviter les erreurs d'interprétation.
+
+
+
+* **Identification des classeurs spécifiques aux clients**  
+
+&nbsp; Intégrer des identifiants clients sur les feuilles de calcul partagées pour la traçabilité.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Filigrane de pipeline pour les rapports automatisés**  
+
+&nbsp; Appliquer des filigranes au moment de la génération du rapport pour garantir une gouvernance cohérente.
+
+
+
+* **Filigrane dynamique basé sur les politiques d'accès**  
+
+&nbsp; Générer du texte de filigrane en fonction du niveau de sensibilité et des droits des utilisateurs.
+
+
+
+* **Couverture multi-feuilles automatisée**  
+
+&nbsp; Assurer la visibilité du filigrane sur les feuilles et vues pertinentes de manière programmable.
+
+
+
+* **Estampillage conforme à l'audit avec des identifiants**  
+
+&nbsp; Ajouter des filigranes contenant des ID d'exécution ou des références de lot pour prendre en charge les audits automatisés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

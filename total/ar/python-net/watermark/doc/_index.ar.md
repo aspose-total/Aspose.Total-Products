@@ -79,7 +79,85 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG DOC TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+وضع علامات مائية على ملفات **DOC** باستخدام واجهات برمجة التطبيقات بلغة Python يساعد في حماية المستندات القديمة في Word عن طريق تسمية الملكية والسرية أو قواعد التوزيع بوضوح داخل المحتوى القابل للتحرير.
+
+تحسين وضع علامات مائية على ملفات DOC بشكل تلقائي يعزز التوحيد في حوكمة المستندات، مما يتيح للمؤسسات فرض ضوابط سياسية بصرية على نطاق واسع حتى لتنسيقات المستندات القديمة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **ختم سرية العقود القديمة**
+
+&nbsp; إضافة علامات "سري" إلى الاتفاقيات القديمة لتقليل مشاركتها غير المصرح بها.
+
+
+
+* **تسميات حالة دورة المراجعة**
+
+&nbsp; وضع علامات على المستندات بأنها "قيد المراجعة" لمنع التداول المبكر للمسودات.
+
+
+
+* **فرض السياسة الداخلية على القوالب**
+
+&nbsp; تطبيق علامات مائية موحدة عبر القوالب القديمة للتوافق مع الحوكمة.
+
+
+
+* **إشعارات توزيع محددة للعملاء**
+
+&nbsp; تضمين إشعارات تواجه العميل توضح الاستخدام المسموح به وحدود إعادة التوزيع.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتيم" %}}
+
+
+
+* **ختم المستندات من البريد الوارد إلى الأرشيف**
+
+&nbsp; وضع علامات مائية على مرفقات DOC تلقائيًا قبل حفظها في مستودع.
+
+
+
+* **مراقب المجلد للملفات القديمة**
+
+&nbsp; اكتشاف ملفات DOC جديدة في دليل وتطبيق علامات مائية سياسية دون خطوات يدوية.
+
+
+
+* **نصوص العلامات المائية المدفوعة بالبيانات الوصفية**
+
+&nbsp; إنشاء محتوى علامة مائية من العلامات في المستند مثل القسم، المشروع، أو مستوى الحساسية.
+
+
+
+* **انتقال "من المسودة إلى النهائي" تلقائيًا**
+
+&nbsp; استبدال علامات المسودة بتسميات نهائية عند تسجيل الموافقات في نظام سير العمل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -90,7 +90,73 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az ODT fájlok megtekintése Python API-k segítségével lehetővé teszi az olyan nyílt szöveges dokumentumok ellenőrzését, amelyeket szabványalapú munkafolyamatokban használnak.
+
+Ez támogatja az automatizálást olyan dokumentumközpontú rendszerekben, amelyek nem függenek szabadalmaztatott technológiáktól.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Nyílt dokumentumfelülvizsgálat**  
+
+&nbsp; Szöveges dokumentumok megtekintése nyílt formátumokban.
+
+
+
+* **Tartalomintegritás ellenőrzése**  
+
+&nbsp; Dokumentumstruktúra és szöveg ellenőrzése.
+
+
+
+* **Keresztrendszeres kompatibilitás**  
+
+&nbsp; Biztosítani, hogy a dokumentumok helyesen jelenjenek meg különböző környezetekben.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* *\nAutomatizált dokumentumcsatornák**  
+
+&nbsp; A Python folyamatok ODT fájlokat jelenítenek meg a munkafolyamatok során.
+
+
+
+* **Megfelelőség-ellenőrzés**  
+
+&nbsp; A dokumentumokat szabványokhoz igazítva tekintik át.
+
+
+
+* **Előnézet generálása**  
+
+&nbsp; Az automatizált nézők támogatják az áttekintési folyamatokat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

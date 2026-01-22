@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การผสานเอกสาร DOCX โดยใช้ Python APIs เป็นความต้องการที่พบบ่อยสำหรับการสร้างเอกสาร Word ที่สมบูรณ์และทันสมัยในขอบเขตใหญ่ มันช่วยให้มีการควบคุมอย่างแม่นยำต่อโครงสร้าง สไตล์ และความต่อเนื่องของส่วนต่าง ๆ ในแหล่งข้อมูลหลาย ๆ แหล่ง
+
+
+
+ความสามารถนี้ผสานอย่างไม่มีรอยต่อกับเครื่องมือสร้างเนื้อหาอัตโนมัติ ทำให้สามารถสร้างเอกสารได้มากขึ้นสำหรับรายงาน คู่มือ และเอกสารโครงสร้าง
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **การสร้างรายงานหลายส่วน (DOCX)**  
+
+&nbsp; ผสานไฟล์ DOCX ที่แทนแต่ละบทเข้าด้วยกันเป็นรายงานเดียว
+
+
+
+* **การนำเอกสารโมดูลกลับมาใช้ซ้ำ (DOCX)**  
+
+&nbsp; รวบรวมส่วน DOCX ที่ใช้ซ้ำเข้าด้วยกันเป็นเอกสารที่กำหนดเอง
+
+
+
+* **การผสานขั้นตอนการทำงานของบรรณาธิการ (DOCX)**  
+
+&nbsp; ผสานไฟล์ DOCX ที่ได้รับการอนุมัติจากบรรณาธิการเข้าด้วยกันเป็นผลลัพธ์ที่สมบูรณ์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* **การสร้างเอกสารแบบไดนามิก (DOCX)**  
+
+&nbsp; ระบบผสานไฟล์ DOCX โดยขึ้นอยู่กับข้อมูลที่ผู้ใช้ป้อนหรือเงื่อนไขข้อมูล
+
+
+
+* **ท่องไปมาของเอกสาร CI/CD (DOCX)**  
+
+&nbsp; การผสานไฟล์ DOCX ถูกอัตโนมัติเป็นส่วนหนึ่งของขั้นตอนการสร้างและปล่อยของงาน
+
+
+
+* **การอัตโนมัติการเผยแพร่ขนาดใหญ่ (DOCX)**  
+
+&nbsp; เอกสาร DOCX ปริมาณมากถูกผสานโปรแกรมอย่างมากขึ้นตามขนาด
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

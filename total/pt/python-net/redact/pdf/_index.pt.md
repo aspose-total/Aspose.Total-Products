@@ -75,7 +75,75 @@ Para obter mais detalhes, consulte [Documentação do produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A redação de documentos usando APIs Python para arquivos PDF é essencial para remover permanentemente informações sensíveis de documentos de layout fixo. Isso garante que os dados redigidos não possam ser recuperados ou expostos.
+
+
+
+A automação possibilita a redação confiável e repetível de PDF em escala, tornando-a adequada para fluxos de trabalho de conformidade e divulgação em grande volume.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Preparação para Divulgação Legal**  
+
+  &nbsp; Remova detalhes confidenciais de PDFs antes da submissão judicial ou regulatória.
+
+
+
+* **Liberação de Documentos Públicos**  
+
+  &nbsp; Higienize relatórios e registros antes do acesso público.
+
+
+
+* **Entregas Seguras para Clientes**  
+
+  &nbsp; Garanta que informações sensíveis sejam removidas de forma irreversível de PDFs compartilhados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Redação Consciente do Conteúdo**  
+
+  &nbsp; Detecte e remova automaticamente texto ou regiões sensíveis.
+
+
+
+* **Pipelines de PDF em Grande Volume**  
+
+  &nbsp; Processe e redija grandes lotes de PDFs de forma programática.
+
+
+
+* **Salvaguardas Pré-Publicação**  
+
+  &nbsp; Imponha verificações de redação antes que os documentos sejam publicados ou distribuídos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

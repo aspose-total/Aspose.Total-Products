@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Adicionar marcas d'água em planilhas **ODS** com APIs Python melhora o controle sobre planilhas de documentos abertos, adicionando rótulos de governança visíveis para propriedade, confidencialidade e distribuição.
+
+Automatizar a marca d'água em ODS suporta fluxos de trabalho de relatórios escaláveis, garantindo indicadores de política consistentes em conjuntos de dados compartilhados em formatos abertos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Carimbo de Planilha de Dados Confidenciais**  
+
+&nbsp; Marque arquivos ODS sensíveis para reduzir o risco de compartilhamento externo acidental.
+
+
+
+* **Etiquetas de Dados Preliminares**  
+
+&nbsp; Aplique sobreposições de "NÃO VERIFICADO" durante ciclos de validação de dados em estágio inicial.
+
+
+
+* **Avisos de Uso de Dados de Parceiros**  
+
+&nbsp; Adicione avisos visíveis que esclareçam as restrições de licenciamento e reutilização.
+
+
+
+* **Suporte de Trilha de Auditoria Interna**  
+
+&nbsp; Marque as exportações para deixar claro qual sistema produziu um determinado conjunto de dados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Marca d'água na Exportação ETL**  
+
+&nbsp; Carimbe automaticamente arquivos ODS gerados a partir de pipelines de dados automatizados.
+
+
+
+* **Texto de Marca d'água Baseado em Função**  
+
+&nbsp; Personalize o conteúdo da marca d'água dependendo da equipe receptora ou nível de acesso.
+
+
+
+* **Controles de Distribuição de Relatórios Agendados**  
+
+&nbsp; Aplique marcas d'água com data e hora antes de enviar relatórios periódicos em ODS.
+
+
+
+* **Marcação Automatizada de Política de Retenção**  
+
+&nbsp; Adicione etiquetas visuais de retenção para apoiar a automação do ciclo de vida de planilhas armazenadas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -90,7 +90,73 @@ Para obter mais detalhes, consulte [Documentação do produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A visualização de arquivos DOTM com APIs do Python permite a inspeção segura de modelos de Word habilitados para macro sem executar lógica incorporada.
+
+Isso é essencial para ambientes controlados onde visibilidade e segurança devem coexistir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Revisão de Modelo Habilitado para Macro**  
+
+&nbsp; Visualize o conteúdo do modelo mantendo os macros inativos.
+
+
+
+* **Inspeção Orientada para Segurança**  
+
+&nbsp; Inspecione a estrutura sem expor os sistemas a riscos de execução.
+
+
+
+* **Processos de Aprovação de Modelos**  
+
+&nbsp; Revise os modelos antes da distribuição controlada.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Admissão Segura de Modelos**  
+
+&nbsp; Os visualizadores em Python exibem arquivos DOTM com segurança durante o embarque.
+
+
+
+* **Automação de Governança**  
+
+&nbsp; Os modelos são revisados como parte de verificações de políticas automatizadas.
+
+
+
+* **Validação Pré-Uso de Pipelines**  
+
+&nbsp; Pré-visualizações automatizadas suportam fluxos de trabalho de aprovação.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

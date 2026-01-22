@@ -79,7 +79,69 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Menggabungkan presentasi PPTX menggunakan API Python adalah pendekatan yang paling umum untuk komposisi slide modern. Ini memungkinkan kontrol yang tepat atas urutan slide, tata letak, dan konsistensi konten.
+
+
+
+Kemampuan ini terintegrasi dengan baik dengan mesin konten otomatis dan sistem pelaporan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Pembuatan Deck Multi-Bagian (PPTX)**  
+&nbsp; Menggabungkan file PPTX yang mewakili bagian-bagian ke dalam satu deck.
+
+
+
+* **Integrasi Slide Kolaboratif (PPTX)**  
+&nbsp; Menggabungkan slide PPTX yang dibuat oleh beberapa kontributor.
+
+
+
+* **Perakitan Modul Slide yang Dapat Digunakan (PPTX)**  
+&nbsp; Merakit slide PPTX modular ke dalam presentasi yang disesuaikan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Generasi Deck Slide Dinamis (PPTX)**  
+&nbsp; Sistem menggabungkan file PPTX berdasarkan input saat runtime.
+
+
+
+* **Pipelines Presentasi CI/CD (PPTX)**  
+&nbsp; Penggabungan PPTX diotomatisasi selama tahap build atau rilis.
+
+
+
+* **Publikasi Presentasi yang Dapat Diskalakan (PPTX)**  
+&nbsp; Deck PPTX berjumlah besar dihasilkan secara programatis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -146,7 +208,7 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

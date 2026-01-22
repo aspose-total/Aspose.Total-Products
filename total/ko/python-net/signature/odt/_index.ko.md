@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 ODT 문서에 서명하는 것은 오픈 형식 텍스트 문서가 확인된 승인 표시 및 서명자 메타데이터를 가질 수 있도록 합니다. 이는 소유권 형식에 의존하지 않고 제어된 문서 수명주기를 지원합니다.
+
+
+
+자동화 파이프라인에서 ODT 서명은 승인이 리뷰 마감 시 일관되게 적용되어 감사 가능성을 향상시키고 수동 문서 처리를 줄입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **오픈 형식 정책 승인**  
+
+&nbsp; 최종 검토 및 승인을 확인하기 위해 ODT 정책 문서에 서명합니다.
+
+
+
+* **편집 워크플로우 완료**  
+
+&nbsp; 콘텐츠 검토가 완료되면 ODT 초안에 서명을 적용합니다.
+
+
+
+* **내부 지식 베이스 거버넌스**  
+
+&nbsp; 공유 저장소에 발행하기 전에 ODT 문서에 서명합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **리뷰어 완료 트리거**  
+
+&nbsp; 모든 할당된 리뷰어가 승인을 완료하면 ODT 파일을 자동으로 서명합니다.
+
+
+
+* **저장소 발행 게이트**  
+
+&nbsp; 지식 베이스 발행 전에 ODT 문서에 서명합니다.
+
+
+
+* **자동화된 감사 트레일 삽입**  
+
+&nbsp; ODT 서명 실행 중에 서명자 식별 및 타임스탬프 메타데이터를 첨부합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

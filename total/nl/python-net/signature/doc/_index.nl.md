@@ -71,7 +71,75 @@ Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Programmatische ondertekening van DOC-bestanden maakt het mogelijk dat oude Word-documenten formele goedkeuringsindicatoren dragen zonder dat er een conversie van het formaat nodig is. Dit behoudt de compatibiliteit met oudere documentensystemen en voegt governance toe.
+
+
+
+Automatisering op basis van Python zorgt ervoor dat DOC-ondertekening consistent plaatsvindt, waardoor handmatige interventie in documentintensieve legacy-workflows wordt verminderd.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Goedkeuring van Legacy Contracten**  
+
+&nbsp; Voeg ondertekeningsgegevens toe aan DOC-contracten die worden gebruikt in oudere systemen.
+
+
+
+* **Goedkeuring van Beleidsdocumenten**  
+
+&nbsp; Markeer DOC-beleidsdocumenten als beoordeeld en goedgekeurd.
+
+
+
+* **Validatie van Documenten op Basis van Sjablonen**  
+
+&nbsp; Onderteken DOC-sjablonen na voltooiingscontroles.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Ondertekening Geactiveerd door Veldvoltooiing**  
+
+&nbsp; DOC-bestanden worden ondertekend zodra verplichte velden zijn ingevuld.
+
+
+
+* **Integratie van Goedkeuringsworkflow**  
+
+&nbsp; Ondertekening wordt geactiveerd door updates van de goedkeuringsstatus aan de backend.
+
+
+
+* **Certificering van Legacy-Archief**  
+
+&nbsp; DOC-bestanden worden ondertekend voordat ze gearchiveerd worden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

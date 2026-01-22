@@ -79,7 +79,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX, yapılandırılmış ve genişletilebilir içerik depolama için tasarlanmış modern, XML tabanlı bir belge formatıdır. DOCX dosyalarını bölmek, başlıklar, tablolar veya bölümler gibi belge bileşenlerine hassas erişim sağlar.
+
+
+
+Python tabanlı DOCX bölme, şema bilincine sahip ayrıştırma, ölçeklenebilir işleme ve içerik yönetim sistemleriyle sorunsuz entegrasyonu sağlayarak otomasyonu geliştirir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Modüler Belge Yayınlama**  
+
+&nbsp; Büyük DOCX dosyaları, yayına hazır bölümlere ayrılabilir.
+
+
+
+* **Seçmeli İçerik Çıkarma**  
+
+&nbsp; Hedeflenen iş akışları için yalnızca ilgili bölümler çıkarılır.
+
+
+
+* **Belge Sürüm Kontrolü**  
+
+&nbsp; Bölümler bağımsız izleme ve güncelleme imkanı sağlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Başlık Tabanlı Bölümleme**  
+
+&nbsp; Python betikleri, yapısal etiketler kullanarak belgeleri böler.
+
+
+
+* **Akış Tabanlı İçerik İşleme**  
+
+&nbsp; Çıkarılan bölümler otomatik olarak doğrulama veya render aşamalarına akar.
+
+
+
+* **Otomatik Uyumluluk Kontrolleri**  
+
+&nbsp; Her bölüm, kurallara karşı bağımsız olarak doğrulanır.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

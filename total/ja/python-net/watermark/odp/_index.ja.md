@@ -79,7 +79,85 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用してODPプレゼンテーションファイルに透かしを入れることで、スライドデッキの配布を制御し、所有権、機密性、またはレビュー状況をスライドに直接表示することができます。
+
+自動化により、ODPファイルに一括でスタンプを押すことが簡単になり、内部トレーニング、提案、およびパートナープレゼンテーションの一貫したガバナンスをサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **機密スライドデッキのラベリング**
+
+  &nbsp; すべてのスライドに目に見える機密マークを適用して、意図しない共有を減らします。
+
+
+
+* **クライアントデッキの提案所有権**
+
+  &nbsp; 所有権の通知をスタンプして、プレゼンテーションコンテンツの許可された使用を明確にします。
+
+
+
+* **トレーニング資料の帰属**
+
+  &nbsp; チーム間で共有される際にソースの正体を保つためにトレーニングデッキに透かしを入れます。
+
+
+
+* **レビューステージの指標**
+
+  &nbsp; 早期の配布を防ぐために「下書き」や「レビュー用」のオーバーレイを追加します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **スライド全体への透かしの挿入**
+
+  &nbsp; すべてのスライドに同じ透かしをプログラムで適用して、一貫した可視性を確保します。
+
+
+
+* **承認ワークフローの統合**
+
+  &nbsp; 承認後に下書きの透かしを自動的に削除し、最終的なマークを適用します。
+
+
+
+* **テンプレートベースの配置ルール**
+
+  &nbsp; スライドのレイアウトタイプに基づいて透かしを配置し、重要なコンテンツを覆わないようにします。
+
+
+
+* **リポジトリのクリーンアップ用の一括処理**
+
+  &nbsp; アーカイブや標準化のための移行中に古いODPデッキに透かしを入れて、ポリシーを標準化します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

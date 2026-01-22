@@ -71,7 +71,75 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az ODT dokumentumok aláírása Python API-k segítségével lehetővé teszi, hogy az nyílt formátumú szöveges dokumentumok hitelesített jóváhagyási jeleket és aláíró metaadatokat hordozzanak. Ez támogatja a kontrollált dokumentációs életciklusokat anélkül, hogy a szabadalmaztatott formátumokra támaszkodnánk.
+
+
+
+Az automatizált folyamatokban az ODT aláírás biztosítja, hogy a jóváhagyások egységesen alkalmazásra kerüljenek az ellenőrzés lezárásakor, javítva az ellenőrizhetőséget és csökkentve a manuális dokumentumkezelést.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* **Nyílt Formátumú Irányelv Jóváhagyás**  
+
+&nbsp; Írjon alá ODT irányelvi dokumentumokat a végső felülvizsgálat és jóváhagyás megerősítéséhez.
+
+
+
+* **Szerkesztési Munkafolyamat Lezárása**  
+
+&nbsp; Aláírások alkalmazása ODT vázlatokra, amikor a tartalomfelülvizsgálat befejeződik.
+
+
+
+* **Belső Tudásbázis Irányítás**  
+
+&nbsp; Írjon alá ODT dokumentumokat a megosztott tárolókba történő közzététel előtt.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* **Felülvizsgáló Befejezési Kiváltó**  
+
+&nbsp; Automatikusan írja alá az ODT fájlokat, amikor az összes hozzárendelt felülvizsgáló befejezi a jóváhagyásokat.
+
+
+
+* **Tároló Közzététel Kapuja**  
+
+&nbsp; Írjon alá ODT dokumentumokat, mielőtt azokat a tudásbázis közzétételére továbbítanák.
+
+
+
+* **Automatizált Ellenőrzési Nyomkövetés Beinjekció**  
+
+&nbsp; Csatolja az aláíró azonosítóját és időbélyeg metaadatokat az ODT aláírási folyamatok során.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

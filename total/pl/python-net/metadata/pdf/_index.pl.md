@@ -97,7 +97,93 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Ekstrakcja metadanych dokumentów dla plików **PDF** za pomocą interfejsów API w języku Python pomaga systemom przechwytywać podstawowe właściwości - takie jak tytuł, autor, producent, daty utworzenia i modyfikacji oraz zagnieżdżone identyfikatory - wspierając zarządzanie i odkrywalność nawet w przypadku treści głównie o ustalonej strukturze. Ma to znaczenie dla audytów, katalogowania i operacyjnego zarządzania repozytoriami plików PDF o dużej objętości.
+
+
+
+W potokach automatyzacji metadane PDF mogą sterować indeksowaniem, kierowaniem, egzekwowaniem retencji i przetwarzaniem wsadowym - umożliwiając integrację plików PDF w skalowalne przepływy pracy bez konieczności ręcznego sortowania.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne Zastosowania" %}}
+
+
+
+* **Katalogowanie Archiwum Cyfrowego**
+
+  Wyodrębnij metadane PDF, aby zbudować wiarygodny inwentarz dokumentów z atrybutami możliwymi do wyszukiwania.
+
+
+
+* **Audyty Zgodności i Retencji**
+
+  Wykorzystaj znaczniki czasu utworzenia/modyfikacji do walidacji terminów retencji i wykrywania niezgodności.
+
+
+
+* **Atrybucja Producenta i Źródła**
+
+  Przechwyć właściwości związane z producentem, aby zrozumieć pochodzenie treści i genezę przetwarzania.
+
+
+
+* **Sygnały Klasyfikacji Wsadowej**
+
+  Wykorzystaj pola metadanych do kategoryzowania plików PDF na dziedziny takie jak polityka, faktury, instrukcje obsługi czy raporty.
+
+
+
+* **Kontrole Jakości Operacyjnej**
+
+  Oznaczaj pliki PDF z brakującymi lub podejrzanymi metadanymi jako kandydatów do naprawy lub recenzji manualnej.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Automatyczne Sortowanie Przyjęć**
+
+  Gdy pliki PDF trafiają, wyodrębnij metadane i przekieruj je do torów przetwarzania na podstawie reguł dotyczących kompletności i wrażliwości.
+
+
+
+* **Aktualizacje Indeksu Sterowane Metadanymi**
+
+  Automatycznie aktualizuj indeks wyszukiwania za każdym razem, gdy dodawany jest lub zastępowany plik PDF, wykorzystując metadane do szybkiego odzyskiwania.
+
+
+
+* **Przepływ Przestrzegania Retencji**
+
+  Uruchamiaj zaplanowane zadania identyfikujące pliki PDF przekraczające limity retencji i generujące zadania usuwania lub archiwizacji.
+
+
+
+* **Raportowanie Wsadowe i Pulpity Rozdzielcze**
+
+  Agreguj wyodrębnione metadane PDF w okresowe raporty dla zarządzania, zgodności i nadzoru operacyjnego.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

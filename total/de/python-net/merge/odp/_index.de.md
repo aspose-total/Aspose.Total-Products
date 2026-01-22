@@ -79,7 +79,75 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Das Zusammenführen von OpenDocument-Präsentationsdateien mithilfe von Python-APIs unterstützt offene Standards und plattformübergreifende Präsentationsworkflows. Dies ist ideal für Umgebungen, die Open-Source-Office-Tools verwenden.
+
+
+
+Automatisierung gewährleistet Interoperabilität und skalierbare Präsentationsverarbeitung.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Plattformübergreifende Folienkonsolidierung (ODP)**  
+
+&nbsp; Fusionieren von ODP-Dateien, die in verschiedenen Tools erstellt wurden.
+
+
+
+* **Präsentationszusammenstellung nach Open-Standard (ODP)**  
+
+&nbsp; Kombinieren von ODP-Decks für einheitliche Auslieferung.
+
+
+
+* **Kollaborative Folienzusammenstellung (ODP)**  
+
+&nbsp; Zusammenführen von ODP-Dateien von verteilten Beitragenden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Offene Präsentations-Pipelines (ODP)**  
+
+&nbsp; Systeme fusionieren ODP-Dateien ohne proprietäre Abhängigkeiten.
+
+
+
+* **Geplante Deck-Zusammenstellung (ODP)**  
+
+&nbsp; Das Zusammenführen von ODP-Dateien erfolgt im Rahmen von Backend-Aufgaben.
+
+
+
+* **Interoperable Präsentationsautomatisierung (ODP)**  
+
+&nbsp; ODP-Dateien werden dynamisch in Workflows zusammengeführt.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -100,7 +100,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri ile **PDF belgelerinin** ayrıştırılması, yaygın olarak kullanılan, sabit düzen formatından metin ve düzen bilgilerinin çıkarılmasını sağlar. PDF'ler raporlarda, faturalarda ve resmi kayıtlarda yaygındır.
+
+
+
+Otomatik PDF ayrıştırma, manuel müdahale olmadan analiz, arama ve sistem entegrasyonu için düzenlenemeyen içeriğin kilidini açar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Rapor Veri Çıkarma**  
+
+&nbsp; Statik PDF raporlardan metin içeriği alır.
+
+
+
+* **Belge Arşiv İşleme**  
+
+&nbsp; PDF'leri aranabilir ve dizine eklenebilir metne dönüştürür.
+
+
+
+* **Bilgi Geri Alma Sistemleri**  
+
+&nbsp; Büyük PDF koleksiyonları içinde içerik keşfi sağlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Zamanlanmış PDF Alımı**  
+
+&nbsp; Belirli bir periyotta gelen PDF'leri otomatik olarak işler.
+
+
+
+* **Metin Normalizasyon Boruları**  
+
+&nbsp; Programlı olarak çıkarılan PDF metnini temizler ve standartlaştırır.
+
+
+
+* *\{Aşağı Akış Analitiği Etkinleştirme**  
+
+&nbsp; Ayrıştırılmış PDF içeriğini analitik veya ML iş akışlarına besler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

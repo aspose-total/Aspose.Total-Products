@@ -78,7 +78,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusion de documents au format Rich Text Format à l'aide des API Python permet une consolidation légère des documents tout en préservant la mise en forme de base et la lisibilité. Le RTF est largement utilisé pour l'interopérabilité entre les plates-formes et les systèmes.
+
+
+
+La fusion automatisée de RTF prend en charge un traitement rapide et programmatique des documents dans des environnements où la simplicité et la compatibilité sont essentielles.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Compilation légère de documents (RTF)**  
+
+&nbsp; Fusionner plusieurs fichiers RTF en un seul document lisible.
+
+
+
+* **Échange de contenu entre systèmes (RTF)**  
+
+&nbsp; Combinez des documents RTF partagés entre des systèmes hétérogènes.
+
+
+
+* **Préservation de la mise en forme simple (RTF)**  
+
+&nbsp; Agréger des fichiers RTF tout en conservant la mise en forme essentielle.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Pipelines de traitement de texte côté serveur (RTF)**  
+
+&nbsp; La fusion RTF est automatisée dans les services de traitement de texte.
+
+
+
+* **Gestion de documents à haut volume (RTF)**  
+
+&nbsp; Les systèmes fusionnent un grand nombre de fichiers RTF de manière programmatique.
+
+
+
+* **Automatisation axée sur la compatibilité (RTF)**  
+
+&nbsp; Les fichiers RTF sont fusionnés automatiquement pour une portabilité maximale.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

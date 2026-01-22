@@ -79,7 +79,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API合并宏启用的幻灯片演示支持自动化、交互式幻灯片传递。这些格式通常在受控环境中使用。
+
+
+
+自动化确保在合并过程中保留宏和幻灯片行为。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **交互式幻灯片组装（PPSM）**  
+
+&nbsp; 合并宏启用的幻灯片文件。
+
+
+
+* **自动演示演示（PPSM）**  
+
+&nbsp; 将PPSM文件组合用于自动演示。
+
+
+
+* **受控播放台（PPSM）**  
+
+&nbsp; 聚合PPSM文件以进行受控演示。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **基于规则的幻灯片创建（PPSM）**  
+
+&nbsp; 系统根据逻辑规则合并PPSM文件。
+
+
+
+* **后端自动化保留（PPSM）**  
+
+&nbsp; PPSM合并保留交互行为。
+
+
+
+* **定时演示生成（PPSM）**  
+
+&nbsp; 幻灯片将根据时间表自动合并。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

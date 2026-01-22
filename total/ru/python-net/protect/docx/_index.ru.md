@@ -76,7 +76,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX - это современный формат документов Word, широко используемый для отчетов, контрактов и совместных документов. Защита файлов DOCX критически важна для сохранения целостности контента и предотвращения несанкционированных изменений в цифровых рабочих процессах.
+
+
+
+Python API позволяют легко защищать файлы DOCX, применяя пароли и настройки разрешений, делая безопасность документов неотъемлемой частью автоматизированных потоков контента.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Защита контрактов**  
+
+&nbsp; Обеспечьте безопасность DOCX контрактов, чтобы предотвратить несанкционированные изменения после утверждения.
+
+
+
+* **Управление совместным контентом**  
+
+&nbsp; Заблокируйте чувствительные разделы, разрешив ограниченное взаимодействие пользователей.
+
+
+
+* **Защита интеллектуальной собственности**  
+
+&nbsp; Защитите собственные документы, распространяемые между отделами или партнерами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Блокировка документов на основе рабочего процесса**  
+
+&nbsp; Автоматическая защита файлов DOCX на определенных этапах рабочего процесса.
+
+
+
+* **Динамическое назначение разрешений**  
+
+&nbsp; Применяйте ограничения на основе ролей программно во время генерации документов.
+
+
+
+* **Безопасная публикация контента**  
+
+&nbsp; Защитите выходные файлы DOCX перед автоматизированным распространением или хранением.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

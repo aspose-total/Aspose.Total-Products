@@ -79,7 +79,85 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Slides for Python via 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chèn dấu nước **ODP** vào các tệp trình bày bằng Python APIs giúp kiểm soát phân phối slide decks bằng cách đánh dấu sở hữu, tính bí mật hoặc trạng thái đánh giá trực tiếp trên các slide.
+
+Tự động hóa giúp dễ dàng đóng dấu các tệp ODP theo lô, hỗ trợ quản lý nhất quán cho đào tạo nội bộ, đề xuất và trình bày cho đối tác.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Đánh Dấu Slide Deck Bí Mật**  
+
+&nbsp; Áp dụng các dấu bí mật rõ ràng trên tất cả các slide để giảm chia sẻ không cần thiết.
+
+
+
+* **Sở Hữu Đề Nghị cho Slide Deck của Khách Hàng**  
+
+&nbsp; Đóng dấu thông báo sở hữu để làm rõ việc sử dụng cho nội dung trình bày.
+
+
+
+* **Chỉnh Sửa Tài Liệu Đào Tạo**  
+
+&nbsp; Đánh dấu tài liệu đào tạo để giữ nguyên nguồn gốc khi chia sẻ qua các nhóm.
+
+
+
+* **Chỉ Định Trạng Thái Đánh Giá**  
+
+&nbsp; Thêm lớp phủ "NHÁP" hoặc "ĐỂ XEM XÉT" để ngăn chặn phân phối sớm.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Chèn Dấu Nước Toàn Bộ Slide**  
+
+&nbsp; Áp dụng dấu nước giống nhau cho mỗi slide để tăng khả năng nhìn thấy nhất quán.
+
+
+
+* **Tích Hợp Luồng Làm Việc Phê Duyệt**  
+
+&nbsp; Tự động loại bỏ dấu nước nháp và áp dụng dấu cuối cùng sau khi được phê duyệt.
+
+
+
+* **Quy Tắc Đặt Vị Trí Dựa trên Mẫu**  
+
+&nbsp; Đặt dấu nước dựa trên loại bố cục slide để tránh che phủ nội dung chính.
+
+
+
+* **Xử Lý Theo Lô cho Việc Dọn Dẹp Kho Lưu Trữ**  
+
+&nbsp; Đánh dấu các tệp ODP cũ trong quá trình lưu trữ hoặc di chuyển để chuẩn hóa chính sách.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

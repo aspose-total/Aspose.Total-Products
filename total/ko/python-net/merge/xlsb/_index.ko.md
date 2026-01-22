@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+바이너리 Excel 워크북을 병합하는 Python API를 사용하면 대용량 데이터셋을 효율적으로 처리하고 파일 크기를 줄일 수 있습니다. 이 형식은 고성능 환경에서 높은 데이터 양을 다루는 데 최적화되어 있습니다.
+
+
+
+XLSB 병합 주변의 자동화는 확장 가능한 분석 워크플로우를 지원하면서 속도와 효율성을 유지합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **대용량 데이터 통합 (XLSB)**  
+
+&nbsp; 대규모 바이너리 스프레드시트를 단일 분석 워크북으로 병합합니다.
+
+
+
+* **성능 중요한 보고서 작성 (XLSB)**  
+
+&nbsp; 빠른 로딩과 처리를 위해 최적화된 XLSB 파일을 결합합니다.
+
+
+
+* **기업 데이터 웨어하우징 (XLSB)**  
+
+&nbsp; 하류 분석을 위해 XLSB 데이터셋을 집계합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동화된 대용량 파일 처리 (XLSB)**  
+
+&nbsp; 시스템은 대용량 데이터 수집 중에 XLSB 파일을 병합합니다.
+
+
+
+* **분석 파이프라인 통합 (XLSB)**  
+
+&nbsp; XLSB 병합은 자동화된 분석 워크플로우의 일부로 발생합니다.
+
+
+
+* **자원 효율적인 일괄 작업 (XLSB)**  
+
+&nbsp; 바이너리 스프레드시트가 예약된 일괄 프로세스에서 병합됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

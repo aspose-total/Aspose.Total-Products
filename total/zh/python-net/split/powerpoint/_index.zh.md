@@ -73,7 +73,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PowerPoint文件存储用于演示和报告的基于幻灯片的视觉内容。拆分PowerPoint文件可以实现对单个幻灯片或幻灯片组的细粒度访问。
+
+
+
+基于Python的自动化允许在现代工作流程中可伸缩地操作演示内容。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **幻灯片在演示中的重复使用**  
+
+&nbsp; 提取幻灯片以在新幻灯片中重复使用。
+
+
+
+* **演示内容管理**  
+
+&nbsp; 在规模上独立管理幻灯片。
+
+
+
+* **审阅和批准工作流程**  
+
+&nbsp; 仅与利益相关者共享相关幻灯片。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化幻灯片分割**  
+
+&nbsp; Python脚本将演示拆分为幻灯片单元。
+
+
+
+* **动态演示生成**  
+
+&nbsp; 根据规则组装幻灯片。
+
+
+
+* **演示版本控制系统**  
+
+&nbsp; 自动跟踪幻灯片级别的更改。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -90,7 +90,73 @@ DOCM 뷰어 앱이나 유틸리티를 개발해야 합니까? [Aspose.Total for 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용한 DOCM 문서 보기는 포함된 로직을 실행하지 않고 안전하게 매크로가 포함된 문서를 검사할 수 있도록 합니다.
+
+가시성이 필요하고 보안 위험이 없는 제어된 환경에서 이 기능은 필수적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **매크로 인식 문서 검토**
+
+&nbsp; 매크로를 비활성화한 채로 콘텐츠를 확인합니다.
+
+
+
+* **보안 중심의 검사**
+
+&nbsp; 실행하지 않고 문서의 구조와 텍스트를 검토합니다.
+
+
+
+* **제어된 문서 액세스**
+
+&nbsp; 제한된 또는 자동화된 시스템에서 안전하게 확인을 가능하게 합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **안전한 수용 파이프라인**
+
+&nbsp; Python 자동화를 통해 매크로를 트리거하지 않고 DOCM 콘텐츠를 표시합니다.
+
+
+
+* **준수 검토 자동화**
+
+&nbsp; 문서가 자동화된 정책 검사의 일환으로 확인됩니다.
+
+
+
+* **사전 승인 워크플로우**
+
+&nbsp; 자동 미리보기가 인간 중심의 승인을 지원합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,75 @@ ODP パスワード保護アプリまたはユーティリティを開発する�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODPファイルは、オープン標準のプレゼンテーションワークフローで一般的に使用されています。これらのプレゼンテーションファイルを保護することで、視覚コンテンツやメッセージが共有や協力の際にそのまま保たれます。
+
+
+
+Python APIを使用すると、ODPプレゼンテーションを自動的に保護することができ、スケーラブルなプレゼンテーション生成および配信システム内で安全に取り扱うことができます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **プレゼンテーションの整合性保護**  
+
+&nbsp; スライドやレイアウトへの未承認の変更を防止します。
+
+
+
+* **機密ブリーフィング**  
+
+&nbsp; 内部または外部での共有前に機密プレゼンテーションを安全に保護します。
+
+
+
+* **標準化されたプレゼンテーションガバナンス**  
+
+&nbsp; すべてのODPファイルに一貫した保護ルールを適用します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **自動化されたスライドデッキ保護**  
+
+&nbsp; 自動生成後すぐにODPファイルを安全に保護します。
+
+
+
+* **パイプラインベースのセキュリティ強制**  
+
+&nbsp; CI/CDスタイルのコンテンツワークフロー中に保護を適用します。
+
+
+
+* **プログラマティックなアクセス制限**  
+
+&nbsp; スクリプトを介して動的に編集および表示権限を制御します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

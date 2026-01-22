@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用して**XLS**スプレッドシートに透かしを入れることで、古いレポートワークフローで広く使用されているデータアーティファクトに所有権と機密性の目印を追加することができ、遺産Excelファイルを保護できます。
+
+自動化により、大規模なアーカイブに対してXLSの透かし付けを実用的に行い、各ワークブックを手動で編集することなく一貫したガバナンスを確保できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **遺産ファイナンスシートの保護**  
+
+&nbsp; 古いXLS予算と予測シートに機密ラベルを追加します。
+
+
+
+* **運用レポートの所有権マーク**  
+
+&nbsp; XLSレポートにスタンプを押して、転送されたコピー全体でソースの正体を維持します。
+
+
+
+* **下書きデータインジケータ**  
+
+&nbsp; 検証されていない数値からのエラーを減らすために、「PRELIMINARY」の透かしを適用します。
+
+
+
+* **外部共有のための配布コントロール**  
+
+&nbsp; ベンダーと共有される遺産スプレッドシートに可視的な使用制限を埋め込みます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **自動アーカイブスタンプ**  
+
+&nbsp; 新しいストレージやガバナンスシステムへの移行中にXLSファイルに透かしを入れます。
+
+
+
+* **受信レポートのためのフォルダウォッチャ**  
+
+&nbsp; 新しいXLSドロップを検出し、標準ポリシーの透かしを自動的に適用します。
+
+
+
+* **レポートタイプルールによる透かし**  
+
+&nbsp; ファイル名パターンや分類メタデータに基づいて透かしの内容を選択します。
+
+
+
+* **スケジュールされたエクスポート透かし**  
+
+&nbsp; ステークホルダーに配信される前に自動化されたXLSエクスポートに透かしを押します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

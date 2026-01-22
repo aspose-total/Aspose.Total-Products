@@ -89,7 +89,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การดูไฟล์ ODP โดยใช้ Python APIs ช่วยให้สามารถตรวจสอบเอกสารนำเสนอที่เปิดใช้งานในรูปแบบที่เป็นเนื้อหาที่เป็นพลัตฟอร์มได้
+
+นี้สนับสนุนความสามารถในการทำงานร่วมกันและกระบวนการทำงานของการนำเสนออัตโนมัติ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **การทบทวนเอกสารนำเสนอเปิดใช้งาน**  
+
+&nbsp; ดูสไลด์ที่สร้างขึ้นในรูปแบบเอกสารที่เปิดใช้งาน
+
+
+
+* **การตรวจสอบความถูกต้องของแพลตฟอร์มต่าง ๆ**  
+
+&nbsp; ให้แน่ใจว่าการนำเสนอถูกแสดงอย่างสม่ำเสมอ
+
+
+
+* **การตรวจสอบเนื้อหาในการนำเสนอ**  
+
+&nbsp; ทบทวนข้อความและโครงสร้างของสไลด์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การตรวจสอบการนำเสนอโดยอัตโนมัติ**  
+
+&nbsp; กระบวนการทำงานของ Python ทำให้ไฟล์ ODP สามารถทบทวนได้
+
+
+
+* **การตรวจสอบความสามารถในการทำงานร่วมกัน**  
+
+&nbsp; ดูสไลด์เพื่อให้แน่ใจว่าเป็นไฟล์ที่เข้ากันได้
+
+
+
+* **บริการดูตัวอย่าง**  
+
+&nbsp; การนำเสนอถูกแสดงอย่างไดนามิก
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

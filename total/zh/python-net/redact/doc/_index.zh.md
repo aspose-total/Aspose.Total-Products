@@ -74,7 +74,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API对DOC文件进行文档编辑，使组织能够安全地从仍然广泛在企业中使用的传统文字处理文档中删除敏感信息。这种能力对于合规性、数据保护和在受监管环境中安全共享文档至关重要。
+
+
+
+通过将基于Python的编辑集成到自动化工作流程中，可以大规模处理DOC文件，确保数据隐私规则的一致执行，同时减少手动工作和人为错误。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **传统文档合规性**  
+
+  &nbsp; 从旧的DOC文件中删除机密数据，以满足监管和审计要求。
+
+
+
+* **安全内部共享**  
+
+  &nbsp; 在将文档分发给部门或团队之前删除敏感部分。
+
+
+
+* **历史存档清理**  
+
+  &nbsp; 清理存档的DOC文件，使其适合长期存储或公共访问。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量编辑管道**  
+
+  &nbsp; 使用定时Python作业自动化处理数千个DOC文件的编辑。
+
+
+
+* **基于规则的文本屏蔽**  
+
+  &nbsp; 应用预定义模式自动检测和编辑敏感术语。
+
+
+
+* **文档摄取自动化**  
+
+  &nbsp; 在文档进入存储系统之前将编辑集成到摄取管道中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

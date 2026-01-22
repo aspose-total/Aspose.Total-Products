@@ -85,7 +85,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API合并通用图像格式为处理各种视觉资产提供了统一的方法，使得在单一工作流程下处理各种格式的图像变得简单。这种抽象简化了跨混合格式的图像处理。
+
+
+
+自动化实现了现代系统中可扩展的、与格式无关的图像合并。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **多格式图像统一（IMAGE）**  
+
+  合并各种图像格式为单一输出。
+
+
+
+* **跨源视觉聚合（IMAGE）**  
+
+  结合来自不同工具和平台的图像。
+
+
+
+* **企业图像协调（IMAGE）**  
+
+  将异构图像聚合为统一的视觉效果。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **与格式无关的图像流水线（IMAGE）**  
+
+  无论格式如何，自动化工作流都会合并图像。
+
+
+
+* **统一的视觉生成（IMAGE）**  
+
+  系统动态生成合并的图像。
+
+
+
+* **可扩展的图像编排（IMAGE）**  
+
+  编程合并支持大规模图像工作流。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

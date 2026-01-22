@@ -79,7 +79,85 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Znakowanie wodne plików prezentacji **ODP** za pomocą interfejsów API w języku Python pomaga kontrolować dystrybucję slajdów poprzez oznaczanie właściciela, poufności lub statusu przeglądu bezpośrednio na slajdach.
+
+Automatyzacja ułatwia stemplowanie plików ODP zbiorczo, wspierając spójne zarządzanie wewnętrznym szkoleniem, propozycjami i prezentacjami dla partnerów.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Oznaczanie poufnych slajdów**  
+
+&nbsp; Dodawanie widocznych znaków poufności na wszystkich slajdach w celu ograniczenia przypadkowego udostępniania.
+
+
+
+* **Własność propozycji dla prezentacji klienta**  
+
+&nbsp; Stemplowanie informacji o właścicielu w celu wyjaśnienia dozwolonego użytkowania treści prezentacji.
+
+
+
+* **Atrybucja materiałów szkoleniowych**  
+
+&nbsp; Znakowanie wodne materiałów szkoleniowych, aby zachować tożsamość źródła podczas udostępniania w zespołach.
+
+
+
+* **Wskaźniki etapu przeglądu**  
+
+&nbsp; Dodawanie nakładek „WERSJA ROBOCZA” lub „DO PRZEGLĄDU”, aby zapobiec przedwczesnemu rozpowszechnianiu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Wstrzykiwanie znaku wodnego na cały slajd**  
+
+&nbsp; Programowe zastosowanie tego samego znaku wodnego do każdego slajdu dla spójnej widoczności.
+
+
+
+* **Integracja z procesem zatwierdzania**  
+
+&nbsp; Automatyczne usuwanie wersji roboczych znaków wodnych i stosowanie ostatecznych znaków po zatwierdzeniu.
+
+
+
+* **Zasady pozycjonowania oparte na szablonach**  
+
+&nbsp; Umieszczanie znaków wodnych na podstawie typów układów slajdów, aby uniknąć zasłaniania kluczowych treści.
+
+
+
+* **Przetwarzanie zbiorcze dla porządkowania repozytorium**  
+
+&nbsp; Znakowanie wodne starszych pakietów ODP podczas archiwizacji lub migracji w celu standaryzacji zasad.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

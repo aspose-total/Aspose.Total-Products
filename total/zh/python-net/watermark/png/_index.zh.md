@@ -73,7 +73,87 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API为**PNG**图像添加水印可保护依赖于锐利边缘和透明度的图形，如UI资产、图表和品牌视觉。
+
+自动化使得可以在尊重alpha通道的同时实现一致的水印叠加，使得PNG水印在设计系统和大规模网络发布中更加可靠。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **透明标志保护**  
+
+&nbsp; 将水印应用于透明PNG标志，以阻止未经许可的再利用。
+
+
+
+* **文档中的图表所有权**  
+
+&nbsp; 在技术图表上盖章，以保留知识库中复制内容的归属。
+
+
+
+* **UI资产治理**  
+
+&nbsp; 为出口的界面模拟添加水印，以澄清草稿状态和所有权。
+
+
+
+* **合作伙伴套件分发控制**  
+
+&nbsp; 向共享的PNG资产添加标识符，以跟踪分发和再利用。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **Alpha通道安全水印渲染**  
+
+&nbsp; 在不破坏原始图像透明度的情况下应用半透明水印。
+
+
+
+* **设计导出管道盖章**  
+
+&nbsp; 当从模板生成资产时，自动为PNG导出添加水印。
+
+
+
+* **内容感知安全放置**  
+
+&nbsp; 通过程序避免在关键UI元素或图表标签上添加水印。
+
+
+
+* **团队自动生成变体产品**  
+
+&nbsp; 为受控协作生成特定团队的带水印的PNG集。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

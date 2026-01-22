@@ -79,7 +79,75 @@ Para obter mais detalhes, consulte [Documentação do produto](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Os arquivos DOT servem como modelos de documento que definem a estrutura e os padrões de formatação. A divisão de arquivos DOT permite a análise e reutilização de componentes de modelo individuais.
+
+
+
+Automatizar a divisão de arquivos DOT com Python suporta a gestão escalável de modelos e fluxos de trabalho estruturados de geração de documentos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Reutilização de Componentes de Modelo**  
+
+  &nbsp; Extrair seções específicas do modelo para reutilização em diferentes documentos.
+
+
+
+* **Auditoria de Modelos**  
+
+  &nbsp; Analisar partes individuais quanto à conformidade e consistência.
+
+
+
+* **Geração de Documentos Padronizada**  
+
+  &nbsp; Permitir o uso controlado de elementos do modelo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Automação de Análise de Modelos**  
+
+  &nbsp; Scripts Python isolam blocos de modelo de forma programática.
+
+
+
+* **Montagem Dinâmica de Modelos**  
+
+  &nbsp; Os componentes divididos são recombinados dinamicamente conforme necessário.
+
+
+
+* **Pipelines de Fiscalização e Cumprimento**  
+
+  &nbsp; Verificações automatizadas garantem que apenas seções aprovadas sejam utilizadas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

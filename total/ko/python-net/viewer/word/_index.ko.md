@@ -90,7 +90,73 @@ WORD 뷰어 앱이나 유틸리티를 개발해야 합니까? [Aspose.Total for 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 Word 문서를 볼 때는 여러 Word 호환 형식에서 텍스트 기반 파일을 검사하는 통합된 방법을 제공합니다.
+
+이는 자동화된 시스템에서 일관된 문서 처리를 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **통합된 문서 검토**  
+
+&nbsp; 단일 인터페이스를 통해 다양한 Word 문서를 볼 수 있습니다.
+
+
+
+* **콘텐츠 일관성 확인**  
+
+&nbsp; 파일 간 텍스트와 구조를 검사합니다.
+
+
+
+* **워크플로 통합**  
+
+&nbsp; 문서 보기를 처리 파이프라인에 포함합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동화된 콘텐츠 파이프라인**  
+
+&nbsp; Python 프로세스가 다단계 워크플로 중에 Word 문서를 렌더링합니다.
+
+
+
+* **미리보기 서비스**  
+
+&nbsp; 문서가 검토나 승인을 위해 동적으로 표시됩니다.
+
+
+
+* **일괄 문서 작업**  
+
+&nbsp; 대량의 Word 파일을 프로그래밍 방식으로 볼 수 있습니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

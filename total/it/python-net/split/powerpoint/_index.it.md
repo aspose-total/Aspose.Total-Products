@@ -73,7 +73,75 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+I file PowerPoint memorizzano contenuti visivi basati su diapositive utilizzati nelle presentazioni e nei report. La suddivisione dei file PowerPoint consente un accesso granulare alle singole diapositive o gruppi di diapositive.
+
+
+
+L'automazione basata su Python consente una manipolazione scalabile dei contenuti delle presentazioni nei flussi di lavoro moderni.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Riutilizzo delle diapositive tra presentazioni**  
+
+&nbsp; Estrarre diapositive per riutilizzarle in nuovi mazzi.
+
+
+
+* **Gestione dei contenuti della presentazione**  
+
+&nbsp; Gestire diapositive in modo indipendente su larga scala.
+
+
+
+* **Flussi di lavoro di revisione e approvazione**  
+
+&nbsp; Condividere solo diapositive rilevanti con gli interessati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Segmentazione automatica delle diapositive**  
+
+&nbsp; Gli script Python suddividono i mazzi in unità diapositiva.
+
+
+
+* **Generazione dinamica del mazzo**  
+
+&nbsp; Le diapositive vengono assemblate in base a regole.
+
+
+
+* **Sistemi di versionamento della presentazione**  
+
+&nbsp; Monitorare automaticamente le modifiche a livello di diapositiva.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -133,7 +201,7 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

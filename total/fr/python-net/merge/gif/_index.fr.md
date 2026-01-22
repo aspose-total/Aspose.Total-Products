@@ -85,7 +85,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusion d'images GIF à l'aide des API Python permet de créer des animations unifiées ou des séquences visuelles consolidées. Cela est couramment utilisé pour du contenu pédagogique, des visuels de surveillance et des graphiques de mouvement légers.
+
+
+
+L'automatisation permet une composition GIF cohérente et reproductible sans édition manuelle.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Assemblage de séquences animées (GIF)**  
+
+&nbsp; Fusionner plusieurs GIF en une seule animation.
+
+
+
+* **Création visuelle pédagogique (GIF)**  
+
+&nbsp; Combinez des GIF basés sur des étapes en un visuel guidé.
+
+
+
+* **Agrégation de captures de surveillance (GIF)**  
+
+&nbsp; Agréger des captures GIF pour une visualisation chronologique.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Génération d'animations automatisée (GIF)**  
+
+&nbsp; Les systèmes fusionnent les GIF dynamiquement en fonction des événements.
+
+
+
+* **Mises à jour visuelles basées sur le flux de travail (GIF)**  
+
+&nbsp; La fusion de GIF est déclenchée par des changements de processus.
+
+
+
+* **Pipelines de contenu animé programmables (GIF)**  
+
+&nbsp; Les pipelines automatisés génèrent des sorties GIF fusionnées.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

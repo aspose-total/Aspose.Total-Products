@@ -89,7 +89,73 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Python via
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Xem tệp PPSM với Python APIs cho phép kiểm tra an toàn các bản trình bày trình diễn được thiết kế để tự động phát lại.
+
+Điều này hỗ trợ các luồng công việc tự động kiểm soát nơi cần thiết có thể nhìn thấy mà không thực thi các macro nhúng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Đánh Giá Bản Trình Diễn Có Macro**  
+
+&nbsp; Xem nội dung bản trình diễn trong khi giữ các macro không hoạt động.
+
+
+
+* **Kiểm Tra Luồng Phát Lại**  
+
+&nbsp; Kiểm tra thứ tự slide và cấu trúc bản trình bày dành cho hiển thị tự động.
+
+
+
+* **Xác Thực Phân Phối An Toàn**  
+
+&nbsp; Xem xét tệp PPSM trước khi chia sẻ hoặc triển khai kiểm soát.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Các Quy Trình Tiếp Nhận Bản Trình Diễn An Toàn**  
+
+&nbsp; Luồng công việc Python render tệp PPSM an toàn trong quá trình tiếp nhận.
+
+
+
+* **Đánh Giá Tự Động Hóa Theo Tuân Thủ**  
+
+&nbsp; Bản trình diễn được xem xét như một phần của các kiểm tra chính sách tự động.
+
+
+
+* **Luồng Công Việc Trình Bày Được Phê Duyệt Trước**  
+
+&nbsp; Xem trước tự động hỗ trợ việc phê duyệt dựa trên con người hoặc hệ thống.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

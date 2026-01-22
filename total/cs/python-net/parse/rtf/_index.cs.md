@@ -104,7 +104,77 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Parsování **RTF dokumentů** s Python API umožňuje extrakci z lehkého, široce podporovaného textového formátu, který zachovává základní formátování. RTF je často používáno pro interoperabilitu a výměnu dat z dědictví.
+
+
+
+Automatizované parsování RTF podporuje rychlou extrakci textu s minimální strukturální režií.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Extrakce lehkých dokumentů**  
+
+&nbsp; Získává text z jednoduše formátovaných dokumentů.
+
+
+
+* **Interoperabilita s dědictvím systému**  
+
+&nbsp; Zpracovává soubory generované staršími nebo minimálními editory.
+
+
+
+* **Normalizace textu**  
+
+&nbsp; Převádí RTF do čistých, plain-textových reprezentací.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Zpracování textu ve velkém objemu**  
+
+&nbsp; Automatizuje extrakci z velkých souborů RTF.
+
+
+
+* **Simplifikace formátování v rourách**  
+
+&nbsp; Odstraňuje formátování a zachovává základní obsah.
+
+
+
+* **Výměna dat mezi systémy**  
+
+&nbsp; Umožňuje programatické zpracování vstupů založených na RTF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

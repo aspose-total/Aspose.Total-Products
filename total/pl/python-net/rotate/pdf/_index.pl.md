@@ -72,7 +72,87 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Obracanie dokumentów PDF programowo jest powszechnym wymaganiem we współczesnych przepływach pracy z dokumentami, zwłaszcza przy pracy z zeskanowanymi plikami, stronami o różnej orientacji lub treściami przesłanymi przez użytkowników. Obracanie PDF za pomocą interfejsów API w języku Python pozwala programistom i systemom niezawodnie korygować orientację strony bez konieczności ingerencji manualnej, poprawiając czytelność, spójność i dokładność przetwarzania dalszego.
+
+
+
+Wykorzystując automatyzację opartą na Pythonie, obracanie PDF można bezproblemowo zintegrować z większymi potokami pracy, takimi jak systemy archiwizacji dokumentów i platformy zarządzania treścią. To umożliwia skalowalne, powtarzalne i bezbłędne zarządzanie orientacją dokumentów w przypadku dużej liczby plików.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Korygowanie Orientacji Zeskanowanych Dokumentów**  
+
+&nbsp; Automatycznie obraca nieprawidłowo zeskanowane strony PDF do właściwej orientacji, poprawiając czytelność i użyteczność.
+
+
+
+* **Standaryzacja PDF-ów z Wielu Źródeł**  
+
+&nbsp; Wyrównuje orientację stron podczas łączenia PDF-ów z różnych źródeł, zapewniając spójne doświadczenie z przeglądania.
+
+
+
+* **Przetwarzanie Wstępne dla OCR i Wyodrębniania Tekstu**  
+
+&nbsp; Zapewnia poprawną orientację stron przed OCR, poprawiając dokładność rozpoznawania tekstu i jakość danych.
+
+
+
+* **Normalizacja Przesłanych przez Użytkownika Dokumentów**  
+
+&nbsp; Dostosowuje obrót strony dla przesłanych plików PDF, aby spełnić standardy platformy lub zgodność.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Automatyczne Potoki Przyjmowania**  
+
+&nbsp; Obracanie PDF jest stosowane automatycznie podczas przyjmowania, aby znormalizować dokumenty przed przechowywaniem lub dalszym przetwarzaniem.
+
+
+
+* **Przetwarzanie Partii Dokumentów**  
+
+&nbsp; Duże kolekcje plików PDF są obracane programowo zbiorczo, zmniejszając nakład pracy manualnej i czas przetwarzania.
+
+
+
+* **Automatyzacja Przetwarzania Przed OCR**  
+
+&nbsp; Obrót jest dynamicznie stosowany przed zadaniami OCR, aby zwiększyć dokładność rozpoznawania w zautomatyzowanych systemach wyodrębniania tekstu.
+
+
+
+* **Przetwarzanie na Żądanie za Pośrednictwem API**  
+
+&nbsp; Strony PDF są obracane w czasie rzeczywistym za pomocą interfejsów API jako część dynamicznych usług transformacji dokumentów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

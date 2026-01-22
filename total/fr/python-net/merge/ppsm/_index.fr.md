@@ -79,7 +79,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusion de présentations de diaporamas activés par macro à l'aide des API Python prend en charge la livraison automatisée et interactive de diaporamas. Ces formats sont souvent utilisés dans des environnements contrôlés.
+
+
+
+L'automatisation garantit que les macros et les comportements des diaporamas sont préservés lors de la fusion.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Assemblage interactif de diaporamas (PPSM)**  
+
+&nbsp; Fusionner des fichiers de diaporamas activés par macro.
+
+
+
+* **Présentation de démonstration automatisée (PPSM)**  
+
+&nbsp; Combinez les fichiers PPSM pour des démonstrations automatisées.
+
+
+
+* **Decks de lecture contrôlés (PPSM)**  
+
+&nbsp; Agréger des fichiers PPSM pour des présentations réglementées.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Création de diaporamas basée sur des règles (PPSM)**  
+
+&nbsp; Les systèmes fusionnent les fichiers PPSM en fonction de règles logiques.
+
+
+
+* **Préservation de l'automatisation en arrière-plan (PPSM)**  
+
+&nbsp; La fusion de PPSM conserve les comportements interactifs.
+
+
+
+* **Génération de démonstration planifiée (PPSM)**  
+
+&nbsp; Les diaporamas sont fusionnés automatiquement selon des plannings.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

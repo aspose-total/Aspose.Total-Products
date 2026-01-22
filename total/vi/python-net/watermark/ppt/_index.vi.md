@@ -79,7 +79,85 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Slides for Python via 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chèn dấu nước vào tệp **PPT** bằng Python APIs giúp bảo vệ các bản trình bày PowerPoint cũ bằng cách thêm nhãn kiểm soát rõ ràng mà không cần chỉnh sửa thủ công trong môi trường tác giả ban đầu.
+
+Tự động hỗ trợ việc chèn dấu nước một cách nhất quán trên các bộ slides cũ, cho phép quản lý quy mô cho các bộ sưu tập lưu trữ, thư viện bán hàng và tài sản trình bày được thừa kế.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Dấu Bí Mật cho Bộ Slides Cũ**  
+
+&nbsp; Áp dụng nhãn "CONFIDENTIAL" cho các bộ slides PPT cũ vẫn được sử dụng nội bộ.
+
+
+
+* **Kiểm Soát Chỉ Chia Sẻ Cho Mục Đích Chứng Thực**  
+
+&nbsp; Thêm lớp phủ "FOR REVIEW" để ngăn chặn phân phối công khai không cần ý thức.
+
+
+
+* **Nhãn Sở Hữu cho Tài Sản Trí Tuệ Lịch Sử**  
+
+&nbsp; Chèn dấu nước vào các slides cũ để bảo tồn sự ghi nhận trên các bản trình bày được sao chép.
+
+
+
+* **Thư Viện Slides Bị Hạn Chế Đối Tác**  
+
+&nbsp; Nhúng các hạn chế vào các bộ slides PPT được phân phối cho các đối tác bên ngoài.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Chèn Dấu Nước Tự Động Cho Toàn Bộ Thư Mục PPT Lưu Trữ**  
+
+&nbsp; Đóng dấu tự động cho toàn bộ thư mục slides cũ để chuẩn hóa quản lý.
+
+
+
+* **Đặt Vị Trí Dựa Trên Bố Cục Tự Động**  
+
+&nbsp; Đặt dấu nước dựa trên bố cục slide để tránh chồng lấn nội dung.
+
+
+
+* **Tạo Ra Các Phiên Bản Đã Được Dán Dấu**  
+
+&nbsp; Tạo ra các biến thể "xem trước" và "nội bộ" đã được dán dấu một cách tự động.
+
+
+
+* **Đóng Dấu Khi Yêu Cầu Truy Cập Được Kích Hoạt**  
+
+&nbsp; Áp dụng dấu nước cụ thể cho người nhận khi các bộ slides được yêu cầu thông qua một cổng thông tin tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

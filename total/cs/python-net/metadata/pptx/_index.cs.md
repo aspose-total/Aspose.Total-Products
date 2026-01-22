@@ -75,7 +75,93 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Extrakce metadat dokumentů pro soubory **PPTX** pomocí Python API poskytuje strukturovaný přístup k moderním vlastnostem prezentace - umožňuje konzistentní indexaci, auditování a sledování životního cyklu prezentací ve velkém měřítku. To je cenné pro organizace spravující velké objemy provozních, školicích nebo prezentací pro zákazníky.
+
+
+
+V automatizačních potrubích se metadatům PPTX stávají lehkou kontrolní plochou pro směrování a správu: podporují automatickou klasifikaci, plánované recenze, kontrolu publikování a integrace se systémy pro vyhledávání a správu obsahu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití případů" %}}
+
+
+
+* **Katalog prezentací a objevování**
+
+  Extrahujte metadatů PPTX pro vytvoření vyhledávatelných katalogů podle tématu, vlastníka a historie aktualizací.
+
+
+
+* **Správa životního cyklu prezentací**
+
+  Použijte časové razítka a vlastní vlastnosti k vynucení cyklů recenzí a politik čerstvosti obsahu.
+
+
+
+* **Automatické přiřazení vlastnictví**
+
+  Přiřaďte autora a posledního editora týmům odpovědným za schválení a údržbu.
+
+
+
+* **Validace připravenosti k publikování**
+
+  Ujistěte se, že požadované popisné vlastnosti existují před distribucí sady PPTX externě.
+
+
+
+* **Operační auditové stopy**
+
+  Udržujte auditní záznamy založené na metadatech o tom, kdy byly sady vytvořeny, aktualizovány a kým.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* **Klasifikace a označování při nahrávání**
+
+  Při příjmu extrahujte metadatů PPTX a automaticky aplikujte štítky a pravidla pro směrování složek pro konzistentní organizaci.
+
+
+
+* **Generování plánovaných revizních úkolů**
+
+  Vytvořte pravidelné revizní úkoly, když sady PPTX překročí limity zastaralosti nebo metadatů naznačují změny vlastnictví.
+
+
+
+* **Kontrolované distribuční potrubí**
+
+  Umožněte nebo omezte distribuci sad PPTX na základě metadatových vlajek, jako jsou kategorie pouze pro interní použití nebo důvěrné kategorie.
+
+
+
+* **Synchronizace metadat do vyhledávacích systémů**
+
+  Nepřetržitě posílejte metadatů PPTX do indexu, aby byly sady snímků objevitelné bez manuální údržby katalogu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

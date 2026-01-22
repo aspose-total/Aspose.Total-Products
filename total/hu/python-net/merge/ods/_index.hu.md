@@ -78,7 +78,75 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az OpenDocument táblázatok összefűzése Python API-k segítségével támogatja az open standards és a cross-platform adatmunkafolyamatokat. Ez ideális környezetek számára, amelyek az open-source irodai eszközökre támaszkodnak.
+
+
+
+Az ODS összefűzésével kapcsolatos automatizálás biztosítja az interoperabilitást, miközben megőrzi a strukturált adatintegritást.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Cross-Platform táblázat összevonás (ODS)**  
+
+&nbsp; Összefűzi az ODS fájlokat, amelyek különböző irodai csomagokban lettek létrehozva.
+
+
+
+* **Open-Standard adatösszegyűjtés (ODS)**  
+
+&nbsp; Egyesíti az ODS táblázatokat egységes elemzés céljából.
+
+
+
+* **Együttműködési adatgyűjtés (ODS)**  
+
+&nbsp; Összefűzi az ODS fájlokat a terjesztett hozzájárulóktól.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Nyílt adatcsővezeték automatizálás (ODS)**  
+
+&nbsp; Rendszerek összefűzik az ODS fájlokat, anélkül, hogy szükség lenne proprietári függőségekre.
+
+
+
+* **Ütemezett táblázat összeállítás (ODS)**  
+
+&nbsp; Az ODS összefűzése része a ismétlődő háttérfeladatoknak.
+
+
+
+* **Interoperábilis jelentési csővezetékek (ODS)**  
+
+&nbsp; Az ODS fájlokat dinamikusan összefűzik az adatmunkafolyamatokban.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

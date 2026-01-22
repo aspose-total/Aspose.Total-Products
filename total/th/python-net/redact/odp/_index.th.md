@@ -77,7 +77,59 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การเขียนเอกสารโดยใช้ Python APIs สำหรับไฟล์ ODP ช่วยให้การจัดการเนื้อหางานนำเสนอได้อย่างปลอดภัยที่สร้างขึ้นในมาตรฐานเอกสารเปิด ซึ่งเป็นสิ่งจำเป็นเมื่อแบ่งปันสไลด์ที่อาจมีข้อมูลที่เป็นความลับหรือเป็นทรัพย์สิน
+
+การอัตโนมัติช่วยให้งานนำเสนอ ODP สามารถถูกทำความสะอาดอย่างสอดคล้อง รองรับการควบคุมความเป็นส่วนตัวที่มีลักษณะขยายได้และสามารถทำซ้ำได้ทั่วไปในทรัพยากรงานนำเสนอ
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* **การแบ่งปันสไลด์ที่เป็นความลับ**  
+
+&nbsp; ลบข้อมูลที่เป็นความลับออกจากสไลด์งานนำเสนอก่อนกระจาย
+
+* **การบริหารจัดการรูปแบบเปิด**  
+
+&nbsp; บังคับนโยบายการป้องกันข้อมูลในไฟล์งานนำเสนอมาตรฐานเปิด
+
+* **การทำความสะอาดวัสดุการฝึกอบรม**  
+
+&nbsp; ลบข้อมูลอ้างอิงภายในก่อนเผยแพร่เนื้อหาการเรียนรู้
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **กฎการทำความสะอาดระดับสไลด์**  
+
+&nbsp; ทำการลบเนื้อหาจากสไลด์หรือเลย์เอาท์ที่เฉพาะเจาะจงโดยอัตโนมัติ
+
+* **กระบวนการสร้างงานนำเสนอ**  
+
+&nbsp; ผสานการทำความสะอาดเข้ากับกระบวนการสร้างงานนำเสนออัตโนมัติ
+
+* **การสแกนความปลอดภัยตามกำหนดเวลา**  
+
+&nbsp; ทำความสะอาดไฟล์ ODP ที่เก็บไว้เป็นระยะๆ โดยใช้งานอัตโนมัติ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

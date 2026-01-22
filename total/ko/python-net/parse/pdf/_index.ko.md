@@ -100,7 +100,75 @@ PDF 파서 앱이나 유틸리티를 개발해야 합니까?[Aspose.Total for Py
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Python API를 사용하여 PDF 문서를 구문 분석**하면 널리 사용되는 고정 레이아웃 형식에서 텍스트 및 레이아웃 정보를 추출할 수 있습니다. PDF는 보고서, 송장 및 공식 기록에서 흔히 볼 수 있습니다.
+
+
+
+자동화된 PDF 구문 분석은 수동 개입 없이 비편집 가능한 콘텐츠를 분석, 검색 및 시스템 통합을 가능하게 합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **보고서 데이터 추출**  
+
+&nbsp; 정적 PDF 보고서에서 텍스트 콘텐츠를 검색합니다.
+
+
+
+* **문서 보관 처리**  
+
+&nbsp; PDF를 검색 가능하고 색인 가능한 텍스트로 변환합니다.
+
+
+
+* **정보 검색 시스템**  
+
+&nbsp; 대규모 PDF 컬렉션 내에서 콘텐츠 검색을 가능하게 합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **예약된 PDF 수집**  
+
+&nbsp; 고정된 주기로 수신된 PDF를 자동으로 처리합니다.
+
+
+
+* **텍스트 표준화 파이프라인**  
+
+&nbsp; 추출된 PDF 텍스트를 프로그래밍 방식으로 정리하고 표준화합니다.
+
+
+
+* **하류 분석 활성화**  
+
+&nbsp; 구문 분석된 PDF 콘텐츠를 분석이나 기계 학습 워크플로에 공급합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

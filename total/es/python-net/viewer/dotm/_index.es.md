@@ -90,7 +90,73 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La visualización de archivos DOTM con Python APIs permite inspeccionar de forma segura plantillas de Word habilitadas para macros sin ejecutar la lógica incrustada.
+
+Esto es esencial para entornos controlados donde la visibilidad y la seguridad deben coexistir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+
+
+* **Revisión de Plantillas Habilitadas para Macros**  
+
+&nbsp; Ver el contenido de la plantilla manteniendo inactivos los macros.
+
+
+
+* **Inspección Orientada a la Seguridad**  
+
+&nbsp; Inspeccionar la estructura sin exponer los sistemas a riesgos de ejecución.
+
+
+
+* **Procesos de Aprobación de Plantillas**  
+
+&nbsp; Revisar plantillas antes de su distribución controlada.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+
+
+* **Admisión Segura de Plantillas**  
+
+&nbsp; Los visores de Python muestran archivos DOTM de forma segura durante la incorporación.
+
+
+
+* **Automatización de la Gobernanza**  
+
+&nbsp; Las plantillas se revisan como parte de las comprobaciones de políticas automatizadas.
+
+
+
+* **Tuberías de Validación Pre-Uso**  
+
+&nbsp; Las vistas previas automatizadas respaldan flujos de trabajo de aprobación.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

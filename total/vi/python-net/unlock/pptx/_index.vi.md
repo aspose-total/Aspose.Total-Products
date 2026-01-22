@@ -71,7 +71,75 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Python via
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTX là định dạng trình bày hiện đại chiếm ưu thế, và việc mở khóa tệp được bảo vệ đảm bảo sự tự động hóa, cộng tác và tái sử dụng mượt mà. Việc truy cập theo chương trình cho phép các tệp PPTX vẫn là một phần của hệ sinh thái nội dung động.
+
+
+
+Mở khóa dựa trên Python tích hợp các tệp PPTX vào quy trình làm việc có thể mở rộng mà không ảnh hưởng đến sự kiểm soát hoặc quản trị.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tạo Slide Động**  
+
+&nbsp; Cho phép các slide được bảo vệ được sử dụng lại trong các bài thuyết trình tự động.
+
+
+
+* **Kiểm Tra Tính Nhất Quán Nội Dung**  
+
+&nbsp; Hỗ trợ xác thực các bộ bài bị khóa theo các quy tắc kiểu dáng.
+
+
+
+* **Báo Cáo Tự Động**  
+
+&nbsp; Cho phép các bài thuyết trình được bảo vệ cung cấp dữ liệu cho hệ thống báo cáo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Tổ Chức Bộ Slide Tự Động**  
+
+&nbsp; Các tệp PPTX được mở khóa và tổ chức động từ các thành phần.
+
+
+
+* **Xuất Bản Bài Thuyết Trình Theo Lịch Trình**  
+
+&nbsp; Mở khóa cho phép xuất bản bài thuyết trình bảo vệ mà không cần can thiệp.
+
+
+
+* **Cập Nhật Slide Dựa Trên Phân Tích**  
+
+&nbsp; Nội dung được bảo vệ được mở khóa để cập nhật slide dựa trên dữ liệu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

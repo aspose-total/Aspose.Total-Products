@@ -76,7 +76,75 @@ För mer information, se [Product Documentation](https://docs.aspose.com/slides/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Sökning efter **PPT**-filer med Python API:er möjliggör åtkomst till äldre presentationsdokument som fortfarande lagrar värdefull affärs-, utbildnings- och strategisk information. Automatiserad sökning säkerställer att äldre presentationsbilder förblir användbara och sökbara i stor skala.
+
+
+
+Genom att integrera PPT-sökning i automatiserade system minskar organisationer manuellt arbete och låser upp insikter från arkiverat presentationsinnehåll.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsområden" %}}
+
+
+
+* **Sökning av äldre presentationsinnehåll**  
+
+&nbsp; Hittar nyckelord inom äldre PPT-presentationer.
+
+
+
+* **Återvinning av arkiverade presentationer**  
+
+&nbsp; Möjliggör upptäckt av historiska presentationsbilder.
+
+
+
+* **PPT-textextrahering**  
+
+&nbsp; Hämtar slidtext för indexering och analys.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* **Automatiserad skanning av PPT-förråd**  
+
+&nbsp; Python-jobb skannar PPT-filer efter sökbart innehåll.
+
+
+
+* **Skapande av index för PPT-arkiv**  
+
+&nbsp; Äldre presentationer indexeras programmatiskt.
+
+
+
+* **Integration av PPT-innehåll**  
+
+&nbsp; Extraherade data matar rapportering och analytiska arbetsflöden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

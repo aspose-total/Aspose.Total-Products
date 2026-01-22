@@ -98,7 +98,93 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'extraction des métadonnées de documents pour les fichiers **DOT** via des API Python prend en charge la compréhension et la gestion des actifs de modèles hérités en lisant les propriétés intégrées telles que l'auteur du modèle, les heures de création et les champs descriptifs. Cela est important pour la normalisation, la gouvernance et le maintien de sorties de documents cohérentes au sein d'une organisation.
+
+
+
+Dans les systèmes automatisés, les métadonnées DOT permettent une gestion contrôlée du cycle de vie des modèles, aidant les pipelines à choisir les modèles corrects, à appliquer les normes approuvées et à détecter les fichiers de modèles obsolètes ou non gérés à grande échelle.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Création de catalogue de modèles**
+
+  Extraire les métadonnées DOT pour construire un inventaire consultable des modèles et de leurs objectifs prévus.
+
+
+
+* **Application de la normalisation**
+
+  Identifier quels modèles sont approuvés en vérifiant la propriété et les propriétés descriptives.
+
+
+
+* **Suivi du cycle de vie des modèles**
+
+  Surveiller les heures de création/modification pour détecter les modèles obsolètes nécessitant une révision ou une mise au rebut.
+
+
+
+* **Gouvernance de l'utilisation des modèles**
+
+  Utiliser les métadonnées pour lier les modèles aux départements ou flux de travail pour une distribution contrôlée.
+
+
+
+* **Enregistrements de modèles prêts pour l'audit**
+
+  Produire des journaux traçables montrant les origines des modèles et l'historique de maintenance pour les besoins de conformité.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Contrôle d'accès aux modèles approuvés**
+
+  Bloquer automatiquement les modèles DOT non approuvés d'être stockés dans des référentiels partagés en fonction des règles de métadonnées.
+
+
+
+* **Alertes de rafraîchissement planifié des modèles**
+
+  Déclencher des notifications périodiques lorsque les modèles DOT dépassent les seuils d'âge ou manquent de champs de mainteneur.
+
+
+
+* **Automatisation de la sélection de modèles**
+
+  Utiliser les métadonnées pour sélectionner de manière programmée le modèle DOT correct pour un flux de travail ou un département donné.
+
+
+
+* **Flux de travail de nettoyage du référentiel**
+
+  Identifier et mettre en quarantaine les modèles DOT en double ou obsolètes en utilisant la similarité des métadonnées et les horodatages.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,75 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Dokumentenredaktion mithilfe von Python-APIs für ODT-Dateien ermöglicht eine sichere Änderung von Open Document Text-Dateien, ohne deren Kernstruktur zu verändern. Dies unterstützt eine transparente und auf Standards basierende Dokumentenverarbeitung.
+
+
+
+Durch die Automatisierung der ODT-Redaktion können Organisationen sensiblen Inhalt effizient in offenen und interoperablen Dokumentenökosystemen verwalten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Datenaustausch mit Datenschutz**  
+
+&nbsp; Persönliche Daten vor dem externen Teilen von ODT-Dateien schwärzen.
+
+
+
+* **Richtliniengesteuerte Inhaltsentfernung**  
+
+&nbsp; Durchsetzung von Schwärzungsregeln, die mit den Organisationsrichtlinien übereinstimmen.
+
+
+
+* **Veröffentlichung von Open Documents**  
+
+&nbsp; Bereitstellung von bereinigten Dokumenten für die öffentliche Nutzung oder plattformübergreifende Verwendung.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Metadaten- und Textschwärzung**  
+
+&nbsp; Automatisches Entfernen sensibler Inhalte sowohl aus dem Fließtext als auch aus den Metadaten.
+
+
+
+* **Massenverarbeitung von Open-Formaten**  
+
+&nbsp; Schwärzen großer Mengen von ODT-Dateien in einem einzigen automatisierten Durchlauf.
+
+
+
+* **Integration mit CMS-Pipelines**  
+
+&nbsp; Anwendung der Schwärzung, bevor Dokumente veröffentlicht oder syndiziert werden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

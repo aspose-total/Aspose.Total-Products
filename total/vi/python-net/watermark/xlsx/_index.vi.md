@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chèn dấu nước vào các bảng tính **XLSX** bằng Python APIs thêm tính minh bạch cho các tệp Excel hiện đại, giúp truyền đạt tính bí mật, sở hữu và cách sử dụng dự kiến trực tiếp trong các tài liệu chứa dữ liệu nhiều.
+
+Tự động hóa cho phép chèn dấu nước vào các tệp XLSX một cách có thể mở rộng cho các hệ thống báo cáo, hoạt động tài chính và xuất dữ liệu phân tích nơi cần có nhãn chính sách nhất quán.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Đánh Dấu Báo Cáo KPI Bí Mật**  
+
+&nbsp; Đánh dấu báo cáo hiệu suất để giảm phân phối không cần thiết.
+
+
+
+* **Chia Sẻ Kiểm Soát cho Các Bộ Dữ Liệu Trích Xuất**  
+
+&nbsp; Thêm dấu "CHỈ DÀNH NỘI BỘ" vào các bộ dữ liệu được xuất để củng cố quản trị.
+
+
+
+* **Chỉ số Trạng Thái Phê Duyệt cho Dự Báo**  
+
+&nbsp; Đóng dấu "NHÁP" hoặc "ĐÃ DUYỆT" vào các mô hình kế hoạch để ngăn chống sự hiểu lầm.
+
+
+
+* **Nhận Dạng Bảng Tính Theo Khách Hàng Cụ Thể**  
+
+&nbsp; Nhúng các định danh khách hàng vào các bảng tính được chia sẻ để có thể truy vết.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Chèn Dấu Nước vào Đường Ốc cho Các Báo Cáo Tự Động**  
+
+&nbsp; Áp dụng dấu nước vào thời điểm tạo báo cáo để đảm bảo quản trị nhất quán.
+
+
+
+* **Dấu Nước Động từ Chính Sách Truy Cập**  
+
+&nbsp; Tạo văn bản dấu nước dựa trên cấp độ nhạy cảm và quyền hạn người dùng.
+
+
+
+* **Phủ Sự Nhìn Đa Tầng Tự Động**  
+
+&nbsp; Đảm bảo tính hiển thị của dấu nước trên các bảng và chế độ xem liên quan một cách tự động.
+
+
+
+* **Đóng Dấu Thân Thiện với Kiểm Toán với IDs**  
+
+&nbsp; Thêm dấu nước chứa IDs chạy hoặc tham chiếu lô để hỗ trợ kiểm toán tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+دمج ملفات PowerPoint التي تحتوي على تمكين الماكرو باستخدام واجهات برمجة التطبيقات في Python يدعم العروض التقديمية التي تحتوي على منطق مضمن، وأتمتة، أو سلوكيات تفاعلية. وهذا شائع في العروض التقديمية للشركات والعروض التشغيلية.
+
+
+
+الأتمتة تضمن دمج الشرائح التي تم تمكينها بالماكرو بشكل موثوق دون كسر الوظائف المضمنة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تجميع العروض التقديمية القائمة على الماكرو (PPTM)**  
+
+&nbsp; دمج ملفات PPTM التي تحتوي على عناصر مؤتمتة أو تفاعلية.
+
+
+
+* **توحيد الشرائح التشغيلية (PPTM)**  
+
+&nbsp; دمج العروض التقديمية التي تحتوي على ماكرو المستخدمة في العمليات الداخلية.
+
+
+
+* **تغليف العروض التفاعلية (PPTM)**  
+
+&nbsp; تجميع ملفات PPTM في عرض تقديمي قابل للتنفيذ واحد.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **إنشاء العروض التقديمية بناءً على القواعد (PPTM)**  
+
+&nbsp; تدمج الأنظمة ملفات PPTM استنادًا إلى قواعد الأتمتة.
+
+
+
+* **الحفاظ على الماكرو بالتحكم الخلفي (PPTM)**  
+
+&nbsp; تدمج الأنابيب الآلية ملفات PPTM مع الاحتفاظ بالمنطق.
+
+
+
+* **أتمتة العروض التقديمية المتوافقة (PPTM)**  
+
+&nbsp; دعم دمج PPTM يدعم الإخراج المتكرر والمنظم.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

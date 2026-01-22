@@ -71,7 +71,75 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+File PPT mewakili format PowerPoint lama yang masih digunakan di banyak lingkungan. Melindungi file PPT memastikan presentasi-pesentasi warisan tetap aman dan sesuai.
+
+
+
+API Python memungkinkan perlindungan otomatis file PPT, memungkinkan konten warisan sesuai dengan standar keamanan modern.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Kunci" %}}
+
+
+
+* **Perlindungan Slide Warisan**  
+
+  Secure file PPT lama dari modifikasi yang tidak sah.
+
+
+
+* **Pelestarian Konten Historis**  
+
+  Menjaga integritas presentasi yang diarsipkan.
+
+
+
+* **Redistribusi yang Terkendali**  
+
+  Membatasi pengeditan saat membagikan slide deck warisan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Perlindungan File Warisan Secara Massal**  
+
+  Melindungi koleksi besar file PPT secara otomatis.
+
+
+
+* **Keamanan Saat Migrasi**  
+
+  Terapkan perlindungan selama transisi sistem warisan.
+
+
+
+* **Pembatasan Akses Otomatis**  
+
+  Menegakkan pembatasan konsisten pada file PPT secara programatik.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

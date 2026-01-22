@@ -89,7 +89,73 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTM prohlížení s Python API umožňuje inspekci prezentací s makry bez provádění vloženého kódu.
+
+To umožňuje bezpečné hodnocení v automatizovaných prostředích.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Hodnocení prezentací s makry**  
+
+&nbsp; Zobrazování obsahu prezentace bezpečně.
+
+
+
+* **Inspekce s ohledem na rizika**  
+
+&nbsp; Inspekce snímků bez provádění maker.
+
+
+
+* **Podpora schvalovacího procesu**  
+
+&nbsp; Hodnocení prezentací před řízeným použitím.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Bezpečný příjem prezentace**  
+
+&nbsp; Pythonoví prohlížeče bezpečně zobrazují soubory PPTM.
+
+
+
+* **Kontrola souladu**  
+
+&nbsp; Prezentace jsou inspirovány automaticky.
+
+
+
+* **Validace před nasazením**  
+
+&nbsp; Zobrazení podporuje schvalovací procesy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

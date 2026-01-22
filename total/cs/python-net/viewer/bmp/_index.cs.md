@@ -82,7 +82,73 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Zobrazení dokumentů BMP pomocí Python API umožňuje spolehlivé vykreslování nekomprimovaných bitmapových obrázků pro kontrolu, validaci a vizuální pracovní postupy, kde záleží na přesnosti na úrovni pixelů.
+
+Tato schopnost podporuje automatizované obrázkové potrubí, náhledové systémy a kontrolu kvality bez manuálního zásahu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Přesné zobrazení obrázků na úrovni pixelů**  
+
+&nbsp; Zobrazte bitmapové obrázky přesně tak, jak jsou uloženy, zachovávající původní barvu a detaily rozlišení.
+
+
+
+* **Kompatibilita s historickými obrázky**  
+
+&nbsp; Otevřete a zobrazte starší nebo surové bitmapové soubory běžně používané v archivačních systémech.
+
+
+
+* **Ověření vizuální kvality**  
+
+&nbsp; Programaticky zkontrolujte obrázky, abyste zajistili správnost rozvržení a vykreslování.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizovaná validace obrázků**  
+
+&nbsp; Python skripty zobrazují soubory BMP během hromadné validace k detekci vizuálních anomálií.
+
+
+
+* **Generování náhledů v potrubích**  
+
+&nbsp; Bitmapové soubory jsou automaticky vykreslovány pro dashboardy nebo nástroje pro kontrolu.
+
+
+
+* **Ladění pracovního postupu s obrázky**  
+
+&nbsp; Automatizovaní zobrazovače pomáhají ověřit mezilehlé výstupy obrázků v zpracovatelských potrubích.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

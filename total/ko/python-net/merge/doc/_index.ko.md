@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 문서를 병합하는 것은 현대적인 콘텐츠 처리, 보고 및 문서 라이프사이클 관리를 위한 기본 기능입니다. 이를 통해 개발자와 시스템은 여러 파일을 하나의 구조화된 출력물로 결합할 수 있으며, 서로 다른 문서 소스 간의 서식, 레이아웃 및 논리적 흐름을 유지하면서 이를 가능하게 합니다.
+
+
+
+문서 병합을 자동화함으로써 조직은 수동 노력을 줄이고 일관성을 유지하며, Python으로 구축된 데이터 파이프라인, 백엔드 서비스 및 확장 가능한 자동화 시스템에 문서 워크플로우를 직접 통합할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **통합 워드 보고서 (DOC)**  
+
+&nbsp; 레거시 Word 문서를 통합 검토 및 보존을 위해 단일 보고서로 결합합니다.
+
+
+
+* **일괄 문서 어셈블리 (DOC)**  
+
+&nbsp; 서로 다른 시스템에서 생성된 여러 DOC 파일을 하나의 전달 가능한 파일로 조립합니다.
+
+
+
+* **역사적 콘텐츠 집계 (DOC)**  
+
+&nbsp; 보관된 DOC 파일을 병합하여 오래된 콘텐츠 컬렉션을 현대화하고 재활용합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일정에 따른 보고서 편성 (DOC)**  
+
+&nbsp; 자동화된 작업은 매일이나 매주 DOC 파일을 단일 배포용 보고서로 병합합니다.
+
+
+
+* **워크플로 기반 문서 스티칭 (DOC)**  
+
+&nbsp; 백엔드 워크플로우는 프로세스 단계가 완료될 때 동적으로 DOC 파일을 병합합니다.
+
+
+
+* **파이프라인 주도 출력 생성 (DOC)**  
+
+&nbsp; DOC 병합은 더 큰 문서 파이프라인의 일부로 프로그래밍적으로 트리거됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

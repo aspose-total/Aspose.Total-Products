@@ -73,7 +73,85 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+파이썬 API를 사용하여 **TIFF** 이미지에 워터마킹을 추가하면 스캔, 인쇄 및 아카이빙에 일반적으로 사용되는 파일에 소유권 및 제어 레이블을 추가하여 고품질 이미징 워크플로우를 지원합니다.
+
+대용량 파일 크기와 일괄 처리 중심 프로세스로 인해 TIFF 워터마킹에 대한 자동화는 문서 이미징 파이프라인 전반에 걸쳐 일관된 처리를 가능하게 합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **스캔된 문서 소유권 마크**  
+
+&nbsp; 스캔된 TIFF에 워터마크를 적용하여 이미징 아카이브에서 출처를 보존합니다.
+
+
+
+* **인쇄 워크플로우 증명 스탬프**  
+
+&nbsp; 사전 인쇄 TIFF 파일에 "PROOF" 워터마크를 추가하여 제어된 검토를 수행합니다.
+
+
+
+* **이미징 저장소용 규정 준수 레이블**  
+
+&nbsp; 분류 텍스트로 제한된 이미지에 스탬프를 찍어 처리 정책을 지원합니다.
+
+
+
+* **아카이브 변환 추적성**  
+
+&nbsp; 다른 형식으로 변환하기 전에 TIFF에 워터마크를 삽입하여 원본 식별을 유지합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **스캐너 출력 자동 워터마킹**  
+
+&nbsp; 감시 폴더나 적재 작업을 사용하여 스캔 직후 TIFF 파일에 스탬프를 찍습니다.
+
+
+
+* **다중 페이지 TIFF 처리**  
+
+&nbsp; 프로그래밍 방식으로 다중 페이지 TIFF 파일의 각 페이지에 일관된 워터마크를 적용합니다.
+
+
+
+* **해상도에 따른 워터마크 크기 조정**  
+
+&nbsp; DPI를 기반으로 워터마크 크기를 조정하여 일관된 물리적 프린트 외관을 유지합니다.
+
+
+
+* **자동 보존 및 감사 워크플로우**  
+
+&nbsp; 자동 보존 태깅 및 규정 준수 검토 파이프라인의 일부로 이미지에 워터마크를 삽입합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

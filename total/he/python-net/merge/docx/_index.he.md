@@ -76,7 +76,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+מיזוג מסמכי DOCX באמצעות Python APIs הוא דרישה נפוצה ליצירת פלטי Word מודרניים ומסודרים בקנה מידה גדול. זה מאפשר שליטה מדויקת על מבנה, עיצוב ורציפות קטעים במקורות מרובים.
+
+
+
+יכולת זו משתלבת בצורה חלקה עם מנועי תוכן אוטומטיים, מאפשרת יצירת מסמכים בקנה מידה לדוחות, מדריכים ותיעוד מובנה.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **יצירת דוח בעל מספר קטעים (DOCX)**  
+
+&nbsp; מיזוג קבצי DOCX המייצגים פרקים לדוח אחד.
+
+
+
+* **שימוש מחדש במודולי תוכן (DOCX)**  
+
+&nbsp; לאסוף קטעי DOCX הניתנים לשימוש מחדש למסמכים מותאמים אישית.
+
+
+
+* **שילוב זריזות עריכה (DOCX)**  
+
+&nbsp; לשלב קבצי DOCX שאושרו על ידי עורכים לפלטים סופיים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **יצירת מסמך דינמי (DOCX)**  
+
+&nbsp; מערכות ממזגות קבצי DOCX בהתאם לקלטי משתמש או תנאי נתונים.
+
+
+
+* **צינורות תיעוד CI/CD (DOCX)**  
+
+&nbsp; מיזוג DOCX מואפס כחלק מתהליכי בנייה ושחרור.
+
+
+
+* **אוטומציה סוחפת לפרסום (DOCX)**  
+
+&nbsp; מסמכי DOCX בנפח גבוה ממוזגים באופן תכנותי בקנה מידה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

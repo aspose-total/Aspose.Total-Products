@@ -73,7 +73,85 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用して**TIFF**画像に透かしを入れることで、スキャン、印刷、アーカイブで一般的に使用されるファイルに所有権と制御ラベルを追加することができ、高品質の画像ワークフローをサポートします。
+
+特にTIFF透かし付けには自動化が重要であり、大きなファイルサイズやバッチ処理が多いプロセスに対応し、文書画像処理パイプライン全体で一貫した処理を可能にします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* **スキャンされた文書の所有権マーク**  
+
+&nbsp; スキャンされたTIFFに透かしを入れて、画像アーカイブで起源を保存します。
+
+
+
+* **印刷ワークフローの校正スタンプ**  
+
+&nbsp; プリプレスTIFFファイルに「PROOF」透かしを追加して、制御されたレビューを行います。
+
+
+
+* **画像リポジトリのコンプライアンスラベル**  
+
+&nbsp; 分類テキストで制限された画像にスタンプを押して、取り扱いポリシーをサポートします。
+
+
+
+* **アーカイブ変換のトレーサビリティ**  
+
+&nbsp; 他の形式に変換する前にTIFFに透かしを入れて、ソースの識別情報を保持します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **スキャナー出力の自動透かし付け**  
+
+&nbsp; スキャン直後にウォッチフォルダや取り込みジョブを使用してTIFFファイルにスタンプを押します。
+
+
+
+* **マルチページTIFFの処理**  
+
+&nbsp; プログラムでマルチページTIFFファイル全体に一貫した透かしを適用します。
+
+
+
+* **解像度に応じた透かしのスケーリング**  
+
+&nbsp; DPIに基づいて透かしのサイズを調整し、一貫した物理的な印刷外観を維持します。
+
+
+
+* **自動保持および監査ワークフロー**  
+
+&nbsp; 自動保持タグ付けやコンプライアンスレビューパイプラインの一環として画像に透かしを入れます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

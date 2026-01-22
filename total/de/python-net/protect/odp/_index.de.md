@@ -71,7 +71,75 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODP-Dateien werden häufig für Workflows in offenen Standards für Präsentationen verwendet. Durch den Schutz dieser Präsentationsdateien wird sichergestellt, dass visuelle Inhalte und Botschaften beim Teilen und Zusammenarbeiten intakt bleiben.
+
+
+
+Mit Python-APIs können ODP-Präsentationen automatisch geschützt werden, um eine sichere Handhabung innerhalb skalierbarer Systeme zur Präsentationserstellung und -bereitstellung zu ermöglichen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Schutz der Präsentationsintegrität**  
+
+&nbsp; Unbefugte Änderungen an Folien und Layouts verhindern.
+
+
+
+* **Vertrauliche Besprechungen**  
+
+&nbsp; Sicherheitseinstellungen für sensible Präsentationen vor internem oder externem Teilen.
+
+
+
+* **Standardisierte Präsentationsverwaltung**  
+
+&nbsp; Konsistente Schutzregeln auf alle ODP-Dateien anwenden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Automatisierter Schutz von Folienpräsentationen**  
+
+&nbsp; ODP-Dateien sofort nach automatischer Erstellung sichern.
+
+
+
+* **Sicherheitsdurchsetzung auf Pipeline-Basis**  
+
+&nbsp; Schutz während CI/CD-ähnlicher Inhaltsworkflows anwenden.
+
+
+
+* **Programmgesteuerte Zugriffsbeschränkungen**  
+
+&nbsp; Bearbeitungs- und Anzeigerechte dynamisch über Skripte steuern.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,85 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 **JPG** 파일에 워터마킹을 지원하여 일반 이미지 워크플로우를 지원하며, 웹 이미지 형식 중 가장 많이 사용되는 형식에 명확한 소유권, 증명 레이블 및 배포 규칙을 추가합니다.
+
+자동화된 JPG 워터마킹은 일괄 처리 파이프라인에 이상적이며, 많은 에셋에 걸쳐 일관된 배치와 반복 가능한 스타일링이 필요한 경우에 적합합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **이미지 라이브러리를 위한 대량 브랜딩**
+
+  &nbsp; 채널 전체에서 일관된 식별을 유지하기 위해 대량의 JPG 에셋에 워터마크를 적용합니다.
+
+
+
+* **사전 릴리스 콘텐츠 보호**
+
+  &nbsp; 사고로 이른 게시를 방지하기 위해 "출판 금지" 오버레이를 추가합니다.
+
+
+
+* **판매 자료 미리보기 표시**
+
+  &nbsp; 제안서 및 피칭에 사용되는 JPG 시각 자료에 미리보기 레이블을 찍습니다.
+
+
+
+* **제휴 자산 소유 표시**
+
+  &nbsp; 소스 추적을 개선하기 위해 공유 미디어에 속성 워터마크를 포함합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **폴더 기반 자동 스탬핑**
+
+  &nbsp; 감시 폴더에서 새로운 JPG 파일을 감지하고 즉시 워터마킹합니다.
+
+
+
+* **반응형 워터마크 크기 조정**
+
+  &nbsp; 해상도 및 종횡비에 따라 워터마크 크기를 자동으로 조정합니다.
+
+
+
+* **다국어 워터마크 생성**
+
+  &nbsp; 대상 관객 또는 지역 규칙에 따라 로컬라이즈된 워터마크 텍스트를 생성합니다.
+
+
+
+* **중복 제거된 변형 생성**
+
+  &nbsp; 자동화에서 지문을 추적하여 이미 워터마크가 찍힌 JPG를 다시 처리하지 않습니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

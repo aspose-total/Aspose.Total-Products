@@ -98,7 +98,84 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Wyodrębnianie metadanych dokumentów w plikach **DOC** za pomocą interfejsów API w języku Python umożliwia systemom odczytywanie i interpretowanie podstawowych atrybutów plików - takich jak autor, czas utworzenia, czas ostatniej modyfikacji, liczba rewizji i osadzone właściwości - bez konieczności manualnej inspekcji. Ma to znaczenie dla zarządzania, możliwości wyszukiwania, audytowania oraz kontroli cyklu życia treści w ramach prac związanych z dokumentami.
+
+
+
+Po zintegrowaniu z automatycznymi procesami, metadane DOC stają się niezawodnym sygnałem do kierowania, sprawdzania zgodności, indeksowania i przetwarzania wsadowego - wspierając skalowalne operacje na dokumentach, spójną klasyfikację oraz integracje z warstwami przechowywania, wyszukiwania i raportowania.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+
+
+* **Inwentaryzacja starych dokumentów**
+  Wyodrębnij metadane z archiwów DOC w celu zbudowania strukturalnego indeksu do odkrywania, usuwania duplikatów oraz planowania cyklu życia.
+
+
+
+* **Weryfikacja znaczników czasowych zgodności**
+  Użyj pól utworzonych/modyfikowanych do weryfikacji zasad retencji i wykrywania anomalii w regulowanych dokumentach.
+
+
+
+* **Mapowanie właścicieli dokumentów**
+  Odczytaj właściwości autora i ostatniego edytora w celu mapowania właściciela dokumentu do przypisania recenzji oraz kontroli dostępu.
+
+
+
+* **Kategoryzacja wsadowa do wyszukiwania**
+  Konwertuj osadzone właściwości na znormalizowane tagi do spójnego filtrowania i wzbogacania wewnętrznego wyszukiwania.
+
+
+
+* **Sygnały śledzenia zmian**
+  Przechwyć pola związane z rewizją w celu wsparcia śledzenia w przepływach redakcyjnych i zatwierdzania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Brama przyjmowania archiwów**
+  Automatycznie akceptuj lub kwarantannuj pliki DOC na podstawie braku pól autora, podejrzanych znaczników czasowych lub nieprawidłowych wzorców metadanych.
+
+
+
+* **Synchronizacja metadanych z indeksem**
+  Po przesłaniu, wyodrębnij metadane DOC i wprowadź je do indeksu wyszukiwania, aby wyniki pozostały aktualne bez konieczności ręcznego katalogowania.
+
+
+
+* **Zasady kierowania oparte na polityce**
+  Kieruj pliki DOC do określonych kolejek, gdy metadane wskazują na poufną treść, przestarzałe wersje lub nieznanego właściciela.
+
+
+
+* **Audyty metadanych z harmonogramem**
+  Uruchamiaj skanowania nocne, które wykrywają odchylenia metadanych i generują raporty wyjątków dla zespołów operacyjnych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

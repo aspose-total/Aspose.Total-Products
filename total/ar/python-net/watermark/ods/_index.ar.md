@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+وضع علامة مائية **ODS** على جداول البيانات باستخدام واجهات برمجة التطبيقات في Python يعزز السيطرة على جداول البيانات المفتوحة من خلال إضافة علامات حكمية مرئية للملكية والسرية والتوزيع.
+
+تقنية وضع علامات مائية على جداول ODS تدعم سير العمل القابل للتوسيع، مما يضمن توافق علامات السياسات عبر البيانات المشتركة في تنسيقات مفتوحة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **وضع علامات مائية على ورقة بيانات سرية**  
+
+  &nbsp; وضع علامات على ملفات ODS الحساسة لتقليل مخاطر المشاركة الخارجية العرضية.
+
+
+
+* **تسميات بيانات مبدئية**  
+
+  &nbsp; تطبيق تراكيب "غير مؤكد" أثناء دورات التحقق من البيانات في المراحل المبكرة.
+
+
+
+* **إشعارات استخدام بيانات الشريك**  
+
+  &nbsp; إضافة إشعارات مرئية توضح تراخيص وقيود إعادة الاستخدام.
+
+
+
+* **دعم سجل التدقيق الداخلي**  
+
+  &nbsp; تحديد المصدر الذي أنتج مجموعة بيانات معينة من خلال وضع علامات مائية على التصدير.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائي" %}}
+
+
+
+* **وضع علامات مائية عند تصدير ETL**  
+
+  &nbsp; وضع علامات على ملفات ODS تلقائيًا عند إنشائها من أنابيب البيانات التلقائية.
+
+
+
+* **نصوص علامات مائية معتمدة على الدور**  
+
+  &nbsp; تخصيص محتوى العلامة المائية اعتمادًا على الفريق المستلم أو مستوى الوصول.
+
+
+
+* **ضوابط توزيع التقارير المجدولة**  
+
+  &nbsp; تطبيق علامات مائية مؤرخة قبل إرسال تقارير ODS دورية.
+
+
+
+* **وضع علامات سياسة الاحتفاظ التلقائي**  
+
+  &nbsp; إضافة علامات بصرية للحفاظ على دورة حياة الأتمتة لجداول البيانات المخزنة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

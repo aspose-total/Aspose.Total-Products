@@ -104,7 +104,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API解析**OTT文档**，可以从为一致文档创建而设计的开放文本模板中进行结构化提取。OTT文件通常在开放标准环境中使用，用于定义可重用的布局、样式和占位符。
+
+
+
+通过将OTT解析集成到自动化系统中，组织可以在保持严格遵守标准化模板和开放格式的同时，以规模生成、验证和管理文档。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **模板结构提取**  
+
+  &nbsp; 识别OTT模板中的预定义部分、样式和占位符。
+
+
+
+* **标准化文档创建**  
+
+  &nbsp; 支持根据已批准的开放模板一致生成文档。
+
+
+
+* **开放格式治理**  
+
+  &nbsp; 确保文档符合组织标准，避免专有锁定。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **动态文档生成**  
+
+  &nbsp; 自动填充OTT模板的结构化数据。
+
+
+
+* **模板合规验证**  
+
+  &nbsp; 检测与已批准模板结构的偏差。
+
+
+
+* **可扩展的开放文档流水线**  
+
+  &nbsp; 使用开放标准实现高容量文档生产。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -98,7 +98,93 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'estrazione dei metadati dei documenti per i file **RTF** tramite API Python aiuta i sistemi a catturare le proprietà di base dei file e i descrittori incorporati per i documenti in formato testo arricchito spesso utilizzati per la portabilità e la compatibilità legacy. Ciò supporta l'indicizzazione, la governance e il tracciamento del ciclo di vita per i repository contenenti tipi di documenti misti.
+
+
+
+Nei flussi di lavoro automatizzati, i metadati RTF possono guidare la classificazione, il routing e la sincronizzazione del catalogo, consentendo un trattamento scalabile dei documenti legacy o orientati allo scambio senza revisione manuale.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Chiave" %}}
+
+
+
+* **Indicizzazione di Repository con Formati Misti**
+
+  Estrarre i metadati RTF per migliorare la scopribilità e unificare i report tra diversi archivi documentali.
+
+
+
+* **Governance dei Contenuti Legacy**
+
+  Utilizzare i timestamp e i campi di autore per stabilire la responsabilità e i cicli di aggiornamento per i documenti più vecchi.
+
+
+
+* **Classificazione Massiva per le Operazioni**
+
+  Normalizzare le proprietà RTF disponibili in tag strutturati per il routing e il controllo degli accessi.
+
+
+
+* **Pianificazione di Migrazione e Conversione**
+
+  Verificare i metadati RTF per prioritizzare gli obiettivi di conversione e identificare dettagli di proprietà mancanti.
+
+
+
+* **Controllo Qualità per l'Assunzione**
+
+  Contrassegnare i file RTF con metadati incompleti o non coerenti per flussi di lavoro di correzione.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Normalizzazione dell'Assunzione Legacy**
+
+  Estrarre automaticamente i metadati RTF e trasformarli in campi standardizzati per un registro documenti centralizzato.
+
+
+
+* **Orchestrazione della Coda di Conversione**
+
+  Instradare i file RTF nei flussi di conversione in base alla completezza dei metadati e alle soglie di obsolescenza.
+
+
+
+* **Assegnazione Automatica della Responsabilità**
+
+  Creare compiti di proprietà per i file RTF privi di proprietà del manutentore, utilizzando il contesto della directory più i segnali dei metadati.
+
+
+
+* **Rapporti Periodici sulla Salute del Repository**
+
+  Generare riepiloghi programmati della copertura dei metadati RTF, campi mancanti e distribuzione dell'invecchiamento per il tracciamento della governance.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

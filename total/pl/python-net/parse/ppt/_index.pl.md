@@ -100,7 +100,75 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Analiza prezentacji **PPT** za pomocą interfejsów API w języku Python umożliwia wyodrębnienie tekstu slajdów, notatek i elementów strukturalnych z plików prezentacji. Dzięki temu wiedza oparta na slajdach staje się dostępna dla systemów automatyzacji.
+
+
+
+W kontekstach automatyzacji analiza prezentacji wspiera ponowne wykorzystanie treści, tworzenie streszczeń oraz integrację z dokumentacją lub przepływami pracy analitycznej.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Wyodrębnianie Zawartości Slajdów**  
+
+&nbsp; Pobiera tytuły, punkty wypunktowania i notatki prelegenta.
+
+
+
+* **Analiza Archiwalna Prezentacji**  
+
+&nbsp; Umożliwia wyszukiwanie i analizę historycznych zestawów slajdów.
+
+
+
+* **Potoki Ponownego Wykorzystania Zawartości**  
+
+&nbsp; Konwertuje materiał prezentacyjny na inne formaty treści.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Automatyczne Tworzenie Streszczeń Slajdów**  
+
+&nbsp; Generuje zwięzłe streszczenia na podstawie wyodrębnionych treści slajdów.
+
+
+
+* **Wypełnianie Bazy Wiedzy**  
+
+&nbsp; Wprowadza dane prezentacji do strukturalnych repozytoriów.
+
+
+
+* **Automatyzacja Porównywania Wersji**  
+
+&nbsp; Wykrywa zmiany między różnymi wersjami prezentacji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

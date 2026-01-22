@@ -73,7 +73,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri kullanarak ODP sunum dosyalarını imzalamak, takımların açık formatlarda oluşturulan slayt paketlerinin yayın kalitesini ve sahipliğini kontrol etmelerine yardımcı olur. Bu, slayt paketlerinin resmi onaydan sonra yalnızca dağıtıldığından emin olur.
+
+
+
+Otomatik hale getirildiğinde, ODP imzalama, işbirliği iş akışları içinde tekrarlanabilir bir yönetim adımı haline gelir, sürüm kontrolünü geliştirir ve gözden geçirilmemiş slayt paketlerinin dolaşıma girmesini engeller.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Durumları" %}}
+
+
+
+* **Eğitim Paketi Yayın Onayı**  
+
+&nbsp; İçsel dağıtım için hazır olduğunu doğrulamak için ODP eğitim paketlerini imzalayın.
+
+
+
+* **Paydaş İnceleme Onayı**  
+
+&nbsp; Paydaş incelemesi tamamlandıktan sonra ODP paketlerine bir imza işareti uygulayın.
+
+
+
+* **Uyumluluk Sunumu Sertifikasyonu**  
+
+&nbsp; Son sürümü kimin onayladığını belgelemek için politika veya uyumluluk paketlerini imzalayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Onay İş Akışı Tetikleyici İmzalama**  
+
+&nbsp; Onay durumu sisteme kaydedildiğinde ODP dosyalarını otomatik olarak imzalayın.
+
+
+
+* **Paylaşımdan Önce Deck Bütünlük Kapısı**  
+
+&nbsp; Gerekli slaytların ve meta verilerin varlığını doğruladıktan sonra sadece slayt paketlerini imzalayın.
+
+
+
+* **Yayın Döngüleri için Toplu İmzalama**  
+
+&nbsp; Zamanlanmış yayın döngülerinin bir parçası olarak birden fazla ODP paketini programlı olarak imzalayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

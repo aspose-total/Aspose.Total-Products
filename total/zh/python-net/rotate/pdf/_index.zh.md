@@ -72,7 +72,87 @@ otherformats: PDF
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+通过编程方式旋转PDF文档是现代文档处理工作流程中的常见需求，特别是在处理扫描文件、混合方向页面或用户上传内容时。使用Python API进行PDF旋转使开发人员和系统能够可靠地校正页面方向，无需手动干预，提高可读性、一致性和下游处理准确性。
+
+
+
+通过利用基于Python的自动化，PDF旋转可以无缝集成到更大的流程中，如文档摄入、存档系统和内容管理平台。这使得能够在大量文件中实现可伸缩、可重复和无错误的处理文档方向。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **校正扫描文档方向**  
+
+  自动将错误扫描的PDF页面旋转到适当的方向，以提高可读性和可用性。
+
+
+
+* **标准化多源PDF**  
+
+  在合并来自不同来源的PDF时，调整页面方向以确保一致的查看体验。
+
+
+
+* **OCR和文本提取的预处理**  
+
+  确保在OCR之前页面正确定位，提高文本识别准确性和数据质量。
+
+
+
+* **用户上传文档规范化**  
+
+  调整上传的PDF的页面旋转以符合平台或合规标准。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动摄入流水线**  
+
+  在摄入过程中自动应用PDF旋转，以在存储或进一步处理之前规范文档。
+
+
+
+* **批处理工作流程**  
+
+  大量PDF文档进行批量旋转，减少手动工作量和处理时间。
+
+
+
+* **预OCR处理自动化**  
+
+  在OCR任务之前动态应用旋转，以增强自动文本提取系统中的识别准确性。
+
+
+
+* **基于API的即时处理**  
+
+  作为动态文档转换服务的一部分，通过API实时旋转PDF页面。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

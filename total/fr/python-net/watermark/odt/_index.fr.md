@@ -79,7 +79,85 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'estampillage des documents **ODT** avec des API Python aide à protéger les fichiers de texte open document en ajoutant des marques claires de propriété et de confidentialité tout en maintenant le contenu accessible dans des écosystèmes ouverts.
+
+L'automatisation permet d'appliquer des règles d'estampillage cohérentes à travers les bibliothèques ODT, soutenant la gouvernance des documents évolutive pour les équipes utilisant des formats ouverts.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux Cas d'Utilisation" %}}
+
+
+
+* **Étiquetage des Politiques de Format Ouvert**  
+
+&nbsp; Apposer des tampons sur les documents ODT avec "INTERNE" ou "CONFIDENTIEL" pour réduire les erreurs de routage.
+
+
+
+* **Contrôle des Brouillons pour l'Écriture Collaborative**  
+
+&nbsp; Appliquer des superpositions "BROUILLON" lors des cycles d'édition itératifs.
+
+
+
+* **Avis de Distribution pour les Documents Partagés**  
+
+&nbsp; Ajouter des restrictions de réutilisation aux documents partagés avec des sous-traitants ou des partenaires.
+
+
+
+* **Préservation de l'Identité d'Archive**  
+
+&nbsp; Estamper les fichiers ODT exportés pour que la propriété soit visible même après une copie entre systèmes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'Automatisation" %}}
+
+
+
+* **Générateur de Documents + Étape d'Estampillage**  
+
+&nbsp; Estamper automatiquement les fichiers ODT produits à partir de modèles ou de données structurées.
+
+
+
+* **Application des Politiques du Répertoire**  
+
+&nbsp; Appliquer des estampillages lorsque des ODT sont téléchargés dans des dossiers réglementés.
+
+
+
+* **Changement Automatique de l'Estampillage de Version**  
+
+&nbsp; Modifier le texte d'estampillage en fonction de l'état de la version (brouillon, révision, final) de manière programmée.
+
+
+
+* **Pipelines d'Exportation de Conformité**  
+
+&nbsp; Estamper les exportations ODT utilisées pour les audits pour garantir un étiquetage cohérent à travers les soumissions.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

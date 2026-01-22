@@ -82,7 +82,73 @@ BMP 뷰어 앱이나 유틸리티를 개발해야 합니까?[Aspose.Total for Py
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용한 BMP 문서 보기는 압축되지 않은 비트맵 이미지를 신뢰할 수 있는 방식으로 렌더링하여 픽셀 수준의 정확성이 중요한 검사, 유효성 검사 및 시각적 워크플로우를 지원합니다.
+
+이 기능은 수동 개입 없이 자동화된 이미지 파이프라인, 미리보기 시스템 및 품질 검사를 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **픽셀 정확한 이미지 검토**
+
+  &nbsp; 비트맵 이미지를 저장된 대로 정확히 보고 원본 색상 및 해상도 세부 정보를 보존합니다.
+
+
+
+* **레거시 이미지 호환성**
+
+  &nbsp; 보존 시스템에서 일반적으로 사용되는 이전이나 원시 비트맵 파일을 열고 표시합니다.
+
+
+
+* **시각적 품질 확인**
+
+  &nbsp; 레이아웃 및 렌더링의 정확성을 보장하기 위해 이미지를 프로그래밍 방식으로 검사합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동화된 이미지 유효성 검사**
+
+  &nbsp; Python 스크립트는 시각적 이상 현상을 감지하기 위해 일괄 유효성 검사 중 BMP 파일을 표시합니다.
+
+
+
+* **미리보기 생성 파이프라인**
+
+  &nbsp; 대시보드나 검토 도구에 자동으로 렌더링되는 비트맵 파일입니다.
+
+
+
+* **이미지 워크플로 디버깅**
+
+  &nbsp; 자동 뷰어는 처리 파이프라인에서 중간 이미지 출력을 확인하는 데 도움을 줍니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -133,7 +199,7 @@ BMP 뷰어 앱이나 유틸리티를 개발해야 합니까?[Aspose.Total for Py
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

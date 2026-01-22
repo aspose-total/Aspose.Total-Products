@@ -78,7 +78,75 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az OpenDocument Text fájlok összefűzése Python API-k segítségével támogatja az open standards és a cross-platform dokumentum munkafolyamatokat. Lehetővé teszi a tartalom zökkenőmentes összevonását, amelyet open-source vagy vegyes irodai környezetben hoztak létre.
+
+
+
+Az ODT összefűzés körülötti automatizálás biztosítja az interoperabilitást, miközben megőrzi a dokumentum integritását a rendszerek között.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Cross-Platform Dokumentum Összevonás (ODT)**  
+
+&nbsp; Összefűzi az ODT fájlokat, amelyek különböző irodai szoftverekben lettek létrehozva.
+
+
+
+* **Open-Standard Tartalom Összevonás (ODT)**  
+
+&nbsp; Egyesíti az ODT dokumentumokat egységes közzététel érdekében.
+
+
+
+* **Együttműködésre épülő Tartalom Összeállítás (ODT)**  
+
+&nbsp; Összefűzi az ODT fájlokat több szerzőtől egy dokumentumba.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Open Workflow Automatizálás (ODT)**  
+
+&nbsp; Az automatizált rendszerek összefűzik az ODT fájlokat anélkül, hogy szükség lenne védett függőségekre.
+
+
+
+* **Ütemezett Dokumentum Összeállítás (ODT)**  
+
+&nbsp; Az ODT összefűzés része a visszatérő háttérfeladatoknak.
+
+
+
+* **Interoperábilis Közzétételi Csatornák (ODT)**  
+
+&nbsp; Az ODT fájlokat dinamikusan összefűzik keresztrendszerű csatornákban.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

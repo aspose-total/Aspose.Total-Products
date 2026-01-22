@@ -97,7 +97,93 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri aracılığıyla **PDF** dosyaları için belge meta verilerinin çıkarılması, sistemlerin başlıca özellikleri yakalamasına yardımcı olur - başlık, yazar, üretici, oluşturma ve değiştirme tarihleri ve gömülü tanımlayıcılar - içerik genellikle sabit düzenli olduğunda bile denetim ve keşfi destekler. Bu, denetlenebilirlik, kataloglama ve yüksek hacimli PDF depolarının işletimsel işlenmesi için önemlidir.
+
+
+
+Otomasyon borularında, PDF meta verileri dizin oluşturmayı, yönlendirmeyi, saklama zorunluluğunu ve toplu işleme sürücü olabilir - bu, PDF'leri manuel sınıflandırma olmadan ölçeklenebilir iş akışlarına entegre etmeyi pratik hale getirir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Dijital Arşiv Kataloglama**
+
+  Aranabilir özelliklere sahip belgelerin güvenilir bir envanterini oluşturmak için PDF meta verilerini çıkarın.
+
+
+
+* **Uyumluluk ve Saklama Denetimleri**
+
+  Oluşturma/değiştirme zaman damgalarını kullanarak saklama sürelerini doğrulayın ve tutarsızlıkları tespit edin.
+
+
+
+* **Üretici ve Kaynak Atıfları**
+
+  İçerik kökenlerini ve işleme soyunu anlamak için üretici ile ilgili özellikleri yakalayın.
+
+
+
+* **Toplu Sınıflandırma İşaretleri**
+
+  PDF'leri politika, fatura, kılavuzlar veya raporlar gibi alanlara kategorize etmek için meta veri alanlarını kullanın.
+
+
+
+* **İşletimsel Kalite Kontrolleri**
+
+  Eksik veya şüpheli meta verilere sahip PDF'leri, iyileştirme veya manuel gözden geçirme için aday olarak işaretleyin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik Alım Sınıflandırması**
+
+  PDF'ler geldiğinde, meta verileri çıkarın ve bunları tamamlanmışlık ve hassasiyet kurallarına göre işleme şeritlerine yönlendirin.
+
+
+
+* **Meta Veriye Dayalı Dizin Güncellemeleri**
+
+  PDF eklendiğinde veya değiştirildiğinde hızlı erişim için meta veriyi kullanarak arama dizinini otomatik olarak güncelleyin.
+
+
+
+* **Saklama Zorunluluğu İş Akışı**
+
+  Saklama sınırlarını aşan PDF'leri tanımlayan ve silme veya arşivleme görevleri oluşturan zamanlanmış işleri çalıştırın.
+
+
+
+* **Toplu Raporlama ve Gösterge Tabloları**
+
+  PDF meta verilerini yönetim, uyumluluk ve işletimsel denetim için periyodik raporlara toplayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

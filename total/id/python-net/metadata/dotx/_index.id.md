@@ -98,7 +98,93 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Ekstraksi metadata dokumen untuk file **DOTX** melalui API Python memberikan cara terstruktur untuk mengelola file template modern dengan membaca properti seperti judul template, detail authoring, dan riwayat pembaruan. Ini meningkatkan tata kelola dan memastikan generasi dokumen tetap konsisten dan sesuai kebijakan.
+
+
+
+Dalam pipa otomatisasi, metadata DOTX berguna untuk resolusi template, alur kerja persetujuan, dan kontrol siklus hidup—memungkinkan operasi template yang dapat diskalakan yang mengurangi pemeriksaan manual dan drift konfigurasi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Penemuan dan Pencarian Template**
+
+  Ekstrak metadata DOTX untuk membuat template dapat dicari berdasarkan tujuan, departemen, atau jenis dokumen yang dimaksud.
+
+
+
+* **Pelacakan Status Persetujuan**
+
+  Gunakan properti kustom untuk melacak apakah sebuah template adalah draf, disetujui, atau sudah tidak digunakan.
+
+
+
+* **Pemetaan Kepemilikan Template**
+
+  Identifikasi pemelihara dan penulis untuk mengalihkan permintaan pembaruan dan tugas akuntabilitas.
+
+
+
+* **Jaminan Konsistensi untuk Dokumen yang Dihasilkan**
+
+  Validasi bahwa alur kerja menggunakan template DOTX yang tepat berdasarkan pengidentifikasi metadata.
+
+
+
+* **Tata Kelola Perubahan Template**
+
+  Pantau riwayat modifikasi untuk mendeteksi suntingan yang tidak terduga pada template yang terkendali.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Registrasi Template yang Didorong Metadata**
+
+  Secara otomatis mengonsumsi metadata DOTX ke dalam layanan registrasi yang digunakan oleh sistem generasi dokumen.
+
+
+
+* **Pipa Penegakan Penonaktifan**
+
+  Alihkan template DOTX yang sudah tidak digunakan ke arsip dan mencegah penggunaan berdasarkan flag metadata.
+
+
+
+* **Pemeriksaan QA Template Otomatis**
+
+  Jalankan validasi yang memastikan properti DOTX yang diperlukan ada dan sesuai dengan standar organisasi sebelum rilis.
+
+
+
+* **Alur Kerja Pembaruan Template**
+
+  Ketika metadata DOTX menunjukkan adanya perubahan, secara otomatis buat tugas tinjauan untuk pemelihara yang ditugaskan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

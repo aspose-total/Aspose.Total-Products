@@ -78,7 +78,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Sloučení formátů šablon Excelu pomocí Python API zajišťuje konzistentní strukturu a rozložení vytvořených tabulek. Sloučení na základě šablon je klíčové pro standardizované reportovací a vstupní pracovní postupy.
+
+
+
+Automatizace umožňuje rychlé generování jednotných tabulek bez manuálního formátování.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Sestavování tabulek na základě šablon (XLT)**  
+
+&nbsp; Sloučení souborů založených na XLT pro vynucení konzistentních rozložení.
+
+
+
+* **Standardizovaný sběr dat (XLT)**  
+
+&nbsp; Sloučení tabulek řízených šablonami do jednoho souboru.
+
+
+
+* **Opakovatelné struktury tabulek (XLT)**  
+
+&nbsp; Sdružování dokumentů XLT pro udržení jednotného designu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatické použití šablon (XLT)**  
+
+&nbsp; Soubory XLT jsou automaticky sloučeny během generování.
+
+
+
+* **Zpracování šablon hromadně (XLT)**  
+
+&nbsp; Plánované úlohy sloučí více tabulek založených na XLT.
+
+
+
+* **Automatizace s kontrolou rozložení (XLT)**  
+
+&nbsp; Systémy sloučí soubory XLT pro zajištění konzistence formátu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

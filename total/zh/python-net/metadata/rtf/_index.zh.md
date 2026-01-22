@@ -98,7 +98,93 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+通过Python API提取**RTF**文件的文档元数据，帮助系统捕获用于可移植性和遗留兼容性的富文本文档的基本文件属性和嵌入式描述符。这支持包含混合文档类型的存储库的索引、治理和生命周期跟踪。
+
+
+
+在自动化工作流中，RTF元数据可以驱动分类、路由和目录同步，从而实现对遗留或面向交换的文档的可扩展处理，无需手动审核。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **混合格式存储库索引**
+
+  提取RTF元数据以提高跨不同文档存储的发现能力和统一报告。
+
+
+
+* **遗留内容治理**
+
+  使用时间戳和作者字段建立旧文档的管理和更新周期。
+
+
+
+* **运营的批量分类**
+
+  将可用的RTF属性规范化为结构化标签，用于路由和访问控制。
+
+
+
+* **迁移和转换规划**
+
+  审计RTF元数据以确定转换目标的优先级，并识别缺失的所有权细节。
+
+
+
+* **入库质量控制**
+
+  标记具有不完整或不一致元数据的RTF文件，以进行补救工作流。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **遗留入库规范化**
+
+  自动提取RTF元数据并将其转换为标准化字段，用于中央文档注册表。
+
+
+
+* **转换队列编排**
+
+  根据元数据完整性和陈旧阈值将RTF文件路由到转换管道。
+
+
+
+* **自动化管理分配**
+
+  为缺乏维护者属性的RTF文件创建所有权任务，使用目录上下文加上元数据信号。
+
+
+
+* **定期存储库健康报告**
+
+  生成定期的RTF元数据覆盖摘要、缺失字段和老化分布的摘要，用于治理跟踪。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

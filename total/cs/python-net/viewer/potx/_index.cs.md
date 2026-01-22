@@ -89,7 +89,73 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Prohlížení souborů POTX pomocí Python API umožňuje inspekci moderních šablon prezentací používaných při automatizované tvorbě snímků.
+
+Toto podporuje škálovatelné pracovní postupy řízené šablonami.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Inspekce moderních šablon**  
+
+&nbsp; Zobrazení hlavních snímků a rozvržení.
+
+
+
+* **Kontroly konzistence značky**  
+
+&nbsp; Zajištění dodržování standardů prezentace šablon.
+
+
+
+* **Validace připravenosti automatizace**  
+
+&nbsp; Inspekce šablon před použitím.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Šablony nasazení potrubí**  
+
+&nbsp; Soubory POTX jsou vykresleny před nasazením.
+
+
+
+* **Automatizované systémy prezentací**  
+
+&nbsp; Prohlížení zajišťuje správnou funkci šablon.
+
+
+
+* **Pracovní postupy zajišťování kvality**  
+
+&nbsp; Šablony jsou ověřovány programově.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

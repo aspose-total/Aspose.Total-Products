@@ -82,7 +82,73 @@ BMP ビューア アプリまたはユーティリティを開発する必要が
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用したBMPドキュメントの表示により、非圧縮ビットマップ画像の信頼性のあるレンダリングが可能になり、ピクセルレベルの精度が重要な検査、検証、および視覚ワークフローが実現されます。
+
+この機能により、手動介入なしで自動化された画像パイプライン、プレビューシステム、および品質チェックがサポートされます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **ピクセル正確な画像レビュー**
+
+&nbsp; ビットマップ画像を保存されている通りに正確に表示し、元の色や解像度の詳細を保持します。
+
+
+
+* **レガシー画像の互換性**
+
+&nbsp; アーカイブシステムで一般的に使用される古いまたは生のビットマップファイルを開いて表示します。
+
+
+
+* **視覚品質の検証**
+
+&nbsp; レイアウトとレンダリングの正確性を確認するために画像をプログラムで検査します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **自動画像検証**
+
+&nbsp; Pythonスクリプトは、視覚的な異常を検出するためにバッチ検証中にBMPファイルを表示します。
+
+
+
+* **プレビュー生成パイプライン**
+
+&nbsp; ダッシュボードやレビューツールのためにビットマップファイルが自動的にレンダリングされます。
+
+
+
+* **画像ワークフローのデバッグ**
+
+&nbsp; 自動ビューアは、処理パイプラインで中間画像出力を検証するのに役立ちます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,75 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTX adalah format presentasi berbasis XML modern yang dirancang untuk konten slide terstruktur. Memisahkan file PPTX memungkinkan kontrol yang sangat halus atas data tingkat slide.
+
+
+
+Automasi berbasis Python mendukung pemrosesan PPTX yang dapat diandalkan, dapat diskalakan, dan memperhatikan format.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Manajemen Konten Tingkat Slide**  
+
+  Kelola slide individu sebagai unit independen.
+
+
+
+* **Kustomisasi Deck Otomatis**  
+
+  Buat presentasi yang disesuaikan dari slide yang diekstrak.
+
+
+
+* **Analitika Presentasi**  
+
+  Analisis konten slide secara programatis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Penguraian Slide yang Memahami XML**  
+
+  Skrip Python mengekstrak slide secara tepat.
+
+
+
+* **Perakitan Deck Berbasis Aturan**  
+
+  Slide disusun secara dinamis.
+
+
+
+* **Pipa Review Otomatis**  
+
+  Slide divalidasi secara independen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

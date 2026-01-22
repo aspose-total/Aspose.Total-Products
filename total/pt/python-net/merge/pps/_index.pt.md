@@ -79,7 +79,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/sli
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A fusão de formatos de apresentação de slides do PowerPoint usando APIs Python permite apresentações unificadas prontas para reprodução. Esses formatos são projetados para apresentação direta, em vez de edição.
+
+
+
+A automação garante a entrega consistente de apresentações de slides em equipes e eventos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Montagem de Sequência de Slides (PPS)**  
+
+&nbsp; Mesclar arquivos PPS em um fluxo de apresentação único.
+
+
+
+* **Compilação de Apresentação de Eventos (PPS)**  
+
+&nbsp; Combinar arquivos de apresentação de slides para conferências ou reuniões.
+
+
+
+* **Empacotamento de Reprodução de Apresentação (PPS)**  
+
+&nbsp; Agregar arquivos PPS em uma apresentação de slides executável.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Preparação Automatizada de Deck de Eventos (PPS)**  
+
+&nbsp; Sistemas mesclam arquivos PPS antes de eventos agendados.
+
+
+
+* **Geração Automática de Slides nos Bastidores (PPS)**  
+
+&nbsp; A mesclagem de PPS é acionada programaticamente.
+
+
+
+* **Automação de Entrega de Apresentação (PPS)**  
+
+&nbsp; As apresentações de slides são mescladas automaticamente para reprodução.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

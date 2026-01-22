@@ -79,7 +79,85 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG ODT TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 ODT 문서에 워터마킹을 적용하면 소유권과 기밀성 마크를 추가하여 콘텐츠를 열린 생태계에서 접근 가능하게 보호할 수 있습니다.
+
+자동화를 통해 ODT 라이브러리 전반에 일관된 워터마크 규칙을 적용하여 오픈 포맷을 사용하는 팀들에 대한 확장 가능한 문서 관리를 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **오픈 포맷 정책 라벨링**
+
+  &nbsp; "내부" 또는 "기밀"과 같은 라벨을 ODT 문서에 찍어 잘못된 경로로의 전달을 줄입니다.
+
+
+
+* **공동 저술을 위한 초안 제어**
+
+  &nbsp; 반복적인 편집 주기 동안 "DRAFT" 오버레이를 적용합니다.
+
+
+
+* **공유 문서에 대한 배포 공지**
+
+  &nbsp; 계약업체나 파트너와 공유된 문서에 재사용 제한을 추가합니다.
+
+
+
+* **아카이브 신원 보존**
+
+  &nbsp; 내보낸 ODT 파일에 워터마크를 적용하여 시스템 간 복사 후에도 소유권이 보이도록 합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **문서 생성기 + 워터마크 단계**
+
+  &nbsp; 템플릿이나 구조화된 데이터에서 생성된 ODT 파일에 자동으로 워터마크를 적용합니다.
+
+
+
+* **저장소 정책 강제 적용**
+
+  &nbsp; 규제된 폴더에 ODT가 업로드될 때 워터마크를 적용합니다.
+
+
+
+* **자동 버전 워터마크 전환**
+
+  &nbsp; 버전 상태(초안, 검토, 최종)에 따라 워터마크 텍스트를 프로그래밍적으로 변경합니다.
+
+
+
+* **컴플라이언스 익스포트 파이프라인**
+
+  &nbsp; 감사에 사용되는 ODT 내보내기에 워터마크를 찍어 제출물 전반에 걸쳐 일관된 라벨링을 보장합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

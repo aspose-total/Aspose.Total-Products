@@ -74,7 +74,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การเขียนเอกสารโดยใช้ Python APIs สำหรับไฟล์ Word ช่วยให้การประมวลผลอย่างปลอดภัยข้ามรูปแบบการประมวลผลของคำในหลายรูปแบบภายใต้การเข้าถึงที่เป็นร่วมกัน ซึ่งทำให้มั่นใจได้ว่าการป้องกันข้อมูลเป็นไปอย่างสม่ำเสมอไม่ว่าจะมาจากที่มาของเอกสาร
+
+
+
+โดยการอัตโนมัติเอกสาร Word การลบข้อมูลส่วนตัวองค์กรสามารถมาตรฐานควบคุมความเป็นส่วนตัวในขณะที่ปรับปรุงประสิทธิภาพและการขยายขอบเขต
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **การบริหารเอกสารขององค์กร**  
+
+&nbsp; ใช้นโยบายการลบข้อมูลอย่างสม่ำเสมอในเอกสาร Word ทั้งหมด
+
+
+
+* **การควบคุมเนื้อหารูปแบบผสม**  
+
+&nbsp; จัดการข้อมูลที่เป็นสารลับในสภาพแวดล้อมไฟล์ Word ที่ผสมกัน
+
+
+
+* **การแบ่งปันความรู้อย่างปลอดภัย**  
+
+&nbsp; แจกจ่ายเอกสารที่ถูกลบข้อมูลอย่างปลอดภัยภายในและนอกองค์กร
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **บริการการลบข้อมูลอย่างเป็นร่วมกัน**  
+
+&nbsp; เปิดเผยการลบข้อมูลเป็นบริการที่ใช้ซ้ำได้โดยใช้ Python
+
+
+
+* **การประมวลผลโดยเหตุการณ์**  
+
+&nbsp; เรียกใช้การลบข้อมูลเมื่อไฟล์ Word ถูกอัปโหลดหรือปรับเปลี่ยน
+
+
+
+* **กระบวนการทำงานที่พร้อมสำหรับการตรวจสอบ**  
+
+&nbsp; บันทึกและติดตามการกระทำการลบข้อมูลโดยอัตโนมัติเพื่อปฏิบัติตามข้อบังคับ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTX هو تنسيق عرض حديث قائم على XML مصمم لمحتوى الشرائح المنظم. تقسيم ملفات PPTX يمكن أن يوفر تحكمًا دقيقًا على مستوى الشريحة.
+
+
+
+الأتمتة القائمة على Python تدعم معالجة PPTX موثوقة وقابلة للتوسيع ومدركة للتنسيق.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **إدارة محتوى مستوى الشريحة**  
+
+&nbsp; إدارة الشرائح الفردية كوحدات مستقلة.
+
+
+
+* **تخصيص العروض تلقائيًا**  
+
+&nbsp; إنشاء عروض مخصصة من الشرائح المستخرجة.
+
+
+
+* **تحليل العروض**  
+
+&nbsp; تحليل محتوى الشرائح برمجيًا.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **تحليل الشرائح القائم على XML**  
+
+&nbsp; تستخرج النصوص بدقة باستخدام السكربتات البايثون.
+
+
+
+* **تجميع العروض بناءً على القواعد**  
+
+&nbsp; يتم تجميع الشرائح بشكل ديناميكي.
+
+
+
+* **أنابيب المراجعة التلقائية**  
+
+&nbsp; يتم التحقق من الشرائح بشكل مستقل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -133,7 +201,7 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

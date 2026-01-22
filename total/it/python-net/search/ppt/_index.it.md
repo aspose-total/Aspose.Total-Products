@@ -76,7 +76,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La ricerca dei file **PPT** con le API di Python consente di accedere a documenti di presentazione legacy che conservano ancora informazioni aziendali, formative e strategiche di valore. La ricerca automatizzata garantisce che le vecchie presentazioni rimangano utilizzabili e ricercabili su larga scala.
+
+
+
+Integrando la ricerca PPT nei sistemi automatizzati, le organizzazioni riducono lo sforzo manuale e sbloccano informazioni dai contenuti di presentazioni archiviate.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Ricerca di Contenuti delle Vecchie Slide**  
+
+&nbsp; Trova parole chiave all'interno dei vecchi file di presentazioni PPT.
+
+
+
+* **Recupero di Presentazioni Archiviate**  
+
+&nbsp; Consente di scoprire le presentazioni storiche.
+
+
+
+* **Estrazione di Testo da PPT**  
+
+&nbsp; Estrae il testo delle slide per l'indicizzazione e l'analisi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Scansione Automatica del Repository PPT**  
+
+&nbsp; I job Python scansionano i file PPT per trovare contenuti ricercabili.
+
+
+
+* **Creazione di Indici per Archivi PPT**  
+
+&nbsp; Le presentazioni legacy vengono indicizzate in modo programmato.
+
+
+
+* **Integrazione dei Contenuti PPT**  
+
+&nbsp; I dati estratti alimentano i flussi di lavoro di reportistica e analisi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,85 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Vodoznakování dokumentů ve formátu **PDF** pomocí Python API je běžný způsob, jak chránit finální sdílené soubory přidáním viditelných vlastnických značek, důvěrnosti nebo důkazních známek bez závislosti na úpravách.
+
+Automatizované vodoznakování PDF podporuje škálovatelné pracovní postupy, jako je hromadné razítkování, směrování na základě politiky a konzistentní označování souladu napříč archivy dokumentů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Ochrana důvěrného zprávy**  
+
+&nbsp; Přidejte viditelné značky důvěrnosti k odrazování od neoprávněné redistribuce.
+
+
+
+* **Důkazní kopie pro kontrolu a schválení**  
+
+&nbsp; Razítko "DŮKAZ" na PDF sdílené k zpětné vazbě ke snížení zmatení s finálními verzemi.
+
+
+
+* **Štítky vlastnictví faktur a výpisů**  
+
+&nbsp; Přidejte značky identity organizace k finančním PDF používaným napříč odděleními.
+
+
+
+* **Kontrolované sdílení právních dokumentů**  
+
+&nbsp; Vodoznačte citlivé podání a smlouvy k posílení očekávání manipulace.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadné vodoznakování pro doplnění archivu**  
+
+&nbsp; Automaticky razítkujte historické PDF během migrace do nového repozitáře.
+
+
+
+* **Pravidla umístění vodoznaku podle stránky**  
+
+&nbsp; Nastavte pozici vodoznaku podle velikosti stránky a orientace programovatelně.
+
+
+
+* **Razítka finalizace spouštěná pracovním postupem**  
+
+&nbsp; Přidejte vodoznaky "FINÁLNÍ", když jsou schválení dokončena v automatizovaném systému.
+
+
+
+* **Dynamický obsah vodoznaku s časovými razítky**  
+
+&nbsp; Generujte vodoznaky obsahující datum, ID žádosti nebo metadata příjemce pro zpětnou sledovatelnost.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

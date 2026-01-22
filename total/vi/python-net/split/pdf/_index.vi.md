@@ -79,7 +79,75 @@ Có các tùy chọn thay thế để cài đặt '[Aspose.PDF for Python via .N
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Tệp PDF được sử dụng rộng rãi cho các tài liệu cố định nơi nội dung được phân phối trên các trang. Chia tách PDF cho phép truy cập theo trang hoặc phần mà không cần sửa đổi tệp gốc.
+
+
+
+Chia tách PDF được điều khiển bằng Python nâng cao tự động hóa bằng cách cho phép xử lý quy mô lớn, trích xuất chọn lọc và tích hợp với đường ống tài liệu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Trích Xuất Theo Trang**  
+
+&nbsp; Cô lập các trang cụ thể để xem xét hoặc phân phối.
+
+
+
+* **Phân đoạn Tài Liệu**  
+
+&nbsp; Chia tách các tệp PDF lớn thành các phần hợp lý.
+
+
+
+* **Xử Lý Tuân Thủ và Kiểm Toán**  
+
+&nbsp; Trích xuất các phần liên quan để xác minh.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Đường Ống Xử Lý PDF Theo Lô**  
+
+&nbsp; Hàng ngàn tệp PDF được chia tách tự động.
+
+
+
+* **Phân Tách Trang Dựa Trên Quy Tắc**  
+
+&nbsp; Logic Python chia tách PDF bằng cách sử dụng quy tắc trang.
+
+
+
+* **Phân Phối Nội Dung Tự Động**  
+
+&nbsp; Các tệp PDF đã được trích xuất được định tuyến đến các hệ thống mục tiêu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

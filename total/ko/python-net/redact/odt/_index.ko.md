@@ -74,7 +74,75 @@ ODT 편집 앱 또는 유틸리티를 개발해야 합니까?[Aspose.Total for P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용한 ODT 파일의 문서 작성은 핵심 구조를 변경하지 않고 문서 텍스트 파일을 안전하게 수정할 수 있습니다. 이는 투명하고 표준 기반의 문서 처리를 지원합니다.
+
+
+
+ODT 문서의 자동으로 작성함으로써, 조직은 오픈 소스 및 상호 운용 가능한 문서 생태계 전반에 걸쳐 민감한 콘텐츠를 효율적으로 관리할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **개인 정보 보호를 위한 문서 교환**  
+
+&nbsp; ODT 파일을 외부에서 공유하기 전에 개인 데이터를 삭제합니다.
+
+
+
+* **정책 기반 콘텐츠 제거**  
+
+&nbsp; 조직 정책과 일치하는 삭제 규칙을 시행합니다.
+
+
+
+* **오픈 문서 게시**  
+
+&nbsp; 공개적이거나 다중 플랫폼 사용을 위해 살균 처리된 문서를 준비합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **메타데이터 및 텍스트 삭제**  
+
+&nbsp; 본문 텍스트와 메타데이터에서 민감한 콘텐츠를 자동으로 제거합니다.
+
+
+
+* **대규모 오픈 포맷 처리**  
+
+&nbsp; 단일 자동 실행으로 대량의 ODT 파일을 삭제합니다.
+
+
+
+* **CMS 파이프라인 통합**  
+
+&nbsp; 문서가 게시되거나 공동 게시되기 전에 삭제를 적용합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

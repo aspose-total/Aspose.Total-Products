@@ -85,7 +85,77 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η συγχώνευση εικόνων TIFF χρησιμοποιώντας τα APIs της Python υποστηρίζει ροές εργασίας υψηλής ανάλυσης, πολλαπλών σελίδων εικόνων που χρησιμοποιούνται συνήθως στην εκτύπωση, στην ιατρική απεικόνιση και στη σάρωση εγγράφων.
+
+
+
+Η αυτοματοποίηση επιτρέπει την αξιόπιστη χειριστική μεγάλων, λεπτομερών συνόλων εικόνων.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* **Συναρμολόγηση Σάρωσης Πολλαπλών Σελίδων (TIFF)**  
+
+&nbsp; Συγχωνεύστε τις σελίδες TIFF σε ένα μονοσέλιδο αρχείο.
+
+
+
+* **Επεξεργασία Εικόνων Υψηλής Ανάλυσης (TIFF)**  
+
+&nbsp; Συνδυάστε τις εικόνες TIFF για λεπτομερή ανάλυση.
+
+
+
+* **Συλλογή Εικόνων Έτοιμων για Εκτύπωση (TIFF)**  
+
+&nbsp; Συγκεντρώστε τα αρχεία TIFF για ροές εκδόσεων.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* **Αυτοματοποιημένες Σωληνώσεις Σάρωσης (TIFF)**  
+
+&nbsp; Συστήματα συγχωνεύουν τα αρχεία TIFF κατά την εισαγωγή σάρωσης.
+
+
+
+* **Παρτίδες Επεξεργασίας Υψηλής Ανάλυσης (TIFF)**  
+
+&nbsp; Η συγχώνευση TIFF λειτουργεί σε προγραμματισμένες εργασίες.
+
+
+
+* **Αυτοματοποίηση Εικόνων Επιχειρήσεων (TIFF)**  
+
+&nbsp; Αυτοματοποιημένες ροές εργασίας διαχειρίζονται μεγάλα σύνολα δεδομένων TIFF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

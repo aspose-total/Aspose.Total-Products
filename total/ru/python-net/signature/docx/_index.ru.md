@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Подписание документов DOCX с использованием Python API позволяет включать в структурированные современные документы проверяемые метаданные утверждения. Это обеспечивает прослеживаемость и контролируемые жизненные циклы документов.
+
+
+
+Автоматизированное подписание DOCX интегрируется без проблем с движками контента, системами утверждения и репозиториями документов в масштабе.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Завершение цифрового контракта**  
+
+&nbsp; Встраивание утвержденных подписей в завершенные контракты DOCX.
+
+
+
+* **Отслеживание утверждения отчетов**  
+
+&nbsp; Подписание отчетов DOCX для подтверждения утверждения руководства.
+
+
+
+* **Управление внутренней документацией**  
+
+&nbsp; Применение подписей к проверенным внутренним документам.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Подписание контрактов по событиям**  
+
+&nbsp; Файлы DOCX подписываются автоматически после событий утверждения.
+
+
+
+* **Завершение многоэтапного обзора**  
+
+&nbsp; Подписание происходит после завершения всех обозревателей своих задач.
+
+
+
+* **Утверждение документации на основе CI**  
+
+&nbsp; Файлы DOCX подписываются в рамках автоматизированных сборочных конвейеров.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -138,7 +206,7 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

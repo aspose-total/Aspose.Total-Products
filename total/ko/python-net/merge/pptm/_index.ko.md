@@ -79,7 +79,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+매크로 활성화된 PowerPoint 파일을 Python API를 사용하여 병합하면 포함된 논리, 자동화 또는 상호 작용 동작을 포함하는 프레젠테이션을 지원합니다. 기업 및 운영 프레젠테이션에서 이것은 일반적입니다.
+
+
+
+자동화는 매크로 활성화된 슬라이드가 포함된 기능을 손상시키지 않고 신뢰할 수 있게 병합되도록 보장합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **매크로 기반 프레젠테이션 어셈블리 (PPTM)**  
+
+&nbsp; 자동화 또는 상호 작용 요소를 포함하는 PPTM 파일을 병합합니다.
+
+
+
+* **운영 슬라이드 통합 (PPTM)**  
+
+&nbsp; 내부 프로세스에서 사용되는 매크로 활성화된 프레젠테이션을 결합합니다.
+
+
+
+* **상호 작용형 덱 패키징 (PPTM)**  
+
+&nbsp; 여러 PPTM 파일을 단일 실행 가능 프레젠테이션으로 통합합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **규칙 기반 프레젠테이션 생성 (PPTM)**  
+
+&nbsp; 시스템은 자동화 규칙에 따라 PPTM 파일을 병합합니다.
+
+
+
+* **백엔드 제어된 매크로 보존 (PPTM)**  
+
+&nbsp; 자동화된 파이프라인은 논리를 유지하면서 PPTM 파일을 병합합니다.
+
+
+
+* **컴플라이언스 프레젠테이션 자동화 (PPTM)**  
+
+&nbsp; PPTM 병합은 반복 가능하고 통제된 결과를 지원합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

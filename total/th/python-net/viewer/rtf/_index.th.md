@@ -90,7 +90,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การดูไฟล์ RTF ด้วย Python APIs ช่วยให้สามารถตรวจสอบเอกสาร rich-text ที่มีการจัดรูปแบบและพกพาได้
+
+นี้สนับสนุนการอัตโนมัติในการทำงานที่เน้นข้อความที่ต้องการการจัดรูปแบบพื้นฐาน
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **ตรวจสอบข้อความที่ถูกจัดรูปแบบ**  
+
+&nbsp; ดูข้อความที่มีการจัดรูปแบบโดยไม่ต้องมีความซับซ้อนของเอกสารทั้งหมด
+
+
+
+* **การตรวจสอบเอกสารที่สามารถใช้งานร่วมกัน**  
+
+&nbsp; ตรวจสอบเอกสารในระบบที่หลากหลาย
+
+
+
+* **การตรวจสอบเนื้อหา**  
+
+&nbsp; รับรองการจัดรูปแบบและความถูกต้องของข้อความ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การทำงานของท่อข้อความอัตโนมัติ**  
+
+&nbsp; การทำงานของ Python แสดงไฟล์ RTF ขณะประมวลผล
+
+
+
+* **บริการดูตัวอย่าง**  
+
+&nbsp; เอกสารถูกแสดงอย่างไดนามิกเพื่อตรวจสอบ
+
+
+
+* **การตรวจสอบการย้าย**  
+
+&nbsp; การดูแน่ใจว่าการเปลี่ยนแปลงไปยังรูปแบบอื่นเป็นไปอย่างปลอดภัย
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -100,7 +100,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API解析**PowerPoint演示文稿**可以结构化地提取幻灯片内容，包括标题、项目符号、布局和演讲者备注，使基于演示文稿的信息可供分析、重用和系统集成。
+
+
+
+当连接到自动化工作流时，PowerPoint解析将静态幻灯片转变为支持可扩展知识处理、报告和内容操作的动态数据源。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **提取幻灯片内容**  
+
+  检索PowerPoint幻灯片中的结构化文本和布局元素。
+
+
+
+* **演示文稿知识处理**  
+
+  将幻灯片转换为可搜索和可分析的信息资产。
+
+
+
+* **内容重用和转换**  
+
+  可以在文档和平台之间重新利用演示材料。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化演示文稿摄取**  
+
+  将PowerPoint文件作为摄取管道的一部分自动处理。
+
+
+
+* **幻灯片级内容摘要**  
+
+  从解析的幻灯片数据生成摘要和结构化输出。
+
+
+
+* **程序化内容分发**  
+
+  将提取的演示内容馈送到下游系统和工作流程中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

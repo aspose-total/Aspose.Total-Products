@@ -85,7 +85,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+دمج الصور النقطية باستخدام واجهات برمجة التطبيقات في Python يمكن أن يسمح بتجميع الصور الخام غير المضغوطة في صورة مركبة واحدة أو سلسلة. يعد هذا مفيدًا في مجال الصور التقنية وسير العمل للمسح الضوئي، والأنظمة التي تعتبر جودة الصورة أكثر أهمية من حجم الملف.
+
+
+
+يدعم دمج BMP التلقائي الأنابيب الدقيقة لمعالجة الصور حيث يكون الدقة والتكرار والتكوين الذي يدفعه النظام مطلوبًا.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تجميع صور المسح الضوئي (BMP)**  
+
+&nbsp; دمج مسح ضوئي BMP متعدد في صورة مركبة واحدة.
+
+
+
+* **تجميع الرسوم البيانية التقنية (BMP)**  
+
+&nbsp; دمج الرسوم البيانية النقطية في صور بصرية موحدة.
+
+
+
+* **أرشفة الصور الخام (BMP)**  
+
+&nbsp; تجميع ملفات BMP للتخزين الطويل الأمد أو المعالجة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **معالجة المسح الضوئي التلقائية (BMP)**  
+
+&nbsp; تدمج الأنظمة صور BMP أثناء سير العمل للتقاط الصور.
+
+
+
+* **تكوين الصور بالدفعات (BMP)**  
+
+&nbsp; تدمج الوظائف المجدولة الصور النقطية برمجيًا.
+
+
+
+* **أنابيب معالجة الصور بدقة (BMP)**  
+
+&nbsp; يتم تضمين دمج BMP في أنظمة المعالجة المراقبة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

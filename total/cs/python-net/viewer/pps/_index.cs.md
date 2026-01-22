@@ -89,7 +89,73 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Prohlížení souborů PPS, PPSM a PPSX pomocí Python API umožňuje prohlížení prezentací určených pro přímé přehrávání.
+
+Toto podporuje automatizované hodnocení bez potřeby prezentovacího softwaru.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Hodnocení obsahu prezentace**  
+
+&nbsp; Prohlížení prezentací určených k okamžitému zobrazení.
+
+
+
+* **Inspekce struktury přehrávání**  
+
+&nbsp; Kontrola toku snímků a přechodů.
+
+
+
+* **Ověření distribuce**  
+
+&nbsp; Zajištění správnosti souborů prezentace před sdílením.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizované kontroly prezentace**  
+
+&nbsp; Pythonové pracovní postupy zobrazují soubory prezentace k hodnocení.
+
+
+
+* **Náhled před distribucí**  
+
+&nbsp; Prezentace jsou zobrazovány dynamicky.
+
+
+
+* **Kontrola kvality procesů zajištění kvality**  
+
+&nbsp; Prohlížení zajišťuje připravenost k doručení.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

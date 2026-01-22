@@ -71,7 +71,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODP soubory jsou běžně používány v otevřených prezentacích a jejich odemčení zajišťuje přístup k chráněným snímkům, poznámkám a rozložením. To je klíčové pro opakované použití, lokalizaci a dlouhodobé uchování prezentací.
+
+
+
+Python API umožňuje automatizované odemykání ODP souborů, což umožňuje jejich integraci do škálovatelných pracovních postupů prezentací a transformačních potrubí.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Opakované použití obsahu snímku**  
+
+&nbsp; Umožňuje extrakci chráněných snímků pro opakované použití v různých prezentacích.
+
+
+
+* **Podpora lokalizace**  
+
+&nbsp; Podporuje přístup k uzamčenému textu pro automatizované pracovní postupy překladu.
+
+
+
+* **Archivace prezentací**  
+
+&nbsp; Umožňuje bezpečnou kontrolu chráněných souborů před dlouhodobým uložením.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizovaný překlad snímků**  
+
+&nbsp; Odemčení umožňuje extrakci textu pro vícejazyčné automatizační potrubí.
+
+
+
+* **Indexace prezentací**  
+
+&nbsp; Chráněný obsah je odemčen a indexován pro podnikové vyhledávací systémy.
+
+
+
+* **Hromadná konverze prezentací**  
+
+&nbsp; ODP soubory jsou odemčeny a programově převedeny do alternativních formátů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

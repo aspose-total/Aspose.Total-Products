@@ -79,7 +79,85 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG ODT TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API为ODT文档添加水印有助于保护开放文档文本文件，通过添加清晰的所有权和保密标记，同时保持内容在开放生态系统中可访问。
+
+自动化可以实现跨ODT库的一致水印规则，支持使用开放格式的团队进行可扩展的文档管理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **开放格式政策标记**
+
+  &nbsp; 为ODT文档加盖“内部”或“机密”标记，以减少错误路由。
+
+
+
+* **协作写作的草稿控制**
+
+  &nbsp; 在迭代编辑周期中应用“草稿”叠加。
+
+
+
+* **共享文档的分发通知**
+
+  &nbsp; 为与承包商或合作伙伴共享的文档添加重用限制。
+
+
+
+* **存档身份保留**
+
+  &nbsp; 为导出的ODT文件加水印，以便即使在系统之间复制后，所有权也是可见的。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **文档生成器 + 水印步骤**
+
+  &nbsp; 自动为从模板或结构化数据生成的ODT文件添加水印。
+
+
+
+* **存储库政策执行**
+
+  &nbsp; 在上传到受监管文件夹的ODT时应用水印。
+
+
+
+* **自动版本水印切换**
+
+  &nbsp; 根据版本状态（草稿、审阅、最终版）自动更改水印文本。
+
+
+
+* **合规性导出管道**
+
+  &nbsp; 为用于审核的ODT导出加盖水印，以确保提交的文档标记一致。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Le tatouage numérique des feuilles de calcul **Excel** avec des API Python ajoute des contrôles de visibilité aux classeurs contenant beaucoup de données, aidant à communiquer la propriété, la confidentialité et l'utilisation prévue directement dans les vues des feuilles de calcul.
+
+L'automatisation rend le tatouage numérique des feuilles de calcul fiable à grande échelle, idéal pour les rapports planifiés, le partage entre plusieurs équipes et les exportations contrôlées à partir des systèmes d'analyse.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Superpositions de confidentialité des rapports financiers**  
+
+&nbsp; Marquer les feuilles de calcul contenant des budgets ou des prévisions pour réduire les risques de fuite.
+
+
+
+* **Limites de distribution pour les tableaux de bord partagés**  
+
+&nbsp; Ajouter des étiquettes "POUR USAGE INTERNE UNIQUEMENT" pour dissuader la transmission externe.
+
+
+
+* **Indicateurs de brouillon pour la validation des données**  
+
+&nbsp; Appliquer des tatouages "PRÉLIMINAIRE" jusqu'à ce que la réconciliation ou les approbations soient terminées.
+
+
+
+* **Avis de propriété des données partenaires**  
+
+&nbsp; Intégrer un texte de propriété dans les classeurs partagés pour clarifier la réutilisation autorisée des ensembles de données.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Rapports planifiés avec estampillage automatique**  
+
+&nbsp; Tatouer les rapports générés chaque nuit avant de les envoyer aux listes de distribution.
+
+
+
+* **Tatouage par classification du classeur**  
+
+&nbsp; Utiliser des balises de sensibilité pour choisir automatiquement le texte et l'emplacement du tatouage.
+
+
+
+* **Application des règles d'exportation**  
+
+&nbsp; Marquer les feuilles de calcul lors de l'exportation à partir des systèmes BI ou ETL pour maintenir la gouvernance.
+
+
+
+* **Étiquetage automatisé de conformité régionale**  
+
+&nbsp; Ajouter des avis spécifiques à la juridiction en fonction de l'équipe de destination ou du pays.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

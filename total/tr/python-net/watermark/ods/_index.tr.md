@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri kullanarak **ODS** elektronik tablolarına filigran eklemek, sahiplik, gizlilik ve dağıtım için görünür yönetim etiketleri ekleyerek açık belge elektronik tabloları üzerinde kontrolü artırır.
+
+ODS filigranlama otomasyonu, ölçeklenebilir raporlama iş akışlarını destekleyerek, açık formatlarda paylaşılan veri kümeleri üzerinde tutarlı politika göstergelerini sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Gizli Veri Tablosu Damgalama**  
+
+&nbsp; Hassas ODS dosyalarını işaretleyerek kazara harici paylaşım riskini azaltın.
+
+
+
+* **Ön Veri Etiketleri**  
+
+&nbsp; Erken aşama veri doğrulama döngüleri sırasında "DOĞRULANMAMIŞ" üst katmanlarını uygulayın.
+
+
+
+* **Ortak Veri Kullanım Bildirimleri**  
+
+&nbsp; Lisanslama ve yeniden kullanım kısıtlamalarını açıklayan görünür bildirimler ekleyin.
+
+
+
+* **Dahili Denetim İzleme Desteği**  
+
+&nbsp; Hangi sistemin belirli bir veri kümesini ürettiğini açıkça belirtmek için filigran dışa aktarımları yapın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **ETL Dışa Aktarma Filigranlama**  
+
+&nbsp; Otomatik veri boru hatlarından oluşturulduğunda ODS dosyalarını otomatik olarak damgalayın.
+
+
+
+* **Rol Bazlı Filigran Metni**  
+
+&nbsp; Alıcı ekibe veya erişim seviyesine bağlı olarak filigran içeriğini özelleştirin.
+
+
+
+* **Zamanlanmış Rapor Dağıtım Kontrolleri**  
+
+&nbsp; Periyodik ODS raporları göndermeden önce zaman damgası ile filigran uygulayın.
+
+
+
+* **Otomatik Saklama Politikası Etiketleme**  
+
+&nbsp; Depolanan elektronik tablolar için yaşam döngüsü otomasyonunu desteklemek için görsel saklama etiketleri ekleyin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

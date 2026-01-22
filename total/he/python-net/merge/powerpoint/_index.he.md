@@ -77,7 +77,59 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+מיזוג פורמטים לתחזוקת תצוגה מאוחדת המתאימה ל- PowerPoint באמצעות Python APIs פשוטה את הטיפול במקורות שקופיות שונים. ההפשטה הזו מפחיתה את המורכבות בסביבות בהן יש שימוש בפורמטים שונים.
+
+האוטומציה מאפשרת איחוד שקופיות לא-תלויות בפורמט למערכות הצגה נמכרות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **איחוד תצוגות בפורמטים שונים (POWERPOINT)**
+
+  &nbsp; מיזוג פורמטים שונים של תצוגות לקובץ אחד.
+
+* **איגוד שקופיות ממקורות שונים (POWERPOINT)**
+
+  &nbsp; שילוב שקופיות מכלים ופורמטים שונים.
+
+* **הסדרת תצוגה לעסקים (POWERPOINT)**
+
+  &nbsp; איגוד שקופיות שונות לתוך מצגת ראשית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **צינורות שקופיות לא-תלויות בפורמט (POWERPOINT)**
+
+  &nbsp; זרימות עבודה אוטומטיות ממזגות מצגות ללא קשר לפורמט.
+
+* **יצירת מצגת מאוחדת (POWERPOINT)**
+
+  &nbsp; מערכות יוצרות קובצים מאוחדים באופן דינמי.
+
+* **אורכסטרציה של שקופיות נמכרת (POWERPOINT)**
+
+  &nbsp; מיזוג תוכנתי תומך במצגות בטווח המותן של העסק.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,85 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri kullanarak **PPT** dosyalarına filigran eklemek, orijinal oluşturma ortamında manuel düzenlemeler gerektirmeden eski PowerPoint sunumlarını korumaya yardımcı olur.
+
+Otomasyon, eski sunumlar arasında tutarlı filigranlama sağlayarak arşivler, satış kütüphaneleri ve devralınan sunum varlıkları için ölçeklenebilir yönetimi destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Eski Sunum Gizlilik Damgaları**  
+
+&nbsp; Hala içeride kullanılan eski PPT sunumlarına "GİZLİ" damgaları uygulayın.
+
+
+
+* **Sadece İnceleme Amaçlı Paylaşım Kontrolleri**  
+
+&nbsp; Kazara genel dağıtımı önlemek için "İNCELEME İÇİN" örtükleri ekleyin.
+
+
+
+* **Tarihsel Fikri Mülkiyet İçin Sahiplik Etiketleri**  
+
+&nbsp; Kopyalanan sunumlar arasında telif hakkını korumak için eski slaytlara filigran ekleyin.
+
+
+
+* **Ortak Sınırlı Slayt Kütüphaneleri**  
+
+&nbsp; Harici işbirlikçilere dağıtılan PPT sunumlarına kısıtlamalar gömün.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Arşiv Genişliğinde PPT Toplu Filigranlama**  
+
+&nbsp; Yönetimi standartlaştırmak için eski dizinlere otomatik olarak damga basın.
+
+
+
+* **Otomatik Düzen Bilincinde Yerleştirme**  
+
+&nbsp; İçeriği örtüşmeyen bloklara yerleştirmek için slayt düzenlerine dayalı filigranlar yerleştirin.
+
+
+
+* **Sürümlü Çıktı Oluşturma**  
+
+&nbsp; Filigranlı "önizleme" ve "iç" varyantlarını programatik olarak üretin.
+
+
+
+* **Erişim İsteklerinde Tetiklenen Damgalama**  
+
+&nbsp; Otomatik bir portal aracılığıyla sunumlar istendiğinde alıcıya özgü filigranlar uygulayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

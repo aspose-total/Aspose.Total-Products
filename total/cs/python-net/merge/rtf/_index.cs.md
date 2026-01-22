@@ -78,7 +78,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Slučování dokumentů ve formátu Rich Text Format pomocí Python API umožňuje lehké sloučení dokumentů při zachování základního formátování a čitelnosti. RTF je široce používán pro interoperabilitu mezi platformami a systémy.
+
+
+
+Automatizované slučování RTF podporuje rychlé, programovatelné zpracování dokumentů v prostředích, kde jsou jednoduchost a kompatibilita klíčové.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Kompilace lehkých dokumentů (RTF)**  
+
+&nbsp; Slučování více souborů RTF do jednoho čitelného dokumentu.
+
+
+
+* **Výměna obsahu mezi systémy (RTF)**  
+
+&nbsp; Sloučení dokumentů RTF sdílených mezi různými systémy.
+
+
+
+* **Zachování jednoduchého formátování (RTF)**  
+
+&nbsp; Sdružení souborů RTF s uchováním základního formátování.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Zpracování textu na pozadí (RTF)**  
+
+&nbsp; Slučování RTF je automatizováno v rámci služeb zpracování textu.
+
+
+
+* **Zpracování velkého objemu dokumentů (RTF)**  
+
+&nbsp; Systémy programově slučují velké množství souborů RTF.
+
+
+
+* **Automatizace zaměřená na kompatibilitu (RTF)**  
+
+&nbsp; Soubory RTF jsou slučovány automaticky pro maximální přenositelnost.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

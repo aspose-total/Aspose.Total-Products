@@ -71,7 +71,77 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.PDF for Python via .N
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Tệp PDF thường bị khóa để bảo vệ thông tin nhạy cảm, nhưng việc mở khóa kiểm soát là cần thiết cho tự động hóa, phân tích và tái sử dụng hợp pháp. Truy cập theo chương trình đảm bảo rằng các tệp PDF được bảo vệ vẫn có thể tham gia vào các luồng công việc kỹ thuật số hiện đại.
+
+
+
+API Python cho phép việc mở khóa PDF được xử lý một cách an toàn và quy mô lớn, tích hợp với hệ thống trích xuất dữ liệu, lập chỉ mục và biến đổi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Trích Xuất Văn Bản và Dữ Liệu**  
+
+  &nbsp; Cho phép truy cập vào nội dung được bảo vệ để phân tích và báo cáo.
+
+
+
+* **Tự Động Hóa Đánh Giá Tài Liệu**  
+
+  &nbsp; Hỗ trợ việc kiểm tra tự động các tệp bị khóa trong quá trình xem xét.
+
+
+
+* **Ống Dẫn Chuyển Đổi Định Dạng**  
+
+  &nbsp; Cho phép các tệp PDF được bảo vệ được chuyển đổi thành các định dạng có thể chỉnh sửa hoặc tìm kiếm.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Luồng Làm Việc OCR Tự Động**  
+
+  &nbsp; Các tệp PDF được mở khóa trước quá trình nhận dạng văn bản và làm giàu.
+
+
+
+* **Tạo Chỉ Mục Tìm Kiếm**  
+
+  &nbsp; Nội dung được bảo vệ được mở khóa và lập chỉ mục theo chương trình.
+
+
+
+* **Xử Lý Tuân Thủ Theo Lô**  
+
+  &nbsp; Các tập hợp lớn tệp PDF được mở khóa trong quá trình xử lý tuân thủ theo lịch trình.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

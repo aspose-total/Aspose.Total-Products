@@ -76,7 +76,75 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API搜索**PPTX**文件可靠地访问包含结构化幻灯片布局、文本块和演讲者备注的现代演示文稿。PPTX文件广泛用于报告、培训和决策内容。
+
+
+
+自动化PPTX搜索支持可扩展的幻灯片分析、智能检索，并与知识和内容管理系统无缝集成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **结构化幻灯片搜索**  
+
+  搜索PPTX文件中的标题、项目符号和备注。
+
+
+
+* **演示内容分析**  
+
+  以程序方式识别关键主题和部分。
+
+
+
+* **可重复使用幻灯片发现**  
+
+  定位适合在报告或幻灯片中重复使用的幻灯片。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **持续PPTX索引更新**  
+
+  Python服务监视并索引新的PPTX文件。
+
+
+
+* **自动化幻灯片分类**  
+
+  根据提取的内容对幻灯片进行分类。
+
+
+
+* **PPTX内容管道**  
+
+  搜索结果供应仪表板和自动化工作流。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

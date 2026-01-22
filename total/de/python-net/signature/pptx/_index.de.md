@@ -73,7 +73,75 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Das Signieren von PPTX-Dateien ermöglicht es Präsentationen, explizite Genehmigungs- und Freigabemetadaten zu tragen, um unbefugte oder vorzeitige Verteilung zu verhindern.
+
+
+
+Die auf Python basierende Automatisierung gewährleistet, dass die Signierung von Präsentationen konsistent über Teams und Versionen hinweg erfolgt.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Genehmigung des Executive-Decks**  
+
+&nbsp; Signieren Sie PPTX-Decks vor der Verteilung an die Führungsebene.
+
+
+
+* **Abschluss der Verkaufspräsentation**  
+
+&nbsp; Setzen Sie Genehmigungsindikatoren in kundenorientierten Decks ein.
+
+
+
+* **Zertifizierung von Schulungsmaterial**  
+
+&nbsp; Kennzeichnen Sie genehmigte Schulungspräsentationen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Signierung bei Genehmigung durch Stakeholder ausgelöst**  
+
+&nbsp; PPTX-Dateien werden signiert, wenn Genehmigungen erfasst werden.
+
+
+
+* **Durchsetzung der versionskontrollierten Freigabe**  
+
+&nbsp; Extern werden nur signierte Decks geteilt.
+
+
+
+* **Automatisiertes Veröffentlichen von Präsentationen**  
+
+&nbsp; Die Signierung ist in die Veröffentlichungsworkflows integriert.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

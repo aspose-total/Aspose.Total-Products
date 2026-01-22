@@ -90,7 +90,73 @@ För mer information, se [Produktdokumentation](https://docs.aspose.com/words/py
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCM-dokumentvisning med Python API:er möjliggör säker inspektion av makroaktiverade dokument utan att köra inbäddad logik.
+
+Detta är avgörande för kontrollerade miljöer där synlighet krävs utan säkerhetsrisk.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* **Granskning av makro-känsliga dokument**  
+
+&nbsp; Visa innehåll med inaktiva makron.
+
+
+
+* **Säkerhetsinriktad inspektion**  
+
+&nbsp; Granska dokument för struktur och text utan att köra dem.
+
+
+
+* **Kontrollerad dokumentåtkomst**  
+
+&nbsp; Möjliggör säker visning i begränsade eller automatiserade system.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* **Säkra mottagningspipeliner**  
+
+&nbsp; Python-automatisering visar DOCM-innehåll utan att trigga makron.
+
+
+
+* **Efterlevnadsgranskning genom automatisering**  
+
+&nbsp; Dokument granskas som en del av automatiserade policykontroller.
+
+
+
+* **Förhandsgranskningsarbetsflöden**  
+
+&nbsp; Automatiska förhandsgranskningar stödjer godkännanden med mänsklig inblandning.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

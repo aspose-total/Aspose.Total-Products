@@ -72,7 +72,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+קבצי ODP משמשים למצגות בתקן פתוח שמכילות מספר שקופיות ורכיבים חזותיים. פיצול קבצי ODP מאפשר גישה ושימוש ברמת השקופית.
+
+
+
+אוטומציה בפייתון תומכת בפיצול יעיל של קבצי ODP לעיבוד מצגות ושימוש חוזר בתוכן.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **שימוש ברמת השקופית**  
+
+&nbsp; ניתן לחלץ שקופיות יחידות ולשקף אותן מחדש במצגות שונות.
+
+
+
+* **ניתוח תוכן המצגת**  
+
+&nbsp; ניתוח שקופיות באופן עצמאי למבנה או למטא-נתונים.
+
+
+
+* **עריכה שיתופית**  
+
+&nbsp; צוותים עובדים על סטים של שקופיות מבודדות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **חילוץ שקופיות באופן אוטומטי**  
+
+&nbsp; סקריפטים בפייתון פועלים לפיצול שקופיות באופן תכנותי.
+
+
+
+* **אספקת מצגת דינמית**  
+
+&nbsp; שקופיות משולבות מחדש בהתאם לכללים בזמן ריצה.
+
+
+
+* **מערכות ארכיון למצגות**  
+
+&nbsp; שקופיות מאוחסנות באופן נפרד לצורך אחזור.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+الملفات بتنسيق PDF غالبًا ما تكون مقفلة لحماية المعلومات الحساسة، ولكن الفتح المراقب ضروري للتأمين، والتحليل، وإعادة الاستخدام القانوني. يضمن الوصول البرمجي أن يمكن للملفات المحمية بتنسيق PDF المشاركة في سير العمل الرقمي الحديث.
+
+
+
+تسمح واجهات برمجة التطبيقات باستخدام Python بالتعامل بأمان وبمقياس كبير مع فتح ملفات PDF، متكاملة مع أنظمة استخراج البيانات والفهرسة والتحويل.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **استخراج النصوص والبيانات**  
+
+  يمكن الوصول إلى المحتوى المحمي لأغراض التحليل والتقارير.
+
+
+
+* **تأمين فترات مراجعة الوثائق**  
+
+  يدعم التفتيش الآلي للملفات المقفلة أثناء دورات المراجعة.
+
+
+
+* **أنابيب تحويل التنسيق**  
+
+  يسمح بتحويل ملفات PDF المؤمنة إلى تنسيقات قابلة للتحرير أو البحث.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأمين" %}}
+
+
+
+* **سير العمل الآلي للتعرف الضوئي على النصوص**  
+
+  يتم فتح ملفات PDF قبل عمليات التعرف على النصوص وإثرائها.
+
+
+
+* **إنشاء فهرس البحث**  
+
+  يتم فتح المحتوى المحمي وفهرسته بشكل برمجي.
+
+
+
+* **معالجة الامتثال الجماعي**  
+
+  يتم فتح مجموعات كبيرة من ملفات PDF أثناء عمليات الامتثال المجدولة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

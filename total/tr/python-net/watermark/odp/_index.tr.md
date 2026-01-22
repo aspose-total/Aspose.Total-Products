@@ -79,7 +79,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri kullanarak **ODP** sunum dosyalarına filigran eklemek, slayt dosyalarının dağıtımını kontrol etmeye yardımcı olur ve sahiplik, gizlilik veya inceleme durumunu slaytların üzerine doğrudan işaretleyerek belirler.
+
+
+
+Otomasyon, ODP dosyalarına toplu olarak damga vurmayı kolaylaştırır, iç eğitimler, teklifler ve ortak sunumlar için tutarlı yönetimi destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Gizli Slayt Dosyası Etiketleme**  
+
+&nbsp; Yanlış paylaşımı azaltmak için tüm slaytlara görünür gizlilik işaretleri uygulayın.
+
+
+
+* **Müşteri Sunumları İçin Teklif Sahipliği**  
+
+&nbsp; Sunum içeriğinin izin verilen kullanımını açıklamak için sahiplik bildirimleri damgalayın.
+
+
+
+* **Eğitim Materyali Atıfı**  
+
+&nbsp; Takımlar arasında paylaşıldığında kaynak kimliğini korumak için eğitim slaytlarına filigran ekleyin.
+
+
+
+* **İnceleme Aşaması Göstergeleri**  
+
+&nbsp; Erken dağıtımı önlemek için "TASLAK" veya "İNCELEME İÇİN" örtüklerini ekleyin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Slayt Geniş Filigran Enjeksiyonu**  
+
+&nbsp; Tüm slaytlara aynı filigranı programlı olarak uygulayarak tutarlı görünürlük sağlayın.
+
+
+
+* **Onay Akışı Entegrasyonu**  
+
+&nbsp; Taslak filigranlarını otomatik olarak kaldırın ve onaylardan sonra nihai işaretleri uygulayın.
+
+
+
+* **Şablon Tabanlı Konumlandırma Kuralları**  
+
+&nbsp; Ana içeriği kapatmamak için slayt düzen türlerine göre filigranları yerleştirin.
+
+
+
+* **Depo Temizliği İçin Toplu İşleme**  
+
+&nbsp; Arşivleme veya standartlaştırma sürecinde eski ODP dosyalarına filigran ekleyin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

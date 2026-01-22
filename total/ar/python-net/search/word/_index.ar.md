@@ -76,7 +76,75 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+البحث عن مستندات **WORD** برمجيًا باستخدام واجهات برمجة التطبيقات في Python يمكن من الوصول الموحد إلى المحتوى النصي بغض النظر عن الإصدارات الأساسية للملف. تظل مستندات Word مركزية للوثائق، والتقارير، وسير العمل التشغيلية عبر الصناعات.
+
+
+
+من خلال أتمتة البحث في مستندات Word، يمكن للمؤسسات توسيع ذكاء المحتوى، وتقليل الجهد اليدوي، ودمج رؤى المستند في الأنظمة الحديثة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **البحث الموحد في مستندات Word**  
+
+&nbsp; يمكن البحث المتسق عبر ملفات مستندات Word متعددة.
+
+
+
+* **استخراج المعرفة النصية**  
+
+&nbsp; يحول محتوى المستند إلى معلومات قابلة للبحث.
+
+
+
+* **اكتشاف الوثائق الشركية**  
+
+&nbsp; يحسن الرؤية عبر مستودعات كبيرة لمستندات Word.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتيم" %}}
+
+
+
+* **صيانة فهرس Word المؤتمتة**  
+
+&nbsp; تحافظ عمليات Python على تحديث فهارس البحث في Word بشكل مستمر.
+
+
+
+* **أتمتة التحقق من محتوى Word**  
+
+&nbsp; تضمن الفحوصات البرمجية اكتمال ودقة المحتوى.
+
+
+
+* **تكامل Word مع سير العمل**  
+
+&nbsp; تدفع نتائج البحث عمليات القرار والمعالجة المؤتمتة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

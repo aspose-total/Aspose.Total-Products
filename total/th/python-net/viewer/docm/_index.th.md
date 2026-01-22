@@ -90,7 +90,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การดูเอกสาร DOCM ด้วย Python APIs ช่วยให้สามารถตรวจสอบเอกสารที่มีแมโครโดยปลอดภัยโดยไม่ต้อง execute ตัวตรวจสอบที่ซ่อนอยู่
+
+สิ่งนี้เป็นสิ่งสำคัญสำหรับสภาพแวดล้อมที่มีการควบคุมที่ต้องการมองเห็นโดยไม่เสี่ยงต่อความปลอดภัย
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **การทบทวนเอกสารที่ตระกูลแมโคร**  
+
+&nbsp; ดูเนื้อหาโดยทำให้แมโครเป็นสถานะ non-active
+
+
+
+* **การตรวจสอบที่เน้นความปลอดภัย**  
+
+&nbsp; ตรวจสอบเอกสารเพื่อโครงสร้างและข้อความโดยไม่ต้อง execute
+
+
+
+* **การเข้าถึงเอกสารที่มีการควบคุม**  
+
+&nbsp; ทำให้เป็นไปได้ที่จะมองเห็นได้ในระบบที่ถูกจำกัดหรือระบบอัตโนมัติ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **ท่อรับเข้าที่ปลอดภัย**  
+
+&nbsp; การอัตโนมัติด้วย Python แสดงเนื้อหา DOCM โดยไม่เรียกใช้แมโคร
+
+
+
+* **การทบทวนความปลอดภัยตามข้อกำหนด**  
+
+&nbsp; เอกสารถูกดูเป็นส่วนหนึ่งของการตรวจสอบนโยบายอัตโนมัติ
+
+
+
+* **กระบวนการอนุมัติล่วงหน้า**  
+
+&nbsp; การดูตัวอย่างโดยอัตโนมัติสนับสนุนการอนุมัติโดยมนุษย์ในกระบวนการ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

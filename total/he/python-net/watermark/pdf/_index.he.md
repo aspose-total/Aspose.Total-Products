@@ -71,7 +71,85 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+הטבעת מסמכי **PDF** באמצעות Python APIs היא דרך נפוצה להגן על קבצים שנסגרו לצמיתות, ניתנים לשיתוף ולהוספת סימני בעלות גלויים, תוויות שמירה וסימני הוכחה מבלי להסתמך על גישה לעריכה.
+
+הטבעת אוטומטית של PDF תומכת בזרימות עבודה נמרצות כגון חותמת כמותית, מיצוב על פי מדיניות ותיוג תקינות עקבי בארכיוני מסמכים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **הגנה על דוחות סודיים**  
+
+&nbsp; הוספת סימני סודיות גלויים כדי למנוע הפצה בלתי מורשית.
+
+
+
+* **עותקי הוכחה לסקירה ולאישור**  
+
+&nbsp; חותמת "הוכחה" על PDFs שמשותפים למטרת משוב כדי להפחית בבלבול עם גרסאות סופיות.
+
+
+
+* **תוויות בעלות על חשבוניות והצהרות**  
+
+&nbsp; הוספת סימני זהות של ארגון לקבצי PDF פיננסיים המשמשים במחלקות שונות.
+
+
+
+* **שיתוף מבוקר של מסמכים משפטיים**  
+
+&nbsp; הטבעת קבצים רגישים והסכמים כדי לחזק ציפיות בטיפול.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **הטבעת כמותית למילוי ארכיונים**  
+
+&nbsp; חותמת אוטומטית על PDFs היסטוריים במהלך המעבר לארכיון חדש.
+
+
+
+* **כללי מיקום סימן מים על פי עמוד**  
+
+&nbsp; כיוון מיקום הסימן מים לפי גודל עמוד וכיוון באופן תכנותי.
+
+
+
+* **חותמות סופיות בהפעלת זרימת עבודה**  
+
+&nbsp; הוספת חותמות "סופי" כאשר האישורים הושלמו במערכת אוטומטית.
+
+
+
+* **תוכן סימן מים דינמי עם חותמות זמן**  
+
+&nbsp; יצירת סימני מים המכילים תאריך, מזהה בקשה או מטא-נתונים של נמען למעקב.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

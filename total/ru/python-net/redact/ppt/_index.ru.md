@@ -77,7 +77,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Составление документов с использованием Python API для файлов PPT обеспечивает безопасную обработку устаревших форматов презентаций, которые по-прежнему распространены в старых системах. Это гарантирует защиту конфиденциальной информации независимо от возраста файла.
+
+
+
+Автоматизированное удаление информации позволяет безопасно повторно использовать, архивировать или делиться файлами PPT без ручного вмешательства.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Очистка устаревших презентаций**  
+
+&nbsp; Удаление устаревших или конфиденциальных данных из старых файлов PPT.
+
+
+
+* **Модернизация архивов**  
+
+&nbsp; Очистка исторических презентаций для безопасного повторного использования.
+
+
+
+* **Контролируемое распространение информации**  
+
+&nbsp; Подготовка отредактированных файлов PPT для ограниченной аудитории.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизация обработки устаревших форматов**  
+
+&nbsp; Автоматическая обработка файлов PPT наряду с новыми форматами.
+
+
+
+* **Удаление на основе шаблонов**  
+
+&nbsp; Обнаружение и удаление конфиденциальных терминов с помощью заранее определенных правил.
+
+
+
+* **Автоматизированная обработка архивов**  
+
+&nbsp; Программная очистка целых архивов презентаций.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

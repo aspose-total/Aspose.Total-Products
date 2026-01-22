@@ -85,7 +85,75 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Das Zusammenführen von TIFF-Bildern mithilfe von Python-APIs unterstützt Workflows mit hochauflösenden, mehrseitigen Bildern, die häufig in Druck-, medizinischen Bildgebungs- und Dokumentenscan-Anwendungen verwendet werden.
+
+
+
+Die Automatisierung ermöglicht eine zuverlässige Handhabung großer, detailreicher Bildersätze.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Mehrseitige Scan-Zusammenstellung (TIFF)**  
+
+&nbsp; Fügen Sie TIFF-Seiten zu einer einzigen mehrseitigen Datei zusammen.
+
+
+
+* **Hochauflösende Bildverarbeitung (TIFF)**  
+
+&nbsp; Kombinieren Sie TIFF-Bilder für detaillierte Analysen.
+
+
+
+* **Druckfertige Bildkompilation (TIFF)**  
+
+&nbsp; Aggregieren Sie TIFF-Dateien für Veröffentlichungs-Workflows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Automatisierte Scan-Pipelines (TIFF)**  
+
+&nbsp; Systeme fusionieren TIFF-Dateien während des Scan-Einspeisungsprozesses.
+
+
+
+* **Batch-Hochauflösungsverarbeitung (TIFF)**  
+
+&nbsp; Die Zusammenführung von TIFF-Dateien erfolgt in geplanten Jobs.
+
+
+
+* **Unternehmensweite Bildautomatisierung (TIFF)**  
+
+&nbsp; Automatisierte Workflows verwalten große TIFF-Datensätze.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

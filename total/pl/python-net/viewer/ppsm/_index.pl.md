@@ -89,7 +89,73 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Przeglądanie plików PPSM za pomocą interfejsów API Pythona umożliwia bezpieczną inspekcję prezentacji ze slajdami obsługującymi makra, przeznaczonych do automatycznego odtwarzania.
+
+To wspiera kontrolowane przepływy pracy automatyzacji, gdzie wymagana jest widoczność bez wykonywania osadzonych makr.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe Zastosowania" %}}
+
+
+
+* **Recenzja Prezentacji ze Slajdami Obsługującymi Makra**  
+
+&nbsp; Przeglądaj zawartość prezentacji ze slajdami, zachowując nieaktywne makra.
+
+
+
+* **Inspekcja Przepływu Odtwarzania**  
+
+&nbsp; Sprawdź kolejność slajdów i strukturę prezentacji przeznaczoną do automatycznego wyświetlania.
+
+
+
+* **Walidacja Bezpiecznego Rozpowszechniania**  
+
+&nbsp; Przejrzyj pliki PPSM przed kontrolowanym udostępnieniem lub wdrożeniem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Bezpieczne Kanały Przyjmowania Prezentacji ze Slajdami**  
+
+&nbsp; Przepływy pracy w Pythonie bezpiecznie renderują pliki PPSM podczas przyjmowania.
+
+
+
+* **Automatyzacja Recenzji Zorientowanej na Zgodność**  
+
+&nbsp; Prezentacje są przeglądane jako część zautomatyzowanych kontroli zgodności.
+
+
+
+* **Przepływy Przedprezentacji do Zatwierdzenia**  
+
+&nbsp; Zautomatyzowane podglądy wspierają zatwierdzenia przez ludzi lub systemy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

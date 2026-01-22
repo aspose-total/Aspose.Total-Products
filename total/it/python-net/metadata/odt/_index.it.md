@@ -98,7 +98,93 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'estrazione dei metadati del documento per i file **ODT** tramite API Python fornisce accesso programmato alle proprietà del documento di testo, consentendo l'auditing, la classificazione e l'arricchimento della ricerca senza dover fare affidamento sull'ispezione manuale. Questo è importante per la governance dei documenti, la gestione della conoscenza e il tracciamento del ciclo di vita.
+
+
+
+Nei sistemi di automazione, i metadati ODT possono essere utilizzati per far rispettare gli standard, instradare le approvazioni e sincronizzare i cataloghi, supportando l'elaborazione scalabile attraverso grandi repository con regole coerenti.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Organizzazione della base di conoscenza**
+
+  Utilizzare i metadati ODT per categorizzare e indicizzare i documenti interni per un recupero più rapido.
+
+
+
+* **Controlli di proprietà e responsabilità**
+
+  Estrarre i campi autore e editore per assegnare revisori e mantenere la responsabilità.
+
+
+
+* **Decisioni di conservazione e archiviazione**
+
+  Utilizzare i timestamp per determinare se i file ODT dovrebbero essere archiviati, conservati o aggiornati.
+
+
+
+* **Normalizzazione dei metadati per l'analisi**
+
+  Convertire le proprietà ODT in campi coerenti per la segnalazione e l'analisi delle tendenze.
+
+
+
+* **Convalida pre-pubblicazione**
+
+  Convalidare i campi descrittivi richiesti prima di convertire i documenti ODT in formati pubblicati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Classificazione dell'ingresso basata su regole**
+
+  Classificare automaticamente i documenti ODT nei flussi di lavoro utilizzando la presenza dei metadati, la proprietà e i timestamp.
+
+
+
+* **Flusso di lavoro di sincronizzazione del catalogo**
+
+  Estrarre i metadati ODT ogni notte e sincronizzarli con un registro centralizzato utilizzato dai sistemi di ricerca interni.
+
+
+
+* **Revisioni automatiche della documentazione**
+
+  Attivare compiti di revisione per i file ODT quando i metadati indicano che non sono stati aggiornati entro i limiti temporali previsti dalla policy.
+
+
+
+* **Mappatura dei metadati alla politica di accesso**
+
+  Applicare regole di accesso dinamicamente quando i metadati ODT indicano categorie di contenuti restritti.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

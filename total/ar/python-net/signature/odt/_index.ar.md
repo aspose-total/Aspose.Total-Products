@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+توقيع مستندات ODT باستخدام واجهات برمجة التطبيقات في Python يمكن أن يسمح للمستندات النصية بتنسيق مفتوح بحمل علامات موافقة موثقة وبيانات الموقع الخاص بالموقع. يدعم هذا دورات حياة الوثائق المراقبة دون الاعتماد على تنسيقات خاصة.
+
+
+
+في خطوط الأنابيب الآلية، يضمن توقيع ODT تطبيق الموافقات بشكل متسق في نقطة إغلاق المراجعة، مما يعزز قابلية التدقيق ويقلل من التعامل اليدوي مع المستندات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **موافقة سياسة التنسيق المفتوح**  
+
+&nbsp; قم بتوقيع مستندات سياسة ODT لتأكيد المراجعة النهائية والتفويض.
+
+
+
+* **إغلاق سير العمل التحريري**  
+
+&nbsp; قم بتطبيق التواقيع على مسودات ODT عند اكتمال مراجعة المحتوى.
+
+
+
+* **حوكمة قاعدة المعرفة الداخلية**  
+
+&nbsp; قم بتوقيع مستندات ODT قبل نشرها في مستودعات المشاركة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **مشغل إكمال المراجع**  
+
+&nbsp; قم بتوقيع ملفات ODT تلقائيًا عند اكتمال جميع المراجعين المعينين للموافقات.
+
+
+
+* **بوابة نشر المستودع**  
+
+&nbsp; قم بتوقيع مستندات ODT قبل دفعها إلى نشر قاعدة المعرفة.
+
+
+
+* **حقن سجل التدقيق التلقائي**  
+
+&nbsp; قم بإرفاق هوية الموقع وبيانات الطابع الزمني أثناء تشغيل عمليات توقيع ODT.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

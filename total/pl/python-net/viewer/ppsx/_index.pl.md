@@ -89,7 +89,73 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Przeglądanie plików PPSX za pomocą interfejsów API w języku Python umożliwia inspekcję nowoczesnych prezentacji slajdów zoptymalizowanych do natychmiastowego odtwarzania.
+
+To umożliwia skalowalną automatyzację podglądu i walidacji treści gotowych do prezentacji.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Natychmiastowa recenzja prezentacji slajdów**  
+
+&nbsp; Przeglądaj prezentacje zaprojektowane do otwierania się bezpośrednio w trybie pokazu slajdów.
+
+
+
+* **Weryfikacja treści slajdów**  
+
+&nbsp; Sprawdź teksty i wizualizacje przed dystrybucją.
+
+
+
+* **Sprawdzanie gotowości prezentacji**  
+
+&nbsp; Sprawdź pliki prezentacji pod kątem poprawności i kompletności.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Automatyczna walidacja prezentacji slajdów**  
+
+&nbsp; Potoki Pythona renderują pliki PPSX podczas kontroli jakości.
+
+
+
+* **Dynamiczne usługi podglądu**  
+
+&nbsp; Prezentacje są wyświetlane automatycznie dla recenzentów lub interesariuszy.
+
+
+
+* **Partie przepływów pracy dystrybucji prezentacji**  
+
+&nbsp; Pliki PPSX są przeglądane programowo przed dostawą na dużą skalę.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

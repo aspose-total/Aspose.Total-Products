@@ -74,7 +74,75 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Redagowanie dokumentów za pomocą interfejsów API w języku Python dla plików ODT umożliwia bezpieczną modyfikację plików tekstowych dokumentów otwartych bez zmiany ich podstawowej struktury. Wsparcie to umożliwia transparentne i oparte na standardach przetwarzanie dokumentów.
+
+
+
+Automatyzując redagowanie plików ODT, organizacje mogą efektywnie zarządzać wrażliwymi treściami w ramach ekosystemów dokumentów open-source i interoperacyjnych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Bezpieczna wymiana dokumentów**  
+
+&nbsp; Redaguj dane osobowe przed udostępnieniem plików ODT na zewnątrz.
+
+
+
+* **Usuwanie treści zgodnie z polityką**  
+
+&nbsp; Wprowadzaj zasady redakcji zgodne z politykami organizacyjnymi.
+
+
+
+* **Publikowanie dokumentów otwartych**  
+
+&nbsp; Przygotuj zdezynfekowane dokumenty do publicznego lub wieloplatformowego użytku.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Redagowanie metadanych i tekstu**  
+
+&nbsp; Automatyczne usuwanie wrażliwych treści zarówno z treści głównej, jak i metadanych.
+
+
+
+* **Przetwarzanie masowe w formacie otwartym**  
+
+&nbsp; Redaguj duże ilości plików ODT w jednym automatycznym procesie.
+
+
+
+* **Integracja z potokami CMS**  
+
+&nbsp; Zastosuj redakcję przed opublikowaniem lub udostępnieniem dokumentów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

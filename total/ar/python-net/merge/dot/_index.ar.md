@@ -78,7 +78,69 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+دمج تنسيقات قوالب Word باستخدام واجهات برمجة التطبيقات في Python يمكن أن يضمن إنشاء مستندات متسقة عبر الفرق والأنظمة. يضمن الدمج القائم على القوالب تخطيطات موحدة مع السماح بتكوين محتوى مرن.
+
+
+
+هذا النهج مثالي لمصانع الوثائق الآلية حيث يجب أن تظل الهيكلية والعلامة التجارية متسقة عبر النواتج.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تجميع المستندات بناءً على القوالب (DOT)**  
+   دمج المستندات القائمة على DOT لفرض التنسيق المتسق.
+
+
+
+* **إنشاء النواتج الموحدة (DOT)**  
+   دمج الملفات المدفوعة بالقوالب في مستندات موحدة.
+
+
+
+* **إدارة التخطيط القابل لإعادة الاستخدام (DOT)**  
+   تجميع مستندات DOT للحفاظ على توحيد التخطيط.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **تطبيق القوالب تلقائيًا (DOT)**  
+   يتم دمج ملفات DOT تلقائيًا أثناء إنشاء المستند.
+
+
+
+* **معالجة القوالب بالدُفعات (DOT)**  
+   يتم دمج حجوم كبيرة من مستندات DOT في وظائف مجدولة.
+
+
+
+* **التحكم في تخطيط النظام بشكل قسري (DOT)**  
+   تدمج الأنظمة الآلية ملفات DOT لضمان توحيد التنسيق.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

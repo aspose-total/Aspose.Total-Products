@@ -71,7 +71,75 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Das Signieren generischer Bildinputs mit Python-APIs bietet einen einheitlichen Ansatz zur Anwendung von Genehmigungszeichen und Validierungsmetadaten über verschiedene Bildquellen hinweg. Dies ist nützlich, wenn Pipelines Bilder aus verschiedenen Tools aufnehmen und eine konsistente Governance benötigen.
+
+
+
+Bei automatisiertem Bildsignieren wird ein standardisierter Zustand "genehmigtes Artefakt" durchgesetzt, um sicherzustellen, dass nachgelagerte Systeme nur Assets verarbeiten, die Qualitäts-, Richtlinien- oder Compliance-Anforderungen erfüllen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Standardisierung von Assets aus verschiedenen Quellen**  
+
+&nbsp; Wenden Sie eine konsistente Signaturüberlagerung auf Bilder an, die aus verschiedenen Tools und Teams stammen.
+
+
+
+* **Validierung von Beweisbildern**  
+
+&nbsp; Signieren Sie Bilder, die als Beweis verwendet werden, um die Identität des Gutachters und den Genehmigungsstatus zu bestätigen.
+
+
+
+* **Kontrolle der Verteilung genehmigter Assets**  
+
+&nbsp; Markieren Sie Bilder als genehmigt, bevor sie in Verteilungspakete aufgenommen werden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Genehmigungsmarkierung zur Eingabezeit**  
+
+&nbsp; Signieren Sie Bilder während der Aufnahme, nachdem Validierungsregeln und Metadatenprüfungen abgeschlossen sind.
+
+
+
+* **Durchsetzung von Richtlinienkontrollpunkten**  
+
+&nbsp; Signieren Sie automatisch nur die Bilder, die automatisierte Richtlinien- und Sicherheitsregeln bestehen.
+
+
+
+* **Abschluss der Repository-Synchronisierung**  
+
+&nbsp; Signieren Sie Bilder, bevor sie mit gemeinsam genutzten Repositories synchronisiert werden, um sicherzustellen, dass nur überprüfte Versionen verbreitet werden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

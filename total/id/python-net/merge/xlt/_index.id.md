@@ -78,7 +78,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Menggabungkan format template Excel menggunakan API Python memastikan struktur dan tata letak yang konsisten di seluruh spreadsheet yang dihasilkan. Penggabungan berbasis template penting untuk pelaporan standar dan alur kerja pengisian data.
+
+
+
+Automasi memungkinkan generasi spreadsheet yang seragam tanpa pemformatan manual.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Perakitan Spreadsheet Berbasis Template (XLT)**  
+
+&nbsp; Menggabungkan file berbasis XLT untuk menegakkan tata letak yang konsisten.
+
+
+
+* **Pengumpulan Data Terstandar (XLT)**  
+
+&nbsp; Menggabungkan spreadsheet yang didorong oleh template ke dalam satu file.
+
+
+
+* **Struktur Spreadsheet yang Dapat Digunakan Kembali (XLT)**  
+
+&nbsp; Menggabungkan dokumen XLT untuk mempertahankan desain yang seragam.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Aplikasi Template Otomatis (XLT)**  
+
+&nbsp; File XLT digabungkan secara otomatis selama generasi.
+
+
+
+* **Pemrosesan Template Batch (XLT)**  
+
+&nbsp; Pekerjaan terjadwal menggabungkan beberapa spreadsheet berbasis XLT.
+
+
+
+* **Otomatisasi yang Dikontrol Tata Letak (XLT)**  
+
+&nbsp; Sistem menggabungkan file XLT untuk menjamin konsistensi format.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

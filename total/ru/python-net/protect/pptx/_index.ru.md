@@ -71,7 +71,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTX - это стандартный современный формат презентации для PowerPoint. Защита файлов PPTX необходима для обеспечения точности и невозможности изменения содержимого презентации в совместной среде.
+
+
+
+С помощью API Python защита PPTX может быть легко интегрирована в автоматизированные рабочие процессы создания и распространения презентаций.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Конфиденциальное распространение презентаций**  
+
+  Secure PPTX files before external distribution.
+
+
+
+* **Соблюдение утвержденного содержания**  
+
+  Lock presentations after final approval.
+
+
+
+* **Управление предприятием с помощью презентаций**  
+
+  Apply uniform protection across all PPTX assets.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматическая защита при экспорте**  
+
+  Secure PPTX files immediately after generation.
+
+
+
+* **Безопасность, запускаемая рабочим процессом**  
+
+  Apply protection based on approval or publishing events.
+
+
+
+* **Масштабируемое управление презентациями**  
+
+  Protect thousands of PPTX files through automated scripts.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -100,7 +100,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Parsování **PPTX prezentací** pomocí Python API umožňuje strukturovaný přístup k textu snímků, nadpisům, odrážkám, rozložení a poznámkám přednášejícího z moderních souborů prezentací. Parsování PPTX umožňuje přístup k znalostem založeným na snímcích mimo ruční prohlížení.
+
+
+
+V systémech řízených automatizací podpora parsování PPTX umožňuje opakované využití obsahu, shrnutí, analytiku a integraci s řídicími a hlášovacími potrubími znalostí.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Extrakce obsahu snímků**  
+
+&nbsp; Získává strukturovaný text a prvky rozložení z prezentních snímků.
+
+
+
+* **Těžba znalostí z prezentace**  
+
+&nbsp; Převádí prezentace na vyhledatelné a analyzovatelné zdroje obsahu.
+
+
+
+* **Workflow repurposing obsahu**  
+
+&nbsp; Umožňuje opakované využití prezentovaného materiálu napříč dokumentací a platformami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizované zpracování prezentace**  
+
+&nbsp; Automaticky zpracovává soubory PPTX po nahrání nebo plánovaně.
+
+
+
+* **Potrubí shrnutí na úrovni snímku**  
+
+&nbsp; Generuje stručné shrnutí z analyzovaného obsahu snímků.
+
+
+
+* **Automatizace porovnání verzí**  
+
+&nbsp; Programaticky detekuje změny napříč více verzemi prezentace.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

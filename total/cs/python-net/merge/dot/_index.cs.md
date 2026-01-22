@@ -78,7 +78,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Slučování formátů šablon Wordu pomocí Python API umožňuje konzistentní vytváření dokumentů napříč týmy a systémy. Slučování založené na šablonách zajišťuje standardizované rozložení a zároveň umožňuje flexibilní kompozici obsahu.
+
+
+
+Tento přístup je ideální pro automatizované továrny na dokumenty, kde musí zůstat konzistentní struktura a branding napříč výstupy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Sestavování dokumentů založených na šabloně (DOT)**  
+
+&nbsp; Slučujte dokumenty založené na DOT pro vynucení konzistentního formátování.
+
+
+
+* **Vytváření standardizovaných výstupů (DOT)**  
+
+&nbsp; Kombinujte soubory řízené šablonou do sjednocených dokumentů.
+
+
+
+* **Správa opakovaně použitelného rozložení (DOT)**  
+
+&nbsp; Sdružujte dokumenty DOT pro udržení jednotného rozložení.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatické použití šablony (DOT)**  
+
+&nbsp; Soubory DOT jsou automaticky slučovány během generování dokumentu.
+
+
+
+* **Zpracování šablon ve várkách (DOT)**  
+
+&nbsp; Velké objemy dokumentů DOT jsou slučovány ve plánovaných úlohách.
+
+
+
+* **Kontrola rozložení zajištěná systémem (DOT)**  
+
+&nbsp; Automatizované systémy slučují soubory DOT pro zaručení konzistence formátu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

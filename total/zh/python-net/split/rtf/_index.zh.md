@@ -79,7 +79,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+RTF文件提供了一个便携、以文本为重点的文档格式，带有嵌入的格式。拆分RTF文件可以控制提取格式化内容。
+
+
+
+Python自动化使得在大规模系统中高效处理RTF文档成为可能。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **提取格式化文本**  
+
+&nbsp; 在保留格式的同时提取部分内容。
+
+
+
+* **可互操作的内容处理**  
+
+&nbsp; 在不同平台间使用提取的内容。
+
+
+
+* **文档简化**  
+
+&nbsp; 将复杂文件分解为可管理的单元。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **基于模式的部分拆分**  
+
+&nbsp; Python识别控制词以拆分内容。
+
+
+
+* **自动化内容转换**  
+
+&nbsp; 提取的部分经过程序转换。
+
+
+
+* **跨系统内容管道**  
+
+&nbsp; 部分内容无缝流入不同系统。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

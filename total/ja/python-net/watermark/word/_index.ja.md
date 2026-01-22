@@ -79,7 +79,85 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG WORD TIFF GIF 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用して**Word**ドキュメントに透かしを入れることは、所有権、機密性、および配布ルールのための目に見えるラベルを埋め込むことによって、ビジネステキストファイルを保護するのに役立ちます。これらのドキュメントはしばしば共有され、編集されます。
+
+自動化により、チーム全体とドキュメントライブラリ全体で一貫したWord透かしを実現し、手作業を減らしながらガバナンスとワークフローの明確さを強化します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+
+
+* **機密ポリシードキュメント**  
+
+&nbsp; 内部ガイドラインの誤送信を減らすために機密マークを追加します。
+
+
+
+* **共同文書の下書きガバナンス**  
+
+&nbsp; 古いバージョンが最終版として扱われるのを防ぐために「下書き」ラベルを押します。
+
+
+
+* **顧客納品物の帰属**  
+
+&nbsp; 所有権と許可された再利用を明確にするために共有されたWordファイルに透かしを入れます。
+
+
+
+* **制御されたテンプレート出力ラベリング**  
+
+&nbsp; 自動生成されたWordドキュメントに標準の透かしポリシーが含まれるようにします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **テンプレートからドキュメントへの透かし自動化**  
+
+&nbsp; 構造化データからWordドキュメントを生成した直後に透かしを適用します。
+
+
+
+* **ワークフローステータスに基づく透かしの切り替え**  
+
+&nbsp; ドキュメントが下書きから承認済みに移動するときに透かしテキストを自動的に変更します。
+
+
+
+* **リポジトリのアップロードポリシーの強制**  
+
+&nbsp; 規制されたフォルダやケース管理システムにアップロードされたWordファイルに透かしを入れます。
+
+
+
+* **共有のための受信者固有の透かし**  
+
+&nbsp; ドキュメントが外部で共有される際のトレーサビリティを向上させるために受信者識別子を埋め込みます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

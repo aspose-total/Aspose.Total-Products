@@ -89,7 +89,73 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Python via
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Xem các tệp PPS, PPSM và PPSX bằng Python APIs cho phép kiểm tra các bài thuyết trình được thiết kế để phát trực tiếp.
+
+Điều này hỗ trợ việc xem xét tự động mà không cần phần mềm trình bày.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Xem Xét Nội Dung Bài Thuyết Trình**  
+
+  &nbsp; Xem các bài thuyết trình dành cho việc hiển thị ngay lập tức.
+
+
+
+* **Kiểm Tra Cấu Trúc Phát**  
+
+  &nbsp; Kiểm tra luồng trang và chuyển tiếp.
+
+
+
+* **Xác Thực Phân Phối**  
+
+  &nbsp; Đảm bảo rằng các tệp bài thuyết trình đúng trước khi chia sẻ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Kiểm Tra Bài Thuyết Trình Tự Động**  
+
+  &nbsp; Các quy trình Python tạo ra các tệp bài thuyết trình để xem xét.
+
+
+
+* **Xem Trước Trước Khi Phân Phối**  
+
+  &nbsp; Các bài thuyết trình được hiển thị một cách động.
+
+
+
+* **Đường Ống Đảm Bảo Chất Lượng**  
+
+  &nbsp; Việc xem đảm bảo sẵn sàng cho việc giao hàng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -89,7 +89,73 @@ Para obter mais detalhes, consulte [Documentação do produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Visualizar apresentações PowerPoint PPTX com APIs Python fornece acesso unificado a documentos baseados em slides em vários formatos.
+
+Isso suporta revisões automatizadas e fluxos de trabalho centrados em apresentações.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Revisão Unificada de Slides**  
+
+  Visualize apresentações independentemente da variante.
+
+
+
+* **Validação de Apresentação**  
+
+  Inspecione o conteúdo e layout dos slides.
+
+
+
+* **Integração de Fluxo de Trabalho**  
+
+  Incorpore a visualização em sistemas automatizados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Pipelines de Revisão Automatizada**  
+
+  As apresentações são renderizadas durante a validação.
+
+
+
+* **Serviços de Pré-visualização**  
+
+  Os slides são exibidos dinamicamente para as partes interessadas.
+
+
+
+* **Operações em Lote de Apresentações**  
+
+  Múltiplos decks são visualizados de forma programática.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

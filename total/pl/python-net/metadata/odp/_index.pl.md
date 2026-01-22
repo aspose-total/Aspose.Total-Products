@@ -75,7 +75,93 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Ekstrakcja metadanych dokumentu dla plików **ODP** za pomocą interfejsów API Pythona umożliwia systemom odczytanie atrybutów prezentacji i osadzonych właściwości dla zestawów slajdów - wspierając zarządzanie, odkrywanie i zarządzanie cyklem życia bez konieczności otwierania pliku w interfejsie graficznym. Ma to znaczenie dla zespołów zarządzających dużymi woluminami prezentacji szkoleniowych, sprzedażowych lub operacyjnych.
+
+
+
+W zautomatyzowanych procesach roboczych metadane ODP mogą napędzać indeksowanie, klasyfikację i kontrolowane publikowanie - ułatwiając utrzymanie bibliotek slajdów, wyszukiwanie i integrację z systemami dystrybucji treści.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe Zastosowania" %}}
+
+
+
+* **Indeksowanie Biblioteki Prezentacji**
+
+  Wyodrębnij metadane ODP, aby tworzyć przeszukiwalne katalogi zestawów slajdów według autora, tematu i czasu aktualizacji.
+
+
+
+* **Sprawdzanie Aktualności Treści Szkoleniowych**
+
+  Użyj znaczników czasowych modyfikacji, aby zidentyfikować przestarzałe zestawy slajdów, które wymagają cykli odświeżania.
+
+
+
+* **Klasyfikacja Według Działów**
+
+  Znormalizuj właściwości metadanych do strukturalnych kategorii dla spójnej organizacji i kontroli dostępu.
+
+
+
+* **Raportowanie Zarządzania Zasobami**
+
+  Agreguj metadane ODP, aby mierzyć gotowość do użycia, luki w pokryciu i właścicieli utrzymania.
+
+
+
+* **Przygotowanie do Migracji Masowej**
+
+  Przeprowadź audyt właściwości ODP przed migracją do nowych środowisk przechowywania lub publikowania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Automatyczne Przyjmowanie Zestawów Slajdów**
+
+  Po przesłaniu, wyodrębnij metadane ODP i automatycznie przypisz zestaw do odpowiedniej sekcji repozytorium.
+
+
+
+* **Automatyzacja Alertów o Przestarzałości**
+
+  Wyzwalaj alerty, gdy zestawy ODP przekraczają progi aktualizacji lub brakuje pól odpowiedzialności.
+
+
+
+* **Zasady Publikowania Sterowane Metadanymi**
+
+  Publikuj lub ogranicz zestawy ODP na podstawie flag metadanych wskazujących poufność lub wyłącznie wewnętrzne użycie.
+
+
+
+* **Zadania Audytu i Raportowania Partii**
+
+  Uruchamiaj zaplanowane zadania eksportujące podsumowania metadanych ODP do celów audytów zarządczych i operacyjnych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

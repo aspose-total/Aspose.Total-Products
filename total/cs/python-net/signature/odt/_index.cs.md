@@ -71,7 +71,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Podpisování dokumentů ODT pomocí Python API umožňuje textovým dokumentům ve formátu open carry ověřené schvalovací značky a metadata podepisovače. Tím se podporuje řízení životního cyklu dokumentace bez závislosti na vlastních formátech.
+
+
+
+V automatizovaných potrubích zajišťuje podpis ODT, že schválení jsou aplikována konzistentně v okamžiku uzavření recenze, což zlepšuje auditovatelnost a snižuje manuální manipulaci s dokumenty.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití případy" %}}
+
+
+
+* **Schválení politiky ve formátu open**  
+
+&nbsp; Podepište politické dokumenty ODT k potvrzení konečné recenze a autorizace.
+
+
+
+* **Uzavření redakčního toku práce**  
+
+&nbsp; Přidejte podpisy k návrhům ODT, když je dokončena recenze obsahu.
+
+
+
+* **Správa interní znalostní báze**  
+
+&nbsp; Podepište dokumenty ODT před jejich publikováním do sdílených repozitářů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Spouštěcí prvek dokončení recenzenta**  
+
+&nbsp; Automaticky podepisujte soubory ODT, když všichni přidělení recenzenti dokončí schválení.
+
+
+
+* **Brána publikace repozitáře**  
+
+&nbsp; Podepište dokumenty ODT před jejich odesláním k publikování do znalostní báze.
+
+
+
+* **Automatické vložení auditní stopy**  
+
+&nbsp; Připojte metadata podepisovače a časové razítko během běhů podpisu ODT.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

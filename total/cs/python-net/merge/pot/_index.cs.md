@@ -79,7 +79,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Slučování formátů šablon PowerPoint pomocí Python API zajišťuje konzistentní design, rozvržení a branding přes prezentace. Šablony jsou klíčové pro standardizovanou produkci snímků.
+
+
+
+Automatizace umožňuje rychlé generování jednotných prezentací ve velkém měřítku.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Sestavení prezentace na základě šablony (POT)**  
+
+&nbsp; Slučujte soubory založené na POT pro vynucení konzistentních rozvržení.
+
+
+
+* **Standardizované vytváření prezentací (POT)**  
+
+&nbsp; Kombinujte prezentace řízené šablonou do jedné prezentace.
+
+
+
+* **Správa opakovaně použitelného designu (POT)**  
+
+&nbsp; Seskupte soubory POT pro jednotný styl snímků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizované použití šablony (POT)**  
+
+&nbsp; Soubory POT jsou slučovány během generování prezentace.
+
+
+
+* **Dávkové zpracování šablon (POT)**  
+
+&nbsp; Plánované úlohy slučují sady souborů založených na šabloně.
+
+
+
+* **Automatizace řízená designem (POT)**  
+
+&nbsp; Systémy slučují soubory POT pro zajištění konzistence brandingu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

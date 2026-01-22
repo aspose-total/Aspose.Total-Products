@@ -76,7 +76,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'larını kullanarak **DOC** dosyalarını aramak, modern sistemlerin arşivlerde ve kurumsal ortamlarda hala yaygın olarak kullanılan eski kelime işlem belgelerinden bilgi çıkarmasını ve bulmasını sağlar. Programlı arama, değerli tarihsel ve operasyonel verilerin manuel inceleme olmadan erişilebilir kalmasını sağlar.
+
+
+
+Otomatik iş akışlarına entegre edildiğinde, DOC dosyası araması verimliliği artırır ve toplu işleme, yapılandırılmış dizinleme ve veri boru hatları ve belge yönetim sistemleriyle sorunsuz entegrasyonu sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Eski Belge Arama**  
+
+&nbsp; Eski DOC dosyaları içinde anahtar kelime tabanlı keşif sağlar.
+
+
+
+* **Arşiv İçeriği Kurtarma**  
+
+&nbsp; Uzun süreli depolanan belgelerden ilgili bilgileri çıkarır.
+
+
+
+* **Uyumluluk Kaydı Arama**  
+
+&nbsp; DOC tabanlı kayıtlar içinde maddeleri ve ifadeleri bulur.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik DOC Dizinleme**  
+
+&nbsp; Python işleri DOC dosyalarını tarar ve aranabilir dizinleri otomatik olarak günceller.
+
+
+
+* **Toplu DOC İçerik Çıkarma**  
+
+&nbsp; Manuel çaba olmadan büyük hacimlerde DOC dosyaları işlenir.
+
+
+
+* **DOC-Sisteme Entegrasyonu**  
+
+&nbsp; Çıkarılan içerik aşağı akış otomasyonu ve analitik iş akışlarına besleme sağlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

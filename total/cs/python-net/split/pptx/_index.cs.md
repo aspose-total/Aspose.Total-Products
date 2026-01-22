@@ -73,7 +73,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTX je moderní formát prezentace založený na XML navržený pro strukturovaný obsah snímků. Rozdělení souborů PPTX umožňuje jemnou kontrolu nad daty na úrovni snímku.
+
+
+
+Automatizace založená na Pythonu podporuje spolehlivé, škálovatelné a formátově uvědomělé zpracování souborů PPTX.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Správa obsahu na úrovni snímku**  
+
+&nbsp; Spravujte jednotlivé snímky jako nezávislé jednotky.
+
+
+
+* **Automatizované přizpůsobení prezentace**  
+
+&nbsp; Vytvářejte přizpůsobené prezentace z extrahovaných snímků.
+
+
+
+* **Analýza prezentace**  
+
+&nbsp; Analyzujte obsah snímků programově.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Analýza snímků s povědomím o XML**  
+
+&nbsp; Pythonové skripty extrahují snímky přesně.
+
+
+
+* **Sestavení prezentace na základě pravidel**  
+
+&nbsp; Snímky jsou dynamicky sestavovány.
+
+
+
+* **Automatizované kontrolní procesy**  
+
+&nbsp; Snímky jsou ověřovány nezávisle.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

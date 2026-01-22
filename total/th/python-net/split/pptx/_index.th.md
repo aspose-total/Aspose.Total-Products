@@ -73,7 +73,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTX เป็นรูปแบบการนำเสนอที่ใช้ XML ที่ออกแบบมาเพื่อเนื้อหาสไลด์ที่มีโครงสร้าง การแยกไฟล์ PPTX ช่วยให้มีการควบคุมขั้นตอนละเอียดที่ระดับสไลด์ได้ดี
+
+
+
+การอัตโนมัติที่ใช้ Python สนับสนุนการประมวลผล PPTX ที่เชื่อถือได้ มีขนาดใหญ่และรองรับรูปแบบได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **การจัดการเนื้อหาที่ระดับสไลด์**  
+
+&nbsp; จัดการสไลด์แต่ละอันเป็นหน่วยอิสระ
+
+
+
+* **การปรับแต่งสไลด์โดยอัตโนมัติ**  
+
+&nbsp; สร้างการนำเสนอที่ปรับแต่งจากสไลด์ที่ถูกสกัดออกมา
+
+
+
+* **การวิเคราะห์การนำเสนอ**  
+
+&nbsp; วิเคราะห์เนื้อหาสไลด์โดยโปรแกรม
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การแยกวิเคราะห์สไลด์ที่รู้จัก XML**  
+
+&nbsp; สคริปต์ Python สกัดสไลด์อย่างแม่นยำ
+
+
+
+* **การประกอบสไลด์ตามกฎ**  
+
+&nbsp; สไลด์ถูกประกอบได้โดยไดนามิก
+
+
+
+* **ท่องไปรการตรวจสอบอัตโนมัติ**  
+
+&nbsp; สไลด์ถูกตรวจสอบอย่างอิสระ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

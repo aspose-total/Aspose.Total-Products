@@ -89,7 +89,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API查看PPSX文件，可以检查针对立即播放进行优化的现代幻灯片演示文稿。
+
+这使得可以扩展自动化以预览和验证准备好的演示内容。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **即时幻灯片审阅**  
+
+  查看设计为直接以幻灯片模式打开的演示文稿。
+
+
+
+* **幻灯片内容验证**  
+
+  在分发之前检查文本和视觉效果。
+
+
+
+* **演示文稿准备检查**  
+
+  验证幻灯片文件的正确性和完整性。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化幻灯片验证**  
+
+  Python管道在质量保证检查期间呈现PPSX文件。
+
+
+
+* **动态预览服务**  
+
+  幻灯片会自动显示给审阅者或利益相关者。
+
+
+
+* **批量演示文稿分发工作流程**  
+
+  在大规模交付之前以编程方式查看PPSX文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

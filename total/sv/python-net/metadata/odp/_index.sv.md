@@ -75,7 +75,93 @@ För mer information, se [Produktdokumentation](https://docs.aspose.com/slides/p
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Dokumentmetadataextrahering för **ODP**-filer via Python API:er gör det möjligt för system att läsa presentationsattribut och inbäddade egenskaper för bildspel - vilket stöder styrning, upptäckt och livscykelhantering utan att öppna filen i ett GUI. Detta är viktigt för team som hanterar stora volymer av utbildnings-, försäljnings- eller operativa presentationer.
+
+
+
+I automatiserade arbetsflöden kan ODP-metadata driva indexering, klassificering och kontrollerad publicering - vilket gör det enklare att underhålla, söka och integrera bildspelsbibliotek i innehållsdistributionsystem.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* **Indexering av presentationsbibliotek**
+
+  Extrahera ODP-metadata för att bygga sökbara kataloger över bildspel efter författare, ämne och uppdateringstid.
+
+
+
+* **Validering av utbildningsinnehållsaktualitet**
+
+  Använd ändrade tidsstämplar för att identifiera föråldrade bildspel som kräver uppdateringscykler.
+
+
+
+* **Avdelningsbaserad klassificering**
+
+  Normalisera metadataegenskaper till strukturerade kategorier för konsekvent organisation och åtkomstkontroller.
+
+
+
+* **Tillgångsstyrningsrapportering**
+
+  Sammanställ ODP-metadata för att mäta användningsberedskap, täckningsluckor och underhållsansvar.
+
+
+
+* **Förberedelse för massmigration**
+
+  Granska ODP-egenskaper innan migration till nya lagrings- eller publiceringsmiljöer.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* **Automatisk inmatning av bildspel**
+
+  Vid uppladdning, extrahera ODP-metadata och tilldela bildspelet automatiskt till rätt avsnitt i lagringsplatsen.
+
+
+
+* **Automatiserad varningshantering för föråldrade bildspel**
+
+  Utlös varningar när ODP-bildspel överskrider uppdateringströsklar eller saknar ansvarsfulla ägarfält.
+
+
+
+* **Metadata-drivna publiceringsregler**
+
+  Publicera eller begränsa ODP-bildspel baserat på metadataflaggor som indikerar konfidentialitet eller intern användning.
+
+
+
+* **Batchgranskning och rapporteringsjobb**
+
+  Kör schemalagda jobb som exporterar sammanfattningar av ODP-metadata för styrning och operativa revisioner.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Menggabungkan buku kerja Excel biner menggunakan API Python memungkinkan penanganan dataset besar dengan ukuran file yang lebih kecil. Format ini dioptimalkan untuk lingkungan yang peka terhadap kinerja yang berurusan dengan volume data tinggi.
+
+
+
+Automasi seputar penggabungan XLSB mendukung alur kerja analitik yang dapat diskalakan sambil mempertahankan kecepatan dan efisiensi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Konsolidasi Data Volume Tinggi (XLSB)**  
+
+&nbsp; Menggabungkan spreadsheet biner besar ke dalam satu buku kerja analitik.
+
+
+
+* **Pelaporan Kritis Kinerja (XLSB)**  
+
+&nbsp; Menggabungkan file XLSB yang dioptimalkan untuk pemuatan dan pemrosesan cepat.
+
+
+
+* **Pergudangan Data Enterprise (XLSB)**  
+
+&nbsp; Menggabungkan dataset XLSB untuk analitik hilir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pemrosesan Berkas Besar Otomatis (XLSB)**  
+
+&nbsp; Sistem menggabungkan file XLSB selama proses pengambilan data volume tinggi.
+
+
+
+* **Integrasi Pipa Analitik (XLSB)**  
+
+&nbsp; Penggabungan XLSB terjadi sebagai bagian dari alur kerja analitik otomatis.
+
+
+
+* **Pekerjaan Batch Efisien Sumber Daya (XLSB)**  
+
+&nbsp; Spreadsheet biner digabungkan dalam proses batch yang dijadwalkan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

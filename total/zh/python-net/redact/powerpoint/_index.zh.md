@@ -77,7 +77,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API对PowerPoint格式进行文档撰写，可以安全处理通常包含战略性或机密信息的基于幻灯片的内容。这有助于在演示过程中防止意外数据暴露。
+
+
+
+通过自动化，PowerPoint撰写变成了一个可重复的过程，可以无缝地融入演示生命周期管理中。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **高管演示安全性**  
+
+&nbsp; 在广泛分享幻灯片之前删除敏感指标。
+
+
+
+* **面向客户的幻灯片准备**  
+
+&nbsp; 从演示中清除内部注释和数据。
+
+
+
+* **版本控制的撰写**  
+
+&nbsp; 为不同受众维护清晰的演示文稿变体。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **幻灯片内容扫描**  
+
+&nbsp; 自动检查并撰写所有幻灯片上的文本。
+
+
+
+* **演示批准工作流程**  
+
+&nbsp; 在演示获得批准或分享之前强制执行撰写。
+
+
+
+* **自动化幻灯片重建**  
+
+&nbsp; 根据源数据动态撰写和重建演示文稿。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

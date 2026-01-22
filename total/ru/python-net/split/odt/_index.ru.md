@@ -79,7 +79,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT - это открытый формат документа, разработанный для структурированных текстовых документов. Разделение файлов ODT позволяет обрабатывать содержимое на уровне разделов и структурировать его.
+
+
+
+Используя API Python, разделение ODT становится масштабируемым и подходит для автоматизированных документооборотов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Извлечение структурированного содержимого**  
+
+&nbsp; Извлекайте главы или разделы независимо друг от друга.
+
+
+
+* **Архивирование в открытом формате**  
+
+&nbsp; Сохраняйте и управляйте содержимым на гранулярном уровне.
+
+
+
+* **Коллективная обработка документов**  
+
+&nbsp; Обеспечьте параллельные рабочие процессы над разделами документа.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Разбор разделов на основе XML**  
+
+&nbsp; Python определяет структурные маркеры для разделения.
+
+
+
+* **Автоматизированная классификация содержимого**  
+
+&nbsp; Извлеченные разделы категоризируются программно.
+
+
+
+* **Организация документооборота по рабочим процессам**  
+
+&nbsp; Разделы автоматически направляются в различные системы.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

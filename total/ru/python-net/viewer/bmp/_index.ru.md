@@ -82,7 +82,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Просмотр документов BMP с помощью Python API обеспечивает надежное отображение несжатых растровых изображений для проверки, валидации и визуальных рабочих процессов, где важна точность на уровне пикселей.
+
+Эта возможность поддерживает автоматизированные конвейеры обработки изображений, системы предварительного просмотра и проверку качества без ручного вмешательства.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Точный просмотр изображений**  
+
+&nbsp; Просмотр растровых изображений точно так, как они сохранены, сохраняя оригинальные цвета и детали разрешения.
+
+
+
+* **Совместимость с устаревшими изображениями**  
+
+&nbsp; Открывайте и отображайте старые или необработанные файлы растровых изображений, обычно используемые в архивных системах.
+
+
+
+* **Проверка визуального качества**  
+
+&nbsp; Программно проверяйте изображения, чтобы гарантировать правильность компоновки и отображения.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированная проверка изображений**  
+
+&nbsp; Сценарии Python отображают файлы BMP во время пакетной проверки для обнаружения визуальных аномалий.
+
+
+
+* **Генерация предварительного просмотра в конвейерах**  
+
+&nbsp; Файлы растровых изображений автоматически отображаются для панелей инструментов или инструментов проверки.
+
+
+
+* **Отладка рабочего процесса изображений**  
+
+&nbsp; Автоматизированные просмотрщики помогают проверить промежуточные выходные изображения в конвейерах обработки.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -133,7 +199,7 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

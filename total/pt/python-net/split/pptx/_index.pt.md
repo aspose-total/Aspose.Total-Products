@@ -73,7 +73,75 @@ Para obter mais detalhes, consulte [Documentação do produto](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTX é um formato de apresentação moderno baseado em XML, projetado para conteúdo estruturado de slides. A divisão de arquivos PPTX permite um controle detalhado sobre os dados em nível de slide.
+
+
+
+A automação baseada em Python oferece suporte confiável, escalável e consciente do formato para o processamento de PPTX.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Gerenciamento de Conteúdo em Nível de Slide**  
+
+  Gerencie slides individuais como unidades independentes.
+
+
+
+* **Customização Automatizada de Apresentações**  
+
+  Crie apresentações personalizadas a partir de slides extraídos.
+
+
+
+* **Análise de Apresentações**  
+
+  Analise o conteúdo dos slides de forma programática.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Análise de Slides Consciente de XML**  
+
+  Scripts em Python extraem slides com precisão.
+
+
+
+* **Montagem de Decks Baseada em Regras**  
+
+  Os slides são montados dinamicamente.
+
+
+
+* **Pipelines de Revisão Automatizados**  
+
+  Os slides são validados de forma independente.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La recherche de fichiers **PPT** avec des API Python permet d'accéder à des documents de présentation hérités qui stockent encore des informations commerciales, de formation et stratégiques précieuses. La recherche automatisée garantit que les anciennes présentations restent utilisables et consultables à grande échelle.
+
+
+
+En intégrant la recherche PPT dans des systèmes automatisés, les organisations réduisent les efforts manuels et débloquent des informations à partir du contenu de présentations archivées.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Recherche de Contenu de Diapositives Héritées**  
+
+&nbsp; Trouve des mots-clés dans d'anciens fichiers de présentation PPT.
+
+
+
+* **Récupération de Présentations Archivées**  
+
+&nbsp; Permet de découvrir des anciennes séries de diapositives.
+
+
+
+* **Extraction de Texte PPT**  
+
+&nbsp; Extrait le texte des diapositives pour l'indexation et l'analyse.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'Automatisation" %}}
+
+
+
+* **Balayage Automatisé du Répertoire PPT**  
+
+&nbsp; Les tâches Python analysent les fichiers PPT pour trouver du contenu consultable.
+
+
+
+* **Création d'Index d'Archive PPT**  
+
+&nbsp; Les présentations héritées sont indexées de manière programmée.
+
+
+
+* **Intégration de Contenu PPT**  
+
+&nbsp; Les données extraites alimentent les flux de travail de reporting et d'analyse.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

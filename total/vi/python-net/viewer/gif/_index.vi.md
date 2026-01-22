@@ -82,7 +82,73 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Imaging for Python vi
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Xem GIF bằng Python APIs cho phép hiển thị chuỗi hình ảnh động hoặc tĩnh để kiểm tra và xác minh.
+
+Điều này hỗ trợ các quy trình tự động liên quan đến đồ họa chuyển động hoặc chỉ báo hình ảnh.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Xem Nội Dung Động**  
+
+  Xem các hoạt ảnh dựa trên khung một cách tự động.
+
+
+
+* **Xác Minh Chỉ Báo Hình Ảnh**  
+
+  Kiểm tra tín hiệu động hoặc đồ họa hướng dẫn.
+
+
+
+* **Kiểm Tra Tài Sản Đa Phương Tiện**  
+
+  Xem xét chuỗi hình ảnh được sử dụng trong quy trình làm việc.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Xác Minh Đa Phương Tiện Tự Động**  
+
+  Các đường ống Python hiển thị GIF trong quá trình kiểm tra chất lượng.
+
+
+
+* **Hệ Thống Tạo Xem Trước**  
+
+  Xem trước động được tạo ra một cách động.
+
+
+
+* **Hiển Thị Gỡ Lỗi Quy Trình**  
+
+  Xem GIF để xác minh trạng thái quy trình một cách trực quan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

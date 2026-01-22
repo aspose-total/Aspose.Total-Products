@@ -98,7 +98,93 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+通过Python API提取**DOT**文件的文档元数据，支持通过读取嵌入的属性（如模板作者、创建时间和描述性字段）来理解和管理传统模板资产。这对于标准化、治理以及在整个组织中保持一致的文档输出至关重要。
+
+
+
+在自动化系统中，DOT元数据使得控制模板生命周期管理变得可能—帮助管道选择正确的模板、执行批准的标准，并在规模上检测过时或未经管理的模板文件。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **模板目录创建**
+
+  提取DOT元数据以建立可搜索的模板清单及其预期用途。
+
+
+
+* **标准化执行**
+
+  通过检查所有权和描述性属性来识别哪些模板已获批准。
+
+
+
+* **模板生命周期跟踪**
+
+  监控创建/修改时间以检测需要修订或淘汰的陈旧模板。
+
+
+
+* **模板使用治理**
+
+  使用元数据将模板链接到部门或工作流程，以进行受控分发。
+
+
+
+* **符合审计要求的模板记录**
+
+  生成可追溯的日志，显示模板来源和维护历史，以满足合规需求。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批准模板门禁**
+
+  基于元数据规则，自动阻止未经批准的DOT模板存储在共享存储库中。
+
+
+
+* **定期模板刷新提醒**
+
+  当DOT模板超过年龄阈值或缺乏维护人员字段时，触发定期通知。
+
+
+
+* **模板选择自动化**
+
+  使用元数据为特定工作流程或部门程序性地选择正确的DOT模板。
+
+
+
+* **存储库清理工作流程**
+
+  使用元数据相似性和时间戳识别和隔离重复或过时的DOT模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

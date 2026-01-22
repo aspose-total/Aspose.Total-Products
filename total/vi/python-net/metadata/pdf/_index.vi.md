@@ -97,7 +97,93 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.PDF for Python via .N
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Trích xuất siêu dữ liệu tài liệu cho tệp **PDF** thông qua API Python giúp hệ thống nắm bắt các thuộc tính cốt lõi — như tiêu đề, tác giả, nhà sản xuất, ngày tạo và sửa đổi, và các định danh nhúng — hỗ trợ quản lý và khám phá ngay cả khi nội dung chủ yếu là bố cục cố định. Điều này quan trọng đối với việc kiểm toán, đăng ký và xử lý vận hành các kho lưu trữ PDF có khối lượng lớn.
+
+
+
+Trong các đường ống tự động hóa, siêu dữ liệu PDF có thể thúc đẩy việc lập chỉ mục, định tuyến, thực thi việc lưu giữ, và xử lý hàng loạt — làm cho việc tích hợp PDF vào các luồng công việc có thể mở rộng mà không cần phải phân loại thủ công.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Lập Chỉ Mục Lưu Trữ Số**
+
+  Trích xuất siêu dữ liệu PDF để xây dựng một kho lưu trữ đáng tin cậy của tài liệu với các thuộc tính có thể tìm kiếm.
+
+
+
+* **Tuân Thủ và Kiểm Toán Lưu Giữ**
+
+  Sử dụng dấu thời gian tạo/sửa đổi để xác nhận các khung thời gian lưu giữ và phát hiện sự không nhất quán.
+
+
+
+* **Nhà Sản Xuất và Nguồn Gốc**
+
+  Trích xuất các thuộc tính liên quan đến nhà sản xuất để hiểu nguồn gốc nội dung và dòng dõi xử lý.
+
+
+
+* **Tín Hiệu Phân Loại Hàng Loạt**
+
+  Sử dụng các trường siêu dữ liệu để phân loại PDF vào các lĩnh vực như chính sách, hóa đơn, hướng dẫn, hoặc báo cáo.
+
+
+
+* **Kiểm Tra Chất Lượng Vận Hành**
+
+  Đánh dấu PDF với siêu dữ liệu thiếu hoặc đáng ngờ là ứng cử viên cho việc khắc phục hoặc xem xét thủ công.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Phân Loại Tiếp Nhận Tự Động**
+
+  Khi PDF đến, trích xuất siêu dữ liệu và định tuyến chúng vào các làn xử lý dựa trên quy tắc hoàn thiện và nhạy cảm.
+
+
+
+* **Cập Nhật Chỉ Mục Dựa Trên Siêu Dữ Liệu**
+
+  Tự động cập nhật một chỉ mục tìm kiếm mỗi khi thêm hoặc thay thế một PDF, sử dụng siêu dữ liệu để truy xuất nhanh chóng.
+
+
+
+* **Luồng Làm Việc Thực Thi Lưu Giữ**
+
+  Chạy các công việc theo lịch trình để xác định các PDF vượt quá giới hạn lưu giữ và tạo nhiệm vụ xóa hoặc lưu trữ.
+
+
+
+* **Báo Cáo và Bảng Điều Khiển Hàng Loạt**
+
+  Tổng hợp siêu dữ liệu PDF trích xuất vào các báo cáo định kỳ cho quản lý, tuân thủ, và giám sát vận hành.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

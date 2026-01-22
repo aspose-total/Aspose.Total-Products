@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+دمج جداول بيانات إكسل مع وظائف Python APIs الممكنة للماكرو يمكن أن يسمح بتوحيد المنطق المدفوع بالبيانات، والحسابات، والأتمتة المضمنة داخل الدفاتر. هذا شائع في البيئات التشغيلية والمالية.
+
+
+
+يضمن دمج ملفات XLSM بشكل آلي الاحتفاظ بالبيانات والسلوك المدفوع بالماكرو ضمن أنظمة قابلة للتوسع.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تجميع التقارير المدفوعة بالماكرو (XLSM)**  
+
+&nbsp; دمج ملفات XLSM تحتوي على حسابات ومنطق مدفوع بالأتمتة.
+
+
+
+* **توحيد دفاتر العمل التشغيلية (XLSM)**  
+
+&nbsp; دمج جداول بيانات مدفوعة بالماكرو عبر الإدارات.
+
+
+
+* **تجميع عمليات الأتمتة (XLSM)**  
+
+&nbsp; تجميع ملفات XLSM المستخدمة في عمليات تشغيلية متكررة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **إنشاء دفاتر العمل بناءً على القواعد (XLSM)**  
+
+&nbsp; تدمج الأنظمة ملفات XLSM استنادًا إلى قواعد الأتمتة المحددة.
+
+
+
+* **نمذجة مالية آلية (XLSM)**  
+
+&nbsp; يدعم دمج XLSM سير العمل المالية التكرارية.
+
+
+
+* **الحفاظ على الماكرو بشكل مراقب (XLSM)**  
+
+&nbsp; تدمج الأنابيب الآلية ملفات XLSM مع الاحتفاظ بالماكرو.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

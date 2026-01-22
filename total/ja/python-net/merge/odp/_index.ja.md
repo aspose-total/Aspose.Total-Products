@@ -79,7 +79,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用してOpenDocumentプレゼンテーションファイルをマージすると、オープンスタンダードとクロスプラットフォームのプレゼンテーションワークフローがサポートされます。これはオープンソースのオフィスツールを使用している環境に最適です。
+
+
+
+自動化により、相互運用性とスケーラブルなプレゼンテーション処理が確保されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **クロスプラットフォームのスライド統合（ODP）**  
+
+&nbsp; 異なるツールで作成されたODPファイルをマージします。
+
+
+
+* **オープンスタンダードのプレゼンテーション組み立て（ODP）**  
+
+&nbsp; 統一された配信のためにODPデッキを結合します。
+
+
+
+* **協力的なスライド編集（ODP）**  
+
+&nbsp; 分散された貢献者からのODPファイルをマージします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **オープンプレゼンテーションパイプライン（ODP）**  
+
+&nbsp; システムはプロプライエタリな依存関係なしにODPファイルをマージします。
+
+
+
+* **スケジュールされたデッキの編集（ODP）**  
+
+&nbsp; ODPのマージはバックエンドタスクの一部として実行されます。
+
+
+
+* **相互運用可能なプレゼンテーション自動化（ODP）**  
+
+&nbsp; ODPファイルはワークフローで動的にマージされます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

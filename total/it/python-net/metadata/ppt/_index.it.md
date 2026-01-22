@@ -75,7 +75,93 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'estrazione dei metadati dei documenti per i file **PPT** tramite API Python consente la gestione degli asset di presentazione legacy leggendo proprietà come autore, timestamp e campi descrittivi. Questo supporta la governance e la scopribilità per le organizzazioni che ancora mantengono vecchie librerie di diapositive.
+
+
+
+Nei flussi di lavoro automatizzati, i metadati PPT possono alimentare la classificazione, l'indicizzazione e i controlli del ciclo di vita, consentendo di organizzare, verificare e migrare grandi collezioni di presentazioni legacy con un minimo sforzo manuale.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Audit della libreria di diapositive legacy**
+
+  Estrarre i metadati PPT per comprendere l'età, la proprietà e le lacune di manutenzione tra le raccolte archiviate.
+
+
+
+* **Valutazione della prontezza alla migrazione**
+
+  Utilizzare i metadati per stabilire quali raccolte di PPT dovrebbero essere convertite o aggiornate per prime.
+
+
+
+* **Instradamento della manutenzione basata sulla proprietà**
+
+  Identificare i responsabili dai campi autore/editore per instradare efficientemente le richieste di aggiornamento.
+
+
+
+* **Analisi del portafoglio di contenuti**
+
+  Aggregare i metadati PPT per misurare la copertura della libreria, l'obsolescenza e il rischio operativo.
+
+
+
+* **Individuazione di asset duplicati**
+
+  Utilizzare i modelli dei metadati per individuare possibili duplicati e ridurre il disordine nella libreria.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Pipeline di acquisizione di raccolte legacy**
+
+  Acquisire automaticamente i file PPT, estrarre i metadati e assegnarli a un sistema di inventario con campi standardizzati.
+
+
+
+* **Automazione della coda di conversione**
+
+  Aggiungere le raccolte di PPT alle code di conversione in base all'età dei metadati e alle regole di classificazione dell'uso.
+
+
+
+* **Flusso di lavoro di notifica di raccolte obsolete**
+
+  Attivare avvisi quando i metadati PPT indicano lunghi periodi senza aggiornamenti o campi di proprietà mancanti.
+
+
+
+* **Lavori di pulizia automatica della libreria**
+
+  Scansionare periodicamente i repository PPT e mettere in quarantena gli asset identificati come duplicati o non gestiti in base ai metadati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

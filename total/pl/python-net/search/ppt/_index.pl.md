@@ -76,7 +76,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Wyszukiwanie plików **PPT** za pomocą interfejsów API w języku Python umożliwia dostęp do archiwalnych dokumentów prezentacyjnych, które wciąż przechowują cenne informacje biznesowe, szkoleniowe i strategiczne. Zautomatyzowane wyszukiwanie zapewnia, że starsze prezentacje pozostają użyteczne i możliwe do wyszukiwania na dużą skalę.
+
+
+
+Integrując wyszukiwanie w formacie PPT w systemy zautomatyzowane, organizacje redukują nakład pracy manualnej i odblokowują wgląd w archiwalne treści prezentacyjne.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Wyszukiwanie Treści ze Starych Slajdów**  
+
+&nbsp; Znajduje słowa kluczowe w starszych plikach prezentacji PPT.
+
+
+
+* **Odzyskiwanie Archiwalnych Prezentacji**  
+
+&nbsp; Umożliwia odkrywanie historycznych zestawów slajdów.
+
+
+
+* **Ekstrakcja Tekstu z Plików PPT**  
+
+&nbsp; Pobiera tekst ze slajdów do indeksowania i analizy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Automatyczne Skanowanie Repozytorium PPT**  
+
+&nbsp; Zadania w Pythonie skanują pliki PPT w poszukiwaniu treści do wyszukiwania.
+
+
+
+* **Tworzenie Indeksu Archiwalnych Prezentacji PPT**  
+
+&nbsp; Prezentacje z archiwum są indeksowane programistycznie.
+
+
+
+* **Integracja Treści PPT**  
+
+&nbsp; Wydobyte dane zasila raportowanie i analizę.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

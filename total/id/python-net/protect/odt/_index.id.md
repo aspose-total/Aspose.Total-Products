@@ -76,7 +76,75 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT adalah format teks dokumen terbuka yang banyak digunakan untuk laporan dan dokumentasi. Melindungi file ODT penting untuk menjaga keaslian dokumen dan mencegah perubahan yang tidak disengaja atau jahat.
+
+
+
+Perlindungan dokumen berbasis Python memungkinkan keamanan ODT tertanam ke dalam alur kerja dokumentasi otomatis dan penerbitan dengan overhead minimal.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Kunci" %}}
+
+
+
+* **Distribusi Laporan Aman**  
+
+  &nbsp; Lindungi laporan ODT yang sudah final sebelum dibagikan.
+
+
+
+* **Integritas Dokumentasi**  
+
+  &nbsp; Pastikan dokumen resmi tetap tidak berubah setelah disetujui.
+
+
+
+* **Keamanan Dokumen lintas Platform**  
+
+  &nbsp; Terapkan perlindungan tanpa memandang lingkungan pengeditan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pipa Dokumentasi Otomatis**  
+
+  &nbsp; Lindungi file ODT sebagai bagian dari pembangkitan dokumentasi berkelanjutan.
+
+
+
+* **Keamanan File Berbasis Aturan**  
+
+  &nbsp; Terapkan kebijakan perlindungan berdasarkan metadata dokumen.
+
+
+
+* **Pengerasan Dokumen Massal**  
+
+  &nbsp; Amanahkan beberapa file ODT secara programatik dalam operasi batch.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

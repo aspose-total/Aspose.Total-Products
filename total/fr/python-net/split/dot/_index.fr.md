@@ -79,7 +79,75 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Les fichiers DOT servent de modèles de documents qui définissent la structure et les normes de formatage. La division des fichiers DOT permet l'analyse et la réutilisation des composants de modèle individuels.
+
+
+
+L'automatisation de la division des fichiers DOT avec Python prend en charge la gestion évolutive des modèles et les flux de génération de documents structurés.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Réutilisation des composants de modèle**  
+
+&nbsp; Extraire des sections de modèle spécifiques pour les réutiliser dans d'autres documents.
+
+
+
+* **Audit de modèle**  
+
+&nbsp; Analyser les parties individuelles pour la conformité et la cohérence.
+
+
+
+* **Génération de documents normalisée**  
+
+&nbsp; Permettre l'utilisation contrôlée des éléments de modèle.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Automatisation de l'analyse des modèles**  
+
+&nbsp; Les scripts Python isolent les blocs de modèle de manière programmée.
+
+
+
+* **Assemblage dynamique de modèles**  
+
+&nbsp; Les composants divisés sont recombinés dynamiquement selon les besoins.
+
+
+
+* **Pipelines d'application de la gouvernance**  
+
+&nbsp; Les vérifications automatisées garantissent que seules les sections approuvées sont utilisées.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

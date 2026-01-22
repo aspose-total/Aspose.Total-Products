@@ -89,7 +89,73 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Python via
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Xem các bài thuyết trình PowerPoint PPTX với các API Python cung cấp quyền truy cập thống nhất vào tài liệu dựa trên slide qua nhiều định dạng.
+
+Điều này hỗ trợ quy trình xem xét tự động và tập trung vào bài thuyết trình.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Xem Xét Slide Thống Nhất**  
+
+  &nbsp; Xem các bài thuyết trình bất kể biến thể nào.
+
+
+
+* **Xác Thực Bài Thuyết Trình**  
+
+  &nbsp; Kiểm tra nội dung và bố cục của slide.
+
+
+
+* **Tích Hợp Quy Trình Làm Việc**  
+
+  &nbsp; Nhúng chế độ xem vào các hệ thống tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Các Luồng Xem Xét Tự Động**  
+
+  &nbsp; Các bài thuyết trình được hiển thị trong quá trình xác thực.
+
+
+
+* **Dịch Vụ Xem Trước**  
+
+  &nbsp; Các slide được hiển thị động đối với các bên liên quan.
+
+
+
+* **Các Hoạt Động Bài Thuyết Trình Đợn Điệu**  
+
+  &nbsp; Nhiều bộ slide được xem theo cách lập trình.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

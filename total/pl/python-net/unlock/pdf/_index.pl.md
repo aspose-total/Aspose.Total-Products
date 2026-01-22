@@ -71,7 +71,75 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Pliki PDF są często zablokowane, aby chronić poufne informacje, ale kontrolowane odblokowanie jest niezbędne do automatyzacji, analizy i legalnego ponownego wykorzystania. Dostęp programistyczny zapewnia, że chronione pliki PDF mogą wciąż uczestniczyć w nowoczesnych cyfrowych procesach roboczych.
+
+
+
+Interfejsy API Pythona pozwalają na bezpieczne i skalowalne odblokowywanie plików PDF, integrując się z systemami ekstrakcji danych, indeksowania i transformacji.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Wyodrębnianie tekstu i danych**  
+
+&nbsp; Umożliwia dostęp do chronionej zawartości w celach analitycznych i raportowych.
+
+
+
+* **Automatyzacja przeglądu dokumentów**  
+
+&nbsp; Wspiera zautomatyzowaną inspekcję zablokowanych plików podczas cykli przeglądów.
+
+
+
+* **Konwersja formatów**  
+
+&nbsp; Pozwala na konwersję zabezpieczonych plików PDF na edytowalne lub przeszukiwalne formaty.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Zautomatyzowane przepływy pracy OCR**  
+
+&nbsp; Pliki PDF są odblokowywane przed procesami rozpoznawania tekstu i wzbogacania.
+
+
+
+* **Generowanie indeksu wyszukiwania**  
+
+&nbsp; Chroniona zawartość jest odblokowywana i indeksowana programistycznie.
+
+
+
+* **Przetwarzanie zbiorcze zgodności**  
+
+&nbsp; Duże zestawy plików PDF są odblokowywane podczas zaplanowanych operacji zgodności.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

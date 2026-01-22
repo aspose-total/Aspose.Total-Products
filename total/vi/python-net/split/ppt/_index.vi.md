@@ -73,7 +73,75 @@ Có các tùy chọn thay thế để cài đặt '[Aspose.Slides for Python via
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPT là một định dạng trình bày cũ vẫn được sử dụng trong các hệ thống cũ hơn. Chia các tệp PPT giúp duy trì khả năng sử dụng trong môi trường tự động hiện đại.
+
+
+
+API Python cho phép xử lý các tệp PPT theo cách lập trình mặc dù cấu trúc cũ của chúng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Di Dời Trình Bày Cũ**  
+
+  &nbsp; Trích xuất các slide để chuyển đổi hoặc nâng cấp.
+
+
+
+* **Truy Cập Nội Dung Lựa Chọn**  
+
+  &nbsp; Làm việc với các slide cụ thể mà không cần chuyển đổi toàn bộ.
+
+
+
+* **Quản Lý Lưu Trữ Trình Bày**  
+
+  &nbsp; Lưu trữ các slide một cách riêng lẻ để tạo chỉ mục.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Các Luồng Xử Lý Định Dạng Cũ**  
+
+  &nbsp; Tự động hóa việc chia tệp PPT theo quy mô.
+
+
+
+* **Trích Xuất Slide để Chuyển Đổi**  
+
+  &nbsp; Các slide được chuyển đổi sang định dạng hiện đại.
+
+
+
+* **Kiểm Tra Trình Bày Tự Động**  
+
+  &nbsp; Xem nội dung slide theo cách lập trình.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

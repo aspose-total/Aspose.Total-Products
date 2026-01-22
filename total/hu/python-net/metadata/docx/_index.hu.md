@@ -98,7 +98,93 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A dokumentum metaadatok kinyerése **DOCX** fájlokból Python API-k segítségével strukturált hozzáférést biztosít a modern Word dokumentum tulajdonságaihoz - megbízható indexelést, ellenőrzést és tartalomkezelést lehetővé téve kézi felülvizsgálat nélkül. Ez javítja a dokumentum életciklus részleteinek, mint például az írói jogok, szerkesztések és beágyazott leírók, láthatóságát.
+
+
+
+Az automatizálás során a DOCX metaadatok hatékony irányítási réteggé válnak az útvonalválasztáshoz és az ellenőrzéshez: a csővezetékek betarthatják a szabványokat, kitölthetik a katalógusokat, és integrálhatják a keresési, elemzési és irányítási eszközöket nagy méretben.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* **Keresési Index Gazdagítás**
+
+  Konvertálja a DOCX metaadatokat normalizált mezőkké, hogy javítsa a szűrést, rangsorolást és felfedezést.
+
+
+
+* **Tulajdonjog és Felülvizsgálati Feladat**
+
+  Használja az író és az utolsó módosított metaadatokat az értékelők automatikus hozzárendeléséhez és a felelősségvállalás fenntartásához.
+
+
+
+* **Verzió Higiénia Monitorozás**
+
+  Az utolsó módosítás idejének összehasonlításával észlelje a régi dokumentumokat a politikai küszöbértékekkel szemben.
+
+
+
+* **Metaadat Teljesség Ellenőrzés**
+
+  Biztosítsa, hogy a közzététel vagy terjesztés előtt létezzenek a kötelező tulajdonságok (cím, téma, kulcsszavak).
+
+
+
+* **Portfólió-Szintű Jelentések**
+
+  Gyűjtse össze a DOCX metaadatokat a tárolókban, hogy lefedettségi, életkor és tevékenységi információkat állítson elő.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* **Feltöltési Idő Metaadat Ellenőrzés**
+
+  Bevitelkor utasítsa el vagy jelölje meg a kötelező tulajdonságok hiányzó DOCX fájlokat, és értesítse automatikusan a feltöltőt.
+
+
+
+* **Automatikus Címkézés és Kategorizálás**
+
+  Használja a DOCX kulcsszavakat és egyedi mezőket a konzisztens címkék és mapparouting szabályok programozott alkalmazásához.
+
+
+
+* **Folyamatos Megfelelési Pásztázás**
+
+  Futtasson ütemezett feladatokat, amelyek azonosítják a retenciós időkereteket megsértő vagy tulajdonosi részleteket hiányzó DOCX fájlokat.
+
+
+
+* **Metaadatvezérelt Közzétételi Csővezeték**
+
+  Vonja ki a DOCX metaadatokat az oldalcímek, összefoglalók és indexbejegyzések kitöltéséhez automatizált közzétételi rendszerek számára.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

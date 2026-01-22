@@ -85,7 +85,77 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+دمج صور GIF باستخدام واجهات برمجة التطبيقات في Python يسمح بإنشاء رسوم متحركة موحدة أو تسلسلات بصرية موحدة. يُستخدم هذا عادة لمحتوى تعليمي، ورصد البيانات البصرية، والرسوم المتحركة الخفيفة.
+
+
+
+التأتير يمكن من تكوين صور GIF بشكل متسق وقابل للتكرار دون التحرير اليدوي.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تجميع تسلسل متحرك (GIF)**  
+
+&nbsp; دمج عدة صور GIF في رسم متحرك واحد.
+
+
+
+* **إنشاء رسوم بصرية تعليمية (GIF)**  
+
+&nbsp; دمج صور GIF مبنية على الخطوات في صورة بصرية واحدة.
+
+
+
+* **تجميع لقطات الرصد (GIF)**  
+
+&nbsp; تجميع لقطات GIF لتصور الزمن.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير التلقائي" %}}
+
+
+
+* **إنشاء رسوم متحركة تلقائيًا (GIF)**  
+
+&nbsp; يقوم الأنظمة بدمج صور GIF ديناميكيًا بناءً على الأحداث.
+
+
+
+* **تحديثات بصرية مبنية على سير العمل (GIF)**  
+
+&nbsp; يتم تشغيل دمج صور GIF بواسطة تغييرات في العمليات.
+
+
+
+* **أنابيب المحتوى الحركي البرمجية (GIF)**  
+
+&nbsp; توليد أنابيب تلقائية لإنتاج صور GIF مدمجة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

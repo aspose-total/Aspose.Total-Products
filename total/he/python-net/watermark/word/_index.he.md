@@ -77,7 +77,73 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG Word TIFF GIF 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+הטמעת סימן מים במסמכי **Word** בעזרת ממשקי Python עוזרת להגן על קבצי טקסט עסקיים על ידי הטמעת תוויות נראות לבעלות, סודיות וכללי חלוקה במסמכים שנפוצים לשיתוף ועריכה.
+
+האוטומציה מאפשרת הטמעת סימן מים ב-Word באופן עקבי בקרב צוותים וספריות מסמכים, ומפחיתה את המאמץ הידני תוך חיזוק שליטה ובהירות בתהליכי ממשל.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **מסמכי מדיניות סודיים**  
+
+&nbsp; הוספת סימונים לסודיות כדי להפחית משליחה בטעות של המדריכים הפנימיים.
+
+* **מסמכי מדיניות לשיתוף עבודה**  
+
+&nbsp; חותמת "טיוטה" כדי למנוע מגרסאות מיושנות להיתקבל כגרסה סופית.
+
+* **ייחוד המסמך ללקוח**  
+
+&nbsp; הטמעת סימן מים בקבצי Word משותפים כדי להבהיר בעלות ושימוש מותר.
+
+* **סימון תבנית יצוא מבוקר**  
+
+&nbsp; הבטיחות שמסמכי Word שנוצרים באופן אוטומטי כוללים מדיניות סימון מים סטנדרטית.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **אוטומציה של סימון מים מתבנית למסמך**  
+
+&nbsp; החלת סימני מים מיידית לאחר יצירת מסמכי Word מנתונים מובנים.
+
+* **החלפת סימון מים על פי מעמד בתהליך**  
+
+&nbsp; שינוי אוטומטי של טקסט סימון מים כאשר המסמכים מתקדמים מטיוטה לאושר.
+
+* **אכיפת מדיניות העלאת המאגר**  
+
+&nbsp; סימון מסמכי Word בעת העלאה לתיקיות רגולציה או מערכות ניהול מקרים.
+
+* **סימון מים ספציפי למקבל לשיתוף**  
+
+&nbsp; הטמעת מזהים של נמען לשיפור העקיפות כאשר מסמכים משותפים חוץ מהארגון.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

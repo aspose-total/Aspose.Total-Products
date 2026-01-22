@@ -104,7 +104,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Parsování **DOT šablon** pomocí Python API umožňuje organizacím extrahovat předdefinované struktury, zástupné symboly a formátovací pravidla vložená do dokumentních šablon. To je klíčové pro standardizaci a konzistenci.
+
+
+
+Automatizované parsování šablon umožňuje dynamické systémy generování dokumentů a prosazuje strukturální integritu na velkou škálu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Analýza struktury šablony**  
+
+&nbsp; Identifikuje zástupné symboly a definice rozložení v rámci šablon.
+
+
+
+* **Standardizovaná generace dokumentů**  
+
+&nbsp; Podporuje pravidly řízenou tvorbu konzistentních dokumentů.
+
+
+
+* **Dodržování pravidel a nařízení**  
+
+&nbsp; Ověřuje, zda generované dokumenty odpovídají schváleným šablonám.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Dynamické sestavování dokumentů**  
+
+&nbsp; Používá parsované šablony k programatickému generování dokumentů.
+
+
+
+* **Detekce odchylky šablony**  
+
+&nbsp; Automaticky označuje neoprávněné změny šablony.
+
+
+
+* **Automatizované vkládání obsahu**  
+
+&nbsp; Vkládá strukturovaná data do sekcí definovaných ve šabloně.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

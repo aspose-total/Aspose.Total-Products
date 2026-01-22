@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API合并Word模板格式，可以实现团队和系统间一致的文档创建。基于模板的合并确保标准化的布局，同时允许灵活的内容组合。
+
+
+
+这种方法非常适合自动化文档工厂，其中结构和品牌必须在输出中保持一致。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **基于模板的文档组装（DOT）**  
+
+&nbsp; 合并基于DOT的文档以强制保持一致的格式。
+
+
+
+* **标准化输出创建（DOT）**  
+
+&nbsp; 将基于模板的文件合并为统一的文档。
+
+
+
+* **可重用的布局管理（DOT）**  
+
+&nbsp; 聚合DOT文档以保持布局的一致性。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化模板应用（DOT）**  
+
+&nbsp; 在文档生成过程中自动合并DOT文件。
+
+
+
+* **批量模板处理（DOT）**  
+
+&nbsp; 在定时作业中合并大量的DOT文档。
+
+
+
+* **系统强制布局控制（DOT）**  
+
+&nbsp; 自动化系统合并DOT文件以保证格式的一致性。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

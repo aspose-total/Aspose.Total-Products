@@ -71,7 +71,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTX - це стандартний сучасний формат презентацій для PowerPoint. Захист PPTX-файлів є важливим для забезпечення точності та недоторканості вмісту презентацій у спільних середовищах.
+
+
+
+За допомогою Python API можна безшовно інтегрувати захист PPTX у автоматизовані потоки створення та розповсюдження презентацій.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+
+
+
+* **Конфіденційне поширення презентацій**
+
+  &nbsp; Захист PPTX-файлів перед зовнішнім поширенням.
+
+
+
+* **Забезпечення схвалення вмісту**
+
+  &nbsp; Блокування презентацій після остаточного схвалення.
+
+
+
+* **Управління презентаціями у підприємстві**
+
+  &nbsp; Застосування єдинообразного захисту для всіх активів у форматі PPTX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Автоматичний захист при експорті**
+
+  &nbsp; Захист PPTX-файлів негайно після створення.
+
+
+
+* **Захист, спровокований робочим процесом**
+
+  &nbsp; Застосування захисту на основі подій схвалення або публікації.
+
+
+
+* **Масштабоване управління презентаціями**
+
+  &nbsp; Захист тисяч PPTX-файлів за допомогою автоматизованих скриптів.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

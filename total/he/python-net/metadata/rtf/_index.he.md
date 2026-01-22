@@ -98,7 +98,93 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+חילוץ מטה-נתונים ממסמכי RTF באמצעות Python APIs עוזר למערכות לכוד מאפייני קובץ בסיסיים ותיאורים מוטבעים עבור מסמכי טקסט עשירים המשמשים לעיתים תקינות ניידות ותאימות לזיכרון הישן. זה תומך באינדוקסציה, בשלטון ובמעקב אחר מחזמרים המכילים סוגי מסמכים שונים.
+
+
+
+בתהליכי עבודה אוטומטיים, מטה-נתונים של RTF יכול לנהל סיווג, ניתוב וסנכרון קטלוג—מאפשר טיפול בקניות או מסמכים המונחים לתקשורת בלתי מודרנית בלי סקירה ידנית.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* **אינדוקס של מאגר בפורמטים מעורבים**
+
+  חילוץ מטה-נתונים של RTF כדי לשפר את האיתור ולאחד דיווחים במאגרי מסמכים שונים.
+
+
+
+* **שלטון תוכן ישן**
+
+  השתמש בחותמות זמן ושדות יוצר להקמת שלטון ומחזורי רענון עבור מסמכים ישנים.
+
+
+
+* **סיווג גורם לפעולות**
+
+  תקן מאפייני RTF זמינים לתגיות מובנות לצורך ניתוב ובקרת גישה.
+
+
+
+* **תכנון העברה והמרה**
+
+  בצע בדיקת מטה-נתונים של RTF כדי לייעל מטרות ההמרה ולזהות פרטי בעלות חסרים.
+
+
+
+* **בקרת איכות לקליטה**
+
+  סמן קבצי RTF עם מטה-נתונים לא שלמים או חסרי עקביות לתהליכי טיפול.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **תקן קליטת ישן**
+
+  חילץ באופן אוטומטי מטה-נתונים של RTF והמר אותם לשדות מובנים לרישום מסמכים מרכזי.
+
+
+
+* **תור המרה ואורקסטרציה**
+
+  נהל קבצי RTF לתוך צינורות המרה בהתבסס על שלמות מטה-נתונים וסף יישון.
+
+
+
+* **משימות של שלטון אוטומטי**
+
+  צור משימות בעלות עבור קבצי RTF שחסרים במאפייני מתחזק, באמצעות הקשר של ספריית הקובץ פלוס אותות מטה-נתונים.
+
+
+
+* **דו"חות בריאות תקופתיים של מאגר**
+
+  צור סיכומים מתוזמנים של כיסוי מטה-נתונים של RTF, שדות חסרים והפצת זיקנה למעקב של שלטון.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

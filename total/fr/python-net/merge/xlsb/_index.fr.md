@@ -78,7 +78,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusion des classeurs Excel binaires en utilisant les API Python permet une manipulation efficace de grands ensembles de données avec une taille de fichier réduite. Ce format est optimisé pour les environnements sensibles aux performances traitant de grands volumes de données.
+
+
+
+L'automatisation autour de la fusion XLSB prend en charge des flux de travail analytiques évolutifs tout en maintenant vitesse et efficacité.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Consolidation de données à haut volume (XLSB)**  
+
+&nbsp; Fusionner de grands tableurs binaires en un seul classeur analytique.
+
+
+
+* **Reporting critique en termes de performances (XLSB)**  
+
+&nbsp; Combinez des fichiers XLSB optimisés pour un chargement et un traitement rapides.
+
+
+
+* **Entrepôts de données d'entreprise (XLSB)**  
+
+&nbsp; Agréger des ensembles de données XLSB pour l'analyse en aval.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Traitement automatisé de gros fichiers (XLSB)**  
+
+&nbsp; Les systèmes fusionnent des fichiers XLSB lors de l'ingestion de données à haut volume.
+
+
+
+* **Intégration de pipeline analytique (XLSB)**  
+
+&nbsp; La fusion XLSB se produit dans le cadre de flux de travail analytiques automatisés.
+
+
+
+* **Travaux par lots économes en ressources (XLSB)**  
+
+&nbsp; Les tableurs binaires sont fusionnés dans des processus par lots planifiés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

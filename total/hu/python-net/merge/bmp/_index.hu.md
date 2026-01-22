@@ -85,7 +85,75 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A bitmap képek összevonása Python API-k segítségével lehetővé teszi a nyers, tömörítetlen vizuális elemek egyetlen összetett kép vagy sorozatba való integrálását. Ez hasznos technikai képalkotásban, szkennelési folyamatokban és olyan rendszerekben, ahol a képek hűséges reprodukciója fontosabb, mint a fájlméret.
+
+
+
+Az automatizált BMP összevonás támogatja a meghatározott képfeldolgozási csöveket, ahol a pontosság, ismételhetőség és a rendszer által vezérelt kompozíció szükséges.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* **Szkennelt Képek Összeállítása (BMP)**  
+
+&nbsp; Több BMP szkennelt kép egyetlen összetett képpé való összefűzése.
+
+
+
+* **Műszaki Diagramok Összeállítása (BMP)**  
+
+&nbsp; Bitmap diagramok egyesítése egységes vizuálissá.
+
+
+
+* **Nyers Képek Archiválása (BMP)**  
+
+&nbsp; BMP fájlok összegyűjtése hosszú távú tároláshoz vagy feldolgozáshoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* **Automatizált Szkennelés Feldolgozása (BMP)**  
+
+&nbsp; Rendszerek összevonják a BMP képeket a beviteli folyamatok során.
+
+
+
+* **Tömeges Képösszeállítás (BMP)**  
+
+&nbsp; Ütemezett feladatok programozottan összevonják a bitmap képeket.
+
+
+
+* **Pontossági Képfeldolgozási Csövek (BMP)**  
+
+&nbsp; A BMP összevonás beágyazott a vezérelt feldolgozási rendszerekben.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

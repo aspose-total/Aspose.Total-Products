@@ -74,7 +74,75 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La redacción de documentos utilizando APIs de Python para archivos de Word permite un procesamiento seguro en múltiples formatos de procesamiento de texto bajo un enfoque unificado. Esto garantiza una protección de datos consistente independientemente del origen del documento.
+
+
+
+Al automatizar la redacción de documentos de Word, las organizaciones pueden estandarizar los controles de privacidad mientras mejoran la eficiencia y la escalabilidad.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+
+
+* **Gobierno de Documentos Empresariales**  
+
+  Aplicar políticas de redacción consistentes en todos los documentos de Word.
+
+
+
+* **Control de Contenido en Varios Formatos**  
+
+  Gestionar datos sensibles en entornos de archivos de Word mixtos.
+
+
+
+* **Compartir Conocimiento de Forma Segura**  
+
+  Distribuir documentos redactados de forma segura dentro y fuera de la organización.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+
+
+* **Servicios de Redacción Unificados**  
+
+  Exponer la redacción como un servicio reutilizable basado en Python.
+
+
+
+* **Procesamiento Basado en Eventos**  
+
+  Activar la redacción cuando se cargan o modifican archivos de Word.
+
+
+
+* **Flujos de Trabajo Listos para Auditoría**  
+
+  Registrar y rastrear acciones de redacción automatizadas para cumplir con las normativas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

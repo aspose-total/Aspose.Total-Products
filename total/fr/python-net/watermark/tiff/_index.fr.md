@@ -73,7 +73,85 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'ajout de filigranes aux images **TIFF** avec des API Python prend en charge des flux de travail d'imagerie de haute qualité en ajoutant des étiquettes de propriété et de contrôle aux fichiers couramment utilisés dans la numérisation, l'impression et l'archivage.
+
+L'automatisation est particulièrement précieuse pour le filigrane TIFF en raison de la taille importante des fichiers et des processus en lots, permettant une manipulation cohérente à travers les pipelines d'imagerie de documents.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Marques de propriété de documents numérisés**  
+
+&nbsp; Appliquer des filigranes aux TIFF numérisés pour préserver la provenance dans les archives d'imagerie.
+
+
+
+* **Tampons de preuve de flux de travail d'impression**  
+
+&nbsp; Ajouter des filigranes "PREUVE" aux fichiers TIFF de prépresse pour une révision contrôlée.
+
+
+
+* **Étiquettes de conformité pour les référentiels d'imagerie**  
+
+&nbsp; Apposer des images restreintes avec du texte de classification pour soutenir les politiques de manipulation.
+
+
+
+* **Traçabilité de la conversion d'archive**  
+
+&nbsp; Filigraner les TIFF avant la conversion vers d'autres formats pour conserver l'identité source.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Filigranage automatique de la sortie du scanner**  
+
+&nbsp; Marquer les fichiers TIFF immédiatement après la numérisation en utilisant des dossiers surveillés ou des tâches d'ingestion.
+
+
+
+* **Traitement de TIFF multi-pages**  
+
+&nbsp; Appliquer des filigranes cohérents sur les pages des fichiers TIFF multi-pages de manière programmable.
+
+
+
+* **Mise à l'échelle des filigranes en fonction de la résolution**  
+
+&nbsp; Ajuster la taille du filigrane en fonction du DPI pour maintenir une apparence d'impression physique cohérente.
+
+
+
+* **Flux de travail automatisé de conservation et d'audit**  
+
+&nbsp; Filigraner les images dans le cadre de l'étiquetage automatisé de conservation et des pipelines de révision de conformité.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

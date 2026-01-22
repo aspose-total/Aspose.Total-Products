@@ -72,7 +72,75 @@ Para obter mais detalhes, consulte [Documentação do Produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+O PDF é o formato mais comum para documentos finais e compartilháveis. Proteger PDFs é crucial para controlar o acesso, evitar a cópia e garantir a autenticidade do conteúdo em canais de distribuição digital.
+
+
+
+As APIs do Python tornam possível automatizar a proteção de PDFs, integrando segurança diretamente nos fluxos de geração, aprovação e entrega de documentos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Entrega Segura de Documentos**  
+
+  Proteja PDFs distribuídos para clientes ou partes interessadas.
+
+
+
+* **Aplicação de Conteúdo Somente Leitura**  
+
+  Evite a edição ou cópia de documentos finalizados.
+
+
+
+* **Proteção de Informações Confidenciais**  
+
+  Restrinja o acesso a dados sensíveis dentro de PDFs.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Bloqueio Automatizado de PDFs**  
+
+  Aplique proteção imediatamente após a geração do PDF.
+
+
+
+* **Atribuição Dinâmica de Senhas**  
+
+  Gere e aplique senhas programaticamente por destinatário.
+
+
+
+* **Segurança Orientada pela Conformidade**  
+
+  Aplique a proteção de PDFs automaticamente para atender às necessidades regulatórias.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

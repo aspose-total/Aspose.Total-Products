@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การผสานไฟล์ Excel ในรูปแบบไบนารีโดยใช้ Python APIs ช่วยในการจัดการชุดข้อมูลขนาดใหญ่อย่างมีประสิทธิภาพพร้อมลดขนาดไฟล์ รูปแบบนี้ถูกปรับแต่งเพื่อใช้งานในสภาพแวดล้อมที่ต้องการประสิทธิภาพสูงในการจัดการข้อมูลปริมาณมาก
+
+
+
+การอัตโนมัติรอบ XLSB merging สนับสนุนการทำงานของการวิเคราะห์ที่มีขนาดใหญ่พร้อมรักษาความเร็วและประสิทธิภาพ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* **การรวมข้อมูลปริมาณมาก (XLSB)**  
+
+&nbsp; ผสานสเปรดชีตไบนารีขนาดใหญ่เข้าด้วยกันในสมุดงานวิเคราะห์เดียว
+
+
+
+* **รายงานที่ต้องการประสิทธิภาพ (XLSB)**  
+
+&nbsp; รวมไฟล์ XLSB ที่ถูกปรับแต่งเพื่อการโหลดและประมวลผลอย่างรวดเร็ว
+
+
+
+* **การจัดเก็บข้อมูลขององค์กร (XLSB)**  
+
+&nbsp; รวบรวมชุดข้อมูล XLSB สำหรับการวิเคราะห์ด้านล่าง
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การประมวลผลไฟล์ขนาดใหญ่โดยอัตโนมัติ (XLSB)**  
+
+&nbsp; ระบบผสานไฟล์ XLSB ขณะการนำเข้าข้อมูลปริมาณมาก
+
+
+
+* **การผสานในกระบวนการวิเคราะห์ (XLSB)**  
+
+&nbsp; การผสาน XLSB เกิดขึ้นเป็นส่วนหนึ่งของกระบวนการวิเคราะห์อัตโนมัติ
+
+
+
+* **งาน Batch ที่ประหยัดทรัพยากร (XLSB)**  
+
+&nbsp; สเปรดชีตไบนารีถูกผสานในกระบวนการ Batch ตามกำหนดเวลา
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

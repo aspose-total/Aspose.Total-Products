@@ -78,7 +78,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusione di fogli di calcolo OpenDocument utilizzando le API di Python supporta gli standard aperti e i flussi di lavoro dati multi-piattaforma. Questo è ideale per ambienti che si basano su strumenti per ufficio open source.
+
+
+
+L'automazione attorno alla fusione di ODS garantisce l'interoperabilità mantenendo l'integrità dei dati strutturati.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* **Consolidamento di Fogli di Calcolo Multi-Piattaforma (ODS)**  
+
+&nbsp; Unisci file ODS creati in diverse suite per ufficio.
+
+
+
+* **Aggregazione Dati Standard Aperti (ODS)**  
+
+&nbsp; Combina fogli di calcolo ODS per un'analisi unificata.
+
+
+
+* **Compilazione Collaborativa dei Dati (ODS)**  
+
+&nbsp; Unisci file ODS da contributori distribuiti.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Automazione della Pipeline Dati Aperti (ODS)**  
+
+&nbsp; I sistemi uniscono file ODS senza dipendenze proprietarie.
+
+
+
+* **Compilazione Programmata dei Fogli di Calcolo (ODS)**  
+
+&nbsp; La fusione di ODS viene eseguita come parte di attività ricorrenti sul backend.
+
+
+
+* **Pipeline di Reporting Interoperabili (ODS)**  
+
+&nbsp; I file ODS vengono uniti dinamicamente nei flussi di lavoro dati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

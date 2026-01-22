@@ -90,7 +90,73 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Prohlížení souborů DOT pomocí Python API umožňuje inspekci šablon dokumentů Word používaných jako základ pro standardizované vytváření obsahu.
+
+To umožňuje automatizovanou validaci a správu pracovních postupů dokumentů řízených šablonou.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Hodnocení struktury šablony**  
+
+&nbsp; Zobrazte předdefinované styly a zástupné symboly vložené do šablon Wordu.
+
+
+
+* **Vynucování standardizace**  
+
+&nbsp; Inspekce šablon pro zajištění formátování a konzistence rozložení.
+
+
+
+* **Předimplementační validace**  
+
+&nbsp; Zkontrolujte šablony před jejich distribucí napříč systémy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Kontroly shody šablony**  
+
+&nbsp; Pythonové pracovní postupy vykreslují soubory DOT k validaci pravidel formátování.
+
+
+
+* **Automatizované auditace šablon**  
+
+&nbsp; Šablony jsou pravidelně kontrolovány pro detekci neautorizovaných změn.
+
+
+
+* **Generování dokumentů v rourách**  
+
+&nbsp; Prohlížení zajišťuje, že šablony jsou připraveny pro automatizované vytváření dokumentů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

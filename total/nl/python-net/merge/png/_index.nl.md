@@ -85,7 +85,75 @@ Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het samenvoegen van PNG-afbeeldingen met behulp van Python API's maakt verliesvrije beeldcompositie mogelijk met ondersteuning voor transparantie. Dit is ideaal voor ontwerpassets, UI-elementen en gelaagde visuals.
+
+
+
+Automatisering zorgt voor consistente beeldassemblage met behoud van visuele integriteit.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Transparante Asset Assemblage (PNG)**  
+
+  Merge PNG-afbeeldingen met behoud van alfakanalen.
+
+
+
+* **Samenstelling van UI-elementen (PNG)**  
+
+  Combineer interfacegraphics in één afbeelding.
+
+
+
+* **Consolidatie van Ontwerpbronnen (PNG)**  
+
+  Aggregeer PNG-assets voor hergebruik.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Geautomatiseerde Ontwerppipelines (PNG)**  
+
+  Systemen voegen PNG-assets samen tijdens het buildproces.
+
+
+
+* **Gelaagde Beeldgeneratie (PNG)**  
+
+  Het samenvoegen van PNG wordt aangestuurd door programmatische regels.
+
+
+
+* **Schalende Visuele Asset Automatisering (PNG)**  
+
+  Geautomatiseerde pipelines genereren samengevoegde PNG-visuals.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

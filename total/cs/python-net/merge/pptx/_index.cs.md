@@ -79,7 +79,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Slučování prezentací PPTX pomocí Python API je nejběžnějším přístupem k moderní kompozici snímků. Umožňuje přesnou kontrolu nad pořadím snímků, rozložením a konzistencí obsahu.
+
+
+
+Tato schopnost se čistě integruje s automatizovanými obsahovými motory a systémy pro generování zpráv.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Vytváření vícesekčního balíčku (PPTX)**  
+
+&nbsp; Slučujte soubory PPTX reprezentující sekce do jednoho balíčku.
+
+
+
+* **Spolupracující integrace snímků (PPTX)**  
+
+&nbsp; Kombinujte snímky PPTX vytvořené různými přispěvateli.
+
+
+
+* **Sestavování opakovaně použitelných modulárních snímků (PPTX)**  
+
+&nbsp; Sestavujte modulární snímky PPTX do přizpůsobených prezentací.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Generování dynamického balíčku snímků (PPTX)**  
+
+&nbsp; Systémy slučují soubory PPTX na základě vstupů za běhu.
+
+
+
+* **Prezentační potrubí CI/CD (PPTX)**  
+
+&nbsp; Slučování PPTX je automatizováno během fází sestavení nebo uvolnění.
+
+
+
+* **Škálovatelné publikování prezentací (PPTX)**  
+
+&nbsp; Programaticky jsou generovány vysoké objemy balíčků PPTX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -146,7 +214,7 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -72,7 +72,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Το PDF είναι το πιο κοινό μορφότυπο για τελικά και κοινοποιήσιμα έγγραφα. Η προστασία των PDF είναι κρίσιμη για τον έλεγχο της πρόσβασης, την αποτροπή αντιγραφής και τη διασφάλιση της αυθεντικότητας του περιεχομένου σε ψηφιακά κανάλια διανομής.
+
+
+
+Οι Python APIs καθιστούν δυνατή την αυτοματοποίηση της προστασίας των PDF, ενσωματώνοντας την ασφάλεια απευθείας στη δημιουργία εγγράφων, στην έγκριση και στην παράδοση.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* **Ασφαλής Παράδοση Εγγράφων**  
+
+&nbsp; Προστατεύστε τα PDF που διανέμονται σε πελάτες ή ενδιαφερόμενα μέρη.
+
+
+
+* **Επιβολή Περιεχομένου Μόνο για Ανάγνωση**  
+
+&nbsp; Αποτρέψτε την επεξεργασία ή αντιγραφή των τελικών εγγράφων.
+
+
+
+* **Προστασία Εμπιστευτικών Πληροφοριών**  
+
+&nbsp; Περιορίστε την πρόσβαση σε ευαίσθητα δεδομένα εντός των PDF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* **Αυτόματο Κλείδωμα PDF**  
+
+&nbsp; Εφαρμόστε προστασία αμέσως μετά τη δημιουργία του PDF.
+
+
+
+* **Δυναμική Ανάθεση Κωδικών**  
+
+&nbsp; Δημιουργήστε και εφαρμόστε κωδικούς προγραμματιστικά ανά αποδέκτη.
+
+
+
+* **Ασφάλεια με Επίκεντρο την Συμμόρφωση**  
+
+&nbsp; Επιβάλετε αυτόματα την προστασία των PDF για να ικανοποιήσετε τις κανονιστικές απαιτήσεις.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -104,7 +104,77 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การวิเคราะห์เอกสาร **RTF** ด้วย Python APIs ช่วยในการสกัดข้อมูลจากรูปแบบข้อความที่เป็นเอกสารที่เบา ที่มีการสนับสนุนอย่างกว้างขวางและรักษาการจัดรูปแบบพื้นฐาน  RTF มักถูกใช้สำหรับความสามารถในการทำงานร่วมกันและการแลกเปลี่ยนข้อมูลเก่า
+
+
+
+การวิเคราะห์ RTF ที่เป็นมิตรกับการอัตโนมัติ สนับสนุนการสกัดข้อความอย่างรวดเร็วโดยมีความซับซ้อนของโครงสร้างต่ำ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **การสกัดเอกสารที่มีน้ำหนักเบา**  
+
+&nbsp; ดึงข้อความจากเอกสารที่จัดรูปแบบอย่างง่าย
+
+
+
+* **ความสามารถในการทำงานร่วมกันกับระบบเก่า**  
+
+&nbsp; ประมวลผลไฟล์ที่สร้างขึ้นโดยตัวแก้ไขที่เก่าหรือที่มีขนาดเล็ก
+
+
+
+* **งานปรับปรุงข้อความ**  
+
+&nbsp; แปลง RTF เป็นรูปแบบข้อความที่สะอาด
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+
+
+* **การประมวลผลข้อความปริมาณมาก**  
+
+&nbsp; ทำให้การสกัดข้อมูลจากชุดข้อมูล RTF ขนาดใหญ่เป็นอัตโนมัติ
+
+
+
+* **การสร้างกระบวนการทำงานที่เรียบง่าย**  
+
+&nbsp; ลบการจัดรูปแบบในขณะที่รักษาเนื้อหาหลัก
+
+
+
+* **การแลกเปลี่ยนข้อมูลระบบต่อระบบ**  
+
+&nbsp; ทำให้เป็นไปได้ในการรับข้อมูลจาก RTF โดยการเข้ารหัสโปรแกรม
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

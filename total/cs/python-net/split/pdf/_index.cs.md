@@ -79,7 +79,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PDF soubory jsou široce používány pro dokumenty s pevným rozložením, kde je obsah distribuován napříč stránkami. Rozdělení PDF umožňuje přístup na úrovni stránky nebo sekce bez modifikace původního souboru.
+
+
+
+Rozdělování PDF pomocí Pythonu zlepšuje automatizaci tím, že umožňuje zpracování ve velkém měřítku, selektivní extrakci a integraci s dokumentačními toky.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Extrakce na úrovni stránky**  
+
+&nbsp; Izolace konkrétních stránek pro kontrolu nebo distribuci.
+
+
+
+* **Segmentace dokumentu**  
+
+&nbsp; Rozdělení velkých PDF do logických sekcí.
+
+
+
+* **Zpracování souladu a auditu**  
+
+&nbsp; Extrahování relevantních částí pro ověření.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Dávkové zpracování PDF toků**  
+
+&nbsp; Tisíce PDF souborů jsou automaticky rozdělovány.
+
+
+
+* **Rozdělení stránek na základě pravidel**  
+
+&nbsp; Pythonová logika rozděluje PDF pomocí pravidel stránek.
+
+
+
+* **Automatizovaná distribuce obsahu**  
+
+&nbsp; Extrahované PDF jsou směrovány do cílových systémů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

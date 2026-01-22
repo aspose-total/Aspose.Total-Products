@@ -79,7 +79,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PDF dosyaları, içeriğin sayfalara dağıtıldığı sabit düzen belgeleri için geniş bir şekilde kullanılmaktadır. PDF'leri bölmek, orijinal dosyayı değiştirmeden sayfa düzeyinde veya bölüm düzeyinde erişim sağlar.
+
+
+
+Python destekli PDF bölme, büyük ölçekli işlemleri, seçici çıkarma işlemlerini ve belge akışlarıyla entegrasyonu geliştirerek otomasyonu artırır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Sayfa Düzeyinde Çıkarma**  
+
+&nbsp; İnceleme veya dağıtım için belirli sayfaları izole edin.
+
+
+
+* **Belge Bölümleme**  
+
+&nbsp; Büyük PDF'leri mantıksal bölümlere ayırın.
+
+
+
+* **Uyumluluk ve Denetim İşlemleri**  
+
+&nbsp; Doğrulama için ilgili bölümleri çıkarın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu PDF İşleme Akışları**  
+
+&nbsp; Binlerce PDF otomatik olarak bölünür.
+
+
+
+* **Kural Tabanlı Sayfa Ayırma**  
+
+&nbsp; Python mantığı, sayfa kurallarını kullanarak PDF'leri böler.
+
+
+
+* **Otomatik İçerik Dağıtımı**  
+
+&nbsp; Çıkarılan PDF'ler hedef sistemlere yönlendirilir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

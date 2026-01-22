@@ -104,7 +104,77 @@ OTT パーサー アプリまたはユーティリティを開発する必要が
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用して**OTTドキュメント**を解析すると、一貫したドキュメント作成のために設計されたオープンテキストテンプレートから構造化された抽出が可能になります。OTTファイルは、再利用可能なレイアウト、スタイル、プレースホルダを定義するためにオープン標準環境で一般的に使用されます。
+
+
+
+OTT解析を自動化システムに統合することで、組織は標準化されたテンプレートとオープンフォーマットに厳密に準拠しながら、規模化されたドキュメントの生成、検証、管理が可能になります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **テンプレート構造の抽出**  
+
+&nbsp; OTTテンプレート内の事前定義されたセクション、スタイル、プレースホルダを特定します。
+
+
+
+* **標準化されたドキュメント作成**  
+
+&nbsp; 承認されたオープンテンプレートに基づいて文書を一貫して生成します。
+
+
+
+* **オープンフォーマットのガバナンス**  
+
+&nbsp; 組織の標準に準拠した文書をプロプライエタリなロックインなしで確保します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **ダイナミックドキュメント生成**  
+
+&nbsp; 構造化されたデータでOTTテンプレートを自動的に埋めます。
+
+
+
+* **テンプレートコンプライアンスの検証**  
+
+&nbsp; 承認されたテンプレート構造からの逸脱を検出します。
+
+
+
+* **スケーラブルなオープンドキュメントパイプライン**  
+
+&nbsp; オープンスタンダードを使用して大量の文書を生成することが可能になります。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

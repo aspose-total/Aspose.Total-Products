@@ -75,7 +75,93 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Ekstraksi metadata dokumen untuk file **ODP** melalui API Python memungkinkan sistem untuk membaca atribut presentasi dan properti tersemat untuk slide decks—mendukung tata kelola, penemuan, dan manajemen siklus hidup tanpa membuka file dalam GUI. Hal ini penting bagi tim yang mengelola volume besar presentasi pelatihan, penjualan, atau operasional.
+
+
+
+Dalam alur kerja otomatis, metadata ODP dapat memicu pengindeksan, klasifikasi, dan penerbitan terkontrol—membuat perpustakaan slide lebih mudah untuk dipelihara, dicari, dan diintegrasikan ke dalam sistem distribusi konten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Pengindeksan Perpustakaan Presentasi**
+
+  Ekstrak metadata ODP untuk membangun katalog yang dapat dicari dari slide decks berdasarkan penulis, topik, dan waktu pembaruan.
+
+
+
+* **Pengecekan Ketersediaan Konten Pelatihan**
+
+  Gunakan timestamp yang dimodifikasi untuk mengidentifikasi slide decks usang yang memerlukan siklus pembaruan.
+
+
+
+* **Klasifikasi Berbasis Departemen**
+
+  Normalisasi properti metadata ke dalam kategori terstruktur untuk organisasi yang konsisten dan kontrol akses.
+
+
+
+* **Pelaporan Tata Kelola Aset**
+
+  Gabungkan metadata ODP untuk mengukur kesiapan penggunaan, celah cakupan, dan kepemilikan pemeliharaan.
+
+
+
+* **Persiapan Migrasi Massal**
+
+  Audit properti ODP sebelum migrasi ke lingkungan penyimpanan atau penerbitan baru.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Penerimaan Slide Deck Otomatis**
+
+  Saat diunggah, ekstrak metadata ODP dan tetapkan deck ke bagian repositori yang benar secara otomatis.
+
+
+
+* **Pemberitahuan Kebasian Otomatis**
+
+  Pemicu pemberitahuan ketika slide decks ODP melebihi ambang batas pembaruan atau tidak memiliki bidang kepemilikan yang bertanggung jawab.
+
+
+
+* **Aturan Penerbitan yang Didorong Metadata**
+
+  Terbitkan atau batasi slide decks ODP berdasarkan bendera metadata yang menunjukkan kerahasiaan atau penggunaan internal saja.
+
+
+
+* **Pekerjaan Audit dan Pelaporan Massal**
+
+  Jalankan pekerjaan terjadwal yang mengekspor ringkasan metadata ODP untuk audit tata kelola dan operasional.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

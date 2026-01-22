@@ -100,7 +100,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การวิเคราะห์ **งานนำเสนอ PPT** โดยใช้ Python APIs ช่วยในการสกัดข้อความในสไลด์ บันทึกข้อความของผู้พูด และองค์ประกอบโครงสร้างจากไฟล์งานนำเสนอ ซึ่งทำให้ความรู้ที่อ้างอิงจากสไลด์เข้าถึงได้โดยระบบอัตโนมัติ
+
+
+
+ในบริบทของการอัตโนมัติ การวิเคราะห์งานนำเสนอสนับสนุนการนำเนื้อหากลับมาใช้ซ้ำ สรุป และผสมผสานเข้ากับเอกสารหรือขั้นตอนการวิเคราะข้อมูล
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **สกัดเนื้อหาจากสไลด์**  
+
+&nbsp; ดึงข้อมูลชื่อเรื่อง ข้อความหัวข้อ และบันทึกของผู้พูด
+
+
+
+* **การวิเคราะห์งานนำเสนอเพื่อการเก็บถาวร**  
+
+&nbsp; ทำให้งานนำเสนอย้อนหลังสามารถค้นหาและวิเคราะห์ได้
+
+
+
+* **กระบวนการการใช้เนื้อหาใหม่**  
+
+&nbsp; แปลงเนื้อหางานนำเสนอเป็นรูปแบบเนื้อหาอื่น ๆ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **สรุปสไลด์โดยอัตโนมัติ**  
+
+&nbsp; สร้างสรุปสั้น ๆ จากเนื้อหาสไลด์ที่ถูกสกัด
+
+
+
+* **การเก็บข้อมูลฐานความรู้**  
+
+&nbsp; นำข้อมูลงานนำเสนอเข้าสู่คลังข้อมูลโครงสร้าง
+
+
+
+* **การอัตโนมัติเปรียบเทียบเวอร์ชัน**  
+
+&nbsp; ตรวจจับการเปลี่ยนแปลงระหว่างเวอร์ชันงานนำเสนอที่แตกต่างกัน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

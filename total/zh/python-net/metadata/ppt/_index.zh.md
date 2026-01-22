@@ -75,7 +75,93 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+通过Python API提取**PPT**文件的文档元数据，可以通过阅读属性（如作者、时间戳和描述性字段）来管理传统演示资产。这支持仍在维护旧幻灯片库的组织的治理和可发现性。
+
+
+
+在自动化工作流中，PPT元数据可以支持分类、索引和生命周期控制，从而使大量的传统演示文稿能够以最少的人工工作进行组织、审计和迁移。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **传统幻灯片库审计**
+
+  提取PPT元数据以了解存档幻灯片组中的年龄、所有权和维护差距。
+
+
+
+* **迁移准备评估**
+
+  使用元数据优先考虑哪些PPT幻灯片应该首先转换或更新。
+
+
+
+* **基于所有权的维护路由**
+
+  从作者/编辑字段中识别维护者，以便高效地路由更新请求。
+
+
+
+* **内容组合分析**
+
+  聚合PPT元数据以衡量库覆盖范围、陈旧程度和运营风险。
+
+
+
+* **重复资产检测**
+
+  使用元数据模式检测可能的重复项，减少库中的混乱。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **传统幻灯片组摄入管道**
+
+  自动摄入PPT文件，提取元数据，并将其分配给具有标准字段的库存系统。
+
+
+
+* **转换队列自动化**
+
+  根据元数据的年龄和使用分类规则，将PPT幻灯片添加到转换队列。
+
+
+
+* **陈旧幻灯片通知工作流**
+
+  当PPT元数据表明长时间没有更新或缺少所有权字段时触发警报。
+
+
+
+* **自动化库清理作业**
+
+  定期扫描PPT存储库，并根据元数据识别的重复项或未管理的资产对其进行隔离。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

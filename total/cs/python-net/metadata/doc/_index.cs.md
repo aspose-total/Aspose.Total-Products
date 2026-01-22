@@ -98,7 +98,93 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Extrakce metadat dokumentů ve formátu **DOC** pomocí Python API umožňuje systémům číst a interpretovat základní atributy souborů - jako je autor, čas vytvoření, čas poslední úpravy, počet revizí a vložené vlastnosti - bez ruční kontroly. To je důležité pro správu, vyhledávání, auditování a kontrolu životního cyklu obsahu v dokumentových pracovních postupech.
+
+
+
+Když jsou integrovány do automatizačních potrubí, metadat DOC se stávají spolehlivým signálem pro směrování, kontrolu souladu, indexaci a hromadné zpracování - podporují škálovatelné operace s dokumenty, konzistentní klasifikaci a následné integrace se skladováním, vyhledáváním a vrstvami pro hlášení.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Inventář starých dokumentů**
+
+  Extrahujte metadata z archivů DOC pro vytvoření strukturovaného indexu pro objevování, odstranění duplicit a plánování životního cyklu.
+
+
+
+* **Ověření časového razítka souladu**
+
+  Použijte pole vytvořeno/upraveno k ověření pravidel uchovávání a detekci anomálií v regulované dokumentaci.
+
+
+
+* **Mapování vlastnictví dokumentů**
+
+  Čtěte vlastnosti autora a posledního editora k mapování vlastnictví dokumentů pro přiřazení k revizím a řízení přístupu.
+
+
+
+* **Hromadné kategorizace pro vyhledávání**
+
+  Převeďte vložené vlastnosti do normalizovaných značek pro konzistentní filtrování a interní obohacení vyhledávání.
+
+
+
+* **Signály sledovatelnosti změn**
+
+  Zachyťte pole související s revizemi k podpoře sledovatelnosti v redakčních a schvalovacích pracovních postupech.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* **Brána pro příjem archivu**
+
+  Automaticky přijímejte nebo umisťujte DOC soubory na základě chybějících polí autora, podezřelých časových razítek nebo neplatných vzorů metadat.
+
+
+
+* **Synchronizace metadat do indexu**
+
+  Při nahrávání extrahujte metadat DOC a vložte je do vyhledávacího indexu, aby výsledky zůstaly aktuální bez manuálního katalogizování.
+
+
+
+* **Pravidla směrování na základě politiky**
+
+  Směrujte DOC soubory do konkrétních front, když metadata naznačuje důvěrný obsah, zastaralé verze nebo neznámé vlastnictví.
+
+
+
+* **Plánované auditace metadat**
+
+  Spusťte noční skeny, které detekují odchylky metadat a generují výjimečné zprávy pro operační týmy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

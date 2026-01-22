@@ -76,7 +76,75 @@ Có các tùy chọn thay thế để cài đặt "Aspose.Slides for Python via 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Tìm kiếm tệp **ODP** bằng Python APIs cho phép truy cập cấu trúc vào tài liệu trình bày theo tiêu chuẩn mở thường được sử dụng trong môi trường hợp tác và mã nguồn mở. Tìm kiếm theo cách lập trình cho phép hệ thống trích xuất văn bản trang, tiêu đề và siêu dữ liệu mà không cần xem xét thủ công.
+
+
+
+Khi tự động hóa, việc tìm kiếm tài liệu ODP cải thiện khả năng khám phá, hỗ trợ quản lý nội dung có khả năng mở rộng và tích hợp một cách mượt mà với các hệ thống xử lý dữ liệu hiện đại và tự động hóa quy trình.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tìm Kiếm Văn Bản Trang ODP**  
+
+&nbsp; Định vị từ khóa và cụm từ trên các trang trình bày định dạng mở.
+
+
+
+* **Đánh Giá Nội Dung Trình Bày Mở**  
+
+&nbsp; Cho phép kiểm tra nhanh chóng các bộ trình bày được chia sẻ hoặc hợp tác.
+
+
+
+* **Khám Phá Siêu Dữ Liệu ODP**  
+
+&nbsp; Trích xuất các thuộc tính tài liệu để phân loại và lập chỉ mục.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Chỉ Mục ODP Tự Động**  
+
+&nbsp; Dịch vụ Python liên tục chỉ mục các tệp ODP để truy cập tìm kiếm.
+
+
+
+* **Giám Sát Nội Dung ODP**  
+
+&nbsp; Quét theo cách lập trình phát hiện sự thay đổi hoặc cập nhật trong các bản trình bày.
+
+
+
+* **Tích Hợp Quy Trình ODP**  
+
+&nbsp; Nội dung trích xuất cung cấp cho các đường ống xuất bản hoặc xem xét tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

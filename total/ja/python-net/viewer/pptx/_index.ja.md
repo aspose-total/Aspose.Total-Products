@@ -89,7 +89,73 @@ PPTX ビューア アプリまたはユーティリティを開発する必要�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用してPowerPoint PPTXプレゼンテーションを表示すると、複数の形式でスライドベースのドキュメントに統一アクセスできます。
+
+これにより、自動化されたレビューやプレゼンテーション中心のワークフローがサポートされます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **統一されたスライドレビュー**
+
+&nbsp; バリアントに関係なくプレゼンテーションを表示します。
+
+
+
+* **プレゼンテーションの検証**
+
+&nbsp; スライドのコンテンツとレイアウトを検査します。
+
+
+
+* **ワークフローの統合**
+
+&nbsp; 表示を自動システムに組み込みます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **自動レビューパイプライン**
+
+&nbsp; 検証中にプレゼンテーションがレンダリングされます。
+
+
+
+* **プレビューサービス**
+
+&nbsp; ステークホルダー向けにスライドが動的に表示されます。
+
+
+
+* **バッチプレゼンテーション操作**
+
+&nbsp; 複数のデッキがプログラムで表示されます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

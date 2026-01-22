@@ -82,7 +82,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+通过Python API查看SVG允许以精确和清晰的方式呈现可伸缩的基于矢量的图形。
+
+这对依赖于与分辨率无关的视觉效果的系统非常有价值。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **矢量图形检查**  
+
+  &nbsp; 查看图形而无损失质量。
+
+
+
+* **图表验证**  
+
+  &nbsp; 检查技术或示意图形。
+
+
+
+* **设计资产审查**  
+
+  &nbsp; 验证应用程序或文档中使用的视觉资产。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化图表流水线**  
+
+  &nbsp; Python脚本在文档工作流程中呈现SVG。
+
+
+
+* **可伸缩预览系统**  
+
+  &nbsp; 矢量图形以不同尺寸动态显示。
+
+
+
+* **视觉一致性检查**  
+
+  &nbsp; 自动查看确保资产正确呈现。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -77,7 +77,75 @@ POWERPOINT 編集アプリまたはユーティリティを開発する必要が
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用した文書の編集は、戦略的または機密情報を含むことが多いスライドベースのコンテンツを安全に取り扱うことを可能にし、プレゼンテーション中のデータの誤公開を防ぎます。
+
+
+
+自動化により、PowerPointの編集はプレゼンテーションライフサイクル管理にシームレスに適合する繰り返し可能なプロセスとなります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **エグゼクティブプレゼンテーションのセキュリティ**  
+
+&nbsp; スライドを広く共有する前に機密情報を削除します。
+
+
+
+* **顧客向けスライドの準備**  
+
+&nbsp; プレゼンテーションから内部メモやデータを取り除きます。
+
+
+
+* **バージョン管理された編集**  
+
+&nbsp; 異なる観客向けにクリーンなプレゼンテーションバリアントを維持します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **スライドコンテンツのスキャン**  
+
+&nbsp; すべてのスライドを自動的に検査および編集します。
+
+
+
+* **プレゼンテーション承認ワークフロー**  
+
+&nbsp; プレゼンテーションが承認されるか共有される前に編集を強制します。
+
+
+
+* **自動スライド再生成**  
+
+&nbsp; ソースデータからダイナミックにプレゼンテーションを編集および再構築します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,75 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A **PPTX** fájlok keresése Python API-k segítségével megbízható hozzáférést biztosít a modern prezentációs dokumentumokhoz, amelyek strukturált diavetítési elrendezéseket, szövegblokkokat és előadói jegyzeteket tartalmaznak. A PPTX fájlokat széles körben használják jelentéskészítéshez, képzéshez és döntéshozatali tartalmakhoz.
+
+
+
+Az automatizált PPTX keresés támogatja a skálázható diaelemzést, az intelligens visszakeresést és a zökkenőmentes integrációt a tudás- és tartalomkezelési rendszerekkel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Strukturált dia keresés**  
+
+&nbsp; Keresés a címekben, felsorolásokban és jegyzetekben a PPTX fájlokban.
+
+
+
+* **Prezentációs tartalom elemzése**  
+
+&nbsp; Kulcsfontosságú témákat és szakaszokat azonosít programozott módon.
+
+
+
+* **Újrafelhasználható dia felfedezése**  
+
+&nbsp; Az újrafelhasználható diákat lokalizálja jelentésekhez vagy bemutatókhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Folyamatos PPTX indexfrissítések**  
+
+&nbsp; Python szolgáltatások figyelik és indexelik az új PPTX fájlokat.
+
+
+
+* **Automatizált dia osztályozás**  
+
+&nbsp; A diák kategorizálása az extrahált tartalom alapján.
+
+
+
+* **PPTX tartalomcsatornák**  
+
+&nbsp; A keresési eredmények táplálják a vezérlőpultokat és az automatizálási munkafolyamatokat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

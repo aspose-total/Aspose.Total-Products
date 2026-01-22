@@ -89,7 +89,73 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Melihat presentasi PowerPoint PPTX dengan API Python memberikan akses yang terpadu ke dokumen berbasis slide dalam berbagai format.
+
+Ini mendukung alur kerja otomatis dan berpusat pada presentasi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Ulasan Slide yang Terpadu**  
+
+  Lihat presentasi tanpa memperdulikan varian.
+
+
+
+* **Validasi Presentasi**  
+
+  Periksa konten dan tata letak slide.
+
+
+
+* **Integrasi Alur Kerja**  
+
+  Tanamkan tampilan ke dalam sistem otomatis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pipa Ulasan Otomatis**  
+
+  Presentasi dirender selama validasi.
+
+
+
+* **Layanan Pratinjau**  
+
+  Slide ditampilkan secara dinamis untuk pemangku kepentingan.
+
+
+
+* **Operasi Presentasi Batch**  
+
+  Beberapa dek ditampilkan secara berprogram.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

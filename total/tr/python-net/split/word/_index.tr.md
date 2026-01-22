@@ -79,7 +79,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Word belgeleri, iş ve teknik iş akışlarında kullanılan çeşitli yapılandırılmış metin formatlarını kapsar. Word belgelerini bölmek, ilgili içerik bölümlerine odaklanmış erişim sağlar.
+
+
+
+Python tabanlı bölme, sistemler arasında tutarlı, ölçeklenebilir belge işleme sağlayarak otomasyonu destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Bölüm Tabanlı İçerik İşleme**  
+
+  Handle chapters or sections independently.
+
+
+
+* **Büyük Belge Optimizasyonu**  
+
+  Improve performance by splitting oversized files.
+
+
+
+* **İçerik Yönetişimi**  
+
+  Apply rules to individual document parts.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Birleşik Belge İşleme Boruları**  
+
+  Word belgeleri otomatik olarak bölünür ve işlenir.
+
+
+
+* **Otomatik İçerik Yönlendirme**  
+
+  Sections are sent to different systems based on logic.
+
+
+
+* **Ölçeklenebilir Bilgi Çıkarma**  
+
+  Extracted sections feed analytics or AI workflows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

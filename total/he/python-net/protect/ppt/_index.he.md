@@ -71,7 +71,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+קבצי PPT מייצגים פורמטים ישנים יותר של PowerPoint שעדיין בשימוש בסביבות רבות. הגנה על קבצי PPT מבטיחה שההצגות הישנות נשמרות בצורה מאובטחת ועומדות בתקנים.
+
+
+
+ממשקי Python מאפשרים הגנה אוטומטית על קבצי PPT, מאפשרים לתוכן הישן להתאים לתקני אבטחה מודרניים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* **הגנת שקופיות ישנות**  
+
+&nbsp; מאבטח קבצי PPT ישנים משינויים לא מורשים.
+
+
+
+* **שמירת תוכן היסטורי**  
+
+&nbsp; שמירה על תקינות ההצגות המאורכות.
+
+
+
+* **הפצה מבוקרת**  
+
+&nbsp; הגבלת עריכה בעת שיתוף שקופיות ההצגה הישנות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **הגנת קבצי שקופיות ישנים בצורה גורמת**  
+
+&nbsp; מאבטח אוטומטית אוספים גדולים של קבצי PPT.
+
+
+
+* **אבטחת זמן המיגרציה**  
+
+&nbsp; החלת הגנה במהלך מעברי מערכת ישנים.
+
+
+
+* **הגבלת גישה אוטומטית**  
+
+&nbsp; יישום הגבלות על קבצי PPT באופן תכנותי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

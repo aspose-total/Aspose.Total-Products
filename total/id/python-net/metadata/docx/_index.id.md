@@ -98,7 +98,93 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Ekstraksi metadata dokumen untuk file **DOCX** melalui API Python memungkinkan akses terstruktur ke properti dokumen Word modern—mendukung pengindeksan, audit, dan operasi konten yang dapat diandalkan tanpa tinjauan manual. Hal ini meningkatkan visibilitas terhadap rincian siklus hidup dokumen seperti penulis, suntingan, dan deskriptor tersemat.
+
+
+
+Dalam otomatisasi, metadata DOCX menjadi lapisan kontrol yang efisien untuk routing dan validasi: pipeline dapat menegakkan standar, mengisi katalog, dan terintegrasi dengan pencarian, analitika, dan alat governance secara besar-besaran.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Pelestarian Indeks Pencarian**
+
+  Mengonversi metadata DOCX menjadi bidang yang dinormalisasi untuk meningkatkan penyaringan, peringkat, dan penemuan.
+
+
+
+* **Kepemilikan dan Penugasan Ulasan**
+
+  Gunakan metadata penulis dan terakhir diubah untuk secara otomatis menugaskan pemeriksa dan mempertahankan akuntabilitas.
+
+
+
+* **Pemantauan Kebersihan Versi**
+
+  Mendeteksi dokumen usang dengan membandingkan waktu terakhir diubah dengan ambang batas kebijakan.
+
+
+
+* **Validasi Kelengkapan Metadata**
+
+  Pastikan properti yang diperlukan (judul, subjek, kata kunci) ada sebelum publikasi atau distribusi.
+
+
+
+* **Pelaporan Tingkat Portofolio**
+
+  Menggabungkan metadata DOCX di seluruh repositori untuk menghasilkan wawasan cakupan, usia, dan aktivitas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Validasi Metadata Saat Unggah**
+
+  Saat diunggah, tolak atau tandai file DOCX yang tidak lengkap propertinya dan beri tahu pengunggah secara otomatis.
+
+
+
+* **Pemberian Tag dan Kategorisasi Otomatis**
+
+  Gunakan kata kunci DOCX dan bidang kustom untuk menerapkan tag yang konsisten dan aturan routing folder secara programatis.
+
+
+
+* **Pemindaian Kepatuhan Berkelanjutan**
+
+  Jalankan pekerjaan terjadwal yang mengidentifikasi file DOCX yang melanggar batas waktu retensi atau detail kepemilikan yang hilang.
+
+
+
+* **Pipeline Publikasi Berbasis Metadata**
+
+  Ekstrak metadata DOCX untuk mengisi judul halaman, ringkasan, dan entri indeks untuk sistem publikasi otomatis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

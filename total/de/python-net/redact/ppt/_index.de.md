@@ -77,7 +77,75 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Dokumentenredaktion mit Python-APIs für PPT-Dateien unterstützt die sichere Verarbeitung älterer Präsentationsformate, die in Legacy-Systemen häufig vorkommen. Dies gewährleistet, dass sensible Informationen unabhängig vom Dateialter geschützt sind.
+
+
+
+Automatisierte Schwärzung ermöglicht es, PPT-Dateien sicher wiederzuverwenden, zu archivieren oder ohne manuelle Eingriffe zu teilen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Bereinigung älterer Präsentationen**  
+
+&nbsp; Veraltete oder sensible Daten aus älteren PPT-Dateien entfernen.
+
+
+
+* **Archivmodernisierung**  
+
+&nbsp; Historische Präsentationen für sichere Wiederverwendung bereinigen.
+
+
+
+* **Kontrollierte Informationsweitergabe**  
+
+&nbsp; Schwärzte PPT-Dateien für begrenzte Zielgruppen vor.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Legacy-Format-Pipelines**  
+
+&nbsp; PPT-Dateien automatisch neben neueren Formaten verarbeiten.
+
+
+
+* **Musterbasierte Schwärzung**  
+
+&nbsp; Erkennen und Entfernen sensibler Begriffe mithilfe vordefinierter Regeln.
+
+
+
+* **Automatisierte Archivverarbeitung**  
+
+&nbsp; Gesamte Präsentationsarchive programmgesteuert bereinigen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

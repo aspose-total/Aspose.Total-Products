@@ -98,7 +98,93 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+通过Python API提取**DOCX**文件的文档元数据，实现对现代Word文档属性的结构化访问，支持可靠的索引、审计和内容操作，无需手动审核。这提高了对文档生命周期详细信息（如作者、编辑和嵌入式描述符）的可见性。
+
+
+
+在自动化中，DOCX元数据成为路由和验证的高效控制层：流水线可以强制执行标准，填充目录，并与搜索、分析和治理工具集成，实现规模化。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **搜索索引增强**
+
+  将DOCX元数据转换为规范化字段，以增强过滤、排名和发现功能。
+
+
+
+* **所有权和审阅分配**
+
+  使用作者和最后修改的元数据自动分配审阅者，并保持问责制。
+
+
+
+* **版本卫生监控**
+
+  通过将最后修改时间与策略阈值进行比较，检测过时文档。
+
+
+
+* **元数据完整性验证**
+
+  确保在发布或分发之前存在所需属性（标题、主题、关键词）。
+
+
+
+* **组合级别报告**
+
+  聚合跨存储库的DOCX元数据，生成覆盖范围、年龄和活动见解。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **上传时元数据验证**
+
+  在摄入时，拒绝或标记缺少强制属性的DOCX文件，并自动通知上传者。
+
+
+
+* **自动标记和分类**
+
+  使用DOCX关键字和自定义字段，通过程序应用一致的标记和文件夹路由规则。
+
+
+
+* **持续合规扫描**
+
+  运行定时作业，识别违反保留时间限制或缺少所有权详细信息的DOCX文件。
+
+
+
+* **基于元数据的发布流水线**
+
+  提取DOCX元数据以填充页面标题、摘要和索引条目，用于自动发布系统。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

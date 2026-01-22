@@ -100,7 +100,75 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Python via
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Phân tích **các bài thuyết trình PPT** bằng Python APIs cho phép trích xuất văn bản trang, ghi chú và các yếu tố cấu trúc từ tệp thuyết trình. Điều này giúp làm cho kiến thức dựa trên trang trở nên dễ truy cập đối với các hệ thống tự động.
+
+
+
+Trong ngữ cảnh tự động hóa, việc phân tích thuyết trình hỗ trợ việc tái sử dụng nội dung, tóm tắt và tích hợp vào quy trình tài liệu hoặc phân tích.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Trích Xuất Nội Dung Trang**  
+
+  &nbsp; Trích xuất tiêu đề, điểm chấm và ghi chú của người nói.
+
+
+
+* **Phân Tích Lưu Trữ Thuyết Trình**  
+
+  &nbsp; Làm cho các bộ slide lịch sử có thể tìm kiếm và phân tích.
+
+
+
+* **Các Luồng Làm Mới Nội Dung**  
+
+  &nbsp; Chuyển đổi tài liệu thuyết trình thành các định dạng nội dung khác.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Tóm Tắt Tự Động Của Slide**  
+
+  &nbsp; Tạo ra tóm tắt súc tích từ nội dung trang đã được phân tích.
+
+
+
+* **Lấp Đầy Cơ Sở Kiến Thức**  
+
+  &nbsp; Hấp thụ dữ liệu thuyết trình vào các kho dữ liệu có cấu trúc.
+
+
+
+* **Tự Động So Sánh Phiên Bản**  
+
+  &nbsp; Phát hiện sự thay đổi giữa các phiên bản thuyết trình khác nhau.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

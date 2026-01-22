@@ -98,7 +98,93 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Ekstraksi metadata dokumen untuk file **DOCM** melalui API Python membantu sistem memeriksa properti dokumen sambil memperhitungkan konten yang diaktifkan makro dan sinyal risiko yang terkait. Hal ini berharga untuk tata kelola, penanganan yang aman, dan klasifikasi, terutama ketika dokumen berpindah antar tim atau lingkungan.
+
+
+
+Dalam alur kerja otomatisasi, metadata DOCM dapat menggerakkan kontrol dinamis—seperti pemeriksaan keamanan, persetujuan bersyarat, dan distribusi terbatas—sekaligus memungkinkan pengindeksan dan pelaporan yang dapat diskalakan tanpa membuka file secara interaktif.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Kunci" %}}
+
+
+
+* **Pemeriksaan Dokumen yang Sadar Makro**
+
+  Gunakan metadata untuk menandai dokumen yang diaktifkan makro untuk tinjauan tambahan dan penanganan yang terkendali.
+
+
+
+* **Klasifikasi Alur Kerja yang Sensitif**
+
+  Klasifikasikan file DOCM berdasarkan properti yang disematkan untuk menerapkan kebijakan penyimpanan dan akses yang lebih ketat.
+
+
+
+* **Pelacakan Provenans Operasional**
+
+  Tangkap bidang sejarah pembuatan dan modifikasi untuk melacak di mana dan kapan file yang diaktifkan makro diproduksi.
+
+
+
+* **Pelaporan Kesehatan Repositori**
+
+  Hasilkan laporan tentang volume, usia, dan kepemilikan DOCM untuk mengelola paparan risiko dalam skala besar.
+
+
+
+* **Kesiapan Distribusi yang Terkendali**
+
+  Validasi bidang metadata yang diperlukan sebelum mengizinkan file DOCM masuk ke proses berbagi atau publikasi di hilir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Saluran Penerimaan dengan Skor Risiko**
+
+  Secara otomatis memberi skor file DOCM menggunakan kelengkapan metadata dan kebaruan, kemudian rutekan ke jalur "tinjauan" atau "disetujui".
+
+
+
+* **Penegakan Penyimpanan Terbatas**
+
+  Jika file DOCM terdeteksi, otomatisasi akan memindahkannya ke lokasi yang terbatas dan menerapkan aturan retensi yang lebih ketat.
+
+
+
+* **Pemberitahuan Pengecualian yang Diaktifkan Makro**
+
+  Pemicu pemberitahuan ketika metadata DOCM menunjukkan asal yang tidak terduga, cap waktu yang tidak biasa, atau bidang kepemilikan yang hilang.
+
+
+
+* **Dasbor Inventarisasi Otomatis**
+
+  Terus-menerus ekstraksi dan agregasi metadata DOCM ke dalam dasbor untuk tata kelola dan pengawasan operasional.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

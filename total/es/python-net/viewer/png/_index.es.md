@@ -82,7 +82,73 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La visualización de archivos PNG utilizando APIs de Python admite una representación de imágenes de alta calidad y sin pérdida de calidad con manejo de transparencia.
+
+Esto es ideal para escenarios de automatización que requieren precisión visual e integración flexible de imágenes.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* **Revisión de imágenes sin pérdida de calidad**  
+
+  &nbsp; Ver imágenes sin artefactos de compresión.
+
+
+
+* **Inspección de activos transparentes**  
+
+  &nbsp; Inspeccionar imágenes con canales alfa con precisión.
+
+
+
+* **Validación de activos de UI**  
+
+  &nbsp; Revisar activos visuales utilizados en aplicaciones o documentos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* **Automatización de canalización de activos**  
+
+  &nbsp; Los scripts de Python renderizan archivos PNG durante las verificaciones de compilación o implementación.
+
+
+
+* **Servicios de vista previa dinámica**  
+
+  &nbsp; Las imágenes se muestran automáticamente en paneles o herramientas.
+
+
+
+* **Pruebas de regresión visual**  
+
+  &nbsp; La visualización automatizada admite flujos de trabajo de comparación y validación.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

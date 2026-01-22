@@ -98,7 +98,93 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri aracılığıyla **DOCX** dosyaları için belge meta verilerinin çıkarılması, manuel incelemeye gerek kalmadan yapılandırılmış erişim sağlayarak modern Word belgesi özelliklerine güvenilir bir şekilde erişilmesini sağlar. Bu, yazarlık, düzenlemeler ve gömülü tanımlayıcılar gibi belge yaşam döngüsü ayrıntılarına daha iyi bir görünürlük sağlar.
+
+
+
+Otomasyonda, DOCX meta verileri, yönlendirme ve doğrulama için verimli bir kontrol katmanı haline gelir: işlemler standartları zorlayabilir, katalogları doldurabilir ve arama, analiz ve ölçeklenebilir şekilde yönetim araçlarıyla entegre olabilir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Arama İndeksi Zenginleştirme**
+
+  DOCX meta verilerini normalize edilmiş alanlara dönüştürerek filtreleme, sıralama ve keşfi geliştirmek.
+
+
+
+* **Sahiplik ve İnceleme Ataması**
+
+  Yazar ve son değiştirilen meta verilerini kullanarak inceleyicileri otomatik olarak atamak ve sorumluluk sağlamak.
+
+
+
+* **Sürüm Hijyen İzleme**
+
+  Son değiştirilme zamanını politika eşikleriyle karşılaştırarak eski belgeleri tespit etmek.
+
+
+
+* **Meta Veri Tamamlanma Doğrulaması**
+
+  Gerekli özelliklerin (başlık, konu, anahtar kelimeler) yayınlama veya dağıtımdan önce var olduğundan emin olmak.
+
+
+
+* **Portföy Düzeyi Raporlama**
+
+  Depolamalar arasında DOCX meta verilerini bir araya getirerek kapsama, yaş ve etkinlik görüşleri üretmek.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Yükleme Zamanı Meta Veri Doğrulaması**
+
+  Alıma sırasında, zorunlu özellikleri eksik olan DOCX dosyalarını reddetmek veya işaretlemek ve yükleyiciyi otomatik olarak bilgilendirmek.
+
+
+
+* **Otomatik Etiketleme ve Kategorilendirme**
+
+  DOCX anahtar kelimelerini ve özel alanları kullanarak tutarlı etiketler ve klasör yönlendirme kurallarını programatik olarak uygulamak.
+
+
+
+* **Sürekli Uyumluluk Taraması**
+
+  Saklama sürelerine uymayan veya sahiplik ayrıntıları eksik olan DOCX dosyalarını belirleyen zamanlanmış işlemleri çalıştırmak.
+
+
+
+* **Meta Veri Odaklı Yayınlama Boru Hattı**
+
+  Otomatik yayınlama sistemleri için sayfa başlıklarını, özetleri ve dizin girişlerini doldurmak için DOCX meta verilerini çıkarmak.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

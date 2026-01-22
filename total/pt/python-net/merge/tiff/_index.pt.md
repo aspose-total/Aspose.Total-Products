@@ -85,7 +85,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/ima
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A fusão de imagens TIFF usando APIs Python suporta fluxos de trabalho de imagens de alta resolução e multi-página comumente usados em impressão, imagens médicas e digitalização de documentos.
+
+
+
+A automação permite o manuseio confiável de conjuntos de imagens grandes e ricos em detalhes.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Montagem de Digitalização Multi-Página (TIFF)**  
+
+&nbsp; Mesclar páginas TIFF em um único arquivo multi-página.
+
+
+
+* **Processamento de Imagens de Alta Resolução (TIFF)**  
+
+&nbsp; Combinar imagens TIFF para análise detalhada.
+
+
+
+* **Compilação de Imagens Prontas para Impressão (TIFF)**  
+
+&nbsp; Agregar arquivos TIFF para fluxos de trabalho de publicação.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Pipelines de Digitalização Automatizados (TIFF)**  
+
+&nbsp; Sistemas mesclam arquivos TIFF durante a ingestão de digitalização.
+
+
+
+* **Processamento em Lote de Alta Resolução (TIFF)**  
+
+&nbsp; A fusão de TIFF é executada em trabalhos agendados.
+
+
+
+* **Automação de Imagens Corporativas (TIFF)**  
+
+&nbsp; Fluxos de trabalho automatizados gerenciam grandes conjuntos de dados TIFF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -152,7 +220,7 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/ima
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

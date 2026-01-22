@@ -75,7 +75,75 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การค้นหาไฟล์ **DOC** โดยใช้ Python APIs ช่วยให้ระบบที่ทันสมัยสามารถสกัดและค้นหาข้อมูลจากเอกสารประมวลที่ยังใช้กันอย่างแพร่หลายในสำนักข้อมูลและสภาพแวดล้อมขององค์กร การค้นหาโปรแกรมช่วยให้ข้อมูลทางประวัติศาสตร์และการดำเนินงานมีความสามารถในการเข้าถึงโดยไม่ต้องตรวจสอบด้วยมือ
+
+
+
+เมื่อรวมเข้ากับขั้นตอนการทำงานอัตโนมัติ การค้นหาไฟล์ DOC ช่วยเพิ่มประสิทธิภาพโดยการเปิดใช้งานแบบกลุ่ม การจัดทำดัชนีโครงสร้าง และการผสานอย่างราบรื่นกับท่อข้อมูลและระบบจัดการเอกสาร
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **การค้นหาเอกสารเก่า**  
+
+&nbsp; ช่วยให้สามารถค้นหาด้วยคำสำคัญภายในไฟล์ DOC เก่า
+
+
+
+* **การเรียกคืนเนื้อหาจากการเก็บถาวร**  
+
+&nbsp; สกัดข้อมูลที่เกี่ยวข้องจากเอกสารที่เก็บรักษาไว้ในระยะยาว
+
+
+
+* **การค้นหาบันทึกการปฏิบัติตามข้อบังคับ**  
+
+&nbsp; ค้นหาข้อความและคำในบันทึกที่ใช้รูปแบบของ DOC
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การจัดทำดัชนีเอกสารอัตโนมัติ**  
+
+&nbsp; งาน Python สแกนไฟล์ DOC และอัปเดตดัชนีที่สามารถค้นหาโดยอัตโนมัติ
+
+
+
+* **การสกัดเนื้อหาจากไฟล์ DOC แบบกลุ่ม**  
+
+&nbsp; ประมวลข้อมูลจำนวนมากจากไฟล์ DOC โดยไม่ต้องใช้แรงงาน
+
+
+
+* **การผสานข้อมูลจาก DOC เข้าสู่ระบบ**  
+
+&nbsp; เนื้อหาที่สกัดออกไปช่วยให้การทำงานอัตโนมัติที่ต่อจากนี้และการวิเคราะห์ข้อมูล
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

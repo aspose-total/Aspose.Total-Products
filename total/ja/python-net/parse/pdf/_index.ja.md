@@ -100,7 +100,75 @@ PDF パーサー アプリまたはユーティリティを開発する必要が
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用して**PDFドキュメント**を解析すると、広く使用されている固定レイアウト形式からテキストとレイアウト情報を抽出できます。PDFはレポート、請求書、公式記録で一般的です。
+
+
+
+自動化されたPDF解析により、手動介入なしで非編集可能なコンテンツを分析、検索、システム統合することができます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **レポートデータの抽出**  
+
+&nbsp; 静的PDFレポートからテキストコンテンツを取得します。
+
+
+
+* **文書アーカイブ処理**  
+
+&nbsp; PDFを検索可能で索引付け可能なテキストに変換します。
+
+
+
+* **情報検索システム**  
+
+&nbsp; 大規模なPDFコレクション内でコンテンツの検出を可能にします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **定期的なPDF取り込み**  
+
+&nbsp; 固定された頻度で入力されるPDFを自動的に処理します。
+
+
+
+* **テキスト正規化パイプライン**  
+
+&nbsp; 抽出されたPDFテキストをプログラムでクリーンアップおよび標準化します。
+
+
+
+* **下流アナリティクスの有効化**  
+
+&nbsp; 解析されたPDFコンテンツを分析や機械学習ワークフローに供給します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

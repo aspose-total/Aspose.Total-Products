@@ -79,7 +79,75 @@ ODT 파일을 쉽게 분할하기 위해 Python 스크립트 또는 유틸리티
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT는 구조화된 텍스트 문서를 위해 설계된 오픈 문서 형식입니다. ODT 파일을 분할하면 섹션 수준의 처리와 구조화된 콘텐츠 처리가 가능해집니다.
+
+
+
+Python API를 사용하면 ODT 분할이 확장 가능하고 자동화된 문서 파이프라인에 적합해집니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **구조화된 콘텐츠 추출**  
+
+&nbsp; 챕터 또는 섹션을 독립적으로 추출합니다.
+
+
+
+* **오픈 형식 아카이빙**  
+
+&nbsp; 콘텐츠를 세분화하여 보존하고 관리합니다.
+
+
+
+* **협업 문서 처리**  
+
+&nbsp; 문서 섹션에서 병렬 워크플로우를 활성화합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **XML 기반 섹션 구문 분석**  
+
+&nbsp; Python은 분할을 위한 구조적 표식을 식별합니다.
+
+
+
+* **자동화된 콘텐츠 분류**  
+
+&nbsp; 추출된 섹션은 프로그래밍적으로 분류됩니다.
+
+
+
+* **워크플로우 중심 문서 라우팅**  
+
+&nbsp; 섹션이 자동으로 다른 시스템으로 흐릅니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

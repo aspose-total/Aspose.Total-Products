@@ -79,7 +79,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Dokumenty Word zahrnují škálu strukturovaných textových formátů používaných v obchodních a technických pracovních postupech. Rozdělení dokumentů Word umožňuje zaměřený přístup k relevantním částem obsahu.
+
+
+
+Rozdělení založené na Pythonu podporuje automatizaci tím, že umožňuje konzistentní, škálovatelné zpracování dokumentů napříč systémy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Zpracování obsahu na základě sekcí**  
+
+  Handle kapitoly nebo sekce nezávisle.
+
+
+
+* **Optimalizace velkých dokumentů**  
+
+  Zlepšete výkon rozdělením příliš velkých souborů.
+
+
+
+* **Správa obsahu**  
+
+  Použijte pravidla na jednotlivé části dokumentu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* **Jednotné zpracování dokumentů v rámci potrubí**  
+
+  Dokumenty Word jsou automaticky rozděleny a zpracovány.
+
+
+
+* **Automatické směrování obsahu**  
+
+  Sekce jsou odesílány do různých systémů na základě logiky.
+
+
+
+* **Škálovatelné extrakce znalostí**  
+
+  Extrahované sekce napájejí analytické nebo pracovní postupy s umělou inteligencí.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

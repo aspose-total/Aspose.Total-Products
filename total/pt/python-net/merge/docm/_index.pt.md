@@ -78,7 +78,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/wor
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A fusão de documentos do Word com macros usando APIs do Python permite a composição estruturada de documentos mantendo a lógica incorporada e comportamentos avançados do documento. Isso é essencial para ambientes corporativos onde os documentos incluem automação, formulários ou campos calculados.
+
+
+
+A fusão automatizada de arquivos DOCM suporta fluxos de trabalho de documentos escaláveis, nos quais arquivos com lógica são combinados de forma confiável sem intervenção manual, garantindo continuidade e eficiência operacional.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Montagem de Modelo Baseado em Macro (DOCM)**  
+
+&nbsp; Mesclar vários documentos com macros em um único documento executável.
+
+
+
+* **Agrupamento de Documentos Operacionais (DOCM)**  
+
+&nbsp; Consolidar arquivos DOCM usados em diferentes departamentos em arquivos operacionais unificados.
+
+
+
+* **Consolidação de Documentação de Processos (DOCM)**  
+
+&nbsp; Combinar instruções e ferramentas baseadas em DOCM em um documento controlado.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Geração Automática de Arquivos de Conformidade (DOCM)**  
+
+&nbsp; Sistemas mesclam automaticamente arquivos DOCM para produzir documentos prontos para conformidade.
+
+
+
+* **Composição de Documentos Baseada em Regras (DOCM)**  
+
+&nbsp; Arquivos DOCM são mesclados dinamicamente com base em regras de fluxo de trabalho.
+
+
+
+* **Preservação de Macros Controlada pelo Backend (DOCM)**  
+
+&nbsp; Pipelines automatizados mesclam arquivos DOCM preservando a lógica incorporada.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,75 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Suche nach **ODT**-Dateien mithilfe von Python-APIs gewährleistet die Kompatibilität mit offenen Dokumentenstandards und ermöglicht eine effiziente Inhaltsentdeckung. ODT-Dokumente werden häufig in Open-Source- und kollaborativen Umgebungen verwendet, in denen Portabilität und Transparenz unerlässlich sind.
+
+
+
+Die automatisierte ODT-Suche verbessert die Interoperabilität, unterstützt skalierbare Dokumentenanalysen und integriert sich nahtlos in moderne Automatisierungspipelines.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Suche in offenen Dokumentformaten**  
+
+&nbsp; Lokalisiert Schlüsselwörter in ODT-basierten Dokumenten.
+
+
+
+* **Kollaborative Inhaltsprüfung**  
+
+&nbsp; Ermöglicht schnelle Suche in gemeinsam genutzten offenen Dokumenten.
+
+
+
+* **Analyse von Richtlinien und Dokumentationen**  
+
+&nbsp; Identifiziert erforderliche Abschnitte in ODT-Dateien.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Automatische Erstellung von ODT-Indizes**  
+
+&nbsp; Python-Skripte generieren durchsuchbare Indizes aus ODT-Dateien.
+
+
+
+* **ODT-Änderungserkennung**  
+
+&nbsp; Programmgesteuerte Scans identifizieren aktualisierte oder modifizierte Inhalte.
+
+
+
+* **ODT-Inhalts-Pipelines**  
+
+&nbsp; Extrahierte Daten speisen automatisierte Veröffentlichungs- und Überprüfungssysteme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

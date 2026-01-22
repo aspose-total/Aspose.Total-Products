@@ -82,7 +82,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+שילוב תמונות PNG באמצעות Python APIs מאפשר קומפוזיציה איכותית ללא אובדן עם תמיכה בשקיפות. זה אידיאלי עבור נכסי עיצוב, אלמנטי UI ותמונות שכבתיות.
+
+
+
+אוטומציה מבטיחה שילוב תמונות עם שמירה על אינטגריטות ויזואלית.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **שילוב נכסים שקופים (PNG)**  
+
+&nbsp; שילוב תמונות PNG תוך שמירה על ערוצי אלפא.
+
+
+
+* **הרכבת אלמנטי UI (PNG)**  
+
+&nbsp; שילוב גרפיקה של ממשק לתמונות יחידות.
+
+
+
+* **איחוד משאבי עיצוב (PNG)**  
+
+&nbsp; איגוד של נכסי PNG לשימוש חוזר.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **צינורות עיצוב אוטומטיים (PNG)**  
+
+&nbsp; מערכות משלבות נכסי PNG במהלך תהליכי בנייה.
+
+
+
+* **יצירת תמונה בשכבות (PNG)**  
+
+&nbsp; שילוב של PNG מופעל על ידי כללים תכנותיים.
+
+
+
+* **אוטומציה של משאבי ויזואליים נפחיים (PNG)**  
+
+&nbsp; צינורות אוטומטיים מייצרים תמונות PNG ממוזגות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

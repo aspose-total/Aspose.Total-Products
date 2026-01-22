@@ -73,7 +73,87 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/ima
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Adicionar marcas de propriedade, procedência e dissuasão de adulteração a imagens **BMP** com APIs Python proporciona uma sobreposição visível, muitas vezes usada em pipelines de impressão e ativos técnicos.
+
+
+
+Como os arquivos BMP são grandes e sem perdas, a marca d'água baseada em Python é ideal para **sobreposições de alta fidelidade**, regras de renderização repetíveis e posicionamento consistente em bibliotecas de imagens.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Marcas de Propriedade de Ativos de Engenharia**  
+
+&nbsp; Adicione marcas de departamento ou projeto a bitmaps técnicos para reduzir o reuso acidental e o encaminhamento incorreto.
+
+
+
+* **Carimbo de Prova Pronto para Impressão**  
+
+&nbsp; Aplique sobreposições de "PROVA" ou "RASCUNHO" sem artefatos de compressão que poderiam afetar as revisões de aprovação.
+
+
+
+* **Marcação de Imagem de Catálogo com Qualidade Original**  
+
+&nbsp; Incorpore marcas de identidade consistentes preservando os dados originais dos pixels para conversões posteriores.
+
+
+
+* **Etiquetas de Conformidade para Imagens Restritas**  
+
+&nbsp; Marque gráficos sensíveis com classificações de acesso para apoiar o manuseio orientado por políticas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Marca d'água em Lote em Pipelines de Ingestão**  
+
+&nbsp; Carimbe automaticamente os BMPs recém-carregados quando entram em um repositório de mídia.
+
+
+
+* **Posicionamento Baseado em Regras por Dimensões**  
+
+&nbsp; Ajuste programaticamente o tamanho da marca d'água e margens com base na resolução da imagem.
+
+
+
+* **Geração de Prova Acionada por Evento**  
+
+&nbsp; Crie variantes com marca d'água quando o status de um arquivo muda para revisão ou aprovação.
+
+
+
+* **Rastreamento Duplo de Soma de Verificação + Marca d'água**  
+
+&nbsp; Combine a marca d'água com hash de arquivo para melhorar a rastreabilidade em auditorias automatizadas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

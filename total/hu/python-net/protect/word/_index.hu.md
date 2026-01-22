@@ -76,7 +76,75 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A Word formátum kategóriája szöveges dokumentumokat képvisel, amelyeket tervezési, jelentési és együttműködési folyamatok során használnak. A Word fájlok védelme biztosítja a dokumentumok bizalmas kezelését, sértetlenségét és ellenőrzött hozzáférhetőségét életciklusuk során.
+
+
+
+A Python API-k lehetővé teszik a Word dokumentumok automatizált védelmét, így a biztonság beépített képessége lesz a modern tartalom- és dokumentumkezelő rendszerekben.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* **Érzékeny Tartalom Védelme**  
+
+&nbsp; Biztonságosan tárolja a bizalmas információkat tartalmazó Word dokumentumokat.
+
+
+
+* **Szerkesztési Korlátozások Végrehajtása**  
+
+&nbsp; Szabályozza, ki módosíthatja vagy ellenőrizheti a dokumentumokat.
+
+
+
+* **Dokumentum Életciklusának Biztonsága**  
+
+&nbsp; Védje a fájlokat a létrehozás és jóváhagyás különböző szakaszaiban.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* **Automatizált Word Fájl Védelem**  
+
+&nbsp; Automatikusan alkalmazza a biztonsági szabályokat a dokumentum létrehozása közben.
+
+
+
+* **Szerep-alapú Dokumentumvezérlések**  
+
+&nbsp; Védje a Word fájlokat dinamikusan a felhasználói szerepek alapján.
+
+
+
+* **Végponttól-végpontig Biztonságos Munkafolyamatok**  
+
+&nbsp; Integrálja a Word védelmét teljesen automatizált dokumentumcsövekbe.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

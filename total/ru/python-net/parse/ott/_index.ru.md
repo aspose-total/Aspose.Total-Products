@@ -104,7 +104,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Разбор **OTT документов** с использованием Python API позволяет структурированно извлекать информацию из открытых текстовых шаблонов, предназначенных для создания согласованных документов. Файлы OTT обычно используются в средах с открытыми стандартами для определения повторно используемых макетов, стилей и заполнителей.
+
+
+
+Интегрируя разбор OTT в автоматизированные системы, организации могут создавать, проверять и управлять документами в масштабе, соблюдая строгое соблюдение стандартных шаблонов и открытых форматов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Извлечение структуры шаблона**  
+
+&nbsp; Определяет предопределенные разделы, стили и заполнители в шаблонах OTT.
+
+
+
+* **Создание стандартизированных документов**  
+
+&nbsp; Поддерживает согласованное создание документов на основе утвержденных открытых шаблонов.
+
+
+
+* **Управление открытыми форматами**  
+
+&nbsp; Обеспечивает соответствие документов организационным стандартам без проприетарных ограничений.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Генерация динамических документов**  
+
+&nbsp; Автоматически заполняет шаблоны OTT структурированными данными.
+
+
+
+* **Проверка соответствия шаблону**  
+
+&nbsp; Обнаруживает отклонения от утвержденной структуры шаблона.
+
+
+
+* **Масштабируемые открытые документные конвейеры**  
+
+&nbsp; Позволяет производить документы в больших объемах с использованием открытых стандартов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

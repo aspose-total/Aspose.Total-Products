@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API合并启用宏的Word文档可实现结构化文档组合，同时保留嵌入式逻辑和高级文档行为。这对包含自动化、表单或计算字段的企业环境至关重要。
+
+
+
+自动化的DOCM合并支持可扩展的文档工作流程，其中带有逻辑的文件可可靠地合并，无需手动干预，确保运营的连续性和效率。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **基于宏的模板组装（DOCM）**  
+
+&nbsp; 将多个启用宏的文档合并为单个可执行文档。
+
+
+
+* **运营文档捆绑（DOCM）**  
+
+&nbsp; 将各部门使用的DOCM文件合并为统一的运营文件。
+
+
+
+* **流程文档整合（DOCM）**  
+
+&nbsp; 将基于DOCM的说明和工具合并为一个受控文档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动合规文件生成（DOCM）**  
+
+&nbsp; 系统自动合并DOCM文件以生成符合合规要求的文档。
+
+
+
+* **基于规则的文档组合（DOCM）**  
+
+&nbsp; 根据工作流规则动态合并DOCM文件。
+
+
+
+* **后端控制的宏保留（DOCM）**  
+
+&nbsp; 自动化流水线合并DOCM文件时保留嵌入式逻辑。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

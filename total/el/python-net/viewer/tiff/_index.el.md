@@ -82,7 +82,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η προβολή εγγράφου TIFF με τη χρήση των Python APIs υποστηρίζει τις πολύ υψηλής ανάλυσης, πολυσέλιδες μορφές εικόνας που χρησιμοποιούνται συχνά στη σάρωση και στην αρχειοθέτηση.
+
+Αυτό επιτρέπει τον ακριβή έλεγχο λεπτομερών οπτικών εγγράφων.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Περιπτώσεις Χρήσης" %}}
+
+
+
+* **Αναθεώρηση Σάρωσης Εγγράφου**  
+
+&nbsp; Προβολή σάρωσης υψηλής ποιότητας σελίδων.
+
+
+
+* **Επιθεώρηση Εικόνας Αρχειοθέτησης**  
+
+&nbsp; Επιθεώρηση αρχειοθετημένων αρχείων εικόνας υψηλής ποιότητας.
+
+
+
+* **Χειρισμός Πολυσελίδων Εικόνων**  
+
+&nbsp; Πλοήγηση σε πολύπλοκα έγγραφα βασισμένα σε εικόνες.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* **Αυτοματοποιημένος Έλεγχος Σάρωσης**  
+
+&nbsp; Οι ροές εργασίας Python εμφανίζουν σαρωμένα αρχεία για τη διασφάλιση της ποιότητας.
+
+
+
+* **Έλεγχοι Ακεραιότητας Αρχείου**  
+
+&nbsp; Τα αποθηκευμένα αρχεία απεικονίζονται τακτικά για επικύρωση.
+
+
+
+* **Αγωγοί Ψηφιοποίησης Εγγράφου**  
+
+&nbsp; Οι αυτοματοποιημένοι προβολείς υποστηρίζουν τις διαδικασίες ψηφιοποίησης.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -82,7 +82,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API查看JPEG和JPG，可以高效地检查在各个系统中广泛使用的压缩图像。
+
+这支持可扩展的视觉工作流，其中性能和兼容性很重要。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **压缩图像审查**  
+
+  查看为存储和传输优化的图像。
+
+
+
+* **视觉内容验证**  
+
+  检查图像的清晰度和正确性。
+
+
+
+* **媒体资产管理**  
+
+  以编程方式审查常用的图像资产。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化媒体管道**  
+
+  在批处理工作流程中呈现JPEG文件。
+
+
+
+* **预览优化系统**  
+
+  图像动态显示，便于快速审查。
+
+
+
+* **资产质量检查**  
+
+  Python查看器支持自动化检查。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

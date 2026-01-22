@@ -71,7 +71,43 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+程序化签署 DOC 文件使得传统的 Word 文档能够携带正式的批准指示，而无需进行格式转换。这样可以保持与旧文档系统的兼容性，同时增加治理功能。
+
+基于 Python 的自动化确保 DOC 签署始终如一，减少在文档繁重的传统工作流程中的手动干预。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **传统合同批准**
+  &nbsp; 在旧系统中使用的 DOC 合同中添加签署者详细信息。
+
+* **政策文件签署**
+  &nbsp; 将 DOC 政策标记为已审阅和批准。
+
+* **基于模板的文档验证**
+  &nbsp; 在完成检查后对 DOC 模板进行签署。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **字段完成触发签署**
+  &nbsp; 一旦填写了强制性字段，DOC 文件就会被签署。
+
+* **批准工作流集成**
+  &nbsp; 签署由后端批准状态更新触发。
+
+* **传统存档认证**
+  &nbsp; 在存档之前对 DOC 文件进行签署。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

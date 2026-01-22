@@ -82,7 +82,41 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Firmar imágenes genéricas con APIs de Python proporciona un enfoque unificado para aplicar marcas de aprobación y metadatos de validación en fuentes de imágenes mixtas. Esto es útil cuando los pipelines ingieren imágenes de múltiples herramientas y necesitan un gobierno consistente.
+
+Cuando la firma de imágenes se automatiza, se aplica un estado estandarizado de "artefacto aprobado", asegurando que los sistemas posteriores solo consuman activos que cumplan con los requisitos de calidad, políticas o cumplimiento.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+- **Estandarización de Activos de Múltiples Fuentes**
+  Aplicar una superposición de firma consistente a las imágenes que llegan de herramientas y equipos variados.
+
+- **Validación de Imágenes de Evidencia**
+  Firmar imágenes utilizadas como evidencia para confirmar la identidad del revisor y el estado de aprobación.
+
+- **Control de Distribución de Activos Aprobados**
+  Marcar imágenes como aprobadas antes de incluirlas en paquetes de distribución.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+- **Marcado de Aprobación en Tiempo de Ingestión**
+  Firmar imágenes durante la ingestión después de que se completen las reglas de validación y verificación de metadatos.
+
+- **Aplicación de Puntos de Control de Políticas**
+  Firmar automáticamente solo aquellas imágenes que pasen las reglas automatizadas de políticas y seguridad.
+
+- **Finalización de Sincronización de Repositorio**
+  Firmar imágenes antes de sincronizarlas en repositorios compartidos para garantizar que solo se propaguen versiones verificadas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

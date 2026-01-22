@@ -85,7 +85,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Imaging for Python via
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Hợp nhất hình ảnh JPEG bằng cách sử dụng API Python hỗ trợ việc kết hợp hiệu quả các hình ảnh nén trong khi cân bằng chất lượng và kích thước tệp. Điều này được sử dụng rộng rãi trong xuất bản web, báo cáo và hệ thống phân phối nội dung.
+
+
+
+Tự động hóa cho phép việc hợp nhất JPEG mở rộng trên các luồng làm việc hình ảnh có khối lượng lớn với chi phí hoạt động tối thiểu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tổ Chức Bộ Sưu Tập Ảnh (JPG)**  
+
+&nbsp; Hợp nhất các bức ảnh JPEG thành một hình ảnh tổng hợp duy nhất.
+
+
+
+* **Tích Hợp Tài Nguyên Web (JPG)**  
+
+&nbsp; Kết hợp các tài nguyên JPEG để xuất bản tối ưu.
+
+
+
+* **Tạo Báo Cáo Trực Quan (JPG)**  
+
+&nbsp; Tổng hợp biểu đồ và hình ảnh JPEG thành hình ảnh thống nhất.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Hợp Nhất Hình Ảnh Động (JPG)**  
+
+&nbsp; Hệ thống hợp nhất các hình ảnh JPEG dựa trên đầu vào thời gian chạy.
+
+
+
+* **Xử Lý Phương Tiện Khối Lượng Lớn (JPG)**  
+
+&nbsp; Hợp nhất JPEG chạy tự động ở quy mô lớn.
+
+
+
+* **Tối Ưu Hóa Phân Phối Nội Dung (JPG)**  
+
+&nbsp; Các đường ống tự động hợp nhất và tối ưu hóa tài nguyên JPEG.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri kullanarak ikili Excel çalışma kitaplarını birleştirmek, büyük veri kümelerinin etkin bir şekilde işlenmesine ve dosya boyutunun azaltılmasına olanak tanır. Bu format, yüksek veri hacmiyle uğraşan performans odaklı ortamlar için optimize edilmiştir.
+
+
+
+XLSB birleştirme etrafındaki otomasyon, hız ve verimliliği korurken ölçeklenebilir analitik iş akışlarını destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Yüksek Hacimli Veri Birleştirme (XLSB)**  
+
+&nbsp; Büyük ikili elektronik tabloları tek bir analitik çalışma kitabına birleştirin.
+
+
+
+* **Performans-Kritik Raporlama (XLSB)**  
+
+&nbsp; Hızlı yükleme ve işleme için optimize edilmiş XLSB dosyalarını birleştirin.
+
+
+
+* **Kurumsal Veri Ambarı (XLSB)**  
+
+&nbsp; Aşağı akış analitiği için XLSB veri kümelerini birleştirin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik Büyük Dosya İşleme (XLSB)**  
+
+&nbsp; Sistemler yüksek hacimli veri alımı sırasında XLSB dosyalarını birleştirir.
+
+
+
+* **Analitik Boru Hattı Entegrasyonu (XLSB)**  
+
+&nbsp; XLSB birleştirme, otomatikleştirilmiş analitik iş akışlarının bir parçası olarak gerçekleşir.
+
+
+
+* **Kaynak Verimli Toplu İşler (XLSB)**  
+
+&nbsp; İkili elektronik tablolar, zamanlanmış toplu işlemlerde birleştirilir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -82,7 +82,73 @@ TIFF 뷰어 앱이나 유틸리티를 개발해야 합니까?[Aspose.Total for P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용한 TIFF 문서 보기는 주로 스캔 및 아카이빙에 자주 사용되는 고해상도, 다중 페이지 이미지 형식을 지원합니다.
+
+이를 통해 상세한 시각 문서를 정확하게 검토할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **스캔 문서 검토**
+
+  &nbsp; 고품질 스캔된 페이지 보기.
+
+
+
+* **아카이브 이미지 검사**
+
+  &nbsp; 보존 등급 이미지 파일 검사.
+
+
+
+* **다중 페이지 이미지 처리**
+
+  &nbsp; 복잡한 이미지 기반 문서 탐색.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동화된 스캔 확인**
+
+  &nbsp; Python 워크플로우는 품질 보증을 위해 스캔된 파일을 표시합니다.
+
+
+
+* **아카이브 무결성 확인**
+
+  &nbsp; 저장된 이미지는 주기적으로 렌더링되어 유효성을 검사합니다.
+
+
+
+* **문서 디지털화 파이프라인**
+
+  &nbsp; 자동화된 뷰어는 디지털화 프로세스를 지원합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

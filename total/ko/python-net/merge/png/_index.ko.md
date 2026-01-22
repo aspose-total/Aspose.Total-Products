@@ -85,7 +85,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 PNG 이미지를 병합하면 투명도를 지원하는 손실 없는 이미지 합성이 가능합니다. 이는 디자인 자산, UI 요소 및 계층적 시각화에 이상적입니다.
+
+
+
+자동화는 시각적 무결성을 보존하면서 일관된 이미지 조립을 보장합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **투명 자산 조립 (PNG)**  
+
+&nbsp; 알파 채널을 보존하면서 PNG 이미지를 병합합니다.
+
+
+
+* **UI 요소 합성 (PNG)**  
+
+&nbsp; 인터페이스 그래픽을 단일 이미지로 결합합니다.
+
+
+
+* **디자인 자원 통합 (PNG)**  
+
+&nbsp; 재사용을 위해 PNG 자산을 집계합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동화된 디자인 파이프라인 (PNG)**  
+
+&nbsp; 시스템은 빌드 프로세스 중에 PNG 자산을 병합합니다.
+
+
+
+* **계층화된 이미지 생성 (PNG)**  
+
+&nbsp; PNG 병합은 프로그래밍적 규칙에 의해 이뤄집니다.
+
+
+
+* **확장 가능한 시각적 자산 자동화 (PNG)**  
+
+&nbsp; 자동화된 파이프라인은 병합된 PNG 시각 자산을 생성합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

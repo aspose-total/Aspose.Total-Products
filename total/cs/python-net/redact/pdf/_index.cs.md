@@ -75,7 +75,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Redakce dokumentů pomocí Python API pro soubory PDF je zásadní pro trvalé odstranění citlivých informací z dokumentů s pevným rozložením. Tím se zajistí, že redigovaná data nelze obnovit nebo odhalit.
+
+
+
+Automatizace umožňuje spolehlivou a opakovatelnou redakci PDF ve velkém měřítku, což je vhodné pro pracovní postupy s vysokým objemem dodržování předpisů a zveřejňování.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití případy" %}}
+
+
+
+* **Příprava právního zveřejnění**  
+
+&nbsp; Odstraňte důvěrné informace z PDF před soudním nebo regulačním podáním.
+
+
+
+* **Zveřejnění veřejných dokumentů**  
+
+&nbsp; Sankcionujte zprávy a záznamy před veřejným přístupem.
+
+
+
+* **Bezpečné doručení klientům**  
+
+&nbsp; Ujistěte se, že citlivé informace jsou nevratně odstraněny ze sdílených PDF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatické scénáře" %}}
+
+
+
+* **Redakce s ohledem na obsah**  
+
+&nbsp; Automaticky detekujte a odstraňte citlivý text nebo oblasti.
+
+
+
+* **PDF dávkové zpracování ve velkém objemu**  
+
+&nbsp; Zpracujte a redigujte velké dávky PDF programově.
+
+
+
+* **Ochranná opatření před zveřejněním**  
+
+&nbsp; Vynutit kontrolu redakce před tím, než jsou dokumenty publikovány nebo distribuovány.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -89,7 +89,73 @@ Para obter mais detalhes, consulte [Documentação do produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A visualização de POTM com APIs Python permite a inspeção de modelos de apresentação com macros sem executar os macros.
+
+Isso suporta a validação segura de estruturas de apresentação reutilizáveis.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Revisão de Modelos com Macros**  
+
+  Visualize modelos de apresentação com segurança.
+
+
+
+* **Validação de Layout de Slides**  
+
+  Inspeccione estruturas de slides predefinidas.
+
+
+
+* **Fluxos de Aprovação de Modelos**  
+
+  Revise modelos antes da implantação.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Entrada Segura de Modelos**  
+
+  Fluxos de trabalho em Python renderizam arquivos POTM com segurança.
+
+
+
+* **Auditorias Automatizadas de Modelos**  
+
+  Os modelos são revisados quanto à consistência.
+
+
+
+* **Pipelines de Geração de Apresentações**  
+
+  A visualização garante prontidão para automação.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

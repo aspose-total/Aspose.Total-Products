@@ -76,7 +76,75 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+البحث عن ملفات **DOCX** باستخدام واجهات برمجة التطبيقات في Python يوفر وصولًا موثوقًا إلى المستندات المهيكلة والحديثة لمعالجة الكلمات. تحتوي ملفات DOCX على نصوص غنية، عناوين، جداول، وبيانات وصفية يمكن تحليلها برمجيًا للبحث المتقدم واسترداد المعلومات.
+
+
+
+البحث الجاهز للتشغيل التلقائي عن ملفات DOCX يدعم إدارة المحتوى القابلة للتوسع، واستخراج المعرفة، ومعالجة المستندات الذكية عبر أنظمة المؤسسات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **البحث في النص المهيكل**  
+
+&nbsp; يمكن البحث الدقيق عبر العناوين، الفقرات، والجداول.
+
+
+
+* **اكتشاف قائم على البيانات الوصفية**  
+
+&nbsp; يستخدم خصائص المستند لتحسين دقة البحث.
+
+
+
+* **إنشاء قاعدة معرفية**  
+
+&nbsp; يحول محتوى DOCX إلى أصول معرفية يمكن البحث فيها.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **تحديثات فهرس DOCX المستمرة**  
+
+&nbsp; تراقب خدمات Python وتفهرس ملفات DOCX الجديدة أو المحدثة.
+
+
+
+* **تصنيف المحتوى التلقائي**  
+
+&nbsp; يتم تصنيف مستندات DOCX برمجيًا استنادًا إلى المحتوى.
+
+
+
+* **تكامل سير العمل DOCX**  
+
+&nbsp; نتائج البحث تشغل لوحات التحكم وأنظمة المحتوى بشكل ديناميكي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

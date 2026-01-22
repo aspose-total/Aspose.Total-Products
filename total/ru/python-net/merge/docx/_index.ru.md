@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Объединение документов DOCX с использованием API Python является обычным требованием для создания качественных современных выводов в формате Word в масштабе. Это позволяет точно контролировать структуру, стиль и непрерывность разделов из нескольких источников.
+
+
+
+Эта возможность интегрируется без проблем с автоматизированными движками контента, обеспечивая масштабное создание документов для отчетов, руководств и структурированной документации.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Создание отчета с несколькими разделами (DOCX)**  
+
+&nbsp; Объединение файлов DOCX, представляющих главы, в один отчет.
+
+
+
+* **Повторное использование модулей контента (DOCX)**  
+
+&nbsp; Сборка повторно используемых разделов DOCX в настраиваемые документы.
+
+
+
+* **Интеграция редакционного рабочего процесса (DOCX)**  
+
+&nbsp; Объединение утвержденных редактором файлов DOCX в окончательные результаты.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Генерация динамических документов (DOCX)**  
+
+&nbsp; Системы объединяют файлы DOCX на основе ввода пользователя или условий данных.
+
+
+
+* **CI/CD Документационные конвейеры (DOCX)**  
+
+&nbsp; Объединение DOCX автоматизировано в рамках процессов сборки и выпуска.
+
+
+
+* **Масштабируемая автоматизация публикации (DOCX)**  
+
+&nbsp; Документы DOCX большого объема объединяются программно в масштабе.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

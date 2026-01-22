@@ -100,7 +100,75 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'analyse des fichiers de présentation **ODP** à l'aide des API Python permet d'accéder au contenu basé sur les diapositives stocké dans des formats de présentation ouverts. Cela prend en charge l'extraction structurée sans dépendre d'outils propriétaires.
+
+
+
+L'analyse automatisée des fichiers ODP permet un traitement évolutif des données de présentation dans des écosystèmes ouverts et extensibles.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Analyse de présentation ouverte**  
+
+&nbsp; Extrait le texte et la structure des diapositives des fichiers ODP.
+
+
+
+* **Indexation du contenu de la présentation**  
+
+&nbsp; Rend les diapositives au format ouvert recherchables et réutilisables.
+
+
+
+* **Extraction de données pour les rapports**  
+
+&nbsp; Convertit le contenu des diapositives en ensembles de données structurées.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Ingestion automatisée des diapositives**  
+
+&nbsp; Traite les fichiers ODP dans le cadre de flux de travail planifiés.
+
+
+
+* **Vérifications de cohérence du contenu**  
+
+&nbsp; Valide la structure des diapositives par rapport aux règles définies.
+
+
+
+* **Pipelines de présentation multi-format**  
+
+&nbsp; Convertit de manière programmatique le contenu ODP en d'autres formats.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

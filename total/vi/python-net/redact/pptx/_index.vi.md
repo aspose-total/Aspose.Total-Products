@@ -77,7 +77,75 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Python via
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Việc soạn thảo tài liệu bằng Python APIs cho các tệp PPTX cung cấp kiểm soát chính xác đối với nội dung trình bày hiện đại, cho phép hợp tác và phân phối an toàn. Điều này rất quan trọng để bảo vệ dữ liệu trang trình bày nhạy cảm.
+
+
+
+Tự động hóa đảm bảo việc soạn thảo PPTX là nhất quán, có thể kiểm tra và dễ dàng tích hợp vào các luồng công việc nội dung hiện đại.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Bảo Vệ Dữ Liệu Nhạy Cảm**  
+
+&nbsp; Che giấu các con số và văn bản nhạy cảm từ các trang trình bày.
+
+
+
+* **Phân Phối Đa Đối Tượng**  
+
+&nbsp; Tạo phiên bản đã được che giấu phù hợp với các bên liên quan khác nhau.
+
+
+
+* **Quản Lý Vòng Đời Trình Bày**  
+
+&nbsp; Đảm bảo tất cả các tệp PPTX được chia sẻ đều đáp ứng các tiêu chuẩn bảo mật.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Che Giấu Theo Đối Tượng Trang**  
+
+&nbsp; Loại bỏ một cách tự động các hộp văn bản hoặc hình dạng nhạy cảm.
+
+
+
+* **Xử Lý Cập Nhật Liên Tục**  
+
+&nbsp; Áp dụng lại việc che giấu tự động khi các trang thay đổi.
+
+
+
+* **Tích Hợp Luồng Công Việc**  
+
+&nbsp; Nhúng việc che giấu vào các luồng công việc nội dung theo phong cách CI/CD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

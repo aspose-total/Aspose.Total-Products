@@ -74,7 +74,75 @@ DOC 編集アプリまたはユーティリティを開発する必要があり�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用した文書の編集により、企業は遺産ワード処理文書から機密情報を安全に削除できます。これらの文書は企業で広く使用されており、コンプライアンス、データ保護、規制環境での安全な文書共有にとって重要です。
+
+
+
+Pythonベースの編集を自動化ワークフローに統合することで、DOCファイルをスケールで処理し、データプライバシールールの一貫した施行を確保しつつ、手作業と人為的エラーを減らすことができます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **遺産文書のコンプライアンス**  
+
+&nbsp; 古いDOCファイルから機密データを削除し、規制および監査要件を満たします。
+
+
+
+* **内部での安全な共有**  
+
+&nbsp; 部門やチーム間で文書を配布する前に、機密セクションを削除します。
+
+
+
+* **歴史的アーカイブの清浄化**  
+
+&nbsp; アーカイブされたDOCファイルをクリーンアップして、長期保存や公開アクセスに安全にします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **一括編集パイプライン**  
+
+&nbsp; 予定されたPythonジョブを使用して、数千のDOCファイルの編集を自動化します。
+
+
+
+* **ルールベースのテキストマスキング**  
+
+&nbsp; 事前定義されたパターンを適用して、機密用語を自動的に検出および削除します。
+
+
+
+* **文書取り込みの自動化**  
+
+&nbsp; 文書が保存システムに入る前に編集を統合します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

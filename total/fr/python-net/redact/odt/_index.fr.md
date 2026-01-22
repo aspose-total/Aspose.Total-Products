@@ -74,7 +74,75 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La rédaction de documents à l'aide des API Python pour les fichiers ODT permet une modification sécurisée des fichiers texte de document ouvert sans altérer leur structure de base. Cela prend en charge le traitement de documents transparent et basé sur des normes.
+
+
+
+En automatisant la rédaction ODT, les organisations peuvent gérer efficacement le contenu sensible à travers des écosystèmes de documents open source et interopérables.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Échange de documents respectueux de la vie privée**  
+
+&nbsp; Masquer les données personnelles avant de partager des fichiers ODT en externe.
+
+
+
+* **Suppression de contenu basée sur des politiques**  
+
+&nbsp; Appliquer des règles de rédaction conformes aux politiques organisationnelles.
+
+
+
+* **Publication de documents ouverts**  
+
+&nbsp; Préparer des documents sanitaires pour un usage public ou multiplateforme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Rédaction de métadonnées et de texte**  
+
+&nbsp; Supprimer automatiquement le contenu sensible à la fois du texte principal et des métadonnées.
+
+
+
+* **Traitement en masse de formats ouverts**  
+
+&nbsp; Masquer de grands volumes de fichiers ODT en une seule exécution automatisée.
+
+
+
+* **Intégration avec les pipelines de gestion de contenu**  
+
+&nbsp; Appliquer la rédaction avant la publication ou la syndication des documents.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

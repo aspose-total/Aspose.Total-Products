@@ -78,7 +78,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Łączenie dokumentów DOCX za pomocą interfejsów API w języku Python jest częstym wymaganiem w celu generowania nowoczesnych, dopracowanych wyjść w formacie Word na dużą skalę. Pozwala to na precyzyjną kontrolę struktury, stylizacji i ciągłości sekcji z różnych źródeł.
+
+
+
+Ta funkcjonalność integruje się bezproblemowo z automatycznymi silnikami treści, umożliwiając skalowalną generację dokumentów do raportów, podręczników i dokumentacji strukturalnej.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+
+
+* **Tworzenie raportów wielosekcyjnych (DOCX)**  
+
+&nbsp; Łączenie plików DOCX reprezentujących rozdziały w jeden raport.
+
+
+
+* **Ponowne wykorzystanie modułów treści (DOCX)**  
+
+&nbsp; Składanie ponownie wykorzystywalnych sekcji DOCX w spersonalizowane dokumenty.
+
+
+
+* **Integracja z przepływem redakcyjnym (DOCX)**  
+
+&nbsp; Łączenie zatwierdzonych przez redaktora plików DOCX w ostateczne wyjścia.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Generowanie dynamicznych dokumentów (DOCX)**  
+
+&nbsp; Systemy łączą pliki DOCX na podstawie danych wprowadzanych przez użytkownika lub warunków danych.
+
+
+
+* **Potoki dokumentacji CI/CD (DOCX)**  
+
+&nbsp; Łączenie DOCX jest automatyzowane w ramach procesów kompilacji i wydania.
+
+
+
+* **Skalowalna automatyzacja publikacji (DOCX)**  
+
+&nbsp; Dokumenty DOCX o dużej objętości są łączone programowo na dużą skalę.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

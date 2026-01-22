@@ -98,7 +98,93 @@ RTF メタデータ管理アプリまたはユーティリティを開発する�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用した**RTF**ファイルのドキュメントメタデータ抽出は、システムが基本的なファイルプロパティや埋め込み記述子をキャプチャし、携帯性やレガシー互換性のためによく使用されるリッチテキストドキュメントに対応します。これにより、さまざまなドキュメントタイプを含むリポジトリのインデックス作成、ガバナンス、ライフサイクルトラッキングがサポートされます。
+
+
+
+自動化されたワークフローでは、RTFメタデータを使用して分類、ルーティング、およびカタログ同期を行うことができ、手動レビューなしでレガシーまたは交換指向のドキュメントをスケーラブルに処理できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **混合形式リポジトリのインデックス作成**
+
+  RTFメタデータを抽出して、さまざまなドキュメントストア全体での検索性を向上させ、レポートを統一します。
+
+
+
+* **レガシーコンテンツのガバナンス**
+
+  タイムスタンプや著者フィールドを使用して、古いドキュメントの管理と更新サイクルを確立します。
+
+
+
+* **オペレーション用の一括分類**
+
+  利用可能なRTFプロパティを構造化されたタグに正規化して、ルーティングとアクセス制御を行います。
+
+
+
+* **移行と変換計画**
+
+  RTFメタデータを監査して、変換対象を優先し、所有権の詳細が不足しているものを特定します。
+
+
+
+* **受け入れの品質管理**
+
+  不完全または一貫性のないメタデータを持つRTFファイルを特定し、是正ワークフローにフラグを立てます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **レガシー受入れの標準化**
+
+  RTFメタデータを自動的に抽出し、標準化されたフィールドに変換して中央ドキュメントレジストリ用にします。
+
+
+
+* **変換キューのオーケストレーション**
+
+  メタデータの完全性と陳腐化のしきい値に基づいて、RTFファイルを変換パイプラインにルーティングします。
+
+
+
+* **自動化された管理割り当て**
+
+  メンテナーのプロパティを持たないRTFファイルの所有権タスクを作成し、ディレクトリコンテキストとメタデータ信号を使用します。
+
+
+
+* **定期的なリポジトリの健全性レポート**
+
+  ガバナンストラッキングのために、RTFメタデータのカバレッジ、不足しているフィールド、および経過分布のスケジュールされた要約を生成します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

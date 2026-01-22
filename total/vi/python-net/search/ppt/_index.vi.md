@@ -76,7 +76,75 @@ Có các tùy chọn thay thế để cài đặt "Aspose.Slides for Python via 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Tìm kiếm tệp **PPT** bằng Python APIs cho phép truy cập vào tài liệu trình bày cổ điển vẫn lưu trữ thông tin kinh doanh, đào tạo và chiến lược có giá trị. Tìm kiếm tự động đảm bảo các bộ slide cũ vẫn có thể sử dụng và tìm kiếm trên quy mô lớn.
+
+
+
+Bằng cách tích hợp tìm kiếm PPT vào các hệ thống tự động, tổ chức giảm công sức thủ công và mở khóa thông tin từ nội dung trình bày được lưu trữ.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tìm Kiếm Nội Dung Slide Cổ Điển**  
+
+&nbsp; Tìm từ khóa trong các tệp trình bày PPT cũ.
+
+
+
+* **Truy Xuất Bài Trình Bày Lưu Trữ**  
+
+&nbsp; Cho phép khám phá các bộ slide lịch sử.
+
+
+
+* **Trích Xuất Văn Bản PPT**  
+
+&nbsp; Rút trích văn bản slide để lập chỉ mục và phân tích.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Quét Kho Lưu Trữ PPT Tự Động**  
+
+&nbsp; Công việc Python quét các tệp PPT để tìm nội dung có thể tìm kiếm.
+
+
+
+* **Tạo Chỉ Mục Lưu Trữ PPT**  
+
+&nbsp; Các bài trình bày cổ điển được lập chỉ mục theo cách lập trình.
+
+
+
+* **Tích Hợp Nội Dung PPT**  
+
+&nbsp; Dữ liệu trích xuất cung cấp cho quy trình báo cáo và phân tích.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

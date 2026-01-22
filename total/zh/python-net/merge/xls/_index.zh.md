@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API合并Excel和电子表格文档对于将来自多个来源的结构化数据合并到一个可分析文件中至关重要。这种能力在报告、分析、金融和运营系统中被广泛使用，这些系统中的数据分布在许多电子表格中。
+
+
+
+基于自动化驱动的电子表格合并使数据处理更加一致，减少手动错误，并将电子表格工作流直接集成到可扩展的数据和处理管道中。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **传统电子表格合并（XLS）**  
+
+  &nbsp; 将旧的XLS文件合并到一个工作簿中进行统一分析。
+
+
+
+* **部门数据汇总（XLS）**  
+
+  &nbsp; 将来自多个团队的XLS电子表格合并到一个主文件中。
+
+
+
+* **历史数据统一（XLS）**  
+
+  &nbsp; 合并存档的XLS数据以进行报告和迁移。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **定期数据汇总（XLS）**  
+
+  &nbsp; 自动作业将定期的XLS文件合并到汇总报告中。
+
+
+
+* **后端数据规范化（XLS）**  
+
+  &nbsp; 系统将XLS文件合并作为数据清洗工作流的一部分。
+
+
+
+* **基于管道的电子表格组装（XLS）**  
+
+  &nbsp; XLS合并在ETL管道中以编程方式触发。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -97,7 +97,93 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Extraktion von Dokumentenmetadaten für **PDF**-Dateien über Python-APIs hilft Systemen, Kernattribute wie Titel, Autor, Ersteller, Erstellungs- und Änderungsdaten sowie eingebettete Kennungen zu erfassen. Dies unterstützt die Governance und Entdeckung, auch wenn der Inhalt hauptsächlich im Festlayout vorliegt. Dies ist wichtig für die Nachvollziehbarkeit, Katalogisierung und den operativen Umgang mit hochvolumigen PDF-Repositories.
+
+
+
+In Automatisierungspipelines können PDF-Metadaten die Indizierung, Weiterleitung, Durchsetzung der Aufbewahrung und Stapelverarbeitung steuern. Dadurch wird es praktisch, PDFs in skalierbare Workflows zu integrieren, ohne manuelle Sortierung.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Digitale Archivkatalogisierung**
+
+  Extrahieren Sie PDF-Metadaten, um ein zuverlässiges Inventar von Dokumenten mit durchsuchbaren Attributen zu erstellen.
+
+
+
+* **Compliance- und Aufbewahrungsprüfungen**
+
+  Verwenden Sie Erstellungs-/Änderungszeitstempel, um Aufbewahrungsfristen zu validieren und Inkonsistenzen zu erkennen.
+
+
+
+* **Ersteller- und Quellenzuordnung**
+
+  Erfassen Sie erzeugerbezogene Eigenschaften, um Ursprung und Verarbeitungslinie des Inhalts zu verstehen.
+
+
+
+* **Signale für Stapelklassifizierung**
+
+  Verwenden Sie Metadatenfelder, um PDFs in Bereiche wie Richtlinien, Rechnungen, Handbücher oder Berichte zu kategorisieren.
+
+
+
+* **Operative Qualitätsprüfungen**
+
+  Markieren Sie PDFs mit fehlenden oder verdächtigen Metadaten als Kandidaten für die Behebung oder manuelle Überprüfung.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Automatisierte Eingangssortierung**
+
+  Wenn PDFs eintreffen, extrahieren Sie Metadaten und leiten Sie sie basierend auf Vollständigkeits- und Sensibilitätsregeln in Verarbeitungsspuren weiter.
+
+
+
+* **Metadatengetriebene Indexaktualisierungen**
+
+  Aktualisieren Sie automatisch einen Suchindex, wann immer ein PDF hinzugefügt oder ersetzt wird, und verwenden Sie Metadaten für schnelle Abfragen.
+
+
+
+* **Aufbewahrungsdurchsetzungs-Workflow**
+
+  Führen Sie geplante Aufgaben aus, die PDFs identifizieren, die die Aufbewahrungsfristen überschritten haben, und generieren Sie Lösch- oder Archivaufgaben.
+
+
+
+* **Stapelberichterstellung und Dashboards**
+
+  Aggregieren Sie extrahierte PDF-Metadaten in regelmäßige Berichte für Governance, Compliance und operative Überwachung.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

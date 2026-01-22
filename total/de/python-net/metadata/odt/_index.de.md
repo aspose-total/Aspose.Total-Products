@@ -98,7 +98,93 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Extraktion von Metadaten für **ODT**-Dateien über Python-APIs ermöglicht den programmgesteuerten Zugriff auf Textdokumenteigenschaften und ermöglicht die Überprüfung, Klassifizierung und Suchanreicherung, ohne auf manuelle Inspektion angewiesen zu sein. Dies ist wichtig für die Dokumentenverwaltung, das Wissensmanagement und das Lifecycle-Tracking.
+
+
+
+In Automatisierungssystemen können ODT-Metadaten verwendet werden, um Standards durchzusetzen, Genehmigungen zu routen und Kataloge zu synchronisieren, um eine skalierbare Verarbeitung über große Repositories hinweg mit konsistenten Regeln zu unterstützen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Organisation der Wissensbasis**
+
+  Verwenden Sie ODT-Metadaten, um interne Dokumente zur schnelleren Wiederherstellung zu kategorisieren und zu indizieren.
+
+
+
+* **Eigentums- und Verantwortungssteuerung**
+
+  Extrahieren Sie Autor- und Redakteursfelder, um Gutachter zuzuweisen und die Verantwortlichkeit aufrechtzuerhalten.
+
+
+
+* **Entscheidungen zur Aufbewahrung und Archivierung**
+
+  Verwenden Sie Zeitstempel, um festzustellen, ob ODT-Dateien archiviert, aufbewahrt oder aktualisiert werden sollten.
+
+
+
+* **Metadaten-Normalisierung für Analysen**
+
+  Konvertieren Sie ODT-Eigenschaften in konsistente Felder für Berichterstellung und Trendanalyse.
+
+
+
+* **Vorabveröffentlichungsvalidierung**
+
+  Validieren Sie erforderliche beschreibende Felder, bevor Sie ODT-Dokumente in veröffentlichte Formate konvertieren.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Regelbasierte Intake-Klassifizierung**
+
+  Klassifizieren Sie ODT-Dokumente automatisch in Workflows anhand der Metadatenpräsenz, des Eigentums und der Zeitstempel.
+
+
+
+* **Katalogsynchronisierungs-Workflow**
+
+  Extrahieren Sie ODT-Metadaten nächtlich und synchronisieren Sie sie mit einem zentralen Register, das von internen Suchsystemen verwendet wird.
+
+
+
+* **Automatisierte Dokumentationsüberprüfungen**
+
+  Lösen Sie Überprüfungsaufgaben für ODT-Dateien aus, wenn die Metadaten darauf hinweisen, dass sie nicht innerhalb der festgelegten Richtlinienfenster aktualisiert wurden.
+
+
+
+* **Metadaten-zu-Zugriffsrichtlinienzuordnung**
+
+  Wenden Sie Zugriffsregeln dynamisch an, wenn ODT-Metadaten auf eingeschränkte Inhaltskategorien hinweisen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

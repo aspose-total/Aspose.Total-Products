@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การลงนามในภาพทั่วไปด้วย Python APIs ช่วยให้มีวิธีการเดียวกันในการใช้เครื่องหมายอนุมัติและข้อมูลประจำตัวในการตรวจสอบภาพจากแหล่งที่มาต่าง ๆ ซึ่งเป็นประโยชน์เมื่อท่อน้ำรับเข้าภาพจากเครื่องมือหลาย ๆ แหล่งและต้องการการบริหารการดูแลที่สอดคล้องกัน
+
+
+
+เมื่อทำการอัตโนมัติ การลงนามภาพจะบังคับให้มีสถานะ "ผลงานที่ได้รับการอนุมัติ" ที่มีมาตรฐานเดียวกัน โดยทำให้ระบบที่ต่อมาเพียงใช้ทรัพยากรที่ตรงตามเกณฑ์คุณภาพ นโยบาย หรือข้อกำหนดการปฏิบัติ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **มาตรฐานสินทรัพย์ที่มาจากแหล่งที่มาต่าง ๆ**  
+
+&nbsp; ใส่ลายเซ็นเดียวกันในภาพที่มาจากเครื่องมือและทีมต่าง ๆ
+
+
+
+* **การตรวจสอบภาพเพื่อเป็นหลักฐาน**  
+
+&nbsp; ลงนามในภาพที่ใช้เป็นหลักฐานเพื่อยืนยันตัวตนของผู้ตรวจสอบและสถานะการอนุมัติ
+
+
+
+* **ควบคุมการกระจายทรัพย์สินที่ได้รับการอนุมัติ**  
+
+&nbsp; ทำเครื่องหมายบนภาพว่าได้รับการอนุมัติก่อนที่จะรวมในแพ็คเกจการกระจาย
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การทำเครื่องหมายอนุมัติในขั้นตอนการรับเข้า**  
+
+&nbsp; ลงนามในภาพขณะรับเข้าหลังจากตรวจสอบกฎเกณฑ์และข้อมูลประจำตัวเสร็จสมบูรณ์
+
+
+
+* **การบังคับจุดตรวจสอบนโยบาย**  
+
+&nbsp; ลงนามโดยอัตโนมัติเฉพาะภาพที่ผ่านกฎเกณฑ์และกฎความปลอดภัยโดยอัตโนมัติ
+
+
+
+* **การสิงโฆษณาการซิงค์ของคลังข้อมูล**  
+
+&nbsp; ลงนามในภาพก่อนการซิงค์ไปยังคลังข้อมูลที่ใช้ร่วมเพื่อให้แน่ใจว่ามีเวอร์ชันที่ตรวจสอบแล้วเท่านั้นที่จะแพร่กระจาย
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

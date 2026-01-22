@@ -85,7 +85,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Slučování bitmapových obrázků pomocí Python API umožňuje sloučení surových, nekomprimovaných vizuálů do jednoho kompozitního obrázku nebo sekvence. Toto je užitečné v technickém zobrazování, skenovacích pracovních postupech a systémech, kde je priorizována věrnost obrazu před velikostí souboru.
+
+
+
+Automatizované slučování BMP podporuje deterministické zpracování obrázků, kde je vyžadována přesnost, opakovatelnost a systémově řízená kompozice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Kompilace naskenovaného obrázku (BMP)**  
+
+&nbsp; Slučování více skenů BMP do jednoho kompozitního obrázku.
+
+
+
+* **Sestavení technického diagramu (BMP)**  
+
+&nbsp; Sloučení bitmapových diagramů do jednotných vizuálů.
+
+
+
+* **Archivace surového obrázku (BMP)**  
+
+&nbsp; Seskupení souborů BMP pro dlouhodobé uložení nebo zpracování.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizované zpracování skenování (BMP)**  
+
+&nbsp; Systémy slučují BMP obrázky během pracovních postupů při vstupu.
+
+
+
+* **Kompozice obrázků ve várce (BMP)**  
+
+&nbsp; Plánované úlohy slučují bitmapové obrázky programově.
+
+
+
+* **Přesné obrazové potrubí (BMP)**  
+
+&nbsp; Slučování BMP je zahrnuto v řízených zpracovatelských systémech.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

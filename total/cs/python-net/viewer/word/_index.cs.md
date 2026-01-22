@@ -90,7 +90,73 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Prohlížení dokumentů Word s Python API poskytuje sjednocený způsob pro prohlížení textových souborů napříč různými formáty kompatibilními s Wordem.
+
+Toto podporuje konzistentní zpracování dokumentů v automatizovaných systémech.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Jednotné přezkoumání dokumentů**  
+
+&nbsp; Prohlížení různých dokumentů Word skrze jednotné rozhraní.
+
+
+
+* **Kontrola konzistence obsahu**  
+
+&nbsp; Kontrola textu a struktury napříč soubory.
+
+
+
+* **Integrace do pracovního postupu**  
+
+&nbsp; Vložení prohlížení dokumentů do zpracovatelských toků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizované obsahové toky**  
+
+&nbsp; Pythonové procesy zobrazují dokumenty Word během vícekrokových pracovních postupů.
+
+
+
+* **Náhledové služby**  
+
+&nbsp; Dokumenty jsou dynamicky zobrazovány k přezkoumání nebo schválení.
+
+
+
+* **Hromadné operace s dokumenty**  
+
+&nbsp; Velké sady souborů Word jsou zobrazovány programově.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

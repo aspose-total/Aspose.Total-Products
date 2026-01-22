@@ -71,7 +71,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تمثل ملفات PPT تنسيقات عروض تقديمية قديمة قد تكون لا تزال محمية ومخزنة على نطاق واسع. فك تشفيرها بشكل برمجي يضمن استمرارية الوصول إليها وتحديث أصول العروض التقديمية القديمة.
+
+
+
+تتيح واجهات برمجة التطبيقات في Python فك تشفير ملفات PPT بشكل تلقائي، مما يمكن من دمجها مع أنظمة التحويل والتحليل والأرشفة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **الوصول إلى العروض التقديمية القديمة**  
+
+&nbsp; يمكن إعادة استخدام المحتوى المحمي من ملفات العروض التقديمية القديمة.
+
+
+
+* **الحفاظ على المحتوى التاريخي**  
+
+&nbsp; يدعم التفتيش قبل ترحيل العروض التقديمية القديمة.
+
+
+
+* **استخراج بيانات الشرائح**  
+
+&nbsp; يسمح بالوصول إلى النصوص المحمية وعناصر تخطيط الشرائح.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائي" %}}
+
+
+
+* **أنابيب ترحيل تنسيقات العروض التقديمية القديمة**  
+
+&nbsp; يتم فك تشفير ملفات PPT وتحويلها تلقائيًا.
+
+
+
+* **أرشفة الشرائح بشكل تلقائي**  
+
+&nbsp; يتم فك تشفير الملفات المحمية أثناء خطوات التحقق من صحة الأرشفة.
+
+
+
+* **فهرسة محتوى العروض التقديمية**  
+
+&nbsp; يمكن فك تشفيرها لتمكين فهرسة العروض التقديمية القديمة بحيث يمكن البحث فيها.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

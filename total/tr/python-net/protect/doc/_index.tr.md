@@ -76,7 +76,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOC formatındaki Word belgelerini korumak, birçok iş ve arşiv iş akışını hala destekleyen eski dosyaları korumak için önemlidir. Belge koruması uygulamak, hassas metinlerin, formların ve fikri mülkiyetin paylaşıldığında bile güvende kalmasını sağlar.
+
+
+
+Python API'leri kullanarak, DOC dosyaları programatik olarak şifreler ve izin kontrolleri ile korunabilir, böylece büyük belge havuzları ve eski iş akışları boyunca güvenlik politikalarının otomatik olarak uygulanmasını sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Eski Belge Güvenliği**  
+
+  &nbsp; Yetkisiz düzenlemeleri veya kopyalamaları önlemek için eski Word belgelerine koruma uygulayın.
+
+
+
+* **Arşivlenmiş Dosyalar için Uyumluluk**  
+
+  &nbsp; Tarihsel DOC dosyalarının modern güvenlik ve düzenleyici gereksinimleri karşıladığından emin olun.
+
+
+
+* **Kontrollü Belge Paylaşımı**  
+
+  &nbsp; DOC dosyalarını içsel veya harici olarak dağıtırken düzenleme haklarını kısıtlayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Arşivlerin Toplu Korunması**  
+
+  &nbsp; Arşivleme veya geçiş süreçleri sırasında binlerce DOC dosyasını otomatik olarak güvence altına alın.
+
+
+
+* **Politika Odaklı Erişim Kontrolü**  
+
+  &nbsp; Sistemlere alınırken DOC dosyaları üzerinde standartlaştırılmış koruma kurallarını zorlayın.
+
+
+
+* **Otomatik Güvenli Dağıtım**  
+
+  &nbsp; DOC belgelerini otomatik iş akışları aracılığıyla göndermeden önce dinamik olarak koruyun.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

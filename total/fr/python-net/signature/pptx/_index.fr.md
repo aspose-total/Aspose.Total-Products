@@ -73,7 +73,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La signature des fichiers PPTX permet aux présentations de porter des métadonnées d'approbation et de publication explicites, empêchant toute distribution non autorisée ou prématurée.
+
+
+
+L'automatisation basée sur Python garantit que la validation des présentations est cohérente entre les équipes et les versions.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Approbation du deck exécutif**  
+
+  Signez les decks PPTX avant leur distribution aux dirigeants.
+
+
+
+* **Finalisation de la présentation commerciale**  
+
+  Appliquez des indicateurs d'approbation aux decks destinés aux clients.
+
+
+
+* **Certification du matériel de formation**  
+
+  Marquez les présentations de formation approuvées.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Signature déclenchée par l'approbation des parties prenantes**  
+
+  Les fichiers PPTX sont signés lorsque les approbations sont enregistrées.
+
+
+
+* **Application de l'application des versions contrôlées**  
+
+  Seuls les decks signés sont partagés à l'externe.
+
+
+
+* **Publication automatisée des présentations**  
+
+  La signature est intégrée aux flux de travail de publication.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

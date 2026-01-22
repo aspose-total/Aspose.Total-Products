@@ -98,7 +98,93 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Words for Python via 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Trích xuất siêu dữ liệu tài liệu cho các tệp **DOT** thông qua Python APIs hỗ trợ hiểu và quản lý tài sản mẫu cũ bằng cách đọc các thuộc tính nhúng như tác giả mẫu, thời gian tạo và các trường mô tả. Điều này quan trọng cho việc chuẩn hóa, quản trị và duy trì các đầu ra tài liệu nhất quán trên toàn bộ tổ chức.
+
+
+
+Trong các hệ thống tự động, siêu dữ liệu DOT cho phép quản lý vòng đời mẫu kiểm soát - giúp các đường ống chọn mẫu chính xác, thực thi các tiêu chuẩn được chấp nhận và phát hiện các tệp mẫu lỗi thời hoặc không được quản lý ở quy mô lớn.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tạo Danh Mục Mẫu**
+
+  Trích xuất siêu dữ liệu DOT để xây dựng một kho tài liệu có thể tìm kiếm về các mẫu và mục đích dự kiến của chúng.
+
+
+
+* **Thực Thi Chuẩn Hóa**
+
+  Xác định các mẫu nào được chấp nhận bằng cách kiểm tra quyền sở hữu và các thuộc tính mô tả.
+
+
+
+* **Theo Dõi Vòng Đời Mẫu**
+
+  Theo dõi thời gian tạo/sửa để phát hiện các mẫu lỗi thời cần được sửa đổi hoặc rút lui.
+
+
+
+* **Quản Trị Sử Dụng Mẫu**
+
+  Sử dụng siêu dữ liệu để liên kết các mẫu với các bộ phận hoặc luồng công việc để phân phối kiểm soát.
+
+
+
+* **Bản Ghi Mẫu Sẵn Sàng Kiểm Toán**
+
+  Tạo bản ghi có thể theo dõi cho thấy nguồn gốc mẫu và lịch sử bảo trì cho nhu cầu tuân thủ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Tình Huống Tự Động Hóa" %}}
+
+
+
+* **Kiểm Soát Cửa Mẫu Được Chấp Nhận**
+
+  Tự động chặn các mẫu DOT không được chấp nhận khỏi việc lưu trữ trong các kho chung dựa trên quy tắc siêu dữ liệu.
+
+
+
+* **Thông Báo Làm Mới Mẫu Định Kỳ**
+
+  Kích hoạt thông báo định kỳ khi các mẫu DOT vượt quá ngưỡng tuổi hoặc thiếu trường người bảo trì.
+
+
+
+* **Tự Động Chọn Mẫu**
+
+  Sử dụng siêu dữ liệu để chọn mẫu DOT chính xác cho một luồng công việc hoặc bộ phận cụ thể một cách tự động.
+
+
+
+* **Luồng Công Việc Dọn Dẹp Kho**
+
+  Xác định và cách ly các mẫu DOT trùng lặp hoặc lỗi thời bằng cách sử dụng độ tương đồng và thời điểm dựa trên siêu dữ liệu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

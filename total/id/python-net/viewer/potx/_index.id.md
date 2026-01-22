@@ -89,7 +89,73 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Melihat file POTX menggunakan API Python memungkinkan inspeksi template presentasi modern yang digunakan dalam generasi slide otomatis.
+
+Ini mendukung alur kerja presentasi yang dapat diskalakan berbasis template.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Inspeksi Template Modern**  
+
+  Lihat master slide dan layout.
+
+
+
+* **Pengecekan Konsistensi Branding**  
+
+  Pastikan template mengikuti standar presentasi.
+
+
+
+* **Validasi Kesiapan Otomatisasi**  
+
+  Periksa template sebelum digunakan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pipelines Penyebaran Template**  
+
+  File POTX dirender sebelum diluncurkan.
+
+
+
+* **Sistem Presentasi Otomatis**  
+
+  Melihat memastikan template berfungsi dengan benar.
+
+
+
+* **Alur Kerja Jaminan Kualitas**  
+
+  Template divalidasi secara programatis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

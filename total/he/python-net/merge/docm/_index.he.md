@@ -76,7 +76,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+מיזוג מסמכי Word המאפשרים מאקרו באמצעות Python APIs מאפשר תיקון מבנה של מסמך תוך שמירה על הלוגיקה המוטבעת וההתנהגות המתקדמת של המסמך. זה חיוני לסביבות עסקיות בהן המסמכים כוללים אוטומציה, טפסים או שדות מחושבים.
+
+
+
+מיזוג DOCM אוטומטי תומך בזרימות עבודה במסמכים בהם משולבת לוגיקה, כאשר קבצים אלו משולבים באופן אמין ללא התערבות ידנית, מבטיח רציפות תפעולית ויעילות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **אספקת תבנית על בסיס מאקרו (DOCM)**  
+
+&nbsp; מיזוג מסמכים מרובי מאקרו למסמך יישומי יחיד.
+
+
+
+* **איחוד מסמכים תפעוליים (DOCM)**  
+
+&nbsp; איחוד קבצי DOCM המשמשים במחלקות שונות לקבצים תפעוליים מאוחדים.
+
+
+
+* **איחוד תיעוד תהליכים (DOCM)**  
+
+&nbsp; שילוב של הוראות וכלים בבסיס DOCM למסמך שליטה אחד.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **יצירת קבצי תאימות באופן אוטומטי (DOCM)**  
+
+&nbsp; מערכות ממזגות קבצי DOCM באופן אוטומטי כדי לייצר מסמכים מוכנים לתקנות.
+
+
+
+* **הרכבת מסמך על פי כללי תהליך (DOCM)**  
+
+&nbsp; קבצי DOCM מתמזגים באופן דינמי בהתאם לכללי תהליך העבודה.
+
+
+
+* **שמירת מאקרו בשליטה מאחורית (DOCM)**  
+
+&nbsp; צינורות אוטומטיים ממזגים קבצי DOCM תוך שמירה על הלוגיקה המוטבעת.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ไฟล์ ODP ใช้สำหรับงานนำเสนอมาตรฐานที่มีสไลด์หลายฉบับและส่วนประกอบทางสื่อสื่อ การแยกไฟล์ ODP ช่วยให้สามารถเข้าถึงและนำไปใช้ในระดับสไลด์ได้
+
+
+
+การใช้ Python automation สนับสนุนการแยกไฟล์ ODP อย่างมีประสิทธิภาพสำหรับการประมวลผลงานนำเสนอและการนำเนื้อหาไปใช้ใหม่
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* **การนำไปใช้ใหม่ในระดับสไลด์**  
+
+&nbsp; สามารถแยกสไลด์แต่ละชิ้นและนำไปใช้ในสไลด์อื่น
+
+
+
+* **การวิเคราะห์เนื้อหางานนำเสนอ**  
+
+&nbsp; วิเคราะห์สไลด์แต่ละชิ้นอิสระสำหรับโครงสร้างหรือเมตาดาต้า
+
+
+
+* **การแก้ไขร่วมกัน**  
+
+&nbsp; ทีมทำงานบนชุดสไลด์ที่แยกออกมา
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* **การแยกสไลด์โดยอัตโนมัติ**  
+
+&nbsp; สคริปต์ Python แยกสไลด์โดยโปรแกรม
+
+
+
+* **การประกอบงานนำเสนอแบบไดนามิก**  
+
+&nbsp; สไลด์ถูกรวมกันตามกฎการทำงานในเวลาที่กำหนด
+
+
+
+* **ระบบเก็บข้อมูลงานนำเสนอ**  
+
+&nbsp; สไลด์ถูกจัดทำดัชนีเป็นรายบุคคลสำหรับการเรียกคืน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

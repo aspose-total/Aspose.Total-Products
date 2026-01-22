@@ -90,7 +90,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Просмотр документов Word с помощью API Python обеспечивает единый способ проверки файлов на основе текста в различных форматах, совместимых с Word.
+
+Это обеспечивает последовательную обработку документов в автоматизированных системах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Единый просмотр документов**  
+
+  Просмотр различных документов Word через один интерфейс.
+
+
+
+* **Проверка согласованности контента**  
+
+  Проверка текста и структуры документов.
+
+
+
+* **Интеграция в рабочий процесс**  
+
+  Встраивание просмотра документов в обработку в рабочих конвейерах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированные конвейеры контента**  
+
+  Процессы Python обрабатывают документы Word во время многоэтапных рабочих процессов.
+
+
+
+* **Сервис предварительного просмотра**  
+
+  Документы динамически отображаются для проверки или утверждения.
+
+
+
+* **Пакетные операции с документами**  
+
+  Большие наборы файлов Word просматриваются программно.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

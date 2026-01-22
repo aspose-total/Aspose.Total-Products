@@ -89,7 +89,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+عرض ملفات PPT باستخدام واجهات برمجة التطبيقات في Python يمكن تفتيش الوثائق التقديمية القديمة المستخدمة في الأنظمة القديمة.
+
+هذا يدعم الأتمتة حيث يكون الانسجام مع الإصدارات السابقة مطلوبًا.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **مراجعة العروض التقديمية القديمة**  
+
+   عرض العروض التقديمية القديمة بشكل برمجي.
+
+
+
+* **دعم هجرة المحتوى**  
+
+   تفتيش العروض التقديمية قبل الترقية إلى تنسيقات جديدة.
+
+
+
+* **التحقق من صحة العروض التقديمية**  
+
+   التأكد من أن بيانات الشرائح تظل سليمة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **أنابيب التدقيق القديمة**  
+
+   سيناريوهات Python تقوم بتقديم ملفات PPT للتفتيش.
+
+
+
+* **التحقق قبل التحويل**  
+
+   العرض يضمن تحويل التنسيق بشكل آمن.
+
+
+
+* **مراجعة العروض التقديمية بالدُفعات**  
+
+   يتم تفتيش المجموعات الكبيرة تلقائيًا.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

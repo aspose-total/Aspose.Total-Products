@@ -89,7 +89,73 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Python via
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Xem các bản trình bày PowerPoint với Python APIs cho phép truy cập theo chương trình vào nội dung dựa trên slide để xem xét và xác nhận.
+
+Điều này hỗ trợ báo cáo tự động, quy trình trình bày và đường ống nội dung.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Xem Xét Nội Dung Slide**  
+
+&nbsp; Xem các slide theo thứ tự mà không cần mở phần mềm trình bày.
+
+
+
+* **Kiểm Tra Chất Lượng Trình Bày**  
+
+&nbsp; Kiểm tra bố cục và văn bản trên các bộ slide.
+
+
+
+* **Hỗ Trợ Tự Động Hóa Báo Cáo**  
+
+&nbsp; Xác nhận các bản trình bày được tạo ra trước khi phân phối.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Xem Xét Tự Động Hóa Bộ Slide**  
+
+&nbsp; Quy trình làm việc Python hiển thị các slide sau khi tạo ra tự động.
+
+
+
+* **Kiểm Tra Bộ Slide Theo Lô**  
+
+&nbsp; Nhiều bản trình bày được xem xét theo chương trình.
+
+
+
+* **Dịch Vụ Xem Trước cho Các Bên Liên Quan**  
+
+&nbsp; Các slide được hiển thị động để phê duyệt quy trình làm việc.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

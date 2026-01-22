@@ -78,7 +78,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Łączenie binarnych skoroszytów Excel za pomocą interfejsów API w języku Python umożliwia efektywne zarządzanie dużymi zestawami danych przy zmniejszonym rozmiarze pliku. Ten format jest zoptymalizowany dla środowisk wymagających wysokiej wydajności, które mają do czynienia z dużymi wolumenami danych.
+
+
+
+Automatyzacja wokół łączenia plików XLSB wspiera skalowalne przepływy pracy analitycznej, zachowując szybkość i efektywność.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+
+
+* **Konsolidacja danych o dużej objętości (XLSB)**  
+
+&nbsp; Scal duże binarne arkusze kalkulacyjne w pojedynczy arkusz analityczny.
+
+
+
+* **Raportowanie krytyczne pod względem wydajności (XLSB)**  
+
+&nbsp; Łącz pliki XLSB zoptymalizowane pod kątem szybkiego wczytywania i przetwarzania.
+
+
+
+* **Magazynowanie danych przedsiębiorstwa (XLSB)**  
+
+&nbsp; Agreguj zbiory danych XLSB dla analiz poniżej.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Automatyczne przetwarzanie dużych plików (XLSB)**  
+
+&nbsp; Systemy łączą pliki XLSB podczas przesyłania danych o dużej objętości.
+
+
+
+* **Integracja potoku analitycznego (XLSB)**  
+
+&nbsp; Łączenie plików XLSB zachodzi w ramach zautomatyzowanych przepływów pracy analitycznej.
+
+
+
+* **Zasobooszczędne zadania wsadowe (XLSB)**  
+
+&nbsp; Binarne arkusze kalkulacyjne są łączone w zaplanowanych procesach wsadowych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

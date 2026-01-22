@@ -71,7 +71,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Podpisywanie dokumentów DOCX za pomocą interfejsów API w języku Python umożliwia dodanie sprawdzalnych metadanych zatwierdzenia do strukturalnych, nowoczesnych dokumentów. Wsparcie dla śledzenia i kontrolowania cykli życia dokumentów.
+
+
+
+Zautomatyzowane podpisywanie plików DOCX integruje się bezproblemowo z silnikami treści, systemami zatwierdzania i repozytoriami dokumentów na dużą skalę.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+
+
+* **Finalizacja cyfrowych umów**  
+
+&nbsp; Osadzaj podpisy zatwierdzenia w finalizowanych umowach DOCX.
+
+
+
+* **Śledzenie zatwierdzeń raportów**  
+
+&nbsp; Podpisuj raporty DOCX, aby potwierdzić zatwierdzenie menedżerskie.
+
+
+
+* **Zarządzanie dokumentacją wewnętrzną**  
+
+&nbsp; Dodawaj podpisy do zweryfikowanych dokumentów wewnętrznych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Podpisywanie umów związanych z zdarzeniami**  
+
+&nbsp; Pliki DOCX są podpisywane automatycznie po zdarzeniach zatwierdzenia.
+
+
+
+* **Zakończenie wieloetapowej recenzji**  
+
+&nbsp; Podpisywanie następuje po zakończeniu zadań przez wszystkich recenzentów.
+
+
+
+* **Zatwierdzanie dokumentacji oparte na CI**  
+
+&nbsp; Pliki DOCX są podpisywane jako część zautomatyzowanych procesów budowania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -100,7 +100,75 @@ Para obter mais detalhes, consulte [Documentação do Produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Análise de **apresentações PPT** usando APIs do Python permite a extração de texto de slides, notas e elementos estruturais de arquivos de apresentação. Isso torna o conhecimento baseado em slides acessível a sistemas automatizados.
+
+
+
+Em contextos de automação, a análise de apresentações suporta a reutilização de conteúdo, a sumarização e a integração em fluxos de trabalho de documentação ou análise.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Extração de Conteúdo de Slides**  
+
+  &nbsp; Recupera títulos, marcadores e notas do apresentador.
+
+
+
+* **Análise de Arquivo de Apresentação**  
+
+  &nbsp; Torna as antigas apresentações de slides pesquisáveis e analisáveis.
+
+
+
+* **Pipelines de Reaproveitamento de Conteúdo**  
+
+  &nbsp; Converte material de apresentação em outros formatos de conteúdo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Sumarização Automatizada de Slides**  
+
+  &nbsp; Gera resumos concisos a partir do conteúdo dos slides analisados.
+
+
+
+* **População da Base de Conhecimento**  
+
+  &nbsp; Ingestão de dados de apresentação em repositórios estruturados.
+
+
+
+* **Automação de Comparação de Versões**  
+
+  &nbsp; Detecta alterações entre diferentes versões de apresentação.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

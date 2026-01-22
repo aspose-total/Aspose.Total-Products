@@ -79,7 +79,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Word文档涵盖了一系列结构化文本格式，用于商业和技术工作流程中。拆分Word文档可以实现对相关内容部分的专注访问。
+
+
+
+基于Python的拆分支持自动化，通过在系统间实现一致、可扩展的文档处理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **基于章节的内容处理**  
+
+  处理章节或部分的独立性。
+
+
+
+* **大型文档优化**  
+
+  通过拆分过大的文件来提高性能。
+
+
+
+* **内容治理**  
+
+  对单个文档部分应用规则。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **统一文档处理流水线**  
+
+  Word文档被自动拆分和处理。
+
+
+
+* **自动化内容路由**  
+
+  根据逻辑将部分发送到不同系统。
+
+
+
+* **可扩展的知识提取**  
+
+  提取的部分用于分析或人工智能工作流。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

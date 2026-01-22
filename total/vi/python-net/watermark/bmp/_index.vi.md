@@ -73,7 +73,85 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Imaging for Python via
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Đánh dấu bản quyền hình ảnh **BMP** bằng Python APIs thêm sở hữu rõ ràng, nguồn gốc và chống sửa đổi vào đồ họa raster không nén thường được sử dụng trong các quy trình in và tài sản kỹ thuật.
+
+Do tập tin BMP lớn và không mất mát, việc đánh dấu bằng Python là lựa chọn lý tưởng cho **lớp phủ chất lượng cao**, quy tắc vẽ lặp lại và vị trí nhất quán trên thư viện hình ảnh.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Đánh Dấu Sở Hữu Tài Sản Kỹ Thuật**  
+
+&nbsp; Thêm nhãn bộ phận hoặc dự án vào các bitmap kỹ thuật để giảm tái sử dụng và định tuyến sai lầm.
+
+
+
+* **Đóng Dấu Chứng Nhận Sẵn Sàng In**  
+
+&nbsp; Áp dụng lớp "PROOF" hoặc "DRAFT" mà không gây ra hiện tượng nén có thể ảnh hưởng đến việc xem xét phê duyệt.
+
+
+
+* **Thương Hiệu Hình Ảnh Catalog ở Chất Lượng Gốc**  
+
+&nbsp; Nhúng nhãn định danh nhất quán trong khi bảo tồn dữ liệu pixel gốc cho các chuyển đổi phía dưới.
+
+
+
+* **Nhãn Tuân Thủ cho Hình Ảnh Hạn Chế**  
+
+&nbsp; Đánh dấu chú thích đồ họa nhạy cảm với các phân loại truy cập để hỗ trợ xử lý theo chính sách.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Đánh Dấu Nhiều Hình Ảnh Tại Cùng Một Lúc trong Quy Trình Tiếp Nhận**  
+
+&nbsp; Tự động đóng dấu vào các tập tin BMP mới được tải lên khi chúng nhập vào kho lưu trữ đa phương tiện.
+
+
+
+* **Đặt Vị Trí Dựa Trên Quy Tắc Theo Kích Thước**  
+
+&nbsp; Điều chỉnh kích thước và lề đồng thời dựa trên độ phân giải hình ảnh.
+
+
+
+* **Tạo Bản Chứng Nhận Khi Sự Kiện Xảy Ra**  
+
+&nbsp; Tạo các biến thể đã được đánh dấu khi trạng thái tập tin thay đổi sang xem xét hoặc phê duyệt.
+
+
+
+* **Theo Dõi Kép Bằng Checksum + Đánh Dấu**  
+
+&nbsp; Kết hợp đánh dấu với băm tập tin để cải thiện khả năng theo dõi trong các cuộc kiểm tra tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

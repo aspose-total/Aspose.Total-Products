@@ -90,7 +90,73 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La visualizzazione dei documenti DOCM con le API di Python consente un'ispezione sicura dei documenti abilitati alle macro senza eseguire la logica incorporata.
+
+Questo è essenziale per gli ambienti controllati in cui è richiesta visibilità senza rischi per la sicurezza.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Revisione dei documenti consapevole delle macro**  
+
+&nbsp; Visualizza il contenuto mantenendo inattive le macro.
+
+
+
+* **Ispezione orientata alla sicurezza**  
+
+&nbsp; Esamina i documenti per struttura e testo senza eseguirli.
+
+
+
+* **Accesso controllato ai documenti**  
+
+&nbsp; Consente la visualizzazione sicura in sistemi restrittivi o automatizzati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Flussi di lavoro di ingresso sicuri**  
+
+&nbsp; L'automazione con Python visualizza il contenuto DOCM senza attivare le macro.
+
+
+
+* **Automazione della revisione della conformità**  
+
+&nbsp; I documenti sono visualizzati come parte dei controlli automatici di conformità.
+
+
+
+* **Flussi di lavoro di approvazione preventiva**  
+
+&nbsp; Le anteprime automatizzate supportano le approvazioni con intervento umano.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

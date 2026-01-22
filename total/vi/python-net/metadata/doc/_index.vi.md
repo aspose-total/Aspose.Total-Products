@@ -98,7 +98,93 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Words for Python via 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Trích xuất siêu dữ liệu tài liệu cho các tệp **DOC** thông qua Python APIs cho phép hệ thống đọc và hiểu các thuộc tính cơ bản của tệp—như tác giả, thời gian tạo, thời gian sửa đổi cuối cùng, số lần sửa đổi, và các thuộc tính nhúng—mà không cần kiểm tra thủ công. Điều này quan trọng cho việc quản lý, tìm kiếm, kiểm toán, và kiểm soát vòng đời nội dung trong các quy trình làm việc với tài liệu nhiều.
+
+
+
+Khi tích hợp vào các đường ống tự động hóa, siêu dữ liệu DOC trở thành một tín hiệu đáng tin cậy cho định tuyến, kiểm tra tuân thủ, lập chỉ mục, và xử lý hàng loạt—hỗ trợ các hoạt động tài liệu có thể mở rộng, phân loại nhất quán, và tích hợp với các lớp lưu trữ, tìm kiếm, và báo cáo ở tầng dưới.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Danh Mục Tài Liệu Kế Thừa**
+
+  Trích xuất siêu dữ liệu từ các lưu trữ DOC để xây dựng một chỉ mục có cấu trúc cho việc khám phá, loại bỏ bản sao, và lập kế hoạch vòng đời.
+
+
+
+* **Xác Minh Dấu Thời Gian Tuân Thủ**
+
+  Sử dụng các trường tạo/sửa đổi để xác minh các quy tắc lưu giữ và phát hiện các bất thường trong tài liệu được quy định.
+
+
+
+* **Ánh Xạ Sở Hữu Tài Liệu**
+
+  Đọc các thuộc tính tác giả và biên tập cuối cùng để ánh xạ sở hữu tài liệu cho việc giao bài đánh giá và kiểm soát truy cập.
+
+
+
+* **Phân Loại Hàng Loạt cho Tìm Kiếm**
+
+  Chuyển đổi các thuộc tính nhúng thành các thẻ chuẩn hóa để lọc nhất quán và bổ sung tìm kiếm nội bộ.
+
+
+
+* **Tín Hiệu Theo Dõi Thay Đổi**
+
+  Bắt các trường liên quan đến sửa đổi để hỗ trợ tính theo dõi trong quy trình biên tập và phê duyệt.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Cổng Nhập Lưu Trữ**
+
+  Tự động chấp nhận hoặc cách ly các tệp DOC dựa trên việc thiếu trường tác giả, dấu thời gian đáng ngờ, hoặc mẫu siêu dữ liệu không hợp lệ.
+
+
+
+* **Đồng Bộ Siêu Dữ Liệu với Chỉ Mục**
+
+  Khi tải lên, trích xuất siêu dữ liệu DOC và đẩy vào một chỉ mục tìm kiếm để kết quả luôn cập nhật mà không cần lập chỉ mục thủ công.
+
+
+
+* **Quy Tắc Định Tuyến Dựa trên Chính Sách**
+
+  Định tuyến tệp DOC vào các hàng đợi cụ thể khi siêu dữ liệu cho thấy nội dung mật, phiên bản lỗi thời, hoặc sở hữu không xác định.
+
+
+
+* **Kiểm Tra Siêu Dữ Liệu Theo Lịch Trình**
+
+  Chạy quét hàng đêm để phát hiện sự thay đổi siêu dữ liệu và tạo báo cáo ngoại lệ cho các nhóm vận hành.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

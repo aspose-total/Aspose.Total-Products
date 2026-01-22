@@ -90,7 +90,75 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Words for Python via 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Xem DOTM bằng Python APIs cho phép kiểm tra an toàn các mẫu Word có kích hoạt macro mà không thực thi logic nhúng.
+
+Điều này rất quan trọng trong môi trường kiểm soát nơi khả năng nhìn thấy và bảo mật phải cùng tồn tại.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Đánh Giá Mẫu Có Kích Hoạt Macro**  
+
+  Xem nội dung mẫu trong khi giữ các macro không hoạt động.
+
+
+
+* **Kiểm Tra Hướng Bảo Mật**  
+
+  Kiểm tra cấu trúc mà không tiết lộ hệ thống cho các rủi ro thực thi.
+
+
+
+* **Quy Trình Phê Duyệt Mẫu**  
+
+  Xem xét các mẫu trước khi phân phối kiểm soát.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Tiếp Nhận Mẫu An Toàn**  
+
+  Các trình xem Python hiển thị tệp DOTM một cách an toàn trong quá trình tiếp nhận.
+
+  
+
+* **Tự Động Hóa Quản Trị**  
+
+  Các mẫu được xem xét như một phần của các kiểm tra chính sách tự động.
+
+
+
+* **Các Luồng Xử Lý Xác Nhận Trước Sử Dụng**  
+
+  Các xem trước tự động hỗ trợ các luồng công việc phê duyệt.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

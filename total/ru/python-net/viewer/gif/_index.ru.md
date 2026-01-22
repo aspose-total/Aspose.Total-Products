@@ -82,7 +82,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Просмотр GIF с помощью Python API позволяет визуализировать анимированные или статические последовательности изображений для проверки и верификации.
+
+Это поддерживает автоматизированные рабочие процессы, включающие графику движения или визуальные индикаторы.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Просмотр анимированного контента**  
+
+  Просмотр анимаций на основе кадров программно.
+
+
+
+* **Проверка визуальных индикаторов**  
+
+  Проверка анимированных сигналов или инструкционной графики.
+
+
+
+* **Проверка медиа-ресурсов**  
+
+  Просмотр последовательностей изображений, используемых в рабочих процессах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированная проверка медиа-ресурсов**  
+
+  Python-конвейеры отображают GIF во время проверки качества.
+
+
+
+* **Системы генерации предварительных просмотров**  
+
+  Анимированные предварительные просмотры рендерятся динамически.
+
+
+
+* **Визуализация отладки рабочего процесса**  
+
+  GIF просматриваются для визуальной проверки состояний процесса.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -133,7 +199,7 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

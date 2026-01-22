@@ -100,7 +100,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri kullanarak **PPTX sunumlarının** ayrıştırılması, modern sunum dosyalarından slayt metni, başlıklar, madde işaretleri, düzenler ve konuşmacı notlarına yapılandırılmış erişim sağlar. PPTX ayrıştırma, slayt tabanlı bilgiye manuel görüntülemenin ötesinde erişilebilir hale getirir.
+
+
+
+Otomasyon odaklı sistemlerde, PPTX ayrıştırma içerik yeniden kullanımını, özetleme, analitik ve bilgi yönetimi ile raporlama boru hatlarına entegrasyonu destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Slayt İçeriği Çıkarma**  
+
+&nbsp; Sunum slaytlarından yapılandırılmış metin ve düzen öğelerini alır.
+
+
+
+* **Sunum Bilgi Madenciliği**  
+
+&nbsp; Slayt paketlerini aranabilir ve analiz edilebilir içerik kaynaklarına dönüştürür.
+
+
+
+* **İçeriğin Yeniden Kullanım İş Akışları**  
+
+&nbsp; Sunum materyalinin belgeler ve platformlar arasında yeniden kullanımını sağlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik Sunum Alma**  
+
+&nbsp; PPTX dosyalarını otomatik olarak yükleme veya zamanlama üzerine işler.
+
+
+
+* **Slayt Düzeyinde Özetleme Boru Hatları**  
+
+&nbsp; Ayrıştırılmış slayt içeriğinden öz ve özlü özetler oluşturur.
+
+
+
+* **Sürüm Karşılaştırma Otomasyonu**  
+
+&nbsp; Birden fazla sunum sürümü arasındaki değişiklikleri programatik olarak tespit eder.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

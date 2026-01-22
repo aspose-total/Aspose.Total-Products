@@ -95,7 +95,75 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusión de imágenes TIFF utilizando APIs de Python admite flujos de trabajo de imágenes de alta resolución y multi-página comúnmente utilizados en impresión, imágenes médicas y escaneo de documentos.
+
+
+
+La automatización permite el manejo confiable de conjuntos de imágenes grandes y ricos en detalles.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* **Ensamblaje de Escaneo Multi-Página (TIFF)**  
+
+&nbsp; Fusionar páginas TIFF en un solo archivo multi-página.
+
+
+
+* **Procesamiento de Imágenes de Alta Resolución (TIFF)**  
+
+&nbsp; Combinar imágenes TIFF para análisis detallado.
+
+
+
+* **Compilación de Imágenes Listas para Imprimir (TIFF)**  
+
+&nbsp; Agregar archivos TIFF para flujos de trabajo de publicación.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+
+
+* **Tuberías de Escaneo Automatizadas (TIFF)**  
+
+&nbsp; Los sistemas fusionan archivos TIFF durante la ingestión de escaneo.
+
+
+
+* **Procesamiento por Lotes de Alta Resolución (TIFF)**  
+
+&nbsp; La fusión de TIFF se ejecuta en trabajos programados.
+
+
+
+* **Automatización de Imágenes Empresariales (TIFF)**  
+
+&nbsp; Los flujos de trabajo automatizados gestionan grandes conjuntos de datos TIFF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

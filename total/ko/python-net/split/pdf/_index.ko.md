@@ -79,7 +79,75 @@ PDF 파일을 쉽게 분할하기 위해 Python 스크립트 또는 유틸리티
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PDF 파일은 콘텐츠가 페이지에 걸쳐 분산되는 고정 레이아웃 문서에 널리 사용됩니다. PDF를 분할하면 원본 파일을 수정하지 않고 페이지 수준 또는 섹션 수준의 액세스가 가능해집니다.
+
+
+
+파이썬을 활용한 PDF 분할은 대규모 처리, 선택적 추출 및 문서 파이프라인 통합을 통해 자동화를 강화합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **페이지 수준 추출**  
+
+&nbsp; 검토 또는 배포를 위해 특정 페이지를 분리합니다.
+
+
+
+* **문서 분할**  
+
+&nbsp; 대형 PDF를 논리적 섹션으로 분할합니다.
+
+
+
+* **컴플라이언스 및 감사 처리**  
+
+&nbsp; 검증을 위해 관련 부분을 추출합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 PDF 처리 파이프라인**  
+
+&nbsp; 수천 개의 PDF가 자동으로 분할됩니다.
+
+
+
+* **규칙 기반 페이지 분리**  
+
+&nbsp; Python 논리를 사용하여 PDF를 페이지 규칙에 따라 분할합니다.
+
+
+
+* **자동화된 콘텐츠 배포**  
+
+&nbsp; 추출된 PDF가 대상 시스템으로 라우팅됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

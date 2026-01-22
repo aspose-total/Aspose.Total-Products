@@ -79,7 +79,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+파이썬 API를 사용하여 PowerPoint 템플릿 형식을 병합하면 프레젠테이션 전체에 걸쳐 일관된 디자인, 레이아웃 및 브랜딩이 보장됩니다. 템플릿은 표준화된 슬라이드 제작에 중요합니다.
+
+
+
+자동화를 통해 대규모로 일관된 프레젠테이션을 신속하게 생성할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **템플릿 기반 덱 조립 (POT)**  
+
+&nbsp; 일관된 레이아웃을 강제하기 위해 POT 기반 파일을 병합합니다.
+
+
+
+* **표준화된 프레젠테이션 생성 (POT)**  
+
+&nbsp; 템플릿 기반 프레젠테이션을 하나의 덱으로 통합합니다.
+
+
+
+* **재사용 가능한 디자인 관리 (POT)**  
+
+&nbsp; 일관된 슬라이드 스타일링을 위해 POT 파일을 집계합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동화된 템플릿 적용 (POT)**  
+
+&nbsp; 프레젠테이션 생성 중에 POT 파일이 병합됩니다.
+
+
+
+* **일괄 템플릿 처리 (POT)**  
+
+&nbsp; 예약된 작업이 템플릿 기반 덱을 병합합니다.
+
+
+
+* **디자인 제어된 자동화 (POT)**  
+
+&nbsp; 시스템이 브랜딩 일관성을 보장하기 위해 POT 파일을 병합합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

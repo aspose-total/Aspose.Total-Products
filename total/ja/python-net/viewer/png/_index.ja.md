@@ -82,7 +82,73 @@ PNG ビューア アプリまたはユーティリティを開発する必要が
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用したPNGの表示は、高品質でロスレスな画像レンダリングと透明度の処理をサポートしています。
+
+これは、視覚的な正確さと柔軟な画像統合が必要な自動化シナリオに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シーン" %}}
+
+
+
+* **ロスレス画像レビュー**
+
+&nbsp; 圧縮アーティファクトなしで画像を表示します。
+
+
+
+* **透明なアセット検査**
+
+&nbsp; アルファチャンネルを持つ画像を正確に検査します。
+
+
+
+* **UIアセットの検証**
+
+&nbsp; アプリケーションやドキュメントで使用される視覚アセットを確認します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **アセットパイプラインの自動化**
+
+&nbsp; PythonスクリプトがPNGファイルをビルド中や展開時のチェック中にレンダリングします。
+
+
+
+* **ダイナミックプレビューサービス**
+
+&nbsp; 画像がダッシュボードやツールで自動的に表示されます。
+
+
+
+* **ビジュアルリグレッションテスト**
+
+&nbsp; 自動表示が比較と検証ワークフローをサポートします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

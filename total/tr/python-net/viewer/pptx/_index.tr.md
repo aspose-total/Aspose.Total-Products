@@ -89,7 +89,73 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri kullanarak PowerPoint PPTX sunumlarını görüntülemek, birden fazla formatta slayt tabanlı belgelere birleşik erişim sağlar.
+
+Bu, otomatik inceleme ve sunum odaklı iş akışlarını destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Birleşik Slayt İnceleme**  
+
+&nbsp; Farklı varyantlara bakılmaksızın sunumları görüntüleyin.
+
+
+
+* **Sunum Doğrulama**  
+
+&nbsp; Slayt içeriğini ve düzenini inceleyin.
+
+
+
+* **İş Akışı Entegrasyonu**  
+
+&nbsp; Görüntülemeyi otomatik sistemlere gömün.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik İnceleme Boruları**  
+
+&nbsp; Sunumlar doğrulama sırasında oluşturulur.
+
+
+
+* **Önizleme Hizmetleri**  
+
+&nbsp; Slaytlar paydaşlar için dinamik olarak gösterilir.
+
+
+
+* **Toplu Sunum İşlemleri**  
+
+&nbsp; Birden fazla sunum programlı olarak görüntülenir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

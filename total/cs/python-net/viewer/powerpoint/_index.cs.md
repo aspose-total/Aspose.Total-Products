@@ -89,7 +89,73 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Prohlížení prezentací PowerPoint s Python API umožňuje programatický přístup k obsahu na jednotlivých snímcích pro kontrolu a validaci.
+
+Toto podporuje automatizované generování reportů, pracovní postupy prezentací a obsahové toky.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Kontrola obsahu snímků**  
+
+&nbsp; Prohlížení snímků postupně bez otevírání prezentovacího softwaru.
+
+
+
+* **Kontroly kvality prezentace**  
+
+&nbsp; Kontrola rozložení a textu napříč prezentacemi.
+
+
+
+* **Podpora automatizace reportů**  
+
+&nbsp; Validace generovaných prezentací před distribucí.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizovaná kontrola generovaných snímků**  
+
+&nbsp; Pythonové pracovní postupy zobrazují snímky po automatizovaném vytvoření.
+
+
+
+* **Hromadné auditace prezentací**  
+
+&nbsp; Více prezentací je programaticky kontrolováno.
+
+
+
+* **Náhledové služby pro zainteresované strany**  
+
+&nbsp; Snímky jsou dynamicky renderovány pro schvalovací pracovní postupy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Об'єднання форматів шаблонів Excel за допомогою Python APIs забезпечує однакову структуру та макет у створених електронних таблицях. Об'єднання на основі шаблонів є критичним для стандартизованої звітності та робочих процесів з введення даних.
+
+
+
+Автоматизація дозволяє швидко створювати однорідні електронні таблиці без ручного форматування.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+
+
+
+* **Збірка електронних таблиць на основі шаблонів (XLT)**  
+
+&nbsp; Об'єднуйте файли на основі XLT для забезпечення однакових макетів.
+
+
+
+* **Стандартизований збір даних (XLT)**  
+
+&nbsp; Об'єднайте електронні таблиці на основі шаблонів в один файл.
+
+
+
+* **Повторне використання структур електронних таблиць (XLT)**  
+
+&nbsp; Об'єднайте документи на основі XLT для збереження єдиної конструкції.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Автоматизоване застосування шаблонів (XLT)**  
+
+&nbsp; Файли XLT об'єднуються автоматично під час генерації.
+
+
+
+* **Пакетна обробка шаблонів (XLT)**  
+
+&nbsp; Заплановані завдання об'єднують кілька електронних таблиць на основі XLT.
+
+
+
+* **Автоматизація з контролем макету (XLT)**  
+
+&nbsp; Системи об'єднують файли XLT для гарантії однаковості формату.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

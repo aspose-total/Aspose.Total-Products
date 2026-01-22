@@ -75,7 +75,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+מיזוג חוברות עבודה ב-Excel המודרניות באמצעות Python APIs הוא גישה סטנדרטית לשילוב קבצי נתונים מובנים, דוחות ומודלים. XLSX הוא הפורמט הנפוץ ביותר לגיליון אלקטרוני במערכות מודרניות.
+
+
+
+יכולת זו משתלבת בצורה חלקה עם פלטפורמות נתונים, מאפשרת יצירת גיליונות אלקטרוניים אוטומטית ואיחוד בקנה מידה.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **יצירת דוח במספר גליונות (XLSX)**  
+
+&nbsp; מיזוג קבצי XLSX לתוך חוברת דיווח מקיפה.
+
+
+
+* **איחוד מקורות נתונים (XLSX)**  
+
+&nbsp; שילוב קבצי XLSX ממספר מערכות.
+
+
+
+* **אספקת נתונים בשיתוף פעולה (XLSX)**  
+
+&nbsp; מיזוג קבצי XLSX שנמסרו על ידי מעורבים מרובים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **יצירת גיליון אלקטרוני דינמי (XLSX)**  
+
+&nbsp; מערכות ממזגות קבצי XLSX בהתאם לתנאי נתונים בזמן ריצה.
+
+
+
+* **אינטגרציה של צינור ETL (XLSX)**  
+
+&nbsp; המיזוג של XLSX מופעל באופן אוטומטי בתוך צינורות קליטת נתונים.
+
+
+
+* **אוטומציה של דיווחים בקנה מידה (XLSX)**  
+
+&nbsp; דוחות XLSX במערכות גדולות מתמזגים באופן תכנותי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

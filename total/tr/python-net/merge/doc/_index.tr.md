@@ -78,7 +78,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'ları kullanarak belgeleri birleştirmek, modern içerik işleme, raporlama ve belge yaşam döngüsü yönetimi için temel bir yetenektir. Geliştiricilere ve sistemlere, farklı belge kaynakları arasında biçimlendirmeyi, düzeni ve mantıksal akışı koruyarak birden fazla dosyayı tek bir yapılandırılmış çıktıya birleştirme imkanı sağlar.
+
+
+
+Belge birleştirmeyi otomatikleştirerek, organizasyonlar manuel çabayı azaltabilir, tutarlılığı sağlayabilir ve belge iş akışlarını doğrudan veri borularına, arka uç hizmetlerine ve Python üzerine inşa edilmiş ölçeklenebilir otomasyon sistemlerine entegre edebilir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Konsolide Word Raporları (DOC)**  
+
+&nbsp; Birleşik bir inceleme ve arşivleme için eski Word belgelerini tek bir raporda birleştirin.
+
+
+
+* **Toplu Belge Birleştirme (DOC)**  
+
+&nbsp; Farklı sistemler tarafından oluşturulan birden fazla DOC dosyasını tek bir teslim edilebilir dosyada birleştirin.
+
+
+
+* **Tarihsel İçerik Birleştirme (DOC)**  
+
+&nbsp; Arşivlenmiş DOC dosyalarını birleştirerek eski içerik koleksiyonlarını modernize edin ve yeniden amaçlayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Zamanlanmış Rapor Derlemesi (DOC)**  
+
+&nbsp; Otomatikleştirilmiş işler günlük veya haftalık DOC dosyalarını tek bir dağıtılabilir raporda birleştirir.
+
+
+
+* **İş Akışı Tabanlı Belge Birleştirme (DOC)**  
+
+&nbsp; Arka uç iş akışları, işlem aşamaları tamamlandığında DOC dosyalarını dinamik olarak birleştirir.
+
+
+
+* **Boru Hattı Destekli Çıktı Üretimi (DOC)**  
+
+&nbsp; DOC birleştirme, daha büyük bir belge boru hattının bir parçası olarak programlı olarak tetiklenir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -145,7 +213,7 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

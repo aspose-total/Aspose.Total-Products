@@ -98,7 +98,93 @@ DOCM メタデータ管理アプリまたはユーティリティを開発する
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用した**DOCM**ファイルのドキュメントメタデータ抽出は、マクロを有効にしたコンテンツとその関連するリスクシグナルを考慮しながらシステムが文書のプロパティを検査するのに役立ちます。これは、文書がチームや環境を移動する際に特に重要であり、ガバナンス、安全な取り扱い、および分類に貢献します。
+
+
+
+自動化ワークフローでは、DOCMメタデータを使用してセキュリティスクリーニング、条件付き承認、制限付き配布などの動的コントロールを実行し、ファイルを対話的に開かずにスケーラブルなインデックス作成とレポート作成を可能にします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+
+
+* **マクロを認識したドキュメントのスクリーニング**
+
+  マクロを有効にした文書を追加のレビューと制御された取り扱いのためにフラグ付けするためにメタデータを使用します。
+
+
+
+* **機密ワークフローの分類**
+
+  埋め込まれたプロパティに基づいてDOCMファイルを分類し、より厳しい保存とアクセスポリシーを適用します。
+
+
+
+* **操作の由来の追跡**
+
+  作成および変更履歴フィールドをキャプチャして、マクロを有効にしたファイルがどこでいつ作成されたかを追跡します。
+
+
+
+* **リポジトリの健全性レポート**
+
+  DOCMのボリューム、年齢、所有権に関するレポートを生成して、リスクエクスポージャを管理します。
+
+
+
+* **制御された配布の準備**
+
+  DOCMファイルが下流の共有や公開プロセスに入る前に必要なメタデータフィールドを検証します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **リスクスコア付きの受け入れパイプライン**
+
+  メタデータの完全性と最新性を使用して自動的にDOCMファイルにスコアを付け、それを「レビュー」または「承認済み」のレーンにルーティングします。
+
+
+
+* **制限された保存の強制**
+
+  DOCMファイルが検出された場合、自動化によりそれを制約された場所に移動し、より厳しい保持ルールを適用します。
+
+
+
+* **マクロを有効にした例外アラート**
+
+  DOCMメタデータが予期しない起源、異常なタイムスタンプ、所有権フィールドの欠落を示す場合にアラートをトリガーします。
+
+
+
+* **自動化されたインベントリダッシュボード**
+
+  DOCMメタデータを継続的に抽出して集計し、ガバナンスと運用監視のためのダッシュボードを作成します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+통합된 PowerPoint 호환 워크플로우를 사용하여 다양한 슬라이드 소스를 처리하는 것을 간소화하는 Python API를 사용한 프레젠테이션 형식 병합. 이 추상화는 혼합 형식 환경에서 복잡성을 줄입니다.
+
+
+
+자동화를 통해 형식에 구애받지 않는 슬라이드 통합을 통한 확장 가능한 프레젠테이션 시스템.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **다중 형식 프레젠테이션 통합 (POWERPOINT)**  
+
+&nbsp; 다양한 프레젠테이션 형식을 하나의 덱으로 병합합니다.
+
+
+
+* **다양한 소스 슬라이드 집계 (POWERPOINT)**  
+
+&nbsp; 다른 도구 및 형식에서 슬라이드를 결합합니다.
+
+
+
+* **기업 프레젠테이션 조화 (POWERPOINT)**  
+
+&nbsp; 이질적인 슬라이드 덱을 마스터 프레젠테이션으로 집계합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **형식에 구애받지 않는 슬라이드 파이프라인 (POWERPOINT)**  
+
+&nbsp; 형식에 관계없이 프레젠테이션을 병합하는 자동화된 워크플로우.
+
+
+
+* **통합된 프레젠테이션 생성 (POWERPOINT)**  
+
+&nbsp; 시스템이 동적으로 통합된 덱을 생성합니다.
+
+
+
+* **확장 가능한 슬라이드 조율 (POWERPOINT)**  
+
+&nbsp; 프로그래밍 방식의 병합이 기업 규모의 프레젠테이션을 지원합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

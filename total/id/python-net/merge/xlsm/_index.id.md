@@ -78,7 +78,43 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Menggabungkan lembar kerja Excel yang diaktifkan makro menggunakan API Python memungkinkan konsolidasi logika berbasis data, perhitungan, dan otomatisasi yang tertanam dalam buku kerja. Hal ini umum terjadi di lingkungan operasional dan keuangan.
+
+Penggabungan XLSM secara otomatis memastikan bahwa data dan perilaku yang didorong oleh makro tetap terjaga dalam sistem yang dapat diskalakan.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Perakitan Laporan yang Didorong oleh Makro (XLSM)**
+  &nbsp; Menggabungkan file XLSM yang berisi perhitungan otomatis dan logika.
+
+* **Konsolidasi Buku Kerja Operasional (XLSM)**
+  &nbsp; Menggabungkan lembar kerja yang diaktifkan makro di seluruh departemen.
+
+* **Pengemasan Otomatisasi Proses (XLSM)**
+  &nbsp; Menggabungkan file XLSM yang digunakan dalam proses operasional yang berulang.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* **Generasi Buku Kerja Berbasis Aturan (XLSM)**
+  &nbsp; Sistem menggabungkan file XLSM berdasarkan aturan otomatisasi yang ditentukan.
+
+* **Pemodelan Keuangan Otomatis (XLSM)**
+  &nbsp; Penggabungan XLSM mendukung alur kerja keuangan yang dapat diulang.
+
+* **Pelestarian Makro yang Terkontrol (XLSM)**
+  &nbsp; Pipa-pipa otomatis menggabungkan file XLSM sambil mempertahankan makro.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

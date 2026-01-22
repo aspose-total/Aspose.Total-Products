@@ -90,7 +90,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Просмотр файлов RTF с помощью Python API позволяет осматривать документы с разнообразным форматированием и портативностью.
+
+Это поддерживает автоматизацию в рабочих процессах, требующих базового стилизирования.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Просмотр форматированного текста**  
+
+&nbsp; Просмотр стилизованного текста без полной сложности документа.
+
+
+
+* **Интероперабельный осмотр документов**  
+
+&nbsp; Осмотр документов на различных системах.
+
+
+
+* **Проверка содержимого**  
+
+&nbsp; Гарантия точности форматирования и текста.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированные текстовые конвейеры**  
+
+&nbsp; Рабочие процессы на Python обрабатывают файлы RTF.
+
+
+
+* **Сервис предварительного просмотра**  
+
+&nbsp; Документы динамически отображаются для проверки.
+
+
+
+* **Проверка миграции**  
+
+&nbsp; Просмотр гарантирует безопасное преобразование в другие форматы.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -141,7 +207,7 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

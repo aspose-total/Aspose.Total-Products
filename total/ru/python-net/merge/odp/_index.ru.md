@@ -79,7 +79,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Объединение файлов презентаций OpenDocument с использованием API Python поддерживает открытые стандарты и рабочие процессы презентаций, совместимые с различными платформами. Это идеально подходит для сред, использующих инструменты офиса с открытым исходным кодом.
+
+
+
+Автоматизация обеспечивает взаимодействие и масштабируемую обработку презентаций.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Объединение слайдов на разных платформах (ODP)**  
+
+&nbsp; Объединение файлов ODP, созданных в различных инструментах.
+
+
+
+* **Сборка презентаций по открытым стандартам (ODP)**  
+
+&nbsp; Объединение досок ODP для единой доставки.
+
+
+
+* **Совместная компиляция слайдов (ODP)**  
+
+&nbsp; Объединение файлов ODP от распределенных участников.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Открытые презентационные конвейеры (ODP)**  
+
+&nbsp; Системы объединяют файлы ODP без зависимостей от собственности.
+
+
+
+* **Запланированная компиляция досок (ODP)**  
+
+&nbsp; Объединение ODP выполняется в рамках задач бэкэнда.
+
+
+
+* **Взаимодействующая автоматизация презентаций (ODP)**  
+
+&nbsp; Файлы ODP объединяются динамически в рабочих процессах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

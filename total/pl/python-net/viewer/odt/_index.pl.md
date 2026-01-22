@@ -90,7 +90,73 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Przeglądanie plików ODT za pomocą interfejsów API w języku Python umożliwia inspekcję otwartych dokumentów tekstowych używanych w opartych na standardach przepływach pracy.
+
+To wspiera automatyzację w systemach zorientowanych na dokumenty bez zależności od własności.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe Zastosowania" %}}
+
+
+
+* **Recenzja Otwartego Dokumentu**  
+
+&nbsp; Przeglądaj dokumenty tekstowe w otwartych formatach.
+
+
+
+* **Sprawdzanie Integralności Zawartości**  
+
+&nbsp; Sprawdź strukturę dokumentu i tekst.
+
+
+
+* **Kompatybilność Międzysystemowa**  
+
+&nbsp; Upewnij się, że dokumenty są poprawnie renderowane we wszystkich środowiskach.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Automatyzowane Potoki Dokumentów**  
+
+&nbsp; Procesy w języku Python renderują pliki ODT podczas przepływów pracy.
+
+
+
+* **Walidacja Zgodności**  
+
+&nbsp; Dokumenty są przeglądane pod kątem zgodności ze standardami.
+
+
+
+* **Generowanie Podglądu**  
+
+&nbsp; Zautomatyzowane przeglądarki wspierają przepływy pracy związane z recenzją.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPT dosyaları, hala birçok ortamda kullanılan eski PowerPoint formatlarını temsil eder. PPT dosyalarını korumak, eski sunumların güvenli ve uyumlu kalmasını sağlar.
+
+
+
+Python API'leri, PPT dosyalarının otomatik olarak korunmasını sağlayarak eski içeriğin modern güvenlik standartlarıyla uyumlu hale gelmesini sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Eski Slayt Koruma**  
+
+  Secure older PPT files from unauthorized modifications.
+
+
+
+* **Tarihsel İçerik Koruma**  
+
+  Maintain integrity of archived presentations.
+
+
+
+* **Kontrollü Yeniden Dağıtım**  
+
+  Restrict editing when sharing legacy slide decks.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu Eski Dosya Koruma**  
+
+  Secure large collections of PPT files automatically.
+
+
+
+* **Geçiş Zamanı Güvenliği**  
+
+  Apply protection during legacy system transitions.
+
+
+
+* **Otomatik Erişim Sınırlaması**  
+
+  Enforce consistent restrictions on PPT files programmatically.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

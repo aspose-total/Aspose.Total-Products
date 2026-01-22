@@ -75,7 +75,93 @@ För mer information, se [Produktdokumentation](https://docs.aspose.com/slides/p
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Dokumentmetadataextrahering för **PPTX**-filer via Python-API:er ger strukturerad åtkomst till moderna presentationsattribut och möjliggör konsekvent indexering, granskning och livscykelhantering för presentationsuppsättningar i stor skala. Detta är värdefullt för organisationer som hanterar stora volymer av operationella, utbildnings- eller kundvända presentationer.
+
+
+
+I automatiserade pipeliner blir PPTX-metadata en lättviktig kontrollplan för styrning och styrning: den stöder automatisk klassificering, schemalagda granskningar, publiceringskontroller och integrationer med sök- och innehållshanteringssystem.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* **Presentationskatalog och upptäckt**
+
+  Extrahera PPTX-metadata för att bygga sökbara kataloger efter ämne, ägare och uppdateringshistorik.
+
+
+
+* **Livscykelstyrning för presentationsuppsättningar**
+
+  Använd tidsstämplar och anpassade egenskaper för att genomdriva granskningscykler och policys för innehållsfriskhet.
+
+
+
+* **Automatisk ägarattribuering**
+
+  Kartlägg författare och sista redigerare till ansvariga team för godkännanden och underhåll.
+
+
+
+* **Validering av publiceringsberedskap**
+
+  Se till att nödvändiga beskrivande egenskaper finns innan en PPTX-uppsättning distribueras externt.
+
+
+
+* **Operationella revisionspår**
+
+  Behåll metadata-baserade revisionsposter för när uppsättningar skapades, uppdaterades och av vem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* **Klassificering och taggning vid uppladdningstid**
+
+  Vid mottagning, extrahera PPTX-metadata och automatiskt tillämpa taggar och regler för mappsortering för konsekvent organisation.
+
+
+
+* **Generering av schemalagda granskningsuppgifter**
+
+  Skapa periodiska granskningsuppgifter när PPTX-uppsättningar överstiger trösklar för föråldring eller när metadata indikerar ägarförändringar.
+
+
+
+* **Kontrollerad distributionspipeline**
+
+  Tillåt eller begränsa distribution av PPTX-uppsättningar baserat på metadataflaggor som endast internt eller konfidentiella kategorier.
+
+
+
+* **Metadata-synkronisering till söksystem**
+
+  Kontinuerligt skicka PPTX-metadata till en index så att presentationsuppsättningar är sökbara utan manuell katalogunderhåll.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การผสานสเปรดชีต Excel ที่เปิดใช้งานแมโคโปรแกรมด้วย Python APIs ช่วยให้สามารถรวมข้อมูลเชิงตัวเลข ตรรกะ และอัตโนมัติที่ฝังอยู่ภายในสมุดงานได้ ซึ่งเป็นสิ่งที่พบบ่อยในสภาพแวดล้อมด้านดำเนินการและการเงิน
+
+
+
+การผสาน XLSM อัตโนมัติ ช่วยให้ข้อมูลและพฤติกรรมที่ใช้แมโคถูกสงวนไว้ในระบบที่สามารถขยายได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **การประกอบรายงานที่ใช้แมโค (XLSM)**  
+
+&nbsp; ผสานไฟล์ XLSM ที่มีการคำนวณและตรรกะอัตโนมัติ
+
+
+
+* **การรวมสมุดงานด้านดำเนินการ (XLSM)**  
+
+&nbsp; รวมสเปรดชีตที่เปิดใช้แมโคข้ามแผนก
+
+
+
+* **การห่อหุ้มการอัตโนมัติ (XLSM)**  
+
+&nbsp; รวบรวมไฟล์ XLSM ที่ใช้ในกระบวนการดำเนินการที่เกิดซ้ำ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การสร้างสมุดงานตามกฎ (XLSM)**  
+
+&nbsp; ระบบผสานไฟล์ XLSM ตามกฎการอัตโนมัติที่กำหนด
+
+
+
+* **การจำลองการเงินอัตโนมัติ (XLSM)**  
+
+&nbsp; การผสาน XLSM รองรับกระบวนการทำงานทางการเงินที่เกิดซ้ำได้
+
+
+
+* **การสงวนแมโคอย่างมีควบคุม (XLSM)**  
+
+&nbsp; ท่อไหลอัตโนมัติผสานไฟล์ XLSM โดยรักษาแมโคไว้ได้
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

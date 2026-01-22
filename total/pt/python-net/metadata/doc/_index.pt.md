@@ -98,7 +98,93 @@ Para obter mais detalhes, consulte [Documentação do produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A extração de metadados de documentos em arquivos **DOC** via APIs Python permite que sistemas leiam e interpretem atributos principais do arquivo - como autor, horário de criação, horário da última modificação, contagem de revisões e propriedades incorporadas - sem inspeção manual. Isso é importante para governança, capacidade de pesquisa, auditoria e controle do ciclo de vida do conteúdo em fluxos de trabalho com muitos documentos.
+
+
+
+Quando integrados em pipelines de automação, os metadados do DOC se tornam um sinal confiável para roteamento, verificações de conformidade, indexação e processamento em lote - suportando operações de documentos escaláveis, classificação consistente e integrações downstream com camadas de armazenamento, pesquisa e relatórios.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Inventário de Documentos Legados**
+
+  Extrair metadados de arquivos DOC para construir um índice estruturado para descoberta, deduplicação e planejamento do ciclo de vida.
+
+
+
+* **Verificação de Carimbo de Data e Hora de Conformidade**
+
+  Utilizar campos de criação/modificação para verificar regras de retenção e detectar anomalias em documentação regulamentada.
+
+
+
+* **Mapeamento de Propriedade de Documento**
+
+  Ler propriedades de autor e último editor para mapear a propriedade do documento para atribuições de revisão e controles de acesso.
+
+
+
+* **Categorização em Lote para Pesquisa**
+
+  Converter propriedades incorporadas em tags normalizadas para filtragem consistente e enriquecimento da pesquisa interna.
+
+
+
+* **Sinais de Rastreabilidade de Alterações**
+
+  Capturar campos relacionados à revisão para suportar rastreabilidade em fluxos de trabalho editoriais e de aprovação.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Portão de Ingestão de Arquivo**
+
+  Aceitar ou colocar em quarentena automaticamente arquivos DOC com base em campos de autor ausentes, carimbos de data e hora suspeitos ou padrões de metadados inválidos.
+
+
+
+* **Sincronização de Metadados com Índice**
+
+  Ao enviar, extrair metadados do DOC e inseri-los em um índice de pesquisa para manter os resultados atualizados sem catalogação manual.
+
+
+
+* **Regras de Roteamento Baseadas em Políticas**
+
+  Roteie arquivos DOC para filas específicas quando os metadados indicarem conteúdo confidencial, versões desatualizadas ou propriedade desconhecida.
+
+
+
+* **Auditorias de Metadados Agendadas**
+
+  Executar verificações noturnas que detectam desvios de metadados e geram relatórios de exceção para equipes de operações.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

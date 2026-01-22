@@ -104,7 +104,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API解析**ODT文档**，可以从开源和互操作性环境中常用的开放文档格式中提取内容。这些格式支持结构化和基于标准的内容访问。
+
+
+
+自动化准备解析开放格式，确保可移植性、长期可访问性和无缝系统集成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **开放文档处理**  
+
+&nbsp; 从基于标准的文档中提取结构化内容。
+
+
+
+* **跨平台兼容性**  
+
+&nbsp; 支持避免专有格式的环境。
+
+
+
+* **长期数据保存**  
+
+&nbsp; 可靠访问存档的开放文档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **可互操作内容流水线**  
+
+&nbsp; 将ODT数据集成到各种系统中，避免锁定。
+
+
+
+* **自动格式转换**  
+
+&nbsp; 将开放文档转换为替代表示形式。
+
+
+
+* **与模式对齐的提取**  
+
+&nbsp; 确保解析内容与预定义数据模型匹配。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

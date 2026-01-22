@@ -72,7 +72,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPT הוא פורמט מצגות מורשה שנמצא בשימוש עדיין במערכות ישנות. פיצול קבצי PPT מאפשר שימוש מתמשך בסביבות אוטומטיות מודרניות.
+
+
+
+ממשקי פייתון מאפשרים עיבוד של קבצי PPT באופן תכנותי למרות מבנה המורשה שלהם.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **העברת מצגת מורשה**  
+
+  &nbsp; חליץ שקופיות להמרה או שדרוג.
+
+
+
+* **גישה לתוכן בחירתית**  
+
+  &nbsp; עבודה עם שקופיות ספציפיות בלי המרה מלאה.
+
+
+
+* **ניהול ארכיון מצגות**  
+
+  &nbsp; אחסן שקופיות בנפרד לצורך אינדוקסציה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **צינורות עיבוד פורמט מורשה**  
+
+  &nbsp; אוטומציה של פיצול PPT בקנה מידה.
+
+
+
+* **חילוץ שקופיות להמרה**  
+
+  &nbsp; שקופיות מומרות לפורמטים מודרניים.
+
+
+
+* **ביקורת מצגות אוטומטית**  
+
+  &nbsp; בדיקת תוכן שקופיות באופן תכנותי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

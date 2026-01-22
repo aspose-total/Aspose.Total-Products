@@ -79,7 +79,75 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A PDF-fájlokat széles körben használják fix elrendezésű dokumentumokhoz, ahol a tartalom az oldalakon van elosztva. A PDF-k felosztása oldalszintű vagy szakaszszintű hozzáférést tesz lehetővé az eredeti fájl módosítása nélkül.
+
+
+
+A Python által vezérelt PDF-felosztás növeli az automatizálást a nagy léptékű feldolgozás, a szelektív kinyerés és a dokumentumcsatornák integrációján keresztül.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Oldalszintű kinyerés**  
+
+&nbsp; Az adott oldalak izolálása áttekintéshez vagy terjesztéshez.
+
+
+
+* **Dokumentum szegmentálás**  
+
+&nbsp; Nagy PDF-ek logikai szakaszokra bontása.
+
+
+
+* **Megfelelőségi és ellenőrzési kezelés**  
+
+&nbsp; Az ellenőrzéshez releváns részek kinyerése.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Tömeges PDF-feldolgozási csatornák**  
+
+&nbsp; Több ezer PDF automatikusan van felosztva.
+
+
+
+* **Szabályalapú oldalak szétválasztása**  
+
+&nbsp; A Python logika oldalak szabályok szerinti felosztását végzi.
+
+
+
+* **Automatizált tartalomterjesztés**  
+
+&nbsp; A kinyert PDF-ek célrendszerekre vannak irányítva.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

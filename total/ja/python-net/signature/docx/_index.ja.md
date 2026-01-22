@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用したDOCX文書の署名により、構造化されたモダンな文書に検証可能な承認メタデータを含めることができます。これにより、追跡可能性と制御された文書ライフサイクルがサポートされます。
+
+
+
+自動化されたDOCX署名は、コンテンツエンジン、承認システム、および文書リポジトリとシームレスに統合されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+
+
+* **デジタル契約の最終決定**  
+
+&nbsp; 承認署名を最終化されたDOCX契約に埋め込みます。
+
+
+
+* **レポート承認の追跡**  
+
+&nbsp; 管理者のサインオフを確認するためにDOCXレポートに署名します。
+
+
+
+* **内部文書ガバナンス**  
+
+&nbsp; 検証済みの内部文書に署名を適用します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **イベント駆動型契約署名**  
+
+&nbsp; 承認イベントの後にDOCXファイルが自動的に署名されます。
+
+
+
+* **複数段階のレビュー完了**  
+
+&nbsp; すべてのレビュアーがタスクを完了した後に署名が行われます。
+
+
+
+* **CIベースの文書承認**  
+
+&nbsp; DOCXファイルが自動ビルドパイプラインの一部として署名されます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

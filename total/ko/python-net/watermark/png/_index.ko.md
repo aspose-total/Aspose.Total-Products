@@ -73,7 +73,85 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+파이썬 API를 사용하여 **PNG** 이미지에 워터마킹을 적용하면 UI 자산, 다이어그램 및 브랜드 비주얼과 같이 날카로운 가장자리와 투명도에 의존하는 그래픽을 보호할 수 있습니다.
+
+자동화를 통해 일관된 워터마크 오버레이를 적용하면 알파 채널을 존중하면서 PNG 워터마킹을 디자인 시스템 및 대규모 웹 게시에 신뢰할 수 있게 만들 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **투명 로고 보호**
+
+  &nbsp; 무단 재사용을 방지하기 위해 투명 PNG 로고에 워터마크를 적용합니다.
+
+
+
+* **문서화를 위한 다이어그램 소유권**
+
+  &nbsp; 기술 다이어그램에 도장을 찍어 복사된 지식 베이스 전체에서 소유권을 보존합니다.
+
+
+
+* **UI 자산 관리**
+
+  &nbsp; 인터페이스 모형을 워터마크 처리하여 초안 상태와 소유권을 명확히 합니다.
+
+
+
+* **파트너 키트 배포 제어**
+
+  &nbsp; 공유된 PNG 자산에 식별자를 추가하여 배포 및 재사용을 추적합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **알파 채널 안전한 워터마크 렌더링**
+
+  &nbsp; 원본 이미지의 투명도를 손상시키지 않고 반투명 워터마크를 적용합니다.
+
+
+
+* **디자인 익스포트 파이프라인 스탬핑**
+
+  &nbsp; 템플릿에서 생성된 자산에 워터마크를 자동으로 적용합니다.
+
+
+
+* **콘텐츠 인식 안전한 배치**
+
+  &nbsp; 주요 UI 요소나 다이어그램 레이블 위에 워터마크를 자동으로 배치하지 않도록 프로그래밍적으로 처리합니다.
+
+
+
+* **팀을 위한 자동화된 변형 제작**
+
+  &nbsp; 제어된 협업을 위해 팀별로 워터마크가 적용된 PNG 세트를 생성합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -104,7 +104,75 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Analisi dei documenti **ODT** con le API di Python consente l'estrazione da formati di documenti aperti comunemente utilizzati in ambienti orientati all'open source e all'interoperabilità. Questi formati supportano l'accesso a contenuti strutturati e basati su standard.
+
+
+
+L'analisi pronta per l'automazione di formati aperti garantisce portabilità, accessibilità a lungo termine e integrazione senza problemi nel sistema.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* **Elaborazione di Documenti Aperti**  
+
+&nbsp; Estrapola contenuti strutturati da documenti basati su standard.
+
+
+
+* **Compatibilità Multi-Piattaforma**  
+
+&nbsp; Supporta ambienti che evitano formati proprietari.
+
+
+
+* **Conservazione a Lungo Termine dei Dati**  
+
+&nbsp; Consente un accesso affidabile ai documenti aperti archiviati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Pipeline di Contenuti Interoperabili**  
+
+&nbsp; Integra i dati ODT in sistemi diversi senza vincoli.
+
+
+
+* **Conversione di Formato Automatizzata**  
+
+&nbsp; Trasforma i documenti aperti in rappresentazioni alternative.
+
+
+
+* **Estrazione Allineata allo Schema**  
+
+&nbsp; Garantisce che il contenuto analizzato corrisponda ai modelli di dati predefiniti.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

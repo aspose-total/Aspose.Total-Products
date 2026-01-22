@@ -98,7 +98,93 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Words for Python via 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Trích xuất siêu dữ liệu tài liệu cho các tệp **ODT** thông qua API Python cung cấp quyền truy cập theo chương trình vào các thuộc tính văn bản—cho phép kiểm tra, phân loại và làm phong phú tìm kiếm mà không cần dựa vào việc kiểm tra thủ công. Điều này quan trọng cho quản lý tài liệu, quản lý tri thức và theo dõi vòng đời tài liệu.
+
+
+
+Trong các hệ thống tự động hóa, siêu dữ liệu ODT có thể được sử dụng để thi hành các tiêu chuẩn, định tuyến phê duyệt và đồng bộ hóa danh mục—hỗ trợ xử lý có khả năng mở rộng trên các kho lưu trữ lớn với các quy tắc nhất quán.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tổ Chức Cơ Sở Kiến Thức**
+
+  Sử dụng siêu dữ liệu ODT để phân loại và chỉ mục tài liệu nội bộ để tìm kiếm nhanh hơn.
+
+
+
+* **Kiểm Soát Sở Hữu và Quản Trị**
+
+  Trích xuất trường tác giả và biên tập để chỉ định người xem xét và duy trì trách nhiệm.
+
+
+
+* **Quyết Định Bảo Quản và Lưu Trữ**
+
+  Sử dụng dấu thời gian để xác định liệu các tệp ODT có nên được lưu trữ, bảo quản hay cập nhật.
+
+
+
+* **Chuẩn Hóa Siêu Dữ Liệu cho Phân Tích**
+
+  Chuyển đổi các thuộc tính ODT thành các trường nhất quán để báo cáo và phân tích xu hướng.
+
+
+
+* **Xác Thực Trước Khi Xuất Bản**
+
+  Xác thực các trường mô tả cần thiết trước khi chuyển đổi tài liệu ODT thành các định dạng đã xuất bản.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Phân Loại Tiếp Nhận Dựa Trên Quy Tắc**
+
+  Tự động phân loại tài liệu ODT vào các luồng công việc bằng cách sử dụng sự hiện diện của siêu dữ liệu, sở hữu và dấu thời gian.
+
+
+
+* **Luồng Công Việc Đồng Bộ Hóa Danh Mục**
+
+  Trích xuất siêu dữ liệu ODT hàng ngày và đồng bộ hóa nó với một đăng ký tập trung được sử dụng bởi các hệ thống tìm kiếm nội bộ.
+
+
+
+* **Xem Xét Tài Liệu Tự Động**
+
+  Kích hoạt nhiệm vụ xem xét cho các tệp ODT khi siêu dữ liệu cho thấy chúng chưa được cập nhật trong các cửa sổ chính sách.
+
+
+
+* **Ánh Xạ Siêu Dữ Liệu vào Chính Sách Truy Cập**
+
+  Áp dụng quy tắc truy cập một cách linh hoạt khi siêu dữ liệu ODT cho thấy các loại nội dung bị hạn chế.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

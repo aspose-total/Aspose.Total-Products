@@ -104,7 +104,45 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Words for Python via 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Phân tích **tài liệu OTT** bằng cách sử dụng Python APIs cho phép trích xuất cấu trúc từ các mẫu văn bản mở được thiết kế để tạo tài liệu có cấu trúc. Các tệp OTT thường được sử dụng trong môi trường tiêu chuẩn mở để xác định bố cục, kiểu dáng và chỗ đặt.
+
+Bằng cách tích hợp phân tích OTT vào các hệ thống tự động, tổ chức có thể tạo ra, xác thực và quản lý tài liệu ở quy mô lớn trong khi duy trì sự tuân thủ nghiêm ngặt với các mẫu chuẩn và định dạng mở.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* **Trích xuất Cấu Trúc Mẫu**  
+&nbsp; Xác định các phần, kiểu dáng và chỗ đặt được xác định trước trong các mẫu OTT.
+
+* **Tạo Tài Liệu Chuẩn**  
+&nbsp; Hỗ trợ việc tạo ra tài liệu một cách nhất quán dựa trên các mẫu mở đã được phê duyệt.
+
+* **Quản Lý Định Dạng Mở**  
+&nbsp; Đảm bảo tài liệu tuân thủ các tiêu chuẩn tổ chức mà không bị khóa bởi các định dạng độc quyền.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* **Tạo Tài Liệu Động**  
+&nbsp; Tự động điền dữ liệu có cấu trúc vào các mẫu OTT.
+
+* **Xác Thực Tuân Thủ Mẫu**  
+&nbsp; Phát hiện sự lệch khỏi cấu trúc mẫu đã được phê duyệt.
+
+* **Các Luồng Tài Liệu Mở Có Thể Mở Rộng**  
+&nbsp; Cho phép sản xuất tài liệu ở quy mô lớn sử dụng các tiêu chuẩn mở.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

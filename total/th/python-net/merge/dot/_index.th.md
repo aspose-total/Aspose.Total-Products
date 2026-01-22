@@ -78,7 +78,77 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การผสานรูปแบบเทมเพลต Word โดยใช้ Python APIs ช่วยให้การสร้างเอกสารมีความสอดคล้องกันในทีมและระบบต่าง ๆ ได้ การผสานตามเทมเพลตช่วยให้มีเลเอาท์มาตรฐานในขณะที่ยอมให้สามารถปรับเปลี่ยนเนื้อหาได้อย่างยืดหยุ่น
+
+
+
+วิธีนี้เหมาะสำหรับโรงงานเอกสารอัตโนมัติที่ต้องการให้โครงสร้างและแบรนด์คงที่ตามเอกสารที่สร้างขึ้น
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* **การประกอบเอกสารตามเทมเพลต (DOT)**  
+
+&nbsp; ผสานเอกสารที่ใช้ DOT เพื่อให้มีการจัดรูปแบบที่สอดคล้องกัน
+
+
+
+* **การสร้างเอกสารมาตรฐาน (DOT)**  
+
+&nbsp; รวมไฟล์ที่ใช้เทมเพลตเข้าด้วยกันเป็นเอกสารที่เป็นหนึ่งเดียว
+
+
+
+* **การจัดการเลเอาท์ที่สามารถใช้ซ้ำได้ (DOT)**  
+
+&nbsp; รวบรวมเอกสารที่ใช้ DOT เพื่อรักษาความสม่ำเสมอของเลเอาท์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+
+
+* **การใช้เทมเพลตโดยอัตโนมัติ (DOT)**  
+
+&nbsp; ไฟล์ DOT ถูกผสานโดยอัตโนมัติขณะสร้างเอกสาร
+
+
+
+* **การประมวลผลเทมเพลตเป็นกลุ่ม (DOT)**  
+
+&nbsp; ปริมาณมากของเอกสาร DOT ถูกผสานในงานที่กำหนดเวลา
+
+
+
+* **การควบคุมเลเอาท์โดยระบบ (DOT)**  
+
+&nbsp; ระบบอัตโนมัติผสานไฟล์ DOT เพื่อรับรองความสอดคล้องของรูปแบบ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,85 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Znakowanie **plików DOC** za pomocą interfejsów API w języku Python pomaga chronić dziedzictwo dokumentów Word poprzez jasne oznaczenie właściciela, poufności lub zasad dystrybucji w edytowalnej treści.
+
+Automatyzacja znakowania wodnego DOC poprawia spójność w zarządzaniu dokumentami, umożliwiając organizacjom egzekwowanie wizualnych kontroli polityki na dużą skalę nawet dla starszych formatów dokumentów.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+
+
+* **Pieczątki poufności umów dziedzictwa**  
+
+&nbsp; Dodaj oznaczenia "POUFNE" do starszych umów, aby zmniejszyć nieautoryzowane udostępnianie.
+
+
+
+* **Etykiety statusu cyklu recenzji**  
+
+&nbsp; Oznacz dokumenty jako "W RECENZJI", aby zapobiec przedwczesnemu rozpowszechnianiu szkiców.
+
+
+
+* **Egzekwowanie wewnętrznej polityki dla szablonów**  
+
+&nbsp; Zastosuj standaryzowane znaki wodne do starszych szablonów, aby dostosować się do zarządzania.
+
+
+
+* **Ogłoszenia dystrybucji dla konkretnych klientów**  
+
+&nbsp; Osadź komunikaty skierowane do klientów, które wyjaśniają dozwolone użycie i ograniczenia ponownego rozpowszechniania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Pieczętowanie dokumentów z poczty do archiwum**  
+
+&nbsp; Automatyczne znakowanie załączników DOC przed zapisaniem ich do repozytorium.
+
+
+
+* **Monitorowanie folderu dla plików dziedzictwa**  
+
+&nbsp; Wykrywanie nowych plików DOC w katalogu i stosowanie znaków polityki bez konieczności ręcznych kroków.
+
+
+
+* **Tekst znaku wodnego sterowany metadanymi**  
+
+&nbsp; Generowanie treści znaku wodnego na podstawie tagów dokumentu, takich jak dział, projekt czy poziom poufności.
+
+
+
+* **Automatyczny przejście z "Szkicu do Ostatecznego"**  
+
+&nbsp; Zamień znaki wodne szkiców na ostateczne etykiety po zarejestrowaniu zatwierdzeń w systemie przepływu pracy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

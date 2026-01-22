@@ -98,7 +98,93 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri aracılığıyla **DOCM** dosyaları için belge meta verilerinin çıkarılması, sistemlerin belge özelliklerini incelemesine ve makro etkin içeriği ve ilişkili risk sinyallerini hesaba katmasına yardımcı olur. Bu, belgelerin ekipler veya ortamlar arasında hareket ettiğinde özellikle yönetim, güvenli işleme ve sınıflandırma için değerlidir.
+
+
+
+Otomasyon iş akışlarında, DOCM meta verileri dinamik kontrolleri yönlendirebilir—örneğin güvenlik taraması, koşullu onaylar ve kısıtlı dağıtım—ayrıca dosyaları etkileşimli olarak açmadan ölçeklenebilir dizinleme ve raporlama imkanı sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Makro Farkındalıklı Belge Taraması**
+
+  Meta verileri kullanarak makro etkin belgeleri ek inceleme ve kontrollü işleme için işaretleyin.
+
+
+
+* **Hassas İş Akışı Sınıflandırması**
+
+  Gömülü özelliklere dayalı olarak DOCM dosyalarını sınıflandırarak daha katı depolama ve erişim politikaları uygulayın.
+
+
+
+* **Operasyonel Köken Takibi**
+
+  Makro etkin dosyaların üretildiği yer ve zamanı izlemek için yazarlık ve değiştirme geçmiş alanlarını yakalayın.
+
+
+
+* **Depo Durum Raporlama**
+
+  Ölçekte risk maruziyetini yönetmek için DOCM hacmi, yaşı ve sahipliği hakkında raporlar oluşturun.
+
+
+
+* **Kontrollü Dağıtım Hazırlığı**
+
+  DOCM dosyalarını aşağı akış paylaşım veya yayınlama süreçlerine izin vermeden önce gerekli meta veri alanlarını doğrulayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Risk Puanlı Alım Boru Hattı**
+
+  Otomatik olarak DOCM dosyalarını meta veri eksiksizliği ve güncelliğine göre puanlayarak "inceleme" veya "onaylı" şeritlere yönlendirin.
+
+
+
+* **Kısıtlı Depolama Uygulaması**
+
+  Bir DOCM dosyası tespit edilirse, otomasyon onu sınırlı bir konuma taşır ve daha katı saklama kuralları uygular.
+
+
+
+* **Makro Etkin İstisna Uyarıları**
+
+  DOCM meta verileri beklenmeyen kaynakları, olağandışı zaman damgalarını veya eksik sahiplik alanlarını gösterdiğinde uyarıları tetikleyin.
+
+
+
+* **Otomatik Envanter Gösterge Tabloları**
+
+  DOCM meta verilerini sürekli olarak çıkarın ve birleştirerek yönetim ve operasyonel denetim için gösterge tablolarına dönüştürün.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

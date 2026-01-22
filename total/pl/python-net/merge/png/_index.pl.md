@@ -85,7 +85,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Łączenie obrazów PNG za pomocą interfejsów API w języku Python umożliwia bezstratne komponowanie obrazów z zachowaniem przezroczystości. Jest to idealne rozwiązanie dla zasobów projektowych, elementów interfejsu użytkownika i warstwowych wizualizacji.
+
+
+
+Automatyzacja zapewnia spójne składanie obrazów przy jednoczesnym zachowaniu integralności wizualnej.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Zastosowania kluczowe" %}}
+
+
+
+* **Składanie zasobów z zachowaniem przezroczystości (PNG)**  
+
+&nbsp; Łączenie obrazów PNG zachowując kanały alfa.
+
+
+
+* **Komponowanie elementów interfejsu użytkownika (PNG)**  
+
+&nbsp; Łączenie grafik interfejsu w pojedyncze obrazy.
+
+
+
+* **Konsolidacja zasobów projektowych (PNG)**  
+
+&nbsp; Łączenie zasobów PNG w celu ponownego wykorzystania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Automatyzowane potoki projektowe (PNG)**  
+
+&nbsp; Systemy łączą zasoby PNG podczas procesów kompilacji.
+
+
+
+* **Generowanie warstw obrazu (PNG)**  
+
+&nbsp; Łączenie obrazów PNG jest sterowane programistycznie.
+
+
+
+* **Automatyzacja skalowalnych zasobów wizualnych (PNG)**  
+
+&nbsp; Automatyczne potoki generują połączone wizualizacje PNG.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

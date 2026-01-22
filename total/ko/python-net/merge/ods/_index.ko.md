@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 OpenDocument 스프레드시트를 병합하면 오픈 표준과 크로스 플랫폼 데이터 워크플로우를 지원합니다. 이는 오픈 소스 오피스 도구에 의존하는 환경에 이상적입니다.
+
+
+
+ODS 병합 주변의 자동화는 구조화된 데이터 무결성을 유지하면서 상호 운용성을 보장합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **크로스 플랫폼 스프레드시트 통합 (ODS)**  
+
+  별도의 오피스 스위트에서 생성된 ODS 파일을 병합합니다.
+
+
+
+* **오픈 표준 데이터 집계 (ODS)**  
+
+  통합된 분석을 위해 ODS 스프레드시트를 결합합니다.
+
+
+
+* **협업 데이터 편성 (ODS)**  
+
+  분산된 기여자로부터 ODS 파일을 병합합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **오픈 데이터 파이프라인 자동화 (ODS)**  
+
+  시스템은 소유권 의존성 없이 ODS 파일을 병합합니다.
+
+
+
+* **일정된 스프레드시트 편성 (ODS)**  
+
+  ODS 병합이 반복되는 백엔드 작업의 일부로 실행됩니다.
+
+
+
+* **상호 운용 가능한 보고 파이프라인 (ODS)**  
+
+  ODS 파일이 데이터 워크플로우에서 동적으로 병합됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

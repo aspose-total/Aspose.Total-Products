@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API对JPG文件进行签名提供了一种实用的方式，可以将常用的共享图像资产标记为已批准、最终版本或发布就绪。这有助于减少草稿和最终版本之间的混淆。
+
+
+
+在自动化工作流中，可以强制执行JPG签名作为发布、分发或归档之前的强制步骤，从而提高可靠性和审计准备性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **营销视觉最终批准**  
+
+  &nbsp; 签署JPG促销视觉以确认利益相关者的批准。
+
+
+
+* **目录图像准备标记**  
+
+  &nbsp; 将JPG产品图像标记为已批准以供列出和发布。
+
+
+
+* **文档截图认证**  
+
+  &nbsp; 签署JPG截图以确保它们反映了已批准的系统状态。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **发布前签名步骤**  
+
+  &nbsp; 在文件发布或上线之前自动签署JPG文件。
+
+
+
+* **资产版本冻结自动化**  
+
+  &nbsp; 在版本冻结时对JPG资产进行签名，以防止意外编辑。
+
+
+
+* **分发捆绑验证**  
+
+  &nbsp; 在自动完整性检查通过后对捆绑中包含的JPG文件进行签名。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

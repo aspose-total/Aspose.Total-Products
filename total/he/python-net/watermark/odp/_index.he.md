@@ -76,7 +76,85 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+הוספת סימן מים **ODP** לקבצי המצגת בעזרת Python APIs עוזרת לשלוט בהפצת המצגות על ידי סימון של בעלות, סודיות או מעמד ביקורת ישירות על השקופיות.
+
+האוטומציה עושה את זה קל לחותמם של קבצי ODP בצורה גורמתית, תומכת בשלטון עקבי עבור הכשרה פנימית, הצעות ומצגות לשותפים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **סימון שקטות למצגות**  
+
+  &nbsp; החלת סימני סודיות גלויים על כל השקופיות כדי להפחית משיתוף לא מתוכנן.
+
+
+
+* **בעלות על ההצעה למצגות ללקוח**  
+
+  &nbsp; חותמת הבעלות כדי להבהיר את השימוש המותר בתוכן המצגת.
+
+
+
+* **ניתוב חומרי הכשרה**  
+
+  &nbsp; הוספת סימן מים למצגות ההכשרה כדי לשמור על זהות המקור בעת שיתוף עם צוותים.
+
+
+
+* **מחוון שלב ביקורת**  
+
+  &nbsp; הוספת כיסויים "טיוטה" או "לסקירה" כדי למנוע הפצה מוקדמת.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **הזרקת סימן מים על כל השקופיות**  
+
+  &nbsp; החלת אופן תכנותי אותו סימן מים לכל שקופית לצורך ראות עקבי.
+
+
+
+* **שילוב זרימת עבודה לאישור**  
+
+  &nbsp; הסרת סימני טיוטה באופן אוטומטי והחלת סימנים סופיים לאחר אישורים.
+
+
+
+* **כללי מיקום על בסיס תבניות**  
+
+  &nbsp; מיקום סימני מים על פי סוגי תצוגת השקופיות כדי למנוע כיסוי של תוכן מרכזי.
+
+
+
+* **עיבוד בצורת צמיחה לניקוי מאגר**  
+
+  &nbsp; הוספת סימני מים למצגות ODP מורשות במהלך ארכיון או העברה לתקן מדיני.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,93 @@ PPT 메타데이터 관리 앱 또는 유틸리티를 개발해야 합니까?[As
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+파이썬 API를 통한 **PPT** 파일의 문서 메타데이터 추출은 작성자, 타임스탬프 및 설명 필드와 같은 속성을 읽어 기존 프레젠테이션 자산을 관리할 수 있게 합니다. 이는 여전히 오래된 슬라이드 라이브러리를 유지하는 조직들을 위해 거버넌스 및 발견성을 지원합니다.
+
+
+
+자동화된 워크플로우에서 PPT 메타데이터는 분류, 색인 및 라이프사이클 제어를 가능하게 하여 오래된 프레젠테이션의 대규모 컬렉션을 최소한의 수동 노력으로 조직화, 감사 및 이관할 수 있게 합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **기존 슬라이드 라이브러리 감사**
+
+  보관된 덱 간의 연령, 소유권 및 유지 관리 간격을 이해하기 위해 PPT 메타데이터 추출.
+
+
+
+* **이관 준비 평가**
+
+  메타데이터를 사용하여 어떤 PPT 덱을 먼저 변환하거나 새롭게 업데이트해야 하는지 우선순위를 정합니다.
+
+
+
+* **소유주 기반 유지 보수 라우팅**
+
+  작성자/편집자 필드에서 유지 보수자를 식별하여 업데이트 요청을 효율적으로 라우팅합니다.
+
+
+
+* **콘텐츠 포트폴리오 분석**
+
+  라이브러리 커버리지, 오래됨 정도 및 운영 위험을 측정하기 위해 PPT 메타데이터를 집계합니다.
+
+
+
+* **중복 자산 감지**
+
+  메타데이터 패턴을 사용하여 가능한 중복을 감지하고 라이브러리 혼잡도를 줄입니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **기존 덱 적재 파이프라인**
+
+  PPT 파일을 자동으로 적재하고 메타데이터를 추출하여 표준화된 필드로 재고 시스템에 할당합니다.
+
+
+
+* **변환 대기열 자동화**
+
+  메타데이터 연령 및 사용 분류 규칙에 따라 PPT 덱을 변환 대기열에 추가합니다.
+
+
+
+* **오래된 덱 알림 워크플로우**
+
+  PPT 메타데이터가 업데이트 없이 오랜 기간 지속되거나 소유권 필드가 누락된 경우 경고를 트리거합니다.
+
+
+
+* **자동 라이브러리 정리 작업**
+
+  주기적으로 PPT 저장소를 스캔하고 메타데이터를 기반으로 중복 자산 또는 관리되지 않은 자산으로 식별하여 격리합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

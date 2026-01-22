@@ -71,7 +71,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTX, PowerPoint için standart modern sunum formatıdır. Sunum içeriğinin işbirlikçi ortamlarda doğru ve değiştirilemez kalması için PPTX dosyalarını korumak önemlidir.
+
+
+
+Python API'leri ile PPTX koruması otomatik sunum oluşturma ve dağıtım iş akışlarına sorunsuz bir şekilde entegre edilebilir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* **Gizli Sunum Paylaşımı**  
+
+&nbsp; Harici dağıtımdan önce PPTX dosyalarını güvence altına alın.
+
+
+
+* **İçerik Onayı Uygulaması**  
+
+&nbsp; Son onaydan sonra sunumları kilitleyin.
+
+
+
+* **Kurumsal Sunum Yönetimi**  
+
+&nbsp; Tüm PPTX varlıklarına uniform koruma uygulayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Dışa Aktarma Sırasında Otomatik Koruma**  
+
+&nbsp; Üretildikten hemen sonra PPTX dosyalarını güvence altına alın.
+
+
+
+* **İş Akışı Tetikli Güvenlik**  
+
+&nbsp; Onay veya yayınlama olaylarına dayalı koruma uygulayın.
+
+
+
+* **Ölçeklenebilir Sunum Yönetimi**  
+
+&nbsp; Otomatik betikler aracılığıyla binlerce PPTX dosyasını koruyun.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

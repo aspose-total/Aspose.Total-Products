@@ -78,7 +78,75 @@ För mer information, se [Product Documentation](https://docs.aspose.com/words/p
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Sammanfogning av OpenDocument Text-filer med hjälp av Python API:er stöder öppna standarder och plattformsoberoende dokumentarbetsflöden. Det möjliggör sömlös sammanställning av innehåll skapat i öppen källkod eller blandade kontorsmiljöer.
+
+
+
+Automatisering kring ODT-sammanfogning säkerställer interoperabilitet samtidigt som dokumentets integritet bibehålls över olika system.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* **Plattformsoberoende Dokumentsammanställning (ODT)**  
+
+&nbsp; Sammanfoga ODT-filer skapade i olika kontorspaket.
+
+
+
+* **Innehållssammanställning enligt Öppen Standard (ODT)**  
+
+&nbsp; Kombinera ODT-dokument för enhetlig publicering.
+
+
+
+* **Samarbetsinnehållssammanställning (ODT)**  
+
+&nbsp; Sammanfoga ODT-filer från flera bidragsgivare till ett dokument.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* **Automatisering av Öppna Arbetsflöden (ODT)**  
+
+&nbsp; Automatiserade system sammanfogar ODT-filer utan beroende av proprietära lösningar.
+
+
+
+* **Schemalagd Dokumentsammanställning (ODT)**  
+
+&nbsp; ODT-sammanfogning körs som en del av återkommande bakgrundsuppgifter.
+
+
+
+* **Interoperabla Publiceringspipeliner (ODT)**  
+
+&nbsp; ODT-filer sammanfogas dynamiskt i korsvisa systempipeliner.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

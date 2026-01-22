@@ -100,7 +100,75 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Python via
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Phân tích **các bài thuyết trình PPTX** bằng Python APIs cho phép truy cập cấu trúc vào văn bản trang, tiêu đề, các mục đánh dấu, bố cục, và ghi chú của người thuyết trình từ các tệp thuyết trình hiện đại. Việc phân tích PPTX giúp truy cập kiến thức dựa trên các trang vượt ra ngoài việc xem thủ công.
+
+
+
+Trong các hệ thống dựa trên tự động hóa, việc phân tích PPTX hỗ trợ việc tái sử dụng nội dung, tóm tắt, phân tích và tích hợp với các đường ống quản lý kiến thức và báo cáo.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Trích Xuất Nội Dung Trang**  
+
+&nbsp; Truy xuất văn bản cấu trúc và các yếu tố bố cục từ các trang trình bày.
+
+
+
+* **Khai Thác Kiến Thức Trình Bày**  
+
+&nbsp; Chuyển đổi bộ trình chiếu thành nguồn nội dung có thể tìm kiếm và phân tích.
+
+
+
+* **Quy Trình Tái Sử Dụng Nội Dung**  
+
+&nbsp; Cho phép tái sử dụng tài liệu trình bày trên các nền tảng và tài liệu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Tiếp Nhận Trình Bày Tự Động**  
+
+&nbsp; Xử lý các tệp PPTX tự động sau khi tải lên hoặc theo lịch trình.
+
+
+
+* **Các Đường Ống Tóm Tắt Trang**  
+
+&nbsp; Tạo ra tóm tắt súc tích từ nội dung trang đã phân tích.
+
+
+
+* **Tự Động So Sánh Phiên Bản**  
+
+&nbsp; Phát hiện thay đổi một cách tự động qua nhiều phiên bản trình bày.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

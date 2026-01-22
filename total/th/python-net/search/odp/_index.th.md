@@ -76,7 +76,75 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การค้นหาไฟล์ **ODP** โดยใช้ Python APIs ช่วยให้สามารถเข้าถึงเอกสารนำเสนอมาตรฐานเปิดที่ใช้กันอย่างแพร่หลายในสภาพแวดล้อมที่ใช้ร่วมกันและโอเพนซอร์สได้อย่างมีโครงสร้าง การค้นหาโปรแกรมช่วยให้ระบบสามารถสกัดข้อความในสไลด์ ชื่อเรื่อง และเมตาดาต้าได้โดยไม่ต้องตรวจสอบด้วยมือ
+
+
+
+เมื่อทำการอัตโนมัติ การค้นหาเอกสาร ODP ช่วยในการเพิ่มความสามารถในการค้นพบ สนับสนุนการจัดการเนื้อหาอย่างมีประสิทธิภาพ และผสานอย่างไม่มีรอยต่อกับระบบประมวลผลข้อมูลที่ทันสมัยและระบบอัตโนมัติของกระบวนการทำงาน
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **การค้นหาข้อความในสไลด์ ODP**  
+
+&nbsp; ค้นหาคำหลักและวลีต่าง ๆ ในสไลด์นำเสนอรูปแบบเปิด
+
+
+
+* **การตรวจสอบเนื้อหานำเสนอเปิด**  
+
+&nbsp; ช่วยให้สามารถตรวจสอบสไลด์ที่แชร์หรือที่ใช้ร่วมกันได้อย่างรวดเร็ว
+
+
+
+* **การค้นพบเมตาดาต้าของ ODP**  
+
+&nbsp; สกัดคุณสมบัติของเอกสารเพื่อการจำแนกประเภทและการจัดเรียงดัชนี
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* **การจัดเรียงดัชนี ODP โดยอัตโนมัติ**  
+
+&nbsp; บริการ Python ทำการจัดเรียงดัชนีไฟล์ ODP อย่างต่อเนื่องเพื่อการเข้าถึงการค้นหา
+
+
+
+* **การตรวจสอบเนื้อหา ODP โดยอัตโนมัติ**  
+
+&nbsp; การสแกนโปรแกรมตรวจจับการเปลี่ยนแปลงหรือการอัพเดตในการนำเสนอ
+
+
+
+* **การผสานข้อมูลของ ODP ในกระบวนการทำงาน**  
+
+&nbsp; เนื้อหาที่สกัดออกมาช่วยในการเผยแพร่อัตโนมัติหรือท่องไปยังระบบการทบทวน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

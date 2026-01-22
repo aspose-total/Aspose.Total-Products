@@ -78,7 +78,75 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A modern Excel munkafüzetek összevonása Python API-k segítségével egy standard megközelítés a strukturált adatkészletek, jelentések és modellek kombinálásához. Az XLSX a legelterjedtebb táblázatformátum a modern rendszerekben.
+
+
+
+Ez a képesség zökkenőmentesen integrálódik az adatplatformokkal, lehetővé téve az automatizált táblázatgenerálást és konszolidációt nagy méretben.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Több lapos jelentés létrehozása (XLSX)**  
+
+&nbsp; Egyesítse az XLSX fájlokat egy átfogó jelentés munkafüzetbe.
+
+
+
+* **Adatforrás egységesítése (XLSX)**  
+
+&nbsp; Kombinálja az XLSX adatkészleteket több rendszerből.
+
+
+
+* **Együttműködő adatgyűjtés (XLSX)**  
+
+&nbsp; Egyesítse az XLSX fájlokat, amelyeket több érintett felek szolgáltattak.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* *\nDinamikus táblázatgenerálás (XLSX)**  
+
+&nbsp; Rendszerek egyesítik az XLSX fájlokat futási adatfeltételek alapján.
+
+
+
+* **ETL csővezeték integráció (XLSX)**  
+
+&nbsp; Az XLSX egyesítése automatizált adatazonosítási csővezetékekben.
+
+
+
+* **Skálázható jelentésautomatizálás (XLSX)**  
+
+&nbsp; Nagy mennyiségű XLSX jelentéseket programozottan egyesítenek.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

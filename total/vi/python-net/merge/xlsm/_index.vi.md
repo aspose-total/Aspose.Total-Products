@@ -78,7 +78,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Cells for Python via .
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kết hợp các bảng tính Excel hỗ trợ macro bằng cách sử dụng Python APIs cho phép hợp nhất logic dựa trên dữ liệu, tính toán và tự động hóa được nhúng trong các bảng tính. Điều này phổ biến trong môi trường hoạt động và tài chính.
+
+
+
+Việc hợp nhất XLSM tự động đảm bảo rằng dữ liệu và hành vi dựa trên macro được bảo tồn trong các hệ thống có thể mở rộng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tổng Hợp Báo Cáo Dựa Trên Macro (XLSM)**  
+
+&nbsp; Hợp nhất các tệp XLSM chứa tính toán và logic tự động.
+
+
+
+* **Tổng Hợp Bảng Tính Hoạt Động (XLSM)**  
+
+&nbsp; Kết hợp các bảng tính hỗ trợ macro qua các phòng ban.
+
+
+
+* **Đóng Gói Tự Động Hóa Quy Trình (XLSM)**  
+
+&nbsp; Tổng hợp các tệp XLSM được sử dụng trong các quy trình hoạt động định kỳ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Tạo Bảng Tính Dựa Trên Quy Tắc (XLSM)**  
+
+&nbsp; Hệ thống hợp nhất các tệp XLSM dựa trên các quy tắc tự động hóa được xác định.
+
+
+
+* **Mô Hình Tài Chính Tự Động (XLSM)**  
+
+&nbsp; Hợp nhất XLSM hỗ trợ các quy trình làm việc tài chính có thể lặp lại.
+
+
+
+* **Bảo Tồn Macro Kiểm Soát (XLSM)**  
+
+&nbsp; Các đường ống tự động hợp nhất các tệp XLSM trong khi giữ lại các macro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

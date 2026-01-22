@@ -89,7 +89,73 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Zobrazení POTM s Python API umožňuje prohlížení šablon prezentací s makry bez jejich spuštění.
+
+Toto podporuje bezpečné ověřování opakovaně použitelných struktur prezentací.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Hodnocení šablony s makry**
+
+&nbsp; Bezpečné zobrazení šablon prezentací.
+
+
+
+* **Ověření rozložení snímku**
+
+&nbsp; Kontrola předdefinovaných struktur snímků.
+
+
+
+* **Schvalovací postupy šablon**
+
+&nbsp; Přezkoumání šablon před nasazením.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Bezpečné přijímání šablon**
+
+&nbsp; Pythonové postupy bezpečně zobrazují soubory POTM.
+
+
+
+* **Automatizované auditace šablon**
+
+&nbsp; Šablony jsou kontrolovány pro konzistenci.
+
+
+
+* **Generování prezentací v rourách**
+
+&nbsp; Zobrazení zajišťuje připravenost pro automatizaci.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

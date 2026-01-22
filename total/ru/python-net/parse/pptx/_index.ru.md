@@ -100,7 +100,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Анализ **презентаций PPTX** с использованием Python API обеспечивает структурированный доступ к тексту слайдов, заголовкам, маркированным спискам, макетам и заметкам докладчика из современных файлов презентаций. Анализ PPTX делает доступным знание на основе слайдов за пределами ручного просмотра.
+
+
+
+В системах, управляемых автоматизацией, анализ PPTX поддерживает повторное использование контента, суммирование, аналитику и интеграцию с системами управления знаниями и отчетности.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Извлечение содержимого слайдов**  
+
+&nbsp; Извлекает структурированный текст и элементы макета из слайдов презентации.
+
+
+
+* **Извлечение знаний из презентации**  
+
+&nbsp; Преобразует слайды в источники содержимого, доступные для поиска и анализа.
+
+
+
+* **Процессы повторного использования контента**  
+
+&nbsp; Позволяет повторное использование материалов презентации в документации и на платформах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированный прием презентаций**  
+
+&nbsp; Обрабатывает файлы PPTX автоматически при загрузке или по расписанию.
+
+
+
+* **Пайплайны суммирования на уровне слайдов**  
+
+&nbsp; Генерирует краткие резюме из извлеченного содержимого слайдов.
+
+
+
+* **Автоматизация сравнения версий**  
+
+&nbsp; Программно обнаруживает изменения между несколькими версиями презентации.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -151,7 +219,7 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

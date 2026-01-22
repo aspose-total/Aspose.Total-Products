@@ -77,7 +77,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API对PPTX文件进行文档编辑，可以精确控制现代演示文稿内容，实现安全协作和分发。这对于保护敏感幻灯片数据至关重要。
+
+
+
+自动化确保PPTX编辑是一致的、可审计的，并且可以轻松集成到现代内容工作流程中。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **保护机密数据**
+
+  &nbsp; 从演示文稿幻灯片中删除敏感数字和文本。
+
+
+
+* **多受众分发**
+
+  &nbsp; 创建适合不同利益相关者的经过编辑的版本。
+
+
+
+* **演示文稿生命周期管理**
+
+  &nbsp; 确保所有共享的PPTX文件符合隐私标准。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **幻灯片对象级别编辑**
+
+  &nbsp; 以编程方式删除敏感文本框或形状。
+
+
+
+* **持续更新处理**
+
+  &nbsp; 在幻灯片更改时自动重新应用编辑。
+
+
+
+* **工作流集成**
+
+  &nbsp; 将编辑嵌入到类似CI/CD风格的内容流水线中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,85 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Vízjel készítése **TIFF** képekhez Python API-k segítségével támogatja a magas minőségű képfeldolgozási folyamatokat, tulajdonosi és ellenőrzési címkéket adva a szkenneléshez, nyomtatáshoz és archiváláshoz gyakran használt fájloknak.
+
+Az automatizálás különösen értékes a TIFF vízjelezés esetében a nagy fájlméretek és a tételszerű folyamatok miatt, lehetővé téve a következetes kezelést a dokumentumképfeldolgozási csövekben.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Szkennelt dokumentum tulajdonosi jelzések**  
+
+&nbsp; Alkalmazzon vízjeleket szkennelt TIFF-ekre az eredetiség megőrzése érdekében képfeldolgozási archívumokban.
+
+
+
+* **Nyomtatási munkafolyamat bizonyíték bélyegek**  
+
+&nbsp; Adjon hozzá "BIZONYÍTÉK" vízjeleket előnyomtatási TIFF fájlokhoz ellenőrzött felülvizsgálathoz.
+
+
+
+* **Megfelelőségi címkék képfeldolgozási tárolókhoz**  
+
+&nbsp; Jelölje meg a korlátozott képeket osztályozási szöveggel a kezelési irányelvek támogatása érdekében.
+
+
+
+* **Archívum átalakítás visszakövethetősége**  
+
+&nbsp; Vízjelezze a TIFF-eket az átalakítás előtt más formátumokba történő forrásazonosság megőrzése érdekében.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Szkennelő kimenet automatikus vízjelezése**  
+
+&nbsp; Jelölje meg a TIFF fájlokat azonnal a szkennelés után figyelt mappák vagy beviteli feladatok használatával.
+
+
+
+* **Többlapos TIFF feldolgozás**  
+
+&nbsp; Alkalmazzon következetes vízjeleket többlapos TIFF fájlok oldalain programozott módon.
+
+
+
+* **Felbontásérzékeny vízjel méretezés**  
+
+&nbsp; Állítsa be a vízjel méretét a DPI alapján a következetes fizikai nyomtatási megjelenés fenntartása érdekében.
+
+
+
+* **Automatizált megőrzési és ellenőrzési munkafolyamatok**  
+
+&nbsp; Vízjelezze a képeket automatizált megőrzési címkézés és megfelelőségi felülvizsgálati csövek részeként.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

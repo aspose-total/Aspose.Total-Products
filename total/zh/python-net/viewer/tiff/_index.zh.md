@@ -82,7 +82,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API查看TIFF文档，支持高分辨率、多页图像格式，通常用于扫描和存档。
+
+这使得可以准确检查详细的视觉文档。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* **扫描文档审阅**  
+
+  查看高质量的扫描页面。
+
+
+
+* **存档图像检查**  
+
+  检查保存级别的图像文件。
+
+
+
+* **多页图像处理**  
+
+  浏览复杂的基于图像的文档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化扫描验证**  
+
+  Python工作流显示扫描文件以进行质量保证。
+
+
+
+* **存档完整性检查**  
+
+  定期呈现存储的图像以进行验证。
+
+
+
+* **文档数字化流水线**  
+
+  自动化查看器支持数字化流程。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

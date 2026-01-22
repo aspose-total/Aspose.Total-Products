@@ -78,7 +78,75 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Das Zusammenführen von tabellengetrennten Wertdateien mithilfe von Python-APIs ermöglicht eine schnelle und leichte Kombination strukturierter tabellarischer Daten. TSV wird häufig für den Datenaustausch und die Vorverarbeitung verwendet.
+
+
+
+Automatisiertes TSV-Merging unterstützt leistungsstarke Datenpipelines und Analyse-Workflows.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Rohdatenaggregation (TSV)**  
+
+&nbsp; Fusionieren von TSV-Dateien zu einem einzigen Datensatz für die Verarbeitung.
+
+
+
+* **Datenübertragung zwischen Systemen (TSV)**  
+
+&nbsp; Kombinieren von TSV-Exporten aus verschiedenen Plattformen.
+
+
+
+* **Vorbereitung von Daten vor der Analyse (TSV)**  
+
+&nbsp; Zusammenführen von TSV-Dateien vor der analytischen Transformation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Datenverarbeitung auf Basis von Datenströmen (TSV)**  
+
+&nbsp; Automatisierte Systeme fusionieren TSV-Dateien in Datenströmen.
+
+
+
+* **Batch-ETL-Vorgänge (TSV)**  
+
+&nbsp; Das Zusammenführen von TSV-Dateien erfolgt während geplanter ETL-Jobs.
+
+
+
+* **Skalierbare tabellarische Datenpipelines (TSV)**  
+
+&nbsp; Programmgesteuertes Zusammenführen unterstützt große TSV-Datensätze.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

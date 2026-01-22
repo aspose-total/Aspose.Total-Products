@@ -82,7 +82,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Об'єднання зображень у форматі PNG за допомогою API Python дозволяє втратне складання зображень з підтримкою прозорості. Це ідеально підходить для дизайнерських ресурсів, елементів інтерфейсу та шарових візуалів.
+
+
+
+Автоматизація забезпечує послідовне складання зображень зі збереженням візуальної цілісності.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні використання" %}}
+
+
+
+* **Збірка прозорих ресурсів (PNG)**
+
+&nbsp; Об'єднання зображень у форматі PNG зі збереженням альфа-каналів.
+
+
+
+* **Композиція елементів інтерфейсу (PNG)**
+
+&nbsp; Об'єднання графічних елементів інтерфейсу в одне зображення.
+
+
+
+* **Об'єднання ресурсів дизайну (PNG)**
+
+&nbsp; Агрегування ресурсів у форматі PNG для подальшого використання.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Автоматизовані конвеєри дизайну (PNG)**
+
+&nbsp; Системи об'єднують ресурси у форматі PNG під час процесів збірки.
+
+
+
+* **Генерація шарованих зображень (PNG)**
+
+&nbsp; Об'єднання зображень у форматі PNG виконується за допомогою програмних правил.
+
+
+
+* **Масштабована автоматизація візуальних ресурсів (PNG)**
+
+&nbsp; Автоматизовані конвеєри генерують об'єднані візуальні елементи у форматі PNG.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

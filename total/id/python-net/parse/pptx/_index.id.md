@@ -100,7 +100,75 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Menganalisis **presentasi PPTX** menggunakan API Python memungkinkan akses terstruktur ke teks slide, judul, poin-poin penting, tata letak, dan catatan pembicara dari file presentasi modern. Analisis PPTX membuat pengetahuan berbasis slide dapat diakses melampaui tampilan manual.
+
+
+
+Dalam sistem yang didorong otomatisasi, analisis PPTX mendukung penggunaan kembali konten, ringkasan, analitika, dan integrasi dengan manajemen pengetahuan dan jalur pelaporan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Ekstraksi Konten Slide**  
+
+&nbsp; Mengambil teks terstruktur dan elemen tata letak dari slide presentasi.
+
+
+
+* **Penambangan Pengetahuan Presentasi**  
+
+&nbsp; Mengubah slide deck menjadi sumber konten yang dapat dicari dan dianalisis.
+
+
+
+* **Alur Kerja Pemanfaatan Kembali Konten**  
+
+&nbsp; Memungkinkan penggunaan kembali materi presentasi di seluruh dokumentasi dan platform.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Penerimaan Presentasi Otomatis**  
+
+&nbsp; Memproses file PPTX secara otomatis saat diunggah atau dijadwalkan.
+
+
+
+* **Pipa Ringkasan Tingkat Slide**  
+
+&nbsp; Menghasilkan ringkasan singkat dari konten slide yang dianalisis.
+
+
+
+* **Otomatisasi Perbandingan Versi**  
+
+&nbsp; Mendeteksi perubahan secara programatis di sepanjang beberapa versi presentasi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

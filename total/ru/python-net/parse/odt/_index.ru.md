@@ -104,7 +104,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Разбор **ODT документов** с помощью Python API позволяет извлекать информацию из форматов документов, часто используемых в средах с открытым исходным кодом и ориентированных на совместимость. Эти форматы поддерживают структурированный и стандартизированный доступ к содержимому.
+
+
+
+Автоматизированный разбор открытых форматов обеспечивает переносимость, долгосрочную доступность и безпроблемную интеграцию в систему.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Обработка открытых документов**  
+
+  &nbsp; Извлечение структурированного содержимого из стандартизированных документов.
+
+
+
+* **Кроссплатформенная совместимость**  
+
+  &nbsp; Поддержка сред, избегающих проприетарных форматов.
+
+
+
+* **Долгосрочное сохранение данных**  
+
+  &nbsp; Обеспечивает надежный доступ к архивированным открытым документам.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Интеграция контент-каналов**  
+
+  &nbsp; Интеграция данных ODT в различные системы без блокировки.
+
+
+
+* **Автоматизированное преобразование форматов**  
+
+  &nbsp; Преобразует открытые документы в альтернативные представления.
+
+
+
+* **Извлечение, соответствующее схеме**  
+
+  &nbsp; Гарантирует, что разобранное содержимое соответствует заранее определенным моделям данных.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

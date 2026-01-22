@@ -100,7 +100,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API解析**PPT演示文稿**可以从演示文件中提取幻灯片文本、备注和结构元素。这使得基于幻灯片的知识可以被自动化系统访问。
+
+
+
+在自动化环境中，演示文稿解析支持内容重用、摘要和集成到文档或分析工作流程中。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **提取幻灯片内容**  
+
+  检索标题、项目符号和演讲者备注。
+
+
+
+* **演示文稿存档分析**  
+
+  使历史幻灯片堆可搜索和分析。
+
+
+
+* **内容再利用流水线**  
+
+  将演示材料转换为其他内容格式。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化幻灯片摘要**  
+
+  从解析的幻灯片内容生成简明摘要。
+
+
+
+* **知识库填充**  
+
+  将演示数据摄入结构化存储库。
+
+
+
+* **版本比较自动化**  
+
+  检测不同演示文稿版本之间的变化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

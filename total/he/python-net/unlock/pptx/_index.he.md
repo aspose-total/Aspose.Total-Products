@@ -71,7 +71,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTX הוא פורמט ההצגה המודרני המוביל, ופתיחת קבצים מוגנים מבטיחה אוטומציה חלקית, שיתוף פעולה ושימוש חוזר. גישה תכנותית מאפשרת לקבצי PPTX להישאר חלק מאקוסיסטמות תוכן דינמיות.
+
+
+
+פתיחה המבוססת על Python משתלבת בקבצי PPTX לתהליכי עבודה נמרצים מבלי לפגוע בשליטה או בממשק.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **יצירת שקופיות דינמיות**  
+
+  &nbsp; מאפשר שימוש חוזר בשקופיות מוגנות במצגות אוטומטיות.
+
+
+
+* **בדיקות עקביות של תוכן**  
+
+  &nbsp; תומך באימות של מסדרונות נעילים נגד כללי סגנון.
+
+
+
+* **דיווחים אוטומטיים**  
+
+  &nbsp; מאפשר למצגות מוגנות להזין מערכות דיווח.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **הרכבת מצגות אוטומטיות**  
+
+  &nbsp; קבצי PPTX מופתחים ומורכבים דינמית מרכיבים.
+
+
+
+* **פרסום מתוזמן של מצגות**  
+
+  &nbsp; הפתיחה מאפשרת פרסום ללא ידיים של מסדרונות מוגנים.
+
+
+
+* **עדכוני שקופיות המופעלים על ידי נתונים**  
+
+  &nbsp; התוכן המוגן מופתח לרענון שקופיות המופעל על ידי נתונים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

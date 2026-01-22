@@ -90,7 +90,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+عرض ملفات DOT باستخدام واجهات برمجة التطبيقات في Python يسمح بفحص قوالب مستند Word المستخدمة كأساس لإنشاء المحتوى الموحد.
+
+يتيح هذا التحقق التلقائي والإدارة لسير العمل الوثيقة بالقوالب.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **مراجعة هيكل القالب**  
+
+&nbsp; عرض الأنماط المحددة مسبقًا والعناصر النائبة المضمنة في قوالب Word.
+
+
+
+* **فرض التوحيد**  
+
+&nbsp; فحص القوالب لضمان توافق التنسيق والتخطيط.
+
+
+
+* **التحقق قبل النشر**  
+
+&nbsp; مراجعة القوالب قبل توزيعها عبر الأنظمة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **فحوصات الامتثال للقوالب**  
+
+&nbsp; تقوم سير العمل في Python بتقديم ملفات DOT للتحقق من قواعد التنسيق.
+
+
+
+* **تدقيقات القوالب التلقائية**  
+
+&nbsp; يتم مراجعة القوالب بانتظام لاكتشاف التغييرات غير المصرح بها.
+
+
+
+* **أنابيب إنشاء المستندات**  
+
+&nbsp; يضمن العرض أن القوالب جاهزة لإنشاء المستندات تلقائيًا.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

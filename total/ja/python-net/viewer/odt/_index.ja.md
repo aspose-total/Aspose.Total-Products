@@ -90,7 +90,73 @@ ODT ビューア アプリまたはユーティリティを開発する必要が
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用してODTファイルを表示すると、標準ベースのワークフローで使用されるオープンテキストドキュメントを検査できます。
+
+これにより、プロプライエタリな依存関係なしに文書中心のシステムで自動化がサポートされます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **オープンドキュメントのレビュー**  
+
+&nbsp; オープンフォーマットのテキストドキュメントを表示します。
+
+
+
+* **コンテンツの整合性チェック**  
+
+&nbsp; ドキュメントの構造とテキストを検査します。
+
+
+
+* **クロスシステムの互換性**  
+
+&nbsp; 環境間で正しく表示されることを確認します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **自動化されたドキュメントパイプライン**  
+
+&nbsp; Pythonプロセスがワークフロー中にODTファイルをレンダリングします。
+
+
+
+* **コンプライアンスの検証**  
+
+&nbsp; ドキュメントは標準に整合するかどうかが表示されます。
+
+
+
+* **プレビュー生成**  
+
+&nbsp; 自動ビューアがレビューワークフローをサポートします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,93 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+通过Python API提取**ODP**文件的文档元数据使系统能够读取幻灯片演示文稿的属性和嵌入属性，支持治理、发现和生命周期管理，而无需在GUI中打开文件。对于管理大量培训、销售或运营演示文稿的团队至关重要。
+
+
+
+在自动化工作流程中，ODP元数据可以驱动索引、分类和受控发布，使幻灯片库更易于维护、搜索和集成到内容分发系统中。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **演示文库索引**
+
+  提取ODP元数据以建立按作者、主题和更新时间可搜索的幻灯片目录。
+
+
+
+* **培训内容时效性检查**
+
+  使用修改时间戳来识别需要刷新周期的过时幻灯片演示文稿。
+
+
+
+* **基于部门的分类**
+
+  将元数据属性规范化为结构化类别，以实现一致的组织和访问控制。
+
+
+
+* **资产治理报告**
+
+  聚合ODP元数据以衡量使用准备情况、覆盖范围和维护所有权。
+
+
+
+* **批量迁移准备**
+
+  在迁移到新存储或发布环境之前审计ODP属性。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化幻灯片演示文稿摄入**
+
+  上传时提取ODP元数据并自动将演示文稿分配到正确的存储库部分。
+
+
+
+* **陈旧警报自动化**
+
+  当ODP演示文稿超过更新阈值或缺乏负责任所有权字段时触发警报。
+
+
+
+* **基于元数据驱动的发布规则**
+
+  根据指示机密性或仅内部使用的元数据标志发布或限制ODP演示文稿。
+
+
+
+* **批量审计和报告作业**
+
+  运行定期作业，为治理和运营审计导出ODP元数据摘要。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

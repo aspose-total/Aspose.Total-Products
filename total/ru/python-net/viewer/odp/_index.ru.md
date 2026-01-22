@@ -89,7 +89,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Просмотр файлов ODP с использованием Python API позволяет осматривать открытые презентационные документы в формате, нейтральном к платформе.
+
+Это поддерживает взаимодействие и автоматизированные рабочие процессы презентации.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Просмотр открытых презентаций**  
+
+&nbsp; Просмотр слайдов, созданных в форматах открытых документов.
+
+
+
+* **Проверка кроссплатформенной совместимости**  
+
+&nbsp; Гарантирует однородное отображение презентаций.
+
+
+
+* **Проверка содержимого презентации**  
+
+&nbsp; Осмотр текста и структуры слайдов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированные проверки презентаций**  
+
+&nbsp; Рабочие процессы на Python отображают файлы ODP для проверки.
+
+
+
+* **Проверка совместимости**  
+
+&nbsp; Просмотр слайдов для обеспечения совместимости формата.
+
+
+
+* **Предварительный просмотр служб**  
+
+&nbsp; Презентации отображаются динамически.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

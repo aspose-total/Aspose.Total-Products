@@ -77,7 +77,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mencari dokumen **PDF** menggunakan API Python memungkinkan penemuan informasi yang dapat diandalkan yang disimpan dalam salah satu format yang paling banyak digunakan untuk laporan, kontrak, manual, dan catatan resmi. Pencarian PDF berbasis program membantu sistem modern menemukan teks dan struktur yang relevan di sepanjang koleksi dokumen besar tanpa membaca secara manual.
+
+
+
+Ketika diintegrasikan ke dalam pipeline otomatisasi, pencarian PDF mendukung indeksasi yang dapat diskalakan, pengambilan yang lebih cepat, dan integrasi yang mulus dengan alur kerja analitik, kepatuhan, dan manajemen pengetahuan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Penemuan Kata Kunci PDF**  
+
+&nbsp; Menemukan istilah dan frasa yang ditargetkan di sepanjang set dokumen PDF yang besar.
+
+
+
+* **Pemulihan Bagian Laporan**  
+
+&nbsp; Menemukan bagian kunci seperti ringkasan, tabel, dan temuan di dalam PDF.
+
+
+
+* **Pencarian Repositori Dokumen**  
+
+&nbsp; Memungkinkan akses yang dapat dicari ke PDF yang disimpan di berbagai folder dan sistem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pipeline Indeksasi PDF Otomatis**  
+
+&nbsp; Layanan Python mengekstrak teks dan memperbarui indeks pencarian PDF secara terjadwal.
+
+
+
+* **Otomatisasi Tinjauan Kepatuhan PDF**  
+
+&nbsp; Pencarian berbasis program mendeteksi klausa yang diperlukan dan pernyataan yang hilang dalam PDF.
+
+
+
+* **Ekstraksi Wawasan PDF Dinamis**  
+
+&nbsp; Hasil pencarian mendorong ringkasan otomatis, peringatan, dan alur kerja pemrosesan hulu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

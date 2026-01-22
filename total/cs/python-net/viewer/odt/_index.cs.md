@@ -90,7 +90,73 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Prohlížení souborů ODT pomocí Python API umožňuje inspekci otevřených textových dokumentů používaných ve standardizovaných pracovních postupech.
+
+Toto podporuje automatizaci v systémech zaměřených na dokumenty bez proprietárních závislostí.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Otevřené hodnocení dokumentů**  
+
+&nbsp; Prohlížení textových dokumentů ve formátech otevřených.
+
+
+
+* **Kontrola integrity obsahu**  
+
+&nbsp; Inspekce struktury dokumentu a textu.
+
+
+
+* **Kompatibilita mezi systémy**  
+
+&nbsp; Zajištění správného zobrazení dokumentů napříč prostředími.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizované dokumentační potrubí**  
+
+&nbsp; Pythonové procesy zobrazují soubory ODT během pracovních postupů.
+
+
+
+* **Validace shody**  
+
+&nbsp; Dokumenty jsou kontrolovány z hlediska souladu se standardy.
+
+
+
+* **Generování náhledů**  
+
+&nbsp; Automatizované prohlížeče podporují pracovní postupy prohlížení.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

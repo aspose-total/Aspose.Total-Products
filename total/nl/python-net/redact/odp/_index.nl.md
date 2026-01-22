@@ -77,7 +77,75 @@ Voor meer details verwijzen wij u naar [Productdocumentatie](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Document redaction using Python APIs for ODP files enables secure handling of presentation content created in open document standards. This is essential when sharing slides that may contain sensitive or proprietary information.
+
+
+
+Automatisering zorgt ervoor dat ODP-presentaties consequent kunnen worden geschoond, waardoor schaalbare en herhaalbare privacycontroles over presentatie-assets worden ondersteund.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Vertrouwelijke Dia-deling**  
+
+&nbsp; Verwijder gevoelige gegevens van presentatiedia's voordat ze worden verspreid.
+
+
+
+* **Governance van Open Formaten**  
+
+&nbsp; Handhaaf gegevensbeschermingsbeleid op presentatiebestanden in open standaard.
+
+
+
+* **Sanering van Trainingsmateriaal**  
+
+&nbsp; Verwijder interne verwijzingen voordat leerinhoud wordt gepubliceerd.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Regels voor het Schoonmaken op Dia-niveau**  
+
+&nbsp; Automatisch inhoud verwijderen van specifieke dia's of lay-outs.
+
+
+
+* **Presentatie Bouw Pipelines**  
+
+&nbsp; Integreer het schoonmaken in geautomatiseerde presentatiegeneratieworkflows.
+
+
+
+* **Geplande Compliance Scans**  
+
+&nbsp; Periodiek ODP-bestanden schoonmaken met behulp van geautomatiseerde taken.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

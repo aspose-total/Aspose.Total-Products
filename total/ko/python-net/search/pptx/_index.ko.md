@@ -76,7 +76,75 @@ PPTX 검색 가능 소프트웨어 또는 유틸리티를 개발해야 합니까
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+파이썬 API를 사용하여 **PPTX** 파일을 검색하면 구조화된 슬라이드 레이아웃, 텍스트 블록 및 스피커 노트가 포함된 현대적인 프레젠테이션 문서에 안정적으로 액세스할 수 있습니다. PPTX 파일은 보고서, 교육 및 의사 결정 콘텐츠에 널리 사용됩니다.
+
+
+
+자동화된 PPTX 검색은 확장 가능한 슬라이드 분석, 지능적인 검색 및 지식 및 콘텐츠 관리 시스템과의 원활한 통합을 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **구조화된 슬라이드 검색**  
+
+&nbsp; PPTX 파일 내 제목, 글머리 기호 및 노트를 검색합니다.
+
+
+
+* **프레젠테이션 콘텐츠 분석**  
+
+&nbsp; 주요 주제 및 섹션을 프로그래밍 방식으로 식별합니다.
+
+
+
+* **재사용 가능한 슬라이드 발견**  
+
+&nbsp; 보고서나 덱에서 재사용할 수 있는 슬라이드를 찾습니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **지속적인 PPTX 색인 업데이트**  
+
+&nbsp; 파이썬 서비스가 새로운 PPTX 파일을 모니터링하고 색인화합니다.
+
+
+
+* **자동화된 슬라이드 분류**  
+
+&nbsp; 추출된 콘텐츠를 기반으로 슬라이드를 분류합니다.
+
+
+
+* **PPTX 콘텐츠 파이프라인**  
+
+&nbsp; 검색 결과가 대시보드 및 자동화 워크플로에 공급됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

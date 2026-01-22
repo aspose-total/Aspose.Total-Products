@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用してWord文書に署名することで、提案書、方針、社内コミュニケーションなどの日常的なビジネス文書の承認を正式化します。これにより、標準的なオフィスワークフロー内でのレビューと所有権の一貫した証拠が提供されます。
+
+
+
+自動化駆動のWord署名は、文書が特定のライフサイクルのマイルストーンに達したときに署名を適用することで、手動処理を削減し、拡張性とトレーサビリティを向上させます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+
+
+* **提案承認の最終化**  
+
+&nbsp; レビューが完了しコンテンツが最終化されたらWord提案に署名します。
+
+
+
+* **方針更新の承認**  
+
+&nbsp; Word方針文書に署名を適用して、公開が承認されたことを確認します。
+
+
+
+* **運用文書の承認**  
+
+&nbsp; リリースの準備が整ったことを示すためにWord運用文書に署名します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **承認ルーティング完了署名**  
+
+&nbsp; ルーティング手順が完了したときにWord文書に自動的に署名します。
+
+
+
+* **文書リポジトリ公開ゲート**  
+
+&nbsp; 共有リポジトリに公開される前にWordファイルに署名します。
+
+
+
+* **自動バージョンリリース認証**  
+
+&nbsp; 最終バージョンがリリース用にタグ付けされたときにWord文書に署名します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

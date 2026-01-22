@@ -82,7 +82,73 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Imaging for Python vi
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Xem các định dạng hình ảnh chung với Python APIs cung cấp một phương pháp thống nhất để kiểm tra tài sản hình ảnh trên các luồng công việc.
+
+Điều này cho phép xử lý hình ảnh một cách nhất quán bất kể nguồn hoặc loại.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Kiểm Tra Hình Ảnh Thống Nhất**  
+
+&nbsp; Xem các tệp hình ảnh đa dạng thông qua một giao diện duy nhất.
+
+
+
+* **Xác Minh Tài Sản Hình Ảnh**  
+
+&nbsp; Xác nhận tính toàn vẹn và diện mạo của hình ảnh.
+
+
+
+* **Hỗ Trợ Đường Ống Nội Dung**  
+
+&nbsp; Kiểm tra hình ảnh trong các giai đoạn xử lý.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Các Đường Ống Hình Ảnh Tự Động Hóa**  
+
+&nbsp; Các luồng công việc Python hiển thị hình ảnh trong quá trình xử lý hàng loạt.
+
+
+
+* **Dịch Vụ Xem Trước Động**  
+
+&nbsp; Hình ảnh được hiển thị theo yêu cầu để xem xét.
+
+
+
+* **Tự Động Hóa Đảm Bảo Chất Lượng**  
+
+&nbsp; Xem hỗ trợ kiểm tra hình ảnh tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

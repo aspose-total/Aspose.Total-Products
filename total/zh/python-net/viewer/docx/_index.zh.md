@@ -90,7 +90,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+通过Python API查看DOCX文件，可以以完整的结构清晰地以编程方式呈现和检查现代Word文档。
+
+这使得跨内容密集系统实现可扩展的文档工作流程成为可能。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **结构化文档审查**  
+
+  查看标题、段落和格式一致性。
+
+
+
+* **内容质量检查**  
+
+  检查文档的完整性和正确性。
+
+
+
+* **工作流集成**  
+
+  将文档查看嵌入自动化系统。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化文档流水线**  
+
+  Python进程在多步骤工作流程中显示DOCX文件。
+
+
+
+* **预览服务**  
+
+  为Web或内部工具生成按需文档预览。
+
+
+
+* **批量内容验证**  
+
+  大量文档进行程序化审查。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

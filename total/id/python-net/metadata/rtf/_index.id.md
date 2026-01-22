@@ -98,7 +98,93 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Ekstraksi metadata dokumen untuk file **RTF** melalui API Python membantu sistem menangkap properti file dasar dan deskriptor tersemat untuk dokumen teks kaya yang sering digunakan untuk portabilitas dan kompatibilitas warisan. Ini mendukung pengindeksan, tata kelola, dan pelacakan siklus hidup untuk repositori yang berisi beragam jenis dokumen.
+
+
+
+Dalam alur kerja otomatis, metadata RTF dapat memicu klasifikasi, routing, dan sinkronisasi katalog—memungkinkan penanganan berskala dokumen warisan atau berorientasi pertukaran tanpa tinjauan manual.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Pengindeksan Repositori Format Campuran**
+
+  Ekstrak metadata RTF untuk meningkatkan kemampuan ditemukan dan menyatukan pelaporan di berbagai toko dokumen.
+
+
+
+* **Tata Kelola Konten Warisan**
+
+  Gunakan timestamp dan bidang kepemilikan untuk menetapkan tanggung jawab dan siklus pembaruan untuk dokumen-dokumen lama.
+
+
+
+* **Klasifikasi Massal untuk Operasi**
+
+  Normalisasi properti RTF yang tersedia menjadi tag terstruktur untuk routing dan kontrol akses.
+
+
+
+* **Perencanaan Migrasi dan Konversi**
+
+  Audit metadata RTF untuk memprioritaskan target konversi dan mengidentifikasi detail kepemilikan yang hilang.
+
+
+
+* **Kontrol Kualitas untuk Penerimaan**
+
+  Tandai file RTF dengan metadata yang tidak lengkap atau tidak konsisten untuk alur kerja perbaikan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Normalisasi Penerimaan Warisan**
+
+  Ekstraksi metadata RTF secara otomatis dan ubah menjadi bidang standar untuk registri dokumen pusat.
+
+
+
+* **Orkestrasi Antrian Konversi**
+
+  Arahkan file RTF ke dalam pipa konversi berdasarkan kelengkapan metadata dan ambang batas keusangan.
+
+
+
+* **Penugasan Pengelolaan Otomatis**
+
+  Buat tugas kepemilikan untuk file RTF yang tidak memiliki properti pemelihara, menggunakan konteks direktori ditambah sinyal metadata.
+
+
+
+* **Laporan Kesehatan Berkala Repositori**
+
+  Hasilkan ringkasan terjadwal tentang cakupan metadata RTF, bidang yang hilang, dan distribusi penuaan untuk pelacakan tata kelola.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

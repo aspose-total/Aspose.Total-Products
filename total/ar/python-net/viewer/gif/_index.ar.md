@@ -82,7 +82,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+عرض ملفات GIF باستخدام واجهات برمجة التطبيقات في Python يمكن تصور تسلسلات الصور المتحركة أو الثابتة للتفتيش والتحقق.
+
+يدعم هذا سير العمل التلقائي الذي يشمل الرسوم المتحركة أو المؤشرات البصرية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **مراجعة المحتوى المتحرك**  
+
+&nbsp; عرض الرسوم المتحركة بناءً على الإطارات بشكل برمجي.
+
+
+
+* **التحقق من المؤشرات البصرية**  
+
+&nbsp; تفقد الإشارات المتحركة أو الرسوم البيانية التعليمية.
+
+
+
+* **تفتيش الأصول الإعلامية**  
+
+&nbsp; مراجعة تسلسلات الصور المستخدمة في سير العمل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير" %}}
+
+
+
+* **التحقق الآلي من الوسائط**  
+
+&nbsp; تعرض أنابيب Python ملفات GIF أثناء عمليات التحقق من الجودة.
+
+
+
+* **أنظمة إنشاء المعاينات**  
+
+&nbsp; يتم تقديم المعاينات المتحركة بشكل ديناميكي.
+
+
+
+* **تصور تصحيح العمليات**  
+
+&nbsp; يتم عرض ملفات GIF للتحقق من حالات العملية بصورة بصرية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

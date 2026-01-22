@@ -100,7 +100,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+פיענוח **מצגות PPT** באמצעות Python APIs מאפשר חילוץ של טקסט של שקופיות, הערות ורכיבים מבניים מקבצי מצגת. זה מאפשר גישה לידע מבוסס שקופיות למערכות אוטומטיות.
+
+
+
+בהקשרים של אוטומציה, פיענוח מצגות תומך בשימוש מחדש בתוכן, סיכום ואינטגרציה לתהליכי תיעוד או ניתוח.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **חילוץ תוכן של שקופיות**  
+
+&nbsp; מחזיר כותרות, נקודות רשימה והערות של דובר.
+
+
+
+* **ניתוח ארכיוני של מצגות**  
+
+&nbsp; הופך מצגות היסטוריות לניתנות לחיפוש וניתנות לניתוח.
+
+
+
+* **צינורות שימוש מחדש של תוכן**  
+
+&nbsp; ממיר חומר מצגת לפורמטים אחרים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **סיכום של שקופיות אוטומטי**  
+
+&nbsp; יוצר סיכומים קצרים מתוכן של שקופיות שנחפז.
+
+
+
+* **מילוי בסיס נתונים מידע**  
+
+&nbsp; מטמיע נתוני מצגת במאגרים מובנים.
+
+
+
+* **אוטומציה של השוואת גרסאות**  
+
+&nbsp; זוהה שינויים בין גרסאות שונות של מצגת.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

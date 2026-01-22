@@ -71,7 +71,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+يُستخدم ملف ODP بشكل شائع في سير العمل للعروض التقديمية المفتوحة المعيار. يضمن حماية هذه الملفات التقديمية بقاء المحتوى البصري والرسائل سليمة أثناء المشاركة والتعاون.
+
+
+
+باستخدام واجهات برمجة التطبيقات بايثون، يمكن حماية العروض التقديمية ODP تلقائيًا، مما يسمح بالتعامل الآمن ضمن أنظمة إنشاء وتوصيل العروض القابلة للتوسيع.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **حماية سلامة العرض**  
+
+&nbsp; منع التعديل غير المصرح به على الشرائح والتخطيطات.
+
+
+
+* **الاجتماعات السرية**  
+
+&nbsp; تأمين العروض السرية قبل المشاركة الداخلية أو الخارجية.
+
+
+
+* **حكم العروض الموحد**  
+
+&nbsp; تطبيق قواعد حماية متسقة على جميع ملفات ODP.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **حماية مجموعات الشرائح تلقائيًا**  
+
+&nbsp; تأمين ملفات ODP فور إنشائها تلقائيًا.
+
+
+
+* **فرض الأمان على أساس الخطوط الإنتاجية**  
+
+&nbsp; تطبيق الحماية أثناء سير العمل الخاص بالمحتوى بنمط CI/CD.
+
+
+
+* **قيود الوصول البرمجي**  
+
+&nbsp; التحكم في حقوق التحرير والعرض بشكل ديناميكي عبر السكربتات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

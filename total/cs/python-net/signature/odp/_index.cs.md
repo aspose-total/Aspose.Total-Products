@@ -73,7 +73,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Podpisování souborů prezentací ODP pomocí Python API pomáhá týmům kontrolovat kvalitu vydání a vlastnictví prezentací vytvořených ve formátech otevřených. To zajistí, že jsou prezentace distribuovány pouze po formálním schválení.
+
+
+
+Pokud je automatizováno, podpisování ODP se stává opakovatelným krokem správy v rámci pracovních postupů spolupráce, zlepšuje kontrolu verzí a zabrání šíření neprojednaných prezentací.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Schválení vydání výukové prezentace**  
+
+&nbsp; Podepište výukové prezentace ODP k potvrzení připravenosti pro interní nasazení.
+
+
+
+* **Potvrzení recenze zainteresovaných stran**  
+
+&nbsp; Přidejte podpisovou značku k prezentacím ODP po dokončení recenze zainteresovaných stran.
+
+
+
+* **Certifikace prezentace o shodě**  
+
+&nbsp; Podepište politické nebo shodové prezentace k zdokumentování toho, kdo schválil finální verzi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Spouštění podpisu pomocí pracovního postupu schvalování**  
+
+&nbsp; Automaticky podepisujte soubory ODP, když je stav schválení zaznamenán v systému.
+
+
+
+* **Brána integrity prezentace před sdílením**  
+
+&nbsp; Podepisujte prezentace až poté, co kontroly potvrdí, že požadované snímky a metadata existují.
+
+
+
+* **Hromadné podepisování pro vydávací cykly**  
+
+&nbsp; Programově podepisujte více prezentací ODP jako součást plánovaných vydávacích cyklů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

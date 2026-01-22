@@ -71,7 +71,75 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Python via
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Tệp PPT đại diện cho các định dạng trình bày cũ hơn có thể vẫn được bảo vệ và lưu trữ rộng rãi. Mở khóa chúng theo cách tự động đảm bảo tính khả dụng liên tục và hiện đại hóa tài sản trình bày cổ điển.
+
+
+
+API Python cho phép tự động mở khóa PPT, cho phép tích hợp với các hệ thống chuyển đổi, phân tích và lưu trữ.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Truy cập Trình Bày Cổ Điển**  
+
+&nbsp; Cho phép tái sử dụng nội dung được bảo vệ từ các tệp trình bày cũ.
+
+
+
+* **Bảo Quản Nội Dung Lịch Sử**  
+
+&nbsp; Hỗ trợ kiểm tra trước khi di chuyển các bài trình bày cổ điển.
+
+
+
+* **Trích Xuất Dữ Liệu Slide**  
+
+&nbsp; Cho phép truy cập vào văn bản được bảo vệ và các yếu tố bố cục.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Các Luồng Di Chuyển Định Dạng Cổ Điển**  
+
+&nbsp; Các tệp PPT được mở khóa và chuyển đổi tự động.
+
+
+
+* **Lưu Trữ Slide Tự Động**  
+
+&nbsp; Các tệp được mở khóa trong quá trình xác nhận lưu trữ.
+
+
+
+* **Chỉ Mục Nội Dung Trình Bày**  
+
+&nbsp; Mở khóa cho phép chỉ mục tìm kiếm của các bộ slide cũ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

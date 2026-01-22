@@ -76,7 +76,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+שילוב מסמכי טקסט פשוט באמצעות Python APIs מספק את הדרך הפשוטה והגמישה ביותר לשלב תוכן באופן תכנותי. זה אידיאלי עבור לוגים, ייצואים, פלטי מערכת וטקסט שנוצר באופן אוטומטי.
+
+
+
+שילוב המבוסס על טקסט משתלב באופן טבעי עם צינורות אוטומציה, מציע מהירות מקסימלית, קידומת ושליטה.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **איגוד קבצי לוגים (TXT)**  
+
+&nbsp; מיזוג של מספר לוגים טקסט לקובץ מאוחד אחד.
+
+
+
+* **שילוב ייצואי נתונים (TXT)**  
+
+&nbsp; שלב ייצואים מבוססי טקסט ממערכות שונות.
+
+
+
+* **עיבוד תוכן מראש (TXT)**  
+
+&nbsp; מיזוג קבצי טקסט גולמיים לפני עיבוד לאחר.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **צינורות טקסט מבוססות זרם (TXT)**  
+
+&nbsp; צינורות אוטומציה משלבים קבצי טקסט בזמן אמת.
+
+
+
+* **אוטומציה של עיבוד צפיפות (TXT)**  
+
+&nbsp; קבצי TXT משולבים במהלך עבודות צפיפות מתוזמנות.
+
+
+
+* **המרת טקסט בקנה מידה (TXT)**  
+
+&nbsp; המיזוג התכנתי תומך בזרימות עבודה גדולות בטקסט.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

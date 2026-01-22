@@ -78,7 +78,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusione di file di valori separati da tabulazioni utilizzando le API di Python consente una combinazione rapida e leggera di dati tabulari strutturati. Il TSV è comunemente utilizzato per lo scambio di dati e la pre-elaborazione.
+
+
+
+La fusione automatizzata di TSV supporta pipeline di dati ad alte prestazioni e flussi di lavoro analitici.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* **Aggregazione Dati Grezzi (TSV)**  
+
+&nbsp; Unisci file TSV in un unico dataset per l'elaborazione.
+
+
+
+* **Scambio Dati da Sistema a Sistema (TSV)**  
+
+&nbsp; Combina esportazioni TSV da piattaforme diverse.
+
+
+
+* **Preparazione Dati Pre-Analisi (TSV)**  
+
+&nbsp; Unisci file TSV prima della trasformazione analitica.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Elaborazione Dati Basata su Flussi (TSV)**  
+
+&nbsp; I sistemi automatizzati uniscono file TSV in flussi di dati.
+
+
+
+* **Operazioni ETL Batch (TSV)**  
+
+&nbsp; La fusione di TSV avviene durante lavori ETL pianificati.
+
+
+
+* **Pipeline Dati Tabulari Scalabili (TSV)**  
+
+&nbsp; La fusione programmatica supporta grandi dataset TSV.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

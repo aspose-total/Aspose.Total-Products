@@ -71,7 +71,75 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A Python API-k segítségével általános képbevitel aláírása egységes megközelítést biztosít az elfogadási jelek és ellenőrzési metaadatok alkalmazásához vegyes képforrások esetén. Ez hasznos, amikor a csővezetékek több eszközből veszik be a képeket, és egységes irányításra van szükség.
+
+
+
+Amikor automatizált, a kép aláírása szabványosított "elfogadott műalkotás" állapotot erősít meg, biztosítva, hogy az alárendelt rendszerek csak azokat az eszközöket fogyasszák, amelyek megfelelnek a minőségi, irányelvi vagy szabályozási követelményeknek.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Források közötti eszközstandardizálás**  
+
+&nbsp; Alkalmazzon egy egységes aláírási átfedést a különböző eszközökből és csapatokból érkező képekre.
+
+
+
+* **Bizonyíték képének ellenőrzése**  
+
+&nbsp; Aláírásokat alkalmazzon azokra a képekre, amelyeket bizonyítékként használnak a felülvizsgáló személyazonosságának és jóváhagyási állapotának megerősítésére.
+
+
+
+* **Elfogadott eszköz elosztásának irányítása**  
+
+&nbsp; Jelölje meg a képeket jóváhagyottként, mielőtt azokat elosztási csomagokba foglalnák.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Bevitelidőben történő jóváhagyási jelölés**  
+
+&nbsp; Aláírja a képeket a bevitel során, miután a validálási szabályok és metaadat-ellenőrzések befejeződtek.
+
+
+
+* **Irányelvi ellenőrzőpont végrehajtása**  
+
+&nbsp; Automatikusan csak azokat a képeket írja alá, amelyek átmentek az automatizált irányelvi és biztonsági szabályokon.
+
+
+
+* **Tároló szinkronizálás befejezése**  
+
+&nbsp; Aláírja a képeket a megosztott tárolókba történő szinkronizálás előtt annak érdekében, hogy csak ellenőrzött verziók terjedjenek el.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

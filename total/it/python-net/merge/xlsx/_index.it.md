@@ -78,7 +78,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusione dei moderni fogli di calcolo Excel utilizzando le API di Python è un approccio standard per combinare set di dati strutturati, report e modelli. XLSX è il formato di foglio di calcolo più utilizzato nei sistemi moderni.
+
+
+
+Questa capacità si integra perfettamente con le piattaforme di dati, consentendo la generazione automatica di fogli di calcolo e la consolidazione su larga scala.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Chiave" %}}
+
+
+
+* **Creazione di Report Multi-Foglio (XLSX)**  
+
+&nbsp; Unisci file XLSX in un workbook di report completo.
+
+
+
+* **Unificazione delle Fonti di Dati (XLSX)**  
+
+&nbsp; Combina set di dati XLSX da sistemi multipli.
+
+
+
+* **Assemblaggio Collaborativo dei Dati (XLSX)**  
+
+&nbsp; Unisci file XLSX contribuiti da diversi portatori di interesse.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Generazione Dinamica di Fogli di Calcolo (XLSX)**  
+
+&nbsp; I sistemi uniscono file XLSX in base alle condizioni dei dati in esecuzione.
+
+
+
+* **Integrazione con Pipeline ETL (XLSX)**  
+
+&nbsp; La fusione di XLSX è automatizzata all'interno delle pipeline di ingestione dei dati.
+
+
+
+* **Automazione Scalabile dei Report (XLSX)**  
+
+&nbsp; I report XLSX ad alto volume vengono uniti in modo programmato.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

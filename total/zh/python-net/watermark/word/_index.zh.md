@@ -79,7 +79,85 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG WORD TIFF GIF 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API为**Word**文档添加水印有助于通过在经常共享和编辑的文档中嵌入可见标签来保护商业文本文件的所有权、机密性和分发规则。
+
+自动化可以实现团队和文档库之间一致的Word水印处理，减少手动工作量，同时强制执行治理和工作流程的清晰度。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **机密政策文件**  
+
+&nbsp; 添加机密标记以减少意外转发内部指南。
+
+
+
+* **协作文档的草案治理**  
+
+&nbsp; 添加“草稿”标签，防止过时版本被视为最终版本。
+
+
+
+* **客户交付归属**  
+
+&nbsp; 为共享的Word文件添加水印，以澄清所有权和允许的重复使用。
+
+
+
+* **受控模板输出标签**  
+
+&nbsp; 确保自动生成的Word文档包含标准水印策略。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **模板到文档水印自动化**  
+
+&nbsp; 在从结构化数据生成Word文档后立即应用水印。
+
+
+
+* **基于工作流状态的水印切换**  
+
+&nbsp; 当文档从草稿变为已批准时自动更改水印文本。
+
+
+
+* **存储库上传政策执行**  
+
+&nbsp; 在上传Word文件到受监管文件夹或案例管理系统时添加水印。
+
+
+
+* **用于共享的特定接收者水印**  
+
+&nbsp; 嵌入接收者标识符，以提高在外部共享文档时的可追溯性。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

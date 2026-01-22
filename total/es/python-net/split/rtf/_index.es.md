@@ -90,7 +90,41 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Los archivos RTF proporcionan un formato de documento portátil centrado en texto con formato incrustado. Dividir archivos RTF permite la extracción controlada de contenido formateado.
+
+La automatización con Python permite el manejo eficiente de documentos RTF en sistemas a gran escala.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+- **Extracción de texto formateado**
+  &nbsp; Extraer secciones conservando el formato.
+
+- **Procesamiento de contenido interoperable**
+  &nbsp; Utilizar el contenido extraído en diferentes plataformas.
+
+- **Simplificación de documentos**
+  &nbsp; Dividir archivos complejos en unidades manejables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+- **División de secciones basada en patrones**
+  &nbsp; Python identifica palabras de control para dividir el contenido.
+
+- **Transformación automatizada de contenido**
+  &nbsp; Las secciones extraídas se transforman programáticamente.
+
+- **Tuberías de contenido entre sistemas**
+  &nbsp; Las secciones fluyen sin problemas entre sistemas diferentes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

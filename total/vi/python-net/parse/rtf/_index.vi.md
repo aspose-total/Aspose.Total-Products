@@ -104,7 +104,75 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Words for Python via 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Phân tích **tài liệu RTF** với Python APIs cho phép trích xuất từ một định dạng văn bản nhẹ, được hỗ trợ rộng rãi giữ nguyên các định dạng cơ bản. RTF thường được sử dụng để tương thích và trao đổi dữ liệu cũ.
+
+
+
+Phân tích RTF thân thiện với tự động hóa hỗ trợ trích xuất văn bản nhanh chóng với ít cấu trúc.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Trích Xuất Tài Liệu Nhẹ**  
+
+&nbsp; Trích xuất văn bản từ các tài liệu đơn giản định dạng.
+
+
+
+* **Tương Thích Hệ Thống Cũ**  
+
+&nbsp; Xử lý các tệp được tạo bởi các trình soạn thảo cũ hoặc tối giản.
+
+
+
+* **Công Việc Chuẩn Hóa Văn Bản**  
+
+&nbsp; Chuyển đổi RTF thành các biểu diễn văn bản sạch.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Xử Lý Văn Bản Số Lượng Lớn**  
+
+&nbsp; Tự động hóa trích xuất từ các bộ dữ liệu RTF lớn.
+
+
+
+* **Đường Ốc Đơn Giản Hóa Định Dạng**  
+
+&nbsp; Loại bỏ định dạng trong khi giữ nguyên nội dung cốt lõi.
+
+
+
+* **Trao Đổi Dữ Liệu Hệ Thống-Hệ Thống**  
+
+&nbsp; Cho phép tiếp nhận chương trình của đầu vào dựa trên RTF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

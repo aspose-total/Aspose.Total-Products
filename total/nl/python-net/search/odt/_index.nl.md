@@ -76,7 +76,75 @@ Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het zoeken naar **ODT**-bestanden met behulp van Python-API's zorgt voor compatibiliteit met open documentstandaarden en maakt efficiënte inhoudsontdekking mogelijk. ODT-documenten worden veel gebruikt in open-source en samenwerkingsomgevingen waar draagbaarheid en transparantie essentieel zijn.
+
+
+
+Geautomatiseerd ODT-zoeken verbetert de interoperabiliteit, ondersteunt schaalbare documentanalyse en integreert naadloos met moderne automatiseringspijplijnen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Zoeken in Open-Format Documenten**  
+
+  Locatie van trefwoorden binnen op ODT gebaseerde documenten.
+
+
+
+* **Samenwerking bij Inhoudsbeoordeling**  
+
+  Maakt snelle opzoeking mogelijk in gedeelde open documenten.
+
+
+
+* **Beleids- en Documentanalyse**  
+
+  Identificeert vereiste secties binnen ODT-bestanden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Geautomatiseerde ODT-indexcreatie**  
+
+  Python-scripts genereren doorzoekbare indexen van ODT-bestanden.
+
+
+
+* **ODT Wijzigingsdetectie**  
+
+  Programmacomponenten identificeren bijgewerkte of gewijzigde inhoud.
+
+
+
+* **ODT Inhoudspijplijnen**  
+
+  Geëxtraheerde gegevens voeden geautomatiseerde publicatie- en beoordelingssystemen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

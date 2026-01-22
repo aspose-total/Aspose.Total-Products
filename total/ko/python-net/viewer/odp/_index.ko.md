@@ -89,7 +89,73 @@ ODP 뷰어 앱이나 유틸리티를 개발해야 합니까?[Aspose.Total for Py
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 ODP 파일을 볼 때 플랫폼 중립 형식으로 문서를 검사할 수 있습니다.
+
+이는 상호 운용성과 자동화된 프레젠테이션 워크플로를 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **오픈 프레젠테이션 검토**  
+
+&nbsp; 오픈 문서 형식으로 작성된 슬라이드를 확인합니다.
+
+
+
+* **크로스 플랫폼 유효성 검사**  
+
+&nbsp; 프레젠테이션이 일관되게 렌더링되는지 확인합니다.
+
+
+
+* **프레젠테이션 콘텐츠 검사**  
+
+&nbsp; 슬라이드 텍스트와 구조를 검토합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동화된 프레젠테이션 감사**  
+
+&nbsp; Python 워크플로가 검토를 위해 ODP 파일을 렌더링합니다.
+
+
+
+* **상호 운용성 확인**  
+
+&nbsp; 형식 호환성을 확인하기 위해 슬라이드를 확인합니다.
+
+
+
+* **미리보기 서비스**  
+
+&nbsp; 프레젠테이션을 동적으로 표시합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

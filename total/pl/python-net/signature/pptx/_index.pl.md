@@ -73,7 +73,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Podpisywanie plików PPTX umożliwia prezentacjom przenoszenie jasnych metadanych zatwierdzenia i wydania, zapobiegając nieautoryzowanemu lub przedwczesnemu rozpowszechnianiu.
+
+
+
+Automatyzacja oparta na Pythonie zapewnia spójność zatwierdzania prezentacji w zespołach i wersjach.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Zatwierdzenie prezentacji dla kadry zarządzającej**  
+
+  &nbsp; Podpisz dekiel PPTX przed dystrybucją wśród kierownictwa.
+
+
+
+* **Finalizacja prezentacji sprzedażowych**  
+
+  &nbsp; Dodaj wskaźniki zatwierdzenia do prezentacji dla klientów.
+
+
+
+* **Certyfikacja materiałów szkoleniowych**  
+
+  &nbsp; Oznacz zatwierdzone prezentacje szkoleniowe.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Podpisywanie wywołane zatwierdzeniem interesariusza**  
+
+  &nbsp; Pliki PPTX są podpisywane po zarejestrowaniu zatwierdzeń.
+
+
+
+* **Egzekwowanie wersjonowania zatwierdzonego wydania**  
+
+  &nbsp; Zewnętrznie udostępniane są tylko podpisane dekielki.
+
+
+
+* **Automatyczne publikowanie prezentacji**  
+
+  &nbsp; Podpisywanie jest zintegrowane z procesami publikacji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

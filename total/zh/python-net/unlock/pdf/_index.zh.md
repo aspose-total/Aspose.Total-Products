@@ -71,7 +71,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PDF文件通常被锁定以保护敏感信息，但受控解锁对于自动化、分析和合法重复使用至关重要。编程访问确保受保护的PDF仍然可以参与现代数字工作流程。
+
+
+
+Python API允许以安全和规模化的方式处理PDF解锁，与数据提取、索引和转换系统集成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **文本和数据提取**  
+
+  &nbsp; 为分析和报告提供对受保护内容的访问。
+
+
+
+* **文档审查自动化**  
+
+  &nbsp; 支持在审查周期内自动检查被锁定文件。
+
+
+
+* **格式转换流水线**  
+
+  &nbsp; 允许将受保护的PDF转换为可编辑或可搜索的格式。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化OCR工作流程**  
+
+  &nbsp; 在文本识别和丰富化过程之前解锁PDF。
+
+
+
+* **搜索索引生成**  
+
+  &nbsp; 通过程序解锁和索引受保护内容。
+
+
+
+* **批量合规处理**  
+
+  &nbsp; 在计划的合规操作期间解锁大量PDF。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

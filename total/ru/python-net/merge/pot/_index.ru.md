@@ -79,7 +79,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Объединение форматов шаблонов PowerPoint с использованием API Python обеспечивает согласованный дизайн, макет и брендинг в презентациях. Шаблоны являются основой для стандартизированного создания слайдов.
+
+
+
+Автоматизация позволяет быстро создавать однородные презентации в масштабах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Сборка презентаций на основе шаблонов (POT)**  
+
+&nbsp; Объединение файлов на основе POT для обеспечения согласованных макетов.
+
+
+
+* **Создание стандартизированных презентаций (POT)**  
+
+&nbsp; Объединение презентаций, созданных на основе шаблонов, в одну презентацию.
+
+
+
+* **Управление многократно используемым дизайном (POT)**  
+
+&nbsp; Сбор файлов на основе POT для однородного стиля слайдов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированное применение шаблонов (POT)**  
+
+&nbsp; Файлы на основе POT объединяются во время создания презентации.
+
+
+
+* **Пакетная обработка шаблонов (POT)**  
+
+&nbsp; Запланированные задания объединяют шаблонные презентации.
+
+
+
+* **Автоматизация с контролем дизайна (POT)**  
+
+&nbsp; Системы объединяют файлы на основе POT для обеспечения согласованности брендинга.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,85 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Vízjel elhelyezése **Word** dokumentumokban Python API-k segítségével segít védeni az üzleti szövegfájlokat olyan látható címkék beágyazásával, amelyek az tulajdonjogot, bizalmas jellegét és a terjesztési szabályokat jelölik meg olyan dokumentumokban, amelyek gyakran megosztásra és szerkesztésre kerülnek.
+
+Az automatizálás lehetővé teszi az egységes Word vízjel alkalmazását csapatok és dokumentumtárak között, csökkentve a manuális erőfeszítést, miközben támogatja a kormányzást és a munkafolyamatok átláthatóságát.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* **Bizalmas Irányelvek**  
+
+&nbsp; Adj hozzá bizalmassági jelzéseket a belső irányelvek véletlen továbbításának csökkentése érdekében.
+
+
+
+* **Vázlat Irányítás a Közös Dokumentumokhoz**  
+
+&nbsp; Jelölje meg a "VÁZLAT" címkéket annak érdekében, hogy elkerülje az elavult verziók kezelését véglegesként.
+
+
+
+* **Ügyfél Átadhatóság Tulajdonjogának Megjelölése**  
+
+&nbsp; Vízjelezze a megosztott Word fájlokat a tulajdonjog és a megengedett újrafelhasználás tisztázása érdekében.
+
+
+
+* **Irányított Sablon Kimenet Címkézése**  
+
+&nbsp; Biztosítsa, hogy az automatikusan generált Word dokumentumok tartalmazzák a standard vízjel politikákat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* **Sablonból Dokumentum Vízjel Automatizálás**  
+
+&nbsp; Alkalmazzon vízjeleket azonnal a strukturált adatokból generált Word dokumentumok után.
+
+
+
+* **Munkafolyamat Állapoton Alapuló Vízjel Váltás**  
+
+&nbsp; Automatikusan változtassa meg a vízjel szövegét, amikor a dokumentumok a vázlatból jóváhagyottá válnak.
+
+
+
+* **Tárhely Feltöltési Irányelv Végrehajtás**  
+
+&nbsp; Vízjelezze a Word fájlokat a szabályozott mappákba vagy ügyviteli rendszerekbe történő feltöltéskor.
+
+
+
+* **Címzett-Specifikus Vízjelezés Megosztáshoz**  
+
+&nbsp; Ágyazza be a címzett azonosítókat a dokumentumok külső megosztásakor történő visszakövethetőség javítása érdekében.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

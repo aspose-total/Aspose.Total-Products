@@ -100,7 +100,75 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PDF dokumentumok** elemzése Python API-k segítségével lehetővé teszi a szöveg és elrendezés információinak kinyerését egy széles körben használt, fix elrendezésű formátumból. A PDF-ek gyakoriak jelentésekben, számlákban és hivatalos iratokban.
+
+
+
+Automatizált PDF elemzés feloldja a nem szerkeszthető tartalmat elemzéshez, kereséshez és rendszerintegrációhoz manuális beavatkozás nélkül.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Fő felhasználási esetek" %}}
+
+
+
+* **Jelentésadatok kinyerése**  
+
+&nbsp; Szöveges tartalom visszanyerése statikus PDF jelentésekből.
+
+
+
+* **Dokumentumarchiválási folyamatok**  
+
+&nbsp; PDF-ek átalakítása keresésre és indexelésre alkalmas szöveggé.
+
+
+
+* **Információvisszakeresési rendszerek**  
+
+&nbsp; Tartalom felfedezésének lehetővé tétele nagy PDF gyűjteményekben.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Ütemezett PDF feldolgozás**  
+
+&nbsp; Beérkező PDF-ek automatikus feldolgozása fix időközönként.
+
+
+
+* **Szöveg normalizálási csatornák**  
+
+&nbsp; A kinyert PDF szöveg tisztítása és szabványosítása programozott módon.
+
+
+
+* *\{Lejjebb mutató analitika lehetősége\}*  
+
+&nbsp; Elemzett PDF tartalom továbbítása analitikai vagy gépi tanulási folyamatokba.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

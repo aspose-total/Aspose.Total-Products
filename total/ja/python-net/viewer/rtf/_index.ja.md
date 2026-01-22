@@ -90,7 +90,73 @@ RTF ビューア アプリまたはユーティリティを開発する必要が
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用してRTFファイルを表示すると、フォーマットと携帯性をバランスさせたリッチテキストドキュメントを検査できます。
+
+これにより、基本的なスタイリングが必要なテキスト中心のワークフローに自動化がサポートされます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **フォーマットされたテキストのレビュー**  
+
+&nbsp; ドキュメント全体の複雑さを排除してスタイル付きテキストを表示します。
+
+
+
+* **相互運用可能なドキュメントの検査**  
+
+&nbsp; 異なるシステム間でドキュメントを検査します。
+
+
+
+* **コンテンツの検証**  
+
+&nbsp; フォーマットとテキストの正確性を確認します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **自動化されたテキストパイプライン**  
+
+&nbsp; Pythonワークフローが処理中にRTFファイルをレンダリングします。
+
+
+
+* **プレビューサービス**  
+
+&nbsp; ドキュメントは動的に表示され、レビューが可能です。
+
+
+
+* **移行の検証**  
+
+&nbsp; 表示により、他の形式への安全な変換が確認されます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -100,7 +100,75 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Analiza **prezentacji PowerPoint** za pomocą interfejsów API w języku Python umożliwia strukturalne wyodrębnianie treści slajdów, w tym tytułów, punktów wypunktowania, układów i notatek prelegenta z plików prezentacji. Dzięki temu informacje oparte na prezentacjach stają się dostępne do analizy, ponownego wykorzystania i integracji systemowej.
+
+
+
+Po podłączeniu do zautomatyzowanych procesów, analiza prezentacji PowerPoint przekształca statyczne zestawy slajdów w dynamiczne źródła danych, które wspierają skalowalne przetwarzanie wiedzy, raportowanie i operacje na treści.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Wyodrębnianie Treści Slajdów**  
+
+&nbsp; Pobiera strukturalny tekst i elementy układu z slajdów PowerPoint.
+
+
+
+* **Przetwarzanie Wiedzy z Prezentacji**  
+
+&nbsp; Konwertuje zestawy slajdów na aktywa informacyjne możliwe do wyszukiwania i analizy.
+
+
+
+* **Ponowne Wykorzystanie i Przekształcenie Treści**  
+
+&nbsp; Umożliwia ponowne wykorzystanie materiałów prezentacyjnych w różnych dokumentach i platformach.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Automatyczne Przetwarzanie Prezentacji**  
+
+&nbsp; Automatycznie przetwarza pliki PowerPoint jako część procesów przyjmowania danych.
+
+
+
+* **Podsumowanie Treści na Poziomie Slajdu**  
+
+&nbsp; Generuje podsumowania i strukturalne wyniki z wyodrębnionych danych ze slajdów.
+
+
+
+* **Programowe Rozpowszechnianie Treści**  
+
+&nbsp; Wprowadza wyodrębnioną treść prezentacji do systemów i procesów na niższym poziomie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

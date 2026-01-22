@@ -82,7 +82,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Просмотр документов TIFF с помощью Python API поддерживает многостраничные форматы изображений высокого разрешения, которые обычно используются при сканировании и архивировании.
+
+Это обеспечивает точный анализ детальных визуальных документов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Просмотр отсканированных документов**  
+
+  Просмотр высококачественных отсканированных страниц.
+
+
+
+* **Проверка изображений в архиве**  
+
+  Проверка файлов изображений высокого качества.
+
+
+
+* **Обработка многостраничных изображений**  
+
+  Навигация по сложным документам на основе изображений.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированная проверка сканирования**  
+
+  Рабочие процессы на Python отображают отсканированные файлы для обеспечения качества.
+
+
+
+* **Проверка целостности архива**  
+
+  Хранящиеся изображения периодически визуализируются для проверки.
+
+
+
+* **Цифровые конвейеры документов**  
+
+  Автоматизированные просмотрщики поддерживают процессы цифровизации.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

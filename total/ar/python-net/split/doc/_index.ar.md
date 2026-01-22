@@ -79,7 +79,69 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تُستخدم ملفات DOC على نطاق واسع لتخزين المحتوى النصي المُنظم في سير العمل الوثيقة التقليدية، مما يجعلها مهمة للمؤسسات التي تدير الوثائق التاريخية أو ذات العمر الطويل. يُمكن تقسيم ملفات DOC للوصول المستهدف إلى أقسام معينة دون معالجة الوثائق بأكملها.
+
+
+
+استخدام واجهات برمجة التطبيقات باستخدام Python لتقسيم ملفات DOC يعزز الأتمتة من خلال تمكين التقسيم القائم على القواعد، واستخراج المحتوى بكفاءة، وأنابيب معالجة الوثائق القابلة للتوسع التي تتكامل مع الأنظمة الحديثة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+- **تحديث المحتوى التقليدي**  
+&nbsp; يسمح استخراج الأقسام من ملفات DOC بتحويل الوثائق القديمة إلى صيغ منظمة أو حديثة.
+
+
+
+- **أنظمة العمل القائمة على مراجعة الأقسام**  
+&nbsp; يمكن للتقسيم أن يمكن المراجعين من العمل على أجزاء منفصلة من الوثائق الكبيرة بشكل مستقل.
+
+
+
+- **إعادة استخدام وتكييف المحتوى**  
+&nbsp; يمكن إعادة استخدام الأقسام الفردية عبر أنظمة متعددة دون الحاجة إلى نسخ يدوية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+- **معالجة ملفات الوثائق التقليدية بالدُفعة**  
+&nbsp; تقوم الأتمتة بتقسيم آلاف ملفات DOC إلى أقسام منظمة للأنظمة الفرعية.
+
+
+
+- **استخراج الأقسام بناءً على القواعد**  
+&nbsp; تحدد منطقيات Python العناوين وتقسم المحتوى تلقائيًا استنادًا إلى الأنماط.
+
+
+
+- **أنابيب فهرسة الأرشيف**  
+&nbsp; يتم فهرسة الأقسام المستخرجة برمجيًا للبحث واسترداد أسرع.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

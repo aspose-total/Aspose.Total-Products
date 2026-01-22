@@ -90,7 +90,73 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La visualización de archivos DOCX a través de APIs de Python permite renderizar e inspeccionar documentos modernos de Word de forma programática con total claridad estructural.
+
+Esto permite flujos de trabajo de documentos escalables en sistemas con mucho contenido.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* **Revisión estructurada de documentos**  
+
+&nbsp; Ver encabezados, párrafos y formato de manera consistente.
+
+
+
+* **Controles de calidad de contenido**  
+
+&nbsp; Inspeccionar documentos para verificar su completitud y corrección.
+
+
+
+* **Integración de flujo de trabajo**  
+
+&nbsp; Incrustar la visualización de documentos en sistemas automatizados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* **Tuberías de documentos automatizadas**  
+
+&nbsp; Los procesos de Python muestran archivos DOCX durante flujos de trabajo de múltiples pasos.
+
+
+
+* **Servicios de vista previa**  
+
+&nbsp; Generar vistas previas de documentos bajo demanda para la web o herramientas internas.
+
+
+
+* **Validación de contenido por lotes**  
+
+&nbsp; Grandes volúmenes de documentos son revisados de forma programática.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

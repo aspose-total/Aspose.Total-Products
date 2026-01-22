@@ -82,7 +82,73 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La visualización de formatos de imagen genéricos con APIs de Python proporciona un enfoque unificado para inspeccionar activos visuales en diferentes flujos de trabajo.
+
+Esto permite un manejo consistente de imágenes independientemente de su origen o tipo.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+
+
+* **Inspección Unificada de Imágenes**  
+
+&nbsp; Ver archivos de imagen diversos a través de una sola interfaz.
+
+
+
+* **Verificación de Activos Visuales**  
+
+&nbsp; Confirmar la integridad y apariencia de la imagen.
+
+
+
+* **Soporte de Canal de Contenido**  
+
+&nbsp; Inspeccionar imágenes durante las etapas de procesamiento.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+
+
+* **Tuberías de Imagen Automatizadas**  
+
+&nbsp; Los flujos de trabajo de Python muestran imágenes durante el procesamiento por lotes.
+
+
+
+* **Servicios de Vista Previa Dinámica**  
+
+&nbsp; Las imágenes se renderizan a pedido para su revisión.
+
+
+
+* **Automatización de Control de Calidad**  
+
+&nbsp; La visualización admite verificaciones visuales automatizadas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

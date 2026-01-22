@@ -79,7 +79,85 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用して**PPT**ファイルに透かしを入れることで、レガシーのPowerPointプレゼンテーションを保護し、元の作成環境で手動編集を必要とせずに可視的な制御ラベルを追加することができます。
+
+自動化により、古いデッキ全体に一貫した透かしを入れることができ、アーカイブ、販売ライブラリ、および継承されたプレゼンテーション資産に対するスケーラブルなガバナンスをサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* **レガシーデッキの機密スタンプ**
+
+  &nbsp; 内部でまだ使用されている古いPPTデッキに「CONFIDENTIAL」マークを適用します。
+
+
+
+* **プルーフ専用共有コントロール**
+
+  &nbsp; 誤って公開されるのを防ぐために「FOR REVIEW」オーバーレイを追加します。
+
+
+
+* **歴史的IPの所有権ラベル**
+
+  &nbsp; コピーされたプレゼンテーション全体で帰属を保持するためにレガシースライドに透かしを入れます。
+
+
+
+* **パートナー限定スライドライブラリ**
+
+  &nbsp; 外部の共同作業者に配布されるPPTデッキに制限を埋め込みます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **アーカイブ全体のPPT一括透かし付け**
+
+  &nbsp; 全レガシーディレクトリに自動的にスタンプを押してガバナンスを標準化します。
+
+
+
+* **自動レイアウトに基づく配置**
+
+  &nbsp; スライドレイアウトに基づいて透かしを配置し、コンテンツブロックが重ならないようにします。
+
+
+
+* **バージョン付き出力生成**
+
+  &nbsp; プログラムで透かし付きの「プレビュー」および「内部」バリアントを生成します。
+
+
+
+* **アクセス要求時のトリガー付きスタンピング**
+
+  &nbsp; 自動化されたポータルを介してデッキが要求されたときに、受信者固有の透かしを適用します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -104,7 +104,75 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Penguraian **dokumen OTT** menggunakan API Python memungkinkan ekstraksi terstruktur dari templat teks terbuka yang dirancang untuk pembuatan dokumen yang konsisten. File OTT umumnya digunakan dalam lingkungan standar terbuka untuk mendefinisikan tata letak yang dapat digunakan kembali, gaya, dan placeholder.
+
+
+
+Dengan mengintegrasikan penguraian OTT ke dalam sistem otomatis, organisasi dapat menghasilkan, memvalidasi, dan mengelola dokumen dalam skala besar sambil tetap mematuhi ketat templat standar dan format terbuka.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Ekstraksi Struktur Templat**  
+
+  Identifikasi bagian yang telah ditentukan sebelumnya, gaya, dan placeholder dalam templat OTT.
+
+
+
+* **Pembuatan Dokumen Berstandar**  
+
+  Mendukung pembuatan dokumen yang konsisten berdasarkan templat terbuka yang disetujui.
+
+
+
+* **Pemerintahan Format Terbuka**  
+
+  Memastikan dokumen mematuhi standar organisasi tanpa keterikatan propietari.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Generasi Dokumen Dinamis**  
+
+  Secara otomatis mengisi templat OTT dengan data terstruktur.
+
+
+
+* **Validasi Kepatuhan Templat**  
+
+  Mendeteksi penyimpangan dari struktur templat yang disetujui.
+
+
+
+* **Pipa Dokumen Terbuka yang Dapat Diperluas**  
+
+  Memungkinkan produksi dokumen dalam volume tinggi menggunakan standar terbuka.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

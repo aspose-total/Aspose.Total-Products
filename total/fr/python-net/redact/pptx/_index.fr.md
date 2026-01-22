@@ -77,7 +77,75 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La rédaction de documents à l'aide des API Python pour les fichiers PPTX offre un contrôle précis sur le contenu des présentations modernes, permettant une collaboration et une distribution sécurisées. Ceci est essentiel pour protéger les données sensibles des diapositives.
+
+
+
+L'automatisation garantit que la rédaction des fichiers PPTX est cohérente, vérifiable et facilement intégrée dans les flux de travail de contenu modernes.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Protection des données confidentielles**  
+
+&nbsp; Masquer les chiffres et le texte sensibles des diapositives de présentation.
+
+
+
+* **Distribution multi-audience**  
+
+&nbsp; Créer des versions masquées adaptées à différents intervenants.
+
+
+
+* **Gestion du cycle de vie des présentations**  
+
+&nbsp; S'assurer que tous les fichiers PPTX partagés respectent les normes de confidentialité.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Masquage au niveau de l'objet de la diapositive**  
+
+&nbsp; Supprimer de manière programmée des zones de texte ou des formes sensibles.
+
+
+
+* **Gestion des mises à jour continues**  
+
+&nbsp; Réappliquer automatiquement le masquage lorsque les diapositives changent.
+
+
+
+* **Intégration dans les flux de travail**  
+
+&nbsp; Intégrer le masquage dans les pipelines de contenu de style CI/CD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

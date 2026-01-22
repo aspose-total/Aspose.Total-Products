@@ -85,7 +85,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Unire immagini PNG utilizzando le API di Python consente la composizione di immagini senza perdita di dati con supporto alla trasparenza. Questo è ideale per risorse di design, elementi dell'interfaccia utente e immagini stratificate.
+
+
+
+L'automazione garantisce un'assemblaggio costante delle immagini preservando l'integrità visiva.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* **Assemblaggio di Risorse Trasparenti (PNG)**  
+
+  Unisci immagini PNG preservando i canali alfa.
+
+
+
+* **Composizione di Elementi UI (PNG)**  
+
+  Combina grafiche dell'interfaccia in singole immagini.
+
+
+
+* **Consolidamento delle Risorse di Design (PNG)**  
+
+  Riunisci risorse PNG per il riutilizzo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Pipeline di Design Automatizzate (PNG)**  
+
+  I sistemi uniscono risorse PNG durante i processi di compilazione.
+
+
+
+* **Generazione di Immagini Stratificate (PNG)**  
+
+  L'unione di PNG è guidata da regole programmatiche.
+
+
+
+* **Automazione Scalabile delle Risorse Visuali (PNG)**  
+
+  Le pipeline automatizzate generano immagini PNG unite.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,75 @@ ODT 編集アプリまたはユーティリティを開発する必要があり�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用したODTファイルの文書編集により、オープンドキュメントテキストファイルの中核構造を変更せずに安全に修正できます。これにより、透明性があり標準ベースの文書処理がサポートされます。
+
+
+
+ODTの編集を自動化することで、組織はオープンソースおよび相互運用可能な文書エコシステム全体で機密コンテンツを効率的に管理できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **プライバシー保護された文書交換**  
+
+&nbsp; ODTファイルを外部で共有する前に個人データを非表示にします。
+
+
+
+* **ポリシーに基づくコンテンツ削除**  
+
+&nbsp; 組織のポリシーに準拠した非表示ルールを強制します。
+
+
+
+* **オープンドキュメントの公開**  
+
+&nbsp; 公開またはクロスプラットフォームで使用するために、消毒された文書を準備します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **メタデータおよびテキストの非表示**  
+
+&nbsp; 本文とメタデータから機密コンテンツを自動的に削除します。
+
+
+
+* **大量のODTファイルの一括オープンフォーマット処理**  
+
+&nbsp; 1回の自動実行で大量のODTファイルを非表示にします。
+
+
+
+* **CMSパイプラインとの統合**  
+
+&nbsp; 文書が公開またはシンジケートされる前に非表示を適用します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

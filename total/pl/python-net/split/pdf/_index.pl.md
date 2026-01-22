@@ -79,7 +79,75 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Pliki PDF są powszechnie używane do dokumentów o ustalonej strukturze, gdzie treść jest rozproszona na stronach. Dzielenie plików PDF umożliwia dostęp na poziomie strony lub sekcji bez modyfikowania oryginalnego pliku.
+
+
+
+Dzielenie PDF za pomocą Pythona zwiększa automatyzację, umożliwiając przetwarzanie na dużą skalę, selektywne wyodrębnianie i integrację z potokami dokumentów.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe Zastosowania" %}}
+
+
+
+* **Wyodrębnianie na Poziomie Strony**  
+
+&nbsp; Izolowanie konkretnych stron do przeglądu lub dystrybucji.
+
+
+
+* **Segmentacja Dokumentów**  
+
+&nbsp; Dzielenie dużych plików PDF na logiczne sekcje.
+
+
+
+* **Zgodność i Obsługa Audytów**  
+
+&nbsp; Wyodrębnianie istotnych fragmentów do weryfikacji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Potoki Przetwarzania PDF w Partiach**  
+
+&nbsp; Tysiące plików PDF są dzielone automatycznie.
+
+
+
+* **Podział Stron na Podstawie Reguł**  
+
+&nbsp; Logika Pythona dzieli pliki PDF zgodnie z regułami stron.
+
+
+
+* **Automatyczna Dystrybucja Zawartości**  
+
+&nbsp; Wyodrębnione pliki PDF są kierowane do systemów docelowych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+توقيع الصور العامة باستخدام واجهات برمجة التطبيقات بلغة Python يوفر نهجًا موحدًا لتطبيق علامات الموافقة والبيانات الوصفية عبر مصادر الصور المختلطة. يكون ذلك مفيدًا عندما تقوم الأنابيب بامتصاص الصور من أدوات متعددة وتحتاج إلى حوكمة متسقة.
+
+
+
+عندما يتم تنفيذ توقيع الصور تلقائيًا، يفرض حالة "العنصر المعتمد" الموحدة، مما يضمن أن الأنظمة الفرعية تستهلك فقط الأصول التي تلبي متطلبات الجودة أو السياسة أو الامتثال.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **توحيد الأصول من مصادر متعددة**  
+
+&nbsp; تطبيق تراكيب توقيع متسقة على الصور الواردة من أدوات وفرق متنوعة.
+
+
+
+* **التحقق من صحة الصور الدليلية**  
+
+&nbsp; توقيع الصور المستخدمة كدليل لتأكيد هوية المراجع وحالة الموافقة.
+
+
+
+* **التحكم في توزيع الأصول المعتمدة**  
+
+&nbsp; وضع علامات على الصور كمعتمدة قبل أن تُضمن في حزم التوزيع.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائي" %}}
+
+
+
+* **وقت تحديد الموافقة أثناء الامتصاص**  
+
+&nbsp; توقيع الصور أثناء الامتصاص بعد اكتمال قواعد التحقق وفحوصات البيانات الوصفية.
+
+
+
+* **فرض نقطة فحص السياسة**  
+
+&nbsp; توقيع الصور تلقائيًا فقط تلك التي تجتاز قواعد السياسة والسلامة التلقائية.
+
+
+
+* **اكتمال مزامنة المستودعات**  
+
+&nbsp; توقيع الصور قبل المزامنة مع المستودعات المشتركة لضمان انتشار الإصدارات الموثقة فقط.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

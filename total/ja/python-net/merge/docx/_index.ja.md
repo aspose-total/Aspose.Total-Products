@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PythonのAPIを使用してDOCXドキュメントをマージすることは、洗練された、モダンなWord出力を大規模に生成するための一般的な要件です。これにより、複数のソース間で構造、スタイル、セクションの連続性を正確に制御できます。
+
+
+
+この機能は自動化されたコンテンツエンジンとシームレスに統合されており、レポート、マニュアル、および構造化されたドキュメントのためのスケーラブルなドキュメント生成を可能にします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **マルチセクションレポートの作成（DOCX）**  
+
+&nbsp; 章を表すDOCXファイルを1つのレポートにマージします。
+
+
+
+* **コンテンツモジュールの再利用（DOCX）**  
+
+&nbsp; 再利用可能なDOCXセクションをカスタマイズされたドキュメントに組み立てます。
+
+
+
+* **編集ワークフローの統合（DOCX）**  
+
+&nbsp; 編集者承認済みのDOCXファイルを最終出力に結合します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **動的ドキュメント生成（DOCX）**  
+
+&nbsp; システムはユーザー入力やデータ条件に基づいてDOCXファイルをマージします。
+
+
+
+* **CI/CDドキュメントパイプライン（DOCX）**  
+
+&nbsp; DOCXのマージはビルドおよびリリースワークフローの一部として自動化されます。
+
+
+
+* **スケーラブルなパブリッシング自動化（DOCX）**  
+
+&nbsp; 大量のDOCXドキュメントがプログラムによってスケーラブルにマージされます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

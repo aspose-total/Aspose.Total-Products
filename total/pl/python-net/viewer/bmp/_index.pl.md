@@ -82,7 +82,73 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Przeglądanie dokumentów BMP za pomocą interfejsów API w języku Python umożliwia niezawodne renderowanie nieskompresowanych obrazów bitmapowych do inspekcji, walidacji i przepływów pracy wizualnej, gdzie dokładność na poziomie pikseli ma znaczenie.
+
+Ta funkcjonalność wspiera zautomatyzowane przepływy obrazów, systemy podglądu i kontrole jakości bez konieczności ingerencji ręcznej.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Recenzja obrazów z dokładnością pikseli**  
+
+&nbsp; Przeglądaj obrazy bitmapowe dokładnie tak, jak są przechowywane, zachowując oryginalne kolory i szczegóły rozdzielczości.
+
+
+
+* **Zgodność z obrazami z przeszłości**  
+
+&nbsp; Otwieraj i wyświetlaj starsze lub surowe pliki bitmapowe powszechnie używane w systemach archiwizacyjnych.
+
+
+
+* **Weryfikacja jakości wizualnej**  
+
+&nbsp; Sprawdzaj obrazy programowo, aby zapewnić poprawność układu i renderowania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Automatyczna walidacja obrazów**  
+
+&nbsp; Skrypty w języku Python wyświetlają pliki BMP podczas wsadowej walidacji w celu wykrywania anomalii wizualnych.
+
+
+
+* **Generowanie podglądu w przepływach pracy**  
+
+&nbsp; Pliki bitmapowe są renderowane automatycznie do pulpitów nawigacyjnych lub narzędzi do przeglądu.
+
+
+
+* **Debugowanie przepływów pracy z obrazami**  
+
+&nbsp; Zautomatyzowani widzowie pomagają zweryfikować pośrednie wyniki obrazów w przepływach przetwarzania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

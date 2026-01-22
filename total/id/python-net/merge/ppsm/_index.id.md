@@ -79,7 +79,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Menggabungkan presentasi slideshow yang mendukung makro menggunakan API Python mendukung pengiriman slideshow otomatis dan interaktif. Format-format ini sering digunakan di lingkungan yang terkontrol.
+
+
+
+Automasi memastikan makro dan perilaku slideshow tetap terjaga selama penggabungan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Perakitan Slideshow Interaktif (PPSM)**  
+
+&nbsp; Menggabungkan file presentasi slideshow yang mendukung makro.
+
+
+
+* **Presentasi Demo Otomatis (PPSM)**  
+
+&nbsp; Menggabungkan file PPSM untuk demonstrasi otomatis.
+
+
+
+* **Dek Pemutaran Terkontrol (PPSM)**  
+
+&nbsp; Mengumpulkan file PPSM untuk presentasi yang teratur.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pembuatan Slideshow Berbasis Aturan (PPSM)**  
+
+&nbsp; Sistem menggabungkan file PPSM berdasarkan aturan logika.
+
+
+
+* **Pelestarian Otomatisasi Backend (PPSM)**  
+
+&nbsp; Penggabungan PPSM mempertahankan perilaku interaktif.
+
+
+
+* **Generasi Demo Terjadwal (PPSM)**  
+
+&nbsp; Slideshow digabungkan secara otomatis sesuai jadwal.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

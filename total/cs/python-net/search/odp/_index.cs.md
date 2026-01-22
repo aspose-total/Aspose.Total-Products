@@ -76,7 +76,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Hledání souborů **ODP** pomocí Python API umožňuje strukturovaný přístup k prezentacím v otevřeném formátu, které jsou běžně používány v prostředích spolupráce a open-source. Programové vyhledávání umožňuje systémům extrahovat text snímků, nadpisy a metadata bez ručního přezkumu.
+
+
+
+Automatizované vyhledávání v dokumentech ODP zlepšuje jejich nalezení, podporuje škálovatelný správu obsahu a integruje se bezproblémově s moderními systémy zpracování dat a automatizace pracovních postupů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Vyhledávání textu snímků ODP**  
+
+&nbsp; Najde klíčová slova a fráze napříč otevřenými prezentacemi.
+
+
+
+* **Hodnocení obsahu otevřených prezentací**  
+
+&nbsp; Umožňuje rychlý přehled sdílených nebo spolupracovních prezentací.
+
+
+
+* **Objevování metadat ODP**  
+
+&nbsp; Extrahuje vlastnosti dokumentu pro klasifikaci a indexaci.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizované indexování ODP**  
+
+&nbsp; Pythonové služby neustále indexují soubory ODP pro vyhledávací přístup.
+
+
+
+* **Monitorování obsahu ODP**  
+
+&nbsp; Programové skeny detekují změny nebo aktualizace v prezentacích.
+
+
+
+* **Integrace pracovních postupů ODP**  
+
+&nbsp; Extrahovaný obsah zásobuje automatizované publikování nebo hodnotící procesy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

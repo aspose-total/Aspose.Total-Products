@@ -89,7 +89,73 @@ ODP ビューア アプリまたはユーティリティを開発する必要が
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用してODPファイルを表示すると、プラットフォーム中立形式でプレゼンテーションドキュメントを検査できます。
+
+これにより、相互運用性と自動化されたプレゼンテーションワークフローがサポートされます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **オープンプレゼンテーションのレビュー**  
+
+&nbsp; オープンドキュメント形式で作成されたスライドを表示します。
+
+
+
+* **クロスプラットフォームの検証**  
+
+&nbsp; プレゼンテーションが一貫してレンダリングされることを確認します。
+
+
+
+* **プレゼンテーションコンテンツの検査**  
+
+&nbsp; スライドのテキストと構造を確認します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **自動化されたプレゼンテーション監査**  
+
+&nbsp; PythonワークフローがODPファイルをレビューするためにレンダリングします。
+
+
+
+* **相互運用性チェック**  
+
+&nbsp; スライドがフォーマットと互換性があることを確認します。
+
+
+
+* **プレビューサービス**  
+
+&nbsp; プレゼンテーションが動的に表示されます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

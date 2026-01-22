@@ -90,7 +90,73 @@ DOC 뷰어 앱이나 유틸리티를 개발해야 합니까? [Aspose.Total for P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 DOC 파일을 볼 때 구조화된 액세스를 제공하여 레거시 워드 프로세싱 문서를 읽고 검사하는 목적으로 사용할 수 있습니다.
+
+이는 여전히 오래된 파일 표준을 사용하는 시스템에서 자동 문서 처리를 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **레거시 문서 검사**
+
+  &nbsp; 수동 변환 없이 이전 텍스트 문서를 열고 볼 수 있습니다.
+
+
+
+* **콘텐츠 확인**
+
+  &nbsp; 정확성을 위해 문서 텍스트와 레이아웃을 프로그래밍적으로 검토합니다.
+
+
+
+* **문서 이전 지원**
+
+  &nbsp; 새로운 형식으로 변환하기 전에 DOC 파일을 검사합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동화된 레거시 감사**
+
+  &nbsp; Python 워크플로우는 처리 전에 DOC 파일을 확인하여 가독성을 보장합니다.
+
+
+
+* **일괄 문서 검토**
+
+  &nbsp; 규정 준수를 위해 대량의 문서가 자동으로 검토됩니다.
+
+
+
+* **전환 전 유효성 검사**
+
+  &nbsp; 자동 뷰어를 사용하여 형식 업그레이드 전에 문서가 손상되지 않았는지 확인합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

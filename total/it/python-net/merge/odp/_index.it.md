@@ -79,7 +79,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusione dei file di presentazione OpenDocument utilizzando le API Python supporta gli standard aperti e i flussi di lavoro di presentazione multi-piattaforma. Questo è ideale per gli ambienti che utilizzano strumenti per ufficio open-source.
+
+
+
+L'automazione garantisce l'interoperabilità e l'elaborazione scalabile delle presentazioni.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* **Consolidamento di Slide Multi-Piattaforma (ODP)**  
+
+  Merge dei file ODP creati con strumenti diversi.
+
+
+
+* **Assemblaggio di Presentazioni Standard Aperti (ODP)**  
+
+  Combinare i deck ODP per una consegna unificata.
+
+
+
+* **Compilazione Collaborativa di Slide (ODP)**  
+
+  Unire i file ODP provenienti da contributori distribuiti.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Pipeline di Presentazione Aperta (ODP)**  
+
+  I sistemi uniscono i file ODP senza dipendenze proprietarie.
+
+
+
+* **Compilazione Programmata dei Deck (ODP)**  
+
+  La fusione di ODP viene eseguita come parte dei compiti di backend.
+
+
+
+* **Automazione di Presentazioni Interoperabili (ODP)**  
+
+  I file ODP vengono uniti dinamicamente nei flussi di lavoro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPT, eski sistemlerde hala kullanılan eski bir sunum formatıdır. PPT dosyalarını bölmek, modern otomatik ortamlarda devam eden kullanılabilirliği sağlar.
+
+
+
+Python API'leri, miras yapısına sahip olmalarına rağmen PPT dosyalarını programatik olarak işlemeyi mümkün kılar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Eski Sunum Göçü**  
+
+&nbsp; Dönüşüm veya yükseltme için slaytları çıkartın.
+
+
+
+* **Seçmeli İçerik Erişimi**  
+
+&nbsp; Tam dönüşüm olmadan belirli slaytlarla çalışın.
+
+
+
+* **Sunum Arşiv Yönetimi**  
+
+&nbsp; Slaytları dizinlemek için ayrı ayrı saklayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Eski Format İşleme Boruları**  
+
+&nbsp; Ölçekte PPT bölme işlemlerini otomatikleştirin.
+
+
+
+* **Dönüşüm için Slayt Çıkartma**  
+
+&nbsp; Slaytlar modern formatlara dönüştürülür.
+
+
+
+* **Otomatik Sunum Denetimleri**  
+
+&nbsp; Slayt içeriğini programatik olarak inceleyin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

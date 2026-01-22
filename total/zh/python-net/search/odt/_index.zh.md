@@ -76,7 +76,75 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API搜索**ODT**文件可确保与开放文档标准的兼容性，同时实现高效的内容发现。ODT文档通常在开源和协作环境中使用，其中可移植性和透明性至关重要。
+
+
+
+自动化ODT搜索增强了互操作性，支持可扩展的文档分析，并与现代自动化流程完美集成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* **开放格式文档搜索**  
+
+&nbsp; 在基于ODT的文档中定位关键字。
+
+
+
+* **协作内容审阅**  
+
+&nbsp; 实现跨共享开放文档的快速查找。
+
+
+
+* **政策和文档分析**  
+
+&nbsp; 识别ODT文件中所需的部分。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化ODT索引创建**  
+
+&nbsp; Python脚本从ODT文件生成可搜索的索引。
+
+
+
+* **ODT更改检测**  
+
+&nbsp; 编程扫描识别更新或修改的内容。
+
+
+
+* **ODT内容流水线**  
+
+&nbsp; 提取的数据供自动发布和审阅系统使用。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

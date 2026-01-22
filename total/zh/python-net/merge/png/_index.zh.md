@@ -85,7 +85,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API合并PNG图像可实现无损图像合成，支持透明度。这对设计资产、UI元素和分层视觉效果非常理想。
+
+
+
+自动化确保图像组装的一致性，同时保持视觉完整性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* **透明资产组装（PNG）**  
+
+&nbsp; 合并PNG图像同时保留alpha通道。
+
+
+
+* **UI元素合成（PNG）**  
+
+&nbsp; 将界面图形合并为单个图像。
+
+
+
+* **设计资源整合（PNG）**  
+
+&nbsp; 汇总PNG资产以便重复使用。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化设计流水线（PNG）**  
+
+&nbsp; 系统在构建过程中合并PNG资产。
+
+
+
+* **分层图像生成（PNG）**  
+
+&nbsp; PNG合并受程序化规则驱动。
+
+
+
+* **可扩展的视觉资产自动化（PNG）**  
+
+&nbsp; 自动化流水线生成合并的PNG视觉效果。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

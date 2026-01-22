@@ -72,7 +72,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PDF הוא הפורמט הנפוץ ביותר למסמכים סופיים וניתנים לשיתוף. הגנה על PDF היא חיונית לשליטה בגישה, מניעת העתקה, והבטיחות של תוכן במהלך הפצה דיגיטלית.
+
+
+
+ממשקי תכנות ב-Python מאפשרים אוטומציה של הגנת PDF, ומשלבים אבטחה ישירות בתהליכי יצירת מסמכים, אישור ומשלוח.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **משלוח מסמכים מאובטח**  
+
+  &nbsp; להגן על PDFs שמופצים ללקוחות או צדדים רלוונטיים.
+
+
+
+* **אכיפת תוכן לצפייה בלבד**  
+
+  &nbsp; למנוע עריכה או העתקה של מסמכים שסופיים.
+
+
+
+* **הגנת מידע סודי**  
+
+  &nbsp; להגביל גישה לנתונים רגישים בתוך PDFs.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **נעילת PDF אוטומטית**  
+
+  &nbsp; להחיל הגנה מיידית לאחר יצירת PDF.
+
+
+
+* **הקצאת סיסמאות דינמיות**  
+
+  &nbsp; ליצור ולהחיל סיסמאות באופן תכנותי לכל נמען.
+
+
+
+* **אבטחה המופעלת על ידי תקנות**  
+
+  &nbsp; לאכוף הגנת PDF אוטומטית על מנת לעמוד בדרישות התקנות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

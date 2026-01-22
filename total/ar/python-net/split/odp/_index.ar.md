@@ -73,7 +73,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تستخدم ملفات ODP للعروض التقديمية المفتوحة المعيار التي تحتوي على عدة شرائح ومكونات بصرية. يمكن تقسيم ملفات ODP للوصول إلى مستوى الشريحة وإعادة الاستخدام.
+
+
+
+تدعم الأتمتة بلغة Python تقسيم ملفات ODP بكفاءة لمعالجة العروض التقديمية بشكل موسع وإعادة استخدام المحتوى.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **إعادة استخدام مستوى الشريحة**  
+
+&nbsp; يمكن استخراج الشرائح الفردية وإعادة استخدامها عبر العروض التقديمية.
+
+
+
+* **تحليل محتوى العرض التقديمي**  
+
+&nbsp; تحليل الشرائح بشكل مستقل للهيكل أو البيانات الوصفية.
+
+
+
+* **التحرير التعاوني**  
+
+&nbsp; يعمل الفرق على مجموعات شرائح معزولة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **استخراج الشرائح تلقائيًا**  
+
+&nbsp; تقوم النصوص بلغة Python بتقسيم الشرائح بشكل برمجي.
+
+
+
+* **تجميع العروض التقديمية الديناميكي**  
+
+&nbsp; يتم إعادة تجميع الشرائح استنادًا إلى قواعد التشغيل.
+
+
+
+* **أنظمة الأرشفة للعروض التقديمية**  
+
+&nbsp; تتم فهرسة الشرائح بشكل فردي للاسترجاع.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

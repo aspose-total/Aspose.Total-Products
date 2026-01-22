@@ -72,7 +72,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTX הוא פורמט מצגות מבוסס XML מודרני שנועד לתוכן מבני של שקפים. פיצול קבצי PPTX מאפשר שליטה דקה על נתוני רמת השקפים.
+
+
+
+אוטומציה המבוססת על Python תומכת בעיבוד PPTX אמין, קלט ומודע לפורמט.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* **ניהול תוכן ברמת השקפים**  
+
+&nbsp; ניהול שקפים יחידים כיחידות עצמאיות.
+
+
+
+* **התאמה אוטומטית של מצגות**  
+
+&nbsp; יצירת מצגות מותאמות משקפים שניצולו.
+
+
+
+* **ניתוח מבנה המצגת**  
+
+&nbsp; ניתוח תוכן השקפים באופן תכנותי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **פירוק שקפים מודע ל-XML**  
+
+&nbsp; סקריפטים ב-Python מחלצים שקפים בדיוק.
+
+
+
+* **הרכבת מצגת על פי כללים**  
+
+&nbsp; השקפים מורכבים באופן דינמי.
+
+
+
+* **צינורות ביקורת אוטומטיים**  
+
+&nbsp; השקפים מאומתים באופן עצמאי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

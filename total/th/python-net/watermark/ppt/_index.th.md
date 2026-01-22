@@ -79,7 +79,85 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การใส่ลายน้ำในไฟล์ **PPT** ด้วย Python APIs ช่วยป้องกันงานนำเสนอ PowerPoint เวอร์ชันเก่าๆ โดยการเพิ่มป้ายควบคุมที่มองเห็นได้โดยไม่ต้องแก้ไขด้วยมือในสภาพแวดล้อมการเขียนต้นฉบับ
+
+การอัตโนมัติสนับสนุนการใส่ลายน้ำอย่างสม่ำเสมอในสไลด์เก่าๆ ทำให้สามารถบริหารการควบคุมอย่างมากขึ้นสำหรับเอกสารเก่า ไลบรารีขายของและทรัพย์สินงานนำเสนอที่ถูกสืบทอดมา
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **ตราประความลับของสไลด์เก่า**  
+
+&nbsp; ใส่เครื่องหมาย "CONFIDENTIAL" ในสไลด์ PPT เก่าที่ยังใช้งานภายใน
+
+
+
+* **การควบคุมการแชร์เฉพาะสำหรับการพิสูจน์**  
+
+&nbsp; เพิ่มฉากกลาง "FOR REVIEW" เพื่อป้องกันการกระจายข้อมูลสู่สาธารณะโดยไม่ตั้งใจ
+
+
+
+* **ป้ายควบคุมสำหรับทรัพย์สินประวัติ**  
+
+&nbsp; ใส่ลายน้ำในสไลด์เก่าเพื่อรักษาการกำหนดตำแหน่งในการสืบทอดข้อมูลของงานนำเสนอ
+
+
+
+* **ไลบรารีสไลด์ที่จำกัดสิทธิของพาร์ทเนอร์**  
+
+&nbsp; ฝังข้อจำกัดในสไลด์ PPT ที่กระจายไปยังคู่ค้าภายนอก
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การใส่ลายน้ำเป็นกลุ่มในไดเรกทอรี PPT เก่า**  
+
+&nbsp; ตราทั้งไดเรกทอรีเก่าๆ โดยอัตโนมัติเพื่อมาตรฐานการบริหาร
+
+
+
+* **การจัดวางตำแหน่งอัตโนมัติที่ตระกูลเลเอาท์**  
+
+&nbsp; วางลายน้ำตามเลเอาท์สไลด์เพื่อหลีกเลี่ยงการทับซ้อนของเนื้อหา
+
+
+
+* **การสร้างเอาท์พุตเวอร์ชันแบบเฉพาะ**  
+
+&nbsp; สร้างสไลด์ที่มีลายน้ำ "ตัวอย่าง" และ "ภายใน" โดยอัตโนมัติ
+
+
+
+* **การใส่ลายน้ำเมื่อมีคำขอเข้าถึง**  
+
+&nbsp; ใส่ลายน้ำที่เฉพาะเจาะจงต่อผู้รับเมื่อมีการขอเข้าถึงสไลด์ผ่านพอร์ทัลอัตโนมัติ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

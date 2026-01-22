@@ -90,7 +90,73 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Przeglądanie plików DOTM za pomocą interfejsów Pythona umożliwia bezpieczną inspekcję szablonów Word z obsługą makr bez wykonywania osadzonej logiki.
+
+Jest to istotne w kontrolowanych środowiskach, gdzie widoczność i bezpieczeństwo muszą współistnieć.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+
+
+* **Przeglądanie Szablonów z Makrami**  
+
+&nbsp; Przeglądaj zawartość szablonu, zachowując nieaktywne makra.
+
+
+
+* **Inspekcja Zorientowana na Bezpieczeństwo**  
+
+&nbsp; Sprawdź strukturę bez narażania systemów na ryzyko wykonania.
+
+
+
+* **Procesy Zatwierdzania Szablonów**  
+
+&nbsp; Przeglądaj szablony przed kontrolowanym rozpowszechnieniem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Bezpieczne Przyjmowanie Szablonów**  
+
+&nbsp; Przeglądarki Pythona bezpiecznie wyświetlają pliki DOTM podczas wdrażania.
+
+
+
+* **Automatyzacja Zarządzania**  
+
+&nbsp; Szablony są sprawdzane w ramach zautomatyzowanych kontroli zgodności z zasadami.
+
+
+
+* **Potoki Walidacji Przed Użyciem**  
+
+&nbsp; Zautomatyzowane podglądy wspierają procesy zatwierdzania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

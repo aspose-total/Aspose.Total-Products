@@ -75,7 +75,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Редакция документов с использованием Python API для файлов PDF является важным для окончательного удаления конфиденциальной информации из документов с фиксированным макетом. Это гарантирует, что отредактированные данные не могут быть восстановлены или раскрыты.
+
+
+
+Автоматизация обеспечивает надежное, повторяемое редактирование PDF в масштабе, что делает его подходящим для рабочих процессов высокого объема соответствия и раскрытия.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Подготовка к юридическому раскрытию**  
+
+  Удаление конфиденциальных деталей из PDF перед представлением в суд или регулирующий орган.
+
+
+
+* **Публичное раскрытие документов**  
+
+  Очистка отчетов и записей перед общедоступным доступом.
+
+
+
+* **Безопасная передача клиентам**  
+
+  Гарантия необратимого удаления конфиденциальной информации из общих PDF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Редакция с учетом содержания**  
+
+  Автоматическое обнаружение и удаление конфиденциального текста или областей.
+
+
+
+* **Обработка больших пакетов PDF в масштабе**  
+
+  Обработка и редактирование больших пакетов PDF программно.
+
+
+
+* **Предпечатные меры безопасности**  
+
+  Принудительные проверки редакции перед публикацией или распространением документов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

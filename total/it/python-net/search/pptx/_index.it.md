@@ -76,7 +76,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La ricerca dei file **PPTX** utilizzando le API di Python fornisce un accesso affidabile ai moderni documenti di presentazione contenenti layout di diapositive strutturati, blocchi di testo e note del relatore. I file PPTX sono ampiamente utilizzati per la creazione di report, la formazione e i contenuti decisionali.
+
+
+
+La ricerca automatizzata dei file PPTX supporta l'analisi scalabile delle diapositive, il recupero intelligente e l'integrazione senza soluzione di continuità con i sistemi di gestione della conoscenza e dei contenuti.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Ricerca strutturata delle diapositive**  
+
+&nbsp; Ricerca titoli, elenchi puntati e note all'interno dei file PPTX.
+
+
+
+* **Analisi dei contenuti della presentazione**  
+
+&nbsp; Identifica temi chiave e sezioni in modo programmato.
+
+
+
+* **Scoperta delle diapositive riutilizzabili**  
+
+&nbsp; Trova diapositive adatte per il riutilizzo in report o presentazioni.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Aggiornamenti continui dell'indice PPTX**  
+
+&nbsp; I servizi Python monitorano e indicizzano i nuovi file PPTX.
+
+
+
+* **Classificazione automatica delle diapositive**  
+
+&nbsp; Le diapositive vengono categorizzate in base ai contenuti estratti.
+
+
+
+* **Pipeline dei contenuti PPTX**  
+
+&nbsp; I risultati della ricerca alimentano i cruscotti e i flussi di lavoro automatizzati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,85 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Vodoznakování souborů **IMAGE** (obecné potrubí) pomocí Python API poskytuje konzistentní přístup k razítkování vlastnictví a pravidel použití napříč různými typy obrázků zpracovávaných moderními systémy.
+
+Jednotná automatizační vrstva zjednodušuje vodoznakování napříč různorodými vstupy, umožňuje standardizované zpracování, auditovatelnost a škálovatelnou správu médií.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Jednotný Branding Napříč Různými Formáty**  
+
+&nbsp; Použijte stejnou politiku vodoznaku i při různých typech a velikostech přicházejících obrázků.
+
+
+
+* **Původ Aktiv pro Knihovny Obsahu**  
+
+&nbsp; Označujte obrázky pro zachování zdrojové identity po kopírování, změně velikosti nebo přehostování.
+
+
+
+* **Citlivé Vizuální Označení**  
+
+&nbsp; Přidejte rizikové nebo klasifikační štítky k omezení zneužití interních grafik.
+
+
+
+* **Sledování Distribuce Partnerů**  
+
+&nbsp; Vrazte jedinečné identifikátory do sdílených obrázků pro zlepšení možnosti vystopování.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační Scénáře" %}}
+
+
+
+* **Jediný API Koncový Bod pro Všechny Vstupy Obrázků**  
+
+&nbsp; Směrujte různé formáty obrázků skrz jednu službu vodoznaku pro konzistentní chování.
+
+
+
+* **Automatické Detekování Orientace a Bezpečných Zón**  
+
+&nbsp; Programově umisťujte vodoznaky tak, aby se vyhnuly obličejům, logům a klíčovým oblastem obsahu.
+
+
+
+* **Fronta pro Dávkové Zpracování**  
+
+&nbsp; Vodoznakujte velké sady médií asynchronně, aby se udržely plynulé pracovní postupy.
+
+
+
+* **Aktualizace Politiky Bez Opětovné Úpravy Aktiv**  
+
+&nbsp; Obnovujte vodoznakované varianty při změně pravidel vodoznaku, bez manuální práce v designu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

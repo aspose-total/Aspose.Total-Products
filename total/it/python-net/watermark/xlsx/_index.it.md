@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'apposizione di filigrane ai fogli di calcolo **XLSX** con API Python aggiunge un controllo visibile ai file Excel moderni, aiutando a comunicare la riservatezza, la proprietà e l'utilizzo previsto direttamente nei documenti ricchi di dati.
+
+L'automazione consente di apportare filigrane scalabili ai file XLSX per sistemi di reportistica, operazioni finanziarie ed esportazioni di analisi in cui è richiesta un'etichettatura di politica coerente.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Etichettatura di report KPI riservati**  
+
+&nbsp; Applica una filigrana ai report di performance per ridurre la ridistribuzione non intenzionale.
+
+
+
+* **Condivisione controllata per estrazioni di dati**  
+
+&nbsp; Aggiungi marcature "SOLO INTERNO" ai dataset esportati per rafforzare il controllo.
+
+
+
+* **Indicatori di stato di approvazione per previsioni**  
+
+&nbsp; Applica "BOZZA" o "APPROVATO" sui modelli di pianificazione per evitare fraintendimenti.
+
+
+
+* **Identificazione di fogli di lavoro specifici per cliente**  
+
+&nbsp; Inserisci identificatori del cliente nei fogli di calcolo condivisi per la tracciabilità.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Filigranatura di pipeline per report automatizzati**  
+
+&nbsp; Applica filigrane al momento della generazione del report per garantire un controllo coerente.
+
+
+
+* **Filigrana dinamica basata su politiche di accesso**  
+
+&nbsp; Genera testo della filigrana in base al livello di sensibilità e ai diritti degli utenti.
+
+
+
+* **Copertura multi-foglio automatica**  
+
+&nbsp; Assicura la visibilità della filigrana su fogli e viste pertinenti in modo programmato.
+
+
+
+* **Apposizione di timbri conformi all'audit con ID**  
+
+&nbsp; Aggiungi filigrane contenenti ID di esecuzione o riferimenti a lotti per supportare audit automatizzati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

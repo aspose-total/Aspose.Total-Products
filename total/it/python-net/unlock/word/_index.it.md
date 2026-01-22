@@ -72,7 +72,75 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+I documenti di Word, indipendentemente dalla struttura interna, sono spesso protetti per controllare le modifiche e l'accesso. Sbloccarli in modo programmato consente un accesso strutturato per l'automazione, l'analisi e l'integrazione di sistema.
+
+
+
+Le API di Python consentono lo sblocco dei documenti di Word di essere incorporato in modo sicuro nelle pipeline dei documenti, garantendo efficienza e ripetibilità.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* **Elaborazione Unificata dei Documenti**  
+
+  &nbsp; Consente un trattamento coerente dei file di elaborazione di testi protetti.
+
+
+
+* **Revisione Automatica dei Contenuti**  
+
+  &nbsp; Supporta l'ispezione dei documenti bloccati senza passaggi manuali.
+
+
+
+* **Integrazione da Sistema a Sistema**  
+
+  &nbsp; Consente ai file di Word protetti di fluire attraverso piattaforme automatizzate.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Pipeline dei Documenti da Fine a Fine**  
+
+  &nbsp; I file di Word vengono sbloccati automaticamente al momento dell'ingestione.
+
+
+
+* **Accesso ai Documenti Basato su Politiche**  
+
+  &nbsp; Lo sblocco è attivato da regole di flusso di lavoro e autorizzazioni.
+
+
+
+* **Ottimizzazione Continua dei Contenuti**  
+
+  &nbsp; I documenti protetti vengono sbloccati per miglioramenti automatizzati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

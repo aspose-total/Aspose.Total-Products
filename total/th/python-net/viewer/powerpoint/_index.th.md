@@ -89,7 +89,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การดูงานนำเสนอ PowerPoint ด้วย Python APIs ช่วยให้สามารถเข้าถึงเนื้อหาที่อยู่บนสไลด์ได้โดยโปรแกรมเพื่อการตรวจสอบและตรวจสอบข้อมูล
+
+นี้สนับสนุนการรายงานอัตโนมัติ การทำงานของงานนำเสนอ และกระแสข้อมูล
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **ตรวจสอบเนื้อหาบนสไลด์**  
+
+&nbsp; ดูสไลด์ต่อเนื่องโดยไม่ต้องเปิดซอฟต์แวร์งานนำเสนอ
+
+
+
+* **ตรวจสอบคุณภาพของงานนำเสนอ**  
+
+&nbsp; ตรวจสอบเค้าโครงและข้อความในสไลด์
+
+
+
+* **สนับสนุนการอัตโนมัติในการรายงาน**  
+
+&nbsp; ตรวจสอบงานนำเสนอที่สร้างขึ้นก่อนกระจาย
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **ตรวจสอบการสร้างสไลด์อัตโนมัติ**  
+
+&nbsp; การทำงานของ Python แสดงสไลด์หลังจากการสร้างอัตโนมัติ
+
+
+
+* **ตรวจสอบงานนำเสนอเป็นชุด**  
+
+&nbsp; ตรวจสอบงานนำเสนอหลายชุดโดยโปรแกรม
+
+
+
+* **บริการดูตัวอย่างสำหรับผู้มีส่วนได้ส่วนเสีย**  
+
+&nbsp; สไลด์ถูกแสดงอย่างไดนามิกสำหรับกระบวนการอนุมัติ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

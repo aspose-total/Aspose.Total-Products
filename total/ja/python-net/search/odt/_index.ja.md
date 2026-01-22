@@ -76,7 +76,75 @@ ODT 検索可能なアプリまたはユーティリティを開発する必要�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用して**ODT**ファイルを検索することで、オープンドキュメント標準との互換性を確保しながら効率的なコンテンツの発見が可能となります。ODT文書は、ポータビリティと透明性が重要なオープンソースおよび共同作業環境で一般的に使用されています。
+
+
+
+自動化されたODT検索は相互運用性を向上させ、スケーラブルなドキュメント分析をサポートし、現代の自動化パイプラインとスムーズに統合します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **オープンフォーマットドキュメントの検索**  
+
+&nbsp; ODTベースのドキュメント内のキーワードを検出します。
+
+
+
+* **共同コンテンツのレビュー**  
+
+&nbsp; 共有されたオープンドキュメント全体での高速検索を可能にします。
+
+
+
+* **ポリシーおよび文書分析**  
+
+&nbsp; ODTファイル内の必要なセクションを特定します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **自動化されたODTインデックスの作成**  
+
+&nbsp; PythonスクリプトがODTファイルから検索可能なインデックスを生成します。
+
+
+
+* **ODT変更の検出**  
+
+&nbsp; プログラムによるスキャンで更新されたまたは変更されたコンテンツを特定します。
+
+
+
+* **ODTコンテンツパイプライン**  
+
+&nbsp; 抽出されたデータが自動化された公開およびレビューシステムにフィードされます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

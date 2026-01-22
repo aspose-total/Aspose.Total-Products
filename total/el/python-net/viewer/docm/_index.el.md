@@ -90,7 +90,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η προβολή εγγράφων DOCM με τη χρήση Python APIs επιτρέπει την ασφαλή επιθεώρηση εγγράφων με μακροενεργοποιημένη λογική χωρίς την εκτέλεση ενσωματωμένης λογικής.
+
+Αυτό είναι ουσιώδες για ελεγχόμενα περιβάλλοντα όπου απαιτείται ορατότητα χωρίς κίνδυνο ασφάλειας.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Περιπτώσεις Χρήσης" %}}
+
+
+
+* **Αναθεώρηση Εγγράφου με Ενσωματωμένα Μακρό**  
+
+&nbsp; Προβολή περιεχομένου διατηρώντας τα μακρό ανενεργά.
+
+
+
+* **Επιθεώρηση με Έμφαση στην Ασφάλεια**  
+
+&nbsp; Εξέταση εγγράφων για δομή και κείμενο χωρίς εκτέλεση.
+
+
+
+* **Έλεγχος Πρόσβασης σε Εγγράφους**  
+
+&nbsp; Δυνατότητα ασφαλούς προβολής σε περιορισμένα ή αυτοματοποιημένα συστήματα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* **Ασφαλείς Αγωγοί Εισαγωγής**  
+
+&nbsp; Ο αυτοματισμός με χρήση Python εμφανίζει περιεχόμενο DOCM χωρίς να ενεργοποιεί μακρό.
+
+
+
+* **Αυτοματισμός Αναθεώρησης Συμμόρφωσης**  
+
+&nbsp; Τα έγγραφα προβάλλονται ως μέρος αυτοματοποιημένων ελέγχων πολιτικής.
+
+
+
+* **Ροές Εργασιών Προ-Έγκρισης**  
+
+&nbsp; Οι αυτοματοποιημένες προεπισκοπήσεις υποστηρίζουν τις ανθρώπινες εγκρίσεις.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

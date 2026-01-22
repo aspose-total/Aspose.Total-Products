@@ -76,7 +76,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La recherche de documents **WORD** de manière programmable à l'aide d'API Python permet un accès unifié au contenu textuel indépendamment des variantes de fichiers sous-jacents. Les documents Word restent au centre de la documentation, des rapports et des flux de travail opérationnels dans tous les secteurs.
+
+
+
+En automatisant la recherche de documents Word, les organisations peuvent mettre à l'échelle l'intelligence du contenu, réduire les efforts manuels et intégrer les informations des documents dans les systèmes modernes.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Recherche unifiée de documents Word**  
+
+&nbsp; Permet une recherche cohérente à travers plusieurs fichiers basés sur Word.
+
+
+
+* **Extraction de connaissances textuelles**  
+
+&nbsp; Convertit le contenu du document en informations recherchables.
+
+
+
+* **Découverte de documents d'entreprise**  
+
+&nbsp; Améliore la visibilité à travers de vastes référentiels de documents Word.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Maintenance automatisée de l'index Word**  
+
+&nbsp; Les processus Python maintiennent les index de recherche Word continuellement à jour.
+
+
+
+* **Automatisation de la validation du contenu Word**  
+
+&nbsp; Les vérifications programmatiques garantissent l'exhaustivité et l'exactitude du contenu.
+
+
+
+* **Intégration Word-vers-Workflow**  
+
+&nbsp; Les résultats de la recherche alimentent les pipelines de décision et de traitement automatisés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

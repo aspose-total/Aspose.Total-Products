@@ -98,7 +98,93 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Extraktion von Metadaten für **DOCM**-Dateien über Python-APIs hilft Systemen, Dokumenteigenschaften zu inspizieren, während makrofähige Inhalte und die damit verbundenen Risikosignale berücksichtigt werden. Dies ist wertvoll für Governance, sichere Handhabung und Klassifizierung, insbesondere wenn Dokumente zwischen Teams oder Umgebungen verschoben werden.
+
+
+
+In Automatisierungs-Workflows können DOCM-Metadaten dynamische Steuerungen ermöglichen - wie Sicherheitsüberprüfungen, bedingte Genehmigungen und eingeschränkte Verteilung - und gleichzeitig skalierbare Indizierung und Berichterstattung ohne interaktives Öffnen von Dateien ermöglichen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Makro-bewusste Dokumentenüberprüfung**
+
+  Verwenden Sie Metadaten, um makrofähige Dokumente zur zusätzlichen Überprüfung und kontrollierten Handhabung zu kennzeichnen.
+
+
+
+* **Klassifizierung sensitiver Workflows**
+
+  Klassifizieren Sie DOCM-Dateien basierend auf eingebetteten Eigenschaften, um strengere Speicher- und Zugriffsrichtlinien anzuwenden.
+
+
+
+* **Nachverfolgung der operativen Herkunft**
+
+  Erfassen Sie Autoren- und Änderungsverlaufsfelder, um nachzuverfolgen, wo und wann makrofähige Dateien erstellt wurden.
+
+
+
+* **Berichterstattung über Repository-Gesundheit**
+
+  Generieren Sie Berichte über DOCM-Volumen, Alter und Eigentum, um das Risiko bei der Skalierung zu verwalten.
+
+
+
+* **Bereitschaft zur kontrollierten Verteilung**
+
+  Überprüfen Sie erforderliche Metadatenfelder, bevor DOCM-Dateien in nachgelagerte Freigabe- oder Veröffentlichungsprozesse gelangen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Risikobewerteter Eingangspipeline**
+
+  Bewerten Sie DOCM-Dateien automatisch anhand der Vollständigkeit und Aktualität der Metadaten und leiten Sie sie dann in "Überprüfung" oder "genehmigte" Bahnen weiter.
+
+
+
+* **Durchsetzung eingeschränkter Speicherung**
+
+  Wenn eine DOCM-Datei erkannt wird, verschiebt die Automatisierung sie an einen eingeschränkten Speicherort und wendet strengere Aufbewahrungsregeln an.
+
+
+
+* **Makrofähige Ausnahmealarme**
+
+  Lösen Sie Alarme aus, wenn DOCM-Metadaten auf unerwartete Ursprünge, ungewöhnliche Zeitstempel oder fehlende Eigentumsfelder hinweisen.
+
+
+
+* **Automatisierte Bestandsübersichten**
+
+  Extrahieren und aggregieren Sie kontinuierlich DOCM-Metadaten in Dashboards für Governance und operative Überwachung.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

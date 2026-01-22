@@ -78,7 +78,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusion des feuilles de calcul OpenDocument à l'aide des API Python prend en charge les normes ouvertes et les flux de données multiplateformes. Cela est idéal pour les environnements qui dépendent des outils de bureau open source.
+
+
+
+L'automatisation autour de la fusion des fichiers ODS garantit l'interopérabilité tout en maintenant l'intégrité des données structurées.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Consolidation de feuilles de calcul multiplateformes (ODS)**  
+
+&nbsp; Fusionner des fichiers ODS créés dans différentes suites bureautiques.
+
+
+
+* **Agrégation de données selon les normes ouvertes (ODS)**  
+
+&nbsp; Combinez des feuilles de calcul ODS pour une analyse unifiée.
+
+
+
+* **Compilation collaborative de données (ODS)**  
+
+&nbsp; Fusionner des fichiers ODS provenant de contributeurs distribués.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Automatisation de pipeline de données ouvertes (ODS)**  
+
+&nbsp; Les systèmes fusionnent des fichiers ODS sans dépendances propriétaires.
+
+
+
+* **Compilation planifiée de feuilles de calcul (ODS)**  
+
+&nbsp; La fusion ODS s'exécute dans le cadre de tâches récurrentes en backend.
+
+
+
+* **Pipelines de reporting interopérables (ODS)**  
+
+&nbsp; Les fichiers ODS sont fusionnés dynamiquement dans les flux de données.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

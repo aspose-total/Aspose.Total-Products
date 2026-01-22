@@ -79,7 +79,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT je otevřený formát dokumentu navržený pro strukturované textové dokumenty. Rozdělení souborů ODT umožňuje zpracování na úrovni sekcí a manipulaci se strukturovaným obsahem.
+
+
+
+Pomocí Python API se rozdělení ODT stává škálovatelným a vhodným pro automatizované dokumentační procesy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Extrakce strukturovaného obsahu**  
+
+&nbsp; Extrahovat kapitoly nebo sekce nezávisle.
+
+
+
+* **Archivace ve formátu Otevřeného Formátu**  
+
+&nbsp; Uchovávat a spravovat obsah na granulární úrovni.
+
+
+
+* **Spolupracující zpracování dokumentů**  
+
+&nbsp; Umožnit paralelní pracovní postupy na sekcích dokumentu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Parsování sekcí založené na XML**  
+
+&nbsp; Python identifikuje strukturální značky pro rozdělení.
+
+
+
+* **Automatická klasifikace obsahu**  
+
+&nbsp; Extrahované sekce jsou programaticky kategorizovány.
+
+
+
+* **Směrování dokumentů orientované na pracovní postupy**  
+
+&nbsp; Sekce automaticky proudí do různých systémů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

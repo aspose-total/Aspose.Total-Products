@@ -78,7 +78,75 @@ Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het samenvoegen van Excel-sjabloonindelingen met behulp van Python-API's zorgt voor een consistente structuur en lay-out in gegenereerde spreadsheets. Op sjabloon gebaseerd samenvoegen is essentieel voor gestandaardiseerde rapportage- en gegevensinvoerworkflows.
+
+
+
+Automatisering maakt snelle generatie van uniforme spreadsheets mogelijk zonder handmatige opmaak.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Op Sjabloon Gebaseerde Spreadsheetassemblage (XLT)**  
+
+&nbsp; Voeg XLT-gebaseerde bestanden samen om consistente lay-outs af te dwingen.
+
+
+
+* **Gestandaardiseerde Gegevensverzameling (XLT)**  
+
+&nbsp; Combineer sjabloon-gedreven spreadsheets in één bestand.
+
+
+
+* **Herbruikbare Spreidingsstructuren (XLT)**  
+
+&nbsp; Voeg XLT-documenten samen om een uniform ontwerp te behouden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Geautomatiseerde Sjabloontoepassing (XLT)**  
+
+&nbsp; XLT-bestanden worden automatisch samengevoegd tijdens de generatie.
+
+
+
+* **Batchverwerking van Sjablonen (XLT)**  
+
+&nbsp; Geplande taken voegen meerdere op XLT gebaseerde spreadsheets samen.
+
+
+
+* **Opmaakgestuurde Automatisering (XLT)**  
+
+&nbsp; Systemen voegen XLT-bestanden samen om de opmaakconsistentie te garanderen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

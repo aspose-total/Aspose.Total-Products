@@ -71,7 +71,75 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Pliki PPT reprezentują starsze formaty programu PowerPoint, które wciąż są używane w wielu środowiskach. Zabezpieczenie plików PPT zapewnia, że prezentacje z przeszłości pozostaną bezpieczne i zgodne z przepisami.
+
+
+
+Interfejsy Pythona umożliwiają zautomatyzowane zabezpieczanie plików PPT, pozwalając na dostosowanie starszych treści do nowoczesnych standardów bezpieczeństwa.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+
+
+* **Ochrona starszych slajdów**  
+
+&nbsp; Zabezpiecz starsze pliki PPT przed nieautoryzowanymi modyfikacjami.
+
+
+
+* **Zachowanie treści historycznych**  
+
+&nbsp; Zachowaj integralność zarchiwizowanych prezentacji.
+
+
+
+* **Kontrolowane ponowne rozpowszechnianie**  
+
+&nbsp; Ogranicz edycję podczas udostępniania starszych zestawów slajdów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Zabezpieczanie zbiorów starszych plików wsadowo**  
+
+&nbsp; Automatyczne zabezpieczanie dużych kolekcji plików PPT.
+
+
+
+* **Bezpieczeństwo podczas migracji**  
+
+&nbsp; Zastosuj zabezpieczenie podczas przejść między systemami z przeszłości.
+
+
+
+* **Automatyczne ograniczanie dostępu**  
+
+&nbsp; Wymuszaj spójne ograniczenia na plikach PPT programowo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

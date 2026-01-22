@@ -90,7 +90,73 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La visualizzazione dei file ODT con le API di Python consente l'ispezione dei documenti di testo aperti utilizzati nei flussi di lavoro basati su standard.
+
+Ciò supporta l'automazione nei sistemi centrati sui documenti senza dipendenze proprietarie.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* **Revisione Documenti Aperti**  
+
+  Visualizza documenti di testo in formati aperti.
+
+
+
+* **Controlli di Integrità del Contenuto**  
+
+  Ispeziona la struttura e il testo del documento.
+
+
+
+* **Compatibilità tra Sistemi**  
+
+  Assicurati che i documenti vengano visualizzati correttamente in diversi ambienti.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Flussi di Lavoro Documentali Automatizzati**  
+
+  I processi Python rendono i file ODT durante i flussi di lavoro.
+
+
+
+* **Convalida della Conformità**  
+
+  I documenti vengono visualizzati per l'allineamento agli standard.
+
+
+
+* **Generazione Anteprima**  
+
+  I visualizzatori automatici supportano i flussi di lavoro di revisione.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

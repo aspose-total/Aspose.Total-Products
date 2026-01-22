@@ -71,7 +71,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ไฟล์ PDF มักถูกล็อกเพื่อป้องกันข้อมูลที่เป็นความลับ แต่การปลดล็อกอย่างควบคุมเป็นสิ่งสำคัญสำหรับการอัตโนมัติ การวิเคราะห์ และการนำกลับมาใช้ใหม่อย่างถูกกฎหมาย การเข้าถึงโปรแกรมช่วยให้ PDF ที่ได้รับความคุ้มครองยังสามารถเข้าร่วมในกระบวนการดิจิทัลสมัยใหม่ได้
+
+
+
+Python APIs ช่วยให้การปลดล็อก PDF ถูกจัดการอย่างปลอดภัยและมาตราการ โดยรวมเข้ากับระบบสกัดข้อมูล การจัดทำดัชนี และการแปลงรูปแบบ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **สกัดข้อมูลและข้อความ**  
+
+&nbsp; ช่วยให้สามารถเข้าถึงเนื้อหาที่ได้รับความคุ้มครองสำหรับการวิเคราะห์และรายงาน
+
+
+
+* **การอัตโนมัติในการตรวจสอบเอกสาร**  
+
+&nbsp; สนับสนุนการตรวจสอบไฟล์ที่ล็อกโดยอัตโนมัติในรอบการตรวจสอบ
+
+
+
+* **ท่อการแปลงรูปแบบ**  
+
+&nbsp; ช่วยให้ PDF ที่ได้รับความคุ้มครองสามารถแปลงเป็นรูปแบบที่สามารถแก้ไขหรือค้นหาได้
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **กระบวนการทำ OCR อัตโนมัติ**  
+
+&nbsp; PDF ถูกปลดล็อกก่อนกระบวนการรับรู้ข้อความและการเสริมความสมบูรณ์
+
+
+
+* **การสร้างดัชนีการค้นหา**  
+
+&nbsp; เนื้อหาที่ได้รับความคุ้มครองถูกปลดล็อกและถูกจัดทำดัชนีโปรแกรม
+
+
+
+* **การประมวลผลความปลอดภัยเป็นชุด**  
+
+&nbsp; ชุดข้อมูล PDF ขนาดใหญ่ถูกปลดล็อกในระหว่างการดำเนินงานการปฏิบัติตามกฎหมายตามกำหนดเวลา
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

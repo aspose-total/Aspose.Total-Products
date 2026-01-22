@@ -79,7 +79,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 OpenDocument 프레젠테이션 파일을 병합하면 오픈 표준 및 크로스 플랫폼 프레젠테이션 워크플로를 지원합니다. 이는 오픈 소스 오피스 도구를 사용하는 환경에 이상적입니다.
+
+
+
+자동화는 상호 운용성과 확장 가능한 프레젠테이션 처리를 보장합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **크로스 플랫폼 슬라이드 통합 (ODP)**  
+
+&nbsp; 서로 다른 도구에서 생성된 ODP 파일을 병합합니다.
+
+
+
+* **오픈 표준 프레젠테이션 조립 (ODP)**  
+
+&nbsp; 통합된 전달을 위해 ODP 덱을 결합합니다.
+
+
+
+* **협업 슬라이드 편성 (ODP)**  
+
+&nbsp; 분산된 기여자로부터 ODP 파일을 병합합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **오픈 프레젠테이션 파이프라인 (ODP)**  
+
+&nbsp; 시스템은 소유권 의존성 없이 ODP 파일을 병합합니다.
+
+
+
+* **일정된 덱 편성 (ODP)**  
+
+&nbsp; ODP 병합은 백엔드 작업의 일부로 실행됩니다.
+
+
+
+* **상호 운용 가능한 프레젠테이션 자동화 (ODP)**  
+
+&nbsp; ODP 파일은 워크플로에서 동적으로 병합됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

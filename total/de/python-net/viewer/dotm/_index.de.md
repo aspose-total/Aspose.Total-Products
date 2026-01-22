@@ -90,7 +90,73 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTM-Anzeige mit Python-APIs ermöglicht eine sichere Inspektion von makrofähigen Word-Vorlagen, ohne eingebettete Logik auszuführen.
+
+Dies ist unerlässlich für kontrollierte Umgebungen, in denen Sichtbarkeit und Sicherheit koexistieren müssen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Überprüfung von makrofähigen Vorlagen**  
+
+&nbsp; Anzeigen des Vorlageninhalts, während Makros inaktiv bleiben.
+
+
+
+* **Sicherheitsorientierte Inspektion**  
+
+&nbsp; Struktur inspizieren, ohne Systeme Risiken durch Ausführung auszusetzen.
+
+
+
+* **Vorlagenfreigabeprozesse**  
+
+&nbsp; Vorlagen vor kontrollierter Verteilung überprüfen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Sichere Vorlagenannahme**  
+
+&nbsp; Python-Viewer zeigen DOTM-Dateien sicher während der Einführung an.
+
+
+
+* **Governance-Automatisierung**  
+
+&nbsp; Vorlagen werden im Rahmen automatisierter Richtlinienprüfungen überprüft.
+
+
+
+* **Vorabvalidierungspipelines**  
+
+&nbsp; Automatisierte Vorschauen unterstützen Genehmigungsworkflows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

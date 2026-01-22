@@ -74,7 +74,75 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La rédaction de documents à l'aide des API Python pour les fichiers DOCX offre une approche moderne et structurée pour supprimer du contenu sensible des formats de traitement de texte largement adoptés. Cela garantit que les documents restent utilisables tout en protégeant les informations confidentielles.
+
+
+
+L'automatisation basée sur Python permet une redaction DOCX à grande échelle à travers de vastes référentiels de documents, permettant une intégration transparente avec les systèmes de gestion de contenu et de conformité.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Protection des données réglementaires**  
+
+  &nbsp; Supprimer les données personnelles ou financières des fichiers DOCX avant leur distribution externe.
+
+
+
+* **Sanitisation des contrats**  
+
+  &nbsp; Rédiger des clauses sensibles tout en préservant la structure et la mise en forme du document.
+
+
+
+* **Sécurité de la collaboration**  
+
+  &nbsp; Partager des fichiers DOCX rédigés de manière sécurisée avec des partenaires ou des clients.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Rédaction basée sur des modèles**  
+
+  &nbsp; Rédiger automatiquement des sections spécifiques en fonction des modèles de documents.
+
+
+
+* **Traitement basé sur le flux de travail**  
+
+  &nbsp; Déclencher la rédaction lorsque les fichiers DOCX passent d'une étape du flux de travail à une autre.
+
+
+
+* **Vérifications continues de conformité**  
+
+  &nbsp; Rebalayer et rédiger les documents mis à jour dans le cadre de pipelines automatisés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

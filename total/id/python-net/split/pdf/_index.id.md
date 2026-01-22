@@ -79,7 +79,75 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+File PDF banyak digunakan untuk dokumen tata letak tetap di mana konten didistribusikan di seluruh halaman. Memisahkan PDF memungkinkan akses tingkat halaman atau tingkat bagian tanpa memodifikasi file asli.
+
+
+
+Pemisahan PDF yang didorong Python meningkatkan otomatisasi dengan memungkinkan pemrosesan dalam skala besar, ekstraksi selektif, dan integrasi dengan jalur dokumen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Ekstraksi Tingkat Halaman**  
+
+  Isolasi halaman tertentu untuk tinjauan atau distribusi.
+
+
+
+* **Segmentasi Dokumen**  
+
+  Memisahkan PDF besar menjadi bagian-bagian logis.
+
+
+
+* **Kepatuhan dan Penanganan Audit**  
+
+  Mengekstrak bagian relevan untuk verifikasi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pipa Pemrosesan PDF Batch**  
+
+  Ribuan PDF dipisahkan secara otomatis.
+
+
+
+* **Pemisahan Halaman Berbasis Aturan**  
+
+  Logika Python memisahkan PDF menggunakan aturan halaman.
+
+
+
+* **Distribusi Konten Otomatis**  
+
+  PDF yang diekstraksi diarahkan ke sistem target.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

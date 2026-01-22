@@ -100,7 +100,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Разбор **файлов презентаций ODP** с использованием Python API обеспечивает доступ к содержимому, организованному по слайдам и хранящемуся в открытых форматах презентаций. Это поддерживает структурированное извлечение без зависимости от собственных инструментов.
+
+
+
+Автоматизированный разбор ODP обеспечивает масштабируемую обработку данных презентаций в открытых и расширяемых экосистемах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Анализ открытых презентаций**  
+
+&nbsp; Извлекает текст слайдов и их структуру из файлов ODP.
+
+
+
+* **Индексирование содержимого презентации**  
+
+&nbsp; Делает слайды в открытом формате доступными для поиска и повторного использования.
+
+
+
+* **Извлечение данных для отчетности**  
+
+&nbsp; Преобразует содержимое слайдов в структурированные наборы данных.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированный прием слайдов**  
+
+&nbsp; Обрабатывает файлы ODP в рамках запланированных рабочих процессов.
+
+
+
+* **Проверка согласованности содержимого**  
+
+&nbsp; Проверяет структуру слайдов согласно определенным правилам.
+
+
+
+* **Перекрестные презентационные конвейеры форматов**  
+
+&nbsp; Программно преобразует содержимое ODP в другие форматы.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

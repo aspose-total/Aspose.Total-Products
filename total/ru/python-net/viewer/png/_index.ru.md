@@ -82,7 +82,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Просмотр PNG с использованием Python API поддерживает высококачественное, без потерь отображение изображений с обработкой прозрачности.
+
+Это идеально подходит для сценариев автоматизации, требующих визуальной точности и гибкой интеграции изображений.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Просмотр изображений без потерь**
+
+  &nbsp; Просмотр изображений без артефактов сжатия.
+
+
+
+* **Проверка прозрачных ресурсов**
+
+  &nbsp; Точная проверка изображений с альфа-каналами.
+
+
+
+* **Проверка визуальных ресурсов пользовательского интерфейса**
+
+  &nbsp; Просмотр визуальных ресурсов, используемых в приложениях или документах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизация процесса обработки ресурсов**
+
+  &nbsp; Сценарии на Python отображают файлы PNG во время сборки или проверки развертывания.
+
+
+
+* **Динамические сервисы предварительного просмотра**
+
+  &nbsp; Изображения отображаются автоматически на панелях инструментов или в инструментах.
+
+
+
+* **Тестирование визуального регресса**
+
+  &nbsp; Автоматический просмотр поддерживает рабочие процессы сравнения и проверки.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Vyhledávání souborů **DOCX** pomocí Python API poskytuje spolehlivý přístup k strukturovaným a moderním dokumentům pro zpracování textu. Soubory DOCX obsahují formátovaný text, nadpisy, tabulky a metadata, která lze programově analyzovat pro pokročilé vyhledávání a získávání informací.
+
+
+
+Automatizované vyhledávání v souborech DOCX podporuje škálovatelný správu obsahu, extrakci znalostí a inteligentní zpracování dokumentů v rámci podnikových systémů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Vyhledávání ve strukturovaném textu**  
+
+&nbsp; Umožňuje přesné vyhledávání v nadpisech, odstavcích a tabulkách.
+
+
+
+* **Vyhledávání na základě metadat**  
+
+&nbsp; Využívá vlastnosti dokumentu k zlepšení přesnosti vyhledávání.
+
+
+
+* **Generování znalostní báze**  
+
+&nbsp; Převádí obsah DOCX do vyhledatelných znalostních prostředků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Průběžné aktualizace indexu DOCX**  
+
+&nbsp; Služby v Pythonu monitorují a indexují nové nebo aktualizované soubory DOCX.
+
+
+
+* **Automatizovaná klasifikace obsahu**  
+
+&nbsp; Dokumenty DOCX jsou programově kategorizovány na základě obsahu.
+
+
+
+* **Integrace pracovního postupu DOCX**  
+
+&nbsp; Výsledky vyhledávání dynamicky napájejí informační panely a systémy obsahu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

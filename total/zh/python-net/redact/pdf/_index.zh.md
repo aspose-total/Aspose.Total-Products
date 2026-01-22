@@ -75,7 +75,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API对PDF文件进行文档编辑对于永久删除固定布局文档中的敏感信息至关重要。这确保了编辑过的数据无法恢复或暴露。
+
+
+
+自动化使得可靠、可重复的PDF编辑在规模上可行，适用于高容量的合规和披露工作流程。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* **法律披露准备**  
+
+&nbsp; 在法庭或监管机构提交之前从PDF中删除机密细节。
+
+
+
+* **公开文件发布**  
+
+&nbsp; 在公众访问之前清理报告和记录。
+
+
+
+* **安全客户交付物**  
+
+&nbsp; 确保从共享的PDF中不可逆地删除敏感信息。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **内容感知式编辑**  
+
+&nbsp; 自动检测并删除敏感文本或区域。
+
+
+
+* **高容量PDF流水线**  
+
+&nbsp; 以程序方式处理和编辑大批量PDF。
+
+
+
+* **出版前保障**  
+
+&nbsp; 在文档发布或分发之前执行编辑检查。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

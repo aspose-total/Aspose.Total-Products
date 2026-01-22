@@ -75,7 +75,93 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Ekstrakcja metadanych dokumentów dla plików **PPTX** za pomocą interfejsów API w języku Python zapewnia strukturalny dostęp do nowoczesnych właściwości prezentacji — umożliwiając spójne indeksowanie, audytowanie i śledzenie cyklu życia zestawów slajdów na dużą skalę. Jest to wartościowe dla organizacji zarządzających dużymi ilościami prezentacji operacyjnych, szkoleniowych lub przeznaczonych dla klientów.
+
+
+
+W potokach automatyzacji metadane PPTX stają się lekkim płaszczyzna kontrolną do routingu i zarządzania: wspierają automatyczną klasyfikację, zaplanowane przeglądy, kontrole publikacji oraz integracje z systemami wyszukiwania i zarządzania treścią.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Katalog i Odkrywanie Prezentacji**
+
+  Ekstrahuj metadane PPTX, aby budować przeszukiwalne katalogi według tematu, właściciela i historii aktualizacji.
+
+
+
+* **Zarządzanie Cyklem Życia Zestawów Slajdów**
+
+  Wykorzystaj znaczniki czasu i niestandardowe właściwości do egzekwowania cykli przeglądów i polityk świeżości treści.
+
+
+
+* **Automatyczne Przypisanie Właścicieli**
+
+  Przyporządkuj pola autora i ostatniego edytora odpowiednim zespołom do zatwierdzeń i konserwacji.
+
+
+
+* **Walidacja Gotowości do Publikacji**
+
+  Upewnij się, że wymagane właściwości opisowe istnieją przed dystrybucją zewnętrzną zestawu PPTX.
+
+
+
+* **Ścieżki Audytu Operacyjnego**
+
+  Utrzymuj metadane oparte na audytach, kiedy zestawy były tworzone, aktualizowane i przez kogo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Klasyfikacja i Tagowanie podczas Wgrywania**
+
+  Podczas przyjmowania, ekstrahuj metadane PPTX i automatycznie stosuj tagi oraz reguły routingu folderów dla spójnej organizacji.
+
+
+
+* **Generowanie Zadań Przeglądu Zgodnie z Harmonogramem**
+
+  Twórz okresowe zadania przeglądu, gdy zestawy PPTX przekroczą progi przestarzałości lub metadane wskazują zmiany właścicieli.
+
+
+
+* **Kontrolowany Potok Dystrybucji**
+
+  Pozwól lub ogranicz dystrybucję zestawów PPTX na podstawie flag metadanych, takich jak kategorie tylko wewnętrzne lub poufne.
+
+
+
+* **Synchronizacja Metadanych z Systemami Wyszukiwania**
+
+  Ciągle przesyłaj metadane PPTX do indeksu, dzięki czemu zestawy slajdów są odkrywalne bez ręcznego utrzymywania katalogu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

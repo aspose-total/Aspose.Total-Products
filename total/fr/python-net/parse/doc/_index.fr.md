@@ -104,7 +104,75 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'analyse des **documents DOC** à l'aide des API Python permet une extraction structurée des fichiers de traitement de texte hérités qui sont encore courants dans les systèmes d'archivage, les entreprises et les environnements axés sur la conformité. Cela permet de convertir le texte, les indices de mise en forme et la structure du document en données exploitables par machine.
+
+
+
+Lorsqu'il est intégré dans des pipelines automatisés, l'analyse des DOC prend en charge la migration, l'indexation et la validation de documents à grande échelle, rendant le contenu plus ancien utilisable dans les systèmes modernes pilotés par API.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Numérisation de contenu hérité**  
+
+&nbsp; Extrait du texte lisible à partir de fichiers DOC plus anciens pour la modernisation et la réutilisation.
+
+
+
+* **Analyse de documents de conformité**  
+
+&nbsp; Permet le balayage automatisé de textes contractuels ou réglementaires stockés dans des formats hérités.
+
+
+
+* **Préparation de l'index de recherche**  
+
+&nbsp; Convertit les fichiers DOC en texte clair pour les systèmes d'indexation et de récupération.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Traitement par lots de fichiers hérités**  
+
+&nbsp; Automatise la conversion de grands ensembles de fichiers DOC en ensembles de données structurées.
+
+
+
+* **Pipelines de validation de documents**  
+
+&nbsp; Intègre l'analyse des DOC dans des flux de travail de validation et d'audit basés sur des règles.
+
+
+
+* **Migration vers des formats modernes**  
+
+&nbsp; Transforme de manière programmée les fichiers DOC en normes de documents plus récentes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

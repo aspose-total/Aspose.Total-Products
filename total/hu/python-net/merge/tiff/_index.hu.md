@@ -85,7 +85,69 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TIFF képek összevonása Python API-k segítségével támogatja a nagy felbontású, többoldalas képmunkafolyamatokat, amelyeket általában nyomtatásnál, orvosi képalkotásnál és dokumentum szkennelésnél használnak.
+
+
+
+Az automatizálás lehetővé teszi a nagy, részletgazdag képkészletek megbízható kezelését.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Többoldalas szkennelés összeállítása (TIFF)**  
+&nbsp; Mergelje a TIFF oldalakat egyetlen többoldalas fájlba.
+
+
+
+* **Magas felbontású képfeldolgozás (TIFF)**  
+&nbsp; Kombinálja a TIFF képeket részletes elemzéshez.
+
+
+
+* **Nyomtatásra kész képek összeállítása (TIFF)**  
+&nbsp; Gyűjtse össze a TIFF fájlokat a kiadási folyamatokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Automatizált szkennelési csővezetékek (TIFF)**  
+&nbsp; A rendszerek összefésülik a TIFF fájlokat a szkennelés során.
+
+
+
+* **Tömeges magas felbontású feldolgozás (TIFF)**  
+&nbsp; A TIFF összevonás ütemezett feladatokban fut.
+
+
+
+* **Vállalati képautomatizálás (TIFF)**  
+&nbsp; Az automatizált munkafolyamatok kezelik a nagy TIFF adatkészleteket.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

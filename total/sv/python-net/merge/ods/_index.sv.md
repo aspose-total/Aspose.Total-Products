@@ -78,7 +78,75 @@ För mer information, se [Product Documentation](https://docs.aspose.com/cells/p
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Att sammanfoga OpenDocument-kalkylblad med Python API:er stöder öppna standarder och tvärplattformsdataflöden. Detta är idealiskt för miljöer som förlitar sig på öppen källkods kontorsverktyg.
+
+
+
+Automatisering kring ODS-sammanfogning säkerställer interoperabilitet samtidigt som strukturerad dataintegritet bibehålls.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* **Tvärplattforms kalkylbladssammanställning (ODS)**  
+
+&nbsp; Sammanfoga ODS-filer skapade i olika kontorspaket.
+
+
+
+* **Öppen standarddatamarkering (ODS)**  
+
+&nbsp; Kombinera ODS-kalkylblad för enhetlig analys.
+
+
+
+* **Samarbetsinriktad dataskompilering (ODS)**  
+
+&nbsp; Sammanfoga ODS-filer från distribuerade bidragsgivare.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* **Öppen dataflödesautomatisering (ODS)**  
+
+&nbsp; Systemen sammanfogar ODS-filer utan proprietära beroenden.
+
+
+
+* **Schemalagd kalkylsammanställning (ODS)**  
+
+&nbsp; ODS-sammanfogning körs som en del av återkommande bakgrundsuppgifter.
+
+
+
+* **Interoperabla rapporteringsflöden (ODS)**  
+
+&nbsp; ODS-filer sammanfogas dynamiskt i dataflöden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

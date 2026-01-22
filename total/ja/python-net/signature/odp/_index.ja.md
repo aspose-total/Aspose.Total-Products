@@ -73,7 +73,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用してODPプレゼンテーションファイルに署名することで、チームはオープンフォーマットで作成されたスライドデッキのリリース品質と所有権を管理できます。これにより、承認後にのみデッキが配布されることが保証されます。
+
+
+
+自動化されると、ODPの署名はコラボレーションワークフロー内で繰り返し可能なガバナンスステップとなり、バージョン管理の向上や未承認のデッキの流通を防ぎます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **トレーニングデッキの承認**  
+
+&nbsp; 内部展開の準備が整ったことを確認するためにODPトレーニングデッキに署名します。
+
+
+
+* **ステークホルダーレビューの確認**  
+
+&nbsp; ステークホルダーレビューが完了した後にODPデッキに署名マークを適用します。
+
+
+
+* **コンプライアンスプレゼンテーションの認証**  
+
+&nbsp; ポリシーまたはコンプライアンスデッキに署名して、最終バージョンの承認者を文書化します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **承認ワークフロートリガー署名**  
+
+&nbsp; システムに承認状態が記録されたときに自動的にODPファイルに署名します。
+
+
+
+* **共有前のデッキ整合性ゲート**  
+
+&nbsp; 必要なスライドとメタデータが存在することを確認した後にデッキに署名します。
+
+
+
+* **リリースサイクル用のバッチ署名**  
+
+&nbsp; スケジュールされたリリースサイクルの一環として複数のODPデッキにプログラムで署名します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

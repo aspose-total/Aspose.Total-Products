@@ -73,7 +73,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Подписание файлов PPTX позволяет презентациям нести явное утверждение и метаданные о выпуске, предотвращая несанкционированное или преждевременное распространение.
+
+
+
+Автоматизация на основе Python обеспечивает последовательное утверждение презентаций в различных командах и версиях.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Утверждение исполнительного директора**  
+
+&nbsp; Подписывайте доски PPTX перед распространением среди руководства.
+
+
+
+* **Окончательное оформление презентации по продажам**  
+
+&nbsp; Применяйте индикаторы утверждения к презентациям для клиентов.
+
+
+
+* **Сертификация учебных материалов**  
+
+&nbsp; Помечайте утвержденные учебные презентации.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Подписание при активации утверждения заинтересованных сторон**  
+
+&nbsp; Файлы PPTX подписываются при записи утверждений.
+
+
+
+* **Принудительное соблюдение контроля версий при выпуске**  
+
+&nbsp; Внешне распространяются только подписанные доски.
+
+
+
+* **Автоматизированная публикация презентаций**  
+
+&nbsp; Подписание интегрируется в рабочие процессы публикации.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

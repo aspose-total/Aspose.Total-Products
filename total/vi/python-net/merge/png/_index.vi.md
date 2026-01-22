@@ -85,7 +85,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Imaging for Python via
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Hợp nhất hình ảnh PNG bằng cách sử dụng API Python cho phép việc tạo thành hình ảnh mà không mất dữ liệu với khả năng hỗ trợ độ trong suốt. Điều này rất lý tưởng cho tài sản thiết kế, các yếu tố giao diện người dùng và hình ảnh lớp.
+
+
+
+Tự động hóa đảm bảo việc lắp ráp hình ảnh một cách nhất quán trong khi bảo toàn tính nguyên vẹn của hình ảnh.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Lắp ráp Tài Sản Trong Suốt (PNG)**  
+
+&nbsp; Hợp nhất hình ảnh PNG trong khi bảo toàn kênh alpha.
+
+
+
+* **Tạo Hình Ảnh Yếu Tố Giao Diện (PNG)**  
+
+&nbsp; Kết hợp đồ họa giao diện vào hình ảnh duy nhất.
+
+
+
+* **Tích Hợp Tài Nguyên Thiết Kế (PNG)**  
+
+&nbsp; Tổng hợp tài sản PNG để sử dụng lại.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Luồng Thiết Kế Tự Động (PNG)**  
+
+&nbsp; Hệ thống hợp nhất tài sản PNG trong quá trình xây dựng.
+
+
+
+* **Tạo Hình Ảnh Lớp (PNG)**  
+
+&nbsp; Việc hợp nhất PNG được thúc đẩy bởi các quy tắc theo chương trình.
+
+
+
+* **Tự Động Hóa Tài Sản Hình Ảnh Mở Rộng (PNG)**  
+
+&nbsp; Các luồng công việc tự động tạo ra hình ảnh PNG hợp nhất.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

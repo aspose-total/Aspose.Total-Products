@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 JPEG 파일에 서명하는 것은 압축된 이미지 자산이 공식 승인 지표를 갖도록 하여 감사, 검사 및 보고서에 사용되는 시각 자료의 추적을 지원합니다. 특히 JPEG가 저장 효율성을 위해 선택된 경우에 유용합니다.
+
+
+
+자동화 친화적인 서명은 JPEG 승인이 일관되게 적용되도록 하여 수작업 재작업을 줄이고 대량 이미지 파이프라인 전반에 걸쳐 거버넌스를 개선합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **검사 사진 승인**  
+
+&nbsp; 검사용 JPEG 사진에 서명하여 검토 및 수락을 확인합니다.
+
+
+
+* **보고서 증거 확인**  
+
+&nbsp; 운영 보고서에 사용되는 JPEG 증거에 승인 마커를 적용합니다.
+
+
+
+* **외부 전달 권한 부여**  
+
+&nbsp; JPEG 전달물에 서명하여 공유용으로 승인된 버전임을 확인합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **제출 후 서명 자동화**  
+
+&nbsp; 리뷰어가 승인을 제출한 후 즉시 JPEG 파일에 자동으로 서명합니다.
+
+
+
+* **품질 임계값 게이트 서명**  
+
+&nbsp; 해상도, 크기 및 선명도 검사를 통과한 JPEG 자산에만 서명합니다.
+
+
+
+* **타임스탬프 승인 실행**  
+
+&nbsp; 주기적 감사의 일부로 타임스탬프가 포함된 JPEG 일괄 처리에 프로그래밍적으로 서명합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

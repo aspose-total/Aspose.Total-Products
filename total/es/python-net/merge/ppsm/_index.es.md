@@ -89,7 +89,75 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusión de presentaciones de diapositivas habilitadas para macros utilizando APIs de Python admite la entrega automatizada e interactiva de diapositivas. Estos formatos suelen utilizarse en entornos controlados.
+
+
+
+La automatización garantiza que se conserven los macros y comportamientos de las diapositivas durante la fusión.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* **Ensamblaje interactivo de diapositivas (PPSM)**  
+
+&nbsp; Fusionar archivos de diapositivas habilitados para macros.
+
+
+
+* **Presentación de demostración automatizada (PPSM)**  
+
+&nbsp; Combinar archivos PPSM para demostraciones automatizadas.
+
+
+
+* **Barajas de reproducción controladas (PPSM)**  
+
+&nbsp; Agregar archivos PPSM para presentaciones reguladas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* **Creación de diapositivas basada en reglas (PPSM)**  
+
+&nbsp; Los sistemas fusionan archivos PPSM basados en reglas lógicas.
+
+
+
+* **Preservación de la automatización en el backend (PPSM)**  
+
+&nbsp; La fusión de PPSM conserva los comportamientos interactivos.
+
+
+
+* **Generación de demostraciones programadas (PPSM)**  
+
+&nbsp; Las presentaciones de diapositivas se fusionan automáticamente según horarios.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

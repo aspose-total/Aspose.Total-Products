@@ -76,7 +76,75 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API搜索**PPT**文件可以访问仍存储有价值的业务、培训和战略信息的传统演示文稿。自动化搜索确保旧幻灯片组仍可在规模上可用和可搜索。
+
+
+
+通过将PPT搜索集成到自动化系统中，组织可以减少手动工作量，并从存档的演示内容中解锁见解。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **传统幻灯片内容搜索**  
+
+&nbsp; 在旧PPT演示文稿中查找关键字。
+
+
+
+* **存档演示文稿检索**  
+
+&nbsp; 可发现历史幻灯片组。
+
+
+
+* **PPT文本提取**  
+
+&nbsp; 提取幻灯片文本以进行索引和分析。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化PPT存储库扫描**  
+
+&nbsp; Python作业扫描PPT文件以获取可搜索内容。
+
+
+
+* **PPT存档索引创建**  
+
+&nbsp; 传统演示文稿以程序方式建立索引。
+
+
+
+* **PPT内容集成**  
+
+&nbsp; 提取的数据用于报告和分析工作流。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

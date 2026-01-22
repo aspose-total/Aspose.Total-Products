@@ -78,7 +78,75 @@ Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het samenvoegen van DOCX-documenten met behulp van Python-API's is een veelvoorkomende vereiste voor het genereren van gepolijste, moderne Word-uitvoer op grote schaal. Het biedt nauwkeurige controle over de structuur, opmaak en sectiecontinuïteit over meerdere bronnen.
+
+
+
+Deze mogelijkheid integreert naadloos met geautomatiseerde content-engines, waardoor schaalbare documentgeneratie mogelijk is voor rapporten, handleidingen en gestructureerde documentatie.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Creatie van Rapporten met Meerdere Secties (DOCX)**  
+
+&nbsp; Voeg DOCX-bestanden samen die hoofdstukken vertegenwoordigen tot één rapport.
+
+
+
+* **Herbruikbare Inhoudsmodule (DOCX)**  
+
+&nbsp; Stel herbruikbare DOCX-secties samen tot aangepaste documenten.
+
+
+
+* **Integratie van Redactionele Workflow (DOCX)**  
+
+&nbsp; Combineer door de redacteur goedgekeurde DOCX-bestanden tot definitieve uitvoer.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Dynamische Documentgeneratie (DOCX)**  
+
+&nbsp; Systemen voegen DOCX-bestanden samen op basis van gebruikersinvoer of gegevenscondities.
+
+
+
+* **CI/CD Documentatiepijplijnen (DOCX)**  
+
+&nbsp; Het samenvoegen van DOCX wordt geautomatiseerd als onderdeel van build- en release-workflows.
+
+
+
+* **Schaalbare Publicatie-Automatisering (DOCX)**  
+
+&nbsp; DOCX-documenten met een hoog volume worden op schaal programmatisch samengevoegd.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

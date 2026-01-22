@@ -100,7 +100,75 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Menganalisis **presentasi PPT** menggunakan API Python memungkinkan ekstraksi teks slide, catatan, dan elemen struktural dari file presentasi. Hal ini membuat pengetahuan berbasis slide dapat diakses oleh sistem otomatis.
+
+
+
+Dalam konteks otomatisasi, analisis presentasi mendukung penggunaan kembali konten, ringkasan, dan integrasi ke dalam alur kerja dokumentasi atau analitik.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Ekstraksi Konten Slide**  
+
+  &nbsp; Mengambil judul, poin-poin penting, dan catatan pembicara.
+
+
+
+* **Analisis Arsip Presentasi**  
+
+  &nbsp; Membuat slide deck historis dapat dicari dan dianalisis.
+
+
+
+* **Pipa Pemrosesan Konten Ulang**  
+
+  &nbsp; Mengonversi materi presentasi ke dalam format konten lain.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Ringkasan Slide Otomatis**  
+
+  &nbsp; Menghasilkan ringkasan singkat dari konten slide yang dianalisis.
+
+
+
+* **Populasi Basis Pengetahuan**  
+
+  &nbsp; Memasukkan data presentasi ke dalam repositori terstruktur.
+
+
+
+* **Otomatisasi Perbandingan Versi**  
+
+  &nbsp; Mendeteksi perubahan antara berbagai versi presentasi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -151,7 +219,7 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

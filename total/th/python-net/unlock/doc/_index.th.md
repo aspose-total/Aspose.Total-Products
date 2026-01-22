@@ -72,7 +72,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การปลดล็อกไฟล์ DOC โดยโปรแกรมช่วยให้สามารถเข้าถึงเอกสารประมวลที่ยังคงอยู่ในเอกสารเก่าที่เก็บไว้ในคลังข้อมูล องค์กร และระบบที่ได้รับการควบคุม การเข้าถึงไฟล์เหล่านี้อนุญาตให้องค์กรกู้คืนเนื้อหา ปฏิบัติตามข้อบังคับ และทำให้เอกสารประวัติเป็นปัจจุบัน
+
+
+
+โดยใช้ Python APIs การปลดล็อก DOC สามารถทำได้โดยอัตโนมัติในขอบเขตขนาดใหญ่ รวมเข้ากับท่อรับนำเข้า และฝังลงในกระบวนการประมวลผลเอกสารโดยไม่ต้องมีการแทรกแซงด้วยมือ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* **การกู้คืนเอกสารเก่า**  
+
+&nbsp; ช่วยให้สามารถสกัดเอาเนื้อหาและนำกลับมาใช้จากเอกสารที่ได้รับการป้องกันที่เก็บไว้ในคลังข้อมูลระยะยาว
+
+
+
+* **การตรวจสอบความปฏิบัติตามข้อบังคับ**  
+
+&nbsp; รองรับการตรวจสอบไฟล์ที่ถูกล็อกอยู่อย่างควบคุมในระหว่างการตรวจสอบหรือกระบวนการค้นพบทางกฎหมาย
+
+
+
+* **การย้ายเนื้อหา**  
+
+&nbsp; สะดวกในการแปลงไฟล์ DOC ที่ได้รับการป้องกันอย่างปลอดภัยเป็นรูปแบบที่ทันสมัยสำหรับระบบที่ต่อเนื่อง
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+
+
+* **การประมวลผลคลังข้อมูลเป็นชุด**  
+
+&nbsp; งานอัตโนมัติปลดล็อกปริมาณมากของไฟล์ DOC ในระหว่างการสแกนคลังข้อมูลตามกำหนดเวลา
+
+
+
+* **ท่อรับเข้าที่ขับเคลื่อนโดยนโยบาย**  
+
+&nbsp; การปลดล็อกถูกเรียกใช้โดยอัตโนมัติตามกฎการเข้าถึงและเมตาดาต้าของเอกสาร
+
+
+
+* **การปรับรูปแบบอัตโนมัติ**  
+
+&nbsp; ไฟล์ที่ถูกปลดล็อกจะถูกแปลงโปรแกรมอย่างอัตโนมัติและจัดดัชนีสำหรับแพลตฟอร์มการค้นหา
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

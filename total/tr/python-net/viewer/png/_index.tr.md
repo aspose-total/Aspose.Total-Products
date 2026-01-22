@@ -82,7 +82,73 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri kullanarak PNG görüntüleme, şeffaflık işleme ile yüksek kaliteli, kayıpsız görüntü oluşturmayı destekler.
+
+Bu, görsel doğruluğu ve esnek görüntü entegrasyonunu gerektiren otomasyon senaryoları için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Kayıpsız Görüntü İncelemesi**  
+
+&nbsp; Sıkıştırma artefaktları olmadan görüntüleri görüntüleyin.
+
+
+
+* **Şeffaf Varlık İncelemesi**  
+
+&nbsp; Alfa kanallı görüntüleri doğru bir şekilde inceleyin.
+
+
+
+* **UI Varlık Doğrulaması**  
+
+&nbsp; Uygulamalarda veya belgelerde kullanılan görsel varlıkları inceleyin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Varlık Boru Hattı Otomasyonu**  
+
+&nbsp; Python betikleri PNG dosyalarını derleme veya dağıtım denetimleri sırasında oluşturur.
+
+
+
+* **Dinamik Önizleme Hizmetleri**  
+
+&nbsp; Görüntüler otomatik olarak panolarda veya araçlarda görüntülenir.
+
+
+
+* **Görsel Regresyon Testi**  
+
+&nbsp; Otomatik görüntüleme, karşılaştırma ve doğrulama iş akışlarını destekler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

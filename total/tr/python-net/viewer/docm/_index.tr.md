@@ -90,7 +90,73 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri ile DOCM belgelerini görüntüleme, gömülü mantığı yürütmeden makro destekli belgelerin güvenli denetimini sağlar.
+
+Bu, güvenlik riski olmadan görünürlüğün gerektiği kontrollü ortamlar için esastır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Makro Farkındalıklı Belge İncelemesi**  
+
+&nbsp; Makroları etkisiz hâldeyken içeriği görüntüle.
+
+
+
+* **Güvenlik Odaklı İnceleme**  
+
+&nbsp; Yürütme olmadan belgeleri yapı ve metin açısından incele.
+
+
+
+* **Kontrollü Belge Erişimi**  
+
+&nbsp; Kısıtlı veya otomatik sistemlerde güvenli görüntüleme sağla.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Güvenli Alım Hatları**  
+
+&nbsp; Python otomasyonu, makroları tetiklemeden DOCM içeriğini görüntüler.
+
+
+
+* **Uyumluluk İnceleme Otomasyonu**  
+
+&nbsp; Belgeler, otomatik politika kontrollerinin bir parçası olarak görüntülenir.
+
+
+
+* **Ön Onay İş Akışları**  
+
+&nbsp; Otomatik önizlemeler, insan-oluşlu onayları destekler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

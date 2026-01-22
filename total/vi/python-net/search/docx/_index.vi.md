@@ -76,7 +76,75 @@ Có các tùy chọn thay thế để cài đặt "Aspose.Words for Python via .
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Tìm kiếm tệp **DOCX** bằng Python APIs cung cấp quyền truy cập đáng tin cậy vào các tài liệu xử lý từ văn bản có cấu trúc và hiện đại. Các tệp DOCX chứa văn bản phong phú, tiêu đề, bảng và siêu dữ liệu có thể được phân tích theo cách lập trình để tìm kiếm và truy xuất tiên tiến.
+
+
+
+Tìm kiếm DOCX sẵn sàng tự động hỗ trợ quản lý nội dung có khả năng mở rộng, trích xuất kiến thức và xử lý tài liệu thông minh trên các hệ thống doanh nghiệp.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tìm Kiếm Văn Bản Có Cấu Trúc**  
+
+&nbsp; Cho phép tìm kiếm chính xác trên các tiêu đề, đoạn văn và bảng.
+
+
+
+* **Khám Phá Dựa Trên Siêu Dữ Liệu**  
+
+&nbsp; Sử dụng thuộc tính tài liệu để cải thiện độ chính xác của tìm kiếm.
+
+
+
+* **Tạo Cơ Sở Kiến Thức**  
+
+&nbsp; Chuyển đổi nội dung DOCX thành tài sản kiến thức có thể tìm kiếm.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Cập Nhật Chỉ Mục DOCX Liên Tục**  
+
+&nbsp; Dịch vụ Python theo dõi và chỉ mục các tệp DOCX mới hoặc đã cập nhật.
+
+
+
+* **Phân Loại Nội Dung Tự Động**  
+
+&nbsp; Các tài liệu DOCX được phân loại theo cách lập trình dựa trên nội dung.
+
+
+
+* **Tích Hợp Luồng Công Việc DOCX**  
+
+&nbsp; Kết quả tìm kiếm cung cấp năng lượng động cho bảng điều khiển và hệ thống nội dung.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

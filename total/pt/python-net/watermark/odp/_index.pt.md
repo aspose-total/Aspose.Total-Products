@@ -79,7 +79,85 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/sli
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Adicionar marcas d'água nos arquivos de apresentação **ODP** com APIs Python ajuda a controlar a distribuição de slides marcando a propriedade, confidencialidade ou status de revisão diretamente nos slides.
+
+A automação facilita a aplicação de marcas d'água em arquivos ODP em lote, oferecendo suporte à governança consistente para treinamentos internos, propostas e apresentações de parceiros.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Rotulagem Confidencial de Decks de Slides**  
+
+&nbsp; Aplicar marcas visíveis de confidencialidade em todos os slides para reduzir compartilhamentos não intencionais.
+
+
+
+* **Propriedade de Proposta para Decks de Clientes**  
+
+&nbsp; Adicionar avisos de propriedade para esclarecer o uso permitido do conteúdo da apresentação.
+
+
+
+* **Atribuição de Material de Treinamento**  
+
+&nbsp; Adicionar marcas d'água em decks de treinamento para manter a identidade da fonte ao serem compartilhados entre equipes.
+
+
+
+* **Indicadores de Estágio de Revisão**  
+
+&nbsp; Adicionar sobreposições de "RASCUNHO" ou "PARA REVISÃO" para evitar distribuição prematura.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Injeção de Marca d'água em Toda a Largura do Slide**  
+
+&nbsp; Aplicar programaticamente a mesma marca d'água em todos os slides para uma visibilidade consistente.
+
+
+
+* **Integração com Fluxo de Aprovação**  
+
+&nbsp; Remover automaticamente marcas d'água de rascunho e aplicar marcas finais após aprovações.
+
+
+
+* **Regras de Posicionamento Baseadas em Modelo**  
+
+&nbsp; Colocar marcas d'água com base nos tipos de layout de slide para evitar cobrir conteúdo importante.
+
+
+
+* **Processamento em Lote para Limpeza de Repositório**  
+
+&nbsp; Adicionar marcas d'água em decks ODP legados durante arquivamento ou migração para padronizar políticas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

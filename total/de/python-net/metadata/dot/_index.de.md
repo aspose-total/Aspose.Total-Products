@@ -98,7 +98,93 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Extraktion von Metadaten für **DOT**-Dateien über Python-APIs unterstützt das Verständnis und die Verwaltung von Legacy-Template-Ressourcen, indem eingebettete Eigenschaften wie Vorlagenautor, Erstellungszeiten und beschreibende Felder gelesen werden. Dies ist wichtig für die Standardisierung, Governance und die Aufrechterhaltung konsistenter Dokumentenausgaben in einer Organisation.
+
+
+
+In automatisierten Systemen ermöglichen DOT-Metadaten ein kontrolliertes Template-Lifecycle-Management, indem Pipelines korrekte Vorlagen auswählen, genehmigte Standards durchsetzen und veraltete oder nicht verwaltete Vorlagendateien im großen Maßstab erkennen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Erstellung eines Vorlagenkatalogs**
+
+  Extrahieren von DOT-Metadaten, um ein durchsuchbares Inventar von Vorlagen und deren beabsichtigten Zwecken zu erstellen.
+
+
+
+* **Durchsetzung der Standardisierung**
+
+  Identifizieren Sie genehmigte Vorlagen, indem Sie Eigentums- und beschreibende Eigenschaften überprüfen.
+
+
+
+* **Verfolgung des Vorlagenlebenszyklus**
+
+  Überwachen von Erstellungs-/Änderungszeiten, um veraltete Vorlagen zu erkennen, die überarbeitet oder außer Betrieb genommen werden müssen.
+
+
+
+* **Governance der Vorlagenverwendung**
+
+  Verwenden von Metadaten, um Vorlagen mit Abteilungen oder Workflows zu verknüpfen, um eine kontrollierte Verteilung zu ermöglichen.
+
+
+
+* **Auditfähige Vorlagenprotokolle**
+
+  Erstellen von nachverfolgbaren Protokollen, die die Ursprünge der Vorlagen und die Wartungshistorie für Compliance-Anforderungen zeigen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Genehmigungsverwaltung für Vorlagen**
+
+  Blockieren Sie automatisch nicht genehmigte DOT-Vorlagen basierend auf Metadatenregeln, damit sie nicht in gemeinsamen Repositories gespeichert werden.
+
+
+
+* **Benachrichtigungen für geplante Vorlagenaktualisierungen**
+
+  Auslösen periodischer Benachrichtigungen, wenn DOT-Vorlagen Altersgrenzen überschreiten oder keine Pflegefelder aufweisen.
+
+
+
+* **Automatisierte Vorlagenauswahl**
+
+  Verwenden von Metadaten, um programmgesteuert die richtige DOT-Vorlage für einen bestimmten Workflow oder eine Abteilung auszuwählen.
+
+
+
+* **Workflow zur Bereinigung des Repositories**
+
+  Identifizieren und isolieren Sie doppelte oder veraltete DOT-Vorlagen mithilfe von Metadatenähnlichkeiten und Zeitstempeln.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -98,7 +98,93 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Ekstrakcja metadanych dokumentu dla plików **RTF** za pomocą interfejsów API Pythona pomaga systemom przechwytywać podstawowe właściwości pliku i osadzone deskryptory dla dokumentów w formacie RTF, które często są używane do przenośności i kompatybilności z systemami dziedzicznymi. To wspiera indeksowanie, zarządzanie i śledzenie cyklu życia dla repozytoriów zawierających różne typy dokumentów.
+
+
+
+W zautomatyzowanych procesach roboczych metadane RTF mogą sterować klasyfikacją, trasowaniem i synchronizacją katalogów, umożliwiając skalowalne zarządzanie dokumentami dziedzicznymi lub wymiennymi bez konieczności ręcznej recenzji.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe Zastosowania" %}}
+
+
+
+* **Indeksowanie Repozytorium Z Mieszanymi Formatami**
+
+  Wyodrębnij metadane RTF w celu poprawy możliwości odkrywania i ujednolicenia raportowania w różnych magazynach dokumentów.
+
+
+
+* **Zarządzanie Zawartością Dziedziczną**
+
+  Użyj znaczników czasowych i pól autorstwa do ustalenia opieki i cykli odświeżania dla starszych dokumentów.
+
+
+
+* **Klasyfikacja Masowa Dla Operacji**
+
+  Znormalizuj dostępne właściwości RTF do strukturalnych tagów dla trasowania i kontroli dostępu.
+
+
+
+* **Planowanie Migracji i Konwersji**
+
+  Przeprowadź audyt metadanych RTF w celu priorytetyzacji celów konwersji i identyfikacji brakujących szczegółów dotyczących właściciela.
+
+
+
+* **Kontrola Jakości Przyjmowania**
+
+  Oznaczaj pliki RTF z niekompletnymi lub niezgodnymi metadanymi do prac naprawczych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Normalizacja Przyjmowania Dziedzicznego**
+
+  Automatycznie wyodrębniaj metadane RTF i przekształcaj je w znormalizowane pola dla centralnego rejestru dokumentów.
+
+
+
+* **Orkiestracja Kolejki Konwersji**
+
+  Trasuj pliki RTF do potoków konwersji na podstawie kompletności metadanych i progów przestarzałości.
+
+
+
+* **Automatyczne Przydzielanie Opieki**
+
+  Twórz zadania właścicielskie dla plików RTF pozbawionych właściwości opiekuna, korzystając z kontekstu katalogu oraz sygnałów metadanych.
+
+
+
+* **Okresowe Raporty o Zdrowiu Repozytorium**
+
+  Generuj zaplanowane podsumowania pokrycia metadanych RTF, brakujących pól i dystrybucji starzenia się dla śledzenia zarządzania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

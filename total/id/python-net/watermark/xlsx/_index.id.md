@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Memberi Watermark pada lembar kerja **XLSX** dengan API Python menambahkan tata kelola yang terlihat pada file Excel modern, membantu dalam mengkomunikasikan kerahasiaan, kepemilikan, dan penggunaan yang dimaksud secara langsung dalam dokumen yang penuh data.
+
+Automasi memungkinkan penambahan watermark XLSX yang dapat diskalakan untuk sistem pelaporan, operasi keuangan, dan ekspor analitik di mana label kebijakan yang konsisten diperlukan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Pelabelan Laporan KPI Rahasia**  
+
+&nbsp; Watermark laporan kinerja untuk mengurangi redistribusi yang tidak disengaja.
+
+
+
+* **Berbagi Data Terkendali untuk Ekstraksi Data**  
+
+&nbsp; Tambahkan tanda "HANYA UNTUK INTERNAL" pada dataset yang diekspor untuk memperkuat tata kelola.
+
+
+
+* **Indikator Status Persetujuan untuk Ramalan**  
+
+&nbsp; Tandai "DRAFT" atau "DISETUJUI" pada model perencanaan untuk mencegah salah tafsir.
+
+
+
+* **Identifikasi Lembar Kerja Khusus Pelanggan**  
+
+&nbsp; Tanamkan pengidentifikasi pelanggan pada lembar kerja bersama untuk pelacakan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Watermark Pipa untuk Laporan Otomatis**  
+
+&nbsp; Terapkan watermark saat pembuatan laporan untuk memastikan tata kelola yang konsisten.
+
+
+
+* **Watermark Dinamis dari Kebijakan Akses**  
+
+&nbsp; Hasilkan teks watermark berdasarkan tingkat sensitivitas dan hak akses pengguna.
+
+
+
+* **Cakupan Multi-Lembar Otomatis**  
+
+&nbsp; Pastikan keterlihatan watermark di seluruh lembar dan tampilan yang relevan secara programatis.
+
+
+
+* **Pencetakan Ramah Audit dengan ID**  
+
+&nbsp; Tambahkan watermark yang berisi ID jalankan atau referensi batch untuk mendukung audit otomatis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

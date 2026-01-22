@@ -76,7 +76,75 @@ WORD 비밀번호 보호 앱 또는 유틸리티를 개발해야 합니까?[Aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Word 형식 카테고리는 기안, 보고 및 협업 워크플로에서 사용되는 텍스트 문서를 나타냅니다. Word 파일을 보호하면 문서의 기밀성, 무결성 및 수명 주기 전체에서 제어된 액세스가 보장됩니다.
+
+
+
+Python API를 사용하면 Word 문서 보호를 자동화하여 보안을 현대적인 콘텐츠 및 문서 관리 시스템의 기본 기능으로 만들 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **민감한 콘텐츠 보호**  
+
+&nbsp; 기밀 정보가 포함된 Word 문서를 안전하게 보호합니다.
+
+
+
+* **편집 제한 강화**  
+
+&nbsp; 누가 문서를 수정하거나 검토할 수 있는지 제어합니다.
+
+
+
+* **문서 수명 주기 보안**  
+
+&nbsp; 생성 및 승인 단계에서 파일을 보호합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동화된 Word 파일 보호**  
+
+&nbsp; 문서 생성 중에 보안 규칙을 자동으로 적용합니다.
+
+
+
+* **역할 기반 문서 제어**  
+
+&nbsp; 사용자 역할에 따라 동적으로 Word 파일을 보호합니다.
+
+
+
+* **최종 사용자를 위한 안전한 워크플로우**  
+
+&nbsp; Word 보호를 완전히 자동화된 문서 파이프라인에 통합합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

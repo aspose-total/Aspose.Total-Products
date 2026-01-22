@@ -73,7 +73,83 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API为**XLSX**电子表格添加水印，可以为现代Excel文件增加可见的管理功能，有助于直接在数据密集的交付内容中传达保密性、所有权和预期使用情况。
+
+自动化实现可扩展的XLSX水印标记，适用于需要一致策略标记的报告系统、财务运营和分析导出。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **机密KPI报告标记**  
+
+&nbsp; 添加水印到绩效报告，以减少意外再分发。
+
+
+
+* **数据提取的受控共享**  
+
+&nbsp; 在导出的数据集中添加“仅内部”标记，以加强管理。
+
+
+
+* **预测的批准状态指示**  
+
+&nbsp; 在计划模型上盖章“草稿”或“已批准”，以防止误解。
+
+
+
+* **特定客户工作簿识别**  
+
+&nbsp; 在共享的电子表格中嵌入客户标识，以实现可追溯性。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **用于自动报告的管道水印**  
+
+&nbsp; 在生成报告时应用水印，以确保一致的管理。
+
+
+
+* **根据访问策略生成动态水印**  
+
+&nbsp; 根据敏感级别和用户权限生成水印文本。
+
+
+
+* **自动化的多工作表覆盖**  
+
+&nbsp; 确保以编程方式在相关工作表和视图中可见水印。
+
+
+
+* **包含ID的审计友好盖章**  
+
+&nbsp; 添加包含运行ID或批次参考的水印，以支持自动化审计。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -72,7 +72,75 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Words for Python via 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Tài liệu Word, bất kể cấu trúc nội bộ, thường được bảo vệ để kiểm soát chỉnh sửa và truy cập. Mở khóa chúng theo cách tự động cho phép truy cập có cấu trúc cho tự động hóa, phân tích và tích hợp hệ thống.
+
+
+
+API Python cho phép mở khóa tài liệu Word được nhúng một cách an toàn vào các đường ống tài liệu, đảm bảo hiệu quả và khả năng lặp lại.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Xử Lý Tài Liệu Thống Nhất**  
+
+&nbsp; Cho phép xử lý nhất quán của các tệp xử lý từng từ được bảo vệ.
+
+
+
+* **Đánh Giá Nội Dung Tự Động**  
+
+&nbsp; Hỗ trợ kiểm tra tài liệu bị khóa mà không cần bước thủ công.
+
+
+
+* **Tích Hợp Hệ Thống Với Hệ Thống**  
+
+&nbsp; Cho phép các tệp Word được bảo vệ lưu thông qua các nền tảng tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Đường Ống Tài Liệu Từ Đầu Đến Cuối**  
+
+&nbsp; Các tệp Word được mở khóa tự động vào thời gian tiếp nhận.
+
+
+
+* **Truy Cập Tài Liệu Dựa Trên Chính Sách**  
+
+&nbsp; Mở khóa được kích hoạt bởi các quy tắc làm việc và quyền hạn.
+
+
+
+* **Tối Ưu Hóa Nội Dung Liên Tục**  
+
+&nbsp; Các tài liệu được bảo vệ được mở khóa để cải thiện tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -123,7 +191,7 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Words for Python via 
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

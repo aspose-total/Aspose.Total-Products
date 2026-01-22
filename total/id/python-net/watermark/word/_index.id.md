@@ -79,7 +79,85 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Memberi watermark pada dokumen **Word** dengan Python APIs membantu melindungi file teks bisnis dengan menyematkan label-label yang terlihat untuk kepemilikan, kerahasiaan, dan aturan distribusi dalam dokumen yang sering dibagikan dan diedit.
+
+Automatisasi memungkinkan watermarking Word yang konsisten di seluruh tim dan perpustakaan dokumen, mengurangi upaya manual sambil menegakkan tata kelola dan kejelasan alur kerja.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Dokumen Kebijakan Rahasia**  
+
+&nbsp; Tambahkan tanda kerahasiaan untuk mengurangi pengiriman tidak sengaja pedoman internal.
+
+
+
+* **Tata Kelola Draft untuk Dokumen Kolaboratif**  
+
+&nbsp; Tandai label "DRAFT" untuk mencegah versi lama diperlakukan sebagai final.
+
+
+
+* **Atribusi Pengiriman Klien**  
+
+&nbsp; Watermark file Word yang dibagikan untuk menjelaskan kepemilikan dan penggunaan kembali yang diizinkan.
+
+
+
+* **Pemberian Label Output Template yang Terkendali**  
+
+&nbsp; Pastikan dokumen Word yang dihasilkan secara otomatis termasuk kebijakan watermark standar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Otomatisasi Watermark dari Template ke Dokumen**  
+
+&nbsp; Terapkan watermark segera setelah menghasilkan dokumen Word dari data terstruktur.
+
+
+
+* **Pengalihan Status Alur Kerja Berbasis Watermark**  
+
+&nbsp; Ubah teks watermark secara otomatis ketika dokumen berpindah dari draf ke disetujui.
+
+
+
+* **Penegakan Kebijakan Unggah Repositori**  
+
+&nbsp; Watermark file Word saat diunggah ke folder teratur atau sistem manajemen kasus.
+
+
+
+* **Watermarking Khusus Penerima untuk Berbagi**  
+
+&nbsp; Sematkan pengenal penerima untuk meningkatkan jejak ketika dokumen dibagikan secara eksternal.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

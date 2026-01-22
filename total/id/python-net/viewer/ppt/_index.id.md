@@ -89,7 +89,73 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Melihat file PPT dengan API Python memungkinkan inspeksi dokumen presentasi warisan yang digunakan dalam sistem-sistem lama.
+
+Ini mendukung otomatisasi di mana kompatibilitas mundur diperlukan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Ulasan Presentasi Warisan**  
+
+  Lihat dek slide lama secara programatik.
+
+
+
+* **Dukungan Migrasi Konten**  
+
+  Periksa presentasi sebelum mengupgrade format.
+
+
+
+* **Validasi Presentasi**  
+
+  Pastikan data slide tetap utuh.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pipa Audit Warisan**  
+
+  Alur kerja Python merender file PPT untuk inspeksi.
+
+
+
+* **Validasi Pra-Konversi**  
+
+  Melihat memastikan migrasi format yang aman.
+
+
+
+* **Ulasan Presentasi Batch**  
+
+  Koleksi besar diperiksa secara otomatis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

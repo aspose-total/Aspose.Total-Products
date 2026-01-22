@@ -89,7 +89,73 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri ile PowerPoint sunumlarını görüntülemek, slayt tabanlı içeriğe programatik erişim sağlayarak inceleme ve doğrulama için olanak tanır.
+
+Bu, otomatik raporlama, sunum iş akışları ve içerik boru hatlarını destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Slayt İçeriği İnceleme**  
+
+&nbsp; Sunum yazılımını açmadan slaytları sıralı olarak görüntüleyin.
+
+
+
+* **Sunum Kalitesi Kontrolleri**  
+
+&nbsp; Sunumlar arasındaki düzeni ve metni inceleyin.
+
+
+
+* **Rapor Otomasyonu Desteği**  
+
+&nbsp; Dağıtımdan önce oluşturulan sunumları doğrulayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik Slayt Oluşturma İncelemesi**  
+
+&nbsp; Python iş akışları, otomatik oluşturulmuş slaytları görüntüler.
+
+
+
+* **Toplu Sunum Denetimleri**  
+
+&nbsp; Birden fazla sunum programatik olarak incelenir.
+
+
+
+* **Paydaşlar için Önizleme Hizmetleri**  
+
+&nbsp; Slaytlar onay iş akışları için dinamik olarak oluşturulur.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

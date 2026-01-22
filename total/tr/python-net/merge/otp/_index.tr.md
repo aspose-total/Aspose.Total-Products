@@ -79,7 +79,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri kullanarak sunum şablon formatlarını birleştirmek, açık ve özel ekosistemlerde tutarlı slayt oluşturmayı sağlar. Şablon birleştirme, yapısal bir birliktelik sağlar.
+
+
+
+Otomasyon, öngörülebilir düzenlerle hızlı sunum oluşturmayı destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Şablon Odaklı Sunum Montajı (OTP)**  
+
+&nbsp; OTP şablonlarını standartlaştırılmış desteler halinde birleştirin.
+
+
+
+* **Tekrar Kullanılabilir Slayt Çerçeveleri (OTP)**  
+
+&nbsp; Tutarlılık için OTP tabanlı yapıları birleştirin.
+
+
+
+* **Tasarım Standartlaştırma (OTP)**  
+
+&nbsp; OTP şablonlarını birleştirilmiş formatlara toplayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik Şablon Uygulaması (OTP)**  
+
+&nbsp; OTP şablonları programatik olarak birleştirilir.
+
+
+
+* **Toplu Sunum Oluşturma (OTP)**  
+
+&nbsp; Şablonlar zamanlanmış çalışmalar sırasında birleştirilir.
+
+
+
+* **Düzen Kontrollü Borular (OTP)**  
+
+&nbsp; Sistemler, şablon birleştirme aracılığıyla yapıyı zorlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

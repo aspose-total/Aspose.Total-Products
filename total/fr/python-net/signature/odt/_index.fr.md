@@ -71,7 +71,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La signature des documents ODT à l'aide des API Python permet aux documents texte au format ouvert de porter des marqueurs d'approbation vérifiés et des métadonnées de signataire. Cela soutient les cycles de vie de la documentation contrôlée sans dépendre de formats propriétaires.
+
+
+
+Dans les pipelines d'automatisation, la signature ODT garantit que les approbations sont appliquées de manière cohérente au moment de la clôture de l'examen, améliorant ainsi l'auditabilité et réduisant la manipulation manuelle des documents.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Approbation de la politique au format ouvert**  
+
+&nbsp; Signez les documents de politique ODT pour confirmer la révision finale et l'autorisation.
+
+
+
+* **Clôture du flux de travail éditorial**  
+
+&nbsp; Appliquez des signatures aux brouillons ODT lorsque la révision du contenu est terminée.
+
+
+
+* **Gouvernance de la base de connaissances interne**  
+
+&nbsp; Signez les documents ODT avant de les publier dans des référentiels partagés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Déclencheur de finalisation de l'évaluateur**  
+
+&nbsp; Signez automatiquement les fichiers ODT lorsque tous les évaluateurs assignés ont terminé les approbations.
+
+
+
+* **Porte de publication du référentiel**  
+
+&nbsp; Signez les documents ODT avant qu'ils ne soient poussés à la publication de la base de connaissances.
+
+
+
+* **Injection automatisée de piste de vérification**  
+
+&nbsp; Attachez l'identité du signataire et les métadonnées de l'horodatage lors des exécutions de signature ODT.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

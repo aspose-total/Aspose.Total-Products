@@ -73,7 +73,85 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Vízjel készítése **JPG** fájlokhoz Python API-k segítségével támogatja a közös képmegosztási folyamatokat a leggyakrabban használt webes képformátumhoz egyértelmű tulajdonjelzések, igazoló címkék és terjesztési szabályok hozzáadásával.
+
+Az automatizált JPG vízjel készítés ideális nagy teljesítményű csővezetékek esetén, ahol sok eszköz esetén szükséges a következetes elhelyezés és ismételhető stílus.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Fő felhasználási esetek" %}}
+
+
+
+* **Tömeges márkaépítés képkönyvtárakhoz**  
+
+&nbsp; Vízjelezze nagy mennyiségű JPG eszközt az azonos arculat fenntartása érdekében a csatornákon.
+
+
+
+* **Előzetes tartalomvédelem**  
+
+&nbsp; Adjon hozzá "NEM KÖZZÉTÉTELRE" átfedéseket a véletlen korai közzététel megakadályozása érdekében.
+
+
+
+* **Értékesítési segédanyagok előnézeti jelölése**  
+
+&nbsp; Jelölje meg előnézeti címkékkel a JPG vizuális elemeket, amelyeket ajánlatokban és pitchekben használnak.
+
+
+
+* **Partnereszköz hozzárendelés**  
+
+&nbsp; Ágyazza be az attribúciós vízjeleket megosztott médiához az forrás nyomon követésének javítása érdekében.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Mappa alapú automatikus bélyegzés**  
+
+&nbsp; Az új JPG fájlok észlelése figyelőmappákban és az azonnali vízjelezésük.
+
+
+
+* **Vízjel méretének automatikus skálázása**  
+
+&nbsp; A vízjel méretének automatikus beállítása a felbontás és az oldalarány alapján.
+
+
+
+* **Többnyelvű vízjel generálás**  
+
+&nbsp; Helyi vízjeles szövegek előállítása a célcsoport vagy régió szabályai alapján.
+
+
+
+* **Duplikált változat létrehozása**  
+
+&nbsp; Kerülje el az újra feldolgozást már vízjellel ellátott JPG-k követésével az automatizálásban.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

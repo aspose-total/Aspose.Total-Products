@@ -85,7 +85,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Unione di immagini TIFF utilizzando le API di Python supporta flussi di lavoro di immagini ad alta risoluzione e multi-pagina comunemente utilizzati nella stampa, nell'immagine medica e nella scansione di documenti.
+
+
+
+L'automazione consente una gestione affidabile di set di immagini grandi e ricchi di dettagli.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* **Assemblaggio di Scansioni Multi-Pagina (TIFF)**  
+
+&nbsp; Unisci le pagine TIFF in un unico file multi-pagina.
+
+
+
+* **Elaborazione di Immagini ad Alta Risoluzione (TIFF)**  
+
+&nbsp; Combina le immagini TIFF per un'analisi dettagliata.
+
+
+
+* **Compilazione di Immagini Pronte per la Stampa (TIFF)**  
+
+&nbsp; Aggrega i file TIFF per flussi di lavoro di pubblicazione.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Pipeline di Scansione Automatica (TIFF)**  
+
+&nbsp; I sistemi uniscono i file TIFF durante l'ingestione della scansione.
+
+
+
+* **Elaborazione Batch ad Alta Risoluzione (TIFF)**  
+
+&nbsp; L'unione di TIFF viene eseguita in lavori pianificati.
+
+
+
+* **Automazione dell'Immaginazione Aziendale (TIFF)**  
+
+&nbsp; I flussi di lavoro automatizzati gestiscono grandi set di dati TIFF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -152,7 +220,7 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

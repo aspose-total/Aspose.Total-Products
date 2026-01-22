@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用してODT文書に署名することで、検証済みの承認マーカーや署名者メタデータを持つオープンフォーマットのテキスト文書を作成できます。これにより、プロプライエタリフォーマットに依存せずに制御された文書ライフサイクルをサポートします。
+
+
+
+自動化パイプラインでは、ODT署名により承認が一貫してレビュークローズ時に適用され、監査可能性が向上し、手動文書処理が削減されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+
+
+* **オープンフォーマットポリシー承認**  
+
+&nbsp; ODTポリシードキュメントに署名して最終レビューと承認を確認します。
+
+
+
+* **編集ワークフロークローズ**  
+
+&nbsp; コンテンツレビューが完了した時点でODTドラフトに署名を適用します。
+
+
+
+* **内部ナレッジベースガバナンス**  
+
+&nbsp; 共有リポジトリに公開する前にODT文書に署名します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **レビュア完了トリガー**  
+
+&nbsp; 割り当てられたすべてのレビュアが承認を完了したときに自動的にODTファイルに署名します。
+
+
+
+* **リポジトリ公開ゲート**  
+
+&nbsp; ナレッジベース公開前にODT文書に署名します。
+
+
+
+* **自動監査トレイルインジェクション**  
+
+&nbsp; ODT署名実行中に署名者のアイデンティティとタイムスタンプメタデータを添付します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

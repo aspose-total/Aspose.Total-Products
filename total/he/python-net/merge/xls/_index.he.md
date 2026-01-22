@@ -75,7 +75,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+מיזוג מסמכי Excel וגיליונות עבודה באמצעות Python APIs הוא חיוני לאיחוד נתונים מובנים ממקורות מרובים לקובץ אחד שניתן לניתוח. היכולת הזו משמשת בצורה נרחבת בדיווחים, ניתוחים, פיננסים ומערכות תפעוליות בהן הנתונים מתפזרים בין גיליונות עבודה רבים.
+
+
+
+מיזוג גיליונות עבודה המופעל על ידי אוטומציה מאפשר טיפול נתונים עקבי, מפחית שגיאות ידניות ומשתלב ישירות את זרימות העבודה של הגיליונות האלה בתוך צינורות עיבוד נתונים וסולמות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **איחוד גיליונות עבודה מוזקפים (XLS)**  
+
+&nbsp; לשלב קבצי XLS ישנים לתוך חוברת עבודה אחת לניתוח מאוחד.
+
+
+
+* **איגוד נתונים מחלקתי (XLS)**  
+
+&nbsp; למזג גיליונות עבודה מ-XLS ממספר צוותים לקובץ אחד.
+
+
+
+* **איחוד נתונים היסטורי (XLS)**  
+
+&nbsp; לאחד נתוני XLS מאורכבים לצורך דיווח והעברת נתונים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **איחוד נתונים מתוזמנים (XLS)**  
+
+&nbsp; משרות אוטומטיות ממזגות קבצי XLS תקופתיים לדוחות מאוחדים.
+
+
+
+* **הפיכת נתונים בקאק לרגילים (XLS)**  
+
+&nbsp; מערכות ממזגות קבצי XLS כחלק מזרימות עבודה לניקוי נתונים.
+
+
+
+* **אספקת גיליונות עבודה על בסיס צינור (XLS)**  
+
+&nbsp; מיזוג XLS מופעל באופן תכנותי בצינורות ETL.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

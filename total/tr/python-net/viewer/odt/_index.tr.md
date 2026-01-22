@@ -90,7 +90,73 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri ile ODT dosyalarını görüntülemek, standart tabanlı iş akışlarında kullanılan açık metin belgelerinin incelenmesini sağlar.
+
+Bu, mülkiyet bağımlılığı olmadan belge odaklı sistemlerde otomasyonu destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Açık Belge İncelemesi**  
+
+&nbsp; Açık formatlardaki metin belgelerini görüntüleyin.
+
+
+
+* **İçerik Bütünlüğü Kontrolleri**  
+
+&nbsp; Belge yapısını ve metni inceleyin.
+
+
+
+* **Çapraz Sistem Uyumluluğu**  
+
+&nbsp; Belgelerin farklı ortamlarda doğru şekilde görüntülenmesini sağlayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik Belge İş Akışları**  
+
+&nbsp; Python işlemleri iş akışları sırasında ODT dosyalarını oluşturur.
+
+
+
+* **Uygunluk Doğrulaması**  
+
+&nbsp; Belgeler standartlarla uyumlu olarak görüntülenir.
+
+
+
+* **Önizleme Oluşturma**  
+
+&nbsp; Otomatik görüntüleyiciler inceleme iş akışlarını destekler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

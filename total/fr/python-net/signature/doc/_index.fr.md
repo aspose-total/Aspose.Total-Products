@@ -71,7 +71,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La signature programmatique des fichiers DOC permet aux anciens documents Word de porter des indicateurs d'approbation formelle sans conversion de format. Cela préserve la compatibilité avec les anciens systèmes de documents tout en ajoutant une gouvernance.
+
+
+
+L'automatisation basée sur Python garantit que la signature des fichiers DOC se fait de manière cohérente, réduisant l'intervention manuelle dans les flux de travail hérités riches en documents.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Approbation de contrats hérités**  
+
+&nbsp; Ajouter les détails du signataire aux contrats DOC utilisés dans les anciens systèmes.
+
+
+
+* **Validation de signature de documents de politique**  
+
+&nbsp; Marquer les politiques DOC comme révisées et approuvées.
+
+
+
+* **Validation de documents basée sur des modèles**  
+
+&nbsp; Signer les modèles DOC après des vérifications de complétion.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Signature déclenchée par la complétion des champs**  
+
+&nbsp; Les fichiers DOC sont signés une fois que les champs obligatoires sont remplis.
+
+
+
+* **Intégration des flux de travail d'approbation**  
+
+&nbsp; La signature est déclenchée par les mises à jour d'état d'approbation en backend.
+
+
+
+* **Certification d'archive héritée**  
+
+&nbsp; Les fichiers DOC sont signés avant d'être archivés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

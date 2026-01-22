@@ -89,7 +89,85 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La marca de agua de documentos **ODT** con APIs de Python ayuda a proteger los archivos de texto de documentos abiertos agregando marcas claras de propiedad y confidencialidad mientras se mantiene el contenido accesible en ecosistemas abiertos.
+
+La automatización permite aplicar reglas de marca de agua consistentes en bibliotecas ODT, lo que respalda la gobernanza de documentos escalable para equipos que utilizan formatos abiertos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* **Etiquetado de Políticas de Formato Abierto**  
+
+&nbsp; Estampar documentos ODT con "INTERNO" o "CONFIDENCIAL" para reducir errores de enrutamiento.
+
+
+
+* **Control de Borradores para Escritura Colaborativa**  
+
+&nbsp; Aplicar superposiciones de "BORRADOR" durante ciclos de edición iterativos.
+
+
+
+* **Avisos de Distribución para Documentos Compartidos**  
+
+&nbsp; Agregar restricciones de reutilización a documentos compartidos con contratistas o socios.
+
+
+
+* **Preservación de Identidad de Archivo**  
+
+&nbsp; Marcar archivos ODT exportados para que la propiedad sea visible incluso después de copiar entre sistemas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+
+
+* **Generador de Documentos + Paso de Marca de Agua**  
+
+&nbsp; Marcar automáticamente archivos ODT producidos a partir de plantillas o datos estructurados.
+
+
+
+* **Cumplimiento de Políticas de Repositorio**  
+
+&nbsp; Aplicar marcas de agua cuando los ODT se cargan en carpetas reguladas.
+
+
+
+* **Cambio Automatizado de Marca de Agua de Versión**  
+
+&nbsp; Cambiar el texto de la marca de agua según el estado de la versión (borrador, revisión, final) de forma programática.
+
+
+
+* **Tuberías de Exportación de Cumplimiento**  
+
+&nbsp; Estampar exportaciones de ODT utilizadas para auditorías para garantizar un etiquetado consistente en todas las presentaciones.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

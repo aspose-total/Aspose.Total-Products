@@ -73,7 +73,75 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Pliki programu PowerPoint przechowują treści wizualne oparte na slajdach używane w prezentacjach i raportach. Dzielenie plików PowerPoint umożliwia szczegółowy dostęp do poszczególnych slajdów lub grup slajdów.
+
+
+
+Automatyzacja oparta na Pythonie umożliwia skalowalną manipulację treścią prezentacji w nowoczesnych przepływach pracy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Ponowne wykorzystanie slajdów w różnych prezentacjach**  
+
+&nbsp; Wyodrębnij slajdy do ponownego wykorzystania w nowych zestawach.
+
+
+
+* **Zarządzanie treścią prezentacji**  
+
+&nbsp; Zarządzaj slajdami niezależnie w skali.
+
+
+
+* **Przepływy pracy z recenzją i zatwierdzaniem**  
+
+&nbsp; Udostępnij interesujące slajdy tylko zainteresowanym stronom.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Automatyczne segmentowanie slajdów**  
+
+&nbsp; Skrypty Pythona dzielą zestawy na jednostki slajdów.
+
+
+
+* **Dynamiczne generowanie zestawów**  
+
+&nbsp; Slajdy są składane na podstawie reguł.
+
+
+
+* **Systemy wersjonowania prezentacji**  
+
+&nbsp; Śledź zmiany na poziomie slajdu automatycznie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

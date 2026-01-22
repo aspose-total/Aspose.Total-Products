@@ -82,7 +82,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API查看PDF可以实现跨平台的一致、保留布局的访问已完成文档。
+
+这对于自动化审查、存档和合规工作流至关重要。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **最终文档审查**  
+
+  查看固定布局文档，与分发的文档完全一致。
+
+
+
+* **跨平台一致性**  
+
+  确保文档在所有环境中呈现完全相同。
+
+
+
+* **监管检查**  
+
+  在不修改的情况下审查符合合规标准的文档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动合规检查**  
+
+  PDF在验证和审计工作流程中呈现。
+
+
+
+* **预览生成系统**  
+
+  Python服务显示PDF供用户预览。
+
+
+
+* **存档验证**  
+
+  定期查看存储的文档以确认完整性。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

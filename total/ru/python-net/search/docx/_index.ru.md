@@ -76,7 +76,75 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Поиск файлов **DOCX** с помощью Python API обеспечивает надежный доступ к структурированным и современным документам обработки текста. Файлы DOCX содержат форматированный текст, заголовки, таблицы и метаданные, которые могут быть программно проанализированы для расширенного поиска и извлечения.
+
+
+
+Поиск DOCX, готовый к автоматизации, поддерживает масштабное управление контентом, извлечение знаний и интеллектуальную обработку документов в предприятии.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Поиск по структурированному тексту**  
+
+&nbsp; Позволяет точно искать по заголовкам, абзацам и таблицам.
+
+
+
+* **Поиск на основе метаданных**  
+
+&nbsp; Использует свойства документа для повышения точности поиска.
+
+
+
+* **Генерация базы знаний**  
+
+&nbsp; Преобразует содержимое DOCX в поисковые активы знаний.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Постоянное обновление индекса DOCX**  
+
+&nbsp; Сервисы Python отслеживают и индексируют новые или обновленные файлы DOCX.
+
+
+
+* **Автоматическая классификация контента**  
+
+&nbsp; Документы DOCX категоризируются программно на основе содержимого.
+
+
+
+* **Интеграция рабочего процесса DOCX**  
+
+&nbsp; Результаты поиска динамически подают питание панелям и системам контента.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

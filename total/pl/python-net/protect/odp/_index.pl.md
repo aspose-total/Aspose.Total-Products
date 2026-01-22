@@ -71,7 +71,75 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Pliki ODP są powszechnie używane w standardowych przepływach pracy prezentacyjnej. Zabezpieczenie tych plików prezentacyjnych zapewnia, że treść wizualna i komunikaty pozostaną nietknięte podczas udostępniania i współpracy.
+
+
+
+Z użyciem interfejsów API Pythona prezentacje ODP mogą być automatycznie zabezpieczone, umożliwiając bezpieczne zarządzanie w ramach skalowalnych systemów generowania i dostarczania prezentacji.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Ochrona Integralności Prezentacji**  
+
+  Zapobiegaj nieautoryzowanym modyfikacjom slajdów i układów.
+
+
+
+* **Poufne Briefingi**  
+
+  Zabezpiecz poufne prezentacje przed udostępnianiem wewnętrznym lub zewnętrznym.
+
+
+
+* **Standaryzowane Zarządzanie Prezentacjami**  
+
+  Zastosuj spójne zasady ochrony we wszystkich plikach ODP.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Automatyczne Zabezpieczanie Pokazu Slajdów**  
+
+  Zabezpieczaj pliki ODP natychmiast po ich automatycznym utworzeniu.
+
+
+
+* **Egzekwowanie Bezpieczeństwa na Podstawie Potoku**  
+
+  Stosuj zabezpieczenia podczas przepływów pracy treści w stylu CI/CD.
+
+
+
+* **Ograniczenia Dostępu Programistycznego**  
+
+  Kontroluj prawa do edycji i przeglądania dynamicznie za pomocą skryptów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+מסמכי Word מכילים מגוון של פורמטים מובנים של טקסט המשמשים בתהליכי עבודה עסקיים וטכניים. פיצול מסמכי Word מאפשר גישה ממוקדת לקטעי תוכן רלוונטיים.
+
+
+
+הפיצול המבוסס על Python תומך באוטומציה על ידי אפשרות טיפול תיעודי עקבי וקליטתי במסמכים בין מערכות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **עיבוד תוכן בהתבנית של קטעים**  
+
+&nbsp; טיפול בפרקים או קטעים באופן עצמאי.
+
+
+
+* **אופטימיזציה של מסמך גדול**  
+
+&nbsp; שיפור בביצועים על ידי פיצול קבצים גדולים.
+
+
+
+* **ממשלת תוכן**  
+
+&nbsp; יישום כללים על חלקי המסמך הפרטיים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **צינורות עיבוד מסמך מאוחדים**  
+
+&nbsp; מסמכי Word מתוחזקים ומעובדים באופן אוטומטי.
+
+
+
+* **הפניית תוכן אוטומטית**  
+
+&nbsp; קטעים נשלחים למערכות שונות בהתאם ללוגיקה.
+
+
+
+* **חילוץ ידע ניתן להתפשטות**  
+
+&nbsp; קטעים שנחלצים מגושים מזינים לניתוחים או לתהליכי עבודת AI.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

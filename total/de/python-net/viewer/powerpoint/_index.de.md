@@ -89,7 +89,73 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Das Anzeigen von PowerPoint-Präsentationen mit Python-APIs ermöglicht den programmgesteuerten Zugriff auf Inhalte auf Folienbasis zur Überprüfung und Validierung.
+
+Dies unterstützt automatisierte Berichterstellung, Präsentations-Workflows und Inhalts-Pipelines.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Überprüfung des Folieninhalts**  
+
+&nbsp; Folien nacheinander anzeigen, ohne Präsentationssoftware zu öffnen.
+
+
+
+* **Qualitätsprüfung der Präsentation**  
+
+&nbsp; Layout und Text in Präsentationen überprüfen.
+
+
+
+* **Unterstützung bei der Automatisierung von Berichten**  
+
+&nbsp; Generierte Präsentationen vor der Verteilung validieren.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Automatisierte Überprüfung der Folgenerstellung**  
+
+&nbsp; Python-Workflows zeigen Folien nach automatischer Erstellung an.
+
+
+
+* **Stapelprüfungen von Präsentationen**  
+
+&nbsp; Mehrere Präsentationen werden programmgesteuert überprüft.
+
+
+
+* **Vorschau-Services für Stakeholder**  
+
+&nbsp; Folien werden dynamisch für Genehmigungs-Workflows gerendert.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

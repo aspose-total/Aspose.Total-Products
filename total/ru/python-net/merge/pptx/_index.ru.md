@@ -79,7 +79,69 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Объединение презентаций PPTX с использованием Python API - наиболее распространенный подход для создания современных слайдов. Это позволяет точно контролировать порядок слайдов, макеты и согласованность контента.
+
+
+
+Эта возможность интегрируется чисто с автоматизированными движками контента и системами отчетности.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Создание многосекционной презентации (PPTX)**  
+&nbsp; Объединение файлов PPTX, представляющих секции, в одну презентацию.
+
+
+
+* **Интеграция коллективных слайдов (PPTX)**  
+&nbsp; Объединение слайдов PPTX, созданных несколькими авторами.
+
+
+
+* **Сборка модульных слайдов (PPTX)**  
+&nbsp; Сборка модульных слайдов PPTX в индивидуальные презентации.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Генерация динамической презентации (PPTX)**  
+&nbsp; Системы объединяют файлы PPTX на основе входных данных во время выполнения.
+
+
+
+* **Презентационные конвейеры CI/CD (PPTX)**  
+&nbsp; Объединение PPTX автоматизировано на этапах сборки или выпуска.
+
+
+
+* **Масштабируемая публикация презентаций (PPTX)**  
+&nbsp; Программно генерируются презентации PPTX большого объема.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

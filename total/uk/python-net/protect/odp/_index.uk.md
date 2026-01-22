@@ -71,7 +71,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODP файли часто використовуються для робочих процесів презентацій за відкритими стандартами. Захист цих презентаційних файлів забезпечує цілісність візуального контенту та повідомлень під час обміну та співпраці.
+
+
+
+За допомогою Python API можна автоматично захищати презентації ODP, що дозволяє безпечно обробляти їх у масштабованих системах генерації та доставки презентацій.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+
+
+
+* **Захист цілісності презентації**  
+
+&nbsp; Запобігання несанкціонованим змінам слайдів та макетів.
+
+
+
+* **Конфіденційні брифінги**  
+
+&nbsp; Захист чутливих презентацій перед внутрішнім або зовнішнім обміном.
+
+
+
+* **Стандартизоване управління презентаціями**  
+
+&nbsp; Застосування послідовних правил захисту до всіх файлів ODP.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Автоматичний захист слайдів**  
+
+&nbsp; Захист ODP файлів безпосередньо після автоматичного створення.
+
+
+
+* **Застосування захисту на основі конвеєра**  
+
+&nbsp; Застосування захисту під час робочих процесів змісту у стилі CI/CD.
+
+
+
+* **Обмеження програмного доступу**  
+
+&nbsp; Керування правами на редагування та перегляд динамічно за допомогою скриптів.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

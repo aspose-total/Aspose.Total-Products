@@ -76,7 +76,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'lerini kullanarak **ODT** dosyalarını aramak, açık belge standartlarıyla uyumluluğu sağlarken verimli içerik keşfini mümkün kılar. ODT belgeleri genellikle taşınabilirlik ve şeffaflığın önemli olduğu açık kaynak ve işbirlikçi ortamlarda kullanılır.
+
+
+
+Otomatik ODT araması, etkileşimliliği artırır, ölçeklenebilir belge analizini destekler ve modern otomasyon boru hatlarıyla temiz bir şekilde entegre olur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Açık-Format Belge Araması**  
+
+&nbsp; ODT tabanlı belgeler içinde anahtar kelimeleri bulur.
+
+
+
+* **İşbirlikçi İçerik İncelemesi**  
+
+&nbsp; Paylaşılan açık belgeler arasında hızlı arama yapmayı sağlar.
+
+
+
+* **Politika ve Belge Analizi**  
+
+&nbsp; ODT dosyaları içinde gerekli bölümleri tanımlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik ODT İndeks Oluşturma**  
+
+&nbsp; Python betikleri ODT dosyalarından aranabilir indeksler oluşturur.
+
+
+
+* **ODT Değişiklik Tespiti**  
+
+&nbsp; Programlı taramalar güncellenmiş veya değiştirilmiş içerikleri belirler.
+
+
+
+* **ODT İçerik Boru Hatları**  
+
+&nbsp; Çıkarılan veriler otomatik yayınlama ve inceleme sistemlerine besleme sağlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -90,7 +90,73 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La visualisation des fichiers DOC à l'aide des API Python permet un accès structuré aux documents de traitement de texte hérités à des fins de lecture et d'inspection.
+
+Cela prend en charge la manipulation automatisée de documents dans les systèmes qui dépendent encore de normes de fichiers plus anciennes.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Inspection de documents hérités**  
+
+&nbsp; Ouvrez et visualisez d'anciens documents texte sans conversion manuelle.
+
+
+
+* **Vérification de contenu**  
+
+&nbsp; Examinez le texte et la mise en page du document de manière programmable pour garantir l'exactitude.
+
+
+
+* **Support de migration de documents**  
+
+&nbsp; Inspectez les fichiers DOC avant de les transformer en nouveaux formats.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Audits hérités automatisés**  
+
+&nbsp; Les flux de travail Python rendent les fichiers DOC pour confirmer leur lisibilité avant le traitement.
+
+
+
+* **Examen automatisé de documents en lot**  
+
+&nbsp; Les grandes collections de documents sont visualisées automatiquement pour des vérifications de conformité.
+
+
+
+* **Validation préalable à la conversion**  
+
+&nbsp; Les visualiseurs automatisés garantissent que les documents sont intacts avant les mises à niveau de format.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

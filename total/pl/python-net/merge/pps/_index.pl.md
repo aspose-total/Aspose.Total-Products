@@ -79,7 +79,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Łączenie formatów prezentacji PowerPoint za pomocą interfejsów API w języku Python umożliwia tworzenie spójnych prezentacji gotowych do odtworzenia. Te formaty są przeznaczone do bezpośredniej prezentacji, a nie do edycji.
+
+
+
+Automatyzacja zapewnia spójne dostarczanie prezentacji w zespołach i podczas wydarzeń.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Montaż sekwencji prezentacji (PPS)**  
+
+&nbsp; Łączenie plików PPS w jednolity przepływ prezentacji.
+
+
+
+* **Kompilacja prezentacji wydarzenia (PPS)**  
+
+&nbsp; Łączenie plików prezentacji dla konferencji lub spotkań.
+
+
+
+* **Pakowanie odtwarzania prezentacji (PPS)**  
+
+&nbsp; Łączenie plików PPS w jedną wykonywalną prezentację.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Automatyczne przygotowanie zestawu prezentacji wydarzenia (PPS)**  
+
+&nbsp; Systemy łączą pliki PPS przed zaplanowanymi wydarzeniami.
+
+
+
+* **Generowanie prezentacji z tyłu (PPS)**  
+
+&nbsp; Łączenie PPS jest uruchamiane programowo.
+
+
+
+* **Automatyzacja dostarczania prezentacji (PPS)**  
+
+&nbsp; Prezentacje są łączone automatycznie do odtwarzania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

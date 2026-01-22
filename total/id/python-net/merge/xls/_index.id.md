@@ -78,7 +78,69 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Menggabungkan dokumen Excel dan spreadsheet menggunakan Python APIs sangat penting untuk mengkonsolidasikan data terstruktur dari berbagai sumber ke dalam satu file yang dapat dianalisis. Kemampuan ini banyak digunakan dalam pelaporan, analitika, keuangan, dan sistem operasional di mana data tersebar di banyak spreadsheet.
+
+
+
+Penggabungan spreadsheet yang didorong oleh otomatisasi memungkinkan penanganan data yang konsisten, mengurangi kesalahan manual, dan mengintegrasikan alur kerja spreadsheet langsung ke dalam pipa data dan pemrosesan yang dapat diskalakan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Konsolidasi Spreadsheet Warisan (XLS)**  
+   Gabungkan file XLS lama ke dalam satu buku kerja untuk analisis yang terpadu.
+
+
+
+* **Aggregasi Data Departemen (XLS)**  
+   Gabungkan spreadsheet XLS dari beberapa tim ke dalam satu file master.
+
+
+
+* **Unifikasi Data Historis (XLS)**  
+   Konsolidasikan data XLS yang diarsipkan untuk pelaporan dan migrasi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pengguliran Data Terjadwal (XLS)**  
+   Pekerjaan otomatis menggabungkan file XLS periodik ke dalam laporan yang terkonsolidasi.
+
+
+
+* **Normalisasi Data Backend (XLS)**  
+   Sistem menggabungkan file XLS sebagai bagian dari alur kerja pembersihan data.
+
+
+
+* **Perakitan Spreadsheet Berbasis Pipa (XLS)**  
+   Penggabungan XLS dipicu secara programatik dalam pipa ETL.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

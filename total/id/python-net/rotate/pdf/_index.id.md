@@ -72,7 +72,87 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Memutar dokumen PDF secara programatik adalah kebutuhan umum dalam alur kerja pemrosesan dokumen modern, terutama saat menangani file yang discan, halaman dengan orientasi campuran, atau konten yang diunggah pengguna. Rotasi PDF menggunakan API Python memungkinkan pengembang dan sistem untuk mengoreksi orientasi halaman secara dapat diandalkan tanpa intervensi manual, meningkatkan keterbacaan, konsistensi, dan akurasi pemrosesan selanjutnya.
+
+
+
+Dengan memanfaatkan otomatisasi berbasis Python, rotasi PDF dapat terintegrasi dengan lancar ke dalam alur kerja yang lebih besar seperti sistem penerimaan dokumen, sistem arsip, dan platform manajemen konten. Hal ini memungkinkan penanganan orientasi dokumen yang skalabel, dapat diulang, dan bebas dari kesalahan melintasi volume besar file.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Mengoreksi Orientasi Dokumen yang Discan**  
+
+  &nbsp; Secara otomatis memutar halaman PDF yang discan dengan tidak benar ke orientasi yang tepat untuk meningkatkan keterbacaan dan kegunaan.
+
+
+
+* **Mensatukan PDF dari Sumber Multi**  
+
+  &nbsp; Meluruskan orientasi halaman saat menggabungkan PDF dari sumber yang berbeda untuk memastikan pengalaman penayangan yang konsisten.
+
+
+
+* **Pra-Pemrosesan untuk OCR dan Ekstraksi Teks**  
+
+  &nbsp; Memastikan halaman berorientasi dengan benar sebelum OCR, meningkatkan akurasi pengenalan teks dan kualitas data.
+
+
+
+* **Normalisasi Dokumen yang Diunggah Pengguna**  
+
+  &nbsp; Menyesuaikan rotasi halaman untuk PDF yang diunggah pengguna agar sesuai dengan standar platform atau kepatuhan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Alur Kerja Penerimaan Otomatis**  
+
+  &nbsp; Rotasi PDF diterapkan secara otomatis selama penerimaan untuk normalisasi dokumen sebelum penyimpanan atau pemrosesan lebih lanjut.
+
+
+
+* **Alur Kerja Pemrosesan Batch**  
+
+  &nbsp; Koleksi besar PDF diputar secara massal secara programatik, mengurangi upaya manual dan waktu pemrosesan.
+
+
+
+* **Otomatisasi Pra-OCR**  
+
+  &nbsp; Rotasi diterapkan secara dinamis sebelum tugas OCR untuk meningkatkan akurasi pengenalan dalam sistem ekstraksi teks otomatis.
+
+
+
+* **Pemrosesan Berbasis API Langsung**  
+
+  &nbsp; Halaman PDF diputar secara real-time melalui API sebagai bagian dari layanan transformasi dokumen dinamis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

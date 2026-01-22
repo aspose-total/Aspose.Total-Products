@@ -75,7 +75,93 @@ ODP 메타데이터 관리 앱 또는 유틸리티를 개발해야 합니까?[As
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+파이썬 API를 통한 **ODP** 파일의 문서 메타데이터 추출은 시스템이 프레젠테이션 속성 및 슬라이드 덱의 포함된 속성을 읽을 수 있게 하여 파일을 GUI에서 열지 않고도 거버넌스, 발견 및 라이프사이클 관리를 지원합니다. 이는 대량의 교육, 영업 또는 운영 프레젠테이션을 관리하는 팀에 중요합니다.
+
+
+
+자동화된 워크플로우에서 ODP 메타데이터는 색인, 분류 및 제어된 게시를 주도하여 슬라이드 라이브러리를 유지, 검색 및 콘텐츠 배포 시스템에 통합하기 쉽게 만듭니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **프레젠테이션 라이브러리 색인**
+
+  ODP 메타데이터를 추출하여 작성자, 주제 및 업데이트 시간별로 슬라이드 덱의 검색 가능한 카탈로그를 작성합니다.
+
+
+
+* **교육 콘텐츠 최신성 확인**
+
+  수정된 타임스탬프를 사용하여 새로 고쳐야 할 오래된 슬라이드 덱을 식별합니다.
+
+
+
+* **부서별 분류**
+
+  일관된 조직화 및 액세스 제어를 위해 메타데이터 속성을 구조화된 범주로 표준화합니다.
+
+
+
+* **자산 거버넌스 보고**
+
+  ODP 메타데이터를 집계하여 사용 준비도, 커버리지 갭 및 유지보수 소유권을 측정합니다.
+
+
+
+* **대량 이전 준비**
+
+  새로운 저장소나 게시 환경으로 이전하기 전에 ODP 속성을 감사합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동 슬라이드 덱 적재**
+
+  업로드 시 ODP 메타데이터를 추출하고 덱을 올바른 저장소 섹션에 자동으로 할당합니다.
+
+
+
+* **퇴보 경고 자동화**
+
+  ODP 덱이 업데이트 임계값을 초과하거나 책임 소유 필드가 없는 경우 경고를 트리거합니다.
+
+
+
+* **메타데이터 기반 게시 규칙**
+
+  기밀 여부나 내부 전용 사용을 나타내는 메타데이터 플래그에 따라 ODP 덱을 게시하거나 제한합니다.
+
+
+
+* **일괄 감사 및 보고 작업**
+
+  거버넌스 및 운영 감사를 위해 ODP 메타데이터 요약을 내보내는 예약된 작업을 실행합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

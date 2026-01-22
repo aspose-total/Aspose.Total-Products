@@ -100,7 +100,75 @@ PPTX 파서 앱이나 유틸리티를 개발해야 합니까?[Aspose.Total for P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+파이썬 API를 사용하여 **PPTX 프레젠테이션**을 구문 분석하면 최신 프레젠테이션 파일에서 슬라이드 텍스트, 제목, 글머리 기호, 레이아웃 및 발표자 노트에 구조화된 액세스가 가능해집니다. PPTX 구문 분석을 통해 수동으로만 볼 수 있던 슬라이드 기반 지식에 접근할 수 있습니다.
+
+
+
+자동화 주도 시스템에서 PPTX 구문 분석은 콘텐츠 재사용, 요약, 분석 및 지식 관리 및 보고 파이프라인과의 통합을 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **슬라이드 콘텐츠 추출**  
+
+&nbsp; 프레젠테이션 슬라이드에서 구조화된 텍스트 및 레이아웃 요소를 검색합니다.
+
+
+
+* **프레젠테이션 지식 채굴**  
+
+&nbsp; 슬라이드 덱을 검색 가능하고 분석 가능한 콘텐츠 소스로 변환합니다.
+
+
+
+* **콘텐츠 재활용 워크플로우**  
+
+&nbsp; 문서 및 플랫폼 간에 프레젠테이션 자료를 재사용할 수 있게 합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동화된 프레젠테이션 수집**  
+
+&nbsp; 업로드하거나 일정에 따라 PPTX 파일을 자동으로 처리합니다.
+
+
+
+* **슬라이드 수준 요약 파이프라인**  
+
+&nbsp; 구문 분석된 슬라이드 콘텐츠에서 간결한 요약을 생성합니다.
+
+
+
+* **버전 비교 자동화**  
+
+&nbsp; 여러 프레젠테이션 버전 간의 변경 사항을 프로그래밍적으로 감지합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

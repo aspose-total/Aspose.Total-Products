@@ -90,7 +90,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Просмотр файлов DOT с помощью Python API позволяет осматривать шаблоны документов Word, используемые в качестве основы для создания стандартизированного контента.
+
+Это обеспечивает автоматизированную проверку и управление шаблонными рабочими процессами документов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Просмотр структуры шаблона**  
+
+  Просмотр предопределенных стилей и заполнителей, встроенных в шаблоны Word.
+
+
+
+* **Соблюдение стандартов**  
+
+  Осмотр шаблонов для обеспечения согласованности форматирования и макета.
+
+
+
+* **Предварительная проверка перед развертыванием**  
+
+  Просмотр шаблонов перед их распространением по системам.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Проверка соответствия шаблонов**  
+
+  Рабочие процессы на Python отображают файлы DOT для проверки правил форматирования.
+
+
+
+* **Автоматизированные проверки шаблонов**  
+
+  Шаблоны периодически просматриваются для обнаружения несанкционированных изменений.
+
+
+
+* **Потоки генерации документов**  
+
+  Просмотр гарантирует, что шаблоны готовы к автоматизированному созданию документов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

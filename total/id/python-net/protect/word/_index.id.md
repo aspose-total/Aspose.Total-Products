@@ -76,7 +76,75 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kategori format Word mewakili dokumen teks yang digunakan dalam alur kerja penyusunan, pelaporan, dan kolaborasi. Melindungi file Word memastikan kerahasiaan dokumen, integritas, dan akses terkontrol sepanjang siklus hidupnya.
+
+
+
+API Python memungkinkan perlindungan dokumen Word diotomatisasi, menjadikan keamanan sebagai kemampuan bawaan dari sistem manajemen konten dan dokumen modern.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Perlindungan Konten Sensitif**  
+
+&nbsp; Amanankan dokumen Word yang mengandung informasi rahasia.
+
+
+
+* **Penegakan Pembatasan Pengeditan**  
+
+&nbsp; Kontrol siapa yang dapat memodifikasi atau meninjau dokumen.
+
+
+
+* **Keamanan Siklus Hidup Dokumen**  
+
+&nbsp; Lindungi file pada berbagai tahap pembuatan dan persetujuan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Perlindungan File Word Otomatis**  
+
+&nbsp; Terapkan aturan keamanan secara otomatis selama pembuatan dokumen.
+
+
+
+* **Kontrol Dokumen Berbasis Peran**  
+
+&nbsp; Lindungi file Word secara dinamis berdasarkan peran pengguna.
+
+
+
+* **Alur Kerja Aman dari Ujung ke Ujung**  
+
+&nbsp; Integrasikan perlindungan Word ke dalam alur kerja dokumen yang sepenuhnya otomatis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Slides for Python via 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Hợp nhất các bản trình bày PPTX bằng Python APIs là phương pháp phổ biến nhất cho việc tạo cấu trúc trang hiện đại. Nó cho phép kiểm soát chính xác về thứ tự trang, bố cục và tính nhất quán của nội dung.
+
+
+
+Khả năng này tích hợp một cách sạch sẽ với các hệ thống động cơ nội dung tự động và hệ thống báo cáo.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tạo Bộ Slide Đa Phần (PPTX)**  
+
+&nbsp; Hợp nhất các tệp PPTX đại diện cho các phần thành một bộ slide duy nhất.
+
+
+
+* **Tích Hợp Slide Hợp Tác (PPTX)**  
+
+&nbsp; Kết hợp các slide PPTX được tạo bởi nhiều người đóng góp.
+
+
+
+* **Lắp Ráp Mô-đun Slide Có Thể Tái Sử Dụng (PPTX)**  
+
+&nbsp; Lắp ráp các slide PPTX modul thành các bản trình bày tùy chỉnh.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Tạo Bộ Slide Động (PPTX)**  
+
+&nbsp; Hệ thống hợp nhất các tệp PPTX dựa trên đầu vào thời gian chạy.
+
+
+
+* **Các Đường Ống Trình Bày CI/CD (PPTX)**  
+
+&nbsp; Việc hợp nhất PPTX được tự động hóa trong quá trình xây dựng hoặc giai đoạn phát hành.
+
+
+
+* **Xuất Bản Bản Trình Bày Có Thể Mở Rộng (PPTX)**  
+
+&nbsp; Các bộ slide PPTX có khối lượng lớn được tạo ra theo cách lập trình.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

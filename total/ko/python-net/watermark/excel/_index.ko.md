@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+파이썬 API를 사용하여 **Excel** 스프레드시트에 워터마킹을 적용하면 데이터가 많은 워크북에 가시성 제어를 추가하여 소유권, 기밀성 및 의도된 사용을 스프레드시트 뷰 내에서 직접 전달하는 데 도움이 됩니다.
+
+자동화를 통해 스프레드시트 워터마킹을 신뢰할 수 있는 규모로 확장할 수 있으며 예정된 보고서, 다중 팀 공유 및 분석 시스템에서의 제어된 내보내기에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **재무 보고서 기밀성 오버레이**  
+
+  &nbsp; 예산이나 예측을 포함하는 스프레드시트에 표시하여 유출 위험을 줄입니다.
+
+
+
+* **공유 대시보드의 배포 제한**  
+
+  &nbsp; 외부 전달을 억제하기 위해 "내부 사용 전용" 레이블 추가.
+
+
+
+* **데이터 유효성 검사용 초안 표시**  
+
+  &nbsp; 조정이나 승인이 완료될 때까지 "임시" 워터마크 적용.
+
+
+
+* **파트너 데이터 소유 공지**  
+
+  &nbsp; 데이터셋의 허용된 재사용을 명확히 하기 위해 공유된 워크북에 소유권 텍스트 삽입.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동 스탬핑을 통한 예정된 보고서**  
+
+  &nbsp; 보고서를 생성하여 매일 밤 배포 목록으로 전송하기 전에 워터마크를 적용.
+
+
+
+* **워크북 분류별 워터마크**  
+
+  &nbsp; 민감도 태그를 사용하여 워터마크 텍스트와 자동 배치 선택.
+
+
+
+* **내보내기 파이프라인 강제 실행**  
+
+  &nbsp; BI 또는 ETL 시스템에서 내보내기하는 동안 스프레드시트에 스탬프를 찍어 관리를 유지.
+
+
+
+* **자동 지역 규정 준수 레이블링**  
+
+  &nbsp; 목적지 팀이나 국가에 따라 특정 관할권 공지 추가.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

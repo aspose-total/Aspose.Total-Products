@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+دمج ملفات القيم المفصولة بواسطة عناصر Python APIs يمكن أن يتيح لك دمجًا سريعًا وخفيفًا للبيانات الجدولية المهيكلة. يُستخدم TSV بشكل شائع لتبادل البيانات والتحضير المسبق.
+
+
+
+يدعم الدمج التلقائي لملفات TSV خطوط أنابيب البيانات عالية الأداء وسير العمل التحليلي.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تجميع البيانات الخام (TSV)**  
+
+&nbsp; دمج ملفات TSV في مجموعة بيانات واحدة للمعالجة.
+
+
+
+* **تبادل البيانات بين الأنظمة (TSV)**  
+
+&nbsp; دمج تصديرات TSV من منصات مختلفة.
+
+
+
+* **تحضير البيانات قبل التحليل (TSV)**  
+
+&nbsp; دمج ملفات TSV قبل التحويل التحليلي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **معالجة البيانات بناءً على التدفق (TSV)**  
+
+&nbsp; تقوم الأنظمة التلقائية بدمج ملفات TSV في تدفق البيانات.
+
+
+
+* **عمليات ETL الدفعية (TSV)**  
+
+&nbsp; يحدث دمج TSV أثناء عمليات ETL المجدولة.
+
+
+
+* **خطوط أنابيب البيانات الجدولية القابلة للتوسيع (TSV)**  
+
+&nbsp; الدمج البرمجي يدعم مجموعات بيانات TSV الكبيرة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -89,7 +89,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Просмотр POTM с помощью Python API позволяет осматривать макро-включенные шаблоны презентаций без выполнения макросов.
+
+Это поддерживает безопасную проверку повторно используемых структур презентаций.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Просмотр шаблонов с макросами**  
+
+&nbsp; Просмотр шаблонов презентаций в безопасном режиме.
+
+
+
+* **Проверка макета слайдов**  
+
+&nbsp; Осмотр предопределенных структур слайдов.
+
+
+
+* **Процессы утверждения шаблонов**  
+
+&nbsp; Проверка шаблонов перед развертыванием.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Безопасный прием шаблонов**  
+
+&nbsp; Рабочие процессы на Python безопасно обрабатывают файлы POTM.
+
+
+
+* **Автоматизированные проверки шаблонов**  
+
+&nbsp; Шаблоны проверяются на соответствие.
+
+
+
+* **Пайплайны генерации презентаций**  
+
+&nbsp; Просмотр обеспечивает готовность к автоматизации.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

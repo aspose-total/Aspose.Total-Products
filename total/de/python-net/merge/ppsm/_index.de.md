@@ -79,7 +79,75 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Das Zusammenführen von makrofähigen Diashow-Präsentationen mithilfe von Python-APIs unterstützt die automatisierte, interaktive Auslieferung von Diashows. Diese Formate werden oft in kontrollierten Umgebungen verwendet.
+
+
+
+Die Automatisierung gewährleistet, dass Makros und Diashow-Verhaltensweisen beim Zusammenführen erhalten bleiben.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+- **Interaktive Diashow-Zusammenstellung (PPSM)**  
+
+&nbsp; Makrofähige Diashow-Dateien zusammenführen.
+
+
+
+- **Automatisierte Demo-Präsentation (PPSM)**  
+
+&nbsp; PPSM-Dateien für automatisierte Demonstrationen kombinieren.
+
+
+
+- **Kontrollierte Wiedergabedecks (PPSM)**  
+
+&nbsp; PPSM-Dateien für gesteuerte Präsentationen zusammenfassen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+- **Regelbasierte Diashow-Erstellung (PPSM)**  
+
+&nbsp; Systeme fusionieren PPSM-Dateien basierend auf logischen Regeln.
+
+
+
+- **Automatisierung der Backend-Erhaltung (PPSM)**  
+
+&nbsp; Das Zusammenführen von PPSM bewahrt interaktive Verhaltensweisen.
+
+
+
+- **Geplante Demo-Erstellung (PPSM)**  
+
+&nbsp; Diashows werden automatisch nach Zeitplan zusammengeführt.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

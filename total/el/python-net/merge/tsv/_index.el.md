@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η συγχώνευση αρχείων τιμών που χωρίζονται με καρτελάκια χρησιμοποιώντας τα APIs της Python επιτρέπει τη γρήγορη και ελαφριά συνδυασμό δομημένων πινάκων δεδομένων. Το TSV χρησιμοποιείται συχνά για την ανταλλαγή δεδομένων και την προεπεξεργασία.
+
+
+
+Η αυτοματοποιημένη συγχώνευση TSV υποστηρίζει υψηλής απόδοσης αγωγούς δεδομένων και ροές εργασιών αναλυτικής επεξεργασίας.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* **Συγχώνευση Αρχικών Δεδομένων (TSV)**  
+
+&nbsp; Συγχωνεύστε αρχεία TSV σε ένα μόνο σύνολο δεδομένων για επεξεργασία.
+
+
+
+* **Ανταλλαγή Δεδομένων Συστήματος προς Σύστημα (TSV)**  
+
+&nbsp; Συνδυάστε εξαγωγές TSV από διαφορετικές πλατφόρμες.
+
+
+
+* **Προετοιμασία Δεδομένων πριν από την Ανάλυση (TSV)**  
+
+&nbsp; Συγχωνεύστε αρχεία TSV πριν από αναλυτικές μετασχηματιστικές διαδικασίες.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* **Επεξεργασία Δεδομένων Βασισμένη σε Ροές (TSV)**  
+
+&nbsp; Αυτοματοποιημένα συστήματα συγχωνεύουν αρχεία TSV σε ροές δεδομένων.
+
+
+
+* **Λειτουργίες Επεξεργασίας Δεδομένων Μαζικής Μεταφοράς (TSV)**  
+
+&nbsp; Η συγχώνευση TSV συμβαίνει κατά τη διάρκεια προγραμματισμένων εργασιών ETL.
+
+
+
+* **Κλιμακούμενοι Αγωγοί Δεδομένων Πινάκων (TSV)**  
+
+&nbsp; Η προγραμματιστική συγχώνευση υποστηρίζει μεγάλα σύνολα δεδομένων TSV.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

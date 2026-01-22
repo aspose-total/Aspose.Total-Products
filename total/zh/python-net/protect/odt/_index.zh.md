@@ -76,7 +76,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT是广泛使用的开放文档文本格式，用于报告和文档。保护ODT文件对于保留文档的真实性并防止意外或恶意更改至关重要。
+
+
+
+基于Python的文档保护使得ODT安全性可以嵌入自动化文档和发布工作流程中，而且开销很小。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **安全的报告分发**  
+
+  &nbsp; 在共享之前保护最终的ODT报告。
+
+
+
+* **文档完整性**  
+
+  &nbsp; 确保官方文件在批准后保持不变。
+
+
+
+* **跨平台文档安全**  
+
+  &nbsp; 无论编辑环境如何，都可以应用保护。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化文档流水线**  
+
+  &nbsp; 作为持续文档生成的一部分保护ODT文件。
+
+
+
+* **基于规则的文件安全**  
+
+  &nbsp; 根据文档元数据应用保护策略。
+
+
+
+* **批量文档加固**  
+
+  &nbsp; 在批处理操作中以编程方式安全地处理多个ODT文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

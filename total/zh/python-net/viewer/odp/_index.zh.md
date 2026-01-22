@@ -89,7 +89,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API查看ODP文件，可以以平台中立的格式检查打开的演示文档。
+
+这支持互操作性和自动化演示工作流程。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **打开演示审查**  
+
+  &nbsp; 查看以开放文档格式创建的幻灯片。
+
+
+
+* **跨平台验证**  
+
+  &nbsp; 确保演示文稿一致呈现。
+
+
+
+* **演示内容检查**  
+
+  &nbsp; 查看幻灯片文本和结构。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化演示审核**  
+
+  &nbsp; Python工作流程呈现ODP文件以供审查。
+
+
+
+* **互操作性检查**  
+
+  &nbsp; 查看幻灯片以确保格式兼容性。
+
+
+
+* **预览服务**  
+
+  &nbsp; 动态显示演示文稿。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

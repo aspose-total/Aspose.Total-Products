@@ -72,7 +72,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PDF是最常见的最终和可共享文档格式。保护PDF对于控制访问、防止复制以及确保数字分发渠道上的内容真实性至关重要。
+
+
+
+Python API使得自动化PDF保护成为可能，将安全性直接集成到文档生成、批准和交付工作流程中。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **安全文档交付**  
+
+  &nbsp; 保护分发给客户或利益相关者的PDF文档。
+
+
+
+* **只读内容强制执行**  
+
+  &nbsp; 防止对最终文档进行编辑或复制。
+
+
+
+* **保护机密信息**  
+
+  &nbsp; 限制PDF中敏感数据的访问。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化PDF锁定**  
+
+  &nbsp; 在PDF生成后立即应用保护。
+
+
+
+* **动态密码分配**  
+
+  &nbsp; 根据接收者动态生成和应用密码。
+
+
+
+* **合规驱动的安全性**  
+
+  &nbsp; 自动强制执行PDF保护以满足监管需求。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

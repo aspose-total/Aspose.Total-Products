@@ -89,7 +89,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η προβολή PPTM με τη χρήση των Python APIs επιτρέπει τον έλεγχο των παρουσιάσεων που περιέχουν μακροενεργοποιημένο κώδικα χωρίς την εκτέλεση του ενσωματωμένου κώδικα.
+
+Αυτό επιτρέπει την ασφαλή αναθεώρηση σε αυτοματοποιημένα περιβάλλοντα.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Περιπτώσεις Χρήσης" %}}
+
+
+
+* **Αναθεώρηση Διαφανειών με Ενεργοποιημένα Μακρό**  
+
+&nbsp; Προβολή περιεχομένου παρουσίασης με ασφάλεια.
+
+
+
+* **Επιθεώρηση με Επίγνωση των Κινδύνων**  
+
+&nbsp; Επιθεώρηση διαφανειών χωρίς εκτέλεση μακροενεργοποιημένου κώδικα.
+
+
+
+* **Υποστήριξη Ροών Έγκρισης**  
+
+&nbsp; Αναθεώρηση παρουσιάσεων πριν από την ελεγχόμενη χρήση.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* **Ασφαλής Υποδοχή Παρουσιάσεων**  
+
+&nbsp; Οι Python viewers αποτυπώνουν με ασφάλεια αρχεία PPTM.
+
+
+
+* **Σωληνώσεις Επιθεώρησης Συμμόρφωσης**  
+
+&nbsp; Οι παρουσιάσεις ελέγχονται αυτόματα.
+
+
+
+* **Προ-Εγκατάστασης Επικύρωση**  
+
+&nbsp; Η προβολή υποστηρίζει τις διαδικασίες έγκρισης.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

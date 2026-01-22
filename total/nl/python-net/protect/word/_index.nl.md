@@ -76,7 +76,75 @@ Voor meer details verwijzen wij u naar [Productdocumentatie](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+De categorie Word-formaat vertegenwoordigt tekstdocumenten die worden gebruikt in ontwerp-, rapportage- en samenwerkingsworkflows. Het beschermen van Word-bestanden zorgt voor vertrouwelijkheid, integriteit en gecontroleerde toegang gedurende hun levenscyclus.
+
+
+
+Python-API's maken geautomatiseerde bescherming van Word-documenten mogelijk, waardoor beveiliging een ingebouwde functionaliteit is van moderne content- en documentbeheersystemen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijke Gebruiksscenario's" %}}
+
+
+
+* **Bescherming van Gevoelige Inhoud**  
+
+  Beveilig Word-documenten met vertrouwelijke informatie.
+
+
+
+* **Handhaving van Bewerkingsbeperkingen**  
+
+  Bepaal wie documenten kan wijzigen of beoordelen.
+
+
+
+* **Beveiliging van Documentlevenscyclus**  
+
+  Bescherm bestanden in verschillende fasen van creatie en goedkeuring.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Geautomatiseerde Bescherming van Word-bestanden**  
+
+  Pas beveiligingsregels automatisch toe tijdens het maken van documenten.
+
+
+
+* **Documentbeheer op Basis van Rollen**  
+
+  Bescherm Word-bestanden dynamisch op basis van gebruikersrollen.
+
+
+
+* **Volledig Beveiligde Workflows van Begin tot Eind**  
+
+  Integreer Word-beveiliging in volledig geautomatiseerde documentworkflows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

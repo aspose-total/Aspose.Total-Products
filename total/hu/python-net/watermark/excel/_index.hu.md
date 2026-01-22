@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Vízjel készítése **Excel** táblázatokhoz Python API-k segítségével láthatósági vezérlést ad az adatokban gazdag munkafüzetekhez, segítve a tulajdonjog, bizalmas jelleg és szándékolt felhasználás közvetlen kommunikációját a táblázatnézetekben.
+
+Az automatizálás lehetővé teszi a táblázatvízjelezést megbízhatóan nagy mennyiségben - ideális ütemezett jelentéskészítéshez, több csapat megosztásához és ellenőrzött exportáláshoz az analitikai rendszerekből.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Pénzügyi jelentés bizalmi átfedések**
+
+  &nbsp; Jelölje meg a költségvetéseket vagy előrejelzéseket tartalmazó táblázatokat a szivárgás kockázatának csökkentése érdekében.
+
+
+
+* **Megosztott vezérlőpultokhoz tartozó terjesztési korlátok**
+
+  &nbsp; Adj hozzá "CSAK BELSŐ HASZNÁLATRA" címkéket a külső továbbítások elkerülése érdekében.
+
+
+
+* **Vázlatjelzők az adatellenőrzéshez**
+
+  &nbsp; Alkalmazzon "ELŐZETES" vízjeleket, amíg az egyeztetés vagy jóváhagyás be nem fejeződik.
+
+
+
+* **Partneradat-tulajdonosi értesítések**
+
+  &nbsp; Ágyazza be a tulajdonosi szöveget a megosztott munkafüzetekbe az adatkészletek engedélyezett újrafelhasználásának tisztázása érdekében.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Ütemezett jelentéskészítés automatikus bélyegzéssel**
+
+  &nbsp; Vízjelezze a generált jelentéseket éjszakánként, mielőtt továbbítaná őket a terjesztési listákra.
+
+
+
+* **Vízjel a munkafüzet osztályozása szerint**
+
+  &nbsp; Használjon érzékenységi címkéket a vízjel szövegének és elhelyezésének automatikus kiválasztásához.
+
+
+
+* **Exportcsővezeték végrehajtása**
+
+  &nbsp; Jelölje meg a táblázatokat az exportálás során a BI vagy ETL rendszerekből történő fenntartáshoz.
+
+
+
+* **Automatikus regionális megfelelőségi címkézés**
+
+  &nbsp; Adj hozzá a célcsapat vagy ország alapján meghatározott joghatósági értesítéseket.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

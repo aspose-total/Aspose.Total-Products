@@ -98,7 +98,93 @@ För mer information, se [Produktdokumentation](https://docs.aspose.com/words/py
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Dokumentmetadataextrahering för **DOTX**-filer via Python-API:er ger ett strukturerat sätt att hantera moderna mallfiler genom att läsa egenskaper som malltitel, författardetaljer och uppdateringshistorik. Detta förbättrar styrningen och säkerställer att dokumentgenereringen förblir konsekvent och i linje med policys.
+
+
+
+I automatiserade processer är DOTX-metadata användbar för mallupplösning, godkännandeflöden och livscykelkontroller – vilket möjliggör skalbara malloperationer som minskar manuella kontroller och konfigurationsavvikelser.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* **Mallupptäckt och sökning**
+
+  Extrahera DOTX-metadata för att göra mallar sökbara efter syfte, avdelning eller avsedd dokumenttyp.
+
+
+
+* **Godkännandestatusspårning**
+
+  Använd anpassade egenskaper för att spåra om en mall är utkast, godkänd eller föråldrad.
+
+
+
+* **Mallägaravbildning**
+
+  Identifiera underhållare och författare för att dirigera uppdateringsbegäranden och ansvarsuppgifter.
+
+
+
+* **Konsistenssäkring för genererade dokument**
+
+  Validera att arbetsflöden använder rätt DOTX-mall baserat på metadataidentifierare.
+
+
+
+* **Malländringsstyrning**
+
+  Övervaka ändringshistoriken för att upptäcka oväntade redigeringar av kontrollerade mallar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* **Metadatastyrd mallregister**
+
+  Automatiskt införliva DOTX-metadata i en register-tjänst som används av dokumentgenereringssystem.
+
+
+
+* **Föråldrande genomdrivningspipeline**
+
+  Dirigera föråldrade DOTX-mallar till ett arkiv och förhindra användning baserat på metadataflaggor.
+
+
+
+* **Automatiserade mallkvalitetskontroller**
+
+  Kör valideringar som säkerställer att nödvändiga DOTX-egenskaper finns och överensstämmer med organisationens standarder innan publicering.
+
+
+
+* **Malluppdateringsflödesdirigering**
+
+  När DOTX-metadata indikerar en förändring, skapa automatiskt granskningsuppgifter för tilldelade underhållare.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

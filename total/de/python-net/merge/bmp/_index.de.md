@@ -85,7 +85,75 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Das Zusammenführen von Bitmap-Bildern mithilfe von Python-APIs ermöglicht die Konsolidierung von Rohdaten, unkomprimierten Visuals zu einem einzigen zusammengesetzten Bild oder einer Sequenz. Dies ist nützlich bei technischen Bildgebungs-, Scan-Workflows und Systemen, bei denen die Bildtreue über die Dateigröße priorisiert wird.
+
+
+
+Automatisiertes BMP-Merging unterstützt deterministische Bildverarbeitungspipelines, bei denen Präzision, Wiederholbarkeit und systemgesteuerte Komposition erforderlich sind.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Zusammenstellung gescannter Bilder (BMP)**  
+
+&nbsp; Mehrere BMP-Scans zu einem einzigen zusammengesetzten Bild zusammenführen.
+
+
+
+* **Zusammenstellung technischer Diagramme (BMP)**  
+
+&nbsp; Bitmap-Diagramme zu vereinheitlichten Visuals kombinieren.
+
+
+
+* **Archivierung von Rohbildern (BMP)**  
+
+&nbsp; BMP-Dateien für langfristige Speicherung oder Verarbeitung aggregieren.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Automatisierte Scan-Verarbeitung (BMP)**  
+
+&nbsp; Systeme fusionieren BMP-Bilder während der Eingabeworkflows.
+
+
+
+* **Batch-Bildkomposition (BMP)**  
+
+&nbsp; Geplante Aufgaben fusionieren Bitmap-Bilder programmgesteuert.
+
+
+
+* **Präzise Bildverarbeitungspipelines (BMP)**  
+
+&nbsp; BMP-Merging ist in kontrollierte Verarbeitungssysteme eingebettet.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

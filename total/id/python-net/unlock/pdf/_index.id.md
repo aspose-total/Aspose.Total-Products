@@ -71,7 +71,75 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+File PDF sering dikunci untuk melindungi informasi sensitif, namun membuka kunci secara terkontrol penting untuk otomatisasi, analisis, dan penggunaan kembali yang sah. Akses programatik memastikan bahwa PDF yang dilindungi masih dapat berpartisipasi dalam alur kerja digital modern.
+
+
+
+API Python memungkinkan pembukaan kunci PDF diatasi secara aman dan dalam skala besar, terintegrasi dengan sistem ekstraksi data, pengindeksan, dan transformasi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Kunci" %}}
+
+
+
+* **Ekstraksi Teks dan Data**  
+
+  Memungkinkan akses ke konten yang dilindungi untuk analisis dan pelaporan.
+
+
+
+* **Otomatisasi Tinjauan Dokumen**  
+
+  Mendukung pemeriksaan otomatis file yang terkunci selama siklus tinjauan.
+
+
+
+* **Pipa Konversi Format**  
+
+  Memungkinkan PDF yang diamankan dikonversi ke format yang dapat diedit atau dicari.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Alur Kerja OCR Otomatis**  
+
+  PDF dibuka kunci sebelum proses pengenalan teks dan pengayaan.
+
+
+
+* **Generasi Indeks Pencarian**  
+
+  Konten yang dilindungi dibuka kunci dan diindeks secara programatik.
+
+
+
+* **Pemrosesan Kepatuhan Massal**  
+
+  Sekumpulan besar PDF dibuka kunci selama operasi kepatuhan yang dijadwalkan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

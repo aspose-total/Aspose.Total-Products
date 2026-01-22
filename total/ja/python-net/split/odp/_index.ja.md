@@ -73,7 +73,75 @@ ODP ファイルを簡単に分割するための Python スクリプトまた�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODPファイルは複数のスライドとビジュアルコンポーネントを含むオープン標準プレゼンテーションに使用されます。ODPファイルを分割することで、スライドレベルでのアクセスと再利用が可能になります。
+
+
+
+Pythonの自動化はスケーラブルなプレゼンテーション処理とコンテンツの再利用をサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **スライドレベルの再利用**  
+
+  個々のスライドを抽出して他のデッキで再利用できます。
+
+
+
+* **プレゼンテーションコンテンツの分析**  
+
+  スライドを独立して構造やメタデータを分析できます。
+
+
+
+* **共同編集**  
+
+  チームで分離されたスライドセットで作業します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **スライドの自動抽出**  
+
+  Pythonスクリプトがプログラムでスライドを分割します。
+
+
+
+* **動的プレゼンテーションの組み立て**  
+
+  スライドは実行時のルールに基づいて再結合されます。
+
+
+
+* **プレゼンテーションアーカイブシステム**  
+
+  スライドは個別に索引付けされ、取得できます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

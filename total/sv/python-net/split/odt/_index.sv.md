@@ -79,7 +79,75 @@ För mer information, se [Produktdokumentation](https://docs.aspose.com/words/py
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT är ett öppet dokumentformat som är utformat för strukturerade textdokument. Att dela upp ODT-filer möjliggör bearbetning på avsnittsnivå och hantering av strukturerat innehåll.
+
+
+
+Genom att använda Python API:er blir ODT-uppdelningen skalbar och lämplig för automatiserade dokumentpipelines.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsfall" %}}
+
+
+
+* **Extrahering av strukturerat innehåll**  
+
+&nbsp; Extrahera kapitel eller avsnitt oberoende av varandra.
+
+
+
+* **Arkivering i öppet format**  
+
+&nbsp; Bevara och hantera innehållet på en granulär nivå.
+
+
+
+* **Samarbetsinriktad dokumenthantering**  
+
+&nbsp; Möjliggör parallella arbetsflöden på dokumentavsnitt.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* **XML-baserad avsnittsparsing**  
+
+&nbsp; Python identifierar strukturella markörer för uppdelning.
+
+
+
+* **Automatisk innehållsklassificering**  
+
+&nbsp; Extraherade avsnitt kategoriseras programmatiskt.
+
+
+
+* **Arbetsflödesinriktad dokumenthantering**  
+
+&nbsp; Avsnitten riktas automatiskt till olika system.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

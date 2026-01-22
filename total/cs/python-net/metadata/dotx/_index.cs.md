@@ -98,7 +98,93 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Extrakce metadat dokumentů pro soubory **DOTX** pomocí Python API poskytuje strukturovaný způsob správy moderních šablonových souborů čtením vlastností jako název šablony, údaje o autorství a historie aktualizací. To zlepšuje správu a zajišťuje, že generování dokumentů zůstává konzistentní a v souladu s politikou.
+
+
+
+V automatizačních potrubích jsou metadatové informace DOTX užitečné pro rozlišení šablon, schvalovací postupy a řízení životního cyklu – umožňují škálovatelné operace se šablonami, které snižují manuální kontroly a odchylky v konfiguraci.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití případy" %}}
+
+
+
+* **Objevování a vyhledávání šablon**
+
+  Extrahovat metadatové informace DOTX pro usnadnění vyhledávání šablon podle účelu, oddělení nebo zamýšleného typu dokumentu.
+
+
+
+* **Sledování stavu schválení**
+
+  Používat vlastní vlastnosti k sledování toho, zda je šablona koncept, schválená nebo zastaralá.
+
+
+
+* **Mapování vlastnictví šablony**
+
+  Identifikovat správce a autory pro směrování žádostí o aktualizaci a úkoly odpovědnosti.
+
+
+
+* **Zajištění konzistence pro generované dokumenty**
+
+  Ověřit, zda pracovní postupy používají správnou šablonu DOTX na základě identifikátorů metadat.
+
+
+
+* **Správa změn šablony**
+
+  Monitorovat historii úprav k detekci neočekávaných úprav řízených šablon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Registr šablon řízený metadaty**
+
+  Automaticky vkládat metadatové informace DOTX do registrační služby používané systémy pro generování dokumentů.
+
+
+
+* **Potrubí pro vynucování zastarání**
+
+  Směrovat zastaralé šablony DOTX do archivu a zabránit jejich použití na základě metadatových vlaječek.
+
+
+
+* **Automatizované kontroly kvality šablon**
+
+  Spouštět ověření, která zajišťují, že požadované vlastnosti DOTX existují a odpovídají organizačním standardům před vydáním.
+
+
+
+* **Směrování pracovního postupu aktualizace šablony**
+
+  Když metadatové informace DOTX naznačují změnu, automaticky vytvářet revizní úkoly pro přiřazeného správce.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -90,7 +90,73 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La visualización de archivos RTF con APIs de Python permite inspeccionar documentos de texto enriquecido que equilibran formato y portabilidad.
+
+Esto respalda la automatización en flujos de trabajo centrados en texto que requieren estilos básicos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+
+
+* **Revisión de Texto Formateado**  
+
+&nbsp; Ver texto con estilo sin la complejidad del documento completo.
+
+
+
+* **Inspección de Documentos Interoperables**  
+
+&nbsp; Inspeccionar documentos en sistemas diversos.
+
+
+
+* **Validación de Contenido**  
+
+&nbsp; Garantizar precisión en formato y texto.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+
+
+* **Tuberías de Texto Automatizadas**  
+
+&nbsp; Los flujos de trabajo de Python renderizan archivos RTF durante el procesamiento.
+
+
+
+* **Servicios de Vista Previa**  
+
+&nbsp; Los documentos se muestran dinámicamente para su revisión.
+
+
+
+* **Validación de Migración**  
+
+&nbsp; La visualización garantiza una transformación segura a otros formatos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

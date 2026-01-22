@@ -77,7 +77,75 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Dokumentenredaktion mit Python-APIs für PPTX-Dateien ermöglicht eine präzise Kontrolle über modernen Präsentationsinhalt, was eine sichere Zusammenarbeit und Verteilung ermöglicht. Dies ist entscheidend zum Schutz sensibler Folieninhalte.
+
+
+
+Automatisierung gewährleistet, dass die PPTX-Redaktion konsistent, überprüfbar und einfach in moderne Content-Workflows integriert werden kann.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Schutz vertraulicher Daten**  
+
+&nbsp; Sensible Zahlen und Texte von Präsentationsfolien schwärzen.
+
+
+
+* **Verteilung an verschiedene Zielgruppen**  
+
+&nbsp; Erstellen von geschwärzten Versionen, die auf verschiedene Interessengruppen zugeschnitten sind.
+
+
+
+* **Management des Präsentationslebenszyklus**  
+
+&nbsp; Sicherstellen, dass alle freigegebenen PPTX-Dateien den Datenschutzstandards entsprechen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Schwärzung auf Objektebene der Folie**  
+
+&nbsp; Programmgesteuert sensible Textfelder oder Formen entfernen.
+
+
+
+* **Kontinuierliche Update-Verarbeitung**  
+
+&nbsp; Schwärzung automatisch erneut anwenden, wenn sich Folien ändern.
+
+
+
+* **Integration in Workflows**  
+
+&nbsp; Schwärzung in CI/CD-ähnliche Content-Pipelines einbetten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

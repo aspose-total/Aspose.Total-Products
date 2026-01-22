@@ -95,7 +95,69 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusión de imágenes PNG utilizando APIs de Python permite la composición de imágenes sin pérdida de calidad con soporte para transparencia. Esto es ideal para activos de diseño, elementos de interfaz y visuales en capas.
+
+
+
+La automatización garantiza un montaje de imágenes consistente mientras se preserva la integridad visual.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+- **Ensamblaje de activos transparentes (PNG)**  
+  &nbsp; Fusionar imágenes PNG mientras se preservan los canales alfa.
+
+
+
+- **Composición de elementos de interfaz (PNG)**  
+  &nbsp; Combinar gráficos de interfaz en imágenes individuales.
+
+
+
+- **Consolidación de recursos de diseño (PNG)**  
+  &nbsp; Agregar activos PNG para su reutilización.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+- **Tuberías de diseño automatizadas (PNG)**  
+  &nbsp; Los sistemas fusionan activos PNG durante los procesos de construcción.
+
+
+
+- **Generación de imágenes en capas (PNG)**  
+  &nbsp; La fusión de PNG está impulsada por reglas programáticas.
+
+
+
+- **Automatización escalable de activos visuales (PNG)**  
+  &nbsp; Las tuberías automatizadas generan visuales PNG fusionados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

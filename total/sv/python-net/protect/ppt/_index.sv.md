@@ -71,7 +71,75 @@ För mer information, se [Produktdokumentation](https://docs.aspose.com/slides/p
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPT-filer representerar äldre PowerPoint-format som fortfarande används i många miljöer. Genom att skydda PPT-filer säkerställs att äldre presentationer förblir säkra och följer reglerna.
+
+
+
+Python-API:er möjliggör automatisk skydd av PPT-filer, vilket gör att äldre innehåll kan anpassas till moderna säkerhetsstandarder.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsfall" %}}
+
+
+
+* **Skydd av äldre slides**  
+
+&nbsp; Säkra äldre PPT-filer från obehöriga ändringar.
+
+
+
+* **Bevarande av historiskt innehåll**  
+
+&nbsp; Bevara integriteten hos arkiverade presentationer.
+
+
+
+* **Kontrollerad omfördelning**  
+
+&nbsp; Begränsa redigering vid delning av äldre slide-deck.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* **Batch-skydd av äldre filer**  
+
+&nbsp; Säkra stora samlingar av PPT-filer automatiskt.
+
+
+
+* **Säkerhet vid migrering**  
+
+&nbsp; Tillämpa skydd under övergångar till äldre system.
+
+
+
+* **Automatisk begränsning av åtkomst**  
+
+&nbsp; Tillämpa konsekventa restriktioner på PPT-filer programmatiskt.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Slučování makro-povolených souborů PowerPoint pomocí Python API podporuje prezentace obsahující vestavěnou logiku, automatizaci nebo interaktivní chování. To je běžné v podnikových a provozních prezentacích.
+
+
+
+Automatizace zajistí spolehlivé slučování makro-povolených snímků bez narušení vestavěné funkcionality.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Sestavování prezentací založených na makrech (PPTM)**  
+
+&nbsp; Slučujte soubory PPTM obsahující automatizované nebo interaktivní prvky.
+
+
+
+* **Konsolidace provozních snímků (PPTM)**  
+
+&nbsp; Slučujte makro-povolené prezentace používané v interních procesech.
+
+
+
+* **Balení interaktivních sad (PPTM)**  
+
+&nbsp; Seskupte soubory PPTM do jedné spustitelné prezentace.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Generování prezentací na základě pravidel (PPTM)**  
+
+&nbsp; Systémy slučují soubory PPTM na základě automatizačních pravidel.
+
+
+
+* **Zachování maker řízené z backendu (PPTM)**  
+
+&nbsp; Automatizované potrubí slučuje soubory PPTM a zachovává logiku.
+
+
+
+* **Automatizace prezentace souladu (PPTM)**  
+
+&nbsp; Slučování PPTM podporuje opakovatelné, řízené výstupy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,87 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Водяные знаки **JPG** файлов с помощью Python API поддерживают общие рабочие процессы с изображениями, добавляя четкое владение, метки подтверждения и правила распространения к наиболее часто используемому веб-формату изображений.
+
+Автоматизированное добавление водяных знаков к JPG идеально подходит для высокопроизводительных конвейеров, где требуется постоянное размещение и повторяемый стиль для множества ресурсов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Массовое брендирование для библиотек изображений**  
+
+  &nbsp; Добавление водяных знаков к большим наборам ресурсов JPG для поддержания единого стиля на различных платформах.
+
+
+
+* **Защита контента перед публикацией**  
+
+  &nbsp; Добавление наложений "НЕ ДЛЯ ПУБЛИКАЦИИ" для предотвращения случайной ранней публикации.
+
+
+
+* **Маркировка предварительного просмотра рекламных материалов**  
+
+  &nbsp; Наложение меток предварительного просмотра на визуальные материалы в формате JPG, используемые в предложениях и презентациях.
+
+
+
+* **Атрибуция активов партнеров**  
+
+  &nbsp; Встраивание водяных знаков атрибуции для общих медиафайлов для улучшения отслеживания источника.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматическое наложение водяных знаков на основе папок**  
+
+  &nbsp; Обнаружение новых файлов JPG в папках наблюдения и немедленное добавление водяных знаков.
+
+
+
+* **Автоматическое масштабирование водяных знаков**  
+
+  &nbsp; Автоматическое изменение размера водяного знака в зависимости от разрешения и соотношения сторон.
+
+
+
+* **Генерация водяных знаков на разных языках**  
+
+  &nbsp; Создание локализованного текста водяного знака в зависимости от целевой аудитории или правил региона.
+
+
+
+* **Создание вариантов без дублирования**  
+
+  &nbsp; Избегание повторной обработки уже помеченных водяными знаками JPG файлов путем отслеживания отпечатков в автоматизации.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -140,7 +220,7 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF P
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

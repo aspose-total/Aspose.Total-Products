@@ -97,7 +97,93 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A dokumentum metaadatok kinyerése **PDF** fájlokból Python API-k segítségével lehetővé teszi a rendszerek számára a fő tulajdonságok - például cím, szerző, gyártó, létrehozás és módosítás dátuma, valamint beágyazott azonosítók - rögzítését, támogatva ezzel a kormányzást és felfedezést, még akkor is, ha a tartalom elsősorban fix elrendezésű. Ez fontos az ellenőrizhetőség, katalógusozás és a nagy mennyiségű PDF-tárolók operatív kezelése szempontjából.
+
+
+
+Az automatizált folyamatokban a PDF metaadatok vezérelhetik az indexelést, az útvonalválasztást, a megőrzési szabályok végrehajtását és a tömeges feldolgozást - lehetővé téve a PDF-ek integrálását a skálázható munkafolyamatokba anélkül, hogy manuális triázsra lenne szükség.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* **Digitális Archívum Katalógusozása**
+
+  PDF metaadatok kinyerése a dokumentumok megbízható állományának felépítéséhez keresési attribútumokkal.
+
+
+
+* **Megfelelőségi és Megőrzési Ellenőrzések**
+
+  Használja a létrehozás/módosítás időbélyegeket a megőrzési idővonalak érvényesítésére és az inkonzisztenciák észlelésére.
+
+
+
+* **Gyártó és Forrás Tulajdonságok**
+
+  Rögzítse a gyártással kapcsolatos tulajdonságokat a tartalom eredetének és feldolgozási vonalának megértéséhez.
+
+
+
+* **Tömeges Osztályozási Jelzések**
+
+  Használja a metaadatmezőket a PDF-ek kategorizálásához olyan területekre, mint a szabályzatok, számlák, kézikönyvek vagy jelentések.
+
+
+
+* **Operatív Minőségellenőrzések**
+
+  Jelölje meg a hiányzó vagy gyanús metaadatokkal rendelkező PDF-eket az esetleges helyreállítás vagy manuális felülvizsgálat jelöltjeiként.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* **Automatizált Beérkezési Triázs**
+
+  Amikor megérkeznek a PDF-ek, kinyeri a metaadatokat és útvonalazza őket feldolgozási sávokba a teljesség és érzékenység szabályai alapján.
+
+
+
+* **Metaadatvezérelt Indexfrissítések**
+
+  Automatikusan frissítse a keresési indexet, amikor egy PDF-t hozzáadnak vagy kicserélnek, a metaadatok gyors visszakereséséhez.
+
+
+
+* **Megőrzési Végrehajtási Munkafolyamat**
+
+  Futtasson ütemezett feladatokat, amelyek azonosítják a megőrzési határidőn túli PDF-eket, és generálnak törlési vagy archiválási feladatokat.
+
+
+
+* **Tömeges Jelentések és Irányítópultok**
+
+  Gyűjtse össze a kinyert PDF metaadatokat időszakos jelentésekhez a kormányzás, a megfelelőség és az operatív felügyelet szempontjából.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

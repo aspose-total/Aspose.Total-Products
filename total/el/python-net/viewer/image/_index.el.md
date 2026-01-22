@@ -82,7 +82,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η προβολή γενικών μορφών εικόνας με Python APIs παρέχει μια ενιαία προσέγγιση για την επιθεώρηση οπτικών πόρων σε όλες τις ροές εργασίας.
+
+Αυτό επιτρέπει τη συνεπή χειρισμό των εικόνων ανεξάρτητα από την πηγή ή τον τύπο.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* **Ενιαία Επιθεώρηση Εικόνας**  
+
+&nbsp; Προβολή διαφόρων αρχείων εικόνας μέσω μιας μόνο διεπαφής.
+
+
+
+* **Επαλήθευση Οπτικού Πόρου**  
+
+&nbsp; Επιβεβαίωση ακεραιότητας και εμφάνισης της εικόνας.
+
+
+
+* **Υποστήριξη Σωλήνα Περιεχομένου**  
+
+&nbsp; Επιθεωρήστε εικόνες κατά τη διάρκεια των σταδίων επεξεργασίας.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* **Αυτοματοποιημένες Σωληνώσεις Εικόνας**  
+
+&nbsp; Οι ροές εργασίας Python εμφανίζουν εικόνες κατά την επεξεργασία πακέτων.
+
+
+
+* **Δυναμικές Υπηρεσίες Προεπισκόπησης**  
+
+&nbsp; Οι εικόνες αναπαρίστανται κατά απαίτηση για αξιολόγηση.
+
+
+
+* **Αυτοματισμός Ποιότητας Εξασφάλισης**  
+
+&nbsp; Η προβολή υποστηρίζει αυτοματοποιημένους οπτικούς ελέγχους.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

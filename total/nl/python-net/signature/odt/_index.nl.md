@@ -71,7 +71,75 @@ Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het ondertekenen van ODT-documenten met behulp van Python-API's maakt het mogelijk dat tekstbestanden in open formaat worden voorzien van geverifieerde goedkeuringsmarkeringen en ondertekenaarsmetadata. Dit ondersteunt gecontroleerde documentlevenscycli zonder afhankelijk te zijn van gepatenteerde formaten.
+
+
+
+In geautomatiseerde processen zorgt ODT-ondertekening ervoor dat goedkeuringen consistent worden toegepast op het moment van afsluiting van de beoordeling, waardoor de controleerbaarheid wordt verbeterd en het manuele documentbeheer wordt verminderd.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Goedkeuring van Beleid in Open Formaat**  
+
+&nbsp; Onderteken ODT-beleidsdocumenten om de definitieve beoordeling en autorisatie te bevestigen.
+
+
+
+* **Afsluiting van Redactionele Workflow**  
+
+&nbsp; Pas handtekeningen toe op ODT-ontwerpen wanneer de inhoudelijke beoordeling is voltooid.
+
+
+
+* **Governance van Interne Kennisbank**  
+
+&nbsp; Onderteken ODT-documenten voordat ze worden gepubliceerd in gedeelde repositories.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Trigger voor Voltooiing door Beoordelaar**  
+
+&nbsp; Onderteken ODT-bestanden automatisch wanneer alle toegewezen beoordelaars goedkeuringen hebben voltooid.
+
+
+
+* **Poort voor Publicatie naar Repository**  
+
+&nbsp; Onderteken ODT-documenten voordat ze naar de kennisbank worden gepubliceerd.
+
+
+
+* **Automatische Injectie van Audit Trail**  
+
+&nbsp; Voeg ondertekenaarsidentiteit en tijdstempelmetadata toe tijdens het uitvoeren van ODT-ondertekening.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

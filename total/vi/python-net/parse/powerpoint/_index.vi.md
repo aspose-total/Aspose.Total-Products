@@ -100,7 +100,75 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Python via
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Phân tích **bài thuyết trình PowerPoint** bằng Python APIs cho phép trích xuất cấu trúc nội dung của slide, bao gồm tiêu đề, điểm chấm, bố cục và ghi chú của người thuyết trình từ tệp bài thuyết trình. Điều này giúp việc truy cập thông tin dựa trên bài thuyết trình trở nên dễ dàng để phân tích, tái sử dụng và tích hợp hệ thống.
+
+
+
+Khi kết nối với quy trình làm việc tự động, việc phân tích PowerPoint biến các bộ slide tĩnh thành nguồn dữ liệu động hỗ trợ xử lý kiến thức có khả năng mở rộng, báo cáo và hoạt động nội dung.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Trích Xuất Nội Dung Slide**  
+
+&nbsp; Truy xuất văn bản cấu trúc và các yếu tố bố cục từ các slide PowerPoint.
+
+
+
+* **Xử Lý Kiến Thức Trình Bày**  
+
+&nbsp; Chuyển đổi bộ slide thành tài sản thông tin có thể tìm kiếm và phân tích.
+
+
+
+* **Tái Sử Dụng và Chuyển Đổi Nội Dung**  
+
+&nbsp; Cho phép tái sử dụng tài liệu trình bày trên các tài liệu và nền tảng khác nhau.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Tiếp Nhận Bài Thuyết Trình Tự Động**  
+
+&nbsp; Xử lý tệp PowerPoint tự động như một phần của đường ống tiếp nhận.
+
+
+
+* **Tóm Tắt Nội Dung Tại Cấp Độ Slide**  
+
+&nbsp; Tạo ra bản tóm tắt và đầu ra cấu trúc từ dữ liệu slide đã được phân tích.
+
+
+
+* **Phân Phối Nội Dung Theo Chương Trình**  
+
+&nbsp; Cung cấp nội dung trình bày đã được trích xuất vào các hệ thống và quy trình làm việc phía dưới.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

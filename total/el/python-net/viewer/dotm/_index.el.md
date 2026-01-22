@@ -90,7 +90,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η προβολή DOTM με τη χρήση των Python APIs επιτρέπει την ασφαλή επιθεώρηση προτύπων Word που περιέχουν μακροενεργοποιημένη λογική χωρίς την εκτέλεση της ενσωματωμένης λογικής.
+
+Αυτό είναι ουσιώδες για ελεγχόμενα περιβάλλοντα όπου η ορατότητα και η ασφάλεια πρέπει να συνυπάρχουν.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Περιπτώσεις Χρήσης" %}}
+
+
+
+* **Αναθεώρηση Προτύπου με Ενεργοποίηση Μακροενεργοποιημένων**  
+
+&nbsp; Προβολή περιεχομένου προτύπου διατηρώντας ανενεργά τα μακρό.
+
+
+
+* **Επιθεώρηση με Έμφαση στην Ασφάλεια**  
+
+&nbsp; Επιθεώρηση της δομής χωρίς να εκθέτει τα συστήματα σε κινδύνους εκτέλεσης.
+
+
+
+* **Διαδικασίες Έγκρισης Προτύπων**  
+
+&nbsp; Αναθεώρηση προτύπων πριν από την ελεγχόμενη διανομή.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* **Ασφαλής Υποδοχή Προτύπου**  
+
+&nbsp; Οι προβολείς Python εμφανίζουν ασφαλώς αρχεία DOTM κατά τη διαδικασία εισαγωγής.
+
+
+
+* **Αυτοματισμός Διακυβέρνησης**  
+
+&nbsp; Τα πρότυπα αναθεωρούνται ως μέρος των αυτοματοποιημένων ελέγχων πολιτικής.
+
+
+
+* **Σωληνώσεις Επικύρωσης πριν την Χρήση**  
+
+&nbsp; Οι αυτοματοποιημένες προεπισκοπήσεις υποστηρίζουν τις ροές έγκρισης.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

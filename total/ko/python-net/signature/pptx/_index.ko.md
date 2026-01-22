@@ -73,7 +73,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTX 파일에 서명하면 무단 또는 조기 유통을 방지하는 명시적 승인 및 릴리스 메타데이터가 포함된 프레젠테이션이 됩니다.
+
+
+
+파이썬 기반 자동화는 프레젠테이션 승인이 팀과 버전 간에 일관되게 이루어지도록 합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **임원 덱 승인**  
+
+&nbsp; 리더십 배포 전 PPTX 덱에 서명합니다.
+
+
+
+* **영업 프레젠테이션 완료**  
+
+&nbsp; 고객을 대상으로 하는 덱에 승인 표시를 적용합니다.
+
+
+
+* **교육 자료 인증**  
+
+&nbsp; 승인된 교육 프레젠테이션을 표시합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **이해관계자 승인 트리거 서명**  
+
+&nbsp; 승인이 기록될 때 PPTX 파일에 서명합니다.
+
+
+
+* **버전 관리된 릴리스 강제 실행**  
+
+&nbsp; 서명된 덱만 외부에서 공유됩니다.
+
+
+
+* **자동화된 프레젠테이션 게시**  
+
+&nbsp; 서명이 게시 워크플로에 통합됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

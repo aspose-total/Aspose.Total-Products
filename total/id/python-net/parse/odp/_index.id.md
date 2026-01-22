@@ -100,7 +100,75 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Menganalisis **file presentasi ODP** menggunakan API Python memberikan akses ke konten berbasis slide yang disimpan dalam format presentasi terbuka. Ini mendukung ekstraksi terstruktur tanpa ketergantungan pada alat propietary.
+
+
+
+Penganalisisan ODP otomatis memungkinkan pemrosesan data presentasi yang skalabel dalam ekosistem terbuka dan dapat diperluas.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Analisis Presentasi Terbuka**  
+
+  &nbsp; Mengekstrak teks slide dan struktur dari file ODP.
+
+
+
+* **Pengindeksan Konten Presentasi**  
+
+  &nbsp; Membuat slide dalam format terbuka dapat dicari dan dapat digunakan kembali.
+
+
+
+* **Ekstraksi Data untuk Pelaporan**  
+
+  &nbsp; Mengonversi konten slide menjadi dataset terstruktur.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Penerimaan Slide Otomatis**  
+
+  &nbsp; Memproses file ODP sebagai bagian dari alur kerja yang terjadwal.
+
+
+
+* **Pengecekan Konsistensi Konten**  
+
+  &nbsp; Memvalidasi struktur slide terhadap aturan yang ditentukan.
+
+
+
+* **Pipa Presentasi Lintas Format**  
+
+  &nbsp; Mengonversi konten ODP secara programatis ke format lain.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

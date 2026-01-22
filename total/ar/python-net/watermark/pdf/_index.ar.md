@@ -73,7 +73,85 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+وضع علامة مائية **PDF** على المستندات باستخدام واجهات برمجة التطبيقات في Python هو طريقة شائعة لحماية الملفات النهائية التي يمكن مشاركتها عن طريق إضافة علامات مرئية للملكية أو السرية أو الدلائل دون الاعتماد على الوصول للتحرير.
+
+يدعم وضع العلامة المائية التلقائي لملفات PDF سير العمل القابلة للتوسيع مثل الطوابع الجماعية وتوجيه السياسات ووضع العلامات المتسقة للامتثال عبر أرشيف الوثائق.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **حماية التقارير السرية**  
+
+   &nbsp; قم بتطبيق علامات سرية مرئية للحد من إعادة التوزيع غير المصرح به.
+
+
+
+* **نسخ الإثبات للمراجعة والموافقة**  
+
+   &nbsp; اضغط على "PROOF" على ملفات PDF المشتركة للحصول على تعليقات لتقليل الارتباك مع الإصدارات النهائية.
+
+
+
+* **علامات ملكية الفواتير والبيانات**  
+
+   &nbsp; أضف علامات هوية المؤسسة إلى ملفات PDF المالية المستخدمة في جميع الأقسام.
+
+
+
+* **مشاركة محددة للوثائق القانونية**  
+
+   &nbsp; وضع علامة مائية على الوثائق الحساسة والاتفاقيات لتعزيز توقعات التعامل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **وضع علامة مائية جماعية لملء الأرشيف**  
+
+   &nbsp; قم بوضع طوابع تاريخية تلقائيًا على ملفات PDF أثناء الانتقال إلى مستودع جديد.
+
+
+
+* **قواعد وضع علامة مائية توجيهية حسب الصفحة**  
+
+   &nbsp; قم بضبط وضع العلامة المائية حسب حجم الصفحة والاتجاه برمجيًا.
+
+
+
+* **طوابع تأكيد الانتهاء المُحفزة بواسطة سير العمل**  
+
+   &nbsp; أضف علامات مائية "FINAL" عند اكتمال الموافقات في نظام آلي.
+
+
+
+* **محتوى علامة مائية ديناميكي مع الطوابع الزمنية**  
+
+   &nbsp; قم بإنشاء علامات مائية تحتوي على التاريخ أو معرف الطلب أو بيانات المستلم لتتبعها.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -140,7 +218,7 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF P
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

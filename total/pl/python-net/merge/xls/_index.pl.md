@@ -78,7 +78,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Łączenie dokumentów Excel i arkuszy kalkulacyjnych za pomocą interfejsów API w języku Python jest niezbędne do konsolidacji strukturyzowanych danych z wielu źródeł w jeden plik, który można analizować. Ta funkcjonalność jest szeroko stosowana w raportowaniu, analizach, finansach i systemach operacyjnych, gdzie dane są rozproszone po wielu arkuszach kalkulacyjnych.
+
+
+
+Automatyzacja łączenia arkuszy kalkulacyjnych umożliwia spójne zarządzanie danymi, redukuje błędy ręczne i integruje przepływy pracy arkuszy kalkulacyjnych bezpośrednio w skalowalne przepływy danych i przetwarzania.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Konsolidacja starych arkuszy kalkulacyjnych (XLS)**  
+
+&nbsp; Połączenie starszych plików XLS w jedną skoroszyt do jednolitej analizy.
+
+
+
+* **Agregacja danych departamentowych (XLS)**  
+
+&nbsp; Połączenie arkuszy kalkulacyjnych XLS z wielu zespołów w jeden główny plik.
+
+
+
+* **Unifikacja danych historycznych (XLS)**  
+
+&nbsp; Konsolidacja zarchiwizowanych danych XLS do celów raportowania i migracji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Harmonogramowe zestawienia danych (XLS)**  
+
+&nbsp; Zadania automatyczne łączą okresowe pliki XLS w raporty konsolidacyjne.
+
+
+
+* **Normalizacja danych z tyłu (XLS)**  
+
+&nbsp; Systemy łączą pliki XLS jako część przepływów pracy czyszczenia danych.
+
+
+
+* **Montaż arkuszy kalkulacyjnych oparty na potoku (XLS)**  
+
+&nbsp; Łączenie plików XLS jest wyzwalane programowo w potokach ETL.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

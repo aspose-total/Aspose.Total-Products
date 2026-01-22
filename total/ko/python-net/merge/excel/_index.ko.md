@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 Excel 호환 스프레드시트 형식을 병합하면 단일 워크플로우에서 다양한 스프레드시트 소스를 처리하는 통합된 방법을 제공합니다. 이 추상화는 혼합된 형식 간의 데이터 통합을 간단하게 합니다.
+
+
+
+자동화를 통해 원본 형식에 관계없이 원활한 스프레드시트 병합이 가능해지며 시스템 유연성과 확장성이 향상됩니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **다중 형식 스프레드시트 통합 (EXCEL)**  
+
+&nbsp; 여러 Excel 호환 파일을 하나의 워크북으로 병합합니다.
+
+
+
+* **다양한 소스 데이터 통합 (EXCEL)**  
+
+&nbsp; 다양한 도구 및 형식에서 스프레드시트를 결합합니다.
+
+
+
+* **기업 데이터 조화 (EXCEL)**  
+
+&nbsp; 이질적인 스프레드시트 데이터를 마스터 파일로 집계합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **형식에 무관한 데이터 파이프라인 (EXCEL)**  
+
+&nbsp; 형식에 관계없이 스프레드시트를 자동으로 병합하는 워크플로우입니다.
+
+
+
+* **통합 보고서 자동화 (EXCEL)**  
+
+&nbsp; 시스템이 동적으로 통합된 Excel 출력물을 생성합니다.
+
+
+
+* **확장 가능한 스프레드시트 Orchestration (EXCEL)**  
+
+&nbsp; 프로그래밍 방식의 병합은 기업 규모의 데이터 워크플로우를 지원합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -98,7 +98,93 @@ För mer information, se [Produktdokumentation](https://docs.aspose.com/words/py
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Dokumentmetadataextrahering för **DOC**-filer via Python-API:er gör att system kan läsa och tolka kärnfilattribut - som författare, skapad tid, senast ändrad tid, revisionsantal och inbäddade egenskaper - utan manuell inspektion. Detta är viktigt för styrning, sökbarhet, revision och kontroll av innehålls livscykel i dokumenttunga arbetsflöden.
+
+
+
+När det integreras i automatiserade pipeliner blir DOC-metadata en pålitlig signal för ruttering, efterlevnadskontroller, indexering och batchbehandling - vilket stöder skalbara dokumentoperationer, konsekvent klassificering och integrering nedströms med lagring, sökning och rapporteringslager.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* **Äldre Dokumentinventering**
+
+  Extrahera metadata från DOC-arkiv för att bygga en strukturerad index för upptäckt, deduplicering och livscykelplanering.
+
+
+
+* **Efterlevnad av tidsstämplar**
+
+  Använd skapade/ändrade fält för att verifiera retentionsregler och upptäcka avvikelser i reglerad dokumentation.
+
+
+
+* **Dokumentägarskapkartläggning**
+
+  Läs författare och senaste redigeringsattribut för att kartlägga dokumentägarskap för granskningsuppgifter och åtkomstkontroller.
+
+
+
+* **Batchkategorisering för sökning**
+
+  Konvertera inbäddade egenskaper till normaliserade taggar för konsekvent filtrering och intern sökberikning.
+
+
+
+* **Spårbarhetssignaler för ändringar**
+
+  Fånga revisionsrelaterade fält för att stödja spårbarhet i redaktionella och godkännandeflöden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* **Arkivmottagningsgrind**
+
+  Acceptera eller placera automatiskt DOC-filer baserat på saknade författarfält, misstänkta tidsstämplar eller ogiltiga metadatamönster.
+
+
+
+* **Metadata-till-index-synkronisering**
+
+  Vid uppladdning, extrahera DOC-metadata och skicka den till en sökindex så att resultaten förblir aktuella utan manuell katalogisering.
+
+
+
+* **Policybaserade rutningsregler**
+
+  Rutt DOC-filer till specifika köer när metadata indikerar konfidentiellt innehåll, föråldrade versioner eller okänt ägarskap.
+
+
+
+* **Schemalagda metadatarevisioner**
+
+  Kör nattliga skanningar som upptäcker metadataavvikelser och genererar undantagsrapporter för operativa team.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

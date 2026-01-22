@@ -85,7 +85,75 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A PNG képek összevonása Python API-k segítségével veszteségmentes képösszeállítást tesz lehetővé a támogatott átlátszósággal. Ez ideális tervezési eszközök, UI elemek és rétegezett vizuális elemek számára.
+
+
+
+Az automatizálás biztosítja a konzisztens képösszeállítást, miközben megőrzi a vizuális integritást.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Átlátszó eszközösszeállítás (PNG)**  
+
+&nbsp; PNG képek összevonása az alfa csatornák megőrzésével.
+
+
+
+* **UI elemek összeállítása (PNG)**  
+
+&nbsp; Kombinálja az interfészgrafikákat egyetlen képekbe.
+
+
+
+* **Tervezési erőforrások összevonása (PNG)**  
+
+&nbsp; Gyűjtse össze a PNG erőforrásokat újrafelhasználás céljából.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Automatizált tervezési csővezetékek (PNG)**  
+
+&nbsp; A rendszerek összevonják a PNG erőforrásokat a build folyamatok során.
+
+
+
+* **Rétegzett képgenerálás (PNG)**  
+
+&nbsp; A PNG összevonás programatikus szabályok által vezérelt.
+
+
+
+* **Skálázható vizuális eszközautomatizálás (PNG)**  
+
+&nbsp; Az automatizált csővezetékek összevonott PNG vizuális elemeket generálnak.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

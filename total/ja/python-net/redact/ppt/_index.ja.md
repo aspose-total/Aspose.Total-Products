@@ -77,7 +77,75 @@ PPT 編集アプリまたはユーティリティを開発する必要があり�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用した文書の作成は、レガシーシステムで一般的な古いプレゼンテーション形式の安全な処理をサポートします。これにより、ファイルの年齢に関係なく機密情報が保護されます。
+
+
+
+自動的な塗りつぶしにより、PPTファイルを手動で介入することなく安全に再利用、アーカイブ化、または共有できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **レガシープレゼンテーションのクリーンアップ**  
+
+&nbsp; 古いPPTファイルから古いまたは機密データを削除します。
+
+
+
+* **アーカイブの近代化**  
+
+&nbsp; 歴史的なプレゼンテーションを安全に再利用するために浄化します。
+
+
+
+* **制御された情報共有**  
+
+&nbsp; レダクトされたPPTファイルを限られた観客向けに準備します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **レガシーフォーマットのパイプライン**  
+
+&nbsp; 新しい形式と並行してPPTファイルを自動的に処理します。
+
+
+
+* **パターンベースの塗りつぶし**  
+
+&nbsp; 事前定義されたルールを使用して機密用語を検出および削除します。
+
+
+
+* **自動アーカイブ処理**  
+
+&nbsp; プログラムにより全体のプレゼンテーションアーカイブを浄化します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

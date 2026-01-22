@@ -104,7 +104,75 @@ ODT パーサー アプリまたはユーティリティを開発する必要が
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用して**ODTドキュメント**を解析することで、オープンソースおよび相互運用性に焦点を当てた環境で一般的に使用されるオープンドキュメント形式から抽出が可能になります。これらの形式は、構造化された標準ベースのコンテンツアクセスをサポートしています。
+
+
+
+オープンフォーマットの自動解析により、携帯性、長期的なアクセシビリティ、シームレスなシステム統合が確保されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **オープンドキュメント処理**  
+
+&nbsp; 標準ベースのドキュメントから構造化されたコンテンツを抽出します。
+
+
+
+* **クロスプラットフォーム互換性**  
+
+&nbsp; プロプライエタリな形式を避ける環境をサポートします。
+
+
+
+* **長期データ保存**  
+
+&nbsp; アーカイブされたオープンドキュメントへの信頼性のあるアクセスを実現します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **相互運用可能なコンテンツパイプライン**  
+
+&nbsp; ロックインを回避してさまざまなシステムにODTデータを統合します。
+
+
+
+* **自動フォーマット変換**  
+
+&nbsp; オープンドキュメントを別の表現形式に変換します。
+
+
+
+* **スキーマに整合した抽出**  
+
+&nbsp; 解析されたコンテンツが事前定義されたデータモデルに一致することを保証します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

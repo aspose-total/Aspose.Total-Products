@@ -90,7 +90,73 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'affichage des fichiers DOT avec des API Python permet d'inspecter les modèles de documents Word utilisés comme base pour la création de contenu standardisé.
+
+Cela permet la validation automatisée et la gouvernance des flux de travail documentaires basés sur des modèles.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Examen de la structure du modèle**  
+
+&nbsp; Afficher les styles prédéfinis et les espaces réservés intégrés dans les modèles Word.
+
+
+
+* **Application de la normalisation**  
+
+&nbsp; Inspecter les modèles pour garantir la cohérence de la mise en forme et de la mise en page.
+
+
+
+* **Validation pré-déploiement**  
+
+&nbsp; Examiner les modèles avant de les distribuer à travers les systèmes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Vérifications de conformité des modèles**  
+
+&nbsp; Les flux de travail Python rendent les fichiers DOT pour valider les règles de mise en forme.
+
+
+
+* **Audits automatisés des modèles**  
+
+&nbsp; Les modèles sont consultés périodiquement pour détecter les modifications non autorisées.
+
+
+
+* **Pipelines de génération de documents**  
+
+&nbsp; La visualisation garantit que les modèles sont prêts pour la création automatisée de documents.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

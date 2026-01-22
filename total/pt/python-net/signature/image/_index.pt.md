@@ -71,7 +71,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/ima
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Assinar entradas de imagem genéricas com APIs Python fornece uma abordagem unificada para aplicar marcas de aprovação e metadados de validação em fontes de imagem mistas. Isso é útil quando os pipelines recebem imagens de várias ferramentas e precisam de governança consistente.
+
+
+
+Quando automatizada, a assinatura de imagem impõe um estado padronizado de "artefato aprovado", garantindo que os sistemas downstream consumam apenas ativos que atendam aos requisitos de qualidade, política ou conformidade.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Padronização de Ativos de Diferentes Fontes**  
+
+&nbsp; Aplicar uma sobreposição de assinatura consistente a imagens provenientes de ferramentas e equipes variadas.
+
+
+
+* **Validação de Imagem de Evidência**  
+
+&nbsp; Assinar imagens usadas como evidência para confirmar a identidade do revisor e o status de aprovação.
+
+
+
+* **Controle de Distribuição de Ativos Aprovados**  
+
+&nbsp; Marcar imagens como aprovadas antes de serem incluídas em pacotes de distribuição.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Marcação de Aprovação no Momento da Ingestão**  
+
+&nbsp; Assinar imagens durante a ingestão após a conclusão das regras de validação e verificação de metadados.
+
+
+
+* **Aplicação de Pontos de Verificação de Política**  
+
+&nbsp; Assinar automaticamente apenas aquelas imagens que passam por regras automatizadas de política e segurança.
+
+
+
+* **Finalização de Sincronização de Repositório**  
+
+&nbsp; Assinar imagens antes de sincronizá-las com repositórios compartilhados para garantir que apenas versões verificadas se propaguem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La firma dei documenti Word con le API di Python formalizza le approvazioni per i documenti aziendali quotidiani come proposte, politiche e comunicazioni interne. Ciò fornisce una prova coerente della revisione e della proprietà all'interno dei flussi di lavoro standard dell'ufficio.
+
+
+
+La firma automatica dei documenti Word riduce la manipolazione manuale applicando le firme quando i documenti raggiungono determinati traguardi nel ciclo di vita, migliorando la scalabilità e la tracciabilità.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Finalizzazione dell'approvazione della proposta**  
+
+&nbsp; Firma le proposte Word una volta completate le revisioni e il contenuto è finalizzato.
+
+
+
+* **Autorizzazione all'aggiornamento della politica**  
+
+&nbsp; Applica le firme ai documenti di politica Word per confermare la pubblicazione autorizzata.
+
+
+
+* **Approvazione del documento operativo**  
+
+&nbsp; Firma i documenti operativi Word per indicare la prontezza al rilascio.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Firma al completamento del percorso di approvazione**  
+
+&nbsp; Firma automaticamente i documenti Word quando i passaggi di instradamento sono completati.
+
+
+
+* **Varco di pubblicazione del repository dei documenti**  
+
+&nbsp; Firma i file Word prima che siano pubblicati nei repository condivisi.
+
+
+
+* **Certificazione dell'uscita della versione automatizzata**  
+
+&nbsp; Firma i documenti Word quando una versione finale è contrassegnata per il rilascio.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

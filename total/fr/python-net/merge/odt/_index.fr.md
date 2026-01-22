@@ -78,7 +78,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusion de fichiers texte OpenDocument à l'aide des API Python prend en charge les normes ouvertes et les flux de travail de documents multiplateformes. Cela permet une consolidation transparente du contenu créé dans des environnements de bureau open source ou mixtes.
+
+
+
+L'automatisation autour de la fusion ODT garantit l'interopérabilité tout en maintenant l'intégrité des documents sur l'ensemble des systèmes.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Consolidation de documents multiplateformes (ODT)**  
+
+&nbsp; Fusionner des fichiers ODT créés dans différentes suites bureautiques.
+
+
+
+* **Aggrégation de contenu conforme aux normes ouvertes (ODT)**  
+
+&nbsp; Combinez des documents ODT pour une publication unifiée.
+
+
+
+* **Assemblage collaboratif de contenu (ODT)**  
+
+&nbsp; Fusionner des fichiers ODT de plusieurs contributeurs en un seul document.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Automatisation des flux de travail ouverts (ODT)**  
+
+&nbsp; Les systèmes automatisés fusionnent des fichiers ODT sans dépendances propriétaires.
+
+
+
+* **Compilation de documents planifiée (ODT)**  
+
+&nbsp; La fusion ODT s'exécute dans le cadre de tâches récurrentes en arrière-plan.
+
+
+
+* **Pipelines de publication interopérables (ODT)**  
+
+&nbsp; Les fichiers ODT sont fusionnés dynamiquement dans des pipelines inter-systèmes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -145,7 +213,7 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

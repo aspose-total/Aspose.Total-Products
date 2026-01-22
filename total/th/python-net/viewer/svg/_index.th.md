@@ -82,7 +82,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การดู SVG ผ่าน Python APIs ช่วยให้สามารถแสดงกราฟิกแบบเวกเตอร์ที่มีความคมชัดและแม่นยำได้
+
+สิ่งนี้มีคุณค่าสำหรับระบบที่พึ่งพาที่มีการแสดงผลที่ไม่ขึ้นอยู่กับความละเอียด
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **การตรวจสอบกราฟิกแบบเวกเตอร์**  
+
+&nbsp; ดูกราฟิกโดยไม่สูญเสียคุณภาพ
+
+
+
+* **การตรวจสอบไดอะแกรม**  
+
+&nbsp; ตรวจสอบภาพประกอบทางเทคนิคหรือแผนภาพ
+
+
+
+* **การตรวจสอบสินทรัพย์ดีไซน์**  
+
+&nbsp; ตรวจสอบสินทรัพย์ทางสายตาที่ใช้ในแอปพลิเคชันหรือเอกสาร
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* **การทำท่อไดอะแกรมแบบอัตโนมัติ**  
+
+&nbsp; สคริปต์ Python แสดง SVGs ระหว่างการทำงานของเอกสาร
+
+
+
+* **ระบบดูตัวอย่างที่ขยายได้**  
+
+&nbsp; กราฟิกแบบเวกเตอร์ถูกแสดงไดนามิกที่ขนาดต่าง ๆ
+
+
+
+* **การตรวจสอบความสม่ำเสมอทางสายตา**  
+
+&nbsp; การดูแบบอัตโนมัติทำให้สินทรัพย์แสดงผลถูกต้อง
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

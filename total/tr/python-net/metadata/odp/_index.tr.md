@@ -75,7 +75,93 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri aracılığıyla **ODP** dosyaları için belge meta verisi çıkarma, sistemlere sunum özelliklerini ve gömülü özellikleri okuma olanağı sağlar—dosyayı GUI'de açmadan yönetim, keşif ve yaşam döngüsü yönetimini destekler. Bu, büyük miktarda eğitim, satış veya operasyonel sunumları yöneten ekipler için önemlidir.
+
+
+
+Otomatik iş akışlarında, ODP meta verileri dizin oluşturmayı, sınıflandırmayı ve kontrol edilmiş yayınlamayı yönlendirebilir—sunum kütaplıklarını daha kolay bakım yapılabilir, aranabilir ve içerik dağıtım sistemlerine entegre edilebilir hale getirir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* **Sunum Kütaplığı Dizinleme**
+
+  Yazar, konu ve güncelleme zamanı gibi özelliklere göre aranabilir slayt kütaplıkları katalogları oluşturmak için ODP meta verilerini çıkarın.
+
+
+
+* **Eğitim İçeriği Güncellik Kontrolleri**
+
+  Güncelleme zaman damgalarını kullanarak yenilenmesi gereken eski slayt kütaplıklarını tanımlayın.
+
+
+
+* **Departman Bazlı Sınıflandırma**
+
+  Yapılandırılmış kategorilere metadata özelliklerini normalize ederek tutarlı organizasyon ve erişim kontrolleri sağlayın.
+
+
+
+* **Varlık Yönetimi Raporlama**
+
+  Kullanım hazırlığı, kapsama boşlukları ve bakım sahipliği ölçmek için ODP meta verilerini toplayın.
+
+
+
+* **Toplu Taşıma Hazırlığı**
+
+  Yeni depolama veya yayınlama ortamlarına taşınmadan önce ODP özelliklerini denetleyin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik Slayt Kütaplığı Alma**
+
+  Yükleme sırasında ODP meta verilerini çıkarın ve slayt kütaplığını doğru depo bölümüne otomatik olarak atayın.
+
+
+
+* **Eskilik Uyarı Otomasyonu**
+
+  ODP kütaplıkları güncelleme eşiklerini aştığında veya sorumlu sahiplik alanları eksik olduğunda uyarıları tetikleyin.
+
+
+
+* **Meta Veriye Dayalı Yayınlama Kuralları**
+
+  Gizlilik veya yalnızca iç kullanımı gösteren meta veri bayraklarına dayanarak ODP kütaplıklarını yayınlayın veya kısıtlayın.
+
+
+
+* **Toplu Denetim ve Raporlama İşleri**
+
+  Yönetim ve operasyonel denetimler için ODP meta veri özetlerini dışa aktaran zamanlanmış işleri çalıştırın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

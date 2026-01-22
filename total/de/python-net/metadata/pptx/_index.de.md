@@ -75,7 +75,93 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Extraktion von Metadaten für **PPTX**-Dateien über Python-APIs ermöglicht strukturierten Zugriff auf moderne Präsentationseigenschaften und ermöglicht eine konsistente Indizierung, Überprüfung und Lebenszyklusverfolgung von Präsentationsfolien im großen Maßstab. Dies ist wertvoll für Organisationen, die große Mengen an betrieblichen, Schulungs- oder kundenorientierten Präsentationen verwalten.
+
+
+
+In Automatisierungspipelines wird PPTX-Metadaten zu einer leichten Steuerungsebene für Routing und Governance: Es unterstützt die automatische Klassifizierung, geplante Überprüfungen, Veröffentlichungssteuerungen und Integrationen mit Such- und Content-Management-Systemen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Präsentationskatalog und Entdeckung**
+
+  Extrahieren Sie PPTX-Metadaten, um durchsuchbare Kataloge nach Thema, Besitzer und Aktualisierungsverlauf zu erstellen.
+
+
+
+* **Lebenszyklus-Governance für Präsentationsfolien**
+
+  Verwenden Sie Zeitstempel und benutzerdefinierte Eigenschaften, um Überprüfungszyklen und Richtlinien zur Aktualität des Inhalts durchzusetzen.
+
+
+
+* **Automatische Zuweisung von Eigentumsrechten**
+
+  Ordnen Sie Autor- und zuletzt bearbeitete Felder den verantwortlichen Teams für Genehmigungen und Wartung zu.
+
+
+
+* **Validierung der Veröffentlichungsbereitschaft**
+
+  Stellen Sie sicher, dass erforderliche beschreibende Eigenschaften vorhanden sind, bevor eine PPTX-Präsentation extern verteilt wird.
+
+
+
+* **Betriebliche Audit-Trails**
+
+  Pflegen Sie metadatenbasierte Audit-Protokolle, wann Präsentationen erstellt, aktualisiert und von wem sie bearbeitet wurden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Klassifizierung und Tagging zur Upload-Zeit**
+
+  Extrahieren Sie PPTX-Metadaten beim Eingang und wenden Sie automatisch Tags und Regeln für die Ordnerzuweisung an, um eine konsistente Organisation sicherzustellen.
+
+
+
+* **Generierung von geplanten Überprüfungsaufgaben**
+
+  Erstellen Sie periodische Überprüfungsaufgaben, wenn PPTX-Präsentationen Staleness-Schwellenwerte überschreiten oder Metadaten auf Eigentumsänderungen hinweisen.
+
+
+
+* **Kontrollierte Verteilungspipeline**
+
+  Erlauben oder beschränken Sie die Verteilung von PPTX-Präsentationen basierend auf Metadatenflags wie nur intern oder vertrauliche Kategorien.
+
+
+
+* **Metadatensynchronisierung mit Suchsystemen**
+
+  Drücken Sie kontinuierlich PPTX-Metadaten in einen Index, damit Präsentationsfolien ohne manuelle Katalogwartung auffindbar sind.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

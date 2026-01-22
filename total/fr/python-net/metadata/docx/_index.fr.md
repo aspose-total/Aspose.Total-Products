@@ -98,7 +98,93 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'extraction des métadonnées de documents pour les fichiers **DOCX** via des API Python permet un accès structuré aux propriétés des documents Word modernes, favorisant l'indexation fiable, l'audit et les opérations de contenu sans examen manuel. Cela améliore la visibilité sur les détails du cycle de vie du document tels que l'auteur, les modifications et les descripteurs intégrés.
+
+
+
+En automatisation, les métadonnées DOCX deviennent une couche de contrôle efficace pour le routage et la validation : les pipelines peuvent appliquer des normes, peupler des catalogues et s'intégrer à des outils de recherche, d'analyse et de gouvernance à grande échelle.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Enrichissement de l'index de recherche**
+
+  Convertir les métadonnées DOCX en champs normalisés pour améliorer le filtrage, le classement et la découverte.
+
+
+
+* **Attribution de propriété et de révision**
+
+  Utiliser les métadonnées de l'auteur et de la dernière modification pour attribuer automatiquement des relecteurs et maintenir la responsabilité.
+
+
+
+* **Surveillance de l'hygiène des versions**
+
+  Détecter les documents obsolètes en comparant l'heure de la dernière modification aux seuils de politique.
+
+
+
+* **Validation de l'exhaustivité des métadonnées**
+
+  S'assurer que les propriétés requises (titre, sujet, mots-clés) existent avant la publication ou la distribution.
+
+
+
+* **Reporting au niveau du portefeuille**
+
+  Agréger les métadonnées DOCX à travers les référentiels pour produire des informations sur la couverture, l'âge et l'activité.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Validation des métadonnées au moment du téléchargement**
+
+  À l'ingestion, rejeter ou signaler les fichiers DOCX manquants de propriétés obligatoires et notifier automatiquement l'expéditeur.
+
+
+
+* **Balisage automatique et catégorisation**
+
+  Utiliser les mots-clés DOCX et les champs personnalisés pour appliquer des balises cohérentes et des règles de routage de dossiers de manière programmée.
+
+
+
+* **Balayage continu de la conformité**
+
+  Exécuter des tâches planifiées qui identifient les fichiers DOCX violant les délais de conservation ou les détails de propriété manquants.
+
+
+
+* **Pipeline de publication piloté par les métadonnées**
+
+  Extraire les métadonnées DOCX pour peupler les titres de page, les résumés et les entrées d'index pour les systèmes de publication automatisés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -77,7 +77,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La recherche de documents **PDF** à l'aide d'API Python permet une découverte fiable des informations stockées dans l'un des formats les plus largement utilisés pour les rapports, les contrats, les manuels et les dossiers officiels. La recherche PDF programmable aide les systèmes modernes à localiser le texte pertinent et la structure à travers de grandes collections de documents sans lecture manuelle.
+
+
+
+Lorsqu'elle est intégrée dans des pipelines d'automatisation, la recherche PDF prend en charge l'indexation évolutive, la récupération plus rapide et l'intégration transparente avec les workflows d'analyse, de conformité et de gestion des connaissances.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Découverte de mots-clés PDF**  
+
+&nbsp; Trouve des termes et des phrases ciblés à travers de grands ensembles de documents PDF.
+
+
+
+* **Récupération de sections de rapport**  
+
+&nbsp; Localise des sections clés telles que des résumés, des tableaux et des conclusions à l'intérieur des PDF.
+
+
+
+* **Recherche de référentiel de documents**  
+
+&nbsp; Permet un accès consultable aux PDF stockés à travers des dossiers et des systèmes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Pipeline d'indexation PDF automatisé**  
+
+&nbsp; Les services Python extraient le texte et mettent à jour les index de recherche PDF selon un calendrier.
+
+
+
+* **Automatisation de l'examen de conformité PDF**  
+
+&nbsp; Les recherches programmatiques détectent les clauses requises et les déclarations manquantes dans les PDF.
+
+
+
+* **Extraction dynamique d'informations PDF**  
+
+&nbsp; Les résultats de la recherche alimentent des résumés automatisés, des alertes et des workflows de traitement en aval.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

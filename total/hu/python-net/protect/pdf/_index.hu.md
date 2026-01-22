@@ -72,7 +72,75 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A PDF a leggyakoribb formátum a végső és megosztható dokumentumokhoz. A PDF-ek védelme kulcsfontosságú a hozzáférés ellenőrzéséhez, a másolás megakadályozásához és a tartalom hitelességének biztosításához a digitális terjesztési csatornákon át.
+
+
+
+A Python API-k lehetővé teszik a PDF-ek védelmének automatizálását, a biztonság közvetlen integrálását a dokumentumgenerálásba, jóváhagyásba és kézbesítési folyamatokba.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Biztonságos dokumentumküldés**  
+
+&nbsp; Védje a PDF-eket, amelyeket ügyfeleknek vagy érdekelteknek küldenek.
+
+
+
+* **Csak olvasható tartalom végrehajtása**  
+
+&nbsp; Akadályozza meg a véglegesített dokumentumok szerkesztését vagy másolását.
+
+
+
+* **Bizalmas információk védelme**  
+
+&nbsp; Korlátozza a hozzáférést az érzékeny adatokhoz a PDF-ekben.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Automatizált PDF zárolás**  
+
+&nbsp; Alkalmazza a védelmet azonnal a PDF-generálás után.
+
+
+
+* **Dinamikus jelszó hozzárendelése**  
+
+&nbsp; Programozottan generáljon és alkalmazzon jelszavakat címzett szerint.
+
+
+
+* **Szabályozás-vezérelt biztonság**  
+
+&nbsp; Automatikusan érvényesítse a PDF-védelmet a szabályozási követelmények teljesítése érdekében.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

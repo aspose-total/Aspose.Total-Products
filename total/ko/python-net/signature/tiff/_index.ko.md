@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 TIFF 파일에 서명하는 것은 기록 관리 및 아카이브 워크플로에서 일반적으로 사용되는 고품질 스캔 및 이미지의 거버넌스를 강화합니다. 이는 중요한 스캔 문서의 진정성과 추적 가능성을 보존하는 데 도움이 됩니다.
+
+
+
+자동화된 파이프라인에서는 TIFF 서명이 검증 및 색인 작업 이후에 수행될 수 있어서 저장된 스캔이 일관된 승인 및 출처 표시를 가지도록 보장합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **스캔 진정성 증명**
+
+  &nbsp; 확인된 원본을 나타내는 것을 확인하기 위해 TIFF 스캔에 서명합니다.
+
+
+
+* **기록 관리 승인**
+
+  &nbsp; 기록 보관 시스템에 파일을 제출하기 전에 TIFF 파일에 서명을 적용합니다.
+
+
+
+* **고해상도 증거 확인**
+
+  &nbsp; 리뷰어 신원 및 승인을 문서화하기 위해 TIFF 증거 자산에 서명합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **후색인 서명 단계**
+
+  &nbsp; OCR/색인 및 검증이 완료된 후 자동으로 TIFF 파일에 서명합니다.
+
+
+
+* **컴플라이언스 보존 파이프라인**
+
+  &nbsp; 감사 트레일을 강화하기 위해 보존 저장소에 들어가는 TIFF 레코드에 서명합니다.
+
+
+
+* **대량 스캔 완료 작업**
+
+  &nbsp; 대규모 스캔 작업을 위해 프로그래밍 방식으로 TIFF 일괄에 서명합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

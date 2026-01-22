@@ -89,7 +89,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+عرض ملفات PPS و PPSM و PPSX باستخدام واجهات برمجة التطبيقات في Python يسمح بفحص العروض التقديمية الموجهة للعرض المباشر.
+
+يدعم هذا الفحص التلقائي دون الحاجة إلى برامج العروض التقديمية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **مراجعة محتوى العرض التقديمي**  
+
+&nbsp; عرض العروض التقديمية المخصصة للعرض الفوري.
+
+
+
+* **تفتيش هيكل التشغيل**  
+
+&nbsp; فحص تدفق الشرائح والانتقالات.
+
+
+
+* **التحقق من التوزيع**  
+
+&nbsp; التأكد من صحة ملفات العرض التقديمي قبل المشاركة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائي" %}}
+
+
+
+* **فحص العروض التقديمية التلقائي**  
+
+&nbsp; تقوم سير العمل في Python بتقديم ملفات العرض التقديمي للمراجعة.
+
+
+
+* **معاينة قبل التوزيع**  
+
+&nbsp; يتم عرض العروض التقديمية بشكل ديناميكي.
+
+
+
+* **أنابيب ضمان الجودة**  
+
+&nbsp; العرض يضمن جاهزية التسليم.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

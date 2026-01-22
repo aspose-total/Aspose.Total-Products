@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+חתימה על קבצי PPT באמצעות Python APIs תומכת בתהליכי עבודה מורשים שבהם נדרשים עדי פואורפוינט ישנים. זה מוסיף אינדיקטורים של ממשל ואישור מבלי לכפות שדרוגים מיידיים לפורמטים חדשים.
+
+
+
+חתימה אוטומטית של קבצי PPT עוזרת לצוותים לשמור על בקרת אישור עקבית בכלל ריפוזיטוריי המצגות בפורמטים שונים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* **סימון אישור קרות מורשות**  
+
+&nbsp; לחתום על מצגות PPT המשמשות בסביבות מסירה ארכיוניות או ישנות.
+
+
+
+* **אישור ארכיון לארכיון הדרכה**  
+
+&nbsp; ליישם סימוני אישור על מצגות הדרכה PPT המאוחסנות לטווח ארוך.
+
+
+
+* **ייחוד הבעלות על המצגת**  
+
+&nbsp; לחתום על קבצי PPT כדי לציין בבהיר מי אישר את ההפצה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **חתימת קליטת ארכיון**  
+
+&nbsp; לחתום באופן אוטומטי על קבצי PPT כאשר הם מועברים לאחסון ארכיוני.
+
+
+
+* **הפעלת אישור תהליך עבודה מורשה**  
+
+&nbsp; לחתום על מסמכי PPT לאחר שהתהליכים המורשים הושלמו.
+
+
+
+* **ממשלת ריפוזיטורי צורפת**  
+
+&nbsp; לחתום באופן תכנותי על סטים גדולים של קבצי PPT כדי לתקן ריפוזיטוריים היסטוריים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

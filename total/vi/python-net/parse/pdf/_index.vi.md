@@ -100,7 +100,75 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Words for Python via 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Phân tích **tài liệu PDF** bằng Python APIs cho phép trích xuất thông tin văn bản và bố cục từ định dạng cố định được sử dụng phổ biến. PDF thường xuất hiện trong các báo cáo, hóa đơn và hồ sơ chính thức.
+
+
+
+Phân tích PDF tự động mở khóa nội dung không thể chỉnh sửa để phân tích, tìm kiếm và tích hợp hệ thống mà không cần can thiệp thủ công.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Trích Xuất Dữ Liệu Báo Cáo**  
+
+  &nbsp; Trích xuất nội dung văn bản từ các báo cáo PDF tĩnh.
+
+
+
+* **Xử Lý Lưu Trữ Tài Liệu**  
+
+  &nbsp; Chuyển đổi PDF thành văn bản có thể tìm kiếm và lập chỉ mục.
+
+
+
+* **Hệ Thống Truy Xuất Thông Tin**  
+
+  &nbsp; Cho phép khám phá nội dung trong các bộ sưu tập PDF lớn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Tiếp Nhận PDF Theo Lịch Trình**  
+
+  &nbsp; Xử lý tự động các PDF đến theo một chu kỳ cố định.
+
+
+
+* **Đường Ống Chuẩn Hóa Văn Bản**  
+
+  &nbsp; Làm sạch và chuẩn hóa văn bản PDF trích xuất theo cách tự động.
+
+
+
+* **Kích Hoạt Phân Tích Hậu Cần**  
+
+  &nbsp; Cung cấp nội dung PDF đã phân tích vào luồng công việc phân tích hoặc ML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

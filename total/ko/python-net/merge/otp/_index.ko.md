@@ -79,7 +79,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 프레젠테이션 템플릿 형식을 병합하면 오픈 및 프로프리테리 생태계 전반에 걸쳐 일관된 슬라이드 생성이 가능해집니다. 템플릿 병합은 구조적 일관성을 보장합니다.
+
+
+
+자동화는 예측 가능한 레이아웃으로 빠른 프레젠테이션 생성을 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **템플릿 기반 프레젠테이션 어셈블리 (OTP)**  
+
+&nbsp; OTP 템플릿을 표준화된 덱으로 병합합니다.
+
+
+
+* **재사용 가능한 슬라이드 프레임워크 (OTP)**  
+
+&nbsp; 일관성을 위해 OTP 기반 구조를 결합합니다.
+
+
+
+* **디자인 표준화 (OTP)**  
+
+&nbsp; OTP 템플릿을 통합된 형식으로 집계합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동화된 템플릿 강제 실행 (OTP)**  
+
+&nbsp; OTP 템플릿이 프로그래밍 방식으로 병합됩니다.
+
+
+
+* **일괄 프레젠테이션 생성 (OTP)**  
+
+&nbsp; 일정 실행 중에 템플릿이 병합됩니다.
+
+
+
+* **레이아웃 제어 파이프라인 (OTP)**  
+
+&nbsp; 시스템은 템플릿 병합을 통해 구조를 강제합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

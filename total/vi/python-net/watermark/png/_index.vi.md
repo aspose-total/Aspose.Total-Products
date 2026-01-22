@@ -73,7 +73,85 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Imaging for Python via
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chèn dấu nước vào hình ảnh **PNG** bằng Python APIs bảo vệ đồ họa dựa vào các cạnh sắc nét và tính trong suốt, như tài sản giao diện người dùng, sơ đồ và hình ảnh thương hiệu.
+
+Tự động hóa cho phép chồng dấu nước một cách nhất quán trong khi tôn trọng các kênh alpha, làm cho việc chèn dấu nước vào PNG đáng tin cậy cho các hệ thống thiết kế và xuất bản web ở quy mô lớn.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Bảo Vệ Logo Trong Suốt**  
+
+&nbsp; Áp dụng dấu nước vào logo PNG trong suốt để ngăn chặn việc sử dụng không được cấp phép.
+
+
+
+* **Sở Hữu Sơ Đồ Cho Tài Liệu**  
+
+&nbsp; Đóng dấu các sơ đồ kỹ thuật để bảo toàn thông tin nguồn gốc trên các cơ sở kiến thức được sao chép.
+
+
+
+* **Quản Lý Tài Sản Giao Diện Người Dùng**  
+
+&nbsp; Chèn dấu nước vào các bản mẫu giao diện đã được xuất để làm rõ trạng thái bản nháp và quyền sở hữu.
+
+
+
+* **Kiểm Soát Phân Phối Bộ Kit Đối Tác**  
+
+&nbsp; Thêm nhận dạng vào các tài sản PNG được chia sẻ để theo dõi quá trình phân phối và sử dụng lại.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Hiển Thị Dấu Nước An Toàn Với Alpha**  
+
+&nbsp; Áp dụng dấu nước mờ mờ mà không làm hỏng tính trong suốt của hình ảnh gốc.
+
+
+
+* **Đóng Dấu Hệ Thống Xuất Thiết Kế**  
+
+&nbsp; Tự động chèn dấu nước vào các bản xuất PNG khi tài sản được tạo từ các mẫu.
+
+
+
+* **Đặt Chỗ An Toàn Theo Nội Dung**  
+
+&nbsp; Tự động tránh việc chèn dấu nước lên các phần tử giao diện người dùng quan trọng hoặc nhãn sơ đồ.
+
+
+
+* **Sản Xuất Biến Thể Tự Động Cho Đội Ngũ**  
+
+&nbsp; Tạo các bộ PNG có dấu nước cụ thể cho từng nhóm để hợp tác kiểm soát.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

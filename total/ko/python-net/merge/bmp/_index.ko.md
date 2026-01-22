@@ -85,7 +85,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 비트맵 이미지를 병합하면 원시, 압축되지 않은 시각 자료를 단일 복합 이미지 또는 일련으로 통합할 수 있습니다. 이는 기술 이미징, 스캔 워크플로우 및 이미지 충실도가 파일 크기보다 우선시되는 시스템에서 유용합니다.
+
+
+
+자동 BMP 병합은 정밀성, 반복 가능성 및 시스템 주도적 구성이 필요한 이미지 처리 파이프라인을 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **스캔 이미지 편집 (BMP)**  
+
+&nbsp; 여러 BMP 스캔을 단일 복합 이미지로 병합합니다.
+
+
+
+* **기술 다이어그램 조립 (BMP)**  
+
+&nbsp; 비트맵 다이어그램을 통합된 시각 자료로 결합합니다.
+
+
+
+* **원본 이미지 아카이빙 (BMP)**  
+
+&nbsp; 장기 저장이나 처리를 위해 BMP 파일을 집계합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동 스캔 처리 (BMP)**  
+
+&nbsp; 시스템은 흡수 워크플로 중에 BMP 이미지를 병합합니다.
+
+
+
+* **일괄 이미지 구성 (BMP)**  
+
+&nbsp; 예약된 작업은 비트맵 이미지를 프로그래밍 방식으로 병합합니다.
+
+
+
+* **정밀 이미징 파이프라인 (BMP)**  
+
+&nbsp; BMP 병합은 제어 처리 시스템에 내장되어 있습니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

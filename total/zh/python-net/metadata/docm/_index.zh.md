@@ -98,7 +98,93 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+通过Python API提取**DOCM**文件的文档元数据，帮助系统检查文档属性，同时考虑宏启用内容及其相关风险信号。这对于治理、安全处理和分类非常有价值，特别是当文档在团队或环境之间移动时。
+
+
+
+在自动化工作流中，DOCM元数据可以驱动动态控制，如安全筛查、条件批准和受限分发，同时实现可扩展的索引和报告，而无需交互式地打开文件。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **宏感知文档筛查**
+
+  使用元数据标记宏启用文档，以进行额外审查和受控处理。
+
+
+
+* **敏感工作流分类**
+
+  根据嵌入属性对DOCM文件进行分类，以应用更严格的存储和访问策略。
+
+
+
+* **操作溯源跟踪**
+
+  捕获创作和修改历史字段，以追踪宏启用文件的生成位置和时间。
+
+
+
+* **存储库健康报告**
+
+  生成关于DOCM数量、年龄和所有权的报告，以管理规模化的风险暴露。
+
+
+
+* **受控分发准备**
+
+  在允许DOCM文件进入下游共享或发布流程之前，验证所需的元数据字段。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **风险评分接收管道**
+
+  使用元数据完整性和最新性自动评分DOCM文件，然后将其路由到“审查”或“批准”通道。
+
+
+
+* **受限存储强制执行**
+
+  如果检测到DOCM文件，自动化将其移动到受限位置并应用更严格的保留规则。
+
+
+
+* **宏启用异常警报**
+
+  当DOCM元数据指示意外来源、异常时间戳或缺失所有权字段时触发警报。
+
+
+
+* **自动化库存仪表板**
+
+  持续提取和汇总DOCM元数据到仪表板，用于治理和运营监督。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -82,7 +82,73 @@ Para obter mais detalhes, consulte [Documentação do Produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A visualização de GIF com APIs Python permite a visualização de sequências de imagens animadas ou estáticas para inspeção e verificação.
+
+Isso suporta fluxos de trabalho automatizados envolvendo gráficos de movimento ou indicadores visuais.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Revisão de Conteúdo Animado**  
+
+  Visualize animações baseadas em quadros de forma programática.
+
+
+
+* **Validação de Indicadores Visuais**  
+
+  Inspeccione sinais animados ou gráficos instrutivos.
+
+
+
+* **Inspeção de Ativos de Mídia**  
+
+  Revise sequências de imagens usadas em fluxos de trabalho.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Validação Automatizada de Mídia**  
+
+  Pipelines Python exibem GIFs durante verificações de qualidade.
+
+
+
+* **Sistemas de Geração de Pré-visualização**  
+
+  Pré-visualizações animadas são renderizadas dinamicamente.
+
+
+
+* **Visualização de Depuração de Fluxo de Trabalho**  
+
+  Os GIFs são visualizados para verificar estados do processo visualmente.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

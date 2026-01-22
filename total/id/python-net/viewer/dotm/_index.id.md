@@ -90,7 +90,73 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Tampilan DOTM dengan Python APIs memungkinkan inspeksi aman terhadap template Word yang mengandung makro tanpa menjalankan logika tersemat.
+
+Hal ini penting untuk lingkungan yang terkontrol di mana visibilitas dan keamanan harus ada bersamaan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Ulasan Template yang Mengandung Makro**  
+
+&nbsp; Melihat konten template sambil menjaga makro tetap tidak aktif.
+
+
+
+* **Inspeksi yang Berorientasi pada Keamanan**  
+
+&nbsp; Memeriksa struktur tanpa mengungkapkan sistem pada risiko eksekusi.
+
+
+
+* **Proses Persetujuan Template**  
+
+&nbsp; Meninjau template sebelum didistribusikan secara terkontrol.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skema Otomatisasi" %}}
+
+
+
+* **Penerimaan Template yang Aman**  
+
+&nbsp; Penampil Python menampilkan file DOTM dengan aman selama proses penerimaan.
+
+
+
+* **Otomatisasi Tata Kelola**  
+
+&nbsp; Template ditinjau sebagai bagian dari pemeriksaan kebijakan otomatis.
+
+
+
+* **Pipa Validasi Sebelum Penggunaan**  
+
+&nbsp; Pratinjau otomatis mendukung alur kerja persetujuan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

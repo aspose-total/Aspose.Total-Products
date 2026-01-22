@@ -97,7 +97,93 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+通过Python API提取**PDF**文件的文档元数据有助于系统捕获核心属性，如标题、作者、制作人、创建和修改日期以及嵌入式标识符，即使内容主要是固定布局，也支持治理和发现。这对于审计、编目和处理大容量PDF存储库至关重要。
+
+
+
+在自动化流水线中，PDF元数据可以驱动索引、路由、保留执行和批处理，使得将PDF集成到可扩展工作流程中变得实用，无需手动分类。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **数字档案编目**
+
+  提取PDF元数据以建立具有可搜索属性的可靠文档清单。
+
+
+
+* **合规性和保留审计**
+
+  使用创建/修改时间戳验证保留时间表，并检测不一致性。
+
+
+
+* **制作人和来源归属**
+
+  捕获与制作者相关的属性，以了解内容来源和处理渊源。
+
+
+
+* **批量分类信号**
+
+  使用元数据字段将PDF分类为政策、发票、手册或报告等领域。
+
+
+
+* **运营质量检查**
+
+  将缺失或可疑元数据的PDF标记为需要整改或手动审核的候选对象。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动摄取分类**
+
+  当PDF到达时，提取元数据并根据完整性和敏感性规则将其路由到处理通道。
+
+
+
+* **元数据驱动的索引更新**
+
+  每当添加或替换PDF时，使用元数据自动更新搜索索引，以实现快速检索。
+
+
+
+* **保留执行工作流**
+
+  运行定时作业，识别超过保留期限的PDF，并生成删除或归档任务。
+
+
+
+* **批量报告和仪表板**
+
+  将提取的PDF元数据汇总到定期报告中，用于治理、合规性和运营监督。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

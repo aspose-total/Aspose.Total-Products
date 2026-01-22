@@ -89,7 +89,73 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'affichage des fichiers PPSM avec des API Python permet une inspection sécurisée des présentations de diaporamas activés par macro conçues pour une lecture automatique.
+
+Cela prend en charge les flux de travail d'automatisation contrôlés où la visibilité est requise sans exécuter de macros intégrées.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Examen de diaporamas activés par macro**  
+
+&nbsp; Visualisez le contenu du diaporama tout en maintenant les macros inactives.
+
+
+
+* **Inspection du flux de lecture**  
+
+&nbsp; Inspectez l'ordre des diapositives et la structure de la présentation destinée à l'affichage automatique.
+
+
+
+* **Validation de la distribution sécurisée**  
+
+&nbsp; Examinez les fichiers PPSM avant le partage ou le déploiement contrôlés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Pipelines d'admission de diaporamas sécurisés**  
+
+&nbsp; Les flux de travail Python rendent les fichiers PPSM en toute sécurité lors de l'ingestion.
+
+
+
+* **Automatisation de l'examen axée sur la conformité**  
+
+&nbsp; Les diaporamas sont visualisés dans le cadre de vérifications automatisées de conformité.
+
+
+
+* **Flux de travail de présentation pré-approuvée**  
+
+&nbsp; Les aperçus automatisés prennent en charge les approbations humaines ou basées sur le système.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

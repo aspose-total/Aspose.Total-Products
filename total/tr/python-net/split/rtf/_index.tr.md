@@ -79,7 +79,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+RTF dosyaları, gömülü biçimlendirme içeren taşınabilir, metin odaklı bir belge formatı sağlar. RTF dosyalarını bölmek, biçimlendirilmiş içeriğin kontrollü çıkarılmasını sağlar.
+
+
+
+Python otomasyonu, büyük ölçekli sistemlerde RTF belgelerinin verimli bir şekilde işlenmesini sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Biçimlendirilmiş Metin Çıkarma**  
+
+  &nbsp; Biçimlendirmeyi koruyarak bölümler çıkarın.
+
+
+
+* **Uyumlu İçerik İşleme**  
+
+  &nbsp; Çıkarılan içeriği platformlar arasında kullanın.
+
+
+
+* **Belge Basitleştirme**  
+
+  &nbsp; Karmaşık dosyaları yönetilebilir birimlere ayırın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Desen Tabanlı Bölüm Bölme**  
+
+  &nbsp; Python, içeriği bölmek için kontrol kelimelerini tanır.
+
+
+
+* **Otomatik İçerik Dönüşümü**  
+
+  &nbsp; Çıkarılan bölümler programatik olarak dönüştürülür.
+
+
+
+* **Çapraz Sistem İçerik Boruları**  
+
+  &nbsp; Bölümler farklı sistemlere sorunsuz bir şekilde akar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La firma dei file PPT con le API di Python supporta i flussi di lavoro delle presentazioni legacy in cui sono ancora necessari formati PowerPoint più vecchi. Questo aggiunge indicatori di governance e di approvazione senza obbligare a un aggiornamento immediato del formato.
+
+
+
+La firma automatizzata dei file PPT aiuta i team a mantenere controlli di approvazione consistenti attraverso repository di presentazioni con formati misti.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Marchio di Approvazione Deck Legacy**  
+
+  &nbsp; Firma i deck PPT utilizzati in ambienti di consegna archiviati o più vecchi.
+
+
+
+* **Certificazione Archivio Formazione**  
+
+  &nbsp; Applica marchi di approvazione ai deck di formazione PPT conservati a lungo termine.
+
+
+
+* **Attribuzione della Proprietà della Presentazione**  
+
+  &nbsp; Firma i file PPT per indicare chi ha approvato la distribuzione.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Firma Ingestione Archivio**  
+
+  &nbsp; Firma automaticamente i file PPT quando vengono spostati nello storage archiviato.
+
+
+
+* **Trigger di Approvazione Workflow Legacy**  
+
+  &nbsp; Firma i documenti PPT dopo che i processi di revisione legacy sono completati.
+
+
+
+* **Governance del Repository Batch**  
+
+  &nbsp; Firma programmaticamente grandi set di file PPT per standardizzare i repository storici.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

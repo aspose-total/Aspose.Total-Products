@@ -71,7 +71,75 @@ Para obter mais detalhes, consulte [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Assinar documentos ODT usando APIs Python permite que documentos de texto em formato aberto carreguem marcadores de aprovação verificados e metadados do signatário. Isso suporta ciclos de vida de documentação controlados sem depender de formatos proprietários.
+
+
+
+Nos pipelines de automação, a assinatura de ODT garante que as aprovações sejam aplicadas de forma consistente no momento do fechamento da revisão, melhorando a auditabilidade e reduzindo o manuseio manual de documentos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Aprovação de Política em Formato Aberto**  
+
+&nbsp; Assine documentos de política ODT para confirmar a revisão final e autorização.
+
+
+
+* **Encerramento do Fluxo de Trabalho Editorial**  
+
+&nbsp; Aplique assinaturas a rascunhos ODT quando a revisão de conteúdo for concluída.
+
+
+
+* **Governança da Base de Conhecimento Interna**  
+
+&nbsp; Assine documentos ODT antes de publicá-los em repositórios compartilhados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Acionador de Conclusão do Revisor**  
+
+&nbsp; Assine automaticamente arquivos ODT quando todos os revisores atribuídos concluírem as aprovações.
+
+
+
+* **Portão de Publicação do Repositório**  
+
+&nbsp; Assine documentos ODT antes que sejam enviados para publicação na base de conhecimento.
+
+
+
+* **Injeção Automatizada de Trilha de Auditoria**  
+
+&nbsp; Anexe a identidade do signatário e metadados de carimbo de data/hora durante a execução da assinatura de ODT.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

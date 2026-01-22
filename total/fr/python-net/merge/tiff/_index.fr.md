@@ -85,7 +85,69 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusion d'images TIFF à l'aide des API Python prend en charge les flux de travail d'images haute résolution et multi-pages couramment utilisés dans l'impression, l'imagerie médicale et la numérisation de documents.
+
+
+
+L'automatisation permet une manipulation fiable de grands ensembles d'images riches en détails.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Assemblage de numérisations multi-pages (TIFF)**  
+  Fusionner les pages TIFF en un seul fichier multi-pages.
+
+
+
+* **Traitement d'images haute résolution (TIFF)**  
+  Combinez des images TIFF pour une analyse détaillée.
+
+
+
+* **Compilation d'images prêtes pour l'impression (TIFF)**  
+  Agréger des fichiers TIFF pour les flux de travail de publication.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Pipelines de numérisation automatisés (TIFF)**  
+  Les systèmes fusionnent les fichiers TIFF lors de l'ingestion des numérisations.
+
+
+
+* **Traitement par lots haute résolution (TIFF)**  
+  La fusion de TIFF s'exécute dans des tâches planifiées.
+
+
+
+* **Automatisation de l'imagerie d'entreprise (TIFF)**  
+  Les workflows automatisés gèrent de grands ensembles de données TIFF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

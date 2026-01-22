@@ -104,7 +104,75 @@ RTF パーサー アプリまたはユーティリティを開発する必要が
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用して**RTFドキュメント**を解析すると、基本的なスタイリングを保持した軽量で広くサポートされているテキスト形式から抽出できます。RTFは相互運用性やレガシーデータの交換によく使用されます。
+
+
+
+自動化に適したRTF解析は、最小限の構造的オーバーヘッドで高速なテキスト抽出をサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **軽量なドキュメント抽出**  
+
+&nbsp; シンプルなフォーマットのドキュメントからテキストを取得します。
+
+
+
+* **レガシーシステムとの相互運用性**  
+
+&nbsp; 古いバージョンや最小限のエディタで生成されたファイルを処理します。
+
+
+
+* **テキストの正規化タスク**  
+
+&nbsp; RTFをクリーンでプレーンなテキスト表現に変換します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **大量のテキスト処理**  
+
+&nbsp; 大規模なRTFデータセットからの抽出を自動化します。
+
+
+
+* **フォーマットの簡素化パイプライン**  
+
+&nbsp; スタイリングを削除しながらコアコンテンツを保持します。
+
+
+
+* **システム間データ交換**  
+
+&nbsp; RTFベースの入力のプログラムによる取り込みを可能にします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -100,7 +100,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+פירוק **מסמכי PDF** עם ממשקי פייתון מאפשר חילוץ של מידע טקסטואלי ומידע עיצוב מתוך פורמט קבוע המשמש באופן נרחב. קבצי PDF נפוצים בדוחות, חשבוניות ורשומות רשמיות.
+
+
+
+פירוק אוטומטי של PDF מפתח תוכן שאינו ניתן לעריכה לצורך ניתוח, חיפוש ואינטגרציה במערכת ללא התערבות ידנית.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **חילוץ נתוני דוח**  
+
+&nbsp; מאחזר תוכן טקסטואלי מדוחות PDF סטטיים.
+
+
+
+* **עיבוד לארכיון מסמכים**  
+
+&nbsp; ממיר PDF לטקסט ניתן לחיפוש ואינדוקסציה.
+
+
+
+* **מערכות איתור מידע**  
+
+&nbsp; מאפשר איתור תוכן בתוך אוספי PDF גדולים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **ספיקת PDF מתוזמנת**  
+
+&nbsp; מעבדת באופן אוטומטי PDFים נכנסים בקדנציה קבועה.
+
+
+
+* **צינון טקסט תקין**  
+
+&nbsp; מנקה ומסטנדרטיז טקסט מופשט ממסמכי PDF.
+
+
+
+* **אפשרות לניתוח נתונים יורדים**  
+
+&nbsp; מזין תוכן מפורק ממסמכי PDF לתהליכי ניתוח או לזרימות עבודה של למידת מכונה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

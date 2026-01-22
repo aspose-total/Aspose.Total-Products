@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chèn dấu nước vào bảng tính **XLS** bằng Python APIs giúp bảo vệ các tệp Excel cũ bằng cách thêm các dấu hiệu sở hữu và bảo mật rõ ràng vào các tác phẩm dữ liệu vẫn được sử dụng rộng rãi trong các luồng công việc báo cáo cũ.
+
+Tự động hóa giúp việc chèn dấu nước vào XLS trở nên thiết thực đối với các lưu trữ lớn, đảm bảo sự quản trị nhất quán mà không cần chỉnh sửa thủ công từng bảng tính.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Bảo Vệ Bảng Tài Chính Cũ**  
+
+&nbsp; Thêm nhãn bảo mật vào các bảng ngân sách và dự báo XLS cũ.
+
+
+
+* **Đánh Dấu Sở Hữu Báo Cáo Vận Hành**  
+
+&nbsp; Đóng dấu báo cáo XLS để duy trì danh tính nguồn gốc qua các bản sao chuyển tiếp.
+
+
+
+* **Chỉ số Dữ Liệu Nháp**  
+
+&nbsp; Áp dụng dấu nước "PRELIMINARY" để giảm lỗi từ các con số chưa được xác minh.
+
+
+
+* **Kiểm Soát Phân Phối Cho Chia Sẻ Bên Ngoài**  
+
+&nbsp; Nhúng hạn chế sử dụng rõ ràng vào các bảng tính cũ được chia sẻ với các nhà cung cấp.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Đóng Dấu Lưu Trữ Tự Động**  
+
+&nbsp; Đánh dấu tệp XLS trong quá trình di chuyển sang hệ thống lưu trữ hoặc quản trị mới.
+
+
+
+* **Theo Dõi Thư Mục cho Báo Cáo Đến**  
+
+&nbsp; Phát hiện các tệp XLS mới và áp dụng dấu nước theo chính sách tiêu chuẩn tự động.
+
+
+
+* **Đánh Dấu theo Quy Tắc Loại Báo Cáo**  
+
+&nbsp; Chọn nội dung dấu nước dựa trên mẫu tên tệp hoặc siêu dữ liệu phân loại.
+
+
+
+* **Đóng Dấu Xuất Theo Lịch Trình**  
+
+&nbsp; Đánh dấu các bản xuất XLS tự động trước khi chúng được gửi đến các bên liên quan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

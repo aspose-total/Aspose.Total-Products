@@ -73,7 +73,75 @@ ODP 파일을 쉽게 분할하기 위해 Python 스크립트 또는 유틸리티
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODP 파일은 여러 슬라이드와 시각적 구성 요소를 포함하는 오픈 표준 프레젠테이션에 사용됩니다. ODP 파일을 분할하면 슬라이드 수준의 액세스와 재사용이 가능해집니다.
+
+
+
+파이썬 자동화는 확장 가능한 프레젠테이션 처리와 콘텐츠 재사용을 위한 효율적인 ODP 분할을 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **슬라이드 수준 재사용**  
+
+  개별 슬라이드를 추출하여 덱 전체에서 재사용할 수 있습니다.
+
+
+
+* **프레젠테이션 콘텐츠 분석**  
+
+  슬라이드를 독립적으로 구조 또는 메타데이터 분석에 활용할 수 있습니다.
+
+
+
+* **협업 편집**  
+
+  팀원들이 격리된 슬라이드 세트에서 작업할 수 있습니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동화된 슬라이드 추출**  
+
+  파이썬 스크립트를 사용하여 슬라이드를 프로그래밍 방식으로 분할합니다.
+
+
+
+* **동적 프레젠테이션 조립**  
+
+  런타임 규칙에 따라 슬라이드를 다시 조합합니다.
+
+
+
+* **프레젠테이션 아카이브 시스템**  
+
+  슬라이드는 개별적으로 색인화되어 검색됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

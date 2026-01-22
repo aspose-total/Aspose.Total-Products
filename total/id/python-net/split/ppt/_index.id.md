@@ -73,7 +73,69 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPT adalah format presentasi warisan yang masih digunakan dalam sistem-sistem lama. Memisahkan file PPT memungkinkan penggunaan yang berkelanjutan dalam lingkungan otomatis modern.
+
+
+
+API Python memungkinkan pemrosesan file PPT secara programatik meskipun strukturnya warisan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Migrasi Presentasi Warisan**  
+   Ekstrak slide untuk konversi atau upgrade.
+
+
+
+* **Akses Konten Selektif**  
+   Bekerja dengan slide tertentu tanpa konversi penuh.
+
+
+
+* **Manajemen Arsip Presentasi**  
+   Simpan slide secara individual untuk pengindeksan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pipa Pemrosesan Format Warisan**  
+   Otomatisasi pemisahan PPT dalam skala besar.
+
+
+
+* **Ekstraksi Slide untuk Konversi**  
+   Slide dikonversi ke format modern.
+
+
+
+* **Audit Presentasi Otomatis**  
+   Tinjau konten slide secara programatik.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -98,7 +98,93 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'estrazione dei metadati dei file **DOC** tramite API Python consente ai sistemi di leggere e interpretare gli attributi principali dei file, come autore, data di creazione, data dell'ultima modifica, conteggio delle revisioni e proprietà incorporate, senza ispezione manuale. Questo è importante per la governance, la ricercabilità, l'auditing e il controllo del ciclo di vita dei contenuti nei flussi di lavoro ricchi di documenti.
+
+
+
+Quando integrati nelle pipeline di automazione, i metadati dei DOC diventano un segnale affidabile per il routing, i controlli di conformità, l'indicizzazione e l'elaborazione batch, supportando operazioni documentali scalabili, classificazioni coerenti e integrazioni downstream con livelli di archiviazione, ricerca e reportistica.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Inventario dei Documenti Legacy**
+
+  Estrarre i metadati dagli archivi DOC per creare un indice strutturato per la scoperta, la deduplicazione e la pianificazione del ciclo di vita.
+
+
+
+* **Verifica dei Timestamp di Conformità**
+
+  Utilizzare i campi di creazione/modifica per verificare le regole di conservazione e rilevare anomalie nella documentazione regolamentata.
+
+
+
+* **Mappatura della Proprietà del Documento**
+
+  Leggere le proprietà dell'autore e dell'ultimo editore per mappare la proprietà del documento per assegnazioni di revisione e controlli di accesso.
+
+
+
+* **Categorizzazione Batch per la Ricerca**
+
+  Convertire le proprietà incorporate in tag normalizzati per un filtraggio coerente e un arricchimento della ricerca interna.
+
+
+
+* **Segnali di Tracciabilità delle Modifiche**
+
+  Catturare i campi correlati alle revisioni per supportare la tracciabilità nei flussi di lavoro di redazione e approvazione.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Varco di Ingresso dell'Archivio**
+
+  Accettare automaticamente o mettere in quarantena i file DOC in base alla mancanza di campi dell'autore, timestamp sospetti o modelli di metadati non validi.
+
+
+
+* **Sincronizzazione Metadati-Indice**
+
+  All'upload, estrarre i metadati dei DOC e inserirli in un indice di ricerca in modo che i risultati rimangano aggiornati senza catalogazione manuale.
+
+
+
+* **Regole di Routing Basate su Politiche**
+
+  Instradare i file DOC in code specifiche quando i metadati indicano contenuti confidenziali, versioni obsolete o proprietà sconosciute.
+
+
+
+* **Auditing Pianificato dei Metadati**
+
+  Eseguire scansioni notturne che rilevano deviazioni dei metadati e generano report di eccezione per i team operativi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

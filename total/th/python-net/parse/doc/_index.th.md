@@ -104,7 +104,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การวิเคราะห์เอกสาร **DOC** โดยใช้ Python APIs ช่วยให้สามารถสกัดโครงสร้างของไฟล์ word-processing เวอร์ชันเก่าที่ยังคงมีอยู่ในระบบเก็บถาวร องค์กร และสภาพแวดล้อมที่มุ่งหวังในด้านความเป็นไปได้ ซึ่งช่วยให้ข้อความ รูปแบบการจัดหน้า และโครงสร้างของเอกสารสามารถแปลงเป็นข้อมูลที่สามารถอ่านโดยเครื่องได้
+
+
+
+เมื่อนำมาผสานเข้ากับกระบวนการอัตโนมัติ การวิเคราะห์เอกสาร **DOC** สนับสนุนการย้ายข้อมูลเอกสารขนาดใหญ่ การจัดทำดัชนี และการตรวจสอบข้อมูล ทำให้เนื้อหาเก่าสามารถใช้งานในระบบที่ใช้ API ในยุคปัจจุบันได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **การดิจิทัลไซเอชั่นเนื้อหาเก่า**  
+
+&nbsp; สกัดข้อความที่สามารถอ่านได้จากไฟล์ DOC เวอร์ชันเก่าเพื่อใช้ในการพัฒนาและใช้ใหม่
+
+
+
+* **การวิเคราะห์เอกสารเพื่อปฏิบัติตามข้อกำหนด**  
+
+&nbsp; ช่วยให้สามารถสแกนข้อความที่เกี่ยวข้องกับสัญญาหรือข้อกำหนดกฎหมายที่เก็บไว้ในรูปแบบเก่า
+
+
+
+* **การเตรียมความพร้อมสำหรับดัชนีการค้นหา**  
+
+&nbsp; แปลงไฟล์ DOC เป็นข้อความสะอาดสำหรับระบบดัชนีและการเรียกคืนข้อมูล
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การประมวลผลไฟล์เก่าเป็นชุดข้อมูลเต็ม**  
+
+&nbsp; ทำให้การแปลงไฟล์ DOC เวอร์ชันเก่าให้กลายเป็นชุดข้อมูลที่มีโครงสร้าง
+
+
+
+* **กระบวนการตรวจสอบเอกสาร**  
+
+&nbsp; ผสานการวิเคราะห์เอกสาร **DOC** เข้ากับกระบวนการตรวจสอบตามกฎหมายและการตรวจสอบข้อมูล
+
+
+
+* **การย้ายไปสู่รูปแบบใหม่**  
+
+&nbsp; แปลงไฟล์ DOC เป็นมาตรฐานเอกสารเวอร์ชันใหม่โดยอัตโนมัติ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

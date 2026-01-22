@@ -90,7 +90,73 @@ DOTM 뷰어 앱이나 유틸리티를 개발해야 합니까? [Aspose.Total for 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용한 DOTM 뷰어를 통해 포함된 로직을 실행하지 않고도 매크로가 포함된 워드 템플릿을 안전하게 검사할 수 있습니다.
+
+시스템을 실행 위험에 노출시키지 않으면서 가시성과 보안이 공존해야 하는 제어된 환경에서 이 기능은 필수적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **매크로가 포함된 템플릿 검토**
+
+  &nbsp; 매크로를 비활성화한 채로 템플릿 내용을 확인합니다.
+
+
+
+* **보안 중심의 검사**
+
+  &nbsp; 시스템을 실행 위험에 노출시키지 않으면서 구조를 검사합니다.
+
+
+
+* **템플릿 승인 프로세스**
+
+  &nbsp; 제어된 배포 전에 템플릿을 검토합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **안전한 템플릿 수용**
+
+  &nbsp; Python 뷰어를 통해 DOTM 파일을 안전하게 표시합니다.
+
+
+
+* **통치 자동화**
+
+  &nbsp; 템플릿은 자동화된 정책 검사의 일환으로 검토됩니다.
+
+
+
+* **사전 사용 유효성 검사 파이프라인**
+
+  &nbsp; 자동화된 미리보기가 승인 워크플로를 지원합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

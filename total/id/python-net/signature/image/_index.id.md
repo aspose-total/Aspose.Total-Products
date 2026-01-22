@@ -71,7 +71,43 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Menandatangani masukan gambar generik dengan API Python memberikan pendekatan yang terpadu untuk menerapkan tanda persetujuan dan metadata validasi di berbagai sumber gambar campuran. Ini berguna ketika saluran memasukkan gambar dari berbagai alat dan memerlukan tata kelola yang konsisten.
+
+Ketika diotomatisasi, penandatanganan gambar menerapkan status "artefak disetujui" yang terstandarisasi, memastikan sistem downstream hanya mengonsumsi aset yang memenuhi persyaratan kualitas, kebijakan, atau kepatuhan.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Kunci" %}}
+
+* **Standarisasi Aset dari Sumber Berbeda**
+   &nbsp; Terapkan tanda tangan overlay yang konsisten pada gambar yang datang dari berbagai alat dan tim.
+
+* **Validasi Gambar Bukti**
+   &nbsp; Tandai gambar yang digunakan sebagai bukti untuk mengonfirmasi identitas pemeriksa dan status persetujuan.
+
+* **Kontrol Distribusi Aset Disetujui**
+   &nbsp; Tandai gambar sebagai disetujui sebelum dimasukkan ke dalam paket distribusi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* **Penandaan Persetujuan pada Saat Pemasukan**
+   &nbsp; Tandai gambar selama pemasukan setelah aturan validasi dan pemeriksaan metadata selesai.
+
+* **Penegakan Titik Pemeriksaan Kebijakan**
+   &nbsp; Secara otomatis tandai hanya gambar yang lolos aturan kebijakan dan keselamatan otomatis.
+
+* **Penyelesaian Sinkronisasi Repositori**
+   &nbsp; Tandai gambar sebelum disinkronkan ke repositori bersama untuk memastikan hanya versi yang terverifikasi yang menyebar.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX是一种现代的基于XML的文档格式，旨在用于结构化和可扩展的内容存储。拆分DOCX文件可以精确访问文档组件，如标题、表格或章节。
+
+
+
+基于Python的DOCX拆分通过启用基于模式的解析、可扩展处理和与内容管理系统的无缝集成，增强了自动化功能。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* **模块化文档发布**  
+
+&nbsp; 可将大型DOCX文件拆分为可发布的部分。
+
+
+
+* **选择性内容提取**  
+
+&nbsp; 仅提取相关部分以用于有针对性的工作流程。
+
+
+
+* **文档版本控制**  
+
+&nbsp; 拆分的部分实现独立跟踪和更新。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **基于标题的分段**  
+
+&nbsp; Python脚本使用结构标记拆分文档。
+
+
+
+* **基于流水线的内容处理**  
+
+&nbsp; 提取的部分自动流入验证或渲染阶段。
+
+
+
+* **自动合规性检查**  
+
+&nbsp; 每个部分都独立根据规则进行验证。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

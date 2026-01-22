@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API对JPEG文件进行签名，可以使压缩的图像资产携带正式批准指示，支持用于审计、检查和报告中的可追溯性。当选择JPEG进行存储效率时，这一点尤为有用。
+
+
+
+自动化友好的签名确保JPEG批准始终得到一致应用，减少手动重做，并改善高容量图像流程的治理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **检查照片签署**  
+
+&nbsp; 签署JPEG检查照片以确认审查和接受。
+
+
+
+* **报告证据确认**  
+
+&nbsp; 在运营报告中使用的JPEG证据上应用批准标记。
+
+
+
+* **外部交付授权**  
+
+&nbsp; 签署JPEG成果物以确认它们是用于共享的批准版本。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **提交至签名自动化**  
+
+&nbsp; 在审阅者提交批准后立即自动签署JPEG文件。
+
+
+
+* **质量阈值门签署**  
+
+&nbsp; 仅对通过分辨率、大小和清晰度检查的JPEG资产进行签名。
+
+
+
+* **时间戳批准运行**  
+
+&nbsp; 作为定期审计的一部分，以时间戳的方式对JPEG批次进行程序化签名。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

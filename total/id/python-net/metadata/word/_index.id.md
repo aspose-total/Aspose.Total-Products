@@ -98,7 +98,93 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Ekstraksi metadata dokumen untuk file **Word** melalui API Python memungkinkan penangkapan programatik dari properti inti di seluruh dokumen pemrosesan kata—seperti judul, penulis, stempel waktu, dan bidang kustom—mendukung tata kelola, pengayaan pencarian, dan manajemen siklus hidup. Hal ini penting untuk operasi yang membutuhkan banyak dokumen di mana pemeriksaan manual tidak dapat ditingkatkan.
+
+
+
+Ketika terhubung ke sistem otomatisasi, metadata Word menjadi lapisan yang dapat diandalkan untuk routing, validasi, dan pengindeksan—membantu alur kerja modern berjalan lebih cepat, menegakkan standar secara konsisten, dan terintegrasi dengan lancar dengan layanan penyimpanan, pencarian, dan pelaporan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Pengindeksan Dokumen Enterprise**
+
+&nbsp; Ekstrak metadata untuk mengisi katalog yang mendukung pencarian cepat dan organisasi yang konsisten.
+
+
+
+* **Validasi Kepatuhan Kebijakan**
+
+&nbsp; Verifikasi bahwa bidang metadata yang diperlukan ada sebelum dokumen dapat masuk ke repositori terkendali atau alur penerbitan.
+
+
+
+* **Pemetaan Kepemilikan dan Akuntabilitas**
+
+&nbsp; Gunakan properti penulis dan editor untuk menetapkan tanggung jawab untuk tinjauan dan pemeliharaan.
+
+
+
+* **Manajemen Siklus Hidup dan Retensi**
+
+&nbsp; Gunakan stempel waktu pembuatan dan modifikasi untuk mengotomatisasi keputusan retensi dan arsip.
+
+
+
+* **Analitika Operasional dan Wawasan**
+
+&nbsp; Gabungkan metadata di seluruh dokumen Word untuk mengungkap kekunoan, celah cakupan, dan hambatan proses.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pengalihan Dokumen Berbasis Metadata**
+
+&nbsp; Secara otomatis mengalihkan file Word ke jalur tinjauan, persetujuan, atau arsip berdasarkan ambang batas metadata dan aturan kelengkapan.
+
+
+
+* **Sinkronisasi Katalog Otomatis**
+
+&nbsp; Ekstrak metadata Word secara berkala dan sinkronkan ke dalam indeks internal untuk penemuan yang selalu terkini.
+
+
+
+* **Penanganan Pengecualian Tata Kelola**
+
+&nbsp; Deteksi kepemilikan yang hilang, stempel waktu yang mencurigakan, atau bidang yang tidak valid dan secara otomatis membuat tugas perbaikan.
+
+
+
+* **Persiapan Penerbitan Programatik**
+
+&nbsp; Gunakan metadata Word untuk mengisi pra-publikasi (judul, ringkasan, kategori) dan menegakkan konsistensi di seluruh output.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

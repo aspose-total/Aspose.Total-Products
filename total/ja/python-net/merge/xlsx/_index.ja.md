@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用して現代のExcelワークブックを統合することは、構造化されたデータセット、レポート、およびモデルを組み合わせるための標準的なアプローチです。XLSXは現代のシステムで最も広く使用されているスプレッドシート形式です。
+
+
+
+この機能はデータプラットフォームとシームレスに統合され、スケールで自動化されたスプレッドシートの生成と統合を可能にします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **マルチシートレポートの作成（XLSX）**  
+
+&nbsp; XLSXファイルを包括的なレポートワークブックにマージします。
+
+
+
+* **データソースの統合（XLSX）**  
+
+&nbsp; 複数のシステムからのXLSXデータセットを結合します。
+
+
+
+* **共同データの組み立て（XLSX）**  
+
+&nbsp; 複数の利害関係者が提供したXLSXファイルをマージします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **動的スプレッドシートの生成（XLSX）**  
+
+&nbsp; システムはランタイムデータ条件に基づいてXLSXファイルをマージします。
+
+
+
+* **ETLパイプラインの統合（XLSX）**  
+
+&nbsp; XLSXのマージはデータ取り込みパイプライン内で自動化されます。
+
+
+
+* **スケーラブルなレポートの自動化（XLSX）**  
+
+&nbsp; 大量のXLSXレポートがプログラムでマージされます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

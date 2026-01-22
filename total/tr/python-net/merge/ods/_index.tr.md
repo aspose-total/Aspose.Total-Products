@@ -78,7 +78,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'lerini kullanarak OpenDocument elektronik tablolarını birleştirmek, açık standartları ve platformlar arası veri iş akışlarını destekler. Bu, açık kaynak ofis araçlarına dayanan ortamlar için idealdir.
+
+
+
+ODS birleştirme etrafındaki otomasyon, yapılandırılmış veri bütünlüğünü korurken etkileşimliliği sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Platformlar Arası Elektronik Tablo Birleştirme (ODS)**  
+
+  Birbirinden farklı ofis paketlerinde oluşturulan ODS dosyalarını birleştirin.
+
+
+
+* **Açık Standart Veri Birleştirme (ODS)**  
+
+  Birleştirilmiş analiz için ODS elektronik tablolarını bir araya getirin.
+
+
+
+* **İşbirlikçi Veri Derleme (ODS)**  
+
+  Dağıtılmış katkı sağlayıcılardan gelen ODS dosyalarını birleştirin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Açık Veri Boru Hattı Otomasyonu (ODS)**  
+
+  Sistemler, mülkiyet bağımlılıkları olmadan ODS dosyalarını birleştirir.
+
+
+
+* **Zamanlanmış Elektronik Tablo Derlemesi (ODS)**  
+
+  ODS birleştirme, tekrarlayan arka uç görevlerinin bir parçası olarak çalışır.
+
+
+
+* **Etkileşimli Raporlama Boru Hatları (ODS)**  
+
+  ODS dosyaları, veri iş akışlarında dinamik olarak birleştirilir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

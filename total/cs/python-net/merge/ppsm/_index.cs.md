@@ -79,7 +79,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Slučování makro-povolených prezentací pomocí Python API podporuje automatizované interaktivní doručování prezentací. Tyto formáty jsou často používány v kontrolovaných prostředích.
+
+
+
+Automatizace zajišťuje, že makra a chování prezentace jsou zachována během slučování.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Interaktivní sestavení prezentace (PPSM)**  
+
+&nbsp; Slučování souborů makro-povolených prezentací.
+
+
+
+* **Automatizovaná demonstrační prezentace (PPSM)**  
+
+&nbsp; Kombinace souborů PPSM pro automatizované demonstrace.
+
+
+
+* **Kontrolované přehrávací balíky (PPSM)**  
+
+&nbsp; Sdružení souborů PPSM pro řízené prezentace.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Pravidly řízené vytváření prezentace (PPSM)**  
+
+&nbsp; Systémy slučují soubory PPSM na základě logických pravidel.
+
+
+
+* **Zachování automatizace na pozadí (PPSM)**  
+
+&nbsp; Slučování PPSM zachovává interaktivní chování.
+
+
+
+* **Plánovaná generace demonstrací (PPSM)**  
+
+&nbsp; Prezentace jsou slučovány automaticky podle plánů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,85 @@ Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Watermerken van **PPT**-bestanden met Python API's helpt bij het beschermen van oudere PowerPoint-presentaties door zichtbare controlelabels toe te voegen zonder dat handmatige bewerkingen nodig zijn in de oorspronkelijke auteursomgeving.
+
+Automatisering ondersteunt consistente watermerken over oudere decks, waardoor schaalbaar beheer mogelijk is voor archieven, verkoopbibliotheken en geërfde presentatie-assets.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Vertrouwelijkheidsstempels voor Oude Decks**  
+
+&nbsp; Breng "VERTROUWELIJK" markeringen aan op oudere PPT-decks die nog intern worden gebruikt.
+
+
+
+* **Controlelabels alleen voor Bewijsdeling**  
+
+&nbsp; Voeg "TER BEKIJKING" overlays toe om onbedoelde openbare verspreiding te voorkomen.
+
+
+
+* **Eigenaarschaplabels voor Historische Intellectuele Eigendom**  
+
+&nbsp; Watermerk oude dia's om attributie te behouden bij gekopieerde presentaties.
+
+
+
+* **Beperkte Bibliotheek met Dia's voor Partners**  
+
+&nbsp; Voeg beperkingen toe aan PPT-decks die worden verspreid naar externe samenwerkingspartners.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Batch Watermerken van Gehele Archief met PPT**  
+
+&nbsp; Automatisch hele legacy-mappen bestempelen om beheer te standaardiseren.
+
+
+
+* **Geautomatiseerde Plaatsing op Basis van Lay-out**  
+
+&nbsp; Plaats watermerken op basis van dia-indelingen om overlapping van inhoudsblokken te voorkomen.
+
+
+
+* **Generatie van Versiegebonden Uitvoer**  
+
+&nbsp; Produceer watermerk "voorbeeld" en "interne" varianten programmatisch.
+
+
+
+* **Gestuurde Stempeling bij Toegangsverzoeken**  
+
+&nbsp; Pas ontvangerspecifieke watermerken toe wanneer decks worden aangevraagd via een geautomatiseerd portaal.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -98,7 +98,84 @@ Voor meer details verwijzen wij u naar [Productdocumentatie](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Document metadata extraction for **DOC**-bestanden via Python-API's stelt systemen in staat om kernbestandskenmerken te lezen en te interpreteren, zoals auteur, creatietijd, laatst gewijzigde tijd, revisietelling en ingesloten eigenschappen, zonder handmatige inspectie. Dit is belangrijk voor governance, doorzoekbaarheid, auditing en controle over de levenscyclus van inhoud in documentintensieve workflows.
+
+
+
+Bij integratie in automatiseringspijplijnen wordt DOC-metadata een betrouwbaar signaal voor routering, nalevingscontroles, indexering en batchverwerking, ter ondersteuning van schaalbare documentbewerkingen, consistente classificatie en downstream-integraties met opslag-, zoek- en rapportagelagen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Legacy Document Inventarisatie**
+  Extract metadata uit DOC-archieven om een gestructureerde index op te bouwen voor ontdekking, deduplicatie en levenscyclusplanning.
+
+
+
+* **Nalevings-Tijdstempelverificatie**
+  Gebruik aangemaakte/gewijzigde velden om retentieregels te verifiëren en anomalieën in gereguleerde documentatie op te sporen.
+
+
+
+* **Documenteigenaarschapskoppeling**
+  Lees auteur- en laatste bewerkereigenschappen om documenteigenaarschap in kaart te brengen voor beoordelingsopdrachten en toegangscontroles.
+
+
+
+* **Batchcategorisering voor Zoeken**
+  Converteer ingesloten eigenschappen naar genormaliseerde tags voor consistente filtering en interne zoekverrijking.
+
+
+
+* **Signaal voor Wijzigingstraceerbaarheid**
+  Leg revisiegerelateerde velden vast om traceerbaarheid te ondersteunen in redactionele en goedkeuringsworkflows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Archiefinnamepoort**
+  Accepteer automatisch of quarantaineer DOC-bestanden op basis van ontbrekende auteursvelden, verdachte tijdstempels of ongeldige metadatapatronen.
+
+
+
+* **Metadata-naar-Index Synchronisatie**
+  Bij upload, extract DOC-metadata en duw het in een zoekindex zodat resultaten actueel blijven zonder handmatige catalogisering.
+
+
+
+* **Op Beleid Gebaseerde Routeringsregels**
+  Routeer DOC-bestanden naar specifieke wachtrijen wanneer metadata vertrouwelijke inhoud, verouderde versies of onbekend eigendom aangeeft.
+
+
+
+* **Geplande Metadata-audits**
+  Voer nachtelijke scans uit die metadata-afwijkingen detecteren en uitzonderingsrapporten genereren voor operationele teams.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

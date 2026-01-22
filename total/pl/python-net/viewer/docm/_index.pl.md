@@ -90,7 +90,73 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCM przeglądanie dokumentów za pomocą interfejsów API w języku Python umożliwia bezpieczną inspekcję dokumentów z makrami bez wykonywania osadzonej logiki.
+
+Jest to istotne w kontrolowanych środowiskach, gdzie wymagana jest widoczność bez ryzyka dla bezpieczeństwa.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Przeglądanie Dokumentów Z Makrami**  
+
+&nbsp; Przeglądaj zawartość, zachowując nieaktywne makra.
+
+
+
+* **Inspekcja Zorientowana na Bezpieczeństwo**  
+
+&nbsp; Badaj dokumenty pod kątem struktury i tekstu bez ich wykonywania.
+
+
+
+* **Kontrolowany Dostęp do Dokumentów**  
+
+&nbsp; Umożliwia bezpieczne przeglądanie w ograniczonych lub zautomatyzowanych systemach.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Bezpieczne Potoki Przyjmowania**  
+
+&nbsp; Automatyzacja w Pythonie wyświetla zawartość DOCM bez uruchamiania makr.
+
+
+
+* **Automatyzacja Przeglądu Zgodności**  
+
+&nbsp; Dokumenty są przeglądane w ramach zautomatyzowanych kontroli zgodności.
+
+
+
+* **Przepływy Przedzatwierdzania**  
+
+&nbsp; Zautomatyzowane podglądy wspierają zatwierdzenia z udziałem człowieka.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -104,7 +104,75 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Analizar **documentos RTF** con APIs de Python permite la extracción de un formato de texto ligero y ampliamente compatible que conserva estilos básicos. RTF se utiliza a menudo para interoperabilidad e intercambio de datos heredados.
+
+
+
+El análisis de RTF compatible con la automatización permite una extracción rápida de texto con un mínimo sobrecargo estructural.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+
+
+* **Extracción de Documentos Ligeros**  
+
+  &nbsp; Recupera texto de documentos con formato simple.
+
+
+
+* **Interoperabilidad con Sistemas Heredados**  
+
+  &nbsp; Procesa archivos generados por editores antiguos o mínimos.
+
+
+
+* **Tareas de Normalización de Texto**  
+
+  &nbsp; Convierte RTF en representaciones de texto limpio y simple.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+
+
+* **Procesamiento de Texto a Gran Escala**  
+
+  &nbsp; Automatiza la extracción de grandes conjuntos de datos RTF.
+
+
+
+* **Tuberías de Simplificación de Formato**  
+
+  &nbsp; Elimina estilos mientras conserva el contenido principal.
+
+
+
+* **Intercambio de Datos de Sistema a Sistema**  
+
+  &nbsp; Permite la ingestión programática de entradas basadas en RTF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API对ODT文件进行文档编辑，可以安全地修改开放文档文本文件，而不会改变其核心结构。这支持透明和基于标准的文档处理。
+
+
+
+通过自动化ODT编辑，组织可以高效地管理开源和可互操作的文档生态系统中的敏感内容。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **隐私安全的文档交换**  
+
+  &nbsp; 在与外部共享ODT文件之前删除个人数据。
+
+
+
+* **基于策略的内容删除**  
+
+  &nbsp; 强制执行与组织政策一致的编辑规则。
+
+
+
+* **开放文档发布**  
+
+  &nbsp; 为公共或跨平台使用准备经过清理的文档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **元数据和文本编辑**  
+
+  &nbsp; 自动从正文文本和元数据中删除敏感内容。
+
+
+
+* **批量开放格式处理**  
+
+  &nbsp; 在单个自动运行中编辑大量ODT文件。
+
+
+
+* **与CMS管道集成**  
+
+  &nbsp; 在文档发布或合作之前应用编辑。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

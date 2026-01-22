@@ -79,7 +79,85 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Ajouter un filigrane aux fichiers **DOC** avec des API Python aide à protéger les anciens documents Word en indiquant clairement la propriété, la confidentialité ou les règles de distribution au sein du contenu modifiable.
+
+L'automatisation du filigrane DOC améliore la cohérence dans la gouvernance des documents, permettant aux organisations de faire respecter les contrôles de politique visuelle à grande échelle même pour les formats de document plus anciens.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Tampons de confidentialité des contrats anciens**  
+
+&nbsp; Ajouter des marques "CONFIDENTIEL" aux anciens accords pour réduire le partage non autorisé.
+
+
+
+* **Étiquettes d'état du cycle de révision**  
+
+&nbsp; Marquer les documents comme "EN REVUE" pour éviter la circulation prématurée des brouillons.
+
+
+
+* **Application de la politique interne aux modèles**  
+
+&nbsp; Appliquer des filigranes standardisés sur les modèles anciens pour se conformer à la gouvernance.
+
+
+
+* **Avis de distribution spécifiques aux clients**  
+
+&nbsp; Intégrer des avis destinés aux clients pour clarifier l'utilisation autorisée et les limites de redistribution.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Estampillage de documents de la boîte aux archives**  
+
+&nbsp; Ajouter automatiquement des filigranes DOC aux pièces jointes avant de les enregistrer dans un référentiel.
+
+
+
+* **Surveillance de dossier pour les fichiers anciens**  
+
+&nbsp; Détecter les nouveaux fichiers DOC dans un répertoire et appliquer des filigranes de politique sans étapes manuelles.
+
+
+
+* **Texte de filigrane basé sur les métadonnées**  
+
+&nbsp; Générer du contenu de filigrane à partir des balises du document telles que le département, le projet ou le niveau de sensibilité.
+
+
+
+* **Transition automatisée de "brouillon à final"**  
+
+&nbsp; Remplacer les filigranes de brouillon par des étiquettes finales lorsque les approbations sont enregistrées dans un système de workflow.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

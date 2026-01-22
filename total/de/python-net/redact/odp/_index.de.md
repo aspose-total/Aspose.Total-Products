@@ -77,7 +77,75 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Dokumentenredaktion mithilfe von Python-APIs für ODP-Dateien ermöglicht eine sichere Handhabung von Präsentationsinhalten, die in offenen Dokumentenstandards erstellt wurden. Dies ist unerlässlich beim Teilen von Folien, die sensible oder proprietäre Informationen enthalten.
+
+
+
+Die Automatisierung gewährleistet, dass ODP-Präsentationen konsistent bereinigt werden können, um skalierbare und wiederholbare Datenschutzkontrollen über Präsentationsinhalte hinweg zu unterstützen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Vertrauliches Teilen von Folien**  
+
+&nbsp; Entfernen sensibler Daten aus Präsentationsfolien vor der Verteilung.
+
+
+
+* **Governance offener Formate**  
+
+&nbsp; Durchsetzung von Datenschutzrichtlinien für Präsentationsdateien im offenen Standard.
+
+
+
+* **Säuberung von Schulungsmaterial**  
+
+&nbsp; Schwärzen interner Verweise vor der Veröffentlichung von Lerninhalten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Regeln zur Schwärzung auf Folien-Ebene**  
+
+&nbsp; Automatisches Schwärzen von Inhalten auf bestimmten Folien oder Layouts.
+
+
+
+* **Aufbau von Präsentations-Pipelines**  
+
+&nbsp; Integration der Schwärzung in automatisierte Workflows zur Präsentationserstellung.
+
+
+
+* **Geplante Compliance-Scans**  
+
+&nbsp; Regelmäßige Bereinigung gespeicherter ODP-Dateien mithilfe automatisierter Jobs.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

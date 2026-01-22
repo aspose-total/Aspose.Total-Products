@@ -71,7 +71,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'ları kullanarak BMP dosyalarını imzalamak, taramalar, diyagramlar ve işletme görselleri gibi bit eşlem tabanlı varlıkların onaylanmasını ve doğrulanmasını sağlar. Bu, iş akışlarında kullanılan görsel verilerin net sahiplik ve onay bağlamını taşıdığından emin olur.
+
+
+
+Otomatik boru hatlarına entegre edildiğinde, BMP imzalama, yalnızca incelenmiş ve onaylanmış görsel varlıkların işleme veya dağıtım sistemlerinde ilerlemesini sağlayarak son doğrulama adımı olarak işlev görür.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **İşletme Diyagram Onayı**  
+
+&nbsp; Mühendislik veya iç belgelerde kullanılan BMP diyagramlarına onay damgaları uygulayın.
+
+
+
+* **Kayıtlar için Tarama Doğrulaması**  
+
+&nbsp; Arşiv veya uyumluluk depolamasından önce taramalı BMP dosyalarını imzalayarak otantikliği doğrulayın.
+
+
+
+* **Görsel QA Onayı**  
+
+&nbsp; BMP varlıklarını aşağı akış tüketiminden önce kalite kontrol edilmiş olarak işaretleyin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik QA Damga Enjeksiyonu**  
+
+&nbsp; Görüntü doğrulama kurallarını geçtikten sonra BMP dosyaları otomatik olarak imzalanır.
+
+
+
+* **İş Akışı Tamamlama İşaretleme**  
+
+&nbsp; İşletme iş akışı nihai onayı aldığında imzalama gerçekleşir.
+
+
+
+* **Toplu Görsel Onay İşleme**  
+
+&nbsp; Birden fazla BMP dosyası programlı olarak toplu işlemlerde imzalanır.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

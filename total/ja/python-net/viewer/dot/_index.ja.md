@@ -90,7 +90,73 @@ DOT ビューア アプリまたはユーティリティを開発する必要が
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用してDOTファイルを表示すると、標準化されたコンテンツ作成の基盤として使用されるWord文書テンプレートを検査できます。
+
+これにより、テンプレート駆動の文書ワークフローの自動検証とガバナンスが可能になります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **テンプレート構造のレビュー**  
+
+&nbsp; Wordテンプレートに埋め込まれた事前定義スタイルやプレースホルダーを表示します。
+
+
+
+* **標準化の強制**  
+
+&nbsp; テンプレートを検査して、フォーマットやレイアウトの一貫性を確認します。
+
+
+
+* **展開前の検証**  
+
+&nbsp; システム全体に配布する前にテンプレートを確認します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **テンプレートのコンプライアンスチェック**  
+
+&nbsp; Pythonワークフローは、フォーマットルールを検証するためにDOTファイルをレンダリングします。
+
+
+
+* **自動化されたテンプレート監査**  
+
+&nbsp; 不正な変更を検出するために定期的にテンプレートを表示します。
+
+
+
+* **文書生成パイプライン**  
+
+&nbsp; 表示により、テンプレートが自動文書作成に適していることを確認します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

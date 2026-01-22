@@ -98,7 +98,93 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Extrakce metadat dokumentů pro soubory **DOT** pomocí Python API podporuje porozumění a správu dědictví šablon čtením vložených vlastností, jako je autor šablony, časy vytvoření a popisná pole. To je důležité pro standardizaci, správu a udržování konzistentních výstupů dokumentů v organizaci.
+
+
+
+V automatizovaných systémech umožňují metadatové informace DOT řízenou správu životního cyklu šablon – pomáhají potrubím vybírat správné šablony, prosazovat schválené standardy a detekovat zastaralé nebo nespravované šablonové soubory ve velkém měřítku.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití případy" %}}
+
+
+
+* **Vytváření katalogu šablon**
+
+  Extrahovat metadatové informace DOT pro vytvoření vyhledávatelného inventáře šablon a jejich zamýšlených účelů.
+
+
+
+* **Prosazování standardizace**
+
+  Identifikovat, které šablony jsou schváleny kontrolou vlastnictví a popisnými vlastnostmi.
+
+
+
+* **Sledování životního cyklu šablony**
+
+  Monitorovat časy vytvoření/upravení k detekci zastaralých šablon vyžadujících revizi nebo vyřazení.
+
+
+
+* **Správa použití šablony**
+
+  Použít metadata k propojení šablon s odděleními nebo pracovními postupy pro řízené distribuce.
+
+
+
+* **Záznamy šablon připravené k auditu**
+
+  Vytvářet stopovatelné záznamy ukazující původ šablony a historii údržby pro potřeby souladu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Ochrana schválených šablon**
+
+  Automaticky blokovat neschválené šablony DOT před uložením do sdílených repozitářů na základě pravidel metadat.
+
+
+
+* **Upozornění na plánované obnovení šablony**
+
+  Spouštět pravidelná oznámení, když šablony DOT překročí věková omezení nebo nemají pole pro správce.
+
+
+
+* **Automatizace výběru šablony**
+
+  Použít metadata k programovému výběru správné šablony DOT pro daný pracovní postup nebo oddělení.
+
+
+
+* **Pracovní postup pro úklid repozitáře**
+
+  Identifikovat a izolovat duplicitní nebo zastaralé šablony DOT pomocí podobnosti metadat a časových razítek.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

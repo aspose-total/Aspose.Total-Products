@@ -89,7 +89,73 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Prohlížení prezentací PowerPoint PPTX s Python API poskytuje sjednocený přístup k dokumentům založeným na snímcích v různých formátech.
+
+To podporuje automatizované recenze a pracovní postupy zaměřené na prezentaci.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Sjednocená recenze snímků**  
+
+&nbsp; Prohlížení prezentací bez ohledu na variantu.
+
+
+
+* **Validace prezentace**  
+
+&nbsp; Kontrola obsahu a rozvržení snímků.
+
+
+
+* **Integrace pracovního postupu**  
+
+&nbsp; Vložení prohlížení do automatizovaných systémů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizované recenzní potrubí**  
+
+&nbsp; Prezentace jsou zobrazovány během validace.
+
+
+
+* **Náhledové služby**  
+
+&nbsp; Snímky jsou dynamicky zobrazovány zainteresovaným stranám.
+
+
+
+* **Hromadné operace s prezentacemi**  
+
+&nbsp; Více balíčků je prohlíženo programově.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

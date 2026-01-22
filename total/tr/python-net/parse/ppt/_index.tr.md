@@ -100,7 +100,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Python API'leri kullanarak PPT sunumlarının ayrıştırılması**, sunum dosyalarından slayt metni, notlar ve yapısal unsurların çıkarılmasını sağlar. Bu, slayt tabanlı bilginin otomatik sistemlere erişilebilir hale gelmesini sağlar.
+
+
+
+Otomasyon bağlamlarında, sunum ayrıştırma içeriğin yeniden kullanımını, özetlenmesini ve belgelendirme veya analitik iş akışlarına entegrasyonunu destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Slayt İçeriği Çıkarma**  
+
+&nbsp; Başlıkları, madde işaretlerini ve konuşmacı notlarını alır.
+
+
+
+* **Sunum Arşiv Analizi**  
+
+&nbsp; Geçmiş slayt paketlerini aranabilir ve analiz edilebilir hale getirir.
+
+
+
+* **İçerik Yeniden Kullanım Boruları**  
+
+&nbsp; Sunum materyalini diğer içerik formatlarına dönüştürür.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik Slayt Özetleme**  
+
+&nbsp; Ayrıştırılmış slayt içeriğinden özgün özetler oluşturur.
+
+
+
+* **Bilgi Tabanı Nüfuz Etme**  
+
+&nbsp; Sunum verilerini yapılandırılmış depolara alır.
+
+
+
+* **Sürüm Karşılaştırma Otomasyonu**  
+
+&nbsp; Farklı sunum sürümleri arasındaki değişiklikleri tespit eder.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

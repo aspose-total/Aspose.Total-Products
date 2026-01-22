@@ -79,7 +79,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用してマクロが有効化されたスライドショープレゼンテーションをマージすることで、自動化されたインタラクティブなスライドショー配信をサポートします。これらの形式は、制御された環境でよく使用されます。
+
+
+
+マージ中にマクロやスライドショーの動作が保持されることを自動化が保証します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **インタラクティブなスライドショーアセンブリ（PPSM）**  
+
+&nbsp; マクロが有効化されたスライドショーファイルをマージします。
+
+
+
+* **自動デモプレゼンテーション（PPSM）**  
+
+&nbsp; PPSMファイルを組み合わせて自動デモを行います。
+
+
+
+* **制御された再生デッキ（PPSM）**  
+
+&nbsp; 統治されたプレゼンテーションのためにPPSMファイルを集約します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **ルールに基づいたスライドショー作成（PPSM）**  
+
+&nbsp; システムは論理ルールに基づいてPPSMファイルをマージします。
+
+
+
+* **バックエンドの自動化の保持（PPSM）**  
+
+&nbsp; PPSMのマージはインタラクティブな動作を保持します。
+
+
+
+* **スケジュールされたデモ生成（PPSM）**  
+
+&nbsp; スライドショーはスケジュールに従って自動的にマージされます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

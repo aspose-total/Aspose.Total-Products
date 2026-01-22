@@ -104,7 +104,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API解析**DOC文档**可以实现对仍然在档案系统、企业和合规驱动环境中普遍存在的传统文字处理文件的结构化提取。它允许将文本、格式提示和文档结构转换为可机器读取的数据。
+
+
+
+当集成到自动化流程中时，DOC解析支持大规模文档迁移、索引和验证工作流程，使旧内容可以在现代的基于API的系统中使用。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **传统内容数字化**  
+
+&nbsp; 从旧的DOC文件中提取可读文本以进行现代化和重用。
+
+
+
+* **合规文件分析**  
+
+&nbsp; 实现对存储在传统格式中的合同或法规文本的自动扫描。
+
+
+
+* **搜索索引准备**  
+
+&nbsp; 将DOC文件转换为干净的文本以供索引和检索系统使用。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量传统文件处理**  
+
+&nbsp; 自动将大型DOC存档转换为结构化数据集。
+
+
+
+* **文档验证流水线**  
+
+&nbsp; 将DOC解析集成到基于规则的验证和审计工作流程中。
+
+
+
+* **迁移到现代格式**  
+
+&nbsp; 将DOC文件以编程方式转换为更新的文档标准。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

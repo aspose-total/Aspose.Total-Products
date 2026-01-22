@@ -73,7 +73,85 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Vodoznakování obrázků **TIFF** s Python API podporuje pracovní postupy s vysokou kvalitou obrazu přidáním vlastnických a kontrolních štítků k souborům běžně používaným při skenování, tisku a archivaci.
+
+Automatizace je zvláště cenná pro vodoznakování TIFF kvůli velkým velikostem souborů a dávkovým procesům, umožňuje konzistentní zpracování v rámci potrubí pro zobrazování dokumentů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Značky vlastnictví naskenovaných dokumentů**  
+
+&nbsp; Přidejte vodoznaky k naskenovaným TIFF souborům pro zachování původu v obrazových archivech.
+
+
+
+* **Důkazní razítka pracovního postupu tisku**  
+
+&nbsp; Přidejte vodoznaky "PROOF" k předtiskovým TIFF souborům pro kontrolované posouzení.
+
+
+
+* **Štítky pro dodržování pravidel v obrazových repozitářích**  
+
+&nbsp; Označte omezené obrázky textem klasifikace pro podporu pravidel manipulace.
+
+
+
+* **Stopa konverze archivu**  
+
+&nbsp; Vodoznačte TIFF soubory před konverzí do jiných formátů pro zachování původní identity.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatické vodoznakování výstupu ze skeneru**  
+
+&nbsp; Označte TIFF soubory ihned po skenování pomocí sledovaných složek nebo úloh na import.
+
+
+
+* **Zpracování vícestránkových TIFF souborů**  
+
+&nbsp; Aplikujte konzistentní vodoznaky napříč stránkami v multi-stránkových TIFF souborech programově.
+
+
+
+* **Škálování vodoznaku s ohledem na rozlišení**  
+
+&nbsp; Upravte velikost vodoznaku na základě DPI pro udržení konzistentního fyzického vzhledu tisku.
+
+
+
+* **Automatizované pracovní postupy pro uchování a audit**  
+
+&nbsp; Vodoznačte obrázky jako součást automatizovaných značkování pro uchování a kontrolu souladu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -90,7 +90,73 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Words for Python via 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Xem tài liệu DOCM bằng Python APIs cho phép kiểm tra an toàn các tài liệu hỗ trợ macro mà không thực thi logic nhúng.
+
+Điều này rất quan trọng trong môi trường kiểm soát nơi yêu cầu khả năng nhìn thấy mà không có rủi ro về bảo mật.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Đánh Giá Tài Liệu Hiểu Macro**  
+
+&nbsp; Xem nội dung trong khi giữ các macro không hoạt động.
+
+
+
+* **Kiểm Tra Hướng An Toàn**  
+
+&nbsp; Kiểm tra tài liệu về cấu trúc và văn bản mà không thực thi.
+
+
+
+* **Truy Cập Tài Liệu Kiểm Soát**  
+
+&nbsp; Cho phép xem an toàn trong các hệ thống hạn chế hoặc tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Đường Ống Tiếp Nhận An Toàn**  
+
+&nbsp; Tự động hóa Python hiển thị nội dung DOCM mà không kích hoạt macro.
+
+
+
+* **Tự Động Hóa Đánh Giá Tuân Thủ**  
+
+&nbsp; Tài liệu được xem xét như một phần của các kiểm tra chính sách tự động.
+
+
+
+* **Quy Trình Làm Việc Trước Phê Duyệt**  
+
+&nbsp; Xem trước tự động hỗ trợ việc phê duyệt của con người.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

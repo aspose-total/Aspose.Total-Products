@@ -79,7 +79,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri kullanarak makro etkin PowerPoint dosyalarının birleştirilmesi, gömülü mantık, otomasyon veya etkileşimli davranışlar içeren sunumları destekler. Bu genellikle kurumsal ve operasyonel sunumlarda görülür.
+
+
+
+Otomasyon, makro etkin slaytların gömülü işlevselliğini bozmadan güvenilir bir şekilde birleştirilmesini sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Makro Tabanlı Sunum Birleştirme (PPTM)**  
+
+&nbsp; Otomatik veya etkileşimli unsurlar içeren PPTM dosyalarını birleştirme.
+
+
+
+* **Operasyonel Slayt Konsolidasyonu (PPTM)**  
+
+&nbsp; İç süreçlerde kullanılan makro etkin sunumları birleştirme.
+
+
+
+* **Etkileşimli Paket Sunum (PPTM)**  
+
+&nbsp; PPTM dosyalarını tek bir yürütülebilir sunuma toplama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Kural Tabanlı Sunum Oluşturma (PPTM)**  
+
+&nbsp; Sistemler, otomasyon kurallarına göre PPTM dosyalarını birleştirir.
+
+
+
+* **Arka Planda Kontrollü Makro Koruma (PPTM)**  
+
+&nbsp; Otomatik borular, mantığı koruyarak PPTM dosyalarını birleştirir.
+
+
+
+* **Uyumluluk Sunumu Otomasyonu (PPTM)**  
+
+&nbsp; PPTM birleştirme, tekrarlanabilir, yönetilen çıktıları destekler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

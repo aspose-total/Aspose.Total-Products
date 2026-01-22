@@ -98,7 +98,93 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'extraction des métadonnées de documents pour les fichiers **DOC** via des API Python permet aux systèmes de lire et d'interpréter les attributs principaux des fichiers, tels que l'auteur, l'heure de création, l'heure de dernière modification, le nombre de révisions et les propriétés intégrées, sans inspection manuelle. Cela est important pour la gouvernance, la recherche, l'audit et le contrôle du cycle de vie du contenu dans les flux de travail riches en documents.
+
+
+
+Lorsqu'elle est intégrée dans des pipelines d'automatisation, les métadonnées DOC deviennent un signal fiable pour l'acheminement, les vérifications de conformité, l'indexation et le traitement par lots, soutenant des opérations documentaires évolutives, une classification cohérente et des intégrations aval avec les couches de stockage, de recherche et de reporting.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Inventaire de documents hérités**
+
+  Extraire les métadonnées des archives DOC pour construire un index structuré pour la découverte, la déduplication et la planification du cycle de vie.
+
+
+
+* **Vérification des horodatages de conformité**
+
+  Utiliser les champs de création/modification pour vérifier les règles de rétention et détecter les anomalies dans la documentation réglementée.
+
+
+
+* **Cartographie de la propriété des documents**
+
+  Lire les propriétés de l'auteur et du dernier éditeur pour cartographier la propriété des documents pour les affectations de révision et les contrôles d'accès.
+
+
+
+* **Catégorisation par lots pour la recherche**
+
+  Convertir les propriétés intégrées en balises normalisées pour un filtrage cohérent et un enrichissement de la recherche interne.
+
+
+
+* **Signaux de traçabilité des changements**
+
+  Capturer les champs liés aux révisions pour soutenir la traçabilité dans les flux de travail éditoriaux et d'approbation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Porte d'admission des archives**
+
+  Accepter automatiquement ou mettre en quarantaine les fichiers DOC en fonction des champs d'auteur manquants, des horodatages suspects ou des modèles de métadonnées invalides.
+
+
+
+* **Synchronisation des métadonnées vers l'index**
+
+  À l'importation, extraire les métadonnées DOC et les pousser dans un index de recherche pour que les résultats restent à jour sans catalogage manuel.
+
+
+
+* **Règles de routage basées sur les politiques**
+
+  Acheminer les fichiers DOC vers des files d'attente spécifiques lorsque les métadonnées indiquent un contenu confidentiel, des versions obsolètes ou une propriété inconnue.
+
+
+
+* **Audits planifiés des métadonnées**
+
+  Exécuter des analyses nocturnes qui détectent les dérives des métadonnées et génèrent des rapports d'exception pour les équipes opérationnelles.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+دمج جداول العمل الحديثة في Excel باستخدام واجهات برمجة التطبيقات في Python هو النهج القياسي لدمج مجموعات البيانات المهيكلة والتقارير والنماذج. XLSX هو تنسيق جدول البيانات الأكثر استخدامًا في الأنظمة الحديثة.
+
+
+
+تتكامل هذه القدرة بسلاسة مع منصات البيانات، مما يتيح توليد جداول بيانات تلقائيًا ودمجها على نطاق واسع.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **إنشاء تقارير متعددة الأوراق (XLSX)**  
+
+&nbsp; دمج ملفات XLSX في جدول بيانات تقريري شامل.
+
+
+
+* **توحيد مصادر البيانات (XLSX)**  
+
+&nbsp; دمج مجموعات بيانات XLSX من أنظمة متعددة.
+
+
+
+* **تجميع البيانات بالتعاون (XLSX)**  
+
+&nbsp; دمج ملفات XLSX المقدمة من أصحاب المصلحة المتعددين.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **توليد جداول بيانات ديناميكية (XLSX)**  
+
+&nbsp; تقوم الأنظمة بدمج ملفات XLSX استنادًا إلى شروط البيانات أثناء التشغيل.
+
+
+
+* **تكامل خطوط أنابيب ETL (XLSX)**  
+
+&nbsp; يتم دمج ملفات XLSX تلقائيًا ضمن خطوط أنابيب استيعاب البيانات.
+
+
+
+* **تشغيل التقارير بشكل قابل للتوسيع تلقائيًا (XLSX)**  
+
+&nbsp; يتم دمج تقارير XLSX ذات الحجم الكبير برمجيًا.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

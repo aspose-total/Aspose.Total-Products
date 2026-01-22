@@ -79,7 +79,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Slides for Python via 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Hợp nhất các tệp PowerPoint hỗ trợ macro bằng cách sử dụng Python APIs giúp hỗ trợ các bản trình bày chứa logic nhúng, tự động hóa hoặc hành vi tương tác. Điều này phổ biến trong các bản trình bày doanh nghiệp và hoạt động.
+
+
+
+Tự động hóa đảm bảo rằng các slide hỗ trợ macro được hợp nhất một cách đáng tin cậy mà không làm hỏng chức năng nhúng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tổ Chức Bản Trình Bày Dựa Trên Macro (PPTM)**  
+
+  Merge các tệp PPTM chứa các yếu tố tự động hoặc tương tác.
+
+
+
+* **Tổng Hợp Slide Hoạt Động (PPTM)**  
+
+  Kết hợp các bản trình bày hỗ trợ macro được sử dụng trong quy trình nội bộ.
+
+
+
+* **Đóng Gói Slide Tương Tác (PPTM)**  
+
+  Tập hợp các tệp PPTM vào một bản trình bày thực thi duy nhất.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Tạo Bản Trình Bày Dựa Trên Quy Tắc (PPTM)**  
+
+  Hệ thống hợp nhất các tệp PPTM dựa trên các quy tắc tự động.
+
+
+
+* **Bảo Toàn Macro Được Kiểm Soát Bởi Backend (PPTM)**  
+
+  Các đường ống tự động hợp nhất các tệp PPTM trong khi giữ nguyên logic.
+
+
+
+* **Tự Động Hóa Bản Trình Bày Tuân Thủ (PPTM)**  
+
+  Hợp nhất PPTM hỗ trợ tái sử dụng, đầu ra được quản lý.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

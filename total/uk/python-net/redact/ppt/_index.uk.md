@@ -77,7 +77,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Редакція документів за допомогою Python APIs для файлів PPT підтримує безпечну обробку старих форматів презентацій, які залишаються поширеними в системах спадщини. Це забезпечує захист конфіденційної інформації незалежно від віку файлу.
+
+
+
+Автоматизована редакція дозволяє безпечно використовувати, архівувати або ділитися файлами PPT без ручного втручання.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+
+
+
+* **Очищення старих презентацій**  
+
+&nbsp; Видалення застарілої або конфіденційної інформації зі старих файлів PPT.
+
+
+
+* **Модернізація архівів**  
+
+&nbsp; Санітарна обробка історичних презентацій для безпечного повторного використання.
+
+
+
+* **Контрольована обмін інформацією**  
+
+&nbsp; Підготовка редагованих файлів PPT для обмежених аудиторій.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Потоки роботи зі старими форматами**  
+
+&nbsp; Автоматична обробка файлів PPT поряд з новішими форматами.
+
+
+
+* **Редакція на основі шаблонів**  
+
+&nbsp; Виявлення та видалення конфіденційних термінів за допомогою попередньо визначених правил.
+
+
+
+* **Автоматизована обробка архівів**  
+
+&nbsp; Санітарна обробка цілих архівів презентацій програмно.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

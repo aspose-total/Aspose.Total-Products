@@ -79,7 +79,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX - это современный формат документа на основе XML, разработанный для хранения структурированного и расширяемого контента. Разделение файлов DOCX позволяет точный доступ к компонентам документа, таким как заголовки, таблицы или разделы.
+
+
+
+Разделение DOCX на основе Python улучшает автоматизацию, обеспечивая разбор с учетом схемы, масштабируемую обработку и безшовную интеграцию с системами управления контентом.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Модульная публикация документов**  
+
+&nbsp; Большие файлы DOCX могут быть разделены на готовые к публикации разделы.
+
+
+
+* **Извлечение выборочного содержимого**  
+
+&nbsp; Извлекаются только соответствующие части для целевых рабочих процессов.
+
+
+
+* **Управление версиями документов**  
+
+&nbsp; Разделенные разделы обеспечивают независимое отслеживание и обновление.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Сегментация на основе заголовков**  
+
+&nbsp; Сценарии на Python разделяют документы с использованием структурных тегов.
+
+
+
+* **Обработка контента на основе конвейера**  
+
+&nbsp; Извлеченные разделы автоматически переходят на этапы валидации или визуализации.
+
+
+
+* **Автоматизированные проверки соответствия**  
+
+&nbsp; Каждый раздел проверяется независимо с учетом правил.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -82,7 +82,73 @@ Voor meer details verwijzen wij u naar [Productdocumentatie](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TIFF-documentweergave met Python-API's ondersteunt hoogwaardige, multipagina-afbeeldingsindelingen die veel worden gebruikt bij scannen en archiveren.
+
+Dit maakt nauwkeurige inspectie van gedetailleerde visuele documenten mogelijk.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Beoordeling van gescande documenten**  
+
+  Bekijk gescande pagina's van hoge kwaliteit.
+
+
+
+* **Inspectie van archiefafbeeldingen**  
+
+  Inspecteer afbeeldingsbestanden van archiefkwaliteit.
+
+
+
+* **Behandeling van multipagina-afbeeldingen**  
+
+  Navigeer door complexe op afbeeldingen gebaseerde documenten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Geautomatiseerde scanverificatie**  
+
+  Python-workflows tonen gescande bestanden voor kwaliteitsborging.
+
+
+
+* **Integriteitscontroles van archieven**  
+
+  Opgeslagen afbeeldingen worden regelmatig weergegeven ter validatie.
+
+
+
+* **Digitaliseringspijplijnen voor documenten**  
+
+  Geautomatiseerde viewers ondersteunen digitaliseringsprocessen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

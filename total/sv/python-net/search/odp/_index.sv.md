@@ -76,7 +76,75 @@ För mer information, se [Product Documentation](https://docs.aspose.com/slides/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Sökning av **ODP**-filer med Python API:er möjliggör strukturerad åtkomst till öppna standardpresentationdokument som vanligtvis används i samarbets- och öppen källkodsmiljöer. Programmatisk sökning gör att system kan extrahera slidtext, rubriker och metadata utan manuell granskning.
+
+
+
+När ODP-dokumentsökningen automatiseras förbättras upptäckbarheten, stöder skalbar innehållshantering och integreras sömlöst med moderna datahanterings- och arbetsflödesautomatiseringssystem.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* **Sökning av ODP Slide Text**  
+
+&nbsp; Lokaliserar nyckelord och fraser över öppna presentationsbilder.
+
+
+
+* **Granskning av öppet presentationsinnehåll**  
+
+&nbsp; Möjliggör snabb inspektion av delade eller samarbetspresentationer.
+
+
+
+* **ODP Metadata Upptäckt**  
+
+&nbsp; Extraherar dokumentegenskaper för klassificering och indexering.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* **Automatiserad ODP-indexering**  
+
+&nbsp; Python-tjänster indexerar kontinuerligt ODP-filer för sökåtkomst.
+
+
+
+* **Övervakning av ODP-innehåll**  
+
+&nbsp; Programmatiska skanningar upptäcker förändringar eller uppdateringar i presentationer.
+
+
+
+* **Integration av ODP-arbetsflöde**  
+
+&nbsp; Extraherat innehåll matar automatiserad publicering eller granskningspipeliner.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

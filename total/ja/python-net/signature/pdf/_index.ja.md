@@ -73,7 +73,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用したPDF署名は、完成した文書に対して強力な整合性、信頼性、および否認拒否の保証を提供します。これは外部共有や規制されたワークフローにとって重要です。
+
+
+
+自動化されたPDF署名により、文書がプロセスが完了した正確な時点で暗号的に封印されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用事例" %}}
+
+
+
+* **法的文書の認証**  
+
+&nbsp; PDFにデジタル署名をして信頼性を確保します。
+
+
+
+* **請求書および財務承認**  
+
+&nbsp; 承認された財務文書に署名を適用します。
+
+
+
+* **コンプライアンス文書の最終化**  
+
+&nbsp; 監査や報告に使用されるPDFを封印します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **ワークフロー終了時の暗号署名**  
+
+&nbsp; プロセスが完了した時にPDFに署名されます。
+
+
+
+* **定期バッチ署名**  
+
+&nbsp; 定義された間隔で複数のPDFに署名されます。
+
+
+
+* **安全な配布準備**  
+
+&nbsp; 外部配信の前に署名が行われます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

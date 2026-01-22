@@ -100,7 +100,75 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Analiza prezentacji **PPTX** za pomocą interfejsów API w języku Python umożliwia strukturalny dostęp do tekstu slajdów, tytułów, punktów wypunktowania, układów i notatek prelegenta z nowoczesnych plików prezentacji. Analiza PPTX umożliwia dostęp do wiedzy opartej na slajdach poza manualnym przeglądaniem.
+
+
+
+W systemach opartych na automatyzacji analiza PPTX wspiera ponowne wykorzystanie treści, ich podsumowywanie, analizę oraz integrację z zarządzaniem wiedzą i raportowaniem.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Wyodrębnianie Zawartości Slajdów**  
+
+&nbsp; Pobiera strukturalny tekst i elementy układu z slajdów prezentacji.
+
+
+
+* **Wydobywanie Wiedzy z Prezentacji**  
+
+&nbsp; Konwertuje zestawy slajdów na źródła treści możliwe do wyszukiwania i analizy.
+
+
+
+* **Przepływy Przetwarzania Treści**  
+
+&nbsp; Umożliwia ponowne wykorzystanie materiałów prezentacyjnych w dokumentacji i na platformach.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Automatyczne Przetwarzanie Prezentacji**  
+
+&nbsp; Automatycznie przetwarza pliki PPTX po ich przesłaniu lub zgodnie z harmonogramem.
+
+
+
+* **Przepływy Podsumowywania na Poziomie Slajdu**  
+
+&nbsp; Generuje zwięzłe podsumowania na podstawie analizy treści slajdów.
+
+
+
+* **Automatyzacja Porównywania Wersji**  
+
+&nbsp; Programowo wykrywa zmiany między różnymi wersjami prezentacji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

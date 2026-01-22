@@ -79,7 +79,85 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Vodoznakování souborů **PPTX** pomocí Python API přidává škálovatelnou kontrolu k moderním prezentacím PowerPoint tím, že označuje vlastnictví, důvěrnost a stav přes snímky způsobem konzistentním a opakovatelným.
+
+Automatizace pomáhá týmům integrovat vodoznakování PPTX do dokumentačních toků, zajistí, že prezentace jsou správně označeny před distribucí, archivací nebo publikováním.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Ochrana důvěrné prezentace**  
+
+&nbsp; Ověřte citlivé prezentace a snižte úniky během financování nebo jednání.
+
+
+
+* **Označování dodávek specifických pro zákazníka**  
+
+&nbsp; Přidejte identifikátory zákazníka k sledování distribuce sdílených prezentací PPTX.
+
+
+
+* **Vodoznaky pro interní kontrolu**  
+
+&nbsp; Označte prezentace jako "V KONTROLE" a vyhněte se zmatení s schválenými verzemi.
+
+
+
+* **Správa opakovaně použitelných šablon**  
+
+&nbsp; Ujistěte se, že všechny vygenerované prezentace obsahují správný vodoznak vlastnictví nebo politiky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* **Vodoznakování na základě hlavního snímku**  
+
+&nbsp; Použijte vodoznaky prostřednictvím prvků na celou snímku pro konzistentní zobrazení přes snímky.
+
+
+
+* **Automatizovaný text vodoznaku z polí CRM**  
+
+&nbsp; Generujte vodoznaky pomocí identifikátoru obchodu, názvu účtu nebo kódu projektu programově.
+
+
+
+* **Před odesláním ověření a označení**  
+
+&nbsp; Automaticky vodoznakujte soubory PPTX během odchozích e-mailových nebo portálových dodacích toků.
+
+
+
+* **Hromadné opětovné označení po aktualizacích politiky**  
+
+&nbsp; Obnovte varianty s vodoznakem při změnách pravidel označování nebo právního textu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -104,7 +104,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การวิเคราะห์เอกสาร **OTT** โดยใช้ Python APIs ช่วยให้สามารถสกัดโครงสร้างจากเทมเพลตข้อความเปิดที่ออกแบบมาเพื่อการสร้างเอกสารที่สม่ำเสมอ ไฟล์ OTT มักถูกใช้งานในสภาพแวดล้อมมาตรฐานเพื่อกำหนดเลเอาท์ที่ใช้ซ้ำได้, สไตล์, และตัวยึดตำแหน่ง
+
+
+
+โดยการรวมการวิเคราะห์ OTT เข้ากับระบบอัตโนมัติ องค์กรสามารถสร้าง, ตรวจสอบ, และจัดการเอกสารในขอบเขตขนาดใหญ่ โดยรักษาความเข้มงวดต่อเทมเพลตมาตรฐานและรูปแบบเปิด
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **การสกัดโครงสร้างเทมเพลต**  
+
+  &nbsp; ระบุส่วนที่กำหนดไว้ล่วงหน้า, สไตล์, และตัวยึดตำแหน่งภายในเทมเพลต OTT
+
+
+
+* **การสร้างเอกสารตามมาตรฐาน**  
+
+  &nbsp; สนับสนุนการสร้างเอกสารอย่างสม่ำเสมอตามเทมเพลตเปิดที่ได้รับการอนุมัติ
+
+
+
+* **การบริหารรูปแบบเปิด**  
+
+  &nbsp;  รักษาให้เอกสารเป็นไปตามมาตรฐานขององค์กรโดยไม่มีการล็อคอินเอกสารเฉพาะ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* **การสร้างเอกสารแบบไดนามิก**  
+
+  &nbsp; สร้างเอกสารเทมเพลต OTT โดยอัตโนมัติด้วยข้อมูลที่มีโครงสร้าง
+
+
+
+* **การตรวจสอบความถูกต้องของเทมเพลต**  
+
+  &nbsp; ตรวจจับการเลี้ยงออกจากโครงสร้างเทมเพลตที่ได้รับการอนุมัติ
+
+
+
+* **การสร้างกระแสเอกสารเปิดขยายได้**  
+
+  &nbsp;  ทำให้เป็นไปได้ในการผลิตเอกสารปริมาณมากโดยใช้มาตรฐานเปิด
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

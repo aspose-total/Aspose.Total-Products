@@ -90,7 +90,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+عرض مستند DOCM باستخدام واجهات برمجة التطبيقات في Python يمكن من تفقد آمن للمستندات التي تحتوي على ماكرو دون تنفيذ البرمجيات المضمنة.
+
+هذا أمر أساسي في البيئات المراقبة حيث يتطلب الأمر الرؤية دون تعريض لمخاطر الأمان.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **مراجعة المستندات التي تدعم البرامج النصية**  
+
+&nbsp; عرض المحتوى دون تنشيط البرامج النصية.
+
+
+
+* **تفتيش موجه نحو الأمان**  
+
+&nbsp; فحص المستندات للهيكل والنص من دون تنفيذ.
+
+
+
+* **الوصول المراقب للمستندات**  
+
+&nbsp; تمكين العرض الآمن في الأنظمة المقيدة أو الآلية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **أنابيب الاستقبال الآمنة**  
+
+&nbsp; تعرض الأتمتة بلغة Python محتوى DOCM دون تنشيط البرامج النصية.
+
+
+
+* **أتمتة مراجعة الامتثال**  
+
+&nbsp; يتم عرض المستندات كجزء من فحوصات السياسات الآلية.
+
+
+
+* **أنابيب العمل قبل الموافقة**  
+
+&nbsp; تدعم المعاينات الآلية الموافقات التفاعلية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

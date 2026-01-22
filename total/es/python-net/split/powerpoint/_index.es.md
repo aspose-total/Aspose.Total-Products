@@ -84,7 +84,41 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Los archivos de PowerPoint almacenan contenido visual basado en diapositivas utilizado en presentaciones e informes. Dividir archivos de PowerPoint permite acceder de forma detallada a diapositivas individuales o grupos de diapositivas.
+
+La automatización basada en Python permite la manipulación escalable del contenido de presentaciones en flujos de trabajo modernos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+- **Reutilización de diapositivas en varias presentaciones**
+  &nbsp; Extraer diapositivas para reutilizar en nuevas presentaciones.
+
+- **Gestión de contenido de presentaciones**
+  &nbsp; Gestionar diapositivas de forma independiente a gran escala.
+
+- **Flujos de trabajo de revisión y aprobación**
+  &nbsp; Compartir solo diapositivas relevantes con las partes interesadas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+- **Segmentación automática de diapositivas**
+  &nbsp; Los scripts de Python dividen las presentaciones en unidades de diapositivas.
+
+- **Generación dinámica de presentaciones**
+  &nbsp; Las diapositivas se ensamblan según reglas.
+
+- **Sistemas de versionado de presentaciones**
+  &nbsp; Seguir cambios a nivel de diapositiva de forma automática.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -144,7 +178,7 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

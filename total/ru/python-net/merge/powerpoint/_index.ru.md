@@ -79,7 +79,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Объединение форматов презентаций в рамках унифицированного рабочего процесса, совместимого с PowerPoint, с использованием Python API упрощает обработку разнообразных источников слайдов. Эта абстракция снижает сложность в средах смешанных форматов.
+
+
+
+Автоматизация позволяет объединять слайды независимо от формата для масштабируемых систем презентаций.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Унификация презентаций различных форматов (POWERPOINT)**  
+
+&nbsp; Объединение различных форматов презентаций в одну колоду.
+
+
+
+* **Агрегация слайдов из разных источников (POWERPOINT)**  
+
+&nbsp; Объединение слайдов из разных инструментов и форматов.
+
+
+
+* **Гармонизация предприятий презентаций (POWERPOINT)**  
+
+&nbsp; Сбор гетерогенных колод слайдов в единую презентацию.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Потоки слайдов независимо от формата (POWERPOINT)**  
+
+&nbsp; Автоматизированные рабочие процессы объединяют презентации независимо от формата.
+
+
+
+* **Генерация унифицированных презентаций (POWERPOINT)**  
+
+&nbsp; Системы динамически генерируют объединенные колоды.
+
+
+
+* **Масштабируемая оркестрация слайдов (POWERPOINT)**  
+
+&nbsp; Программное объединение поддерживает презентации предприятий.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用して一般的な画像入力に署名することは、さまざまな画像ソースからの承認マークと検証メタデータを適用するための統一されたアプローチを提供します。これは、パイプラインが複数のツールから画像を取り込み、一貫したガバナンスが必要な場合に役立ちます。
+
+
+
+画像署名を自動化すると、「承認済みアーティファクト」の標準化された状態が強制され、下流システムが品質、ポリシー、コンプライアンス要件を満たすアセットのみを消費することが保証されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **クロスソースアセットの標準化**  
+
+&nbsp; 様々なツールやチームから到着した画像に一貫した署名オーバーレイを適用します。
+
+
+
+* **証拠画像の検証**  
+
+&nbsp; レビュアーのアイデンティティと承認状況を確認するために使用される画像に署名します。
+
+
+
+* **承認済みアセットの配布管理**  
+
+&nbsp; 配布パッケージに含まれる前に画像を承認済みとしてマークします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **取り込み時の承認マーキング**  
+
+&nbsp; 検証ルールとメタデータチェックが完了した後に画像に署名します。
+
+
+
+* **ポリシーチェックポイントの強制**  
+
+&nbsp; 自動化されたポリシーと安全規則を通過した画像のみを自動的に署名します。
+
+
+
+* **リポジトリ同期の最終処理**  
+
+&nbsp; 共有リポジトリに同期する前に画像に署名して、検証済みバージョンのみが伝播することを確認します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

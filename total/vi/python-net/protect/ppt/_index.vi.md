@@ -71,7 +71,75 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Python via
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Tệp PPT đại diện cho các định dạng PowerPoint cũ vẫn được sử dụng trong nhiều môi trường. Bảo vệ tệp PPT đảm bảo các bản trình bày cũ vẫn an toàn và tuân thủ.
+
+
+
+API Python cho phép bảo vệ tự động các tệp PPT, giúp nội dung cũ phù hợp với các tiêu chuẩn bảo mật hiện đại.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Bảo Vệ Slide Cũ**  
+
+&nbsp; Bảo vệ các tệp PPT cũ khỏi sự sửa đổi trái phép.
+
+
+
+* **Bảo Tồn Nội Dung Lịch Sử**  
+
+&nbsp; Bảo tồn tính toàn vẹn của các bản trình bày được lưu trữ.
+
+
+
+* **Phân Phối Kiểm Soát**  
+
+&nbsp; Hạn chế chỉnh sửa khi chia sẻ bộ slide cũ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Bảo Vệ Tệp Cũ Theo Lô**  
+
+&nbsp; Bảo vệ tự động các bộ sưu tập lớn tệp PPT.
+
+
+
+* **Bảo Mật Trong Quá Trình Di Chuyển**  
+
+&nbsp; Áp dụng bảo vệ trong quá trình chuyển đổi hệ thống cũ.
+
+
+
+* **Hạn Chế Truy Cập Tự Động**  
+
+&nbsp; Áp dụng hạn chế đồng nhất trên các tệp PPT một cách tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

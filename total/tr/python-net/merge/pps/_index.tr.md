@@ -79,7 +79,76 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'ları kullanarak PowerPoint slayt formatlarını birleştirmek, birleştirilmiş oynatmaya hazır sunumlar sağlar. Bu formatlar doğrudan sunum için tasarlanmıştır, düzenleme için değil.
+
+
+
+Otomasyon, takımlar ve etkinlikler arasında tutarlı slayt gösterisi sunumu sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Slayt Sırası Montajı (PPS)**  
+
+&nbsp; PPS dosyalarını tek bir sunum akışına birleştirin.
+
+
+
+* **Etkinlik Sunumu Derleme (PPS)**  
+
+&nbsp; Konferanslar veya toplantılar için slayt dosyalarını birleştirin.
+
+
+
+* **Sunum Oynatma Paketleme (PPS)**  
+
+&nbsp; PPS dosyalarını bir yürütülebilir slayt haline getirin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik Etkinlik Destek Hazırlığı (PPS)**  
+
+&nbsp; Sistemler, planlanmış etkinliklerden önce PPS dosyalarını birleştirir.
+
+
+
+* **Arka Uç Slayt Oluşturma (PPS)**  
+
+&nbsp; PPS birleştirme programlı olarak tetiklenir.
+
+
+
+* **Sunum Dağıtımı Otomasyonu (PPS)**  
+
+&nbsp; Slaytlar otomatik olarak birleştirilir ve oynatma için hazırlanır.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -90,7 +90,73 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Przeglądanie dokumentów Word za pomocą interfejsów API w języku Python zapewnia ujednolicony sposób inspekcji plików opartych na tekście w różnych formatach kompatybilnych z programem Word.
+
+To wspiera spójne zarządzanie dokumentami w systemach zautomatyzowanych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Jednolite przeglądanie dokumentów**  
+
+&nbsp; Przeglądaj różne dokumenty Word za pomocą jednego interfejsu.
+
+
+
+* **Sprawdzanie spójności treści**  
+
+&nbsp; Sprawdzaj tekst i strukturę między plikami.
+
+
+
+* **Integracja z procesami roboczymi**  
+
+&nbsp; Włóż przeglądanie dokumentów do potoków przetwarzania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Automatyzowane potoki treści**  
+
+&nbsp; Procesy w języku Python renderują dokumenty Word podczas wieloetapowych prac.
+
+
+
+* **Usługi podglądu**  
+
+&nbsp; Dokumenty są wyświetlane dynamicznie do przeglądu lub zatwierdzenia.
+
+
+
+* **Operacje wsadowe na dokumentach**  
+
+&nbsp; Duże zestawy plików Word są przeglądane programistycznie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

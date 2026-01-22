@@ -89,7 +89,73 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'lerini kullanarak ODP dosyalarını görüntülemek, platformdan bağımsız bir formatta açık sunum belgelerini inceleme olanağı sağlar.
+
+Bu, etkileşimliliği ve otomatik sunum iş akışlarını destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Durumları" %}}
+
+
+
+* **Açık Sunum İncelemesi**  
+
+&nbsp; Açık belge formatlarında oluşturulan slaytları görüntüle.
+
+
+
+* **Çapraz Platform Doğrulaması**  
+
+&nbsp; Sunumların tutarlı bir şekilde oluşturulduğundan emin ol.
+
+
+
+* **Sunum İçeriği İncelemesi**  
+
+&nbsp; Slayt metnini ve yapısını incele.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik Sunum Denetimleri**  
+
+&nbsp; Python iş akışları, inceleme için ODP dosyalarını oluşturur.
+
+
+
+* **Etkileşimlilik Kontrolleri**  
+
+&nbsp; Biçim uyumluluğunu sağlamak için slaytlar görüntülenir.
+
+
+
+* **Önizleme Hizmetleri**  
+
+&nbsp; Sunumlar dinamik olarak gösterilir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

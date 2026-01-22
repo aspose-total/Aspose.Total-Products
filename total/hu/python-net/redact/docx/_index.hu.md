@@ -74,7 +74,75 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A dokumentum szerkesztése Python API-k segítségével DOCX fájlokhoz modern, strukturált megközelítést biztosít a kényes tartalom eltávolításához a széles körben elfogadott szövegszerkesztő formátumokból. Ez biztosítja, hogy a dokumentumok használhatók maradjanak, miközben védi a bizalmas információkat.
+
+
+
+A Python alapú automatizálás lehetővé teszi a DOCX szerkesztésének könnyű skálázását nagy dokumentumtárakban, lehetővé téve az zökkenőmentes integrációt a tartalomkezelési és szabályozási rendszerekkel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Szabályozási adatvédelem**  
+
+&nbsp; Távolítsa el a személyes vagy pénzügyi adatokat a DOCX fájlokból a külső terjesztés előtt.
+
+
+
+* **Szerződés tisztítása**  
+
+&nbsp; Takarja el a kényes záradékokat, miközben megőrzi a dokumentum szerkezetét és formázását.
+
+
+
+* **Együttműködés biztonsága**  
+
+&nbsp; Biztonságosan ossza meg a letakart DOCX fájlokat partnerekkel vagy ügyfelekkel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Sablonvezérelt letakarás**  
+
+&nbsp; Automatikusan takarja el a konkrét szakaszokat dokumentumsablonok alapján.
+
+
+
+* **Munkafolyamat-alapú feldolgozás**  
+
+&nbsp; Indítsa el a letakarást, amikor a DOCX fájlok átkerülnek a munkafolyamat szakaszai között.
+
+
+
+* **Folyamatos szabályozási ellenőrzések**  
+
+&nbsp; Újra szkennelje és takarja el a frissített dokumentumokat az automatizált csővezetékek részeként.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

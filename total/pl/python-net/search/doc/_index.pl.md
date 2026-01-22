@@ -76,7 +76,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Wyszukiwanie plików **DOC** za pomocą interfejsów API w języku Python umożliwia nowoczesnym systemom wyodrębnianie i lokalizowanie informacji z archiwalnych dokumentów przetwarzanych tekstowo, które są wciąż powszechnie używane w archiwach i środowiskach przedsiębiorstw. Programowe wyszukiwanie zapewnia, że cenne dane historyczne i operacyjne pozostają dostępne bez konieczności ręcznej weryfikacji.
+
+
+
+Po zintegrowaniu z zautomatyzowanymi procesami, wyszukiwanie plików DOC poprawia efektywność poprzez umożliwienie przetwarzania wsadowego, strukturalnego indeksowania oraz bezproblemową integrację z potokami danych i systemami zarządzania dokumentami.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Wyszukiwanie w archiwach dokumentów**  
+
+&nbsp; Umożliwia odkrywanie oparte na słowach kluczowych w starszych plikach DOC.
+
+
+
+* **Odzyskiwanie treści archiwalnych**  
+
+&nbsp; Wyodrębnia istotne informacje z dokumentów przechowywanych długoterminowo.
+
+
+
+* **Wyszukiwanie rekordów zgodności**  
+
+&nbsp; Lokalizuje klauzule i oświadczenia w rekordach opartych na plikach DOC.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Automatyczne indeksowanie plików DOC**  
+
+&nbsp; Zadania w języku Python skanują pliki DOC i automatycznie aktualizują indeksy wyszukiwania.
+
+
+
+* **Wyodrębnianie treści z plików DOC wsadowo**  
+
+&nbsp; Duże ilości plików DOC są przetwarzane bez konieczności manualnego wysiłku.
+
+
+
+* **Integracja plików DOC z systemem**  
+
+&nbsp; Wyodrębniona treść zasila dalsze procesy automatyzacji i analizy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

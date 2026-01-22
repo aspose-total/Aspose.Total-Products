@@ -78,7 +78,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusion de documents à l'aide des API Python est une capacité fondamentale pour le traitement moderne du contenu, les rapports et la gestion du cycle de vie des documents. Cela permet aux développeurs et aux systèmes de combiner plusieurs fichiers en une seule sortie structurée tout en préservant la mise en forme, la présentation et le flux logique à travers des sources de documents hétérogènes.
+
+
+
+En automatisant la fusion de documents, les organisations peuvent réduire les efforts manuels, garantir la cohérence et intégrer les flux de documents directement dans les pipelines de données, les services backend et les systèmes d'automatisation évolutifs construits en Python.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Rapports Word consolidés (DOC)**  
+
+&nbsp; Combinez des documents Word hérités en un seul rapport pour une révision et une archivage unifiés.
+
+
+
+* **Assemblage de documents par lots (DOC)**  
+
+&nbsp; Assemblez plusieurs fichiers DOC générés par différents systèmes en un seul livrable.
+
+
+
+* **Agrégation de contenu historique (DOC)**  
+
+&nbsp; Fusionnez des fichiers DOC archivés pour moderniser et réutiliser d'anciennes collections de contenu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Compilation de rapports planifiée (DOC)**  
+
+&nbsp; Les tâches automatisées fusionnent quotidiennement ou hebdomadairement des fichiers DOC en un rapport distribuable unique.
+
+
+
+* **Assemblage de documents basé sur le flux de travail (DOC)**  
+
+&nbsp; Les flux de travail backend fusionnent dynamiquement des fichiers DOC lorsque les étapes du processus sont terminées.
+
+
+
+* **Génération de sortie pilotée par pipeline (DOC)**  
+
+&nbsp; La fusion de DOC est déclenchée de manière programmée dans le cadre d'un pipeline de documents plus large.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

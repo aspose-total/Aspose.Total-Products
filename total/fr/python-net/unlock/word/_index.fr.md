@@ -72,7 +72,75 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Les documents Word, quelle que soit leur structure interne, sont souvent protégés pour contrôler les modifications et l'accès. Les déverrouiller de manière programmable permet un accès structuré pour l'automatisation, l'analyse et l'intégration système.
+
+
+
+Les API Python permettent de déverrouiller les documents Word de manière sécurisée et de les intégrer dans des pipelines documentaires, garantissant ainsi efficacité et reproductibilité.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Traitement unifié des documents**  
+
+  &nbsp; Permet une manipulation cohérente des fichiers de traitement de texte protégés.
+
+
+
+* **Révision automatisée du contenu**  
+
+  &nbsp; Prend en charge l'inspection des documents verrouillés sans étapes manuelles.
+
+
+
+* **Intégration système à système**  
+
+  &nbsp; Permet aux fichiers Word protégés de circuler à travers des plateformes automatisées.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Pipelines de documents de bout en bout**  
+
+  &nbsp; Les fichiers Word sont déverrouillés automatiquement au moment de l'ingestion.
+
+
+
+* **Accès aux documents basé sur des règles**  
+
+  &nbsp; Le déverrouillage est déclenché par des règles de workflow et des autorisations.
+
+
+
+* **Optimisation continue du contenu**  
+
+  &nbsp; Les documents protégés sont déverrouillés pour des améliorations automatisées.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

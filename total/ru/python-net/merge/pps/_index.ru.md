@@ -79,7 +79,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Объединение форматов слайд-шоу PowerPoint с использованием API Python позволяет создавать готовые к воспроизведению презентации. Эти форматы предназначены для прямого воспроизведения, а не для редактирования.
+
+
+
+Автоматизация обеспечивает однородную доставку слайд-шоу для команд и мероприятий.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Сборка последовательности слайд-шоу (PPS)**  
+
+&nbsp; Объединение файлов PPS в один поток презентации.
+
+
+
+* **Составление презентации для мероприятия (PPS)**  
+
+&nbsp; Объединение файлов слайд-шоу для конференций или встреч.
+
+
+
+* **Упаковка воспроизведения презентации (PPS)**  
+
+&nbsp; Объединение файлов PPS в одно исполняемое слайд-шоу.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированная подготовка презентации для мероприятия (PPS)**  
+
+&nbsp; Системы объединяют файлы PPS перед запланированными мероприятиями.
+
+
+
+* **Генерация слайд-шоу на стороне сервера (PPS)**  
+
+&nbsp; Объединение PPS запускается программно.
+
+
+
+* **Автоматизация доставки презентации (PPS)**  
+
+&nbsp; Слайд-шоу объединяются автоматически для воспроизведения.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

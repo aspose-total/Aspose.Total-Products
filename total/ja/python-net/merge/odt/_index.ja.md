@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用してOpenDocument Textファイルをマージすると、オープンスタンダードとクロスプラットフォームのドキュメントワークフローをサポートします。これにより、オープンソースまたは混在したオフィス環境で作成されたコンテンツをシームレスに統合できます。
+
+
+
+ODTのマージに関する自動化は、システム間で文書の整合性を維持しながら相互運用性を確保します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **クロスプラットフォームドキュメントの統合（ODT）**  
+
+  ファイルを異なるオフィススイートで作成されたODTファイルをマージします。
+
+
+
+* **オープンスタンダードのコンテンツ集約（ODT）**  
+
+  統一された公開のためにODTドキュメントを結合します。
+
+
+
+* **共同作業によるコンテンツの組み立て（ODT）**  
+
+  複数の寄稿者からのODTファイルを1つのドキュメントにマージします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **オープンワークフローの自動化（ODT）**  
+
+  プロプライエタリな依存関係なしに自動化システムがODTファイルをマージします。
+
+
+
+* **定期的なバックエンドタスクの一環としての文書のコンパイル（ODT）**  
+
+  ODTのマージは定期的なバックエンドタスクの一部として実行されます。
+
+
+
+* **相互運用可能な公開パイプライン（ODT）**  
+
+  ODTファイルはクロスシステムパイプラインで動的にマージされます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

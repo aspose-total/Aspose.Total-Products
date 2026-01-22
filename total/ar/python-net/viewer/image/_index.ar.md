@@ -82,7 +82,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+عرض تنسيقات الصور العامة باستخدام واجهات برمجة التطبيقات في Python يوفر نهجًا موحدًا لفحص الأصول البصرية عبر سير العمل.
+
+هذا يتيح التعامل المتسق مع الصور بغض النظر عن المصدر أو النوع.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **فحص الصور بشكل موحد**  
+
+&nbsp; عرض ملفات الصور المتنوعة من خلال واجهة واحدة.
+
+
+
+* **تحقق من صحة الأصول البصرية**  
+
+&nbsp; تأكيد سلامة الصور ومظهرها.
+
+
+
+* **دعم خط الإنتاج للمحتوى**  
+
+&nbsp; فحص الصور خلال مراحل المعالجة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **أنابيب الصور التلقائية**  
+
+&nbsp; تعرض سير العمل في Python الصور أثناء معالجة الدفعة.
+
+
+
+* **خدمات المعاينة الديناميكية**  
+
+&nbsp; يتم عرض الصور حسب الطلب للمراجعة.
+
+
+
+* **أتمتة ضمان الجودة**  
+
+&nbsp; يدعم العرض الفحوصات البصرية التلقائية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

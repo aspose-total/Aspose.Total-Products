@@ -78,7 +78,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'lerini kullanarak Excel uyumlu elektronik tablo formatlarını birleştirmek, farklı elektronik tablo kaynaklarını tek bir iş akışı altında ele almak için birleşik bir yaklaşım sağlar. Bu soyutlama, farklı formatlardaki verilerin birleştirilmesini basitleştirir.
+
+
+
+Otomasyon, kaynak formatından bağımsız olarak sorunsuz elektronik tablo birleştirme imkanı sağlar, sistem esnekliğini ve ölçeklenebilirliğini artırır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Çoklu Formatlı Elektronik Tablo Birleştirme (EXCEL)**  
+
+&nbsp; Çeşitli Excel uyumlu dosyaları tek bir çalışma kitabına birleştirme.
+
+
+
+* **Farklı Kaynak Verilerin Konsolidasyonu (EXCEL)**  
+
+&nbsp; Farklı araçlardan ve formatlardan elektronik tabloları birleştirme.
+
+
+
+* **Kurumsal Veri Uyumlaştırma (EXCEL)**  
+
+&nbsp; Heterojen elektronik tablo verilerini bir ana dosyaya toplama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Format-Agnostik Veri Boruları (EXCEL)**  
+
+&nbsp; Otomatik iş akışları, formatından bağımsız olarak elektronik tabloları birleştirir.
+
+
+
+* **Birleşik Raporlama Otomasyonu (EXCEL)**  
+
+&nbsp; Sistemler dinamik olarak konsolide Excel çıktıları oluşturur.
+
+
+
+* **Ölçeklenebilir Elektronik Tablo Orkestrasyonu (EXCEL)**  
+
+&nbsp; Programatik birleştirme, kurumsal ölçekte veri iş akışlarını destekler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -145,7 +213,7 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -89,7 +89,73 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Prohlížení souborů ODP pomocí Python API umožňuje inspekci otevřených prezentací v platformně neutrálním formátu.
+
+Toto podporuje interoperabilitu a automatizované pracovní postupy prezentací.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Hodnocení otevřených prezentací**  
+
+&nbsp; Prohlížení snímků vytvořených ve formátech otevřených dokumentů.
+
+
+
+* **Validace meziplatformní kompatibility**  
+
+&nbsp; Zajištění konzistentního zobrazení prezentací.
+
+
+
+* **Inspekce obsahu prezentace**  
+
+&nbsp; Kontrola textu a struktury snímků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizované auditace prezentací**  
+
+&nbsp; Pythonové pracovní postupy zobrazují soubory ODP k posouzení.
+
+
+
+* **Kontroly interoperability**  
+
+&nbsp; Snímky jsou zobrazeny k zajištění kompatibility formátu.
+
+
+
+* **Náhledové služby**  
+
+&nbsp; Prezentace jsou zobrazovány dynamicky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

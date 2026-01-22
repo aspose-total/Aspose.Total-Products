@@ -89,7 +89,73 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Przeglądanie plików PPT za pomocą interfejsów API w języku Python umożliwia inspekcję dokumentów prezentacyjnych używanych w starszych systemach.
+
+To wspiera automatyzację, gdy wymagana jest kompatybilność wsteczna.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Przeglądanie starszych prezentacji**  
+
+&nbsp; Programowe przeglądanie starszych zestawów slajdów.
+
+
+
+* **Wsparcie dla migracji treści**  
+
+&nbsp; Inspekcja prezentacji przed aktualizacją formatów.
+
+
+
+* **Walidacja prezentacji**  
+
+&nbsp; Zapewnienie integralności danych slajdów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Audyt dziedzictwa systemowego**  
+
+&nbsp; Przepływy pracy w Pythonie renderują pliki PPT do inspekcji.
+
+
+
+* **Walidacja przed konwersją**  
+
+&nbsp; Przeglądanie zapewnia bezpieczną migrację formatu.
+
+
+
+* **Przeglądanie zbiorcze prezentacji**  
+
+&nbsp; Duże zbiory są automatycznie inspirowane.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

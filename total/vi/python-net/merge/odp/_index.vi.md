@@ -79,7 +79,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Slides for Python via 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Hợp nhất các tệp trình bày OpenDocument bằng cách sử dụng API Python hỗ trợ các tiêu chuẩn mở và quy trình làm việc trình bày đa nền tảng. Điều này rất lý tưởng cho môi trường sử dụng các công cụ văn phòng mã nguồn mở.
+
+
+
+Tự động hóa đảm bảo tương thích và xử lý trình bày có thể mở rộng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Hợp Nhất Slide Đa Nền Tảng (ODP)**  
+
+&nbsp; Hợp nhất các tệp ODP được tạo ra từ các công cụ khác nhau.
+
+
+
+* **Tổng Hợp Trình Bày Tiêu Chuẩn Mở (ODP)**  
+
+&nbsp; Kết hợp các bộ ODP cho việc trình bày thống nhất.
+
+
+
+* **Tổng Hợp Slide Hợp Tác (ODP)**  
+
+&nbsp; Hợp nhất các tệp ODP từ các động góp phân tán.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Đường Ốc Trình Bày Mở (ODP)**  
+
+&nbsp; Hệ thống hợp nhất các tệp ODP mà không cần phụ thuộc vào độc quyền.
+
+
+
+* **Tổng Hợp Bộ Slide Định Kỳ (ODP)**  
+
+&nbsp; Việc hợp nhất ODP chạy như một phần của các tác vụ backend.
+
+
+
+* **Tự Động Hóa Trình Bày Tương Thích (ODP)**  
+
+&nbsp; Các tệp ODP được hợp nhất một cách động trong các quy trình làm việc.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

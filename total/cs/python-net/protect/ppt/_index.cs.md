@@ -71,7 +71,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPT soubory představují starší formáty aplikace PowerPoint, které jsou stále používány v mnoha prostředích. Zabezpečení PPT souborů zajistí, že staré prezentace zůstanou bezpečné a v souladu s předpisy.
+
+
+
+Python API umožňují automatizované zabezpečení PPT souborů, což umožňuje, aby starý obsah splňoval moderní bezpečnostní standardy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Ochrana starých snímků**  
+
+&nbsp; Zabezpečení starých PPT souborů proti neoprávněným úpravám.
+
+
+
+* **Zachování historického obsahu**  
+
+&nbsp; Udržení integrity archivovaných prezentací.
+
+
+
+* **Kontrolované redistribuce**  
+
+&nbsp; Omezení úprav při sdílení starých souborů s prezentacemi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadné zabezpečení starých souborů**  
+
+&nbsp; Automatické zabezpečení velkých kolekcí PPT souborů.
+
+
+
+* **Zabezpečení během migrace**  
+
+&nbsp; Aplikace zabezpečení během přechodů mezi starými systémy.
+
+
+
+* **Automatizované omezení přístupu**  
+
+&nbsp; Programaticky prosazovat konzistentní omezení pro PPT soubory.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

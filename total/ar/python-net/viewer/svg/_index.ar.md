@@ -82,7 +82,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+يسمح عرض SVG عبر واجهات برمجة التطبيقات في Python بتقديم رسوميات قائمة على الناقل بدقة ووضوح.
+
+هذا مهم للأنظمة التي تعتمد على رؤية مستقلة عن الدقة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تفتيش الرسوم البيانية الناقلة**  
+
+&nbsp; عرض الرسوميات دون فقدان الجودة.
+
+
+
+* **التحقق من صحة الرسوم البيانية**  
+
+&nbsp; تفتيش الرسوم البيانية التقنية أو التخطيطية.
+
+
+
+* **مراجعة الأصول التصميمية**  
+
+&nbsp; التحقق من صحة الأصول البصرية المستخدمة في التطبيقات أو الوثائق.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **أنابيب الرسوم البيانية التلقائية**  
+
+&nbsp; تقوم النصوص في Python بتقديم ملفات SVG أثناء سير العمل الوثائقي.
+
+
+
+* **أنظمة معاينة قابلة للتوسيع**  
+
+&nbsp; يتم عرض الرسوم البيانية الناقلة بشكل ديناميكي بأحجام مختلفة.
+
+
+
+* **فحوصات الاتساق البصري**  
+
+&nbsp; يضمن العرض التلقائي أن تتم عرض الأصول بشكل صحيح.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

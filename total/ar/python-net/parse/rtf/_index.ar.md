@@ -104,7 +104,77 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحليل **مستندات RTF** باستخدام واجهات برمجة التطبيقات في Python يسمح بالاستخراج من تنسيق نصي خفيف الوزن ومدعوم على نطاق واسع يحتفظ بالتنسيق الأساسي. يُستخدم RTF في كثير من الأحيان لتحقيق التوافق وتبادل البيانات القديمة.
+
+
+
+تدعم عملية تحليل RTF بطريقة صديقة للتطبيقات استخراج النص بسرعة مع أدنى تكلفة هيكلية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **استخراج مستندات خفيفة الوزن**  
+
+  يسترد النص من المستندات المنسقة ببساطة.
+
+
+
+* **التوافق مع أنظمة البيانات القديمة**  
+
+  يعالج الملفات التي تم إنشاؤها بواسطة محررات قديمة أو بحد أدنى.
+
+
+
+* **مهام تطبيع النص**  
+
+  يحول RTF إلى تمثيل نص نظيف وواضح.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **معالجة النص بحجم كبير**  
+
+  يقوم بالاستخراج التلقائي من مجموعات بيانات RTF الكبيرة.
+
+
+
+* **أنابيب تبسيط التنسيق**  
+
+  يقوم بإزالة التنسيق بينما يحتفظ بالمحتوى الأساسي.
+
+
+
+* **تبادل البيانات بين الأنظمة**  
+
+  يمكن من استيعاب البيانات القائمة على RTF بشكل برمجي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het samenvoegen van documenten met behulp van Python API's is een fundamentele mogelijkheid voor moderne inhoudsverwerking, rapportage en documentlevenscyclusbeheer. Het stelt ontwikkelaars en systemen in staat om meerdere bestanden te combineren tot één gestructureerde uitvoer, met behoud van opmaak, lay-out en logische flow over heterogene documentbronnen.
+
+
+
+Door het automatiseren van het samenvoegen van documenten kunnen organisaties handmatige inspanningen verminderen, consistentie waarborgen en documentworkflows integreren in gegevenspijplijnen, backend-services en schaalbare automatiseringssystemen die zijn gebouwd met Python.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Geconsolideerde Word-rapporten (DOC)**  
+
+  Combineer oude Word-documenten tot één rapport voor eenduidige beoordeling en archivering.
+
+
+
+* **Batch Documentassemblage (DOC)**  
+
+  Assembleer meerdere DOC-bestanden die zijn gegenereerd door verschillende systemen tot één opleverbaar bestand.
+
+
+
+* **Historische Inhoudsaggregatie (DOC)**  
+
+  Voeg gearchiveerde DOC-bestanden samen om oudere inhoudscollecties te moderniseren en hergebruiken.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Geplande Rapportcompilatie (DOC)**  
+
+  Geautomatiseerde taken voegen dagelijks of wekelijks DOC-bestanden samen tot één distribueerbaar rapport.
+
+
+
+* **Workflow-gebaseerd Documentstikken (DOC)**  
+
+  Backend-workflows voegen dynamisch DOC-bestanden samen wanneer procesfasen zijn voltooid.
+
+
+
+* **Pijplijn-gestuurde Uitvoergeneratie (DOC)**  
+
+  Het samenvoegen van DOC-bestanden wordt programmatisch geactiveerd als onderdeel van een grotere documentenpijplijn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,75 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Поиск файлов **PPT** с помощью Python API позволяет получить доступ к устаревшим презентационным документам, которые все еще содержат ценную бизнес-информацию, информацию о тренингах и стратегическую информацию. Автоматизированный поиск обеспечивает возможность использования и поиска старых слайд-дек на масштабе.
+
+
+
+Интеграция поиска PPT в автоматизированные системы позволяет организациям сократить ручные усилия и извлечь пользу из архивного контента презентаций.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* **Поиск содержимого устаревших слайдов**  
+
+&nbsp; Находит ключевые слова в старых файлах презентаций PPT.
+
+
+
+* **Получение доступа к архивным презентациям**  
+
+&nbsp; Обеспечивает возможность обнаружения исторических слайд-деков.
+
+
+
+* **Извлечение текста из PPT**  
+
+&nbsp; Извлекает текст слайдов для индексации и анализа.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированное сканирование хранилища PPT**  
+
+&nbsp; Рабочие процессы на Python сканируют файлы PPT на наличие содержимого, доступного для поиска.
+
+
+
+* **Создание индекса архива PPT**  
+
+&nbsp; Устаревшие презентации индексируются программно.
+
+
+
+* **Интеграция содержимого PPT**  
+
+&nbsp; Извлеченные данные подаются на вход рабочим процессам отчетности и аналитики.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

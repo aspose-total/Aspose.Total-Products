@@ -82,7 +82,73 @@ SVG 뷰어 앱이나 유틸리티를 개발해야 합니까?[Aspose.Total for Py
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 통한 SVG 뷰어는 정밀하고 선명한 확장 가능한 벡터 그래픽을 렌더링할 수 있습니다.
+
+해상도에 독립적인 시각 자료에 의존하는 시스템에 가치가 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **벡터 그래픽 검사**
+
+  &nbsp; 품질 손실 없이 그래픽 보기.
+
+
+
+* **도표 유효성 검사**
+
+  &nbsp; 기술적 또는 구성도 시각 자료 검사.
+
+
+
+* **디자인 자산 검토**
+
+  &nbsp; 응용 프로그램이나 문서에서 사용되는 시각 자산 확인.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동화된 도표 파이프라인**
+
+  &nbsp; Python 스크립트가 문서 작업 중에 SVG를 렌더링합니다.
+
+
+
+* **확장 가능한 미리보기 시스템**
+
+  &nbsp; 벡터 그래픽이 다양한 크기로 동적으로 표시됩니다.
+
+
+
+* **시각 일관성 확인**
+
+  &nbsp; 자동화된 보기가 자산이 올바르게 렌더링되는지 확인합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

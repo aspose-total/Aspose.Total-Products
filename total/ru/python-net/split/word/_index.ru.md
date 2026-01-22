@@ -79,7 +79,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Документы Word охватывают ряд структурированных текстовых форматов, используемых в бизнесе и технических рабочих процессах. Разделение документов Word обеспечивает целенаправленный доступ к соответствующим разделам содержимого.
+
+
+
+Разделение на основе Python обеспечивает автоматизацию, обеспечивая последовательную, масштабируемую обработку документов между системами.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Обработка содержимого на основе разделов**  
+
+&nbsp; Обрабатывайте главы или разделы независимо друг от друга.
+
+
+
+* **Оптимизация больших документов**  
+
+&nbsp; Улучшите производительность, разделяя крупные файлы.
+
+
+
+* **Управление содержимым**  
+
+&nbsp; Применяйте правила к отдельным частям документа.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Единые конвейеры обработки документов**  
+
+&nbsp; Документы Word разделяются и обрабатываются автоматически.
+
+
+
+* **Автоматизированная маршрутизация содержимого**  
+
+&nbsp; Разделы отправляются в различные системы на основе логики.
+
+
+
+* **Масштабируемое извлечение знаний**  
+
+&nbsp; Извлеченные разделы подаются на аналитику или рабочие процессы искусственного интеллекта.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

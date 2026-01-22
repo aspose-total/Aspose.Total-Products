@@ -78,7 +78,77 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+دمج مستندات DOCX باستخدام واجهات برمجة التطبيقات في Python هو متطلب شائع لإنتاج مخرجات Word مصقولة وحديثة بشكل كبير. يتيح ذلك التحكم الدقيق في الهيكل والتنسيق واستمرارية الأقسام عبر مصادر متعددة.
+
+
+
+تتكامل هذه القدرة بسلاسة مع محركات المحتوى الآلي، مما يمكن من إنشاء وثائق بشكل قابل للتوسيع للتقارير والدلائل والوثائق المهيكلة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **إنشاء تقرير متعدد الأقسام (DOCX)**  
+
+&nbsp; دمج ملفات DOCX تمثل الفصول في تقرير واحد.
+
+
+
+* **إعادة استخدام وحدة المحتوى (DOCX)**  
+
+&nbsp; تجميع أقسام DOCX قابلة لإعادة الاستخدام في مستندات مخصصة.
+
+
+
+* **دمج سير العمل التحريري (DOCX)**  
+
+&nbsp; دمج ملفات DOCX المعتمدة من قبل المحررين في النواتج النهائية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **إنشاء وثيقة ديناميكية (DOCX)**  
+
+&nbsp; تقوم الأنظمة بدمج ملفات DOCX استنادًا إلى إدخالات المستخدم أو شروط البيانات.
+
+
+
+* **أنابيب توثيق CI/CD (DOCX)**  
+
+&nbsp; يتم دمج DOCX تلقائيًا كجزء من سير العمل للبناء والإصدار.
+
+
+
+* **تشغيل النشر بشكل قابل للتوسيع (DOCX)**  
+
+&nbsp; يتم دمج وثائق DOCX بحجم كبير برمجيًا بشكل كبير.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

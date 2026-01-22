@@ -73,7 +73,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTX是一种现代的基于XML的演示文稿格式，旨在处理结构化的幻灯片内容。拆分PPTX文件可以对幻灯片级数据进行精细控制。
+
+
+
+基于Python的自动化支持可靠、可扩展和格式感知的PPTX处理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **幻灯片级内容管理**  
+
+  管理单独幻灯片作为独立单元。
+
+
+
+* **自动化演示文稿定制**  
+
+  从提取的幻灯片创建定制的演示文稿。
+
+
+
+* **演示文稿分析**  
+
+  以程序方式分析幻灯片内容。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **XML感知幻灯片解析**  
+
+  Python脚本精确提取幻灯片。
+
+
+
+* **基于规则的演示文稿组装**  
+
+  幻灯片动态组装。
+
+
+
+* **自动化审阅流程**  
+
+  幻灯片独立验证。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

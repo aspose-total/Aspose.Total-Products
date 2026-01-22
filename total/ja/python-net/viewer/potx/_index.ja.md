@@ -89,7 +89,73 @@ POTX ビューア アプリまたはユーティリティを開発する必要�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用してPOTXファイルを表示すると、自動スライド生成で使用される現代のプレゼンテーションテンプレートを検査できます。
+
+これにより、スケーラブルでテンプレート駆動のプレゼンテーションワークフローがサポートされます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **現代的なテンプレートの検査**  
+
+&nbsp; スライドマスターやレイアウトを表示します。
+
+
+
+* **ブランディングの一貫性チェック**  
+
+&nbsp; テンプレートがプレゼンテーション基準に従っていることを確認します。
+
+
+
+* **自動化の準備検証**  
+
+&nbsp; 使用前にテンプレートを検査します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **テンプレート展開パイプライン**  
+
+&nbsp; POTXファイルは展開前にレンダリングされます。
+
+
+
+* **自動化されたプレゼンテーションシステム**  
+
+&nbsp; テンプレートが正常に機能することを確認します。
+
+
+
+* **品質保証ワークフロー**  
+
+&nbsp; テンプレートはプログラムによって検証されます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

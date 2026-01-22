@@ -82,7 +82,73 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Visualizzazione dei formati di immagine generici con API Python fornisce un approccio unificato per ispezionare risorse visive in diversi flussi di lavoro.
+
+Ciò consente di gestire in modo coerente le immagini indipendentemente dalla fonte o dal tipo.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* **Ispezione Unificata delle Immagini**  
+
+&nbsp; Visualizza file di immagine diversi attraverso un'interfaccia singola.
+
+
+
+* **Verifica delle Risorse Visive**  
+
+&nbsp; Conferma l'integrità e l'aspetto dell'immagine.
+
+
+
+* **Supporto alla Pipeline dei Contenuti**  
+
+&nbsp; Ispeziona le immagini durante le fasi di elaborazione.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Pipeline di Immagini Automatizzata**  
+
+&nbsp; I flussi di lavoro Python visualizzano le immagini durante l'elaborazione batch.
+
+
+
+* **Servizi di Anteprima Dinamica**  
+
+&nbsp; Le immagini vengono renderizzate su richiesta per la revisione.
+
+
+
+* **Automazione della Garanzia di Qualità**  
+
+&nbsp; La visualizzazione supporta controlli visivi automatizzati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

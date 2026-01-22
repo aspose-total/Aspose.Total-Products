@@ -78,7 +78,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Łączenie formatów szablonów Word za pomocą interfejsów API w języku Python umożliwia spójne tworzenie dokumentów w zespołach i systemach. Łączenie oparte na szablonach zapewnia standaryzowane układy, jednocześnie umożliwiając elastyczne komponowanie treści.
+
+
+
+To podejście jest idealne dla zautomatyzowanych fabryk dokumentów, gdzie struktura i branding muszą pozostać spójne we wszystkich wynikach.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+
+
+* **Montaż Dokumentów na Podstawie Szablonu (DOT)**  
+
+&nbsp; Łączenie dokumentów opartych na DOT w celu narzucenia spójnego formatowania.
+
+
+
+* **Tworzenie Standaryzowanych Wyników (DOT)**  
+
+&nbsp; Łączenie plików sterowanych szablonem w jednolite dokumenty.
+
+
+
+* **Zarządzanie Układem do Ponownego Wykorzystania (DOT)**  
+
+&nbsp; Łączenie dokumentów DOT w celu zachowania jednolitości układu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Automatyczne Zastosowanie Szablonu (DOT)**  
+
+&nbsp; Pliki DOT są łączone automatycznie podczas generowania dokumentu.
+
+
+
+* **Przetwarzanie Partii Szablonów (DOT)**  
+
+&nbsp; Duże ilości dokumentów DOT są łączone w zaplanowanych zadaniach.
+
+
+
+* **Kontrola Układu Wymuszana Przez System (DOT)**  
+
+&nbsp; Zautomatyzowane systemy łączą pliki DOT, aby zagwarantować spójność formatu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

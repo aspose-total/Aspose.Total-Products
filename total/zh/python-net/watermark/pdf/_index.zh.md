@@ -73,7 +73,85 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API为**PDF**文档添加水印是一种常见的方式，可以通过添加可见的所有权、保密标签或证明标记来保护最终的可共享文件，而无需依赖编辑访问权限。
+
+自动化PDF水印支持可扩展的工作流程，如批量盖章、基于策略的路由以及跨文档存档的一致性合规标记。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **机密报告保护**  
+
+&nbsp; 应用可见的保密标记以阻止未经授权的再分发。
+
+
+
+* **审查和批准的证明副本**  
+
+&nbsp; 在共享用于反馈的PDF上盖章“PROOF”，以减少与最终版本的混淆。
+
+
+
+* **发票和对账单所有权标签**  
+
+&nbsp; 为跨部门使用的财务PDF添加组织身份标记。
+
+
+
+* **法律文件的受控共享**  
+
+&nbsp; 为加强处理期望而水印敏感的申报和协议。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **用于存档回填的批量水印**  
+
+&nbsp; 在迁移到新存储库期间自动盖章历史PDF。
+
+
+
+* **基于页面的水印放置规则**  
+
+&nbsp; 通过页面大小和方向以编程方式调整水印位置。
+
+
+
+* **工作流触发的最终盖章**  
+
+&nbsp; 在自动化系统中完成批准后添加“FINAL”水印。
+
+
+
+* **带有时间戳的动态水印内容**  
+
+&nbsp; 生成包含日期、请求ID或接收者元数据的水印，以实现可追溯性。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

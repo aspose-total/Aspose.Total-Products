@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API合并Excel模板格式可确保生成的电子表格具有一致的结构和布局。基于模板的合并对于标准化报告和数据输入工作流至关重要。
+
+
+
+自动化使得可以快速生成统一格式的电子表格，无需手动格式化。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **基于模板的电子表格组装（XLT）**  
+
+&nbsp; 合并基于XLT的文件以强制执行一致的布局。
+
+
+
+* **标准化数据收集（XLT）**  
+
+&nbsp; 将基于模板的电子表格合并为单个文件。
+
+
+
+* **可重用的电子表格结构（XLT）**  
+
+&nbsp; 聚合XLT文档以保持统一设计。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化模板应用（XLT）**  
+
+&nbsp; 在生成过程中自动合并XLT文件。
+
+
+
+* **批量模板处理（XLT）**  
+
+&nbsp; 定时作业合并多个基于XLT的电子表格。
+
+
+
+* **布局控制的自动化（XLT）**  
+
+&nbsp; 系统合并XLT文件以确保格式一致性。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

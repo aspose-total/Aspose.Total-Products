@@ -69,7 +69,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+חתימה על קלטי תמונה גנריים באמצעות Python APIs מספקת גישה אחידה להחלת סימני אישור ומטה-נתונים לאימות במקורות תמונה מעורבים. זה מועיל כאשר צינורות עיבוד מטמונים מכלים שונים וזקוקים לשלטון עקבי.
+
+
+
+כאשר החתימה על תמונות ממוכנת באופן אוטומטי, היא מאכזבת מצב "ארטיפקט מאושר" מתוקן, מבטיחה כי מערכות המידע התחתונות רק תצרף נכסים שעומדים בדרישות איכות, מדיניות או תקנים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **תקן נכסים מקור מרובה**  
+
+&nbsp; החלת חתימת חתימה עקבית על תמונות המגיעות מכלים וצוותים שונים.
+
+
+
+* **אימות תמונת ראיון**  
+
+&nbsp; לחתום על תמונות המשמשות כראיון כדי לאשר זהות של הבודק ומעמד אישור.
+
+
+
+* **שליטה בהפצת נכסים מאושרים**  
+
+&nbsp; לסמן תמונות כמאושרות לפני שהן נכללות בחבילות ההפצה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **סימון אישור בזמן קליטה**  
+
+&nbsp; לחתום על תמונות במהלך הקליטה לאחר שהחוקים לאימות ובדיקת המטה-נתונים הושלמו.
+
+
+
+* **אכיפת נקודת בקרת מדיניות**  
+
+&nbsp; לחתום באופן אוטומטי רק על התמונות שעוברות את כללי המדיניות והבטיחות האוטומטיים.
+
+
+
+* **סיום סנכרון במאגר**  
+
+&nbsp; לחתום על תמונות לפני הסנכרון למאגרים משותפים כדי לוודא כי רק גרסאות מאומתות תפוצצו.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

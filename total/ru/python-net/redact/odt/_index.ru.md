@@ -74,7 +74,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Составление документов с использованием Python API для файлов ODT позволяет безопасно изменять файлы текстовых документов без изменения их основной структуры. Это поддерживает прозрачную и стандартизированную обработку документов.
+
+
+
+Автоматизируя составление документов ODT, организации могут эффективно управлять конфиденциальным контентом в открытых и совместимых документальных экосистемах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Обмен документами с соблюдением конфиденциальности**  
+
+&nbsp; Удаляйте персональные данные перед обменом файлами ODT с внешними сторонами.
+
+
+
+* **Удаление контента на основе политики**  
+
+&nbsp; Соблюдайте правила удаления контента, соответствующие организационной политике.
+
+
+
+* **Публикация открытых документов**  
+
+&nbsp; Подготовьте санитарные документы для публичного или кроссплатформенного использования.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Удаление метаданных и текста**  
+
+&nbsp; Автоматическое удаление конфиденциального контента как из основного текста, так и из метаданных.
+
+
+
+* **Массовая обработка файлов в открытом формате**  
+
+&nbsp; Удаляйте конфиденциальную информацию из больших объемов файлов ODT в одном автоматизированном запуске.
+
+
+
+* **Интеграция с конвейерами управления контентом**  
+
+&nbsp; Применяйте удаление контента перед публикацией или синдикацией документов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

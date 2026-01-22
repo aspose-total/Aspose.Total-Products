@@ -79,7 +79,75 @@ WORD 파일을 쉽게 분할하기 위해 Python 스크립트 또는 유틸리�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+워드 문서는 비즈니스 및 기술적 워크플로우 전반에 걸쳐 사용되는 다양한 구조화된 텍스트 형식을 포함합니다. 워드 문서를 분할하면 관련 콘텐츠 섹션에 집중적으로 액세스할 수 있습니다.
+
+
+
+파이썬 기반의 분할은 시스템 전반에 걸쳐 일관된 확장 가능한 문서 처리를 가능하게 함으로써 자동화를 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **섹션별 콘텐츠 처리**  
+
+&nbsp; 챕터 또는 섹션을 독립적으로 처리합니다.
+
+
+
+* **대용량 문서 최적화**  
+
+&nbsp; 과도하게 큰 파일을 분할하여 성능을 향상시킵니다.
+
+
+
+* **콘텐츠 거버넌스**  
+
+&nbsp; 개별 문서 부분에 규칙을 적용합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **통합 문서 처리 파이프라인**  
+
+&nbsp; 워드 문서가 자동으로 분할되고 처리됩니다.
+
+
+
+* **자동화된 콘텐츠 라우팅**  
+
+&nbsp; 논리에 따라 섹션이 다른 시스템으로 전송됩니다.
+
+
+
+* **확장 가능한 지식 추출**  
+
+&nbsp; 추출된 섹션이 분석이나 AI 워크플로에 공급됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

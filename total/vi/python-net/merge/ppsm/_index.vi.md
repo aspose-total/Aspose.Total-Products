@@ -79,7 +79,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Slides for Python via 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Hợp nhất bài thuyết trình có hỗ trợ macro bằng cách sử dụng Python APIs giúp tự động hóa việc trình chiếu tương tác. Các định dạng này thường được sử dụng trong môi trường kiểm soát.
+
+
+
+Tự động hóa đảm bảo rằng các macro và hành vi trình chiếu được bảo tồn trong quá trình hợp nhất.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tổ Chức Hình Ảnh Trình Diễn Tương Tác (PPSM)**  
+
+&nbsp; Hợp nhất các tệp bài thuyết trình có hỗ trợ macro.
+
+
+
+* **Trình Bày Demo Tự Động (PPSM)**  
+
+&nbsp; Kết hợp các tệp PPSM cho các bài thuyết trình tự động.
+
+
+
+* **Bộ Bài Trình Chiếu Được Kiểm Soát (PPSM)**  
+
+&nbsp; Tổng hợp các tệp PPSM cho các bài thuyết trình được quản lý.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Tạo Bài Thuyết Trình Dựa Trên Luật (PPSM)**  
+
+&nbsp; Hệ thống hợp nhất các tệp PPSM dựa trên các quy tắc logic.
+
+
+
+* **Bảo Tồn Tự Động Hóa Backend (PPSM)**  
+
+&nbsp; Hợp nhất PPSM giữ nguyên các hành vi tương tác.
+
+
+
+* **Tạo Thế Hệ Demo Theo Lịch Trình (PPSM)**  
+
+&nbsp; Các bài thuyết trình được hợp nhất tự động theo lịch trình.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

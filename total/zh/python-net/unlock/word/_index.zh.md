@@ -72,7 +72,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+无论内部结构如何，Word文档通常受保护以控制编辑和访问权限。通过程序解锁它们可以实现结构化访问，用于自动化、分析和系统集成。
+
+
+
+Python API允许将Word文档解锁安全地嵌入到文档流程中，确保效率和可重复性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **统一文档处理**  
+
+  &nbsp; 实现对受保护的文字处理文件的一致处理。
+
+
+
+* **自动化内容审查**  
+
+  &nbsp; 支持检查锁定文档，无需手动操作。
+
+
+
+* **系统对接集成**  
+
+  &nbsp; 允许受保护的Word文件在自动化平台中流动。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **端到端文档流程**  
+
+  &nbsp; Word文件在摄入时自动解锁。
+
+
+
+* **基于策略的文档访问**  
+
+  &nbsp; 解锁由工作流规则和权限触发。
+
+
+
+* **持续内容优化**  
+
+  &nbsp; 受保护文档会因自动改进而解锁。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

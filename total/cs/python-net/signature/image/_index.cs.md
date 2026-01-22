@@ -71,7 +71,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Podpisování obecných obrázkových vstupů pomocí Python API poskytuje sjednocený přístup k aplikaci schválených značek a ověřovacích metadat přes různé zdroje obrázků. Toto je užitečné, když potrubí přijímá obrázky z různých nástrojů a potřebuje konzistentní správu.
+
+
+
+Při automatizovaném podpisování obrázků se prosazuje standardizovaný stav "schváleného artefaktu", což zajistí, že následné systémy spotřebují pouze aktiva, která splňují požadavky na kvalitu, politiku nebo shodu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití případy" %}}
+
+
+
+* **Standardizace aktiva z různých zdrojů**  
+
+&nbsp; Přidejte konzistentní překrytí podpisu k obrázkům přicházejícím z různých nástrojů a týmů.
+
+
+
+* **Ověření obrázků jako důkaz**  
+
+&nbsp; Podepište obrázky použité jako důkaz k potvrzení identity recenzenta a stavu schválení.
+
+
+
+* **Kontrola distribuce schválených aktiv**  
+
+&nbsp; Označte obrázky jako schválené před jejich začleněním do distribučních balíčků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* **Schvalování při příjmu**  
+
+&nbsp; Podepisujte obrázky během příjmu po dokončení pravidel ověřování a kontrol metadat.
+
+
+
+* **Vynucení kontrolního bodu politiky**  
+
+&nbsp; Automaticky podepisujte pouze ty obrázky, které projdou automatizovanými pravidly politiky a bezpečnosti.
+
+
+
+* **Dokončení synchronizace repozitáře**  
+
+&nbsp; Podepisujte obrázky před synchronizací se sdílenými repozitáři, aby se zabezpečilo, že se šíří pouze ověřené verze.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -72,7 +72,76 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+通过编程方式解锁 DOC 文件，可以访问存档、企业和受监管系统中仍存在的传统文字处理文档。获得对这些文件的受控访问权限，使组织能够恢复内容，强制执行合规性，并现代化历史文档。
+
+
+
+通过使用 Python API，可以自动化规模化地进行 DOC 解锁，将其集成到摄取管道中，并嵌入到文档处理工作流程中，无需手动干预。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **传统文档恢复**  
+
+  &nbsp; 可以从存储在长期存储库中的受保护旧文档中提取和重用内容。
+
+
+
+* **合规审计**  
+
+  &nbsp; 在审计或法律发现过程中，支持对锁定文件进行受控审查。
+
+
+
+* **内容迁移**  
+
+  &nbsp; 促进受保护的 DOC 文件安全转换为现代格式，以用于下游系统。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量存档处理**  
+
+  &nbsp; 在计划的存档扫描期间，自动作业解锁大量 DOC 文件。
+
+
+
+* **基于策略驱动的访问管道**  
+
+  &nbsp; 根据访问规则和文档元数据自动触发解锁。
+
+
+
+* **自动格式规范化**  
+
+  &nbsp; 解锁的文件会被编程转换并索引到搜索平台。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

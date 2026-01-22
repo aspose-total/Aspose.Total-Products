@@ -75,7 +75,93 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A dokumentum metaadatok kinyerése **PPTX** fájlokból Python API-k segítségével strukturált hozzáférést biztosít a modern prezentációs tulajdonságokhoz - lehetővé téve a diavetítések konzisztens indexelését, auditálását és életciklus nyomon követését nagy volumenű. Ez értékes azoknak a szervezeteknek, amelyek nagy mennyiségű operatív, oktatási vagy ügyfélkapcsolati prezentációkat kezelnek.
+
+
+
+Az automatizálási csövekben a PPTX metaadatok könnyű vezérlőpályát jelentenek az irányításhoz és a felügyelethez: támogatják az automatikus osztályozást, ütemezett felülvizsgálatokat, publikálási vezérléseket és integrációkat a keresési és tartalomkezelési rendszerekkel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* **Prezentáció Katalógus és Felfedezés**
+
+  PPTX metaadatok kinyerése keresési katalógusok létrehozásához témák, tulajdonosok és frissítési előzmények alapján.
+
+
+
+* *\{Életciklus Felügyelet Slide Deck-ekhez**
+
+  Használjon időbélyegeket és egyedi tulajdonságokat az áttekintési ciklusok és tartalomfrissességi irányelvek érvényesítéséhez.
+
+
+
+* *\{Automatizált Tulajdonosi Hozzárendelés**
+
+  Térképezze a szerző és utolsó szerkesztő mezőket az engedélyezésekhez és karbantartáshoz felelős csapatokhoz.
+
+
+
+* *\{Publikálási Készenlét Ellenőrzése**
+
+  Győződjön meg arról, hogy a szükséges leíró tulajdonságok léteznek, mielőtt egy PPTX csomagot külsőleg terjesztenének.
+
+
+
+* *\{Operatív Audit Nyomok**
+
+  Tartsa karban a metaadatokon alapuló audit nyilvántartásokat arról, hogy mikor és ki által készítették vagy frissítették a deckeket.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* *\{Feltöltési Időbeni Osztályozás és Címkézés**
+
+  Bevitelkor kinyerheti a PPTX metaadatokat és automatikusan alkalmazhat címkéket és mappaszabályokat a konzisztens szervezés érdekében.
+
+
+
+* *\{Ütemezett Felülvizsgálati Feladatok Generálása**
+
+  Periodikus felülvizsgálati feladatok létrehozása, amikor a PPTX deckek meghaladják a frissességi küszöbértékeket vagy a metaadatok változásokat jeleznek a tulajdonosi változásokat.
+
+
+
+* *\{Irányított Terjesztési Csővezeték**
+
+  Lehetővé teszi vagy korlátozza a PPTX deckek terjesztését a metaadatok jelzéseinek alapján, például belső vagy bizalmas kategóriák szerint.
+
+
+
+* *\{Metaadat Szinkronizálás a Keresési Rendszerekbe**
+
+  Folyamatosan tolja a PPTX metaadatokat egy indexbe, így a diavetítések felfedezhetők manuális katalógus karbantartás nélkül.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -82,7 +82,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API查看GIF，可以可视化动画或静态图像序列，用于检查和验证。
+
+这支持涉及动态图形或视觉指示的自动化工作流程。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **动画内容审查**  
+
+  查看基于帧的动画的程序化方法。
+
+
+
+* **视觉指示验证**  
+
+  检查动画信号或指示性图形。
+
+
+
+* **媒体资产检查**  
+
+  查看工作流程中使用的图像序列。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化媒体验证**  
+
+  Python管道在质量检查期间显示GIF。
+
+
+
+* **预览生成系统**  
+
+  动画预览动态渲染。
+
+
+
+* **工作流程调试可视化**  
+
+  查看GIF以直观验证流程状态。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

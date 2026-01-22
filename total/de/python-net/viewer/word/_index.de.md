@@ -90,7 +90,73 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Das Anzeigen von Word-Dokumenten mit Python-APIs bietet eine einheitliche Möglichkeit, textbasierte Dateien in verschiedenen Word-kompatiblen Formaten zu inspizieren.
+
+Dies unterstützt eine konsistente Dokumentenverarbeitung in automatisierten Systemen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Einheitliche Dokumentenüberprüfung**  
+
+&nbsp; Verschiedene Word-Dokumente über eine einzige Schnittstelle anzeigen.
+
+
+
+* **Konsistenzprüfungen des Inhalts**  
+
+&nbsp; Text und Struktur über verschiedene Dateien inspizieren.
+
+
+
+* **Workflow-Integration**  
+
+&nbsp; Einbetten der Dokumentenanzeige in Verarbeitungspipelines.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Automatisierte Inhalts-Pipelines**  
+
+&nbsp; Python-Prozesse rendern Word-Dokumente während mehrstufiger Workflows.
+
+
+
+* **Vorschau-Services**  
+
+&nbsp; Dokumente werden dynamisch zur Überprüfung oder Genehmigung angezeigt.
+
+
+
+* **Batch-Dokumentenoperationen**  
+
+&nbsp; Große Mengen von Word-Dateien werden programmgesteuert angezeigt.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

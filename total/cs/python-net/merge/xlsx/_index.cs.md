@@ -78,7 +78,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Slučování moderních sešitů Excel pomocí Python API je standardní přístup pro kombinaci strukturovaných datových sad, reportů a modelů. XLSX je nejpoužívanějším formátem tabulek v moderních systémech.
+
+
+
+Tato schopnost se integruje bezproblémově s datovými platformami, umožňuje automatizovanou generaci sešitů a jejich konsolidaci na velkou škálu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Vytváření více sešitů (XLSX)**  
+
+&nbsp; Slučujte XLSX soubory do komplexního reportovacího sešitu.
+
+
+
+* **Unifikace zdrojů dat (XLSX)**  
+
+&nbsp; Slučujte datové sady ve formátu XLSX z různých systémů.
+
+
+
+* **Společné sestavování dat (XLSX)**  
+
+&nbsp; Slučujte XLSX soubory přispěné různými zúčastněnými stranami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Dynamická generace sešitů (XLSX)**  
+
+&nbsp; Systémy slučují XLSX soubory na základě podmínek během běhu.
+
+
+
+* **Integrace ETL potrubí (XLSX)**  
+
+&nbsp; Slučování XLSX je automatizováno v rámci potrubí pro příjem dat.
+
+
+
+* **Škálovatelná automatizace reportů (XLSX)**  
+
+&nbsp; Velké objemy XLSX reportů jsou slučovány programově.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

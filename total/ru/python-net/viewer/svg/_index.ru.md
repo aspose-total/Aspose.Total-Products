@@ -82,7 +82,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Просмотр SVG с помощью Python API позволяет отображать масштабируемую графику на основе векторов с точностью и четкостью.
+
+Это ценно для систем, которые полагаются на визуальные элементы, не зависящие от разрешения.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Проверка векторной графики**  
+
+  Просмотр графики без потери качества.
+
+
+
+* **Проверка диаграмм**  
+
+  Проверка технических или схематических визуалов.
+
+
+
+* **Проверка дизайн-элементов**  
+
+  Проверка визуальных элементов, используемых в приложениях или документах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированные конвейеры диаграмм**  
+
+  Сценарии Python отображают SVG во время рабочих процессов документирования.
+
+
+
+* **Масштабируемые системы предварительного просмотра**  
+
+  Векторная графика отображается динамически в разных размерах.
+
+
+
+* **Проверка визуальной согласованности**  
+
+  Автоматизированный просмотр гарантирует правильное отображение ресурсов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

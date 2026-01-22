@@ -71,7 +71,77 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Das Signieren von ODT-Dokumenten mithilfe von Python-APIs ermöglicht es Textdokumenten im Open-Format, verifizierte Genehmigungsstempel und Signier-Metadaten zu tragen. Dies unterstützt kontrollierte Dokumentlebenszyklen, ohne auf proprietäre Formate angewiesen zu sein.
+
+
+
+In Automatisierungspipelines gewährleistet das Signieren von ODT-Dokumenten, dass Genehmigungen konsistent zum Zeitpunkt des Abschlusses der Überprüfung angewendet werden, was die Nachvollziehbarkeit verbessert und die manuelle Dokumentenbearbeitung reduziert.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Genehmigung von Richtlinien im Open-Format**  
+
+&nbsp; Signieren Sie ODT-Richtliniendokumente, um die endgültige Überprüfung und Autorisierung zu bestätigen.
+
+
+
+* **Abschluss des redaktionellen Workflows**  
+
+&nbsp; Setzen Sie Signaturen auf ODT-Entwürfe, wenn die Inhaltsüberprüfung abgeschlossen ist.
+
+
+
+* **Governance der internen Wissensbasis**  
+
+&nbsp; Signieren Sie ODT-Dokumente, bevor sie in gemeinsame Repositories veröffentlicht werden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Auslöser für Abschluss durch Gutachter**  
+
+&nbsp; Signieren Sie ODT-Dateien automatisch, wenn alle zugewiesenen Gutachter ihre Genehmigungen abgeschlossen haben.
+
+
+
+* **Veröffentlichungsschranke des Repositories**  
+
+&nbsp; Signieren Sie ODT-Dokumente, bevor sie in das Wissensbasis-Publishing übertragen werden.
+
+
+
+* **Automatische Einbindung des Audit Trails**  
+
+&nbsp; Fügen Sie Signieridentität und Zeitstempel-Metadaten während der Ausführung des ODT-Signierens hinzu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

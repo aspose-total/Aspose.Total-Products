@@ -89,7 +89,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η προβολή παρουσιάσεων PowerPoint με Python APIs επιτρέπει την προγραμματιστική πρόσβαση στο περιεχόμενο βάσει διαφανειών για αναθεώρηση και επικύρωση.
+
+Αυτό υποστηρίζει την αυτοματοποίηση αναφορών, των ροών παρουσίασης και των αγωγών περιεχομένου.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* **Αναθεώρηση Περιεχομένου Διαφανειών**  
+
+&nbsp; Προβολή διαφανειών σειριακά χωρίς την ανοιχτή του λογισμικού παρουσίασης.
+
+
+
+* **Έλεγχοι Ποιότητας Παρουσίασης**  
+
+&nbsp; Επιθεώρηση διάταξης και κειμένου σε διάφορες στοίβες.
+
+
+
+* **Υποστήριξη Αυτοματοποίησης Αναφορών**  
+
+&nbsp; Επικύρωση δημιουργημένων παρουσιάσεων πριν τη διανομή.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* **Αναθεώρηση Αυτόματης Δημιουργίας Δέσμης**  
+
+&nbsp; Οι ροές εργασιών Python εμφανίζουν διαφάνειες μετά την αυτόματη δημιουργία.
+
+
+
+* **Ελέγχοι Παρουσίασης Σε Πακέτα**  
+
+&nbsp; Πολλαπλές παρουσιάσεις αναθεωρούνται προγραμματικά.
+
+
+
+* **Υπηρεσίες Προεπισκόπησης για Ενδιαφερόμενα Μέρη**  
+
+&nbsp; Οι διαφάνειες αναπαρίστανται δυναμικά για τις ροές έγκρισης.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

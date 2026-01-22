@@ -78,7 +78,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Cells for Python via .
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kết hợp các tệp giá trị được phân tách bằng tab bằng cách sử dụng API Python cho phép kết hợp nhanh chóng và nhẹ của dữ liệu bảng có cấu trúc. TSV thường được sử dụng cho trao đổi dữ liệu và tiền xử lý.
+
+
+
+Kết hợp TSV tự động hỗ trợ các đường ống dữ liệu và quy trình phân tích hiệu suất cao.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tổng hợp Dữ Liệu Gốc (TSV)**  
+
+&nbsp; Kết hợp các tệp TSV thành một bộ dữ liệu duy nhất để xử lý.
+
+
+
+* **Trao Đổi Dữ Liệu Hệ Thống-Đến-Hệ Thống (TSV)**  
+
+&nbsp; Kết hợp các bản xuất TSV từ các nền tảng khác nhau.
+
+
+
+* **Chuẩn bị Dữ Liệu Trước Phân Tích (TSV)**  
+
+&nbsp; Kết hợp các tệp TSV trước khi biến đổi phân tích.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Xử Lý Dữ Liệu Dựa Trên Luồng (TSV)**  
+
+&nbsp; Hệ thống tự động kết hợp các tệp TSV trong các luồng dữ liệu.
+
+
+
+* **Các Hoạt Động ETL Theo Lô (TSV)**  
+
+&nbsp; Việc kết hợp TSV xảy ra trong các công việc ETL được lên lịch.
+
+
+
+* **Các Đường Ống Dữ Liệu Bảng Có Thể Mở Rộng (TSV)**  
+
+&nbsp; Kết hợp theo cách lập trình hỗ trợ các bộ dữ liệu TSV lớn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

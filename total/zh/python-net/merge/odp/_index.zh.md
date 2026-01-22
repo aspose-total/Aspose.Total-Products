@@ -79,7 +79,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API合并OpenDocument演示文件支持开放标准和跨平台演示工作流程。这对使用开源办公工具的环境非常理想。
+
+
+
+自动化确保互操作性和可扩展的演示处理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **跨平台幻灯片合并（ODP）**  
+
+  合并在不同工具中创建的ODP文件。
+
+
+
+* **开放标准演示文稿组装（ODP）**  
+
+  将ODP幻灯片组合以统一交付。
+
+
+
+* **协作幻灯片编制（ODP）**  
+
+  合并来自分布式贡献者的ODP文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **开放式演示流水线（ODP）**  
+
+  系统在没有专有依赖的情况下合并ODP文件。
+
+
+
+* **定时幻灯片编制（ODP）**  
+
+  ODP合并作为后端任务的一部分运行。
+
+
+
+* **可互操作演示自动化（ODP）**  
+
+  ODP文件在工作流程中动态合并。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

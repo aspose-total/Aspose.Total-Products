@@ -98,7 +98,93 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ייבוא מטה-נתונים של מסמכים **ODT** דרך Python APIs מאפשר גישה תכנותית למאפייני המסמך—מאפשר ביקורת, סיווג, והעשרת חיפוש ללא תלות בבדיקה ידנית. זה חשוב לשלטון מסמכים, לניהול ידע, ולמעקב אחר מחזור החיים.
+
+
+
+במערכות אוטומציה, נתוני מטה-נתונים של ODT יכולים לשמש ליישום סטנדרטים, לניתוב אישורים, ולסנכרון קטלוגים—תומכים בעיבוד סקאלבילי במאגרים גדולים עם כללים עקביים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **ארגון בסיס ידע**
+
+  השתמש בנתוני מטה-נתונים של ODT כדי לסווג ולאינדקס מסמכים פנימיים לאיתור מהיר.
+
+
+
+* **בעלות ושליטה**
+
+  עיין בשדות המחבר והעורך כדי להקצות בודקים ולשמור על אחריות.
+
+
+
+* **החלטות לשמירה ולארכיון**
+
+  השתמש בחותמות זמן כדי לקבוע האם יש לארכיב, לשמור, או לרענן קבצי ODT.
+
+
+
+* **נורמליזצית מטה-נתונים לניתוחים**
+
+  המר תכונות של ODT לשדות עקביים לדיווח ולניתוח מגמות.
+
+
+
+* **אימות לפני פרסום**
+
+  אמת שדות תיאור נדרשים לפני המרת מסמכי ODT לפורמטים מפורסמים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **סיווג קליטה על בסיס כללים**
+
+  סיווג מסמכי ODT באופן אוטומטי לתהליכי עבודה באמצעות נוכחות מטה-נתונים, בעלות, וחותמות זמן.
+
+
+
+* **תהליך סנכרון קטלוגים**
+
+  ייבא נתוני מטה-נתונים של ODT בלילה וסנכרן אותם לרשומה מרכזית המשמשת על ידי מערכות חיפוש פנימיות.
+
+
+
+* **סקירות תיעוד אוטומטיות**
+
+  הפעל משימות סקירה עבור קבצי ODT כאשר מטה-נתונים מציינים שלא עודכנו בתוך חלונות המדיניות.
+
+
+
+* **מיפוי מטה-נתונים למדיניות גישה**
+
+  יישם כללי גישה באופן דינמי כאשר מטה-נתונים של ODT מציינים קטגוריות תוכן מוגבלות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

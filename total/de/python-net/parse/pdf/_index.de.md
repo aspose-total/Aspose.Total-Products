@@ -100,7 +100,75 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Analyse von **PDF-Dokumenten** mit Python-APIs ermöglicht die Extraktion von Text- und Layoutinformationen aus einem weit verbreiteten festen Layout-Format. PDFs sind üblich in Berichten, Rechnungen und offiziellen Dokumenten.
+
+
+
+Automatisiertes Parsen von PDFs ermöglicht die Nutzung nicht bearbeitbarer Inhalte für Analyse, Suche und Systemintegration ohne manuellen Eingriff.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Extrahierung von Berichtsdaten**  
+
+&nbsp; Ruft textuellen Inhalt aus statischen PDF-Berichten ab.
+
+
+
+* **Verarbeitung von Dokumentenarchiven**  
+
+&nbsp; Konvertiert PDFs in durchsuchbaren und indexierbaren Text.
+
+
+
+* **Information Retrieval-Systeme**  
+
+&nbsp; Ermöglicht die Entdeckung von Inhalten in großen PDF-Sammlungen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Geplante PDF-Aufnahme**  
+
+&nbsp; Verarbeitet eingehende PDFs automatisch in einem festen Rhythmus.
+
+
+
+* **Textnormalisierungspipelines**  
+
+&nbsp; Bereinigt und standardisiert extrahierten PDF-Text programmgesteuert.
+
+
+
+* **Ermöglichung von nachgelagerten Analysen**  
+
+&nbsp; Speist geparsten PDF-Inhalt in Analyse- oder ML-Workflows ein.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

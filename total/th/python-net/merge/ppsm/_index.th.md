@@ -79,7 +79,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การผสานงานสไลด์โชว์ที่ใช้แมโครด้วย Python APIs สนับสนุนการส่งสไลด์โชว์โต้ตอบโดยอัตโนมัติ รูปแบบเหล่านี้มักถูกใช้ในสภาพแวดล้อมที่ควบคุมไว้
+
+
+
+การอัตโนมัติช่วยให้แมโครและพฤติกรรมของสไลด์โชว์ถูกสงวนระหว่างการผสาน
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **การประกอบสไลด์โชว์โต้ตอบ (PPSM)**  
+
+&nbsp; ผสานไฟล์สไลด์โชว์ที่ใช้แมโคร
+
+
+
+* **การนำเสนอสาธิตโดยอัตโนมัติ (PPSM)**  
+
+&nbsp; รวมไฟล์ PPSM เพื่อการสาธิตโดยอัตโนมัติ
+
+
+
+* **การควบคุมเด็กเล่นโชว์ (PPSM)**  
+
+&nbsp; รวบรวมไฟล์ PPSM เพื่อการนำเสนอที่ถูกควบคุม
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การสร้างสไลด์โชว์ตามกฎ (PPSM)**  
+
+&nbsp; ระบบผสานไฟล์ PPSM ตามกฎตามตรรกะ
+
+
+
+* **การสงวนการอัตโนมัติด้านหลัง (PPSM)**  
+
+&nbsp; การผสาน PPSM รักษาพฤติกรรมโต้ตอบ
+
+
+
+* **การสร้างสาธิตตามกำหนด (PPSM)**  
+
+&nbsp; สไลด์โชว์ถูกผสานโดยอัตโนมัติตามกำหนดเวลา
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

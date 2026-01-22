@@ -79,7 +79,75 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PDF-Dateien werden weit verbreitet für Dokumente mit festem Layout verwendet, bei denen der Inhalt über Seiten verteilt ist. Das Aufteilen von PDFs ermöglicht den Zugriff auf Seiten- oder Abschnittsebene, ohne die Originaldatei zu ändern.
+
+
+
+Durch die Python-gesteuerte PDF-Aufteilung wird die Automatisierung verbessert, indem eine Verarbeitung im großen Maßstab, selektive Extraktion und Integration in Dokumentenpipelines ermöglicht wird.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Seitenweise Extraktion**  
+
+  Isolieren Sie spezifische Seiten zur Überprüfung oder Verteilung.
+
+
+
+* **Dokumentensegmentierung**  
+
+  Teilen Sie große PDFs in logische Abschnitte auf.
+
+
+
+* **Compliance und Audit-Bearbeitung**  
+
+  Extrahieren Sie relevante Teile zur Überprüfung.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Batch-PDF-Verarbeitungspipelines**  
+
+  Tausende von PDFs werden automatisch aufgeteilt.
+
+
+
+* **Regelbasierte Seitenabtrennung**  
+
+  Python-Logik teilt PDFs anhand von Seitenregeln auf.
+
+
+
+* **Automatisierte Inhaltsverteilung**  
+
+  Extrahierte PDFs werden an Zielsysteme weitergeleitet.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

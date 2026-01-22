@@ -100,7 +100,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Анализ **презентаций PowerPoint** с использованием Python API позволяет структурированно извлекать содержимое слайдов, включая заголовки, маркированные списки, макеты и заметки докладчика из файлов презентаций. Это делает информацию, основанную на презентациях, доступной для анализа, повторного использования и интеграции в систему.
+
+
+
+Подключенный к автоматизированным рабочим процессам, анализ PowerPoint преобразует статические слайд-деки в динамические источники данных, которые поддерживают масштабную обработку знаний, отчетность и операции с контентом.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Извлечение содержимого слайдов**  
+
+&nbsp; Извлекает структурированный текст и элементы макета из слайдов PowerPoint.
+
+
+
+* **Обработка знаний презентации**  
+
+&nbsp; Преобразует слайд-деки в поисковые и аналитические информационные ресурсы.
+
+
+
+* **Повторное использование и преобразование контента**  
+
+&nbsp; Позволяет повторное использование материала презентации в документах и на платформах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированный прием презентаций**  
+
+&nbsp; Обрабатывает файлы PowerPoint автоматически в рамках потоков приема.
+
+
+
+* **Суммирование содержимого на уровне слайда**  
+
+&nbsp; Генерирует резюме и структурированные выводы из извлеченных данных слайдов.
+
+
+
+* **Программное распространение контента**  
+
+&nbsp; Передает извлеченный контент презентации в нижестоящие системы и рабочие процессы.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

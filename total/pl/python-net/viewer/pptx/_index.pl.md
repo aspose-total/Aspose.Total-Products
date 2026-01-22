@@ -89,7 +89,73 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Przeglądanie prezentacji PowerPoint PPTX za pomocą interfejsów API w języku Python zapewnia ujednolicony dostęp do dokumentów opartych na slajdach w różnych formatach.
+
+To wspiera zautomatyzowane przeglądanie i przepływy pracy związane z prezentacjami.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Ujednolicona recenzja slajdów**  
+
+&nbsp; Przeglądaj prezentacje bez względu na wariant.
+
+
+
+* **Walidacja prezentacji**  
+
+&nbsp; Sprawdź treść i układ slajdów.
+
+
+
+* **Integracja z przepływem pracy**  
+
+&nbsp; Osadź przeglądanie w zautomatyzowanych systemach.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Automatyzowane potoki recenzji**  
+
+&nbsp; Prezentacje są renderowane podczas walidacji.
+
+
+
+* **Usługi podglądu**  
+
+&nbsp; Slajdy są dynamicznie wyświetlane dla interesariuszy.
+
+
+
+* **Operacje wsadowe na prezentacjach**  
+
+&nbsp; Wielokrotne zestawy są przeglądane programowo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,75 @@ RTF ファイルを簡単に分割するための Python スクリプトまた�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+RTFファイルは埋め込み形式を持つポータブルな、テキストに焦点を当てたドキュメント形式を提供します。RTFファイルを分割することで、フォーマットされたコンテンツを制御して抽出することができます。
+
+
+
+Pythonの自動化により、大規模システムでのRTFドキュメントの効率的な処理が可能となります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* **フォーマットされたテキストの抽出**  
+
+&nbsp; フォーマットを保持しながらセクションを抽出します。
+
+
+
+* **相互運用可能なコンテンツ処理**  
+
+&nbsp; 抽出したコンテンツをさまざまなプラットフォームで使用します。
+
+
+
+* **ドキュメントの簡略化**  
+
+&nbsp; 複雑なファイルを管理しやすい単位に分割します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **パターンベースのセクション分割**  
+
+&nbsp; Pythonは制御ワードを識別してコンテンツを分割します。
+
+
+
+* **自動化されたコンテンツ変換**  
+
+&nbsp; 抽出されたセクションはプログラムで変換されます。
+
+
+
+* **クロスシステムコンテンツパイプライン**  
+
+&nbsp; セクションは異なるシステムにシームレスに流れます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

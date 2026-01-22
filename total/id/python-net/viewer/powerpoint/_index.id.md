@@ -89,7 +89,73 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Melihat presentasi PowerPoint dengan Python APIs memungkinkan akses programatik ke konten berbasis slide untuk tinjauan dan validasi.
+
+Ini mendukung pelaporan otomatis, alur kerja presentasi, dan pipeline konten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Tinjauan Konten Slide**  
+
+&nbsp; Melihat slide secara berurutan tanpa membuka perangkat lunak presentasi.
+
+
+
+* **Pengecekan Kualitas Presentasi**  
+
+&nbsp; Memeriksa tata letak dan teks di seluruh slide.
+
+
+
+* **Dukungan Otomatisasi Laporan**  
+
+&nbsp; Memvalidasi presentasi yang dihasilkan sebelum distribusi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Tinjauan Generasi Deck Otomatis**  
+
+&nbsp; Alur kerja Python menampilkan slide setelah pembuatan otomatis.
+
+
+
+* **Audit Presentasi Batch**  
+
+&nbsp; Beberapa presentasi ditinjau secara programatik.
+
+
+
+* **Layanan Pratinjau untuk Pemangku Kepentingan**  
+
+&nbsp; Slide dirender secara dinamis untuk alur kerja persetujuan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

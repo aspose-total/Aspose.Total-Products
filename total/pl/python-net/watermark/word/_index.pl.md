@@ -79,7 +79,87 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Wodny znakowanie dokumentów **Word** za pomocą interfejsów API w języku Python pomaga chronić pliki tekstowe firmowe poprzez osadzanie widocznych etykiet dotyczących własności, poufności i zasad dystrybucji w dokumentach, które często są udostępniane i edytowane.
+
+Automatyzacja umożliwia spójne znakowanie wodne dokumentów Word w zespołach i bibliotekach dokumentów, redukując wysiłek manualny oraz wprowadzając jasność w zarządzaniu i przepływie pracy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Dokumenty polityki poufności**  
+
+&nbsp; Dodaj znaczniki poufności, aby zmniejszyć przypadkowe przesyłanie wewnętrznych wytycznych.
+
+
+
+* **Zarządzanie wersjami roboczymi dla dokumentów współpracujących**  
+
+&nbsp; Oznaczaj etykietami „WERSJA ROBOCZA”, aby zapobiec traktowaniu przestarzałych wersji jako ostatecznych.
+
+
+
+* **Atrybucja dostarczalnych klientom**  
+
+&nbsp; Znakuj współdzielone pliki Word, aby wyjaśnić własność i dozwolone ponowne wykorzystanie.
+
+
+
+* **Etykietowanie kontrolowanej szablonowej produkcji**  
+
+&nbsp; Upewnij się, że automatycznie generowane dokumenty Word zawierają standardowe zasady znakowania wodnego.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Automatyzacja znakowania wodnego od szablonu do dokumentu**  
+
+&nbsp; Stosuj znaki wodne natychmiast po wygenerowaniu dokumentów Word z danych strukturalnych.
+
+
+
+* **Zmiana znaku wodnego w zależności od statusu przepływu pracy**  
+
+&nbsp; Automatycznie zmieniaj tekst znaku wodnego, gdy dokumenty przechodzą z wersji roboczej na zatwierdzoną.
+
+
+
+* **Egzekwowanie polityki przesyłania do repozytorium**  
+
+&nbsp; Znakuj pliki Word podczas przesyłania do regulowanych folderów lub systemów zarządzania sprawami.
+
+
+
+* **Znakowanie wodne dla określonego odbiorcy do udostępniania**  
+
+&nbsp; Wstawiaj identyfikatory odbiorców, aby poprawić możliwość śledzenia, gdy dokumenty są udostępniane na zewnątrz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

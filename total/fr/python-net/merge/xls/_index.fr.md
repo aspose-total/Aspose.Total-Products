@@ -78,7 +78,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusion de documents Excel et de feuilles de calcul à l'aide des API Python est essentielle pour consolider des données structurées provenant de sources multiples dans un seul fichier analysable. Cette capacité est largement utilisée dans les rapports, l'analyse, la finance et les systèmes opérationnels où les données sont réparties dans de nombreuses feuilles de calcul.
+
+
+
+La fusion automatisée de feuilles de calcul permet une manipulation cohérente des données, réduit les erreurs manuelles et intègre les flux de travail des feuilles de calcul directement dans des pipelines de données et de traitement évolutifs.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Consolidation des feuilles de calcul héritées (XLS)**  
+
+&nbsp; Combinez d'anciens fichiers XLS dans un seul classeur pour une analyse unifiée.
+
+
+
+* **Agrégation des données départementales (XLS)**  
+
+&nbsp; Fusionnez les feuilles de calcul XLS de plusieurs équipes dans un seul fichier maître.
+
+
+
+* **Unification des données historiques (XLS)**  
+
+&nbsp; Consolidez les données archivées XLS pour les rapports et la migration.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Regroupements de données planifiés (XLS)**  
+
+&nbsp; Les tâches automatisées fusionnent périodiquement les fichiers XLS en rapports consolidés.
+
+
+
+* **Normalisation des données en arrière-plan (XLS)**  
+
+&nbsp; Les systèmes fusionnent les fichiers XLS dans le cadre des flux de travail de nettoyage des données.
+
+
+
+* **Assemblage de feuilles de calcul basé sur des pipelines (XLS)**  
+
+&nbsp; La fusion XLS est déclenchée de manière programmée dans les pipelines ETL.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

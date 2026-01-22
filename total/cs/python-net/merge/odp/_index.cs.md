@@ -79,7 +79,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Slučování souborů prezentací ve formátu OpenDocument pomocí Python API podporuje otevřené standardy a pracovní postupy přes různé platformy. Toto je ideální pro prostředí využívající open-source kancelářské nástroje.
+
+
+
+Automatizace zajišťuje interoperabilitu a škálovatelné zpracování prezentací.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Slučování snímků přes různé platformy (ODP)**  
+
+&nbsp; Slučuje soubory ODP vytvořené různými nástroji.
+
+
+
+* **Sestavení prezentace podle otevřených standardů (ODP)**  
+
+&nbsp; Kombinuje sady ODP pro sjednocené doručení.
+
+
+
+* **Kompilace společných snímků (ODP)**  
+
+&nbsp; Slučuje soubory ODP od distribuovaných přispěvatelů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Otevřené prezentace v rourách (ODP)**  
+
+&nbsp; Systémy slučují soubory ODP bez závislostí na proprietárních technologiích.
+
+
+
+* **Plánovaná kompilace sad (ODP)**  
+
+&nbsp; Slučování ODP běží jako součást úloh na pozadí.
+
+
+
+* **Interoperabilní automatizace prezentací (ODP)**  
+
+&nbsp; Soubory ODP jsou dynamicky slučovány v pracovních postupech.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

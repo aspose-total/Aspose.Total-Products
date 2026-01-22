@@ -73,7 +73,85 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Vízjel készítése **PNG** képekhez Python API-k segítségével védi az élesebb szélek és átlátszóságokon alapuló grafikákat, például UI elemeket, diagramokat és márka vizuális elemeket.
+
+Az automatizálás lehetővé teszi a következetes vízjel átfedéseket, miközben tiszteletben tartja az alfa csatornákat, így a PNG vízjelezés megbízható a tervezési rendszerekben és a webes publikálás során nagy mennyiségben.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* **Átlátszó Logóvédelem**  
+
+&nbsp; Alkalmazzon vízjeleket átlátszó PNG logókra az engedély nélküli újrafelhasználás elkerülése érdekében.
+
+
+
+* **Diagram Tulajdonjog a Dokumentációhoz**  
+
+&nbsp; Jelölje meg a műszaki diagramokat az attribúció megőrzése érdekében másolt tudásbázisokban.
+
+
+
+* **UI Elemek Irányítása**  
+
+&nbsp; Vízjelezze az exportált felhasználói felület terveket a vázlat státuszának és tulajdonjogának tisztázása érdekében.
+
+
+
+* **Partner Készlet Elosztásának Ellenőrzése**  
+
+&nbsp; Adjunk azonosítókat megosztott PNG elemekhez a terjesztés és az újrafelhasználás nyomon követéséhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* **Alfa-biztos Vízjel Megjelenítés**  
+
+&nbsp; Alkalmazzon félig átlátszó vízjeleket anélkül, hogy megszakítaná az eredeti kép átlátszóságát.
+
+
+
+* **Tervezés Export Pipeliner Jelölése**  
+
+&nbsp; Automatikusan vízjelezze a PNG exportokat, amikor az eszközök sablonokból generáltak.
+
+
+
+* **Tartalomérzékeny Biztonságos Elhelyezés**  
+
+&nbsp; Programozottan kerülje a vízjelezést a kulcsfontosságú UI elemek vagy diagram címkék fölé.
+
+
+
+* **Automatizált Variánsok Előállítása Csapatoknak**  
+
+&nbsp; Generáljon csapat-specifikus vízjelezett PNG készleteket kontrollált együttműködéshez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

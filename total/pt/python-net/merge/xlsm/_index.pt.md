@@ -78,7 +78,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/cel
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A fusão de planilhas do Excel com macros usando APIs do Python permite a consolidação de lógica orientada por dados, cálculos e automação incorporados nos workbooks. Isso é comum em ambientes operacionais e financeiros.
+
+
+
+A fusão automatizada de arquivos XLSM garante que os dados e o comportamento orientado por macros sejam preservados em sistemas escaláveis.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Montagem de Relatórios Orientados por Macros (XLSM)**  
+
+&nbsp; Mesclar arquivos XLSM contendo cálculos e lógica automatizados.
+
+
+
+* **Consolidação de Workbooks Operacionais (XLSM)**  
+
+&nbsp; Combinar planilhas com macros em diferentes departamentos.
+
+
+
+* **Empacotamento de Automação de Processos (XLSM)**  
+
+&nbsp; Agregar arquivos XLSM usados em processos operacionais recorrentes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Geração de Workbooks Baseada em Regras (XLSM)**  
+
+&nbsp; Sistemas mesclam arquivos XLSM com base em regras de automação definidas.
+
+
+
+* **Modelagem Financeira Automatizada (XLSM)**  
+
+&nbsp; A fusão de XLSM suporta fluxos de trabalho financeiros repetíveis.
+
+
+
+* **Preservação Controlada de Macros (XLSM)**  
+
+&nbsp; Pipelines automatizados mesclam arquivos XLSM mantendo as macros.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

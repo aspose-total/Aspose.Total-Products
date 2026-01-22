@@ -97,7 +97,93 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'extraction des métadonnées de documents pour les fichiers **PDF** via des API Python aide les systèmes à capturer les propriétés essentielles telles que le titre, l'auteur, le producteur, les dates de création et de modification, et les identifiants intégrés, soutenant la gouvernance et la découverte même lorsque le contenu est principalement en mise en page fixe. Cela est important pour l'audit, le catalogage et la gestion opérationnelle des référentiels PDF à volume élevé.
+
+
+
+Dans les pipelines d'automatisation, les métadonnées PDF peuvent piloter l'indexation, le routage, l'application de la rétention et le traitement par lots, ce qui rend possible l'intégration des PDF dans des flux de travail évolutifs sans tri manuel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Catalogage d'archives numériques**
+
+  Extraire les métadonnées des PDF pour construire un inventaire fiable des documents avec des attributs consultables.
+
+
+
+* **Conformité et audits de rétention**
+
+  Utiliser les horodatages de création/modification pour valider les délais de rétention et détecter les incohérences.
+
+
+
+* **Attribution du producteur et de la source**
+
+  Capturer les propriétés liées au producteur pour comprendre les origines du contenu et la lignée de traitement.
+
+
+
+* **Signaux de classification par lots**
+
+  Utiliser les champs de métadonnées pour catégoriser les PDF dans des domaines tels que les politiques, les factures, les manuels ou les rapports.
+
+
+
+* **Contrôles de qualité opérationnels**
+
+  Signaler les PDF sans métadonnées ou avec des métadonnées suspectes comme candidats à une remédiation ou à une révision manuelle.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Tri automatisé à l'arrivée**
+
+  Lorsque les PDF arrivent, extraire les métadonnées et les router vers des voies de traitement en fonction des règles de complétude et de sensibilité.
+
+
+
+* **Mises à jour d'index pilotées par les métadonnées**
+
+  Mettre à jour automatiquement un index de recherche chaque fois qu'un PDF est ajouté ou remplacé, en utilisant les métadonnées pour une récupération rapide.
+
+
+
+* **Flux de travail d'application de la rétention**
+
+  Exécuter des tâches planifiées qui identifient les PDF dépassant les limites de rétention et génèrent des tâches de suppression ou d'archivage.
+
+
+
+* **Rapports par lots et tableaux de bord**
+
+  Agréger les métadonnées des PDF extraites dans des rapports périodiques pour la gouvernance, la conformité et la surveillance opérationnelle.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

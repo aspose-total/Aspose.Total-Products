@@ -71,7 +71,75 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Das Unterzeichnen von DOCX-Dokumenten mithilfe von Python-APIs ermöglicht es, strukturierte, moderne Dokumente mit überprüfbaren Genehmigungsmetadaten zu versehen. Dies unterstützt die Rückverfolgbarkeit und kontrollierte Lebenszyklen von Dokumenten.
+
+
+
+Die automatisierte Unterzeichnung von DOCX-Dokumenten integriert sich nahtlos in Content-Engines, Genehmigungssysteme und Dokumentenspeicher im großen Maßstab.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Abschluss digitaler Verträge**  
+
+&nbsp; Genehmigungsunterschriften in finalisierte DOCX-Verträge einbetten.
+
+
+
+* **Verfolgung der Berichtsgenehmigung**  
+
+&nbsp; DOCX-Berichte unterzeichnen, um die Genehmigung durch das Management zu bestätigen.
+
+
+
+* **Interne Dokumentationsverwaltung**  
+
+&nbsp; Unterschriften auf validierte interne Dokumente anwenden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Ereignisgesteuerte Vertragsunterzeichnung**  
+
+&nbsp; DOCX-Dateien werden automatisch nach Genehmigungsereignissen unterzeichnet.
+
+
+
+* **Abschluss der mehrstufigen Überprüfung**  
+
+&nbsp; Die Unterzeichnung erfolgt, sobald alle Gutachter ihre Aufgaben abgeschlossen haben.
+
+
+
+* **CI-basierte Genehmigung von Dokumentationen**  
+
+&nbsp; DOCX-Dateien werden im Rahmen automatisierter Build-Pipelines unterzeichnet.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

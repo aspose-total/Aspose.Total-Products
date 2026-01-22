@@ -76,7 +76,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تمثل فئة تنسيق Word مستندات نصية تستخدم في سياقات الصياغة والتقارير وسير العمل التعاوني. يضمن حماية ملفات Word سرية المستندات وسلامتها والوصول المراقب إليها طوال دورة حياتها.
+
+
+
+تسمح واجهات برمجة التطبيقات باستخدام Python بتأمين مستندات Word بشكل آلي، مما يجعل الأمان قدرة مدمجة في أنظمة إدارة المحتوى والمستندات الحديثة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **حماية المحتوى الحساس**  
+
+&nbsp; تأمين مستندات Word تحتوي على معلومات سرية.
+
+
+
+* **فرض قيود التحرير**  
+
+&nbsp; التحكم في من يمكنه تعديل أو مراجعة المستندات.
+
+
+
+* **أمان دورة حياة المستند**  
+
+&nbsp; حماية الملفات في مراحل مختلفة من الإنشاء والموافقة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأمين التلقائي" %}}
+
+
+
+* **تأمين ملفات Word تلقائيًا**  
+
+&nbsp; تطبيق قواعد الأمان تلقائيًا أثناء إنشاء المستند.
+
+
+
+* **ضوابط المستندات استنادًا إلى الأدوار**  
+
+&nbsp; حماية ملفات Word بشكل ديناميكي استنادًا إلى أدوار المستخدم.
+
+
+
+* **سير العمل الآمن من البداية إلى النهاية**  
+
+&nbsp; دمج حماية Word في خطوط الأنابيب الوثائقية المؤتمتة بالكامل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

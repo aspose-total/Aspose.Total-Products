@@ -73,7 +73,85 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'apposizione di filigrane ai documenti **PDF** con le API di Python è un modo comune per proteggere i file finalizzati e condivisibili aggiungendo marchi di proprietà visibili, etichette di riservatezza o segni di prova senza dover fare affidamento sull'accesso per la modifica.
+
+La marcatura automatica dei PDF supporta flussi di lavoro scalabili come la marcatura di massa, il routing basato su policy e l'etichettatura coerente per la conformità attraverso gli archivi documentali.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Protezione di Rapporti Confidenziali**  
+
+&nbsp; Applica marchi di riservatezza visibili per scoraggiare la ridistribuzione non autorizzata.
+
+
+
+* **Copie di Prova per Revisione e Approvazione**  
+
+&nbsp; Applica il timbro "PROVA" sui PDF condivisi per il feedback al fine di ridurre la confusione con le versioni finali.
+
+
+
+* **Etichette di Proprietà per Fatture e Estratti Conto**  
+
+&nbsp; Aggiungi marchi di identità dell'organizzazione ai PDF finanziari utilizzati in tutti i dipartimenti.
+
+
+
+* **Condivisione Controllata per Documenti Legali**  
+
+&nbsp; Applica filigrane a documenti sensibili e accordi per rafforzare le aspettative di gestione.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Marcatura di Massa per il Riempimento degli Archivi**  
+
+&nbsp; Timbra automaticamente i PDF storici durante la migrazione verso un nuovo repository.
+
+
+
+* **Regole di Posizionamento delle Filigrane Consapevoli della Pagina**  
+
+&nbsp; Regola posizionamento filigrane in base alle dimensioni e all'orientamento della pagina in modo programmabile.
+
+
+
+* **Timbri di Finalizzazione Attivati dal Flusso di Lavoro**  
+
+&nbsp; Aggiungi filigrane "FINALE" quando le approvazioni sono completate in un sistema automatizzato.
+
+
+
+* **Contenuto della Filigrana Dinamico con Timestamp**  
+
+&nbsp; Genera filigrane contenenti data, ID della richiesta o metadati del destinatario per la tracciabilità.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La signature des fichiers BMP à l'aide des API Python permet d'approuver et de valider des actifs basés sur des images bitmap tels que des scans, des diagrammes et des visuels opérationnels. Cela garantit que les données visuelles utilisées dans les flux de travail portent une propriété claire et un contexte d'approbation.
+
+
+
+Lorsqu'elle est intégrée dans des pipelines automatisés, la signature BMP agit comme une étape de vérification finale, garantissant que seuls les actifs visuels examinés et approuvés progressent dans les systèmes de traitement ou de distribution.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Approbation de diagrammes opérationnels**  
+
+&nbsp; Appliquer des tampons d'approbation aux diagrammes BMP utilisés dans l'ingénierie ou la documentation interne.
+
+
+
+* **Vérification de scans pour les dossiers**  
+
+&nbsp; Signer les fichiers BMP scannés pour confirmer leur authenticité avant l'archivage ou le stockage conforme.
+
+
+
+* **Confirmation de contrôle qualité visuel**  
+
+&nbsp; Marquer les actifs BMP comme vérifiés en termes de qualité avant leur consommation en aval.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Injection automatique de tampon de contrôle qualité**  
+
+&nbsp; Les fichiers BMP sont signés automatiquement après avoir passé les règles de validation d'image.
+
+
+
+* **Marquage de l'achèvement du flux de travail**  
+
+&nbsp; La signature intervient lorsque un flux de travail opérationnel atteint l'approbation finale.
+
+
+
+* **Traitement en lot de l'approbation visuelle**  
+
+&nbsp; Plusieurs fichiers BMP sont signés de manière programmée dans des processus en masse.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

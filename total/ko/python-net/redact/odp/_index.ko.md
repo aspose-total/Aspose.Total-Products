@@ -77,7 +77,75 @@ ODP 편집 앱 또는 유틸리티를 개발해야 합니까?[Aspose.Total for P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용한 ODP 파일의 문서 작성은 오픈 문서 표준으로 작성된 프레젠테이션 콘텐츠의 안전한 처리를 가능하게 합니다. 이는 민감하거나 독점적인 정보가 포함된 슬라이드를 공유할 때 필수적입니다.
+
+
+
+자동화를 통해 ODP 프레젠테이션을 일관되게 정화할 수 있어 프레젠테이션 자산 전반에 걸쳐 확장 가능하고 반복 가능한 개인정보 보호를 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **기밀 슬라이드 공유**  
+
+  &nbsp; 배포 전에 프레젠테이션 슬라이드에서 민감한 데이터를 제거합니다.
+
+
+
+* **오픈 포맷 관리**  
+
+  &nbsp; 오픈 표준 프레젠테이션 파일에 데이터 보호 정책을 강제합니다.
+
+
+
+* **교육 자료 정화**  
+
+  &nbsp; 학습 콘텐츠를 게시하기 전에 내부 참조를 제거합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **슬라이드 수준의 문서 작성 규칙**  
+
+  &nbsp; 특정 슬라이드나 레이아웃에서 콘텐츠를 자동으로 제거합니다.
+
+
+
+* **프레젠테이션 빌드 파이프라인**  
+
+  &nbsp; 자동화된 프레젠테이션 생성 워크플로에 문서 작성을 통합합니다.
+
+
+
+* **예약된 규정 준수 검사**  
+
+  &nbsp; 자동 작업을 사용하여 주기적으로 저장된 ODP 파일을 정화합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

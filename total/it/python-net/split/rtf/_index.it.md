@@ -79,7 +79,75 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+I file RTF forniscono un formato di documento portatile incentrato sul testo con formattazione incorporata. La suddivisione dei file RTF consente l'estrazione controllata dei contenuti formattati.
+
+
+
+L'automazione in Python consente di gestire in modo efficiente i documenti RTF nei sistemi su larga scala.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Estrazione del Testo Formattato**  
+
+&nbsp; Estrarre sezioni preservando la formattazione.
+
+
+
+* **Elaborazione di Contenuti Interoperabili**  
+
+&nbsp; Utilizzare i contenuti estratti su diverse piattaforme.
+
+
+
+* **Semplificazione del Documento**  
+
+&nbsp; Suddividere file complessi in unità gestibili.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Suddivisione delle Sezioni basata sui Pattern**  
+
+&nbsp; Python identifica le parole di controllo per dividere i contenuti.
+
+
+
+* **Trasformazione Automatica dei Contenuti**  
+
+&nbsp; Le sezioni estratte vengono trasformate in modo programmato.
+
+
+
+* **Pipeline di Contenuti tra Sistemi Incrociati**  
+
+&nbsp; Le sezioni fluiscono senza intoppi in sistemi diversi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

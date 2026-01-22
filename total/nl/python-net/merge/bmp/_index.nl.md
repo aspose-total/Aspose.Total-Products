@@ -85,7 +85,75 @@ Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het samenvoegen van bitmapafbeeldingen met Python API's maakt de consolidatie van ruwe, ongecomprimeerde visuals in één samengestelde afbeelding of reeks mogelijk. Dit is handig bij technische beeldvorming, scanworkflows en systemen waar beeldkwaliteit prioriteit heeft boven bestandsgrootte.
+
+
+
+Geautomatiseerd samenvoegen van BMP ondersteunt deterministische beeldverwerkingspipelines waar precisie, herhaalbaarheid en systeemgestuurde compositie vereist zijn.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Samenvoegen van Gescande Afbeeldingen (BMP)**  
+
+&nbsp; Voeg meerdere BMP-scans samen tot één samengestelde afbeelding.
+
+
+
+* **Assemblage van Technische Diagrammen (BMP)**  
+
+&nbsp; Combineer bitmapdiagrammen tot eenduidige visuals.
+
+
+
+* **Archivering van Ruwe Afbeeldingen (BMP)**  
+
+&nbsp; Aggregeer BMP-bestanden voor langetermijnopslag of verwerking.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Geautomatiseerde Scanverwerking (BMP)**  
+
+&nbsp; Systemen voegen BMP-afbeeldingen samen tijdens innameworkflows.
+
+
+
+* **Batchbeeldcompositie (BMP)**  
+
+&nbsp; Geplande taken voegen bitmapafbeeldingen programmatisch samen.
+
+
+
+* **Precisie Beeldverwerkingspipelines (BMP)**  
+
+&nbsp; BMP-samenvoeging is ingebed in gecontroleerde verwerkingssystemen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

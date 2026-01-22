@@ -90,7 +90,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API查看RTF文件可以检查平衡格式和可移植性的富文本文档。
+
+这支持在需要基本样式的文本中心工作流程中进行自动化。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **格式化文本审阅**  
+
+  查看带有样式的文本，而无需完整文档复杂性。
+
+
+
+* **可互操作文档检查**  
+
+  检查跨不同系统的文档。
+
+
+
+* **内容验证**  
+
+  确保格式和文本准确性。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化文本流水线**  
+
+  Python工作流在处理过程中呈现RTF文件。
+
+
+
+* **预览服务**  
+
+  动态显示文档以供审阅。
+
+
+
+* **迁移验证**  
+
+  查看以确保安全转换为其他格式。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

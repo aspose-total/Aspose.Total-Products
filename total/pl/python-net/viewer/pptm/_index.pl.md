@@ -89,7 +89,73 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Oglądanie prezentacji PPTM za pomocą interfejsów API w języku Python umożliwia inspekcję prezentacji z makrami bez wykonywania osadzonego kodu.
+
+Dzięki temu można bezpiecznie przeglądać prezentacje w środowiskach zautomatyzowanych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Przeglądanie slajdów z makrami**  
+
+&nbsp; Bezpieczne przeglądanie treści prezentacji.
+
+
+
+* **Inspekcja świadoma ryzyka**  
+
+&nbsp; Inspekcja slajdów bez wykonywania makr.
+
+
+
+* **Wsparcie dla procesu zatwierdzania**  
+
+&nbsp; Przeglądanie prezentacji przed kontrolowanym użyciem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Bezpieczne przyjmowanie prezentacji**  
+
+&nbsp; Odtwarzacze Pythona bezpiecznie renderują pliki PPTM.
+
+
+
+* **Automatyczne przeglądy zgodności**  
+
+&nbsp; Prezentacje są automatycznie inspirowane.
+
+
+
+* **Walidacja przed wdrożeniem**  
+
+&nbsp; Przeglądanie wspiera procesy zatwierdzania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -104,7 +104,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحليل **مستندات OTT** باستخدام واجهات برمجة التطبيقات في Python يمكن من استخراج هيكلي من القوالب النصية المفتوحة المصممة لإنشاء مستندات متسقة. تُستخدم ملفات OTT عادة في بيئات معايير مفتوحة لتحديد تخطيطات قابلة لإعادة الاستخدام، وأنماط، وحاملات.
+
+
+
+من خلال دمج تحليل OTT في الأنظمة الآلية، يمكن للمؤسسات إنشاء، وتحقق، وإدارة المستندات بمقياس والحفاظ على الالتزام الصارم بالقوالب الموحدة والتنسيقات المفتوحة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **استخراج هيكل القالب**  
+
+&nbsp; يحدد الأقسام المحددة مسبقًا، والأنماط، والحاملات ضمن قوالب OTT.
+
+
+
+* **إنشاء مستندات موحدة**  
+
+&nbsp; يدعم إنشاء مستندات متسقة بناءً على قوالب مفتوحة معتمدة.
+
+
+
+* **حوكمة التنسيق المفتوح**  
+
+&nbsp; يضمن أن تتوافق المستندات مع المعايير التنظيمية دون قفل ملكية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **إنشاء مستندات ديناميكية**  
+
+&nbsp; يملأ قوالب OTT تلقائيًا بالبيانات المهيكلة.
+
+
+
+* **التحقق من امتثال القوالب**  
+
+&nbsp; يكتشف الانحرافات عن هياكل القوالب المعتمدة.
+
+
+
+* **أنابيب المستندات المفتوحة القابلة للتوسيع**  
+
+&nbsp; يمكن إنتاج مستندات بحجم كبير باستخدام المعايير المفتوحة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

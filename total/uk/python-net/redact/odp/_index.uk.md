@@ -77,7 +77,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Редакція документів за допомогою Python APIs для файлів ODP дозволяє забезпечити безпечну обробку вмісту презентацій, створених у стандартах відкритих документів. Це є важливим при обміні слайдами, які можуть містити конфіденційну або власну інформацію.
+
+
+
+Автоматизація забезпечує можливість стандартизованої санітарії презентацій ODP, підтримуючи масштабовані та повторювані контролі конфіденційності по всіх активах презентацій.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* **Конфіденційний обмін слайдами**  
+
+&nbsp; Видалення конфіденційних даних з презентаційних слайдів перед розповсюдженням.
+
+
+
+* **Управління відкритим форматом**  
+
+&nbsp; Застосування політик захисту даних до презентаційних файлів у відкритому стандарті.
+
+
+
+* **Санітарія навчального матеріалу**  
+
+&nbsp; Редакція внутрішніх посилань перед публікацією навчального вмісту.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Правила санітарії на рівні слайдів**  
+
+&nbsp; Автоматичне вилучення вмісту з конкретних слайдів або макетів.
+
+
+
+* **Пайплайни побудови презентацій**  
+
+&nbsp; Інтеграція санітарії у автоматизовані робочі процеси генерації презентацій.
+
+
+
+* **Заплановані сканування відповідності**  
+
+&nbsp; Періодична санітарія збережених файлів ODP за допомогою автоматизованих завдань.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

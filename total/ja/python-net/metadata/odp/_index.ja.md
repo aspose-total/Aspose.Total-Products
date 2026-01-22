@@ -75,7 +75,93 @@ ODP メタデータ管理アプリまたはユーティリティを開発する�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用したODPファイルのドキュメントメタデータ抽出により、システムはプレゼンテーション属性やスライドデッキの埋め込みプロパティを読み取ることができ、ファイルをGUIで開かずにガバナンス、発見、およびライフサイクル管理をサポートします。これは、大量のトレーニング、営業、または運用プレゼンテーションを管理するチームにとって重要です。
+
+
+
+自動化されたワークフローでは、ODPメタデータを使用してインデックス付け、分類、および制御された公開を行うことができ、スライドライブラリをより簡単に維持、検索、およびコンテンツ配信システムに統合することができます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+- **プレゼンテーションライブラリのインデックス付け**
+
+  著者、トピック、および更新時刻によるスライドデッキの検索可能なカタログを構築するためにODPメタデータを抽出します。
+
+
+
+- **トレーニングコンテンツの最新性チェック**
+
+  修正されたタイムスタンプを使用して、更新が必要な古いスライドデッキを特定します。
+
+
+
+- **部門ベースの分類**
+
+  構造化されたカテゴリにメタデータプロパティを正規化し、一貫した組織化とアクセス制御を実現します。
+
+
+
+- **アセットガバナンスレポーティング**
+
+  ODPメタデータを集計して、使用準備、カバレージのギャップ、およびメンテナンスの所有権を測定します。
+
+
+
+- **一括移行の準備**
+
+  新しいストレージや公開環境への移行前にODPプロパティを監査します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+- **自動スライドデッキ取り込み**
+
+  アップロード時にODPメタデータを抽出し、デッキを正しいリポジトリセクションに自動的に割り当てます。
+
+
+
+- **古さアラートの自動化**
+
+  ODPデッキが更新しきい値を超えた場合や責任ある所有権フィールドが欠落している場合にアラートをトリガーします。
+
+
+
+- **メタデータ駆動の公開ルール**
+
+  機密性や社内専用の使用を示すメタデータフラグに基づいてODPデッキを公開または制限します。
+
+
+
+- **一括監査およびレポーティングジョブ**
+
+  ガバナンスおよび運用監査のためにODPメタデータの要約をエクスポートするスケジュールされたジョブを実行します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

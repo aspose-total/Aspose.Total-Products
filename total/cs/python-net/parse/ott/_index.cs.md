@@ -104,7 +104,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Parsování **OTT dokumentů** pomocí Python API umožňuje strukturovaný výstup z otevřených textových šablon navržených pro konzistentní tvorbu dokumentů. Soubory OTT jsou běžně používány v otevřených standardních prostředích k definici opakovaně použitelných rozvržení, stylů a zástupců.
+
+
+
+Integrací parsování OTT do automatizovaných systémů mohou organizace generovat, ověřovat a spravovat dokumenty ve velkém měřítku s dodržováním přísného dodržování standardizovaných šablon a otevřených formátů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Extrakce struktury šablony**  
+
+&nbsp; Identifikuje předdefinované sekce, styly a zástupce v šablonách OTT.
+
+
+
+* **Konzistentní tvorba dokumentů**  
+
+&nbsp; Podporuje konzistentní generování dokumentů na základě schválených otevřených šablon.
+
+
+
+* **Správa otevřených formátů**  
+
+&nbsp; Zajišťuje, že dokumenty splňují organizační standardy bez proprietárních závazků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Dynamická generace dokumentů**  
+
+&nbsp; Automaticky vyplňuje šablony OTT strukturovanými daty.
+
+
+
+* **Ověřování shody se šablonou**  
+
+&nbsp; Detekuje odchylky od schválených struktur šablon.
+
+
+
+* **Škálovatelné otevřené dokumentové toky**  
+
+&nbsp; Umožňuje vysoký objem produkce dokumentů s použitím otevřených standardů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

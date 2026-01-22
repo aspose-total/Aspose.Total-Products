@@ -75,7 +75,93 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri aracılığıyla **PPTX** dosyaları için belge meta verilerinin çıkarılması, modern sunum özelliklerine yapılandırılmış erişim sağlar - slayt paketlerinin ölçeklenebilir bir şekilde dizinlenmesini, denetlenmesini ve yaşam döngüsünün izlenmesini mümkün kılar. Bu, büyük hacimlerde işletme, eğitim veya müşteri sunumlarını yöneten kuruluşlar için değerlidir.
+
+
+
+Otomasyon boru hatlarında, PPTX meta verileri, yönlendirme ve yönetim için hafif bir kontrol düzlemi haline gelir: otomatik sınıflandırmayı destekler, planlanmış incelemeleri, yayınlama kontrollerini ve arama ve içerik yönetim sistemleriyle entegrasyonları destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* **Sunum Kataloğu ve Keşfi**
+
+  Konu, sahip ve güncelleme geçmişine göre aranabilir kataloglar oluşturmak için PPTX meta verilerini çıkarın.
+
+
+
+* **Slayt Paketleri İçin Yaşam Döngüsü Yönetimi**
+
+  İnceleme döngülerini ve içerik tazeliği politikalarını zorlamak için zaman damgaları ve özel özellikler kullanın.
+
+
+
+* **Otomatik Sahiplik Atama**
+
+  Yazar ve son düzenleyici alanlarını onaylar ve bakım için sorumlu ekiplere eşleyin.
+
+
+
+* **Yayınlama Hazırlık Doğrulaması**
+
+  Bir PPTX paketinin harici olarak dağıtılmadan önce gerekli açıklayıcı özelliklerin varlığını sağlayın.
+
+
+
+* **Operasyonel Denetim İzleri**
+
+  Slayt paketlerinin ne zaman, kim tarafından oluşturulduğuna ve güncellendiğine dair meta veri tabanlı denetim kayıtlarını tutun.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Yükleme Zamanı Sınıflandırma ve Etiketleme**
+
+  Alım sırasında PPTX meta verilerini çıkarın ve tutarlı bir şekilde örgütlemek için etiketleri ve klasör yönlendirme kurallarını otomatik olarak uygulayın.
+
+
+
+* **Zamanlanmış İnceleme Görevi Oluşturma**
+
+  PPTX paketleri belirli bir tazeliği aştığında veya meta veriler sahiplik değişikliklerini gösterdiğinde periyodik inceleme görevleri oluşturun.
+
+
+
+* **Kontrollü Dağıtım Boru Hattı**
+
+  Meta veri bayraklarına dayalı olarak PPTX paketlerinin dağıtımını izin verin veya kısıtlayın, örneğin yalnızca iç kullanım veya gizli kategoriler.
+
+
+
+* **Arama Sistemlerine Meta Veri Senkronizasyonu**
+
+  PPTX meta verilerini sürekli olarak bir dizine iterek slayt paketlerinin manuel katalog bakımı olmadan keşfedilebilir olmasını sağlayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,93 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Ekstrakcja metadanych dokumentów dla plików **PPT** za pomocą interfejsów API w języku Python umożliwia zarządzanie starszymi zasobami prezentacji poprzez odczytanie takich właściwości jak autor, znaczniki czasu i pola opisowe. Wsparcie to umożliwia zarządzanie i odkrywalność dla organizacji, które wciąż utrzymują starsze biblioteki slajdów.
+
+
+
+W zautomatyzowanych procesach roboczych metadane PPT mogą wspierać klasyfikację, indeksowanie i kontrolę cyklu życia, umożliwiając zorganizowanie, przeprowadzenie audytu i migrację dużych zbiorów starszych prezentacji przy minimalnym nakładzie pracy manualnej.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe Przypadki Użycia" %}}
+
+
+
+* **Audyt Starszej Biblioteki Slajdów**
+
+  Wyodrębnij metadane PPT, aby zrozumieć wiek, właściciela i luki w utrzymaniu w archiwalnych zestawach.
+
+
+
+* **Ocena Gotowości do Migracji**
+
+  Wykorzystaj metadane do określenia, które zestawy PPT powinny zostać skonwertowane lub odświeżone jako pierwsze.
+
+
+
+* **Kierowanie Utrzymaniem na Podstawie Właściciela**
+
+  Zidentyfikuj opiekunów na podstawie pól autora/redaktora, aby skutecznie kierować prośbami o aktualizację.
+
+
+
+* **Analiza Portfela Zawartości**
+
+  Skonsoliduj metadane PPT w celu pomiaru pokrycia biblioteki, jej przestarzałości i ryzyka operacyjnego.
+
+
+
+* **Wykrywanie Zduplikowanych Zasobów**
+
+  Wykorzystaj wzorce metadanych do wykrywania potencjalnych duplikatów i redukcji bałaganu w bibliotece.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Potok Przyjmowania Starszych Zestawów Slajdów**
+
+  Automatycznie przyjmuj pliki PPT, wyodrębniaj metadane i przypisuj je do systemu inwentaryzacyjnego z znormalizowanymi polami.
+
+
+
+* **Automatyzacja Kolejek Konwersji**
+
+  Dodawaj zestawy PPT do kolejek konwersji na podstawie wieku metadanych i reguł klasyfikacji użytkowania.
+
+
+
+* **Przepływ Powiadomień o Przestarzałych Zestawach**
+
+  Wysyłaj alert, gdy metadane PPT wskazują na długie okresy bez aktualizacji lub brakujące pola właściciela.
+
+
+
+* **Automatyczne Prace Porządkowania Biblioteki**
+
+  Okresowo skanuj repozytoria PPT i kwarantannuj zasoby zidentyfikowane jako duplikaty lub niezarządzane na podstawie metadanych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

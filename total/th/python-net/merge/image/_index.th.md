@@ -85,7 +85,77 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การผสานรูปแบบภาพทั่วไปโดยใช้ Python APIs ให้วิธีการเดียวกันในการจัดการทรัพยากรทางสายตาที่หลากหลายภายใต้เวิร์กโฟลว์เดียวกัน การนี้ทำให้กระบวนการประมวลผลภาพเป็นไปอย่างง่ายในรูปแบบที่หลากหลาย
+
+
+
+การอัตโนมัติช่วยให้สามารถขยายได้ การรวมรูปภาพโดยไม่สนใจรูปแบบสำหรับระบบที่ทันสมัย
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **การรวมรูปภาพหลายรูปแบบเข้าด้วยกัน (IMAGE)**  
+
+&nbsp; ผสานรูปแบบภาพต่าง ๆ เข้าด้วยกันเป็นเอาท์พุทเดียว
+
+
+
+* **การรวบรวมภาพจากแหล่งต่าง ๆ (IMAGE)**  
+
+&nbsp; รวมรูปภาพจากเครื่องมือและแพลตฟอร์มต่าง ๆ
+
+
+
+* **การประสานรูปภาพขององค์กร (IMAGE)**  
+
+&nbsp; รวบรวมรูปภาพที่แตกต่างกันเข้าด้วยกันเป็นภาพที่เป็นไปได้
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การสร้างกระบวนการประมวลผลภาพที่ไม่สนใจรูปแบบ (IMAGE)**  
+
+&nbsp; กระบวนการทำงานอัตโนมัติรวมรูปภาพโดยไม่สนใจรูปแบบ
+
+
+
+* **การสร้างภาพเชิงสร้างสรรค์เดียวกัน (IMAGE)**  
+
+&nbsp; ระบบสร้างรูปภาพที่รวมกันได้โดยไดนามิก
+
+
+
+* **การจัดการรูปภาพให้สามารถขยายได้ (IMAGE)**  
+
+&nbsp; การผสานโปรแกรมรองรับกระบวนการทำงานขนาดใหญ่ของรูปภาพ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

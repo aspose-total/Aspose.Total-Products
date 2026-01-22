@@ -73,7 +73,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Slides for Python via 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Việc ký tệp trình bày ODP bằng Python APIs giúp các nhóm kiểm soát chất lượng phát hành và sở hữu cho các bộ trình chiếu được tạo ra trong các định dạng mở. Điều này đảm bảo rằng các bộ trình chiếu chỉ được phân phối sau khi được phê duyệt chính thức.
+
+
+
+Khi tự động hóa, việc ký ODP trở thành một bước quản trị có thể lặp lại trong quy trình làm việc cộng tác, cải thiện việc kiểm soát phiên bản và ngăn chặn việc phân phối các bộ trình chiếu chưa được xem xét.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Phê Duyệt Phát Hành Bộ Trình Đào Tạo**  
+
+&nbsp; Ký các bộ trình đào tạo ODP để xác nhận sẵn sàng cho việc triển khai nội bộ.
+
+
+
+* **Xác Nhận Đánh Giá Các Bên Liên Quan**  
+
+&nbsp; Áp dụng dấu chữ ký vào các bộ trình chiếu ODP sau khi đánh giá của các bên liên quan hoàn tất.
+
+
+
+* **Chứng Nhận Trình Bày Tuân Thủ**  
+
+&nbsp; Ký các bộ trình chiếu về chính sách hoặc tuân thủ để ghi lại người đã phê duyệt phiên bản cuối cùng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Kích Hoạt Quy Trình Phê Duyệt Khi Ký**  
+
+&nbsp; Tự động ký các tệp ODP khi trạng thái phê duyệt được ghi nhận trong hệ thống.
+
+
+
+* **Cổng Tính Toàn Vẹn Bộ Trình Trước Khi Chia Sẻ**  
+
+&nbsp; Ký các bộ trình chỉ sau khi kiểm tra xác nhận rằng các trang và siêu dữ liệu cần thiết tồn tại.
+
+
+
+* **Ký Theo Lô cho Chu Kỳ Phát Hành**  
+
+&nbsp; Ký một cách tự động nhiều bộ trình chiếu ODP như một phần của chu kỳ phát hành được lên lịch.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

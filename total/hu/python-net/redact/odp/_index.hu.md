@@ -77,7 +77,75 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A dokumentum szerkesztése Python API-k segítségével ODP fájlokhoz biztonságos kezelést tesz lehetővé az open document szabványokban létrehozott bemutató tartalmának. Ez alapvető fontosságú, amikor olyan diákat osztunk meg, amelyek érzékeny vagy védett információkat tartalmazhatnak.
+
+
+
+Az automatizálás biztosítja, hogy az ODP bemutatókat következetesen lehet szanitizálni, támogatva ezzel a skálázható és ismételhető adatvédelmi irányításokat a bemutató eszközökön át.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Bizalmas diavetítés megosztása**  
+
+&nbsp; Távolítsa el az érzékeny adatokat a bemutató diáiról a terjesztés előtt.
+
+
+
+* **Nyílt formátumú irányítás**  
+
+&nbsp; Érvényesítse az adatvédelmi irányelveket az open-standard bemutatófájlokon.
+
+
+
+* **Képzési anyag szanitizálása**  
+
+&nbsp; Szerkesztse az belső hivatkozásokat a tananyag közzététel előtt.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Diavetítés-szintű szanitizálási szabályok**  
+
+&nbsp; Automatikusan szanitizálja a tartalmat konkrét diákról vagy elrendezésekről.
+
+
+
+* **Bemutató-építési csövek**  
+
+&nbsp; Integrálja a szanitizálást az automatizált bemutatógenerálási munkafolyamatokba.
+
+
+
+* **Ütemezett megfelelőségi vizsgálatok**  
+
+&nbsp; Időszakosan szanitizálja a tárolt ODP fájlokat automatizált feladatok segítségével.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

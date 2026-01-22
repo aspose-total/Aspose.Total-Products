@@ -90,7 +90,67 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Просмотр DOTM с помощью Python API позволяет безопасно осматривать макросодержащие шаблоны Word без выполнения встроенной логики.
+
+Это необходимо для контролируемых сред, где видимость и безопасность должны сосуществовать.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Просмотр макросодержащего шаблона**  
+   Просмотр содержимого шаблона с отключенными макросами.
+
+
+
+* **Инспекция с упором на безопасность**  
+   Осмотр структуры без подвержения систем рискам выполнения.
+
+
+
+* **Процессы утверждения шаблонов**  
+   Просмотр шаблонов перед контролируемым распространением.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Безопасный прием шаблонов**  
+   Просмотр DOTM-файлов безопасно во время ввода в систему.
+
+
+
+* **Автоматизация управления**  
+   Шаблоны проверяются в рамках автоматизированных проверок политики.
+
+
+
+* **Предварительные проверки перед использованием**  
+   Автоматические предпросмотры поддерживают рабочие процессы утверждения.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

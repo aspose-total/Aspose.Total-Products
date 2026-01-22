@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Объединение макрософт-включенных документов Word с использованием API Python позволяет структурированное составление документов с сохранением встроенной логики и продвинутого поведения документа. Это необходимо для корпоративных сред, где документы включают автоматизацию, формы или вычисляемые поля.
+
+
+
+Автоматизированное объединение DOCM поддерживает масштабируемые рабочие процессы с документами, в которых файлы с логикой объединяются надежно без ручного вмешательства, обеспечивая операционную непрерывность и эффективность.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Сборка шаблонов на основе макросов (DOCM)**  
+
+&nbsp; Объединение нескольких макрософт-включенных документов в один исполняемый документ.
+
+
+
+* **Сборка операционных документов (DOCM)**  
+
+&nbsp; Объединение файлов DOCM, используемых в различных отделах, в единые операционные файлы.
+
+
+
+* **Объединение документации по процессам (DOCM)**  
+
+&nbsp; Объединение инструкций и инструментов на основе DOCM в один контролируемый документ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированное создание файлов соответствия (DOCM)**  
+
+&nbsp; Системы автоматически объединяют файлы DOCM для создания документов, готовых к соответствию.
+
+
+
+* **Составление документов на основе правил (DOCM)**  
+
+&nbsp; Файлы DOCM объединяются динамически на основе правил рабочего процесса.
+
+
+
+* **Сохранение макросов, управляемое сзади (DOCM)**  
+
+&nbsp; Автоматизированные конвейеры объединяют файлы DOCM, сохраняя встроенную логику.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

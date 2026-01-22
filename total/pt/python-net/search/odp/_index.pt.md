@@ -76,7 +76,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/sli
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Pesquisar arquivos **ODP** usando APIs do Python permite acesso estruturado a documentos de apresentação de padrão aberto comumente usados em ambientes colaborativos e de código aberto. A busca programática permite que sistemas extraiam texto de slides, títulos e metadados sem revisão manual.
+
+
+
+Quando automatizada, a busca de documentos ODP melhora a descoberta, suporta gerenciamento de conteúdo escalável e se integra perfeitamente com sistemas modernos de processamento de dados e automação de fluxo de trabalho.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Busca de Texto em Slides ODP**  
+
+  &nbsp; Localiza palavras-chave e frases em slides de apresentação em formato aberto.
+
+
+
+* **Revisão de Conteúdo de Apresentações Abertas**  
+
+  &nbsp; Permite inspeção rápida de decks de slides compartilhados ou colaborativos.
+
+
+
+* **Descoberta de Metadados ODP**  
+
+  &nbsp; Extrai propriedades do documento para classificação e indexação.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Indexação Automatizada de ODP**  
+
+  &nbsp; Serviços em Python indexam continuamente arquivos ODP para acesso de busca.
+
+
+
+* **Monitoramento de Conteúdo ODP**  
+
+  &nbsp; Varreduras programáticas detectam alterações ou atualizações em apresentações.
+
+
+
+* **Integração de Fluxo de Trabalho ODP**  
+
+  &nbsp; O conteúdo extraído alimenta pipelines de publicação ou revisão automatizados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

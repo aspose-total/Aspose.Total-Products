@@ -79,7 +79,85 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG ODT TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用して**ODT**ドキュメントに透かしを入れることで、オープンエコシステムでコンテンツにアクセス可能なまま、所有権と機密性を明確に示すことができます。
+
+自動化により、ODTライブラリ全体で一貫した透かしルールを実現し、オープンフォーマットを使用するチームにスケーラブルな文書ガバナンスをサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **オープンフォーマットポリシーラベリング**
+
+  &nbsp; "INTERNAL"や"CONFIDENTIAL"などのラベルをODTドキュメントに押して、誤送信を減らします。
+
+
+
+* **共同執筆のための下書き制御**
+
+  &nbsp; 繰り返しの編集サイクル中に"DRAFT"のオーバーレイを適用します。
+
+
+
+* **共有ドキュメントの配布通知**
+
+  &nbsp; 契約業者やパートナーと共有する文書に再利用制限を追加します。
+
+
+
+* **アーカイブ識別の保存**
+
+  &nbsp; エクスポートされたODTファイルに透かしを入れ、システム間でコピーされても所有権が見えるようにします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **ドキュメント生成+透かしステップ**
+
+  &nbsp; テンプレートや構造化データから生成されたODTファイルに自動的に透かしを入れます。
+
+
+
+* **リポジトリポリシーの強制**
+
+  &nbsp; 規制されたフォルダにODTがアップロードされたときに透かしを適用します。
+
+
+
+* **自動バージョン透かしの切り替え**
+
+  &nbsp; バージョンの状態（下書き、レビュー、最終版）に基づいて透かしのテキストをプログラムで変更します。
+
+
+
+* **コンプライアンスエクスポートパイプライン**
+
+  &nbsp; 監査に使用されるODTエクスポートに透かしを押して、提出物全体で一貫したラベリングを確保します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

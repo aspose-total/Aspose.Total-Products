@@ -79,7 +79,69 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A PPTX prezentációk összevonása Python API-k segítségével a modern diaösszeállítás leggyakoribb megközelítése. Ez lehetővé teszi a dia sorrend, elrendezés és tartalom egységes kezelését.
+
+
+
+Ez a képesség tiszta módon integrálható az automatizált tartalmi motorokkal és jelentési rendszerekkel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Több szekció összeállítása (PPTX)**  
+&nbsp; PPTX fájlok összevonása szekciókat reprezentáló egyetlen csomagba.
+
+
+
+* **Együttműködő dia integráció (PPTX)**  
+&nbsp; Különböző szerzők által készített PPTX diák összevonása.
+
+
+
+* **Újrafelhasználható dia modul összeállítás (PPTX)**  
+&nbsp; Moduláris PPTX diák összeállítása testreszabott prezentációkká.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Dinamikus diaösszeállítás (PPTX)**  
+&nbsp; Rendszerek PPTX fájlokat vonnak össze futási bemenetek alapján.
+
+
+
+* **CI/CD prezentációs csővezetékek (PPTX)**  
+&nbsp; A PPTX összevonás automatizált a build vagy kiadási fázisok során.
+
+
+
+* **Skálázható prezentációk közzététele (PPTX)**  
+&nbsp; Nagy mennyiségű PPTX csomagok programozottan generálódnak.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

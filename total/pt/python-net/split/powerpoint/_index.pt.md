@@ -73,7 +73,75 @@ Para obter mais detalhes, consulte [Documentação do produto](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Os arquivos do PowerPoint armazenam conteúdo visual baseado em slides usado em apresentações e relatórios. A divisão de arquivos do PowerPoint permite acesso granular a slides individuais ou grupos de slides.
+
+
+
+A automação baseada em Python permite a manipulação escalável do conteúdo da apresentação em fluxos de trabalho modernos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+- **Reutilização de Slides em Diferentes Apresentações**  
+
+  &nbsp; Extrair slides para reutilização em novos decks.
+
+
+
+- **Gestão de Conteúdo de Apresentações**  
+
+  &nbsp; Gerenciar slides de forma independente em escala.
+
+
+
+- **Fluxos de Trabalho de Revisão e Aprovação**  
+
+  &nbsp; Compartilhar apenas slides relevantes com partes interessadas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+- **Segmentação Automatizada de Slides**  
+
+  &nbsp; Scripts em Python dividem decks em unidades de slides.
+
+
+
+- **Geração Dinâmica de Decks**  
+
+  &nbsp; Slides são montados com base em regras.
+
+
+
+- **Sistemas de Versionamento de Apresentações**  
+
+  &nbsp; Acompanhar alterações automaticamente no nível do slide.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

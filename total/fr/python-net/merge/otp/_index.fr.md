@@ -79,7 +79,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusion des formats de modèles de présentation à l'aide des API Python permet une création de diapositives cohérente à travers les écosystèmes ouverts et propriétaires. La fusion de modèles garantit une uniformité structurelle.
+
+
+
+L'automatisation prend en charge une génération rapide de présentations avec des mises en page prévisibles.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Assemblage de présentations basé sur des modèles (OTP)**  
+
+&nbsp; Fusionner les modèles OTP dans des decks normalisés.
+
+
+
+* **Cadres de diapositives réutilisables (OTP)**  
+
+&nbsp; Combinez des structures basées sur OTP pour plus de cohérence.
+
+
+
+* **Normalisation de la conception (OTP)**  
+
+&nbsp; Agréger les modèles OTP dans des formats unifiés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Application automatisée des modèles (OTP)**  
+
+&nbsp; Les modèles OTP sont fusionnés de manière programmée.
+
+
+
+* **Génération de présentations par lots (OTP)**  
+
+&nbsp; Les modèles sont fusionnés lors d'exécutions planifiées.
+
+
+
+* **Pipelines contrôlés par la mise en page (OTP)**  
+
+&nbsp; Les systèmes imposent une structure via la fusion de modèles.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

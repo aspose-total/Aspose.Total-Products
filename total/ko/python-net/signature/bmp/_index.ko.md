@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 BMP 파일에 서명하는 것은 스캔, 다이어그램 및 운영 시각 자산과 같은 비트맵 기반 자산의 승인 및 유효성을 보장합니다. 이를 통해 워크플로에 사용되는 시각적 데이터가 명확한 소유권과 승인 컨텍스트를 갖도록 합니다.
+
+
+
+자동화된 파이프라인에 통합되면 BMP 서명은 최종 검증 단계로 작용하여 검토 및 승인된 시각 자산만 처리 또는 배포 시스템으로 전달되도록 보장합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **운영 다이어그램 승인**  
+
+&nbsp; 공학 또는 내부 문서 작성에 사용되는 BMP 다이어그램에 승인 스탬프를 적용합니다.
+
+
+
+* **기록용 스캔 확인**  
+
+&nbsp; 아카이브 또는 규정 준수 저장 전에 스캔된 BMP 파일에 서명하여 진위를 확인합니다.
+
+
+
+* **시각적 QA 확인**  
+
+&nbsp; 하류 소비 이전에 BMP 자산을 품질 확인으로 표시합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동화된 QA 스탬프 삽입**  
+
+&nbsp; 이미지 유효성 검사 규칙을 통과한 후 BMP 파일이 자동으로 서명됩니다.
+
+
+
+* **워크플로 완료 표시**  
+
+&nbsp; 운영 워크플로가 최종 승인 단계에 도달했을 때 서명이 발생합니다.
+
+
+
+* **일괄 시각적 승인 처리**  
+
+&nbsp; 여러 BMP 파일이 프로그래밍 방식으로 대량 처리되어 서명됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Podpisywanie ogólnych obrazów wejściowych za pomocą interfejsów API w języku Python zapewnia ujednolicony sposób stosowania znaków zatwierdzenia i metadanych walidacyjnych w różnych źródłach obrazów. Jest to przydatne, gdy potoki przetwarzania przyjmują obrazy z wielu narzędzi i wymagają spójnego zarządzania.
+
+
+
+Podpisywanie obrazów automatycznie wprowadza standaryzowany stan "zatwierdzonego artefaktu", zapewniając, że systemy docelowe konsumują tylko zasoby, które spełniają wymagania jakości, zasad lub zgodności.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Standaryzacja zasobów z różnych źródeł**  
+
+&nbsp; Stosuj spójne nakładki z podpisem na obrazy pochodzące z różnych narzędzi i zespołów.
+
+
+
+* **Walidacja obrazu jako dowód**  
+
+&nbsp; Podpisuj obrazy używane jako dowód, aby potwierdzić tożsamość recenzenta i status zatwierdzenia.
+
+
+
+* **Kontrola dystrybucji zatwierdzonych zasobów**  
+
+&nbsp; Oznaczaj obrazy jako zatwierdzone przed ich umieszczeniem w pakietach dystrybucyjnych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Oznaczanie zatwierdzeń podczas przyjmowania**  
+
+&nbsp; Podpisuj obrazy podczas przyjmowania po zakończeniu reguł walidacji i sprawdzania metadanych.
+
+
+
+* **Wdrażanie punktów kontrolnych zasad**  
+
+&nbsp; Automatycznie podpisuj tylko te obrazy, które przechodzą automatyczne zasady polityki i bezpieczeństwa.
+
+
+
+* **Finalizacja synchronizacji repozytorium**  
+
+&nbsp; Podpisuj obrazy przed synchronizacją z repozytoriami współdzielonymi, aby zapewnić, że tylko zweryfikowane wersje się propagują.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

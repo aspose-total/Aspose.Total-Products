@@ -75,7 +75,93 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Ekstraksi metadata dokumen untuk file **PPT** melalui API Python memungkinkan pengelolaan aset presentasi lama dengan membaca properti seperti penulis, timestamp, dan bidang deskriptif. Ini mendukung tata kelola dan penemuan untuk organisasi yang masih mempertahankan perpustakaan slide lama.
+
+
+
+Dalam alur kerja otomatis, metadata PPT dapat menggerakkan klasifikasi, pengindeksan, dan kontrol siklus hidup—memungkinkan koleksi besar presentasi lama diatur, diaudit, dan bermigrasi dengan usaha manual minimal.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Audit Perpustakaan Slide Lama**
+
+  Ekstraksi metadata PPT untuk memahami usia, kepemilikan, dan kesenjangan pemeliharaan di seluruh dek arsip.
+
+
+
+* **Penilaian Kesiapan Migrasi**
+
+  Gunakan metadata untuk memprioritaskan dek PPT mana yang harus dikonversi atau diperbarui terlebih dahulu.
+
+
+
+* **Pengalihan Pemeliharaan Berbasis Kepemilikan**
+
+  Identifikasi pemelihara dari bidang penulis/editor untuk mengarahkan permintaan pembaruan dengan efisien.
+
+
+
+* **Analitika Portofolio Konten**
+
+  Gabungkan metadata PPT untuk mengukur cakupan perpustakaan, kekunoan, dan risiko operasional.
+
+
+
+* **Deteksi Aset Duplikat**
+
+  Gunakan pola metadata untuk mendeteksi kemungkinan duplikat dan mengurangi kekacauan perpustakaan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Saluran Penyerapan Dek Lama**
+
+  Secara otomatis menyerap file PPT, ekstraksi metadata, dan menetapkannya ke sistem inventaris dengan bidang standar.
+
+
+
+* **Otomatisasi Antrian Konversi**
+
+  Tambahkan dek PPT ke antrian konversi berdasarkan usia metadata dan aturan klasifikasi penggunaan.
+
+
+
+* **Alur Kerja Pemberitahuan Dek Kuno**
+
+  Pemicu peringatan ketika metadata PPT menunjukkan periode panjang tanpa pembaruan atau bidang kepemilikan yang hilang.
+
+
+
+* **Pekerjaan Pembersihan Perpustakaan Otomatis**
+
+  Secara berkala memindai repositori PPT dan karantina aset yang diidentifikasi sebagai duplikat atau tidak dikelola berdasarkan metadata.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

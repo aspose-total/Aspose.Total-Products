@@ -79,7 +79,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API合并PowerPoint幻灯片格式，实现统一的可播放演示文稿。这些格式设计用于直接演示，而非编辑。
+
+
+
+自动化确保团队和活动间幻灯片交付的一致性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **幻灯片序列组装（PPS）**  
+
+&nbsp; 将PPS文件合并成一个演示流程。
+
+
+
+* **活动演示文稿编制（PPS）**  
+
+&nbsp; 为会议或会议合并幻灯片文件。
+
+
+
+* **演示文稿播放打包（PPS）**  
+
+&nbsp; 将PPS文件汇总为一个可执行的幻灯片。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化活动幻灯片准备（PPS）**  
+
+&nbsp; 系统在计划的活动前合并PPS文件。
+
+
+
+* **后端幻灯片生成（PPS）**  
+
+&nbsp; 触发PPS合并的程序化操作。
+
+
+
+* **演示文稿交付自动化（PPS）**  
+
+&nbsp; 幻灯片会自动合并以供播放。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

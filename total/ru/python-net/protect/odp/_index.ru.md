@@ -71,7 +71,77 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODP файлы обычно используются для рабочих процессов презентаций по открытым стандартам. Защита этих файлов презентаций гарантирует сохранение визуального контента и сообщений во время обмена и совместной работы.
+
+
+
+С помощью Python API презентации ODP могут быть автоматически защищены, обеспечивая безопасное обращение в масштабируемых системах генерации и доставки презентаций.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* **Защита целостности презентации**  
+
+&nbsp; Предотвращение несанкционированных изменений слайдов и макетов.
+
+
+
+* **Конфиденциальные брифинги**  
+
+&nbsp; Защита конфиденциальных презентаций перед внутренним или внешним обменом.
+
+
+
+* **Стандартизированное управление презентациями**  
+
+&nbsp; Применение последовательных правил защиты ко всем ODP файлам.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматическая защита слайдов**  
+
+&nbsp; Защита ODP файлов сразу после автоматического создания.
+
+
+
+* **Применение безопасности на основе конвейера**  
+
+&nbsp; Применение защиты во время рабочих процессов контента в стиле CI/CD.
+
+
+
+* **Программный доступ к ограничениям**  
+
+&nbsp; Динамическое управление правами на редактирование и просмотр с помощью скриптов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

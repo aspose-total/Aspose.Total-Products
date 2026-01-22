@@ -89,7 +89,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API查看PowerPoint演示文稿，可以通过编程方式访问基于幻灯片的内容进行审查和验证。
+
+这支持自动报告、演示文稿工作流程和内容管道。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **幻灯片内容审查**  
+
+  查看幻灯片而无需打开演示文稿软件。
+
+
+
+* **演示文稿质量检查**  
+
+  检查幻灯片布局和文本。
+
+
+
+* **报告自动化支持**  
+
+  在分发之前验证生成的演示文稿。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化幻灯片生成审查**  
+
+  Python工作流在自动创建后显示幻灯片。
+
+
+
+* **批量演示文稿审计**  
+
+  多个演示文稿通过编程方式进行审查。
+
+
+
+* **利益相关者的预览服务**  
+
+  幻灯片动态呈现以供批准工作流程。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

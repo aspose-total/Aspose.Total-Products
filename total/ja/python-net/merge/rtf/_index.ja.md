@@ -78,7 +78,69 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PythonのAPIを使用してRich Text Format（RTF）ドキュメントをマージすると、基本的な書式と可読性を保持しながら、軽量なドキュメントの統合が可能になります。RTFは、さまざまなプラットフォームやシステム間での相互運用性のために広く使用されています。
+
+
+
+自動化されたRTFのマージは、シンプリシティと互換性が重要な環境で、迅速でプログラム可能なドキュメント処理をサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **軽量なドキュメントの編纂（RTF）**  
+  Merge multiple RTF files into a single readable document.
+
+
+
+* **クロスシステムコンテンツの交換（RTF）**  
+  Combine RTF documents shared between heterogeneous systems.
+
+
+
+* **プレーンな書式の保存（RTF）**  
+  Aggregate RTF files while retaining essential formatting.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **バックエンドテキスト処理パイプライン（RTF）**  
+  RTF merging is automated within text-processing services.
+
+
+
+* **大量のドキュメント処理（RTF）**  
+  Systems merge large numbers of RTF files programmatically.
+
+
+
+* **互換性重視の自動化（RTF）**  
+  RTF files are merged automatically for maximum portability.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

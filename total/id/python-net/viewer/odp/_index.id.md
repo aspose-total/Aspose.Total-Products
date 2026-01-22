@@ -89,7 +89,73 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Melihat file ODP menggunakan API Python memungkinkan inspeksi dokumen presentasi terbuka dalam format yang netral terhadap platform.
+
+Hal ini mendukung interoperabilitas dan alur kerja presentasi otomatis.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Ulasan Presentasi Terbuka**  
+
+&nbsp; Melihat slide yang dibuat dalam format dokumen terbuka.
+
+
+
+* **Validasi lintas platform**  
+
+&nbsp; Memastikan presentasi dirender secara konsisten.
+
+
+
+* **Inspeksi Konten Presentasi**  
+
+&nbsp; Meninjau teks dan struktur slide.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Audit Presentasi Otomatis**  
+
+&nbsp; Alur kerja Python merender file ODP untuk ulasan.
+
+
+
+* **Pengecekan Interoperabilitas**  
+
+&nbsp; Slide dilihat untuk memastikan kompatibilitas format.
+
+
+
+* **Layanan Pratinjau**  
+
+&nbsp; Presentasi ditampilkan secara dinamis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

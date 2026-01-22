@@ -85,7 +85,69 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API合并TIFF图像，支持常用于印刷、医学影像和文档扫描的高分辨率、多页图像工作流。
+
+
+
+自动化能够可靠处理大量、细节丰富的图像集。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* **多页扫描组装（TIFF）**  
+  合并TIFF页面为单个多页文件。
+
+
+
+* **高分辨率图像处理（TIFF）**  
+  合并TIFF图像进行详细分析。
+
+
+
+* **适用于印刷的图像编译（TIFF）**  
+  聚合TIFF文件以用于出版工作流。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化扫描管道（TIFF）**  
+  系统在扫描摄入过程中合并TIFF文件。
+
+
+
+* **批量高分辨率处理（TIFF）**  
+  定时作业中运行的TIFF合并。
+
+
+
+* **企业图像自动化（TIFF）**  
+  自动化工作流管理大型TIFF数据集。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La signature des fichiers PPT avec les API Python prend en charge les flux de travail de présentation hérités où les anciens formats PowerPoint sont toujours nécessaires. Cela ajoute des indicateurs de gouvernance et d'approbation sans forcer des mises à niveau de format immédiates.
+
+
+
+La signature automatisée des PPT aide les équipes à maintenir des contrôles d'approbation cohérents à travers des référentiels de présentations de formats mixtes.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Marquage d'approbation de deck hérité**  
+
+&nbsp; Signer des decks PPT utilisés dans des environnements de livraison archivés ou plus anciens.
+
+
+
+* **Certification d'archive de formation**  
+
+&nbsp; Appliquer des marques d'approbation aux decks de formation PPT stockés à long terme.
+
+
+
+* **Attribution de propriété de présentation**  
+
+&nbsp; Signer des fichiers PPT pour indiquer clairement qui a approuvé la distribution.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Signature d'ingestion d'archive**  
+
+&nbsp; Signer automatiquement les fichiers PPT lorsqu'ils sont déplacés dans un stockage d'archives.
+
+
+
+* **Déclencheur d'approbation de flux de travail hérité**  
+
+&nbsp; Signer les documents PPT après la finalisation des processus de révision hérités.
+
+
+
+* **Gouvernance du référentiel par lots**  
+
+&nbsp; Signer de manière programmatique de grands ensembles de fichiers PPT pour standardiser les référentiels historiques.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

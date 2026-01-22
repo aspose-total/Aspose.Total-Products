@@ -76,7 +76,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Hledání souborů **PPTX** pomocí Python API poskytuje spolehlivý přístup k moderním prezentacím obsahujícím strukturované rozložení snímků, textové bloky a poznámky řečníka. Soubory PPTX jsou široce využívány pro reporting, školení a obsah pro rozhodování.
+
+
+
+Automatizované vyhledávání PPTX podporuje škálovatelnou analýzu snímků, inteligentní získávání a bezproblémovou integraci s informačními a správcovskými systémy obsahu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Strukturované vyhledávání snímků**  
+
+&nbsp; Vyhledává názvy, odrážky a poznámky v souborech PPTX.
+
+
+
+* **Analýza obsahu prezentace**  
+
+&nbsp; Identifikuje klíčová témata a sekce programově.
+
+
+
+* **Objevování opakovaně použitelných snímků**  
+
+&nbsp; Najde snímky vhodné k opětovnému použití v reportech nebo prezentacích.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Průběžné aktualizace indexu PPTX**  
+
+&nbsp; Python služby monitorují a indexují nové soubory PPTX.
+
+
+
+* **Automatizovaná klasifikace snímků**  
+
+&nbsp; Snímky jsou kategorizovány na základě extrahovaného obsahu.
+
+
+
+* **PPTX obsahové kanály**  
+
+&nbsp; Výsledky vyhledávání napájejí dashboardy a automatizační pracovní postupy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

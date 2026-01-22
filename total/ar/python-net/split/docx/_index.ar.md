@@ -79,7 +79,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX هو تنسيق وثيقة حديث قائم على XML مصمم لتخزين المحتوى المهيكل والقابل للتوسيع. يسمح تقسيم ملفات DOCX بالوصول الدقيق إلى مكونات المستند مثل العناوين أو الجداول أو الأقسام.
+
+
+
+يعزز تقسيم DOCX بناءً على Python الأتمتة من خلال تمكين تحليل النظام البياني، ومعالجة موسعة، والتكامل السلس مع أنظمة إدارة المحتوى.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **نشر المستندات القابلة للتعديل**  
+
+&nbsp; يمكن تقسيم ملفات DOCX الكبيرة إلى أقسام جاهزة للنشر.
+
+
+
+* **استخراج المحتوى الانتقائي**  
+
+&nbsp; يتم استخراج الأجزاء ذات الصلة فقط لسير العمل المستهدف.
+
+
+
+* **مراقبة إصدار المستند**  
+
+&nbsp; تمكن الأقسام المقسمة من تتبع وتحديث مستقل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **تقسيم الوثائق بناءً على العناوين**  
+
+&nbsp; تقوم النصوص بتقسيم المستندات باستخدام العلامات الهيكلية.
+
+
+
+* **معالجة المحتوى بناءً على الأنابيب**  
+
+&nbsp; تتدفق الأقسام المستخرجة تلقائيًا إلى مراحل التحقق أو التقديم.
+
+
+
+* **فحوصات الامتثال الآلي**  
+
+&nbsp; يتم التحقق من كل قسم بشكل مستقل ضد القواعد.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -139,7 +207,7 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

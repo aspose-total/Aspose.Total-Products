@@ -76,7 +76,87 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+v{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+הטבעת מצגות **PowerPoint** באמצעות Python APIs עוזרת לאבטח תוכן השקפים על ידי סימון בעלות, סודיות והגבלות שיתוף על מקורות המידע שמשמשים למכירות, הכשרה ותקשורת פנימית.
+
+האוטומציה מבטיחה יישום אחיד של סימונים במקרים רבים, מסדרת את שלטון המצגות עם מערכות עבודה ואישור עכשוויות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **סימון מצגת סודית**  
+
+  חותמת על המצגות תווי סודיות כדי להפחית מהעברה בלתי רצויה.
+
+
+
+* **הודעות בעלות לתמיכה במכירות**  
+
+  הוספת סימוני בעלות להגנת קניין רוחני של השקפים המשותפים בין צוותים מבוזרים.
+
+
+
+* **ניתוב מקור לחומרי הכשרה**  
+
+  סימון חומרי הכשרה כדי לשמור על זהות המקור במהלך השימוש המחודש.
+
+
+
+* **מפתחים לבדיקת טיוטה**  
+
+  יישום תווי "טיוטה" עד שהתוכן מאושר להפצה רחבה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **יישום סימון בלולאת השקפים**  
+
+  יישום אוטומטי של סימונים בכל שקף כדי להבטיח גישות עקביות.
+
+
+
+* **שינויי סימון בהתאם למחזור חיים**  
+
+  החלפה מתו "טיוטה" ל"מאושר" כאשר מתרחשים עדכונים בסטטוס התהליך.
+
+
+
+* **סימון אוטומטי באירועי ייצוא**  
+
+  סימון מצגות בעת ייצואן מהמערכות הפנימיות או הפורטלים.
+
+
+
+* **כללי שלטון ספציפיים למחלקות**  
+
+  יישום מדיניות סימון שונה בהתאם לקטגורית המצגת או לצוות הבעלים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

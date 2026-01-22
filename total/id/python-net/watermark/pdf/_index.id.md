@@ -73,7 +73,85 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Memberi Watermark pada dokumen **PDF** dengan Python API adalah cara umum untuk melindungi file yang sudah selesai, dapat dibagikan dengan menambahkan label kepemilikan yang terlihat, label kerahasiaan, atau tanda bukti tanpa harus mengandalkan akses pengeditan.
+
+Pemberian watermark PDF otomatis mendukung alur kerja yang dapat diskalakan seperti penstempelan massal, routing berbasis kebijakan, dan pelabelan kepatuhan yang konsisten di seluruh arsip dokumen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Perlindungan Laporan Rahasia**  
+
+&nbsp; Terapkan tanda kerahasiaan yang terlihat untuk mencegah redistribusi yang tidak sah.
+
+
+
+* **Salinan Bukti untuk Tinjauan dan Persetujuan**  
+
+&nbsp; Tandai "PROOF" pada PDF yang dibagikan untuk umpan balik untuk mengurangi kebingungan dengan versi final.
+
+
+
+* **Label Kepemilikan Faktur dan Laporan**  
+
+&nbsp; Tambahkan tanda identitas organisasi ke dalam PDF keuangan yang digunakan di seluruh departemen.
+
+
+
+* **Berbagi Terkendali untuk Dokumen Hukum**  
+
+&nbsp; Watermark pengajuan sensitif dan perjanjian untuk memperkuat harapan penanganan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Penstempelan Massal untuk Pengisian Kembali Arsip**  
+
+&nbsp; Secara otomatis menstempel PDF historis saat bermigrasi ke repositori baru.
+
+
+
+* **Aturan Penempatan Watermark yang Sadar Halaman**  
+
+&nbsp; Sesuaikan posisi watermark berdasarkan ukuran halaman dan orientasi secara programatis.
+
+
+
+* **Penstempelan Finalisasi yang Dipicu Alur Kerja**  
+
+&nbsp; Tambahkan watermark "FINAL" ketika persetujuan selesai dalam sistem otomatis.
+
+
+
+* **Konten Watermark Dinamis dengan Timestamp**  
+
+&nbsp; Hasilkan watermark yang berisi tanggal, ID permintaan, atau metadata penerima untuk pelacakan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

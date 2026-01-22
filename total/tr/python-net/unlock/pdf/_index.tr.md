@@ -71,7 +71,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PDF dosyaları genellikle hassas bilgileri korumak için kilitlenir, ancak kontrol edilmiş kilidin otomasyon, analiz ve yasal yeniden kullanım için önemli olduğu unutulmamalıdır. Programatik erişim, korunan PDF'lerin hala modern dijital iş akışlarına katılabileceğini sağlar.
+
+
+
+Python API'leri PDF kilidini güvenli ve ölçeklenebilir bir şekilde ele almayı sağlar, veri çıkarma, dizinleme ve dönüşüm sistemleriyle entegre olabilir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Metin ve Veri Çıkarma**  
+
+&nbsp; Analiz ve raporlama için korunan içeriğe erişimi sağlar.
+
+
+
+* **Belge İnceleme Otomasyonu**  
+
+&nbsp; İnceleme döngüleri sırasında kilitli dosyaların otomatik denetimini destekler.
+
+
+
+* **Format Dönüşümü Boruları**  
+
+&nbsp; Güvenli PDF'lerin düzenlenebilir veya aranabilir formatlara dönüştürülmesine izin verir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik OCR İş Akışları**  
+
+&nbsp; Metin tanıma ve zenginleştirme işlemlerinden önce PDF'ler kilidini açılır.
+
+
+
+* **Arama İndeks Oluşturma**  
+
+&nbsp; Korunan içerik programatik olarak kilidi açılır ve dizinlenir.
+
+
+
+* **Toplu Uyumluluk İşleme**  
+
+&nbsp; Zamanlanmış uyumluluk operasyonları sırasında büyük PDF setleri kilidi açılır.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

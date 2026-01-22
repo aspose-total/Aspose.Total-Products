@@ -71,7 +71,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Words for Python via .
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chữ ký tài liệu ODT bằng Python APIs cho phép tài liệu văn bản định dạng mở mang theo dấu chứng nhận được xác thực và dữ liệu người ký. Điều này hỗ trợ vòng đời tài liệu kiểm soát mà không phụ thuộc vào định dạng độc quyền.
+
+
+
+Trong các đường ống tự động hóa, việc ký ODT đảm bảo các phê duyệt được áp dụng một cách nhất quán tại điểm đóng xem xét, cải thiện khả năng kiểm toán và giảm việc xử lý tài liệu thủ công.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Phê Duyệt Chính Sách Định Dạng Mở**  
+
+&nbsp; Ký tài liệu chính sách ODT để xác nhận xem xét cuối cùng và ủy quyền.
+
+
+
+* **Đóng Quy Trình Biên Tập**  
+
+&nbsp; Áp dụng chữ ký vào bản nháp ODT khi xem xét nội dung hoàn thành.
+
+
+
+* **Quản Lý Cơ Sở Kiến Thức Nội Bộ**  
+
+&nbsp; Ký tài liệu ODT trước khi xuất bản vào các kho lưu trữ chia sẻ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Kích Hoạt Hoàn Thành Người Xem Xét**  
+
+&nbsp; Tự động ký các tệp ODT khi tất cả người xem xét được giao hoàn thành phê duyệt.
+
+
+
+* **Cổng Xuất Bản Kho Lưu Trữ**  
+
+&nbsp; Ký tài liệu ODT trước khi chúng được đẩy lên xuất bản cơ sở kiến thức.
+
+
+
+* **Chèn Dấu Vết Kiểm Toán Tự Động**  
+
+&nbsp; Đính kèm dữ liệu người ký và thời gian trong quá trình chạy ký ODT.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

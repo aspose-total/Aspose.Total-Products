@@ -79,7 +79,85 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Vodoznakování souborů **PPT** pomocí Python API pomáhá chránit staré prezentace v PowerPointu přidáním viditelných kontrolních štítků bez potřeby ručních úprav v původním prostředí autora.
+
+Automatizace podporuje konzistentní vodoznakování starých balíčků, umožňuje škálovatelnou správu archivů, prodejních knihoven a zděděných prezentací.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Důvěrnost starých balíčků**  
+
+&nbsp; Přidejte značky "DŮVĚRNÉ" k starým balíčkům PPT stále používaným interně.
+
+
+
+* **Ovládací prvky pouze pro ověření**  
+
+&nbsp; Přidejte překryvné nápisy "K HODNOCENÍ" k zabránění náhodné veřejné distribuci.
+
+
+
+* **Vlastnické štítky pro historické duševní vlastnictví**  
+
+&nbsp; Vodoznačte staré snímky pro zachování připisování při kopírování prezentací.
+
+
+
+* **Knihovny snímků s omezeným přístupem pro partnery**  
+
+&nbsp; Vložte omezení do balíčků PPT distribuovaných externím spolupracovníkům.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* **Hromadné vodoznakování PPT v celém archivu**  
+
+&nbsp; Automaticky razítkujte celé staré adresáře pro standardizaci správy.
+
+
+
+* **Automatizované umístění s ohledem na rozvržení**  
+
+&nbsp; Umístěte vodoznaky na základě rozložení snímků, abyste zabránili překrývání obsahových bloků.
+
+
+
+* **Generování verzí výstupu**  
+
+&nbsp; Programově vytvářejte vodoznakované varianty "náhledu" a "interní".
+
+
+
+* **Spouštěné razítkování požadavků na přístup**  
+
+&nbsp; Při automatickém požadavku na přístup k balíčkům aplikujte vodoznaky specifické pro příjemce.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

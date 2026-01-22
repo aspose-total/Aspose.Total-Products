@@ -73,7 +73,85 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri kullanarak **PDF** belgelerine filigran eklemek, düzenleme erişimine dayanmadan görünür sahiplik, gizlilik etiketleri veya kanıt işaretleri ekleyerek sonlandırılmış, paylaşılabilir dosyaları korumanın yaygın bir yoludur.
+
+Otomatik PDF filigranlama, toplu damgalama, politika tabanlı yönlendirme ve belge arşivlerinde tutarlı uyumluluk etiketlemesi gibi ölçeklenebilir iş akışlarını destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Gizli Rapor Koruma**  
+
+&nbsp; Yetkisiz yeniden dağıtımı caydırmak için görünür gizlilik işaretleri uygulayın.
+
+
+
+* **İnceleme ve Onay İçin Kanıt Kopyaları**  
+
+&nbsp; Karışıklığı azaltmak için geri bildirim için paylaşılan PDF'ler üzerine "KANIT" damgası vurun.
+
+
+
+* *\{Fatura ve Beyan Sahiplik Etiketleri**  
+
+&nbsp; Bölümler arasında kullanılan finansal PDF'lere kuruluş kimlik işaretleri ekleyin.
+
+
+
+* **Hukuki Belgeler İçin Kontrollü Paylaşım**  
+
+&nbsp; İşleme beklentilerini pekiştirmek için hassas dosyaları ve anlaşmaları filigranlayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Arşiv Geri Doldurmaları İçin Toplu Filigranlama**  
+
+&nbsp; Yeni bir depoya göç sırasında tarihsel PDF'leri otomatik olarak damgalayın.
+
+
+
+* **Sayfa Bilincinde Filigran Yerleştirme Kuralları**  
+
+&nbsp; Filigran konumlandırmasını sayfa boyutuna ve yönelimine göre programlı olarak ayarlayın.
+
+
+
+* **İş Akışı Tetiklemeli Sonlandırma Damgaları**  
+
+&nbsp; Onaylar otomatik bir sistemde tamamlandığında "SON" filigranlarını ekleyin.
+
+
+
+* **Zaman Damgaları İçeren Dinamik Filigran İçeriği**  
+
+&nbsp; Takip edilebilirlik için tarih, talep kimliği veya alıcı meta verileri içeren filigranlar oluşturun.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

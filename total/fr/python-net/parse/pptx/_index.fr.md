@@ -100,7 +100,75 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'analyse des **présentations PPTX** à l'aide des API Python permet un accès structuré au texte des diapositives, aux titres, aux puces, aux mises en page et aux notes du présentateur des fichiers de présentation modernes. L'analyse des PPTX rend les connaissances basées sur les diapositives accessibles au-delà de la simple visualisation manuelle.
+
+
+
+Dans les systèmes pilotés par l'automatisation, l'analyse des PPTX prend en charge la réutilisation du contenu, la synthèse, l'analyse et l'intégration avec la gestion des connaissances et les pipelines de reporting.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Extraction de contenu des diapositives**  
+
+&nbsp; Récupère le texte structuré et les éléments de mise en page des diapositives de présentation.
+
+
+
+* **Exploration des connaissances de la présentation**  
+
+&nbsp; Convertit les jeux de diapositives en sources de contenu recherchables et analysables.
+
+
+
+* **Flux de travail de réutilisation de contenu**  
+
+&nbsp; Permet la réutilisation du matériel de présentation à travers la documentation et les plateformes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Ingestion automatisée de présentations**  
+
+&nbsp; Traite automatiquement les fichiers PPTX lors du téléchargement ou selon un calendrier.
+
+
+
+* **Pipelines de résumé au niveau des diapositives**  
+
+&nbsp; Génère des résumés concis à partir du contenu des diapositives analysé.
+
+
+
+* **Automatisation de la comparaison des versions**  
+
+&nbsp; Détecte de manière programmée les changements entre plusieurs versions de présentation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

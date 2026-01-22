@@ -89,7 +89,75 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+عرض ملفات PPSM باستخدام واجهات برمجة تطبيقات Python يمكن من تفتيش آمن لعروض الشرائح الممكنة للتشغيل التلقائي.
+
+هذا يدعم سير العمل الآلي المراقب حيث يكون الرؤية مطلوبة دون تنفيذ الماكروهات المضمنة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **مراجعة عروض الشرائح الممكنة للماكرو**  
+
+&nbsp; عرض محتوى العرض التقديمي مع الحفاظ على عدم تنشيط الماكروهات.
+
+
+
+* **تفتيش تدفق التشغيل**  
+
+&nbsp; تفتيش ترتيب الشرائح وهيكل العرض التقديمي المقصود للعرض التلقائي.
+
+
+
+* **التحقق الآمن من التوزيع**  
+
+&nbsp; مراجعة ملفات PPSM قبل المشاركة أو النشر المراقب.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **أنابيب استقبال العروض التقديمية الآمنة**  
+
+&nbsp; سير العمل بلغة Python يقوم بتقديم ملفات PPSM بأمان أثناء الاستيعاب.
+
+
+
+* **أتمتة مراجعة موجهة للامتثال**  
+
+&nbsp; يتم عرض العروض التقديمية كجزء من فحوصات السياسات الآلية.
+
+
+
+* **سير العروض التقديمية قبل الموافقة**  
+
+&nbsp; تدعم المعاينات الآلية الموافقات البشرية أو القائمة على النظام.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Oznakowanie watermarkiem arkuszy kalkulacyjnych **XLSX** za pomocą interfejsów API w języku Python dodaje widoczną kontrolę do nowoczesnych plików Excel, pomagając w komunikacji poufności, własności i zamierzonego zastosowania bezpośrednio w treściach z dużą ilością danych.
+
+Automatyzacja umożliwia skalowalne oznakowanie watermarkiem XLSX dla systemów raportowania, operacji finansowych i eksportów analitycznych, gdzie wymagane jest spójne oznakowanie zgodne z polityką.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+
+
+* **Oznakowanie poufnego raportu KPI**  
+
+&nbsp; Oznaczaj raporty wydajności wodnym znakiem, aby zmniejszyć niezamierzone rozpowszechnianie.
+
+
+
+* **Kontrolowane udostępnianie danych do ekstrakcji**  
+
+&nbsp; Dodaj oznaczenia "TYLKO WEWNĘTRZNE" do wyeksportowanych zbiorów danych, aby wzmocnić kontrolę.
+
+
+
+* **Wskaźniki stanu zatwierdzenia dla prognoz**  
+
+&nbsp; Oznaczaj modele planowania jako "PROJEKT" lub "ZATWIERDZONY", aby zapobiec błędnemu interpretowaniu.
+
+
+
+* **Identyfikacja arkusza kalkulacyjnego dla konkretnego klienta**  
+
+&nbsp; Wstaw identyfikatory klientów do udostępnionych arkuszy kalkulacyjnych dla możliwości śledzenia.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Oznakowanie potoku dla automatycznych raportów**  
+
+&nbsp; Dodawaj znaki wodne podczas generowania raportu, aby zapewnić spójną kontrolę.
+
+
+
+* **Dynamiczny watermark zgodnie z politykami dostępu**  
+
+&nbsp; Generuj tekst watermarku na podstawie poziomu wrażliwości i uprawnień użytkownika.
+
+
+
+* **Automatyczne pokrycie wieloma arkuszami**  
+
+&nbsp; Zapewnij widoczność watermarku na odpowiednich arkuszach i widokach programowo.
+
+
+
+* **Oznakowanie przyjazne audytowi z identyfikatorami**  
+
+&nbsp; Dodawaj znaki wodne zawierające identyfikatory uruchomień lub odwołań do partii, aby wspierać audyty automatyczne.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

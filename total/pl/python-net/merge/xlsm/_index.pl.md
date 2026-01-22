@@ -78,7 +78,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Łączenie arkuszy kalkulacyjnych z makrami w Excelu za pomocą interfejsów API w języku Python umożliwia konsolidację logiki opartej na danych, obliczeń i automatyzacji wbudowanej w skorosze. Jest to powszechne w środowiskach operacyjnych i finansowych.
+
+
+
+Zautomatyzowane łączenie plików XLSM zapewnia zachowanie danych i zachowań sterowanych makrami w skalowalnych systemach.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Składanie raportów sterowanych makrami (XLSM)**  
+
+&nbsp; Łączenie plików XLSM zawierających zautomatyzowane obliczenia i logikę.
+
+
+
+* **Konsolidacja operacyjnych skoroszytów (XLSM)**  
+
+&nbsp; Łączenie arkuszy kalkulacyjnych z makrami między działami.
+
+
+
+* **Pakowanie automatyzacji procesów (XLSM)**  
+
+&nbsp; Łączenie plików XLSM używanych w powtarzalnych procesach operacyjnych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Generowanie skoroszytów oparte na regułach (XLSM)**  
+
+&nbsp; Systemy łączą pliki XLSM na podstawie zdefiniowanych reguł automatyzacji.
+
+
+
+* **Automatyczne modelowanie finansowe (XLSM)**  
+
+&nbsp; Łączenie plików XLSM wspiera powtarzalne procesy finansowe.
+
+
+
+* **Kontrolowane zachowanie makr (XLSM)**  
+
+&nbsp; Zautomatyzowane potoki łączą pliki XLSM zachowując makra.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

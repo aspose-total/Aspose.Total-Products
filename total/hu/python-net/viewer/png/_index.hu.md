@@ -82,7 +82,73 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A PNG megtekintése Python API-k használatával támogatja a magas minőségű, veszteségmentes képalkotást átlátszóságkezeléssel.
+
+Ez ideális automatizálási forgatókönyökhöz, amelyek vizuális pontosságot és rugalmas képintegrációt igényelnek.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Veszteségmentes képellenőrzés**  
+
+&nbsp; Nézze meg a képeket tömörítési artefaktusok nélkül.
+
+
+
+* **Átlátszó eszközvizsgálat**  
+
+&nbsp; Pontosan ellenőrizze az alfa csatornával rendelkező képeket.
+
+
+
+* **UI eszközvalidálás**  
+
+&nbsp; Nézze át az alkalmazásokban vagy dokumentumokban használt vizuális eszközöket.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Eszközcsővezeték automatizálás**  
+
+&nbsp; A Python szkriptek PNG fájlokat hoznak létre a build vagy telepítési ellenőrzések során.
+
+
+
+* **Dinamikus előnézeti szolgáltatások**  
+
+&nbsp; A képek automatikusan megjelennek a vezérlőpulton vagy eszközökön.
+
+
+
+* **Vizuális regressziós tesztelés**  
+
+&nbsp; Az automatizált megtekintés támogatja a összehasonlítási és validálási munkafolyamatokat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

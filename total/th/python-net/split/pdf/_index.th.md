@@ -79,7 +79,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ไฟล์ PDF ใช้กันอย่างแพร่หลายสำหรับเอกสารรูปแบบคงที่ที่เนื้อหากระจายไปที่หน้าต่าง การแยก PDF ช่วยให้สามารถเข้าถึงระดับหน้าหรือระดับส่วนโดยไม่ต้องแก้ไขไฟล์เดิม
+
+
+
+การแยก PDF ด้วย Python ช่วยเสริมความอัตโนมัติโดยการประมวลผลขนาดใหญ่ เบื้องต้นการสกัดเลือกและการรวมระบบเอกสารได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **การสกัดหน้า**  
+
+&nbsp; แยกหน้าเฉพาะเพื่อตรวจสอบหรือกระจาย
+
+
+
+* **การแบ่งเอกสาร**  
+
+&nbsp; แยก PDF ขนาดใหญ่เป็นส่วนต่างๆ
+
+
+
+* **การจัดการความเป็นไปตามกฎหรือการตรวจสอบ**  
+
+&nbsp; สกัดส่วนที่เกี่ยวข้องเพื่อการตรวจสอบ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **ท่อประมวลผล PDF แบบกลุ่ม**  
+
+&nbsp; พันธุ์พันธุ์ของ PDF ถูกแยกโดยอัตโนมัติ
+
+
+
+* **การแยกหน้าตามกฎของระบบ**  
+
+&nbsp; ตรรกะ Python แยก PDF โดยใช้กฎหน้า
+
+
+
+* **การกระจายเนื้อหาโดยอัตโนมัติ**  
+
+&nbsp; PDF ที่ถูกสกัดถูกส่งไปยังระบบเป้าหมาย
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

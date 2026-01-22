@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+현대적인 Excel 워크북을 Python API를 사용하여 병합하는 것은 구조화된 데이터 세트, 보고서 및 모델을 결합하는 표준적인 방법입니다. XLSX는 현대 시스템에서 가장 널리 사용되는 스프레드시트 형식입니다.
+
+
+
+이 기능은 데이터 플랫폼과 완벽하게 통합되어 자동화된 스프레드시트 생성 및 대규모 통합을 가능하게 합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **다중 시트 보고서 생성 (XLSX)**  
+
+&nbsp; XLSX 파일을 포괄적인 보고서 워크북으로 병합합니다.
+
+
+
+* **데이터 원본 통합 (XLSX)**  
+
+&nbsp; 여러 시스템에서 XLSX 데이터 세트를 결합합니다.
+
+
+
+* **협업 데이터 어셈블리 (XLSX)**  
+
+&nbsp; 다양한 이해관계자가 기여한 XLSX 파일을 병합합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **동적 스프레드시트 생성 (XLSX)**  
+
+&nbsp; 시스템은 런타임 데이터 조건에 따라 XLSX 파일을 병합합니다.
+
+
+
+* **ETL 파이프라인 통합 (XLSX)**  
+
+&nbsp; XLSX 병합은 데이터 수집 파이프라인 내에서 자동화됩니다.
+
+
+
+* **확장 가능한 보고서 자동화 (XLSX)**  
+
+&nbsp; 대용량 XLSX 보고서가 프로그래밍 방식으로 병합됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

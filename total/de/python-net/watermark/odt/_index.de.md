@@ -79,7 +79,85 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Das Wasserzeichen von **ODT**-Dokumenten mit Python-APIs hilft dabei, Open Document Text-Dateien zu schützen, indem klare Eigentums- und Vertraulichkeitsmarkierungen hinzugefügt werden, während der Inhalt in offenen Ökosystemen zugänglich bleibt.
+
+Die Automatisierung ermöglicht konsistente Wasserzeichenregeln über ODT-Bibliotheken hinweg und unterstützt skalierbare Dokumentenverwaltung für Teams, die offene Formate verwenden.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Kennzeichnung von Richtlinien für offene Formate**  
+
+&nbsp; Stempeln Sie ODT-Dokumente mit "INTERN" oder "VERTRAULICH", um Fehlleitungen zu reduzieren.
+
+
+
+* **Entwurfskontrolle für kollaboratives Schreiben**  
+
+&nbsp; Wenden Sie "ENTWURF"-Überlagerungen während iterativer Bearbeitungszyklen an.
+
+
+
+* **Verteilerhinweise für freigegebene Dokumente**  
+
+&nbsp; Fügen Sie Wiederverwendungsbeschränkungen für Dokumente hinzu, die mit Auftragnehmern oder Partnern geteilt werden.
+
+
+
+* **Archividentitätserhaltung**  
+
+&nbsp; Wasserzeichen exportierter ODT-Dateien, sodass das Eigentum auch nach dem Kopieren zwischen Systemen sichtbar ist.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Dokumentengenerator + Wasserzeichenschritt**  
+
+&nbsp; Wasserzeichen automatisch auf ODT-Dateien anwenden, die aus Vorlagen oder strukturierten Daten erstellt wurden.
+
+
+
+* **Durchsetzung von Repository-Richtlinien**  
+
+&nbsp; Wasserzeichen anwenden, wenn ODTs in regulierte Ordner hochgeladen werden.
+
+
+
+* **Automatisches Wechseln von Wasserzeichen bei Versionen**  
+
+&nbsp; Ändern Sie den Wasserzeichentext programmgesteuert basierend auf dem Versionsstatus (Entwurf, Überprüfung, endgültig).
+
+
+
+* **Compliance-Export-Pipelines**  
+
+&nbsp; Stempeln Sie ODT-Exporte, die für Audits verwendet werden, um eine konsistente Kennzeichnung bei Einreichungen sicherzustellen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

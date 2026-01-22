@@ -76,7 +76,75 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Suche nach **PPT**-Dateien mit Python-APIs ermöglicht den Zugriff auf ältere Präsentationsdokumente, die immer noch wertvolle geschäftliche, Schulungs- und strategische Informationen enthalten. Die automatisierte Suche stellt sicher, dass ältere Folienstapel in großem Maßstab nutzbar und durchsuchbar bleiben.
+
+
+
+Durch die Integration der PPT-Suche in automatisierte Systeme reduzieren Organisationen den manuellen Aufwand und erschließen Erkenntnisse aus archivierten Präsentationsinhalten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Suche nach älterem Folieninhalt**
+
+&nbsp; Findet Schlüsselwörter in älteren PPT-Präsentationsdateien.
+
+
+
+* **Abruf archivierter Präsentationen**
+
+&nbsp; Ermöglicht das Auffinden historischer Folienstapel.
+
+
+
+* **Extrahierung von PPT-Text**
+
+&nbsp; Extrahiert Folientext für Indexierung und Analyse.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Automatisiertes Scannen von PPT-Repositorys**
+
+&nbsp; Python-Jobs scannen PPT-Dateien nach durchsuchbarem Inhalt.
+
+
+
+* **Erstellung eines Index für PPT-Archive**
+
+&nbsp; Ältere Präsentationen werden programmgesteuert indiziert.
+
+
+
+* **Integration von PPT-Inhalten**
+
+&nbsp; Extrahierte Daten speisen Berichterstellungs- und Analyse-Workflows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

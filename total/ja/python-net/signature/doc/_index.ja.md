@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCファイルのプログラムによる署名により、レガシーWord文書に形式変換せずに公式承認指標を付加できます。これにより、古い文書システムとの互換性が保たれながらガバナンスが追加されます。
+
+
+
+Pythonベースの自動化により、DOCの署名が一貫して行われ、文書が多いレガシーワークフローにおける手動介入が削減されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+
+
+* **レガシー契約承認**  
+
+&nbsp; 古いシステムで使用されるDOC契約に署名者の詳細を追加します。
+
+
+
+* **方針文書の承認**  
+
+&nbsp; DOCポリシーを見直し、承認済みとしてマークします。
+
+
+
+* **テンプレートベースの文書検証**  
+
+&nbsp; DOCテンプレートに完了チェック後に署名します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **フィールド完了トリガー署名**  
+
+&nbsp; 必須フィールドが入力されるとDOCファイルに署名が付加されます。
+
+
+
+* **承認ワークフロー統合**  
+
+&nbsp; バックエンドの承認ステータスの更新により署名がトリガーされます。
+
+
+
+* **レガシーアーカイブ認証**  
+
+&nbsp; DOCファイルはアーカイブされる前に署名されます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

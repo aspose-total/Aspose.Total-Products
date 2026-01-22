@@ -79,7 +79,85 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG DOC TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+파이썬 API를 사용하여 **DOC** 파일에 워터마킹을 적용하면 편집 가능한 콘텐츠 내에서 소유권, 기밀성 또는 배포 규칙을 명확히 표시하여 레거시 Word 문서를 보호할 수 있습니다.
+
+DOC 워터마킹을 자동화하면 문서 거버넌스에서 일관성을 향상시켜 조직이 대규모로 시각적 정책 제어를 강제할 수 있도록 도와줍니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **레거시 계약 기밀 스탬프**  
+
+&nbsp; 미인가된 공유를 줄이기 위해 이전 계약에 “기밀” 표시 추가.
+
+
+
+* **검토 주기 상태 라벨**  
+
+&nbsp; 문서를 “검토 중”으로 표시하여 초안의 조기 유통을 방지.
+
+
+
+* **템플릿을 위한 내부 정책 강제**  
+
+&nbsp; 거버넌스에 부합하도록 레거시 템플릿에 표준 워터마크 적용.
+
+
+
+* **특정 고객 배포 공지**  
+
+&nbsp; 허용된 사용 및 재배포 한도를 명확히 하는 고객용 공지 삽입.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **메일함에서 아카이브 문서 스탬핑**  
+
+&nbsp; 저장소에 저장하기 전에 DOC 첨부 파일에 자동으로 워터마크 적용.
+
+
+
+* **레거시 파일을 위한 폴더 감시자**  
+
+&nbsp; 디렉토리에서 새 DOC 파일을 감지하고 수동 단계 없이 정책 워터마크 적용.
+
+
+
+* **메타데이터 기반 워터마크 텍스트**  
+
+&nbsp; 부서, 프로젝트 또는 민감도 수준과 같은 문서 태그에서 워터마크 콘텐츠 생성.
+
+
+
+* **자동 “초고-최종” 전환**  
+
+&nbsp; 워크플로 시스템에 승인이 기록되면 초고 워터마크를 최종 라벨로 대체.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

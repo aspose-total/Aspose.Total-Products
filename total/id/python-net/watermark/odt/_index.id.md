@@ -79,7 +79,85 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Memberi Watermark pada dokumen **ODT** dengan Python APIs membantu melindungi file teks dokumen terbuka dengan menambahkan tanda kepemilikan dan kerahasiaan yang jelas sambil tetap menjaga konten dapat diakses dalam ekosistem terbuka.
+
+Automasi memungkinkan aturan watermark yang konsisten di seluruh perpustakaan ODT, mendukung tata kelola dokumen yang dapat diskalakan untuk tim yang menggunakan format terbuka.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Label Kebijakan Format Terbuka**  
+
+&nbsp; Tandai dokumen ODT dengan "INTERNAL" atau "CONFIDENTIAL" untuk mengurangi kesalahan pengalihan.
+
+
+
+* **Kontrol Draf untuk Penulisan Kolaboratif**  
+
+&nbsp; Terapkan overlay "DRAFT" selama siklus pengeditan berulang.
+
+
+
+* **Pemberitahuan Distribusi untuk Dokumen Bersama**  
+
+&nbsp; Tambahkan pembatasan penggunaan kembali ke dokumen yang dibagikan dengan kontraktor atau mitra.
+
+
+
+* **Pelestarian Identitas Arsip**  
+
+&nbsp; Watermark file ODT yang diekspor sehingga kepemilikan terlihat bahkan setelah disalin antar sistem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Generator Dokumen + Langkah Watermark**  
+
+&nbsp; Secara otomatis memberi watermark pada file ODT yang dihasilkan dari templat atau data terstruktur.
+
+
+
+* **Penegakan Kebijakan Repositori**  
+
+&nbsp; Terapkan watermark saat ODT diunggah ke folder yang diatur.
+
+
+
+* **Pengalihan Watermark Versi Otomatis**  
+
+&nbsp; Ubah teks watermark berdasarkan status versi (draf, tinjauan, final) secara programatis.
+
+
+
+* **Pipa Ekspor Kepatuhan**  
+
+&nbsp; Tandai ekspor ODT yang digunakan untuk audit untuk memastikan label yang konsisten di seluruh pengajuan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

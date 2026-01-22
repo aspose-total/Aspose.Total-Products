@@ -71,7 +71,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODP dosyaları genellikle açık standart sunum iş akışları için kullanılır. Bu sunum dosyalarını korumak, görsel içeriğin ve iletilerin paylaşım ve işbirliği sırasında bozulmadan kalmasını sağlar.
+
+
+
+Python API'leri ile ODP sunumları otomatik olarak korunabilir, böylece ölçeklenebilir sunum oluşturma ve dağıtım sistemlerinde güvenli bir şekilde işlenebilir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Sunum Bütünlüğü Koruma**  
+
+&nbsp; Slaytların ve düzenlerin izinsiz değişikliklere karşı korunmasını önleyin.
+
+
+
+* **Gizli Brifingler**  
+
+&nbsp; İç veya dış paylaşımdan önce hassas sunumları güvence altına alın.
+
+
+
+* **Standartlaştırılmış Sunum Yönetimi**  
+
+&nbsp; Tüm ODP dosyaları üzerinde tutarlı koruma kuralları uygulayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik Slayt Destek Koruma**  
+
+&nbsp; Oluşturulduktan hemen sonra ODP dosyalarını güvence altına alın.
+
+
+
+* **Pipeline Tabanlı Güvenlik Uygulaması**  
+
+&nbsp; CI/CD tarzı içerik iş akışları sırasında koruma uygulayın.
+
+
+
+* **Programatik Erişim Kısıtlamaları**  
+
+&nbsp; Betikler aracılığıyla düzenleme ve görüntüleme haklarını dinamik olarak kontrol edin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

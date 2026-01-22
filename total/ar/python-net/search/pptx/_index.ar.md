@@ -76,7 +76,75 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+البحث عن ملفات **PPTX** باستخدام واجهات برمجة التطبيقات في Python يوفر وصولًا موثوقًا إلى مستندات العروض التقديمية الحديثة التي تحتوي على تخطيطات شرائح منظمة، وكتل نصية، وملاحظات المتحدث. تُستخدم ملفات PPTX على نطاق واسع لأغراض التقارير والتدريب واتخاذ القرارات.
+
+
+
+يدعم البحث الآلي في ملفات PPTX تحليل الشرائح بشكل موسع، واسترداد ذكي، والتكامل السلس مع أنظمة إدارة المعرفة والمحتوى.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **بحث متكامل عن الشرائح**  
+
+&nbsp; يبحث في العناوين ونقاط البند والملاحظات داخل ملفات PPTX.
+
+
+
+* **تحليل محتوى العروض التقديمية**  
+
+&nbsp; يحدد المواضيع الرئيسية والأقسام بشكل برمجي.
+
+
+
+* **اكتشاف الشرائح القابلة لإعادة الاستخدام**  
+
+&nbsp; يحدد الشرائح المناسبة لإعادة الاستخدام في التقارير أو العروض.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **تحديثات فهرس PPTX المستمرة**  
+
+&nbsp; تراقب خدمات Python وتفهرس ملفات PPTX الجديدة.
+
+
+
+* **تصنيف الشرائح الآلي**  
+
+&nbsp; تُصنف الشرائح استنادًا إلى المحتوى المستخرج.
+
+
+
+* **خطوط أنابيب محتوى PPTX**  
+
+&nbsp; نتائج البحث تغذي لوحات المعلومات وأنظمة الأتمتة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

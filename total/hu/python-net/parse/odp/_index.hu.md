@@ -100,7 +100,75 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az **ODP prezentációs fájlok** elemzése Python API-k segítségével hozzáférést biztosít a diákokon alapuló tartalomhoz, amelyet nyílt prezentációs formátumokban tárolnak. Ez támogatja a strukturált kinyerést anélkül, hogy a szabadalmaztatott eszközökre támaszkodna.
+
+
+
+Az automatizált ODP elemzés lehetővé teszi a prezentációs adatok skálázható feldolgozását nyílt és kiterjeszthető ökoszisztémákban.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Nyílt prezentáció elemzés**  
+
+&nbsp; Kinyeri a dia szövegét és struktúráját az ODP fájlokból.
+
+
+
+* **Prezentációs tartalom indexelése**  
+
+&nbsp; A nyílt formátumú diákat keresővé és újrafelhasználhatóvá teszi.
+
+
+
+* **Adatkinyerés jelentésekhez**  
+
+&nbsp; Átalakítja a dia tartalmát strukturált adathalmazokká.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Automatizált diafeldolgozás**  
+
+&nbsp; Folyamatok ODP fájlokat ütemezett munkafolyamatok részeként.
+
+
+
+* **Tartalomegyezmény ellenőrzések**  
+
+&nbsp; Ellenőrzi a dia struktúráját meghatározott szabályok szerint.
+
+
+
+* **Keresztformátumú prezentációs csatornák**  
+
+&nbsp; Programozottan átalakítja az ODP tartalmat más formátumokba.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Объединение форматов шаблонов Excel с использованием API Python обеспечивает однородную структуру и макет в созданных электронных таблицах. Объединение на основе шаблонов критично для стандартизированной отчетности и рабочих процессов ввода данных.
+
+
+
+Автоматизация позволяет быстро создавать однородные электронные таблицы без ручного форматирования.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Сборка электронных таблиц на основе шаблонов (XLT)**  
+
+&nbsp; Объединение файлов на основе XLT для обеспечения однородного макета.
+
+
+
+* **Стандартизированный сбор данных (XLT)**  
+
+&nbsp; Объединение шаблонных электронных таблиц в один файл.
+
+
+
+* **Многократное использование структур электронных таблиц (XLT)**  
+
+&nbsp; Склейка документов XLT для поддержания однородного дизайна.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированное применение шаблонов (XLT)**  
+
+&nbsp; Файлы XLT объединяются автоматически во время создания.
+
+
+
+* **Пакетная обработка шаблонов (XLT)**  
+
+&nbsp; Запланированные задания объединяют несколько шаблонов на основе XLT.
+
+
+
+* **Управление макетом с помощью автоматизации (XLT)**  
+
+&nbsp; Системы объединяют файлы XLT для гарантии согласованности формата.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

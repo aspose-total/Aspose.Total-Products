@@ -72,7 +72,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Word belgeleri, iç yapılarından bağımsız olarak genellikle düzenlemeleri ve erişimi kontrol etmek için korunur. Onları programatik olarak kilidini açmak, otomasyon, analiz ve sistem entegrasyonu için yapılandırılmış erişimi sağlar.
+
+
+
+Python API'leri, Word belge kilidini güvenli bir şekilde belge borularına gömülmesini sağlayarak verimliliği ve tekrarlanabilirliği garanti altına alır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Birleşik Belge İşleme**  
+
+&nbsp; Korumalı kelime işlem dosyalarının tutarlı bir şekilde işlenmesini sağlar.
+
+
+
+* **Otomatik İçerik İncelemesi**  
+
+&nbsp; Manuel adımlar olmadan kilitli belgelerin denetimini destekler.
+
+
+
+* **Sistemden Sisteme Entegrasyon**  
+
+&nbsp; Korunan Word dosyalarının otomatik platformlardan geçmesine izin verir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Uçtan Uca Belge Boruları**  
+
+&nbsp; Word dosyaları otomatik olarak alım zamanında kilidi açılır.
+
+
+
+* **Politika Tabanlı Belge Erişimi**  
+
+&nbsp; Kilidin, iş akışı kuralları ve izinler tarafından tetiklenir.
+
+
+
+* **Sürekli İçerik Optimizasyonu**  
+
+&nbsp; Korunan belgeler, otomatik iyileştirmeler için kilidi açılır.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

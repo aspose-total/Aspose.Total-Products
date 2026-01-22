@@ -75,7 +75,93 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Python via
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Trích xuất siêu dữ liệu tài liệu cho các tệp **PPT** thông qua Python APIs cho phép quản lý tài sản trình bày cũ bằng cách đọc các thuộc tính như tác giả, thời gian, và các trường mô tả. Điều này hỗ trợ quản lý và khả năng tìm kiếm cho các tổ chức vẫn duy trì thư viện slide cũ.
+
+
+
+Trong quy trình làm việc tự động, siêu dữ liệu PPT có thể hỗ trợ phân loại, lập chỉ mục, và kiểm soát vòng đời—cho phép tổ chức tổ chức, kiểm tra, và di chuyển các bộ sưu tập lớn của các bài thuyết trình cũ một cách hiệu quả với ít công sức thủ công.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Kiểm Tra Thư Viện Slide Cũ**
+
+  Trích xuất siêu dữ liệu PPT để hiểu tuổi, sở hữu, và khoảng trống bảo trì trên các bộ slide lưu trữ.
+
+
+
+* **Đánh Giá Sẵn Sàng Di Chuyển**
+
+  Sử dụng siêu dữ liệu để ưu tiên xem xét các bộ slide PPT nào nên được chuyển đổi hoặc cập nhật trước.
+
+
+
+* **Định Tuyến Bảo Trì Dựa Trên Sở Hữu**
+
+  Xác định người duy trì từ các trường tác giả/biên tập để định tuyến yêu cầu cập nhật một cách hiệu quả.
+
+
+
+* **Phân Tích Tổng Hợp Bộ Sưu Tập Nội Dung**
+
+  Tổng hợp siêu dữ liệu PPT để đo lường phạm vi thư viện, sự lạc hậu, và rủi ro vận hành.
+
+
+
+* **Phát Hiện Tài Sản Trùng Lặp**
+
+  Sử dụng mẫu siêu dữ liệu để phát hiện các bản sao có khả năng và giảm lộn xộn trong thư viện.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Luồng Dữ Liệu Slide Cũ**
+
+  Tự động nhập các tệp PPT, trích xuất siêu dữ liệu, và gán chúng vào hệ thống kho hàng với các trường chuẩn.
+
+
+
+* **Tự Động Hóa Hàng Đợi Chuyển Đổi**
+
+  Thêm các bộ slide PPT vào hàng đợi chuyển đổi dựa trên tuổi siêu dữ liệu và quy tắc phân loại sử dụng.
+
+
+
+* **Luồng Thông Báo Slide Lạc Hậu**
+
+  Kích hoạt cảnh báo khi siêu dữ liệu PPT cho thấy thời gian dài mà không có cập nhật hoặc thiếu các trường sở hữu.
+
+
+
+* **Công Việc Dọn Dẹp Thư Viện Tự Động**
+
+  Định kỳ quét các kho PPT và cách ly tài sản được xác định là bản sao hoặc không được quản lý dựa trên siêu dữ liệu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

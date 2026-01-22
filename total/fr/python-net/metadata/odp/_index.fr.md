@@ -75,7 +75,93 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'extraction des métadonnées de documents pour les fichiers **ODP** via des API Python permet aux systèmes de lire les attributs de présentation et les propriétés intégrées des diaporamas, ce qui prend en charge la gouvernance, la découverte et la gestion du cycle de vie sans ouvrir le fichier dans une interface graphique. Cela est important pour les équipes qui gèrent de grands volumes de présentations de formation, de vente ou opérationnelles.
+
+
+
+Dans les flux de travail automatisés, les métadonnées ODP peuvent alimenter l'indexation, la classification et la publication contrôlée, rendant les bibliothèques de diapositives plus faciles à maintenir, à rechercher et à intégrer dans les systèmes de distribution de contenu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Indexation de la bibliothèque de présentations**
+
+  Extraire les métadonnées ODP pour construire des catalogues consultables de diaporamas par auteur, sujet et heure de mise à jour.
+
+
+
+* **Vérifications de la pertinence du contenu de formation**
+
+  Utiliser les horodatages modifiés pour identifier les diaporamas obsolètes nécessitant des cycles de mise à jour.
+
+
+
+* **Classification par département**
+
+  Normaliser les propriétés des métadonnées en catégories structurées pour une organisation et des contrôles d'accès cohérents.
+
+
+
+* **Rapports de gouvernance des actifs**
+
+  Agréger les métadonnées ODP pour mesurer la préparation à l'utilisation, les lacunes de couverture et la propriété de la maintenance.
+
+
+
+* **Préparation à la migration en masse**
+
+  Auditer les propriétés ODP avant la migration vers de nouveaux environnements de stockage ou de publication.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Ingestion automatisée de diaporamas**
+
+  À l'importation, extraire les métadonnées ODP et attribuer le diaporama à la section correcte du référentiel automatiquement.
+
+
+
+* **Automatisation des alertes de péremption**
+
+  Déclencher des alertes lorsque les diaporamas ODP dépassent les seuils de mise à jour ou manquent de champs de propriété de responsabilité.
+
+
+
+* **Règles de publication basées sur les métadonnées**
+
+  Publier ou restreindre les diaporamas ODP en fonction des indicateurs de métadonnées indiquant la confidentialité ou l'usage interne uniquement.
+
+
+
+* **Travaux d'audit et de rapports par lots**
+
+  Exécuter des tâches planifiées qui exportent des résumés de métadonnées ODP pour des audits de gouvernance et opérationnels.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

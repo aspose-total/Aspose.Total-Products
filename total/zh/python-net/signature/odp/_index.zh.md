@@ -73,7 +73,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API签署ODP演示文件有助于团队控制以开放格式创建的幻灯片堆栈的发布质量和所有权。这确保幻灯片堆栈仅在正式批准后分发。
+
+
+
+自动化后，ODP签署成为协作工作流程中可重复执行的治理步骤，改善版本控制并防止未经审查的幻灯片堆栈传播。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **培训幻灯片堆栈发布批准**  
+
+  签署ODP培训幻灯片堆栈以确认内部推出的准备情况。
+
+
+
+* **利益相关者审查确认**  
+
+  在利益相关者审查完成后向ODP幻灯片堆栈应用签名标记。
+
+
+
+* **合规性演示认证**  
+
+  签署政策或合规性幻灯片堆栈以记录谁批准了最终版本。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批准工作流触发签署**  
+
+  当系统中记录批准状态时自动签署ODP文件。
+
+
+
+* **在共享之前的堆栈完整性门控**  
+
+  仅在确认所需幻灯片和元数据存在后签署堆栈。
+
+
+
+* **批量签署发布周期**  
+
+  作为计划发布周期的一部分，以编程方式签署多个ODP幻灯片堆栈。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -82,7 +82,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API查看BMP文档，可可靠地呈现未压缩的位图图像，用于检查、验证和视觉工作流程，其中像素级准确性很重要。
+
+该功能支持自动化图像管道、预览系统和质量检查，无需手动干预。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* **像素精确图像审查**  
+
+  &nbsp; 准确查看位图图像，保留原始颜色和分辨率细节。
+
+
+
+* **遗留图像兼容性**  
+
+  &nbsp; 打开并显示存储在归档系统中常用的旧版或原始位图文件。
+
+
+
+* **视觉质量验证**  
+
+  &nbsp; 以编程方式检查图像，确保布局和呈现的正确性。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化图像验证**  
+
+  &nbsp; Python脚本在批量验证期间显示BMP文件，以检测视觉异常。
+
+
+
+* **预览生成管道**  
+
+  &nbsp; 位图文件会自动呈现用于仪表板或审查工具。
+
+
+
+* **图像工作流程调试**  
+
+  &nbsp; 自动查看器可帮助验证处理管道中的中间图像输出。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

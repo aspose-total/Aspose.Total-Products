@@ -79,7 +79,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOT soubory slouží jako šablony dokumentů, které definují strukturu a formátovací standardy. Rozdělení DOT souborů umožňuje analýzu a opakované využití jednotlivých komponent šablony.
+
+
+
+Automatizace rozdělování DOT souborů s využitím Pythonu podporuje škálovatelný management šablon a strukturované generování dokumentů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Opakované využití komponent šablony**  
+
+&nbsp; Extrahovat konkrétní části šablony pro opakované použití v různých dokumentech.
+
+
+
+* **Audit šablony**  
+
+&nbsp; Analyzovat jednotlivé části pro dodržování pravidel a konzistenci.
+
+
+
+* **Standardizované generování dokumentů**  
+
+&nbsp; Umožnit kontrolované využití prvků šablony.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizace analýzy šablony**  
+
+&nbsp; Python skripty izolují bloky šablony programově.
+
+
+
+* **Dynamické sestavování šablony**  
+
+&nbsp; Rozdělené komponenty jsou dynamicky znovu kombinovány podle potřeby.
+
+
+
+* **Pipeline pro vynucování pravidel**  
+
+&nbsp; Automatizované kontroly zajišťují použití pouze schválených sekcí.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

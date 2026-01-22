@@ -76,7 +76,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT, raporlar ve belgeler için yaygın olarak kullanılan açık belge metni biçimidir. ODT dosyalarını korumak, belge otantikliğini korumak ve kazara veya kötü niyetli değişiklikleri önlemek için önemlidir.
+
+
+
+Python tabanlı belge koruma, ODT güvenliğinin otomatik belgeleme ve yayınlama iş akışlarına minimum maliyetle entegre edilmesini sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Güvenli Rapor Dağıtımı**  
+
+&nbsp; Paylaşmadan önce sonlandırılmış ODT raporlarını koruyun.
+
+
+
+* **Belge Bütünlüğü**  
+
+&nbsp; Resmi belgelerin onaydan sonra değiştirilmeden kalmasını sağlayın.
+
+
+
+* **Çapraz Platform Belge Güvenliği**  
+
+&nbsp; Düzenleme ortamından bağımsız olarak koruma uygulayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik Belgeleme Akışları**  
+
+&nbsp; Sürekli belge oluşturmanın bir parçası olarak ODT dosyalarını koruyun.
+
+
+
+* **Kural Tabanlı Dosya Güvenliği**  
+
+&nbsp; Belge meta verilerine dayalı koruma politikaları uygulayın.
+
+
+
+* **Toplu Belge Sıkılaştırma**  
+
+&nbsp; Toplu işlemlerde programlı olarak birden fazla ODT dosyasını güvence altına alın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

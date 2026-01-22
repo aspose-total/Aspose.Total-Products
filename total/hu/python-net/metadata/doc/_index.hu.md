@@ -98,7 +98,93 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A dokumentum metaadat-kinyerése **DOC** fájlokból Python API-k segítségével lehetővé teszi a rendszerek számára, hogy olvassák és értelmezzék a fájl alapvető attribútumait - például szerző, létrehozási idő, utolsó módosítási idő, verziószám és beágyazott tulajdonságok - kézi ellenőrzés nélkül. Ez fontos a kormányzás, a keresési lehetőségek, az ellenőrzés és a tartalom életciklusának irányítása szempontjából a dokumentumokkal teli munkafolyamatok során.
+
+
+
+Amikor integrálják az automatizálási csővezetékekbe, a DOC metaadatok megbízható jelet jelentenek az irányítási, szabályozási ellenőrzések, indexelés és tétel feldolgozás számára - támogatva a skálázható dokumentum-műveleteket, a következetes osztályozást és az alárendelt integrációkat a tárolási, keresési és jelentési rétegekkel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* **Örökölt Dokumentumkészlet**
+
+  Metaadatok kinyerése DOC archívumokból egy strukturált index létrehozásához felfedezéshez, deduplikáláshoz és életciklus-tervezéshez.
+
+
+
+* **Szabályozási Időbélyeg Ellenőrzése**
+
+  Használja a létrehozott/módosított mezőket a megőrzési szabályok ellenőrzésére és a szabályozott dokumentumokban előforduló anomáliák észlelésére.
+
+
+
+* **Dokumentum Tulajdonosi Térképezés**
+
+  Olvassa el a szerző és az utolsó szerkesztő tulajdonságait a dokumentum tulajdonjogának leképezéséhez az áttekintési feladatokhoz és a hozzáférési vezérléshez.
+
+
+
+* **Tömeges Kategorizálás a Kereséshez**
+
+  Az ágyazott tulajdonságokat normalizált címkékké alakítja a következetes szűréshez és a belső keresés gazdagításához.
+
+
+
+* **Változás Visszakövethetőségi Jelek**
+
+  Rögzítse a verzióhoz kapcsolódó mezőket a visszakövethetőség támogatásához a szerkesztési és jóváhagyási folyamatokban.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* **Archívum Beviteli Kapu**
+
+  Automatikusan elfogadja vagy karanténba helyezi a DOC fájlokat hiányzó szerző mezők, gyanús időbélyegek vagy érvénytelen metaadat-minták alapján.
+
+
+
+* **Metaadat-index Szinkronizálás**
+
+  Feltöltéskor kinyeri a DOC metaadatokat és beilleszti azokat egy keresési indexbe, így az eredmények mindig naprakészek maradnak kézi katalógusozás nélkül.
+
+
+
+* **Szabályalapú Irányítási Szabályok**
+
+  Az irányítási szabályoknak megfelelően irányítsa a DOC fájlokat konkrét sorokba, amikor a metaadatok bizalmas tartalmat, elavult verziókat vagy ismeretlen tulajdonjogot jeleznek.
+
+
+
+* **Ütemezett Metaadat-ellenőrzések**
+
+  Éjszakai szkennelések futtatása, amelyek észlelik a metaadat-eltéréseket és kivételes jelentéseket generálnak az üzemeltetési csapatok számára.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

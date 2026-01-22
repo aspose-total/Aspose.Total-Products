@@ -85,7 +85,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+دمج صور PNG باستخدام واجهات برمجة التطبيقات في Python يمكن أن يتيح تكوين صور بدون فقدان مع دعم للشفافية. هذا مثالي لأصول التصميم، عناصر واجهة المستخدم، والرؤى المتعددة الطبقات.
+
+
+
+التأكد من التجميع التلقائي يضمن تجميع الصور بشكل متسق مع الحفاظ على سلامة الرؤية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تجميع الأصول الشفافة (PNG)**  
+
+&nbsp; دمج صور PNG مع الحفاظ على القنوات ألفا.
+
+
+
+* **تكوين عناصر واجهة المستخدم (PNG)**  
+
+&nbsp; دمج رسومات الواجهة في صور واحدة.
+
+
+
+* **توحيد موارد التصميم (PNG)**  
+
+&nbsp; تجميع أصول PNG لإعادة الاستخدام.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير الآلي" %}}
+
+
+
+* **أنابيب التصميم التلقائي (PNG)**  
+
+&nbsp; تدمج الأنظمة أصول PNG أثناء عمليات البناء.
+
+
+
+* **توليد صور متعددة الطبقات (PNG)**  
+
+&nbsp; يتم توجيه دمج PNG بواسطة قواعد برمجية.
+
+
+
+* **تأتير الأصول البصرية بشكل قابل للتوسيع (PNG)**  
+
+&nbsp; تنشئ الأنابيب التلقائية رؤى PNG مدمجة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

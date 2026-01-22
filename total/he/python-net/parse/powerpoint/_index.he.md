@@ -100,7 +100,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+פיענוח **מצגות PowerPoint** באמצעות Python APIs מאפשר חילוץ מובנה של תוכן השקפים, כולל כותרות, נקודות רשימה, פריסות והערות מרצה מקבצי המצגת. זה מאפשר גישה למידע המבוסס על מצגות לצורך ניתוח, השתמשות ואינטגרציה במערכת.
+
+
+
+כאשר מחובר לתהליכי עבודה אוטומטיים, פיענוח PowerPoint מהופך מצגות סטטיות למקורות נתונים דינמיים שתומכים בעיבוד ידע נמוך, דיווח ופעולות תוכן בקנה מידה.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **חילוץ תוכן השקפים**  
+
+&nbsp; מחזיר טקסט מובנה ורכיבי פריסה מהשקפים ב-PowerPoint.
+
+
+
+* **עיבוד ידע ממצגות**  
+
+&nbsp; ממיר מצגות למידע ניתן לחיפוש וניתן לניתוח.
+
+
+
+* **השתמשות והמרת תוכן**  
+
+&nbsp; מאפשר שימוש מחודש בחומר המצגת במסמכים ופלטפורמות שונות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **ספיגת מצגות אוטומטית**  
+
+&nbsp; מעבד קבצי PowerPoint באופן אוטומטי כחלק מצינורות ספיגה.
+
+
+
+* **סיכום תוכן ברמת השקפים**  
+
+&nbsp; יוצר סיכומים ופלט מובנה מנתוני השקפים שנפענקו.
+
+
+
+* **הפצת תוכן תכנותית**  
+
+&nbsp; מזין תוכן מובנה מהמצגת למערכות ותהליכי עבודה לאורך הזרם.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

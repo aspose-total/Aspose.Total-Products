@@ -85,7 +85,69 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Menggabungkan gambar bitmap menggunakan API Python memungkinkan konsolidasi visual mentah, tidak terkompresi menjadi satu gambar komposit atau urutan. Ini berguna dalam bidang imaging teknis, alur kerja pemindaian, dan sistem di mana kesetiaan gambar diprioritaskan daripada ukuran file.
+
+
+
+Penggabungan BMP otomatis mendukung pipa pemrosesan gambar yang deterministik di mana ketepatan, keulang, dan komposisi yang didorong oleh sistem diperlukan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Kompilasi Gambar Pindai (BMP)**  
+&nbsp; Menggabungkan beberapa pemindaian BMP menjadi satu gambar komposit.
+
+
+
+* **Perakitan Diagram Teknis (BMP)**  
+&nbsp; Menggabungkan diagram bitmap menjadi visual yang terpadu.
+
+
+
+* **Arsip Gambar Mentah (BMP)**  
+&nbsp; Mengumpulkan file BMP untuk penyimpanan atau pemrosesan jangka panjang.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pemrosesan Pemindaian Otomatis (BMP)**  
+&nbsp; Sistem menggabungkan gambar BMP selama alur kerja penerimaan.
+
+
+
+* **Komposisi Gambar Batch (BMP)**  
+&nbsp; Pekerjaan terjadwal menggabungkan gambar bitmap secara programatis.
+
+
+
+* **Pipa Pemrosesan Gambar yang Presisi (BMP)**  
+&nbsp; Penggabungan BMP tertanam dalam sistem pemrosesan yang terkontrol.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

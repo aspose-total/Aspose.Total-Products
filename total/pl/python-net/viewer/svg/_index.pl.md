@@ -82,7 +82,73 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Przeglądanie plików SVG za pomocą interfejsów API w języku Python pozwala na renderowanie skalowalnych, opartych na wektorach grafik z precyzją i klarownością.
+
+Jest to wartościowe dla systemów, które polegają na grafikach niezależnych od rozdzielczości.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Inspekcja Grafiki Wektorowej**  
+
+&nbsp; Przeglądaj grafiki bez utraty jakości.
+
+
+
+* **Walidacja Diagramów**  
+
+&nbsp; Sprawdzaj techniczne lub schematyczne wizualizacje.
+
+
+
+* **Recenzja Zasobów Projektowych**  
+
+&nbsp; Sprawdzaj zasoby wizualne używane w aplikacjach lub dokumentach.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Automatyzowane Potoki Diagramów**  
+
+&nbsp; Skrypty w języku Python renderują pliki SVG podczas prac dokumentacyjnych.
+
+
+
+* **Systemy Podglądu o Skalowalności**  
+
+&nbsp; Grafiki wektorowe są dynamicznie wyświetlane w różnych rozmiarach.
+
+
+
+* **Sprawdzanie Spójności Wizualnej**  
+
+&nbsp; Automatyczne przeglądanie zapewnia poprawne renderowanie zasobów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

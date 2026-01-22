@@ -73,7 +73,85 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API为**TIFF**图像添加水印，支持高质量成像工作流程，为扫描、打印和存档中常用的文件添加所有权和控制标签。
+
+自动化对于TIFF水印特别有价值，因为文件大小较大且批量处理繁重，可以实现跨文档成像流程的一致处理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **扫描文档所有权标记**  
+
+&nbsp; 对扫描的TIFF文件应用水印，以保留成像存档的来源。
+
+
+
+* **打印工作流程证明印章**  
+
+&nbsp; 为预印TIFF文件添加“PROOF”水印，以进行受控审查。
+
+
+
+* **成像存储库的合规标签**  
+
+&nbsp; 为受限制的图像加盖分类文本水印，以支持处理政策。
+
+
+
+* **存档转换可追溯性**  
+
+&nbsp; 在转换为其他格式之前为TIFF文件添加水印，以保留源标识。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **扫描仪输出自动加水印**  
+
+&nbsp; 使用监视文件夹或摄入作业在扫描后立即给TIFF文件加水印。
+
+
+
+* **多页TIFF处理**  
+
+&nbsp; 通过程序自动在多页TIFF文件的各页上应用一致的水印。
+
+
+
+* **分辨率感知水印缩放**  
+
+&nbsp; 根据DPI调整水印大小，以保持一致的物理打印外观。
+
+
+
+* **自动保留和审计工作流程**  
+
+&nbsp; 作为自动保留标记和合规审查流程的一部分为图像加水印。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

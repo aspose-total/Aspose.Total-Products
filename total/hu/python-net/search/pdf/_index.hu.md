@@ -77,7 +77,75 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A PDF dokumentumok keresése Python API-k segítségével megbízható információk felfedezését teszi lehetővé az egyik legelterjedtebben használt formátumban, amely a jelentésekhez, szerződésekhez, kézikönyvekhez és hivatalos iratokhoz használt. Programozott PDF keresés segíti a modern rendszereket abban, hogy releváns szöveget és struktúrát találjanak nagy dokumentumgyűjteményekben manuális olvasás nélkül.
+
+
+
+Amikor beépítik az automatizálási csövekbe, a PDF keresés támogatja a skálázható indexelést, a gyorsabb visszakeresést és a zökkenőmentes integrációt az analitikával, a megfelelőséggel és a tudáskezelési munkafolyamatokkal.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* **PDF Kulcsszó Felfedezés**  
+
+&nbsp; Megtalálja a célcsoportú kifejezéseket és kifejezéseket a PDF dokumentumok nagy halmazában.
+
+
+
+* **Jelentés Szakasz Visszakeresése**  
+
+&nbsp; Megtalálja a kulcsfontosságú szakaszokat, például összefoglalókat, táblázatokat és megállapításokat a PDF-ekben.
+
+
+
+* **Dokumentumtár Keresése**  
+
+&nbsp; Lehetővé teszi a PDF-ek keresését a mappákban és rendszerekben tárolt dokumentumokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* **Automatizált PDF Indexelési Csővezeték**  
+
+&nbsp; A Python szolgáltatások kinyerik a szöveget és frissítik a PDF keresési indexeket egy ütemezés szerint.
+
+
+
+* **PDF Megfelelőségi Felülvizsgálat Automatizálása**  
+
+&nbsp; Programozott keresések azonosítják a szükséges záradékokat és hiányzó nyilatkozatokat a PDF-ekben.
+
+
+
+* **Dinamikus PDF Információk Kinyerése**  
+
+&nbsp; A keresési eredmények vezérlik az automatizált összefoglalókat, riasztásokat és az utófeldolgozási munkafolyamatokat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

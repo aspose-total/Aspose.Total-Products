@@ -85,7 +85,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Imaging for Python via
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Hợp nhất hình ảnh GIF bằng Python APIs cho phép tạo ra các hoạt hình thống nhất hoặc chuỗi hình ảnh hợp nhất. Điều này thường được sử dụng cho nội dung hướng dẫn, hình ảnh giám sát và đồ họa chuyển động nhẹ.
+
+
+
+Tự động hóa cho phép việc tạo thành phần GIF nhất quán và có thể lặp lại mà không cần chỉnh sửa thủ công.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Lắp ráp Chuỗi Hình ảnh Động (GIF)**  
+
+&nbsp; Hợp nhất nhiều GIF thành một hoạt hình duy nhất.
+
+
+
+* **Tạo Hình ảnh Hướng Dẫn (GIF)**  
+
+&nbsp; Kết hợp các GIF dựa trên các bước thành một hình ảnh hướng dẫn.
+
+
+
+* **Tổng hợp Ảnh Chụp Giám Sát (GIF)**  
+
+&nbsp; Tổng hợp các ảnh GIF để hiển thị trên dòng thời gian.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Tạo Ra Hoạt Hình Tự Động (GIF)**  
+
+&nbsp; Hệ thống hợp nhất các GIF một cách động dựa trên sự kiện.
+
+
+
+* **Cập Nhật Hình ảnh Dựa Trên Quy Trình (GIF)**  
+
+&nbsp; Hợp nhất GIF được kích hoạt bởi các thay đổi quy trình.
+
+
+
+* **Luồng Dữ Liệu Động Lập Trình (GIF)**  
+
+&nbsp; Các luồng dữ liệu tự động tạo ra đầu ra GIF hợp nhất.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

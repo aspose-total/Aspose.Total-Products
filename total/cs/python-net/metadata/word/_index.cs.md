@@ -98,7 +98,93 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Extrakce metadat dokumentů ve formátu **Word** pomocí Python API umožňuje programatický záznam základních vlastností dokumentů zpracovávaných ve wordových dokumentech - jako je název, autor, časové razítko a vlastní pole - podporující správu, obohacení vyhledávání a řízení životního cyklu. To je zásadní pro operace s velkým množstvím dokumentů, kde manuální kontrola není škálovatelná.
+
+
+
+Při propojení s automatizačními systémy se metadatům Wordu stává spolehlivá vrstva pro směrování, validaci a indexaci - pomáhající moderním pracovním postupům běžet rychleji, konzistentně prosazovat standardy a hladce integrovat se službami pro ukládání, vyhledávání a reporting.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití případů" %}}
+
+
+
+* **Indexace podnikových dokumentů**
+
+&nbsp; Extrahovat metadata pro vyplnění katalogů, které podporují rychlé vyhledávání a konzistentní organizaci.
+
+
+
+* **Ověření souladu s politikami**
+
+&nbsp; Ověřit, zda požadovaná pole metadat existují, než mohou dokumenty vstoupit do řízených repozitářů nebo toků publikování.
+
+
+
+* **Mapování vlastnictví a odpovědnosti**
+
+&nbsp; Použít vlastnosti autorství a editora k přiřazení odpovědností za kontrolu a údržbu.
+
+
+
+* **Řízení životního cyklu a uchovávání**
+
+&nbsp; Použít časová razítka vytvoření a úpravy k automatizaci rozhodování o uchovávání a archivaci.
+
+
+
+* **Operační analytika a poznatky**
+
+&nbsp; Seskupit metadata napříč dokumenty ve Wordu, abyste odhalili zastaralost, mezery v pokrytí a úzká hrdla procesu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* **Směrování dokumentů na základě metadat**
+
+&nbsp; Automaticky směrovat soubory ve Wordu do recenzních, schvalovacích nebo archivačních pruhů na základě prahů metadat a pravidel úplnosti.
+
+
+
+* **Automatická synchronizace katalogů**
+
+&nbsp; Extrahovat metadata ve Wordu podle plánu a synchronizovat je do interních indexů pro vždy aktuální objevování.
+
+
+
+* **Řízení výjimek**
+
+&nbsp; Detekovat chybějící vlastnictví, podezřelá časová razítka nebo neplatná pole a automaticky vytvářet úkoly na nápravu.
+
+
+
+* **Příprava programatického publikování**
+
+&nbsp; Použít metadata ve Wordu k předvyplnění polí pro publikování (názvy, souhrny, kategorie) a prosazovat konzistenci napříč výstupy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

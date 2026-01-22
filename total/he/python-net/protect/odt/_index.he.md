@@ -76,7 +76,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT הוא פורמט טקסט פתוח רווח המשמש ברחבים לדיווחים ותיעוד. הגנת קבצי ODT היא חיונית לשמירה על אותנטיות המסמך ולמניעת שינויים תוך כדי אקראיים או רעולים.
+
+
+
+הגנת מסמכים באמצעות פייתון מאפשרת להטמיע אבטחת ODT בזרימות עבודה אוטומטיות ופרסום עם הוצאת דיווחים מינימלית.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **הפצת דוחות מאובטחת**  
+
+&nbsp; הגנה על דוחות ODT מוגמרים לפני שיתוף.
+
+
+
+* **אינטגריטת תיעוד**  
+
+&nbsp; הבטיחו שמסמכים רשמיים יישארו ללא שינויים לאחר אישור.
+
+
+
+* **בטיחות מסמכים צלב-פלטפורמה**  
+
+&nbsp; החל גנה ללא קשר לסביבת עריכה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **צינורות תיעוד אוטומטיים**  
+
+&nbsp; הגנה על קבצי ODT כחלק מייצור תיעוד מתמיד.
+
+
+
+* **אבטחת קובץ על סמך כללים**  
+
+&nbsp; החל מדיניות הגנה על סמך מטא-נתוני מסמך.
+
+
+
+* **חיזוק מסמכים בצורה גורמתית**  
+
+&nbsp; הגן על מסמכי ODT מרובים באופן תכנותי בפעולות צפיפות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

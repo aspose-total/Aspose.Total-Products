@@ -72,7 +72,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PDF - найпоширеніший формат для остаточних та обмінних документів. Захист PDF-файлів є важливим для контролю доступу, запобігання копіюванню та забезпечення автентичності контенту на цифрових каналах розповсюдження.
+
+
+
+Python APIs дозволяють автоматизувати захист PDF, інтегруючи безпеку безпосередньо в процес генерації, затвердження та доставки документів.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* **Безпечна доставка документів**  
+
+&nbsp; Захист PDF, розповсюджених клієнтам або зацікавленим сторонам.
+
+
+
+* **Заборона редагування вмісту**  
+
+&nbsp; Запобігання редагуванню або копіюванню завершених документів.
+
+
+
+* **Захист конфіденційної інформації**  
+
+&nbsp; Обмеження доступу до конфіденційних даних у PDF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Автоматичне блокування PDF**  
+
+&nbsp; Застосування захисту безпосередньо після генерації PDF.
+
+
+
+* **Динамічне призначення паролів**  
+
+&nbsp; Генерація та застосування паролів програмно для кожного одержувача.
+
+
+
+* **Захист, орієнтований на відповідність вимогам**  
+
+&nbsp; Автоматичне застосування захисту PDF для відповідності регулятивним вимогам.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

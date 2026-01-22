@@ -75,7 +75,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+מיזוג גיליונות אלקסל עם שימוש ב- Python APIs מאפשר איחוד של הלוגיקה המבוססת נתונים, החישובים והאוטומציה המוטמעת בתוך חוברות עבודה. זה די נפוץ בסביבות התפעול והפיננסיות.
+
+
+
+המיזוג האוטומטי של קבצי XLSM מבטיח שהנתונים וההתנהגות המבוססת על מאקרו נשמרים במערכות הנמכות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **אספקת דוחות מבוססת מאקרו (XLSM)**  
+
+  &nbsp; מיזוג קבצי XLSM המכילים חישובים ולוגיקה אוטומטיים.
+
+
+
+* **איחוד חוברות עבודה תפעוליות (XLSM)**  
+
+  &nbsp; שילוב של גיליונות אלקסל מופעלים במאקרו בין מחלקות.
+
+
+
+* **אריזת אוטומציה של תהליכים (XLSM)**  
+
+  &nbsp; איגוד קבצי XLSM המשמשים בתהליכי תפעול חוזרים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **יצירת חוברות עבודה על סמך כללים (XLSM)**  
+
+  &nbsp; המערכות ממזגות קבצי XLSM על סמך כללי אוטומציה מוגדרים.
+
+
+
+* **דיגיטציה אוטומטית של דגמים פיננסיים (XLSM)**  
+
+  &nbsp; המיזוג של קבצי XLSM תומך בתהליכי עבודה פיננסיים ניתנים לחזרה.
+
+
+
+* **שמירה של מאקרו באופן מבוקר (XLSM)**  
+
+  &nbsp; צינורות אוטומטיים ממזגים קבצי XLSM תוך שמירה על מאקרו.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

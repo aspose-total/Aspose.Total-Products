@@ -78,7 +78,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusion de fichiers de valeurs séparées par des tabulations à l'aide des API Python permet une combinaison rapide et légère de données tabulaires structurées. Le TSV est couramment utilisé pour l'échange de données et le prétraitement.
+
+
+
+La fusion automatisée de TSV prend en charge les pipelines de données haute performance et les flux de travail analytiques.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Agrégation de données brutes (TSV)**  
+
+&nbsp; Fusionner des fichiers TSV en un seul ensemble de données pour le traitement.
+
+
+
+* **Échange de données de système à système (TSV)**  
+
+&nbsp; Combiner les exportations TSV de différentes plateformes.
+
+
+
+* **Préparation des données avant l'analyse (TSV)**  
+
+&nbsp; Fusionner des fichiers TSV avant la transformation analytique.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Traitement de données basé sur le flux (TSV)**  
+
+&nbsp; Les systèmes automatisés fusionnent les fichiers TSV dans des flux de données.
+
+
+
+* **Opérations ETL par lots (TSV)**  
+
+&nbsp; La fusion de TSV se produit pendant les tâches ETL planifiées.
+
+
+
+* **Pipelines de données tabulaires évolutives (TSV)**  
+
+&nbsp; La fusion programmatique prend en charge les grands ensembles de données TSV.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

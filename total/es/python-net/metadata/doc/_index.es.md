@@ -98,7 +98,93 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La extracción de metadatos de documentos para archivos **DOC** a través de APIs de Python permite a los sistemas leer e interpretar atributos fundamentales del archivo, como autor, hora de creación, hora de última modificación, recuento de revisiones y propiedades incrustadas, sin inspección manual. Esto es importante para la gobernanza, la capacidad de búsqueda, la auditoría y el control del ciclo de vida del contenido en flujos de trabajo con muchos documentos.
+
+
+
+Cuando se integra en pipelines de automatización, los metadatos de DOC se convierten en una señal confiable para enrutamiento, verificación de cumplimiento, indexación y procesamiento por lotes, lo que respalda operaciones de documentos escalables, clasificación consistente e integraciones descendentes con capas de almacenamiento, búsqueda e informes.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principales Casos de Uso" %}}
+
+
+
+* **Inventario de Documentos Heredados**
+
+  Extraer metadatos de archivos DOC para construir un índice estructurado para descubrimiento, deduplicación y planificación del ciclo de vida.
+
+
+
+* **Verificación de Marca de Tiempo de Cumplimiento**
+
+  Utilizar campos de creación/modificación para verificar reglas de retención y detectar anomalías en la documentación regulada.
+
+
+
+* **Mapeo de Propietarios de Documentos**
+
+  Leer propiedades de autor y último editor para mapear la propiedad del documento para asignaciones de revisión y controles de acceso.
+
+
+
+* **Categorización por Lotes para Búsqueda**
+
+  Convertir propiedades incrustadas en etiquetas normalizadas para filtrado consistente y enriquecimiento de búsqueda interna.
+
+
+
+* **Señales de Rastreabilidad de Cambios**
+
+  Capturar campos relacionados con revisiones para respaldar la rastreabilidad en flujos de trabajo editoriales y de aprobación.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+
+
+* **Puerta de Ingesta de Archivos**
+
+  Aceptar automáticamente o poner en cuarentena archivos DOC basados en campos de autor faltantes, marcas de tiempo sospechosas o patrones de metadatos inválidos.
+
+
+
+* **Sincronización de Metadatos con Índice**
+
+  Al cargar, extraer metadatos de DOC y enviarlos a un índice de búsqueda para que los resultados se mantengan actualizados sin catalogación manual.
+
+
+
+* **Reglas de Enrutamiento Basadas en Políticas**
+
+  Enrutar archivos DOC a colas específicas cuando los metadatos indiquen contenido confidencial, versiones desactualizadas o propiedad desconocida.
+
+
+
+* **Auditorías Programadas de Metadatos**
+
+  Ejecutar escaneos nocturnos que detecten desviaciones en los metadatos y generen informes de excepciones para equipos de operaciones.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -98,7 +98,93 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'estrazione dei metadati dei documenti per i file **DOCX** tramite API Python consente un accesso strutturato alle moderne proprietà dei documenti Word, supportando l'indicizzazione affidabile, l'auditing e le operazioni sui contenuti senza revisioni manuali. Ciò migliora la visibilità nei dettagli del ciclo di vita del documento come autore, modifiche e descrittori incorporati.
+
+
+
+Nell'automazione, i metadati DOCX diventano uno strato di controllo efficiente per il routing e la convalida: i flussi di lavoro possono far rispettare gli standard, popolare cataloghi e integrarsi con strumenti di ricerca, analisi e governance su larga scala.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Arricchimento dell'indice di ricerca**
+
+  Convertire i metadati DOCX in campi normalizzati per migliorare il filtraggio, il ranking e la scoperta.
+
+
+
+* **Assegnazione di proprietà e revisione**
+
+  Utilizzare gli autori e i metadati dell'ultima modifica per assegnare automaticamente revisori e mantenere la responsabilità.
+
+
+
+* **Monitoraggio dell'igiene delle versioni**
+
+  Rilevare documenti obsoleti confrontando l'ora dell'ultima modifica con le soglie di policy.
+
+
+
+* **Convalida della completezza dei metadati**
+
+  Garantire che le proprietà richieste (titolo, soggetto, parole chiave) esistano prima della pubblicazione o distribuzione.
+
+
+
+* **Reporting a livello di portafoglio**
+
+  Aggregare i metadati DOCX tra i repository per produrre informazioni sulla copertura, l'età e l'attività.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Convalida dei metadati al momento del caricamento**
+
+  All'ingestione, rifiutare o segnalare i file DOCX privi di proprietà obbligatorie e notificare automaticamente l'uploader.
+
+
+
+* **Auto-tagging e categorizzazione**
+
+  Utilizzare le parole chiave DOCX e i campi personalizzati per applicare regole coerenti di tag e routing delle cartelle in modo programmato.
+
+
+
+* **Scansione continua della conformità**
+
+  Eseguire attività pianificate che identificano i file DOCX che violano le tempistiche di conservazione o che mancano di dettagli di proprietà.
+
+
+
+* **Pipeline di pubblicazione guidata dai metadati**
+
+  Estrarre i metadati DOCX per popolare i titoli delle pagine, i riassunti e le voci di indice per i sistemi di pubblicazione automatizzati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

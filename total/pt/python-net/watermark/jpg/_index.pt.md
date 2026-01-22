@@ -73,7 +73,85 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/ima
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Adicionar marcas d'água em arquivos **JPG** com APIs Python suporta fluxos de trabalho de imagem comuns, adicionando clara propriedade, etiquetas de prova e regras de distribuição ao formato de imagem web mais frequentemente utilizado.
+
+A marca d'água automatizada em JPG é ideal para pipelines de alto rendimento onde é necessária uma colocação consistente e um estilo repetível em muitos ativos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Marcação em Massa para Bibliotecas de Imagens**  
+
+  &nbsp; Marque grandes conjuntos de ativos JPG para manter uma identidade consistente em todos os canais.
+
+
+
+* **Proteção de Conteúdo Pré-Lançamento**  
+
+  &nbsp; Adicione sobreposições "NÃO PARA PUBLICAÇÃO" para evitar postagens antecipadas acidentais.
+
+
+
+* **Marcação de Visualização de Material de Vendas**  
+
+  &nbsp; Carimbe etiquetas de visualização em visuais JPG usados em propostas e apresentações.
+
+
+
+* **Atribuição de Ativos de Afiliados**  
+
+  &nbsp; Incorpore marcas d'água de atribuição para mídias compartilhadas para melhorar o rastreamento da fonte.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Marcação Automática Baseada em Pastas**  
+
+  &nbsp; Detecte novos arquivos JPG em pastas de monitoramento e adicione marcas d'água imediatamente.
+
+
+
+* **Dimensionamento Automático de Marca d'água Responsiva**  
+
+  &nbsp; Ajuste o tamanho da marca d'água com base na resolução e na proporção automaticamente.
+
+
+
+* **Geração de Marca d'água Multilíngue**  
+
+  &nbsp; Produza texto de marca d'água localizado com base nas regras de público-alvo ou região.
+
+
+
+* **Criação de Variantes Dedicuplicadas**  
+
+  &nbsp; Evite o processamento repetido de JPGs já marcados, rastreando impressões digitais na automação.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

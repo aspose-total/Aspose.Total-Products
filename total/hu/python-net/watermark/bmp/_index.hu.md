@@ -73,7 +73,85 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Vízjel készítése **BMP** képekhez Python API-k segítségével látható tulajdonjelzést, eredetiséget és manipulálás elleni védelmet ad a tömörítetlen rácsgrafikákhoz, amelyek gyakran használatosak nyomtatási folyamatokban és műszaki eszközökben.
+
+Mivel a BMP fájlok nagyok és veszteségmentesek, a Python alapú vízjel készítés ideális **magas hűségű átfedésekhez**, ismételhető renderelési szabályokhoz és állandó elhelyezéshez az képkönyvtárakban.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* **Mérnöki Eszköz Tulajdonjelzések**  
+
+  Add hozzá osztály vagy projekt jelzéseket a műszaki bitképekhez az véletlen újrafelhasználás és rossz irányítás csökkentése érdekében.
+
+
+
+* **Nyomtatásra Kész Bizonyíték Jelölések**  
+
+  Alkalmazz "BIZONYÍTÉK" vagy "TERVEZET" átfedéseket tömörítési artefaktusok nélkül, amelyek befolyásolhatnák az elfogadási felülvizsgálatokat.
+
+
+
+* **Katalóguskép Márkázás Eredeti Minőségben**  
+
+  Ágyazd be azonos azonosító jelzéseket miközben megőrzöd az eredeti képpont adatokat az utólagos konverziókhoz.
+
+
+
+* **Megfelelőségi Címkék Korlátozott Vizuális Elemekhez**  
+
+  Vízjelezd a érzékeny grafikákat hozzáférési osztályozásokkal a politikák által vezérelt kezelés támogatásához.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* **Tömeges Vízjel Készítés a Beviteli Csövekben**  
+
+  Automatikusan jelöld meg az újonnan feltöltött BMP-ket amikor belépnek egy média tárolóba.
+
+
+
+* **Szabályalapú Elhelyezés Méretek Alapján**  
+
+  Programozottan állítsd be a vízjel méretét és margóját az kép felbontásának függvényében.
+
+
+
+* **Eseményvezérelt Bizonyíték Generálás**  
+
+  Hozz létre vízjellel ellátott változatokat amikor egy fájl státusza megváltozik felülvizsgálatra vagy jóváhagyásra.
+
+
+
+* **Ellenőrzőösszeg + Vízjel Kettős Követés**  
+
+  Kombináld a vízjel készítést fájlvizsgálattal a nyomonkövethetőség javítása érdekében automatizált ellenőrzésekben.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

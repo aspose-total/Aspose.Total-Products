@@ -78,7 +78,69 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用してマクロ有効化されたWord文書をマージすることで、埋め込まれたロジックと高度な文書動作を保持しながら構造化された文書の作成が可能となります。これは、自動化、フォーム、または計算フィールドを含む文書が含まれる企業環境にとって重要です。
+
+
+
+自動化されたDOCMマージは、手動介入なしにロジックを含むファイルを信頼性を持って組み合わせ、運用の連続性と効率を確保するスケーラブルな文書ワークフローをサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+
+
+- **マクロベースのテンプレートアセンブリ（DOCM）**  
+  &nbsp; 複数のマクロ有効化された文書を1つの実行可能文書にマージします。
+
+
+
+- **運用文書のバンドリング（DOCM）**  
+  &nbsp; 部門間で使用されるDOCMファイルを統合して統一された運用ファイルにまとめます。
+
+
+
+- **プロセス文書の統合（DOCM）**  
+  &nbsp; DOCMベースの手順とツールを1つの管理された文書に組み合わせます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+- **自動コンプライアンスファイル生成（DOCM）**  
+  &nbsp; システムはDOCMファイルを自動的にマージしてコンプライアンス対応の文書を生成します。
+
+
+
+- **ルールに基づいた文書構成（DOCM）**  
+  &nbsp; ワークフロールールに基づいて、DOCMファイルが動的にマージされます。
+
+
+
+- **バックエンド制御されたマクロ保存（DOCM）**  
+  &nbsp; 自動パイプラインは埋め込まれたロジックを保持しながらDOCMファイルをマージします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

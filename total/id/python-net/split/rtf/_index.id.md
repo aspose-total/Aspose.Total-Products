@@ -79,7 +79,75 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+File RTF menyediakan format dokumen yang dapat dipindahkan, berfokus pada teks dengan format tertanam. Memisahkan file RTF memungkinkan ekstraksi konten yang diformat dengan terkontrol.
+
+
+
+Automasi Python memungkinkan penanganan efisien dokumen RTF dalam sistem berskala besar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Ekstraksi Teks yang diformat**  
+
+  Ekstraksi bagian sambil mempertahankan format.
+
+
+
+* **Pemrosesan Konten yang Interoperabel**  
+
+  Gunakan konten yang diekstrak di berbagai platform.
+
+
+
+* **Pensederhanaan Dokumen**  
+
+  Memecah file kompleks menjadi unit yang dapat dikelola.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pemisahan Bagian Berbasis Pola**  
+
+  Python mengidentifikasi kata kontrol untuk memisahkan konten.
+
+
+
+* **Transformasi Konten Otomatis**  
+
+  Bagian yang diekstrak diubah secara programatis.
+
+
+
+* **Pipa Konten Lintas Sistem**  
+
+  Bagian-bagian mengalir ke sistem yang berbeda dengan lancar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การผสานไฟล์ PowerPoint ที่เปิดใช้งานแมโคโรด้วย Python APIs สนับสนุนงานนำเสนอที่มีตรรกะซึ่งประกอบด้วยตรรกะภายใน การอัตโนมัติ หรือพฤติกรรมที่สามารถทำงานได้ ซึ่งเป็นสิ่งที่พบบ่อยในงานธุรกิจและงานนำเสนอทางด้านดำเนินการ
+
+
+
+การอัตโนมัติช่วยให้การผสานสไลด์ที่เปิดใช้งานแมโคโรด้วยวิธีที่เชื่อถือได้โดยไม่ทำให้ฟังก์ชันที่ฝังอยู่เสียหาย
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **การประกอบไฟล์นำเสนอที่ใช้แมโคโร (PPTM)**  
+
+&nbsp; ผสานไฟล์ PPTM ที่มีองค์ประกอบอัตโนมัติหรือแบบโต้ตอบ
+
+
+
+* **การรวมสไลด์ดำเนินการ (PPTM)**  
+
+&nbsp; รวมงานนำเสนอที่เปิดใช้งานแมโคในกระบวนการภายใน
+
+
+
+* **การห่อหุ้มสไลด์แบบโต้ตอบ (PPTM)**  
+
+&nbsp; รวบรวมไฟล์ PPTM เข้าไว้ในงานนำเสนอที่เป็นไฟล์เดียว
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การสร้างงานนำเสนอตามกฎหมาย (PPTM)**  
+
+&nbsp; ระบบผสานไฟล์ PPTM ตามกฎหมาย
+
+
+
+* **การรักษาแมโคด้วยระบบด้านหลัง (PPTM)**  
+
+&nbsp; ท่องไฟล์ PPTM โดยรักษาตรรกะ
+
+
+
+* **การอัตโนมัติงานนำเสนอตามข้อกำหนด (PPTM)**  
+
+&nbsp; การผสาน PPTM สนับสนุนผลลัพธ์ที่สามารถทำซ้ำได้และมีการควบคุม
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

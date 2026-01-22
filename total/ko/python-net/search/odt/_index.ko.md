@@ -76,7 +76,75 @@ ODT 검색 가능 앱이나 유틸리티를 개발해야 합니까? .NET을 통�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+파이썬 API를 사용하여 **ODT** 파일을 검색하면 오픈 문서 표준과 호환성을 보장하면서 효율적인 콘텐츠 검색이 가능해집니다. ODT 문서는 이식성과 투명성이 필수적인 오픈 소스 및 협업 환경에서 일반적으로 사용됩니다.
+
+
+
+자동화된 ODT 검색은 상호 운용성을 향상시키며 확장 가능한 문서 분석을 지원하고 현대 자동화 파이프라인과 깔끔하게 통합됩니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **오픈 포맷 문서 검색**  
+
+&nbsp; ODT 기반 문서 내의 키워드를 찾습니다.
+
+
+
+* **협업 콘텐츠 검토**  
+
+&nbsp; 공유된 오픈 문서 전체에서 빠른 조회를 가능하게 합니다.
+
+
+
+* **정책 및 문서 분석**  
+
+&nbsp; ODT 파일 내에서 필요한 섹션을 식별합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동화된 ODT 색인 생성**  
+
+&nbsp; 파이썬 스크립트가 ODT 파일에서 검색 가능한 색인을 생성합니다.
+
+
+
+* **ODT 변경 감지**  
+
+&nbsp; 프로그래밍 방식의 스캔으로 업데이트되거나 수정된 콘텐츠를 식별합니다.
+
+
+
+* **ODT 콘텐츠 파이프라인**  
+
+&nbsp; 추출된 데이터가 자동 게시 및 검토 시스템으로 전달됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

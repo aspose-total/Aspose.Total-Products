@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用してTIFFファイルに署名することで、記録管理やアーカイブワークフローで一般的に使用される高品質のスキャンや画像のガバナンスを強化します。これにより、重要なスキャンされた文書の信頼性と追跡可能性を保護します。
+
+
+
+自動化されたパイプラインでは、TIFFの署名は検証と索引付けの後に行われ、保存されたスキャンに一貫した承認と起源の指標が付加されることを確認します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+
+
+* **スキャンの信頼性証明**  
+
+&nbsp; 確認済みのオリジナルを表していることを確認するためにTIFFスキャンに署名します。
+
+
+
+* **記録管理の承認**  
+
+&nbsp; 記録管理システムにファイリングする前にTIFFファイルに署名を適用します。
+
+
+
+* **高解像度の証拠確認**  
+
+&nbsp; レビュアーのアイデンティティと承認を文書化するためにTIFF証拠資産に署名します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **索引付け後の署名ステップ**  
+
+&nbsp; OCR/索引付けおよび検証が完了した後に自動的にTIFFファイルに署名します。
+
+
+
+* **コンプライアンス保持パイプライン**  
+
+&nbsp; 監査トレイルを強化するために、TIFFレコードが保持ストレージに入る際に署名します。
+
+
+
+* **大量スキャンの最終処理ジョブ**  
+
+&nbsp; 大規模なスキャン操作のためにTIFFバッチにプログラムで署名します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -77,7 +77,75 @@ otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API搜索**PDF**文档可靠地发现存储在报告、合同、手册和官方记录中最常用格式之一的信息。编程式PDF搜索帮助现代系统在大型文档集合中定位相关文本和结构，无需手动阅读。
+
+
+
+当集成到自动化流程中时，PDF搜索支持可扩展的索引、更快的检索，并与分析、合规性和知识管理工作流无缝集成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **PDF关键词发现**  
+
+  &nbsp; 在大量PDF文档中查找目标术语和短语。
+
+
+
+* **报告部分检索**  
+
+  &nbsp; 定位PDF中的摘要、表格和发现等关键部分。
+
+
+
+* **文档库搜索**  
+
+  &nbsp; 实现对存储在文件夹和系统中的PDF的可搜索访问。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化PDF索引流水线**  
+
+  &nbsp; Python服务提取文本并按计划更新PDF搜索索引。
+
+
+
+* **PDF合规审查自动化**  
+
+  &nbsp; 编程式搜索检测PDF中所需条款和缺失声明。
+
+
+
+* **动态PDF洞察提取**  
+
+  &nbsp; 搜索结果驱动自动摘要、警报和下游处理工作流。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

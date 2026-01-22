@@ -98,7 +98,93 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Extraktion von Dokumentenmetadaten für **DOCX**-Dateien über Python-APIs ermöglicht strukturierten Zugriff auf moderne Word-Dokumenteigenschaften und unterstützt zuverlässige Indizierung, Überprüfung und Inhaltsoperationen ohne manuelle Überprüfung. Dies verbessert die Transparenz in Bezug auf Details des Dokumentlebenszyklus wie Autorenschaft, Bearbeitungen und eingebettete Deskriptoren.
+
+
+
+In der Automatisierung wird DOCX-Metadaten zu einer effizienten Steuerebene für Routing und Validierung: Pipelines können Standards durchsetzen, Kataloge bevölkern und sich in Such-, Analyse- und Governance-Tools im großen Maßstab integrieren.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Suchindex-Verbesserung**
+
+  Konvertieren Sie DOCX-Metadaten in normierte Felder, um Filterung, Ranking und Entdeckung zu verbessern.
+
+
+
+* **Zuweisung von Eigentum und Überprüfung**
+
+  Verwenden Sie Autor- und zuletzt geänderte Metadaten, um Reviewer automatisch zuzuweisen und die Verantwortlichkeit aufrechtzuerhalten.
+
+
+
+* **Überwachung der Versionshygiene**
+
+  Erkennen Sie veraltete Dokumente, indem Sie die zuletzt geänderte Zeit mit den Richtlinienschwellen vergleichen.
+
+
+
+* **Validierung der Metadaten-Vollständigkeit**
+
+  Stellen Sie sicher, dass erforderliche Eigenschaften (Titel, Thema, Stichwörter) vorhanden sind, bevor sie veröffentlicht oder verteilt werden.
+
+
+
+* **Berichterstellung auf Portfolioebene**
+
+  Aggregieren Sie DOCX-Metadaten über Repositories hinweg, um Einblicke in Abdeckung, Alter und Aktivität zu gewinnen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Validierung der Metadaten beim Hochladen**
+
+  Bei der Aufnahme werden DOCX-Dateien ohne obligatorische Eigenschaften abgelehnt oder markiert und der Hochlader automatisch benachrichtigt.
+
+
+
+* **Automatisches Tagging und Kategorisierung**
+
+  Verwenden Sie DOCX-Stichwörter und benutzerdefinierte Felder, um konsistente Tags und Regeln für die Ordnerzuweisung programmgesteuert anzuwenden.
+
+
+
+* **Kontinuierliche Compliance-Überprüfung**
+
+  Führen Sie geplante Jobs aus, die DOCX-Dateien identifizieren, die gegen Aufbewahrungsfristen verstoßen oder Eigentumsdetails fehlen.
+
+
+
+* **Metadaten-gesteuerte Veröffentlichungspipeline**
+
+  Extrahieren Sie DOCX-Metadaten, um Seitentitel, Zusammenfassungen und Indexeinträge für automatisierte Veröffentlichungssysteme zu bevölkern.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -89,7 +89,73 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Prohlížení souborů PPT pomocí Python API umožňuje inspekci starých prezentací používaných v starších systémech.
+
+Toto podporuje automatizaci, kde je vyžadována zpětná kompatibilita.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Hodnocení starých prezentací**  
+
+&nbsp; Programaticky zobrazit staré prezentace.
+
+
+
+* **Podpora migrace obsahu**  
+
+&nbsp; Inspekce prezentací před upgradem formátů.
+
+
+
+* **Validace prezentace**  
+
+&nbsp; Zajistit, že data snímků zůstávají nedotčena.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Audit starých datových potrubí**  
+
+&nbsp; Pythonové pracovní postupy renderují soubory PPT pro inspekci.
+
+
+
+* **Předkonverzní validace**  
+
+&nbsp; Prohlížení zajišťuje bezpečnou migraci formátu.
+
+
+
+* **Hromadné hodnocení prezentací**  
+
+&nbsp; Velké sbírky jsou inspektovány automaticky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

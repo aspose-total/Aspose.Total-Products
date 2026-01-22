@@ -82,7 +82,73 @@ JPEG ビューア アプリまたはユーティリティを開発する必要�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用したJPEGおよびJPGの表示により、システム全体で広く使用されている圧縮画像の効率的な検査が可能となります。
+
+これにより、パフォーマンスと互換性が重要なスケーラブルなビジュアルワークフローがサポートされます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **圧縮画像のレビュー**  
+
+&nbsp; ストレージと転送用に最適化された画像を表示します。
+
+
+
+* **ビジュアルコンテンツの検証**  
+
+&nbsp; 明瞭さと正確さを確認するために画像を検査します。
+
+
+
+* **メディアアセットの管理**  
+
+&nbsp; 一般的に使用される画像アセットをプログラムで確認します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **自動化メディアパイプライン**  
+
+&nbsp; JPEGファイルはバッチワークフロー中にレンダリングされます。
+
+
+
+* **プレビューオプティマイゼーションシステム**  
+
+&nbsp; 画像は高速なレビューのために動的に表示されます。
+
+
+
+* **アセット品質チェック**  
+
+&nbsp; Pythonビューアは自動検査をサポートします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTX je standardní moderní prezentace formátu pro PowerPoint. Chránění souborů PPTX je zásadní pro zajištění toho, aby obsah prezentace zůstal přesný a bez úprav v rámci spolupracujících prostředí.
+
+
+
+S Python API lze ochranu PPTX snadno integrovat do automatizovaných pracovních postupů vytváření a distribuce prezentací.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Sdílení důvěrných prezentací**  
+
+&nbsp; Zabezpečte soubory PPTX před externím šířením.
+
+
+
+* **Vynucování schválení obsahu**  
+
+&nbsp; Zamkněte prezentace po finálním schválení.
+
+
+
+* **Správa firemních prezentací**  
+
+&nbsp; Použijte jednotnou ochranu pro všechny aktiva PPTX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizovaná ochrana při exportu**  
+
+&nbsp; Zabezpečte soubory PPTX ihned po jejich vytvoření.
+
+
+
+* **Bezpečnost spuštěná pracovním postupem**  
+
+&nbsp; Použijte ochranu na základě schválení nebo událostí publikování.
+
+
+
+* **Škálovatelný management prezentací**  
+
+&nbsp; Ochrana tisíců souborů PPTX pomocí automatizovaných skriptů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

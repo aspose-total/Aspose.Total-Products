@@ -79,7 +79,85 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Dodawanie znaków wodnych do plików **PPT** za pomocą interfejsów API w języku Python pomaga chronić starsze prezentacje PowerPoint poprzez dodawanie widocznych etykiet kontrolnych bez konieczności ręcznych edycji w oryginalnym środowisku autorskim.
+
+Automatyzacja wspiera spójne oznakowanie wodne starszych prezentacji, umożliwiając skalowalne zarządzanie archiwami, bibliotekami sprzedaży i dziedziczonymi zasobami prezentacji.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Pieczątki poufności dla starszych prezentacji**  
+
+&nbsp; Dodaj oznaczenia "POUFNE" do starszych prezentacji PPT nadal używanych wewnętrznie.
+
+
+
+* **Kontrole udostępniania tylko do celów weryfikacji**  
+
+&nbsp; Dodaj nakładki "DO PRZEGLĄDU", aby zapobiec przypadkowemu publicznemu rozpowszechnianiu.
+
+
+
+* **Etykiety własności dla historycznej własności intelektualnej**  
+
+&nbsp; Dodaj znak wodny do starszych slajdów, aby zachować atrybucję w skopiowanych prezentacjach.
+
+
+
+* **Biblioteki slajdów z ograniczeniami partnerskimi**  
+
+&nbsp; Włóż ograniczenia do prezentacji PPT rozprowadzanych do zewnętrznych współpracowników.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Oznakowanie wodne wsadowe całego archiwum PPT**  
+
+&nbsp; Automatyczne stemplowanie całych katalogów starszych prezentacji w celu standaryzacji zarządzania.
+
+
+
+* **Automatyczne umieszczanie z uwzględnieniem układu**  
+
+&nbsp; Umieszczaj znaki wodne na podstawie układów slajdów, aby uniknąć nakładania się bloków treści.
+
+
+
+* **Generowanie wersji wyjściowych**  
+
+&nbsp; Twórz automatycznie wersje z oznaczeniami wodnymi "podgląd" i "wewnętrzne".
+
+
+
+* **Stemplowanie na żądanie dostępu**  
+
+&nbsp; Dodawaj specyficzne dla odbiorcy znaki wodne, gdy prezentacje są żądane za pośrednictwem zautomatyzowanego portalu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

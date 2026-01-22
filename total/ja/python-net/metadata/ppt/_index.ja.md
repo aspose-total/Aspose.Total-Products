@@ -75,7 +75,93 @@ PPT メタデータ管理アプリまたはユーティリティを開発する�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用した**PPT**ファイルのドキュメントメタデータ抽出により、著者、タイムスタンプ、および説明フィールドなどのプロパティを読み取ることが可能となり、古いプレゼンテーション資産の管理が可能になります。これにより、古いスライドライブラリを維持している組織にとって、ガバナンスと発見性がサポートされます。
+
+
+
+自動化ワークフローでは、PPTのメタデータを使用して、大規模な古いプレゼンテーションの分類、索引付け、およびライフサイクル制御が可能となり、最小限の手動作業で整理、監査、および移行が行われます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **レガシースライドライブラリの監査**
+
+  アーカイブされたデッキ全体での年齢、所有権、およびメンテナンスのギャップを理解するためにPPTのメタデータを抽出します。
+
+
+
+* **移行準備評価**
+
+  メタデータを使用して、最初に変換または更新する必要があるPPTデッキを優先順位付けします。
+
+
+
+* **所有権に基づくメンテナンスルーティング**
+
+  著者/編集者フィールドからメンテナンス担当者を特定し、更新リクエストを効率的にルーティングします。
+
+
+
+* **コンテンツポートフォリオ分析**
+
+  PPTのメタデータを集計して、ライブラリのカバレッジ、陳腐化、および運用リスクを測定します。
+
+
+
+* **重複資産の検出**
+
+  メタデータパターンを使用して、重複が予想されるものを検出し、ライブラリの混乱を減らします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **レガシーデッキ取り込みパイプライン**
+
+  PPTファイルを自動的に取り込み、メタデータを抽出し、標準化されたフィールドを持つ在庫システムに割り当てます。
+
+
+
+* **変換キューの自動化**
+
+  メタデータの年齢と使用分類規則に基づいてPPTデッキを変換キューに追加します。
+
+
+
+* **陳腐なデッキの通知ワークフロー**
+
+  PPTのメタデータが更新されていない期間が長いことや所有権フィールドが欠落している場合にアラートをトリガーします。
+
+
+
+* **自動ライブラリクリーンアップジョブ**
+
+  定期的にPPTリポジトリをスキャンし、メタデータに基づいて重複または管理されていないと特定された資産を隔離します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

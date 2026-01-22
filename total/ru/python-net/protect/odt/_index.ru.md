@@ -76,7 +76,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT - это широко используемый открытый формат текстовых документов для отчетов и документации. Защита файлов ODT необходима для сохранения подлинности документов и предотвращения случайных или злонамеренных изменений.
+
+
+
+Защита документов на основе Python позволяет внедрить безопасность ODT в автоматизированные рабочие процессы по документированию и публикации с минимальными накладными расходами.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Безопасное распространение отчетов**  
+
+&nbsp; Защитите завершенные отчеты в формате ODT перед их распространением.
+
+
+
+* **Целостность документации**  
+
+&nbsp; Гарантируйте, что официальные документы остаются неизменными после утверждения.
+
+
+
+* **Безопасность документов на различных платформах**  
+
+&nbsp; Применяйте защиту независимо от среды редактирования.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированные конвейеры документации**  
+
+&nbsp; Защищайте файлы ODT в рамках непрерывного процесса генерации документации.
+
+
+
+* **Базирующаяся на правилах безопасность файлов**  
+
+&nbsp; Применяйте политики защиты на основе метаданных документа.
+
+
+
+* **Массовое укрепление документов**  
+
+&nbsp; Безопасное программное обеспечение нескольких файлов ODT пакетными операциями.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

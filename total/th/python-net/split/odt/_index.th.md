@@ -79,7 +79,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT เป็นรูปแบบเอกสารเปิดที่ออกแบบมาสำหรับเอกสารข้อความโครงสร้าง การแยกไฟล์ ODT ช่วยให้สามารถประมวลผลระดับส่วนและจัดการเนื้อหาโครงสร้างได้
+
+
+
+โดยใช้ Python APIs, การแยกไฟล์ ODT กลายเป็นเรื่องที่มีประสิทธิภาพและเหมาะสำหรับท่องไปรของเอกสารอัตโนมัติ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **การสกัดเนื้อหาโครงสร้าง**  
+
+&nbsp; สกัดบทหรือส่วนต่างๆ ออกมาอย่างอิสระ
+
+
+
+* **การเก็บถาวรในรูปแบบเปิด**  
+
+&nbsp; รักษาและจัดการเนื้อหาในระดับละเอียด
+
+
+
+* **การประมวลเอกสารร่วมกัน**  
+
+&nbsp; เปิดทางให้การทำงานขนาดใหญ่บนส่วนของเอกสาร
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การแยกส่วนโครงสร้างที่ใช้ XML**  
+
+&nbsp; Python ระบุตัวชี้วัดโครงสร้างสำหรับการแยก
+
+
+
+* **การจำแนกเนื้อหาอัตโนมัติ**  
+
+&nbsp; ส่วนที่ถูกสกัดออกมาถูกจำแนกตามโปรแกรม
+
+
+
+* **การนำทางเอกสารตามขั้นตอนการทำงาน**  
+
+&nbsp; ส่วนเอกสารไหลไปยังระบบต่างๆ โดยอัตโนมัติ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

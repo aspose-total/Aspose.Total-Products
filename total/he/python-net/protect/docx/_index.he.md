@@ -76,7 +76,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX הוא פורמט מסמך Word המודרני המשמש בקרב רחב של דוחות, חוזים ומסמכים שיתופיים. הגנת קבצי DOCX חיונית לשמירה על תכניות התוכן ומניעת שינויים לא מורשים בזרימות עבודה דיגיטליות.
+
+
+
+ממשקי Python מאפשרים הגנה חלקה של קבצי DOCX על ידי החלת סיסמאות והגדרות הרשאות, מה שהופך את אבטחת המסמך לחלק בלתי נפרד מצינורות תוכן אוטומטיים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **הגנת חוזים**  
+
+  &nbsp; לשמירה על חוזים בפורמט DOCX ומניעת עריכות לא מורשות לאחר אישור.
+
+
+
+* **שליטה בתוכן שיתופי**  
+
+  &nbsp; נעילת סעיפים רגישים תוך מענה מוגבל של המשתמשים.
+
+
+
+* **שמירה על קניין רוחני**  
+
+  &nbsp; הגנה על מסמכים בבעלות כללית המשותפים בין מחלקות או שותפים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **נעילת מסמכים על בסיס זרימת עבודה**  
+
+  &nbsp; הגנה אוטומטית על קבצי DOCX בשלבים מסוימים של זרימת העבודה.
+
+
+
+* **הקצאת הרשאות דינמיות**  
+
+  &nbsp; החלת הגבלות על בסיס תפקידים באופן תכנותי במהלך יצירת המסמך.
+
+
+
+* **פרסום תוכן מאובטח**  
+
+  &nbsp; הגנה על פלטי DOCX לפני הפצה אוטומטית או אחסון.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

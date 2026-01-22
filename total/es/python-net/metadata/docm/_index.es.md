@@ -98,7 +98,93 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La extracción de metadatos de documentos para archivos **DOCM** a través de APIs de Python ayuda a los sistemas a inspeccionar las propiedades del documento teniendo en cuenta el contenido habilitado para macros y sus señales de riesgo asociadas. Esto es valioso para la gobernanza, el manejo seguro y la clasificación, especialmente cuando los documentos se mueven entre equipos o entornos.
+
+
+
+En flujos de trabajo de automatización, los metadatos de DOCM pueden impulsar controles dinámicos, como la detección de seguridad, aprobaciones condicionales y distribución restringida, al tiempo que permiten la indexación y generación de informes escalables sin necesidad de abrir archivos de forma interactiva.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principales Casos de Uso" %}}
+
+
+
+* **Detección de Documentos Conscientes de Macros**
+
+  Utilice metadatos para marcar documentos habilitados para macros para una revisión adicional y un manejo controlado.
+
+
+
+* **Clasificación de Flujos de Trabajo Sensibles**
+
+  Clasifique archivos DOCM en función de propiedades incrustadas para aplicar políticas de almacenamiento y acceso más estrictas.
+
+
+
+* **Seguimiento de Procedencia Operativa**
+
+  Capture campos de historial de autoría y modificación para rastrear dónde y cuándo se produjeron los archivos habilitados para macros.
+
+
+
+* **Informe de Estado del Repositorio**
+
+  Genere informes sobre el volumen, la antigüedad y la propiedad de los archivos DOCM para gestionar la exposición al riesgo a escala.
+
+
+
+* **Preparación para Distribución Controlada**
+
+  Valide los campos de metadatos requeridos antes de permitir que los archivos DOCM ingresen a procesos de intercambio o publicación.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+
+
+* **Tubería de Admisión con Puntuación de Riesgo**
+
+  Califique automáticamente los archivos DOCM utilizando la completitud y actualidad de los metadatos, luego enrútelos a carriles de "revisión" o "aprobación".
+
+
+
+* **Aplicación de Almacenamiento Restringido**
+
+  Si se detecta un archivo DOCM, la automatización lo traslada a una ubicación restringida y aplica reglas de retención más estrictas.
+
+
+
+* **Alertas de Excepción Habilitadas para Macros**
+
+  Active alertas cuando los metadatos de DOCM indiquen orígenes inesperados, marcas de tiempo inusuales o campos de propiedad faltantes.
+
+
+
+* **Paneles de Inventario Automatizados**
+
+  Extraiga y agregue continuamente metadatos de DOCM en paneles para la gobernanza y supervisión operativa.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

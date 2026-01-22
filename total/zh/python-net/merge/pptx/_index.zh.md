@@ -79,7 +79,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API合并PPTX演示文稿是现代幻灯片制作的最常见方法。它允许精确控制幻灯片顺序、布局和内容一致性。
+
+
+
+此功能与自动化内容引擎和报告系统完美集成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **多节幻灯片集创建（PPTX）**  
+
+&nbsp; 将代表各节的PPTX文件合并为单个幻灯片集。
+
+
+
+* **协作幻灯片集成（PPTX）**  
+
+&nbsp; 合并由多个贡献者撰写的PPTX幻灯片。
+
+
+
+* **可重用幻灯片模块组装（PPTX）**  
+
+&nbsp; 将模块化的PPTX幻灯片组装成定制演示文稿。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **动态幻灯片集生成（PPTX）**  
+
+&nbsp; 系统根据运行时输入合并PPTX文件。
+
+
+
+* **CI/CD演示文稿流水线（PPTX）**  
+
+&nbsp; 在构建或发布阶段自动化进行PPTX合并。
+
+
+
+* **可扩展演示文稿发布（PPTX）**  
+
+&nbsp; 以编程方式生成大容量PPTX幻灯片集。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

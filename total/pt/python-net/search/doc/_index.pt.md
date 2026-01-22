@@ -76,7 +76,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/wor
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Pesquisar arquivos **DOC** usando APIs do Python permite que sistemas modernos extraiam e localizem informações de documentos de processamento de texto legados que ainda são amplamente utilizados em arquivos e ambientes corporativos. A pesquisa programática garante que dados históricos e operacionais valiosos permaneçam acessíveis sem revisão manual.
+
+
+
+Quando integrada a fluxos de trabalho automatizados, a pesquisa de arquivos DOC melhora a eficiência ao permitir o processamento em lote, indexação estruturada e integração perfeita com pipelines de dados e sistemas de gerenciamento de documentos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Pesquisa de Documentos Legados**  
+
+  &nbsp; Permite descoberta baseada em palavras-chave em arquivos DOC mais antigos.
+
+
+
+* **Recuperação de Conteúdo Arquivado**  
+
+  &nbsp; Extrai informações relevantes de documentos armazenados a longo prazo.
+
+
+
+* **Consulta de Registros de Conformidade**  
+
+  &nbsp; Localiza cláusulas e declarações em registros baseados em DOC.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Indexação Automatizada de DOC**  
+
+  &nbsp; Tarefas em Python escaneiam arquivos DOC e atualizam índices pesquisáveis automaticamente.
+
+
+
+* **Extração de Conteúdo em Lote de DOC**  
+
+  &nbsp; Grandes volumes de arquivos DOC são processados sem esforço manual.
+
+
+
+* **Integração de DOC com o Sistema**  
+
+  &nbsp; O conteúdo extraído alimenta fluxos de trabalho de automação e análise downstream.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

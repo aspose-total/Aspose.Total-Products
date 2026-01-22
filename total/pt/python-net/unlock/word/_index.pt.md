@@ -72,7 +72,75 @@ Para obter mais detalhes, consulte [Documentação do produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Documentos do Word, independentemente da estrutura interna, são frequentemente protegidos para controlar edições e acesso. Desbloqueá-los programaticamente permite acesso estruturado para automação, análise e integração de sistemas.
+
+
+
+As APIs do Python permitem que o desbloqueio de documentos do Word seja incorporado com segurança em pipelines de documentos, garantindo eficiência e repetibilidade.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Processamento Unificado de Documentos**  
+
+  Permite o tratamento consistente de arquivos de processamento de texto protegidos.
+
+
+
+* **Revisão de Conteúdo Automatizada**  
+
+  Suporta a inspeção de documentos bloqueados sem etapas manuais.
+
+
+
+* **Integração de Sistema a Sistema**  
+
+  Permite que arquivos do Word protegidos fluam por plataformas automatizadas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Pipelines de Documentos de Ponta a Ponta**  
+
+  Os arquivos do Word são desbloqueados automaticamente no momento da ingestão.
+
+
+
+* **Acesso a Documentos com Base em Políticas**  
+
+  O desbloqueio é acionado por regras de fluxo de trabalho e permissões.
+
+
+
+* **Otimização Contínua de Conteúdo**  
+
+  Documentos protegidos são desbloqueados para melhorias automatizadas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

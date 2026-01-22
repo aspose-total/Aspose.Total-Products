@@ -100,7 +100,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحليل **عروض الـ PPT** باستخدام واجهات برمجة التطبيقات في Python يسمح بإستخراج نصوص الشرائح والملاحظات والعناصر الهيكلية من ملفات العروض. وهذا يجعل المعرفة المعتمدة على الشرائح متاحة للأنظمة الآلية.
+
+
+
+في سياقات الأتمتة، يدعم تحليل العروض دعم إعادة الاستخدام للمحتوى، وتلخيصه، ودمجه في سياقات الوثائق أو التحليلات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **استخراج محتوى الشرائح**  
+
+&nbsp; يسترد العناوين والنقاط الرئيسية وملاحظات المتحدث.
+
+
+
+* **تحليل الأرشيف الخاص بالعروض**  
+
+&nbsp; يجعل عروض الشرائح التاريخية قابلة للبحث والتحليل.
+
+
+
+* **أنابيب إعادة استخدام المحتوى**  
+
+&nbsp; يحول مواد العرض إلى صيغ محتوى أخرى.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **تلخيص الشرائح بشكل آلي**  
+
+&nbsp; يولد ملخصات موجزة من محتوى الشرائح المحلل.
+
+
+
+* **ملء قاعدة المعرفة**  
+
+&nbsp; يستيعب بيانات العرض في مستودعات منظمة.
+
+
+
+* **أتمتة مقارنة الإصدارات**  
+
+&nbsp; يكتشف التغييرات بين إصدارات العروض المختلفة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

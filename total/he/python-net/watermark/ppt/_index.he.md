@@ -76,7 +76,85 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+הטבעת קבצי **PPT** באמצעות Python APIs עוזרת להגן על מצגות PowerPoint מסורתיות על ידי הוספת תוויות שליטה נראות מבלי לדרוש עריכות ידניות בסביבת היוצר המקורית.
+
+האוטומציה תומכת בהטבעת קבצים עם סימני מים עקביים בכל המצגות הישנות, מאפשרת שלטון קנוני לארכיונים, ספריות מכירות ונכסים מצגת שניתם.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **חותמות סודיות למצגות מסורתיות**  
+
+&nbsp; הוסף סימונים של "סודי" למצגות PPT ישנות שנמצאות בשימוש פנימי.
+
+
+
+* **שלטונות לשיתוף רק למטרת ביקורת**  
+
+&nbsp; הוסף כיסוי "לצורך ביקורת" כדי למנוע הפצה ציבורית בטעות.
+
+
+
+* **תוויות בעלות עבור קניין רוחני היסטורי**  
+
+&nbsp; הטבע תמונות מסורתיות כדי לשמור על היחסיות בין מצגות המועתקות.
+
+
+
+* **ספריות שקופות לשותפים מוגבלים**  
+
+&nbsp; הטמע הגבלות במצגות PPT שמיוחסות לשותפים חיצוניים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **הטבעת קבצי PPT בצורה אוטומטית בסדרות מרובות**  
+
+&nbsp; חותם על כל הספריות הישנות באופן אוטומטי כדי לתקן את השלטון.
+
+
+
+* **מיקום אוטומטי על פי תפריטי השקפה**  
+
+&nbsp; מקם סימני מים על פי תפריטי השקפה כדי למנוע התנגשות עם תוכן.
+
+
+
+* **יצירת גרסאות משודרגות**  
+
+&nbsp; יצירת גרסאות "תצוגה מקדימה" ו"פנימית" עם סימני מים באופן תכנותי.
+
+
+
+* **הטבעת מופעלת בעת בקשות גישה**  
+
+&nbsp; הוסף סימני מים ספציפיים למקבלים כאשר מצגות מבוקשות דרך פורטל אוטומטי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

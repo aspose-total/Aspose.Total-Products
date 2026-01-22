@@ -83,7 +83,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La marca de agua de las hojas de cálculo **ODS** con APIs de Python mejora el control sobre las hojas de cálculo de documentos abiertos al agregar etiquetas de gobernanza visibles para la propiedad, confidencialidad y distribución.
+
+La automatización de la marca de agua en ODS respalda flujos de trabajo de informes escalables, asegurando indicadores de política consistentes en conjuntos de datos compartidos en formatos abiertos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* **Marcado de Hojas de Datos Confidenciales**  
+
+&nbsp; Marcar archivos ODS sensibles para reducir el riesgo de compartir externamente de forma accidental.
+
+
+
+* **Etiquetas de Datos Preliminares**  
+
+&nbsp; Aplicar superposiciones de "NO VERIFICADO" durante ciclos de validación de datos en etapas tempranas.
+
+
+
+* **Avisos de Uso de Datos de Socios**  
+
+&nbsp; Agregar avisos visibles que aclaren las licencias y restricciones de reutilización.
+
+
+
+* **Soporte de Rastro de Auditoría Interna**  
+
+&nbsp; Marcar exportaciones para que sea obvio qué sistema produjo un conjunto de datos dado.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+
+
+* **Marcado de Exportación ETL**  
+
+&nbsp; Marcar archivos ODS automáticamente cuando se generan desde canalizaciones de datos automatizadas.
+
+
+
+* **Texto de Marca de Agua Basado en Roles**  
+
+&nbsp; Personalizar el contenido de la marca de agua según el equipo receptor o nivel de acceso.
+
+
+
+* **Controles de Distribución de Informes Programados**  
+
+&nbsp; Aplicar marcas de agua con marca de tiempo antes de enviar informes periódicos de ODS.
+
+
+
+* **Etiquetado Automatizado de Políticas de Retención**  
+
+&nbsp; Agregar etiquetas visuales de retención para respaldar la automatización del ciclo de vida de las hojas de cálculo almacenadas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

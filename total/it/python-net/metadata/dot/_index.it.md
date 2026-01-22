@@ -98,7 +98,93 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'estrazione dei metadati dei file **DOT** tramite API Python supporta la comprensione e la gestione degli asset dei modelli legacy leggendo le proprietà incorporate come autore del modello, tempi di creazione e campi descrittivi. Questo è importante per la standardizzazione, la governance e il mantenimento di output documentali consistenti in un'organizzazione.
+
+
+
+Nei sistemi automatizzati, i metadati DOT consentono la gestione controllata del ciclo di vita del modello, aiutando i flussi di lavoro a scegliere i modelli corretti, far rispettare gli standard approvati e individuare file di modelli obsoleti o non gestiti su larga scala.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Creazione del Catalogo dei Modelli**
+
+  Estrarre i metadati DOT per creare un inventario ricercabile dei modelli e dei loro scopi previsti.
+
+
+
+* **Applicazione della Standardizzazione**
+
+  Identificare quali modelli sono approvati controllando la proprietà e le proprietà descrittive.
+
+
+
+* **Monitoraggio del Ciclo di Vita del Modello**
+
+  Monitorare i tempi di creazione/modifica per individuare modelli obsoleti che necessitano di revisione o ritiro.
+
+
+
+* **Governance dell'Utilizzo del Modello**
+
+  Utilizzare i metadati per collegare i modelli ai dipartimenti o ai flussi di lavoro per una distribuzione controllata.
+
+
+
+* **Registri dei Modelli Pronti per l'Audit**
+
+  Produrre registri tracciabili che mostrano l'origine dei modelli e la cronologia della manutenzione per esigenze di conformità.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Controllo degli Accessi ai Modelli Approvati**
+
+  Bloccare automaticamente i modelli DOT non approvati dal essere archiviati in repository condivisi in base alle regole dei metadati.
+
+
+
+* **Avvisi di Aggiornamento Programmati dei Modelli**
+
+  Attivare notifiche periodiche quando i modelli DOT superano le soglie di età o mancano dei campi del manutentore.
+
+
+
+* **Automazione della Selezione del Modello**
+
+  Utilizzare i metadati per selezionare in modo programmato il modello DOT corretto per un determinato flusso di lavoro o dipartimento.
+
+
+
+* **Flusso di Lavoro di Pulizia del Repository**
+
+  Identificare e mettere in quarantena modelli DOT duplicati o obsoleti utilizzando la similarità dei metadati e i timestamp.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -74,7 +74,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Redakce dokumentů pomocí Python API pro soubory ODT umožňuje bezpečnou úpravu textových souborů otevřených dokumentů bez narušení jejich základní struktury. Tímto se podporuje transparentní a standardizované zpracování dokumentů.
+
+
+
+Automatizací redakce ODT mohou organizace efektivně spravovat citlivý obsah napříč ekosystémy dokumentů založených na open-source a interoperabilitě.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Výměna dokumentů s důrazem na ochranu soukromí**  
+
+&nbsp; Redakce osobních údajů před sdílením souborů ODT externě.
+
+
+
+* **Odstranění obsahu řízené politikou**  
+
+&nbsp; Prosazování pravidel redakce v souladu s organizačními politikami.
+
+
+
+* **Publikování otevřených dokumentů**  
+
+&nbsp; Příprava sanitizovaných dokumentů pro veřejné nebo meziplatformní použití.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Redakce metadat a textu**  
+
+&nbsp; Automatické odstranění citlivého obsahu jak z těla textu, tak z metadat.
+
+
+
+* **Hromadné zpracování otevřených formátů**  
+
+&nbsp; Redakce velkých objemů souborů ODT v jednom automatizovaném běhu.
+
+
+
+* **Integrace s potrubími CMS**  
+
+&nbsp; Aplikace redakce před publikováním nebo syndikací dokumentů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

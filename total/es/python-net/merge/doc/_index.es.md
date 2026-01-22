@@ -88,7 +88,73 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusión de documentos utilizando las API de Python es una capacidad fundamental para el procesamiento de contenido moderno, la generación de informes y la gestión del ciclo de vida de documentos. Permite a los desarrolladores y sistemas combinar varios archivos en una salida única y estructurada, preservando el formato, diseño y flujo lógico a través de fuentes de documentos heterogéneas.
+
+
+
+Al automatizar la fusión de documentos, las organizaciones pueden reducir el esfuerzo manual, garantizar la consistencia e integrar flujos de trabajo de documentos directamente en tuberías de datos, servicios backend y sistemas de automatización escalables construidos en Python.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* **Informes consolidados de Word (DOC)**  
+
+&nbsp; Combine documentos heredados de Word en un informe único para revisión unificada y archivado.
+
+
+
+* **Ensamblaje de documentos por lotes (DOC)**  
+
+&nbsp; Ensamble múltiples archivos DOC generados por diferentes sistemas en un entregable único.
+
+
+
+* **Agregación de contenido histórico (DOC)**  
+
+&nbsp; Fusionar archivos DOC archivados para modernizar y reutilizar colecciones de contenido más antiguas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* **Compilación programada de informes (DOC)**  
+
+&nbsp; Los trabajos automatizados fusionan archivos DOC diaria o semanalmente en un informe distribuible único.
+
+
+
+* **Unión de documentos basada en flujos de trabajo (DOC)**  
+
+&nbsp; Los flujos de trabajo backend fusionan dinámicamente archivos DOC cuando se completan las etapas del proceso.
+
+
+
+* **Generación de salida impulsada por canalización (DOC)**  
+
+&nbsp; La fusión de DOC se activa programáticamente como parte de una canalización de documentos más grande.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

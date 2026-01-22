@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'apposizione di filigrane ai fogli di calcolo **XLS** con API Python aiuta a proteggere i file Excel legacy aggiungendo segni visibili di proprietà e riservatezza agli artefatti di dati ancora ampiamente utilizzati nei flussi di lavoro di reportistica più datati.
+
+L'automazione rende praticabile l'apposizione di filigrane XLS per grandi archivi, garantendo una governance coerente senza la modifica manuale di ogni cartella di lavoro.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* **Protezione di Fogli Finanziari Legacy**  
+
+&nbsp; Aggiungi etichette di riservatezza ai vecchi fogli di bilancio e previsione XLS.
+
+
+
+* **Marcature di Proprietà per Report Operativi**  
+
+&nbsp; Apponi timbri ai report XLS per mantenere l'identità della fonte attraverso le copie inoltrate.
+
+
+
+* **Indicatori di Dati in Bozza**  
+
+&nbsp; Applica filigrane "PRELIMINARI" per ridurre gli errori derivanti da numeri non convalidati.
+
+
+
+* **Controlli di Distribuzione per la Condivisione Esterna**  
+
+&nbsp; Incorpora restrizioni d'uso visibili ai fogli di calcolo legacy condivisi con fornitori.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Apposizione Automatica di Filigrane negli Archivi**  
+
+&nbsp; Filigrana i file XLS durante la migrazione verso nuovi sistemi di archiviazione o governance.
+
+
+
+* **Monitoraggio Cartella per Report in Arrivo**  
+
+&nbsp; Rileva nuovi arrivi di file XLS e applica filigrane di policy standard automaticamente.
+
+
+
+* **Filigrana basata su Regole per Tipo di Report**  
+
+&nbsp; Scegli il contenuto della filigrana in base a modelli di nomi file o metadati di classificazione.
+
+
+
+* **Apposizione di Filigrane su Esportazioni Pianificate**  
+
+&nbsp; Apponi filigrane automatiche alle esportazioni XLS prima che vengano consegnate agli interessati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

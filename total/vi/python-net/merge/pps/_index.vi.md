@@ -79,7 +79,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Slides for Python via 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Hợp nhất định dạng trình diễn PowerPoint bằng Python APIs giúp tạo ra các bản trình diễn sẵn sàng phát lại thống nhất. Các định dạng này được thiết kế để trình bày trực tiếp thay vì chỉnh sửa.
+
+
+
+Tự động hóa đảm bảo việc trình diễn bài trình diễn nhất quán trên các nhóm và sự kiện.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tổ Hợp Trình Tự Động (PPS)**  
+
+  Merge các tệp PPS thành một luồng trình diễn duy nhất.
+
+
+
+* **Tổ Hợp Trình Diễn Sự Kiện (PPS)**  
+
+  Kết hợp các tệp trình diễn cho hội nghị hoặc cuộc họp.
+
+
+
+* **Đóng Gói Trình Phát Trình Diễn (PPS)**  
+
+  Tổng hợp các tệp PPS thành một bản trình diễn có thể chạy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Chuẩn Bị Bộ Slide Sự Kiện Tự Động (PPS)**  
+
+  Hệ thống hợp nhất các tệp PPS trước các sự kiện được lên lịch.
+
+
+
+* **Tạo Ra Trình Diễn Trình Diễn Phía Sau (PPS)**  
+
+  Việc hợp nhất PPS được kích hoạt theo cách lập trình.
+
+
+
+* **Tự Động Hóa Giao Hàng Trình Diễn (PPS)**  
+
+  Các bản trình diễn được hợp nhất tự động để phát lại.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

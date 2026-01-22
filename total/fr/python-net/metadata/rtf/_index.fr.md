@@ -98,7 +98,93 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'extraction des métadonnées de documents pour les fichiers **RTF** via des API Python aide les systèmes à capturer les propriétés de base des fichiers et les descripteurs intégrés des documents en texte enrichi souvent utilisés pour la portabilité et la compatibilité héritée. Cela prend en charge l'indexation, la gouvernance et le suivi du cycle de vie des référentiels contenant des types de documents mixtes.
+
+
+
+Dans les flux de travail automatisés, les métadonnées RTF peuvent piloter la classification, le routage et la synchronisation des catalogues, permettant une gestion évolutive des documents hérités ou orientés échange sans examen manuel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Indexation de référentiel de formats mixtes**
+
+  Extraire les métadonnées RTF pour améliorer la découvrabilité et unifier les rapports à travers des magasins de documents divers.
+
+
+
+* **Gouvernance du contenu hérité**
+
+  Utiliser les horodatages et les champs d'auteur pour établir la responsabilité et les cycles de rafraîchissement des documents plus anciens.
+
+
+
+* **Classification en masse pour les opérations**
+
+  Normaliser les propriétés RTF disponibles en balises structurées pour le routage et le contrôle d'accès.
+
+
+
+* **Planification de migration et de conversion**
+
+  Auditer les métadonnées RTF pour prioriser les cibles de conversion et identifier les détails de propriété manquants.
+
+
+
+* **Contrôle qualité pour l'admission**
+
+  Signaler les fichiers RTF avec des métadonnées incomplètes ou incohérentes pour des flux de travail de remédiation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Normalisation de l'admission héritée**
+
+  Extraire automatiquement les métadonnées RTF et les transformer en champs normalisés pour un registre central de documents.
+
+
+
+* **Orchestration de file d'attente de conversion**
+
+  Acheminer les fichiers RTF dans des pipelines de conversion en fonction de l'exhaustivité des métadonnées et des seuils de péremption.
+
+
+
+* **Attribution de responsabilité automatisée**
+
+  Créer des tâches de propriété pour les fichiers RTF sans propriétés de mainteneur, en utilisant le contexte du répertoire plus les signaux de métadonnées.
+
+
+
+* **Rapports périodiques sur l'état du référentiel**
+
+  Générer des résumés planifiés de la couverture des métadonnées RTF, des champs manquants et de la distribution de l'ancienneté pour le suivi de la gouvernance.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

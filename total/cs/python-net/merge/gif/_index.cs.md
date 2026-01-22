@@ -85,7 +85,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Slučování obrázků ve formátu GIF pomocí Python API umožňuje vytváření sjednocených animací nebo sloučených vizuálních sekvencí. Toto se běžně používá pro instruktážní obsah, vizuální monitorování a lehkou pohybovou grafiku.
+
+
+
+Automatizace umožňuje konzistentní a opakovatelnou kompozici GIF bez manuální úpravy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Sestavení animované sekvence (GIF)**  
+
+&nbsp; Sloučení více GIFů do jedné animace.
+
+
+
+* **Vytváření instruktážních vizuálů (GIF)**  
+
+&nbsp; Sloučení kroků založených na GIFech do jednoho vedeného vizuálu.
+
+
+
+* **Agregace snímků monitorování (GIF)**  
+
+&nbsp; Sjednocení zachycených GIFů pro vizualizaci časové osy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizované generování animací (GIF)**  
+
+&nbsp; Systémy dynamicky slučují GIFy na základě událostí.
+
+
+
+* **Aktualizace vizuálů založená na pracovním postupu (GIF)**  
+
+&nbsp; Slučování GIFů je spouštěno změnami procesu.
+
+
+
+* **Programové pohybové obsahové potrubí (GIF)**  
+
+&nbsp; Automatizovaná potrubí generují sloučené výstupy GIF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

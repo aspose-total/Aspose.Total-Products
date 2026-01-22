@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 Word 템플릿 형식을 병합하면 팀과 시스템 간에 일관된 문서 작성이 가능해집니다. 템플릿 기반 병합은 유연한 콘텐츠 구성을 허용하면서도 표준화된 레이아웃을 보장합니다.
+
+
+
+이 방식은 구조와 브랜딩이 출력물 전체에서 일관되어야 하는 자동화된 문서 공장에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **템플릿 기반 문서 조립 (DOT)**  
+
+  &nbsp; 일관된 서식을 강제하기 위해 DOT 기반 문서를 병합합니다.
+
+
+
+* **표준화된 출력물 생성 (DOT)**  
+
+  &nbsp; 템플릿 기반 파일을 통합하여 통일된 문서를 생성합니다.
+
+
+
+* **재사용 가능한 레이아웃 관리 (DOT)**  
+
+  &nbsp; 레이아웃 일관성을 유지하기 위해 DOT 문서를 집계합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동화된 템플릿 적용 (DOT)**  
+
+  &nbsp; 문서 생성 중 자동으로 DOT 파일을 병합합니다.
+
+
+
+* **일괄 템플릿 처리 (DOT)**  
+
+  &nbsp; 예약된 작업에서 대량의 DOT 문서를 병합합니다.
+
+
+
+* **시스템 강제 레이아웃 제어 (DOT)**  
+
+  &nbsp; 자동화된 시스템이 서식 일관성을 보장하기 위해 DOT 파일을 병합합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

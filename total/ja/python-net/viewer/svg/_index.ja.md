@@ -82,7 +82,73 @@ SVG ビューア アプリまたはユーティリティを開発する必要が
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを介したSVGの表示により、スケーラブルでベクターベースのグラフィックスを精度と明瞭さを保ってレンダリングすることができます。
+
+これは解像度に依存しないビジュアルを必要とするシステムにとって有用です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* **ベクターグラフィックの検査**  
+
+&nbsp; 品質の低下なしにグラフィックスを表示します。
+
+
+
+* **図表の検証**  
+
+&nbsp; 技術的または図式的なビジュアルを検査します。
+
+
+
+* **デザインアセットのレビュー**  
+
+&nbsp; アプリケーションやドキュメントで使用されるビジュアルアセットを検証します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **自動化された図表パイプライン**  
+
+&nbsp; Pythonスクリプトが文書作業中にSVGをレンダリングします。
+
+
+
+* **スケーラブルなプレビューシステム**  
+
+&nbsp; ベクターグラフィックスは異なるサイズで動的に表示されます。
+
+
+
+* **ビジュアル一貫性のチェック**  
+
+&nbsp; 自動化された表示により、アセットが正しくレンダリングされることが保証されます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

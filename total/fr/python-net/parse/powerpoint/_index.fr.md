@@ -100,7 +100,75 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'analyse des **présentations PowerPoint** à l'aide des API Python permet l'extraction structurée du contenu des diapositives, y compris les titres, les puces, les mises en page et les notes du présentateur des fichiers de présentation. Cela rend les informations basées sur les présentations accessibles pour l'analyse, la réutilisation et l'intégration système.
+
+
+
+Lorsqu'il est connecté à des flux de travail automatisés, l'analyse PowerPoint transforme les diaporamas statiques en sources de données dynamiques qui soutiennent le traitement des connaissances évolutif, les rapports et les opérations de contenu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Extraction du contenu des diapositives**  
+
+&nbsp; Récupère le texte structuré et les éléments de mise en page des diapositives PowerPoint.
+
+
+
+* **Traitement des connaissances de présentation**  
+
+&nbsp; Convertit les diaporamas en actifs d'information recherchables et analysables.
+
+
+
+* **Réutilisation et transformation du contenu**  
+
+&nbsp; Permet la réutilisation du matériel de présentation à travers des documents et des plates-formes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Ingestion automatisée des présentations**  
+
+&nbsp; Traite automatiquement les fichiers PowerPoint dans le cadre des pipelines d'ingestion.
+
+
+
+* **Résumé du contenu au niveau des diapositives**  
+
+&nbsp; Génère des résumés et des sorties structurées à partir des données des diapositives analysées.
+
+
+
+* **Distribution de contenu programmable**  
+
+&nbsp; Alimente le contenu de présentation extrait dans les systèmes et flux de travail en aval.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -82,7 +82,73 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Imaging for Python vi
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Xem SVG thông qua các API Python cho phép hiển thị đồ họa dựa trên vector có thể co giãn với độ chính xác và rõ ràng.
+
+Điều này rất quan trọng đối với các hệ thống phụ thuộc vào hình ảnh không phụ thuộc vào độ phân giải.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Kiểm Tra Đồ Họa Vector**  
+
+  Xem đồ họa mà không mất chất lượng.
+
+
+
+* **Xác Nhận Sơ Đồ**  
+
+  Kiểm tra hình ảnh kỹ thuật hoặc sơ đồ.
+
+
+
+* **Đánh Giá Tài Sản Thiết Kế**  
+
+  Xác nhận tài sản hình ảnh được sử dụng trong ứng dụng hoặc tài liệu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Các Luồng Làm Việc Sơ Đồ Tự Động**  
+
+  Kịch bản Python render SVG trong quy trình tài liệu.
+
+
+
+* **Hệ Thống Xem Trước Có Thể Co Giãn**  
+
+  Đồ họa vector được hiển thị động ở các kích thước khác nhau.
+
+
+
+* **Kiểm Tra Sự Nhất Quán Trực Quan**  
+
+  Xem tự động đảm bảo tài sản hiển thị đúng cách.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

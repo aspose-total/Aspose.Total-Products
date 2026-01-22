@@ -77,7 +77,75 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Dokumentenredaktion mithilfe von Python-APIs für PowerPoint-Formate ermöglicht eine sichere Handhabung von Folieninhalten, die oft strategische oder vertrauliche Informationen enthalten. Dies hilft, versehentliche Datenexposition während Präsentationen zu verhindern.
+
+
+
+Durch Automatisierung wird die PowerPoint-Redaktion zu einem wiederholbaren Prozess, der nahtlos in das Management des Präsentationslebenszyklus passt.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Sicherheit bei Executive-Präsentationen**  
+
+&nbsp; Sensible Metriken vor dem breiten Teilen der Folien entfernen.
+
+
+
+* **Vorbereitung von Kundenpräsentationen**  
+
+&nbsp; Interne Notizen und Daten aus Präsentationen entfernen.
+
+
+
+* **Redaktion mit Versionskontrolle**  
+
+&nbsp; Saubere Präsentationsvarianten für verschiedene Zielgruppen aufrechterhalten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Scannen von Folieninhalten**  
+
+&nbsp; Text automatisch auf allen Folien prüfen und schwärzen.
+
+
+
+* **Genehmigungsworkflows für Präsentationen**  
+
+&nbsp; Redaktion vor der Genehmigung oder Weitergabe von Präsentationen durchsetzen.
+
+
+
+* **Automatisierte Folienregeneration**  
+
+&nbsp; Präsentationen dynamisch aus Quelldaten schwärzen und neu erstellen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

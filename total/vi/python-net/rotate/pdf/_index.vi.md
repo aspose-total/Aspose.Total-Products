@@ -72,7 +72,87 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.PDF for Python via .N
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Xoay tài liệu PDF một cách tự động là yêu cầu phổ biến trong quy trình xử lý tài liệu hiện đại, đặc biệt khi xử lý các tệp quét, các trang có hướng khác nhau hoặc nội dung được tải lên bởi người dùng. Việc xoay PDF bằng Python API cho phép các nhà phát triển và hệ thống sửa chính xác hướng trang mà không cần can thiệp thủ công, cải thiện tính đọc, tính nhất quán và độ chính xác trong xử lý dưới hạng.
+
+
+
+Bằng cách tận dụng tự động hóa dựa trên Python, việc xoay PDF có thể được tích hợp một cách liền mạch vào các đường ống lớn như hệ thống tiếp nhận tài liệu, hệ thống lưu trữ và nền tảng quản lý nội dung. Điều này cho phép xử lý hướng tài liệu một cách có thể mở rộng, lặp lại và không lỗi trên một lượng lớn các tệp.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Sửa Chính Hướng Tài Liệu Quét**  
+
+&nbsp; Tự động xoay các trang PDF quét không chính xác sang hướng đúng để cải thiện tính đọc và tính khả dụng.
+
+
+
+* **Chuẩn Hóa PDF Từ Nhiều Nguồn**  
+
+&nbsp; Căn chỉnh hướng trang khi kết hợp PDF từ các nguồn khác nhau để đảm bảo trải nghiệm xem nhất quán.
+
+
+
+* **Tiền Xử Lý cho OCR và Trích Xuất Văn Bản**  
+
+&nbsp; Đảm bảo các trang được hướng đúng trước khi OCR, cải thiện độ chính xác trong việc nhận dạng văn bản và chất lượng dữ liệu.
+
+
+
+* **Chuẩn Hóa Tài Liệu Được Tải Lên Bởi Người Dùng**  
+
+&nbsp; Điều chỉnh xoay trang cho các tài liệu PDF được tải lên để đáp ứng tiêu chuẩn nền tảng hoặc tuân thủ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Các Đường Ống Tiếp Nhận Tự Động**  
+
+&nbsp; Việc xoay PDF được áp dụng tự động trong quá trình tiếp nhận để chuẩn hóa tài liệu trước khi lưu trữ hoặc xử lý tiếp theo.
+
+
+
+* **Quy Trình Xử Lý Tập Lớn**  
+
+&nbsp; Các bộ sưu tập lớn các tệp PDF được xoay một cách tự động theo lô, giảm thiểu công sức thủ công và thời gian xử lý.
+
+
+
+* **Tự Động Hóa Tiền Xử Lý OCR**  
+
+&nbsp; Việc xoay được áp dụng động trước các nhiệm vụ OCR để cải thiện độ chính xác nhận dạng trong các hệ thống trích xuất văn bản tự động.
+
+
+
+* **Xử Lý Dựa Trên API Theo Yêu Cầu**  
+
+&nbsp; Các trang PDF được xoay trong thời gian thực thông qua API như một phần của dịch vụ biến đổi tài liệu động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,75 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX to nowoczesny format dokumentu programu Word powszechnie używany do raportów, umów i dokumentów współpracy. Ochrona plików DOCX jest kluczowa dla zachowania integralności treści i zapobiegania nieautoryzowanym zmianom w cyfrowych procesach roboczych.
+
+
+
+API Pythona umożliwiają bezproblemową ochronę plików DOCX poprzez stosowanie haseł i ustawień uprawnień, sprawiając, że bezpieczeństwo dokumentów staje się integralną częścią zautomatyzowanych procesów przetwarzania treści.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Ochrona umów**  
+
+&nbsp; Zabezpieczaj umowy DOCX, aby zapobiec nieautoryzowanym edycjom po zatwierdzeniu.
+
+
+
+* **Kontrola treści współpracy**  
+
+&nbsp; Blokuj wrażliwe sekcje, pozwalając jednocześnie na ograniczoną interakcję użytkowników.
+
+
+
+* **Ochrona własności intelektualnej**  
+
+&nbsp; Chron dokumenty własnościowe udostępniane między działami lub partnerami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Zabezpieczanie dokumentów oparte na procesach roboczych**  
+
+&nbsp; Automatycznie chron pliki DOCX na określonych etapach procesu roboczego.
+
+
+
+* **Dynamiczne przypisywanie uprawnień**  
+
+&nbsp; Stosuj ograniczenia oparte na rolach programistycznie podczas generowania dokumentów.
+
+
+
+* **Bezpieczne publikowanie treści**  
+
+&nbsp; Zabezpieczaj wyniki DOCX przed zautomatyzowanym rozpowszechnianiem lub przechowywaniem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -100,7 +100,75 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Menganalisis **presentasi PowerPoint** menggunakan API Python memungkinkan ekstraksi konten slide yang terstruktur, termasuk judul, poin-poin penting, tata letak, dan catatan pembicara dari file presentasi. Hal ini membuat informasi berbasis presentasi dapat diakses untuk analisis, penggunaan ulang, dan integrasi sistem.
+
+
+
+Ketika terhubung ke alur kerja otomatis, analisis PowerPoint mengubah dek slide statis menjadi sumber data dinamis yang mendukung pemrosesan pengetahuan yang dapat diskalakan, pelaporan, dan operasi konten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Ekstraksi Konten Slide**  
+
+&nbsp; Mengambil teks terstruktur dan elemen tata letak dari slide PowerPoint.
+
+
+
+* **Pemrosesan Pengetahuan Presentasi**  
+
+&nbsp; Mengubah dek slide menjadi aset informasi yang dapat dicari dan dianalisis.
+
+
+
+* **Penggunaan Ulang dan Transformasi Konten**  
+
+&nbsp; Memungkinkan penggunaan kembali materi presentasi di berbagai dokumen dan platform.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Penerimaan Presentasi Otomatis**  
+
+&nbsp; Memproses file PowerPoint secara otomatis sebagai bagian dari saluran penerimaan.
+
+
+
+* **Ringkasan Konten Level Slide**  
+
+&nbsp; Menghasilkan ringkasan dan output terstruktur dari data slide yang dianalisis.
+
+
+
+* **Distribusi Konten Programatik**  
+
+&nbsp; Memberikan konten presentasi yang diekstrak ke sistem dan alur kerja hilir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

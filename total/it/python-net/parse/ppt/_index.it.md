@@ -100,7 +100,75 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'analisi delle **presentazioni PPT** utilizzando le API di Python consente l'estrazione del testo delle diapositive, delle note e degli elementi strutturali dai file di presentazione. Ciò rende accessibile la conoscenza basata sulle diapositive ai sistemi automatizzati.
+
+
+
+Nei contesti di automazione, l'analisi delle presentazioni supporta il riutilizzo dei contenuti, la sintesi e l'integrazione nei flussi di lavoro della documentazione o dell'analisi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Estrazione dei Contenuti delle Diapositive**  
+
+  &nbsp; Recupera titoli, elenchi puntati e note degli speaker.
+
+
+
+* **Analisi Archivistica delle Presentazioni**  
+
+  &nbsp; Rende le vecchie serie di diapositive cercabili e analizzabili.
+
+
+
+* **Pipeline di Riutilizzo dei Contenuti**  
+
+  &nbsp; Converte il materiale della presentazione in altri formati di contenuto.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Sintesi Automatica delle Diapositive**  
+
+  &nbsp; Genera riassunti concisi dal contenuto delle diapositive analizzate.
+
+
+
+* **Popolazione della Base di Conoscenza**  
+
+  &nbsp; Ingestisce i dati della presentazione nei repository strutturati.
+
+
+
+* **Automazione della Confronto delle Versioni**  
+
+  &nbsp; Rileva le modifiche tra diverse versioni della presentazione.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

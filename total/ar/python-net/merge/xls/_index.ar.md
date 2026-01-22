@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+دمج مستندات Excel وجداول البيانات باستخدام واجهات برمجة التطبيقات في Python أمر أساسي لتوحيد البيانات المهيكلة من مصادر متعددة في ملف واحد قابل للتحليل. يُستخدم هذا القدرة على نطاق واسع في التقارير والتحليلات والمالية والأنظمة التشغيلية حيث تكون البيانات منتشرة عبر العديد من جداول البيانات.
+
+
+
+دمج جداول البيانات بشكل تلقائي يعزز من معالجة البيانات بشكل متسق، ويقلل من الأخطاء اليدوية، ويدمج سير العمل في جداول البيانات مباشرة في خطوط الإنتاج ومعالجة البيانات القابلة للتوسيع.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **توحيد جداول البيانات القديمة (XLS)**  
+
+&nbsp; دمج ملفات XLS القديمة في دفتر عمل واحد للتحليل الموحد.
+
+
+
+* **تجميع بيانات الإدارات (XLS)**  
+
+&nbsp; دمج جداول XLS من فرق متعددة في ملف رئيسي واحد.
+
+
+
+* **توحيد البيانات التاريخية (XLS)**  
+
+&nbsp; توحيد البيانات المؤرشفة في XLS للتقارير والهجرة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائي" %}}
+
+
+
+* **تجميع بيانات مجدولة (XLS)**  
+
+&nbsp; تدمج الوظائف التلقائية ملفات XLS الدورية في تقارير موحدة.
+
+
+
+* **تطبيع البيانات الخلفية (XLS)**  
+
+&nbsp; تدمج الأنظمة ملفات XLS كجزء من سير العمل لتنظيف البيانات.
+
+
+
+* **تجميع جداول البيانات بناءً على الأنابيب (XLS)**  
+
+&nbsp; يتم تشغيل دمج XLS بشكل برمجي في خطوط الإنتاج ومعالجة البيانات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

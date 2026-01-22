@@ -76,7 +76,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+מיזוג מסמכים באמצעות Python APIs הוא יכולת בסיסית לעיבוד תוכן מודרני, דיווח וניהול מחזור חיי מסמך. זה מאפשר למפתחים ולמערכות לשלב קבצים מרובים לפלט מובנה אחד, תוך שמירה על עיצוב, מבנה וזרימה לוגית במקורות מסמכים הטובים.
+
+
+
+על ידי אוטומציה של מיזוג מסמכים, ארגונים יכולים להפחית את המאמץ הידני, לוודא עקביות ולשלב זרימות עבודה של מסמכים ישירות לצינורות נתונים, שירותי צד שרת ומערכות אוטומציה נמצאות על Python.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **דוחות מילה מאוחדים (DOC)**  
+
+  &nbsp; לשלב מסמכי Word מורשים לדוח אחד לסקירה וארכיון מאוחד.
+
+
+
+* **אספקת מסמך בצורת סדרה (DOC)**  
+
+  &nbsp; לאסוף קבצי DOC מרובים שנוצרו על ידי מערכות שונות למסמך אחד.
+
+
+
+* **איגוד תוכן היסטורי (DOC)**  
+
+  &nbsp; למזג קבצי DOC שאורכבו לשדרג ולשימוש מחדש באוספי תוכן ישנים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **אוסף דוחות מתוזמן (DOC)**  
+
+  &nbsp; עבודות ממוזגות מקבצי DOC יומיים או שבועיים לדוח משתף.
+
+
+
+* **סריגת מסמך על בסיס זרימת עבודה (DOC)**  
+
+  &nbsp; זרימות עבודה אחוריות ממזגות דינמיות קבצי DOC כאשר שלבי התהליך הושלמו.
+
+
+
+* **יצירת פלט מופעל על ידי צינור (DOC)**  
+
+  &nbsp; מיזוג DOC מופעל תכנותית כחלק מצינור מסמך גדול יותר.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

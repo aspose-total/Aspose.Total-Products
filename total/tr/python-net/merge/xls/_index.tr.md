@@ -78,7 +78,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'lerini kullanarak Excel ve elektronik tablo belgelerini birleştirmek, yapılandırılmış verileri birden fazla kaynaktan tek bir analiz edilebilir dosyaya konsolide etmek için önemlidir. Bu yetenek, verilerin birçok elektronik tablo üzerine dağıldığı raporlama, analiz, finans ve operasyonel sistemlerde yaygın olarak kullanılmaktadır.
+
+
+
+Otomasyon odaklı elektronik tablo birleştirme, tutarlı veri işleme sağlar, manuel hataları azaltır ve elektronik tablo iş akışlarını doğrudan ölçeklenebilir veri ve işleme borularına entegre eder.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Eski Elektronik Tablo Konsolidasyonu (XLS)**  
+
+&nbsp; Eski XLS dosyalarını birleştirerek birleşik analiz için tek bir çalışma kitabı oluşturun.
+
+
+
+* **Departman Veri Birleştirme (XLS)**  
+
+&nbsp; Birden fazla ekipten gelen XLS elektronik tablolarını tek bir ana dosyada birleştirin.
+
+
+
+* **Tarihsel Veri Birleştirme (XLS)**  
+
+&nbsp; Arşivlenmiş XLS verilerini raporlama ve göç için birleştirin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Zamanlanmış Veri Toplamaları (XLS)**  
+
+&nbsp; Otomatikleştirilmiş işler periyodik XLS dosyalarını birleştirerek konsolide raporlar oluşturur.
+
+
+
+* **Arka Uç Veri Normalleştirme (XLS)**  
+
+&nbsp; Sistemler, veri temizleme iş akışlarının bir parçası olarak XLS dosyalarını birleştirir.
+
+
+
+* **Boru Tabanlı Elektronik Tablo Montajı (XLS)**  
+
+&nbsp; XLS birleştirme, ETL borularında programatik olarak tetiklenir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

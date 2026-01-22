@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การผสานสมัครงาน Excel รุ่นใหม่โดยใช้ Python APIs เป็นวิธีมาตรฐานสำหรับผสานชุดข้อมูลที่มีโครงสร้าง รายงาน และโมเดล XLSX เป็นรูปแบบสเปรดชีตที่ใช้กันอย่างแพร่หลายในระบบสมัยใหม่
+
+
+
+ความสามารถนี้ผสานอย่างไม่มีรอยต่อกับแพลตฟอร์มข้อมูล ทำให้สามารถสร้างสเปรดชีตแบบอัตโนมัติและผสานข้อมูลในขอบเขตขนาดใหญ่
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **การสร้างรายงานหลายแผ่น (XLSX)**  
+
+&nbsp; ผสานไฟล์ XLSX เข้าด้วยกันในสมุดงานรายงานอย่างครบถ้วน
+
+
+
+* **การรวมแหล่งข้อมูล (XLSX)**  
+
+&nbsp; รวมชุดข้อมูล XLSX จากระบบหลายระบบ
+
+
+
+* **การรวมข้อมูลร่วมกัน (XLSX)**  
+
+&nbsp; ผสานไฟล์ XLSX ที่มีการสนับสนุนจากผู้มีส่วนได้ส่วนเสียหลายคน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* **การสร้างสเปรดชีตแบบไดนามิก (XLSX)**  
+
+&nbsp; ระบบผสานไฟล์ XLSX โดยขึ้นอยู่กับเงื่อนไขข้อมูลระหว่างการทำงาน
+
+
+
+* **การรวม ETL Pipeline (XLSX)**  
+
+&nbsp; การผสาน XLSX ถูกอัตโนมัติภายในท่อรับข้อมูล
+
+
+
+* **การอัตโนมัติรายงานขนาดใหญ่ (XLSX)**  
+
+&nbsp; รายงาน XLSX ปริมาณมากถูกผสานโดยโปรแกรม
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

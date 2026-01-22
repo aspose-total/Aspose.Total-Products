@@ -82,7 +82,73 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Wyświetlanie plików PNG za pomocą interfejsów API Pythona umożliwia wysokiej jakości renderowanie obrazów bezstratne z obsługą przezroczystości.
+
+Jest to idealne rozwiązanie dla scenariuszy automatyzacji wymagających dokładności wizualnej i elastycznej integracji obrazów.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Recenzja obrazów bezstratna**  
+
+&nbsp; Przeglądaj obrazy bez artefaktów kompresji.
+
+
+
+* **Inspekcja zasobów z przezroczystością**  
+
+&nbsp; Dokładna inspekcja obrazów z kanałami alfa.
+
+
+
+* **Walidacja zasobów interfejsu użytkownika**  
+
+&nbsp; Przeglądaj zasoby wizualne używane w aplikacjach lub dokumentach.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Automatyzacja potoku zasobów**  
+
+&nbsp; Skrypty Pythona renderują pliki PNG podczas procesu budowania lub weryfikacji wdrożeń.
+
+
+
+* **Dynamiczne usługi podglądu**  
+
+&nbsp; Obrazy są automatycznie wyświetlane w pulpitach nawigacyjnych lub narzędziach.
+
+
+
+* **Testowanie regresji wizualnej**  
+
+&nbsp; Automatyczne wyświetlanie wspiera procesy porównywania i walidacji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

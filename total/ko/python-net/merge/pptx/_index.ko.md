@@ -79,7 +79,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTX API를 사용하여 PPTX 프레젠테이션을 병합하는 것은 현대적인 슬라이드 구성을 위한 가장 일반적인 방법입니다. 이를 통해 슬라이드 순서, 레이아웃 및 콘텐츠 일관성을 정밀하게 제어할 수 있습니다.
+
+
+
+이 기능은 자동화된 콘텐츠 엔진 및 보고 시스템과 깔끔하게 통합됩니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **다중 섹션 덱 생성 (PPTX)**  
+
+&nbsp; 섹션을 나타내는 PPTX 파일을 단일 덱으로 병합합니다.
+
+
+
+* **협업 슬라이드 통합 (PPTX)**  
+
+&nbsp; 여러 기여자가 작성한 PPTX 슬라이드를 결합합니다.
+
+
+
+* **재사용 가능한 슬라이드 모듈 조립 (PPTX)**  
+
+&nbsp; 모듈식 PPTX 슬라이드를 사용자 정의 프레젠테이션으로 조립합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **동적 슬라이드 덱 생성 (PPTX)**  
+
+&nbsp; 시스템은 실행 시 입력에 따라 PPTX 파일을 병합합니다.
+
+
+
+* **CI/CD 프레젠테이션 파이프라인 (PPTX)**  
+
+&nbsp; PPTX 병합은 빌드 또는 릴리스 단계에서 자동화됩니다.
+
+
+
+* **확장 가능한 프레젠테이션 게시 (PPTX)**  
+
+&nbsp; 대량의 PPTX 덱이 프로그래밍 방식으로 생성됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

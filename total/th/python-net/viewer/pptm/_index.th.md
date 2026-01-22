@@ -89,7 +89,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การดู PPTM ด้วย Python APIs ช่วยให้สามารถตรวจสอบงานศิลปะในงานนำเสนอที่มีการเปิดใช้งานไมโครได้โดยไม่ต้องรันโค้ดที่ฝังอยู่
+
+นี้ช่วยให้สามารถตรวจสอบได้อย่างปลอดภัยในสภาพแวดล้อมอัตโนมัติ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **การตรวจสอบสไลด์ที่เปิดใช้ไมโคร**  
+
+&nbsp; ดูเนื้อหางานนำเสนออย่างปลอดภัย
+
+
+
+* **การตรวจสอบที่ตระหนักรู้ความเสี่ยง**  
+
+&nbsp; ตรวจสอบสไลด์โดยไม่รันไมโคร
+
+
+
+* **การสนับสนุนกระบวนการอนุมัติ**  
+
+&nbsp; ตรวจสอบงานนำเสนอก่อนการใช้งานที่ควบคุม
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* **การรับงานนำเสนออย่างปลอดภัย**  
+
+&nbsp; การดูข้อมูล PPTM ด้วย Python อย่างปลอดภัย
+
+
+
+* **การตรวจสอบความเป็นไปได้ตามข้อกำหนด**  
+
+&nbsp; งานนำเสนอถูกตรวจสอบโดยอัตโนมัติ
+
+
+
+* **การตรวจสอบความถูกต้องก่อนการใช้งาน**  
+
+&nbsp; การดูรองรับกระบวนการอนุมัติ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

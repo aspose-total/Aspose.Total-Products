@@ -73,7 +73,85 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Vodoznakování souborů **JPG** pomocí Python API podporuje běžné pracovní postupy s obrázky přidáním jasných vlastnických, důkazních štítků a pravidel distribuce do nejčastěji používaného formátu obrázků na webu.
+
+Automatizované vodoznakování JPG je ideální pro vysokokapacitní potrubí, kde je vyžadováno konzistentní umístění a opakovatelný styl napříč mnoha aktivy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Hromadné značkování pro knihovny obrázků**  
+
+&nbsp; Vodoznačte velké sady JPG aktiv, abyste udrželi konzistentní identitu napříč kanály.
+
+
+
+* **Ochrana obsahu před vydáním**  
+
+&nbsp; Přidejte překrytí „NEURČENO K PUBLIKACI“, abyste zabránili náhodnému předčasnému zveřejnění.
+
+
+
+* **Značkování náhledů pro prodejní materiály**  
+
+&nbsp; Opečetěte náhledové štítky na JPG vizuály používané v návrzích a prezentacích.
+
+
+
+* **Přiřazení zdroje pro affiliate aktivum**  
+
+&nbsp; Vložte vodoznaky s atribucí pro sdílená média k vylepšení sledování zdroje.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatické označování na základě složek**  
+
+&nbsp; Rozpoznávejte nové soubory JPG ve sledovaných složkách a okamžitě je označte vodoznakem.
+
+
+
+* **Reagující škálování vodoznaku**  
+
+&nbsp; Automaticky upravujte velikost vodoznaku na základě rozlišení a poměru stran.
+
+
+
+* **Generování vodoznaku v různých jazycích**  
+
+&nbsp; Vytvářejte lokalizovaný text vodoznaku na základě pravidel pro cílovou skupinu nebo region.
+
+
+
+* **Vytváření deduplikovaných variant**  
+
+&nbsp; Vyhněte se opětovnému zpracování již označených JPG souborů sledováním otisků prstů v automatizaci.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

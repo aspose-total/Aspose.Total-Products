@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用してマクロが有効化されたExcelスプレッドシートをマージすることで、ワークブックに組み込まれたデータ駆動型のロジック、計算、自動化を統合することが可能になります。これは運用および財務環境で一般的です。
+
+
+
+自動化されたXLSMのマージにより、データとマクロ駆動型の動作がスケーラブルなシステム内で保存されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **マクロ駆動型レポートの組み立て（XLSM）**  
+
+&nbsp; 自動計算とロジックを含むXLSMファイルをマージします。
+
+
+
+* **運用ワークブックの統合（XLSM）**  
+
+&nbsp; 部門間でマクロが有効化されたスプレッドシートを結合します。
+
+
+
+* **プロセスの自動化パッケージング（XLSM）**  
+
+&nbsp; 定期的な運用プロセスで使用されるXLSMファイルを集約します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **ルールベースのワークブック生成（XLSM）**  
+
+&nbsp; システムは定義された自動化ルールに基づいてXLSMファイルをマージします。
+
+
+
+* **自動化された財務モデリング（XLSM）**  
+
+&nbsp; XLSMのマージは繰り返し可能な財務ワークフローをサポートします。
+
+
+
+* **制御されたマクロの保存（XLSM）**  
+
+&nbsp; 自動パイプラインはマクロを保持しながらXLSMファイルをマージします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

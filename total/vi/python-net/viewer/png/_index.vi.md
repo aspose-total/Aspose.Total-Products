@@ -82,7 +82,73 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Imaging for Python vi
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Xem PNG bằng cách sử dụng Python APIs hỗ trợ hiển thị hình ảnh chất lượng cao, không mất dữ liệu với xử lý trong suốt.
+
+Điều này rất lý tưởng cho các kịch bản tự động yêu cầu độ chính xác hình ảnh và tích hợp hình ảnh linh hoạt.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Xem Hình Ảnh Không Mất Dữ Liệu**  
+
+  Xem hình ảnh mà không có hiện tượng nén dữ liệu.
+
+
+
+* **Kiểm Tra Tài Sản Có Độ Trong Suốt**  
+
+  Kiểm tra hình ảnh có kênh alpha một cách chính xác.
+
+
+
+* **Xác Thực Tài Sản Giao Diện Người Dùng**  
+
+  Xem xét tài sản trực quan được sử dụng trong ứng dụng hoặc tài liệu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Tự Động Hóa Quy Trình Xử Lý Tài Sản**  
+
+  Kịch bản Python render các tệp PNG trong quá trình kiểm tra xây dựng hoặc triển khai.
+
+
+
+* **Dịch Vụ Xem Trước Động**  
+
+  Hình ảnh được hiển thị tự động trên bảng điều khiển hoặc công cụ.
+
+
+
+* **Kiểm Tra Hồi Quy Trực Quan**  
+
+  Xem tự động hỗ trợ quy trình so sánh và xác thực.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

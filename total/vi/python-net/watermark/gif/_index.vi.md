@@ -73,7 +73,85 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Imaging for Python via
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chèn dấu nước vào tệp **GIF** bằng Python APIs giúp bảo vệ các hoạt hình nhẹ và đồ họa lặp thường được sử dụng trong bản demo, nội dung hỗ trợ và tài sản truyền thông xã hội.
+
+Chèn dấu nước tự động đảm bảo thương hiệu và quyền sở hữu nhất quán trên các khung hình, duy trì sự liên tục hình ảnh trong khi hỗ trợ quy trình làm việc sáng tạo với khối lượng lớn.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Sở Hữu Tài Sản Demo cho Hoạt Hình**  
+
+&nbsp; Thêm dấu hiệu tinh tế vào GIF hướng dẫn sản phẩm để ngăn chặn việc sử dụng không ghi nguồn.
+
+
+
+* **Thương Hiệu Nội Dung Hỗ Trợ**  
+
+&nbsp; Đánh dấu GIF sửa lỗi để giữ nguồn tài liệu xác định.
+
+
+
+* **Tem Xem Trước Chiến Dịch**  
+
+&nbsp; Áp dụng lớp phủ "XEM TRƯỚC" vào các hoạt hình tiếp thị trước khi được phê duyệt ra mắt.
+
+
+
+* **Kiểm Soát Phân Phối Theo Đối Tác Cụ Thể**  
+
+&nbsp; Nhúng nhận dạng đối tác để theo dõi sự lưu thông của tài sản hoạt hình được chia sẻ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Hiển Thị Dấu Nước Nhất Quán trên Khung Hình**  
+
+&nbsp; Áp dụng cùng vị trí dấu nước trên tất cả các khung hình GIF theo cách tự động.
+
+
+
+* **Tự Động Chèn Dấu Nước Khi Tải Lên Thư Viện Đa Phương Tiện**  
+
+&nbsp; Đóng dấu GIF ngay khi chúng được thêm vào thư mục quản lý tài sản.
+
+
+
+* **Tạo Ra Các Phiên Bản Phù Hợp cho Nhiều Kênh**  
+
+&nbsp; Tự động tạo ra các phiên bản có dấu nước cho từng nền tảng (ví dụ: xem trước so với công khai).
+
+
+
+* **Thêm Hoặc Xóa Dấu "ĐÃ PHÊ DUYỆT" Liên Kết với Quy Trình**  
+
+&nbsp; Thêm hoặc xóa dấu "ĐÃ PHÊ DUYỆT" dựa trên tín hiệu phê duyệt tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

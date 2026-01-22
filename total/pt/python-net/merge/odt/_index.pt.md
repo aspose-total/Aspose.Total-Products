@@ -78,7 +78,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/wor
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A fusão de arquivos de texto do OpenDocument usando APIs Python suporta padrões abertos e fluxos de trabalho de documentos multiplataforma. Isso permite a consolidação perfeita de conteúdo criado em ambientes de escritório de código aberto ou mistos.
+
+
+
+A automação em torno da fusão de ODT garante a interoperabilidade, mantendo a integridade do documento em todos os sistemas.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Consolidação de Documentos Multiplataforma (ODT)**  
+
+  Merge arquivos ODT criados em diferentes suites de escritório.
+
+
+
+* **Agregação de Conteúdo em Padrão Aberto (ODT)**  
+
+  Combine documentos ODT para publicação unificada.
+
+
+
+* **Montagem Colaborativa de Conteúdo (ODT)**  
+
+  Mescle arquivos ODT de vários colaboradores em um único documento.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Automação de Fluxo de Trabalho Aberto (ODT)**  
+
+  Sistemas automatizados mesclam arquivos ODT sem dependências proprietárias.
+
+
+
+* **Compilação de Documentos Agendada (ODT)**  
+
+  A fusão de ODT é executada como parte de tarefas de backend recorrentes.
+
+
+
+* **Pipelines de Publicação Interoperáveis (ODT)**  
+
+  Arquivos ODT são mesclados dinamicamente em pipelines entre sistemas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

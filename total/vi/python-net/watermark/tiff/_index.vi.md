@@ -73,7 +73,85 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Imaging for Python via
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chèn dấu nước vào hình ảnh **TIFF** bằng Python APIs hỗ trợ quy trình làm việc với hình ảnh chất lượng cao bằng cách thêm nhãn sở hữu và kiểm soát vào các tệp thông thường được sử dụng trong quét, in và lưu trữ.
+
+Tự động hóa đặc biệt quý giá đối với việc đánh dấu nước cho TIFF do kích thước tệp lớn và quy trình xử lý hàng loạt, giúp việc xử lý nhất quán trên các đường ống hình ảnh tài liệu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Đánh Dấu Sở Hữu Tài Liệu Quét**  
+
+&nbsp; Áp dụng dấu nước vào các tệp TIFF đã quét để bảo tồn nguồn gốc trong các bộ sưu tập hình ảnh.
+
+
+
+* **Dấu "PROOF" cho Quy Trình In**  
+
+&nbsp; Thêm dấu nước "PROOF" vào các tệp TIFF trước in để kiểm soát xem xét.
+
+
+
+* **Nhãn Tuân Thủ cho Kho Lưu Trữ Hình Ảnh**  
+
+&nbsp; Đóng dấu hình ảnh bị hạn chế với văn bản phân loại để hỗ trợ chính sách xử lý.
+
+
+
+* **Dấu Vết Chuyển Đổi Lưu Trữ**  
+
+&nbsp; Đánh dấu nước vào các tệp TIFF trước khi chuyển đổi sang các định dạng khác để giữ nguyên danh tính nguồn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Tự Động Đánh Dấu Nước Đầu Ra Máy Quét**  
+
+&nbsp; Đóng dấu tệp TIFF ngay sau khi quét bằng cách sử dụng thư mục theo dõi hoặc công việc tiếp nhận.
+
+
+
+* **Xử Lý TIFF Nhiều Trang**  
+
+&nbsp; Áp dụng dấu nước nhất quán trên các trang trong các tệp TIFF nhiều trang một cách tự động.
+
+
+
+* **Điều Chỉnh Tích Hợp Dựa trên Độ Phân Giải**  
+
+&nbsp; Điều chỉnh kích thước dấu nước dựa trên DPI để duy trì diện mạo in vật lý nhất quán.
+
+
+
+* **Quy Trình Lưu Trữ và Kiểm Toán Tự Động**  
+
+&nbsp; Đánh dấu hình ảnh như một phần của các quy trình gắn thẻ lưu trữ và xem xét tuân thủ tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

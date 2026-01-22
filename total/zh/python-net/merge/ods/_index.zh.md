@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API合并OpenDocument电子表格支持开放标准和跨平台数据工作流程。这对依赖开源办公工具的环境非常理想。
+
+
+
+围绕ODS合并的自动化确保互操作性，同时保持结构化数据完整性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **跨平台电子表格合并（ODS）**  
+
+&nbsp; 合并在不同办公套件中创建的ODS文件。
+
+
+
+* **开放标准数据聚合（ODS）**  
+
+&nbsp; 将ODS电子表格合并以进行统一分析。
+
+
+
+* **协作数据编制（ODS）**  
+
+&nbsp; 合并来自分布式贡献者的ODS文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **开放数据管道自动化（ODS）**  
+
+&nbsp; 系统合并ODS文件而无需专有依赖。
+
+
+
+* **定时电子表格编制（ODS）**  
+
+&nbsp; ODS合并作为定期后端任务的一部分运行。
+
+
+
+* **互操作性报告管道（ODS）**  
+
+&nbsp; ODS文件在数据工作流程中动态合并。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

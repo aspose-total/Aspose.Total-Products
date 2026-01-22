@@ -77,7 +77,75 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Redagowanie dokumentów za pomocą interfejsów API w języku Python dla plików ODP umożliwia bezpieczne zarządzanie treścią prezentacji utworzonych w standardach otwartych dokumentów. Jest to istotne przy udostępnianiu slajdów, które mogą zawierać poufne lub własnościowe informacje.
+
+
+
+Automatyzacja zapewnia, że prezentacje ODP mogą być konsekwentnie oczyszczane, wspierając skalowalne i powtarzalne kontrole prywatności wśród zasobów prezentacji.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+
+
+* **Udostępnianie poufnych slajdów**  
+
+&nbsp; Usuń poufne dane z slajdów prezentacji przed dystrybucją.
+
+
+
+* **Zarządzanie formatem otwartym**  
+
+&nbsp; Wymuszaj polityki ochrony danych na plikach prezentacji w standardzie otwartym.
+
+
+
+* **Oczyszczanie materiałów szkoleniowych**  
+
+&nbsp; Usuń wewnętrzne odniesienia przed opublikowaniem treści edukacyjnych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Zasady oczyszczania na poziomie slajdu**  
+
+&nbsp; Automatyczne usuwanie treści z określonych slajdów lub układów.
+
+
+
+* **Potoki budowania prezentacji**  
+
+&nbsp; Zintegruj oczyszczanie w zautomatyzowane procesy generowania prezentacji.
+
+
+
+* **Zaplanowane skanowania zgodności**  
+
+&nbsp; Okresowo oczyszczaj przechowywane pliki ODP za pomocą zadań automatycznych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

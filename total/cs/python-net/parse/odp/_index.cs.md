@@ -100,7 +100,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Parsování **prezentačních souborů ODP** pomocí Python API poskytuje přístup k obsahu uloženému ve formátu prezentace na základě snímků. Toto podporuje strukturované extrakce bez závislosti na proprietárních nástrojích.
+
+
+
+Automatizované parsování ODP umožňuje škálovatelné zpracování dat prezentace v otevřených a rozšiřitelných ekosystémech.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití případy" %}}
+
+
+
+* **Analýza otevřené prezentace**  
+
+&nbsp; Extrahuje text a strukturu snímků z ODP souborů.
+
+
+
+* **Indexace obsahu prezentace**  
+
+&nbsp; Umožňuje vyhledávání a opakované použití snímků ve formátu otevřeného.
+
+
+
+* **Extrakce dat pro reporting**  
+
+&nbsp; Převádí obsah snímků do strukturovaných datových sad.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizované zpracování snímků**  
+
+&nbsp; Zpracovává ODP soubory jako součást plánovaných pracovních postupů.
+
+
+
+* **Kontroly konzistence obsahu**  
+
+&nbsp; Validuje strukturu snímků proti definovaným pravidlům.
+
+
+
+* **Převody prezentace mezi různými formáty**  
+
+&nbsp; Programaticky převádí obsah ODP do jiných formátů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

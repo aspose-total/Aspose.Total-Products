@@ -76,7 +76,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+حماية مستندات Word بتنسيق DOC أمر أساسي لحماية الملفات التراثية التي تعمل بعد اليوم في العديد من سير العمل التجارية والأرشيفية. تطبيق حماية المستند يضمن بقاء النصوص الحساسة والنماذج والملكية الفكرية آمنة حتى عند مشاركتها بين الفرق أو الأنظمة.
+
+
+
+باستخدام واجهات برمجة التطبيقات باستخدام Python، يمكن حماية ملفات DOC بشكل برمجي بكلمات مرور وضوابط الإذن، مما يتيح تنفيذ تلقائي لسياسات الأمان عبر مستودعات المستندات الكبيرة وأنابيب العمل القديمة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **أمان المستندات التراثية**  
+
+  تطبيق الحماية على مستندات Word القديمة لمنع التعديلات غير المصرح بها أو النسخ.
+
+
+
+* **الامتثال للملفات المؤرشفة**  
+
+  ضمان أن ملفات DOC التاريخية تلبي متطلبات الأمان والتنظيم الحديثة.
+
+
+
+* **مشاركة المستندات المحكمة**  
+
+  تقييد حقوق التحرير عند توزيع ملفات DOC داخليًا أو خارجيًا.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **حماية دفعة من الأرشيفات**  
+
+  تأمين آلاف ملفات DOC تلقائيًا أثناء عمليات الأرشفة أو الهجرة.
+
+
+
+* **التحكم في الوصول بناءً على السياسات**  
+
+  فرض قواعد حماية موحدة على ملفات DOC أثناء استيعابها في الأنظمة.
+
+
+
+* **توزيع آمن تلقائي**  
+
+  حماية مستندات DOC ديناميكيًا قبل إرسالها من خلال سير العمل التلقائي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/cel
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A fusão de formatos de modelos do Excel usando APIs do Python garante uma estrutura e layout consistentes em planilhas geradas. A fusão baseada em modelos é fundamental para relatórios padronizados e fluxos de trabalho de entrada de dados.
+
+
+
+A automação permite a geração rápida de planilhas uniformes sem formatação manual.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+- **Montagem de Planilhas Baseadas em Modelo (XLT)**  
+
+&nbsp; Mesclar arquivos baseados em XLT para impor layouts consistentes.
+
+
+
+- **Coleta de Dados Padronizada (XLT)**  
+
+&nbsp; Combinar planilhas orientadas por modelo em um único arquivo.
+
+
+
+- **Estruturas de Planilha Reutilizáveis (XLT)**  
+
+&nbsp; Agregar documentos XLT para manter um design uniforme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+- **Aplicação Automática de Modelo (XLT)**  
+
+&nbsp; Arquivos XLT são mesclados automaticamente durante a geração.
+
+
+
+- **Processamento em Lote de Modelos (XLT)**  
+
+&nbsp; Trabalhos agendados mesclam várias planilhas baseadas em XLT.
+
+
+
+- **Automação Controlada por Layout (XLT)**  
+
+&nbsp; Sistemas mesclam arquivos XLT para garantir a consistência de formato.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

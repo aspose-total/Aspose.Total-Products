@@ -98,7 +98,93 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'extraction des métadonnées de documents pour les fichiers **ODT** via des API Python offre un accès programmatique aux propriétés des documents textuels, permettant ainsi l'audit, la classification et l'enrichissement de la recherche sans avoir à recourir à une inspection manuelle. Ceci est important pour la gouvernance des documents, la gestion des connaissances et le suivi du cycle de vie.
+
+
+
+Dans les systèmes d'automatisation, les métadonnées ODT peuvent être utilisées pour faire respecter les normes, acheminer les approbations et synchroniser les catalogues, soutenant ainsi un traitement évolutif à travers de vastes référentiels avec des règles cohérentes.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Organisation de la base de connaissances**
+
+  Utilisez les métadonnées ODT pour catégoriser et indexer les documents internes pour une récupération plus rapide.
+
+
+
+* **Contrôles de propriété et de responsabilité**
+
+  Extrayez les champs de l'auteur et de l'éditeur pour attribuer des relecteurs et maintenir la responsabilité.
+
+
+
+* **Décisions de conservation et d'archivage**
+
+  Utilisez les horodatages pour déterminer si les fichiers ODT doivent être archivés, conservés ou actualisés.
+
+
+
+* **Normalisation des métadonnées pour l'analyse**
+
+  Convertissez les propriétés ODT en champs cohérents pour les rapports et l'analyse des tendances.
+
+
+
+* **Validation préalable à la publication**
+
+  Validez les champs descriptifs requis avant de convertir les documents ODT en formats publiés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Classification d'admission basée sur des règles**
+
+  Classez automatiquement les documents ODT dans des workflows en utilisant la présence de métadonnées, la propriété et les horodatages.
+
+
+
+* **Workflow de synchronisation de catalogue**
+
+  Extrayez les métadonnées ODT chaque nuit et synchronisez-les avec un registre central utilisé par les systèmes de recherche internes.
+
+
+
+* **Révisions de documentation automatisées**
+
+  Déclenchez des tâches de révision pour les fichiers ODT lorsque les métadonnées indiquent qu'ils n'ont pas été mis à jour dans les délais prévus par la politique.
+
+
+
+* **Association des métadonnées aux politiques d'accès**
+
+  Appliquez dynamiquement des règles d'accès lorsque les métadonnées ODT indiquent des catégories de contenu restreint.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Unire documenti in formato Rich Text utilizzando le API di Python consente la compilazione leggera dei documenti preservando la formattazione di base e la leggibilità. RTF è ampiamente utilizzato per l'interoperabilità tra piattaforme e sistemi.
+
+
+
+La fusione automatizzata di RTF supporta un rapido elaborazione documentale programmabile in ambienti in cui la semplicità e la compatibilità sono fondamentali.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Compilazione leggera dei documenti (RTF)**  
+
+&nbsp; Unisci più file RTF in un singolo documento leggibile.
+
+
+
+* **Scambio di contenuti tra sistemi diversi (RTF)**  
+
+&nbsp; Combina documenti RTF condivisi tra sistemi eterogenei.
+
+
+
+* **Preservazione della formattazione standard (RTF)**  
+
+&nbsp; Aggrega file RTF mantenendo la formattazione essenziale.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Pipeline di elaborazione testi di backend (RTF)**  
+
+&nbsp; La fusione di RTF è automatizzata all'interno dei servizi di elaborazione testi.
+
+
+
+* **Gestione di documenti ad alto volume (RTF)**  
+
+&nbsp; I sistemi uniscono grandi quantità di file RTF in modo programmato.
+
+
+
+* **Automazione focalizzata sulla compatibilità (RTF)**  
+
+&nbsp; I file RTF vengono uniti automaticamente per massima portabilità.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTX je moderní formát šablony, který poskytuje strukturované a rozšiřitelné dokumentační vzory. Rozdělení souborů DOTX umožňuje granulovanou kontrolu nad opakovaně použitelnými komponenty rozvržení.
+
+
+
+Automatizace založená na Pythonu činí rozdělování souborů DOTX škálovatelným a spolehlivým pro systémy generování dokumentů ve firmách.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Správa opakovaně použitelných rozvržení**  
+
+&nbsp; Jednotlivé části rozvržení jsou extrahovány pro modulární použití.
+
+
+
+* **Optimalizace šablony**  
+
+&nbsp; Identifikujte a doladěte konkrétní prvky šablony.
+
+
+
+* **Kontrolované sestavování dokumentů**  
+
+&nbsp; Zajistěte konzistentní strukturu vytvořených dokumentů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* **Extrakce šablony s povědomím o XML**  
+
+&nbsp; Python analyzuje strukturu DOTX pro přesné rozdělení.
+
+
+
+* **Automatizovaná injekce rozvržení**  
+
+&nbsp; Extrahované části jsou dynamicky vkládány do dokumentů.
+
+
+
+* **Pracovní postupy ověřování šablony**  
+
+&nbsp; Části jsou ověřovány nezávisle před použitím.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

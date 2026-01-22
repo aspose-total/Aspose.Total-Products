@@ -90,7 +90,73 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Melihat file DOT dengan Python APIs memungkinkan inspeksi template dokumen Word yang digunakan sebagai dasar untuk pembuatan konten standar.
+
+Ini memungkinkan validasi otomatis dan pengaturan tata kelola alur kerja dokumen yang didorong oleh template.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Ulasan Struktur Template**  
+
+  Lihat gaya yang telah ditentukan dan tempat kosong yang tertanam dalam template Word.
+
+
+
+* **Penegakan Standarisasi**  
+
+  Periksa template untuk memastikan konsistensi format dan tata letak.
+
+
+
+* **Validasi Pra-Penyebaran**  
+
+  Tinjau template sebelum mendistribusikannya di seluruh sistem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pemeriksaan Kepatuhan Template**  
+
+  Alur kerja Python merender file DOT untuk memvalidasi aturan format.
+
+
+
+* **Audit Template Otomatis**  
+
+  Template dilihat secara berkala untuk mendeteksi perubahan yang tidak sah.
+
+
+
+* **Pipa Pembuatan Dokumen Otomatis**  
+
+  Melihat memastikan template siap untuk pembuatan dokumen otomatis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

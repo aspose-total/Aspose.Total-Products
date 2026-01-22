@@ -90,7 +90,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Просмотр документов DOCM с помощью Python API позволяет безопасно осматривать документы с макросами, не запуская встроенную логику.
+
+Это необходимо для контролируемых сред, где требуется видимость без риска для безопасности.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Просмотр документов с макросами**  
+
+&nbsp; Просмотр содержимого с отключенными макросами.
+
+
+
+* **Инспекция с упором на безопасность**  
+
+&nbsp; Изучение структуры и текста документов без их выполнения.
+
+
+
+* **Контролируемый доступ к документам**  
+
+&nbsp; Безопасный просмотр в ограниченных или автоматизированных системах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Безопасные потоки обработки**  
+
+&nbsp; Автоматизация на Python отображает содержимое DOCM без запуска макросов.
+
+
+
+* **Автоматизация проверки соответствия**  
+
+&nbsp; Документы просматриваются в рамках автоматизированных проверок политики.
+
+
+
+* **Предварительные рабочие процессы**  
+
+&nbsp; Автоматические предварительные просмотры поддерживают утверждения с участием человека.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -77,7 +77,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحرير المستند باستخدام واجهات برمجة التطبيقات في Python لملفات ODP يمكن أن يضمن التعامل الآمن مع محتوى العروض التقديمية التي تم إنشاؤها بمعايير المستند المفتوح. هذا أمر أساسي عند مشاركة الشرائح التي قد تحتوي على معلومات حساسة أو خاصة.
+
+
+
+التأكد من أن عروض الـ ODP يمكن تطهيرها بشكل متسق، مما يدعم ضوابط الخصوصية القابلة للتطبيق والقابلة للتكرار عبر الأصول التقديمية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **مشاركة الشرائح السرية**  
+
+&nbsp; إزالة البيانات الحساسة من شرائح العرض قبل التوزيع.
+
+
+
+* **حكم على التنسيق المفتوح**  
+
+&nbsp; فرض سياسات حماية البيانات على ملفات العروض بمعايير مفتوحة.
+
+
+
+* **تطهير المواد التدريبية**  
+
+&nbsp; حجب المراجع الداخلية قبل نشر محتوى التعلم.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+
+
+
+* **قواعد حجب المستوى الشريحة**  
+
+&nbsp; حجب المحتوى تلقائيًا من شرائح معينة أو تخطيطات.
+
+
+
+* **أنابيب بناء العروض التقديمية**  
+
+&nbsp; دمج الحجب في سير العمل التلقائي لإنشاء العروض التقديمية.
+
+
+
+* **فحوصات الامتثال المجدولة**  
+
+&nbsp; تطهير ملفات ODP المخزنة بانتظام باستخدام وظائف تلقائية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

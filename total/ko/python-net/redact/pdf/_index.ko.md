@@ -75,7 +75,75 @@ PDF 편집 앱 또는 유틸리티를 개발해야 합니까?[Aspose.Total for P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용한 문서 작성은 고정 레이아웃 문서에서 민감한 정보를 영구적으로 제거하는 데 필수적입니다. 이를 통해 가려진 데이터가 회복되거나 노출되지 않도록 보장합니다.
+
+
+
+자동화를 통해 신뢰할 수 있고 반복 가능한 대규모 PDF 가려짐이 가능해져 높은 규모의 규정 준수 및 공개 작업에 적합해집니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **법적 공개 준비**  
+
+&nbsp; 법정이나 규제 당국에 제출하기 전에 PDF에서 기밀 세부 정보를 제거합니다.
+
+
+
+* **공개 문서 공개**  
+
+&nbsp; 공개 액세스 전에 보고서 및 기록을 정화합니다.
+
+
+
+* **안전한 고객 전달물**  
+
+&nbsp; 공유 PDF에서 민감한 정보가 돌이킬 수 없이 제거되었는지 확인합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **콘텐츠 인식 가려짐**  
+
+&nbsp; 자동으로 민감한 텍스트나 영역을 감지하고 제거합니다.
+
+
+
+* **대규모 PDF 파이프라인**  
+
+&nbsp; 프로그래밍 방식으로 대규모 PDF 일괄 처리 및 가려짐을 수행합니다.
+
+
+
+* **출판 전 안전장치**  
+
+&nbsp; 문서가 게시되거나 배포되기 전에 가려짐 확인을 강제합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

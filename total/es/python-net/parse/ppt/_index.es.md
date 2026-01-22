@@ -100,7 +100,41 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Analizar **presentaciones de PowerPoint** utilizando APIs de Python permite extraer texto de diapositivas, notas y elementos estructurales de archivos de presentación. Esto hace que el conocimiento basado en diapositivas sea accesible para sistemas automatizados.
+
+En contextos de automatización, el análisis de presentaciones respalda la reutilización de contenido, la síntesis e integración en flujos de trabajo de documentación o análisis.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+* **Extracción de Contenido de Diapositivas**
+  &nbsp; Obtiene títulos, viñetas y notas del presentador.
+
+* **Análisis de Archivos de Presentaciones**
+  &nbsp; Hace que las antiguas presentaciones sean buscables y analizables.
+
+* **Tuberías de Reutilización de Contenido**
+  &nbsp; Convierte material de presentación en otros formatos de contenido.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+* **Resumen Automatizado de Diapositivas**
+  &nbsp; Genera resúmenes concisos a partir del contenido de las diapositivas analizadas.
+
+* **Población de Base de Conocimientos**
+  &nbsp; Ingiere datos de presentaciones en repositorios estructurados.
+
+* **Automatización de Comparación de Versiones**
+  &nbsp; Detecta cambios entre diferentes versiones de presentaciones.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

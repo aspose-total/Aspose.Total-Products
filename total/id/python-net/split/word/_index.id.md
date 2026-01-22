@@ -79,7 +79,75 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Dokumen Word mencakup berbagai format teks terstruktur yang digunakan dalam alur kerja bisnis dan teknis. Memisahkan dokumen Word memungkinkan akses terfokus ke bagian konten yang relevan.
+
+
+
+Pemisahan berbasis Python mendukung otomatisasi dengan memungkinkan penanganan dokumen yang konsisten dan dapat diskalakan di seluruh sistem.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Pemrosesan Konten Berbasis Bagian**
+
+  &nbsp; Tangani bab atau bagian secara independen.
+
+
+
+* **Optimisasi Dokumen Besar**
+
+  &nbsp; Tingkatkan kinerja dengan memisahkan file yang terlalu besar.
+
+
+
+* **Pengaturan Konten**
+
+  &nbsp; Terapkan aturan pada bagian dokumen individual.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pipa Pemrosesan Dokumen Terpadu**
+
+  &nbsp; Dokumen Word dipisahkan dan diproses secara otomatis.
+
+
+
+* **Pengalihan Konten Otomatis**
+
+  &nbsp; Bagian dikirim ke sistem yang berbeda berdasarkan logika.
+
+
+
+* **Ekstraksi Pengetahuan yang Dapat Diskalakan**
+
+  &nbsp; Bagian yang diekstraksi memberi makan alur kerja analitik atau kecerdasan buatan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -139,7 +207,7 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

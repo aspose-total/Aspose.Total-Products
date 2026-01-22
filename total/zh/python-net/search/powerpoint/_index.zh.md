@@ -76,7 +76,75 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API在程序中搜索**PowerPoint**演示文稿，实现跨企业环境中使用的多种演示文稿格式的统一访问。PowerPoint文件通常包含对业务工作流程至关重要的高价值视觉和文本信息。
+
+
+
+自动化PowerPoint搜索提高内容可见性，减少手动幻灯片审查，并支持与现代自动化和数据系统的可扩展集成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **统一演示文稿搜索**  
+
+  &nbsp; 实现对基于PowerPoint的文件的一致搜索。
+
+
+
+* **企业幻灯片发现**  
+
+  &nbsp; 提高对存储在各个存储库中的演示文稿的访问。
+
+
+
+* **演示文稿知识提取**  
+
+  &nbsp; 将幻灯片内容转换为可搜索的信息资产。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化PowerPoint索引维护**  
+
+  &nbsp; Python进程保持演示文稿搜索索引的最新。
+
+
+
+* **PowerPoint内容验证**  
+
+  &nbsp; 程序化检查确保幻灯片符合内容标准。
+
+
+
+* **PowerPoint工作流自动化**  
+
+  &nbsp; 搜索输出驱动自动化报告和决策系统。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

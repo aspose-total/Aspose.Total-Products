@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การผสานสเปรดชีต OpenDocument โดยใช้ Python APIs สนับสนุนมาตรฐานเปิดและการทำงานข้ามแพลตฟอร์มของข้อมูล นี่เหมาะสำหรับสภาพแวดล้อมที่พึ่งต่อเครื่องมือสำนักงานโอเพนซอร์ส
+
+
+
+การอัตโนมัติรอบ ODS merging ช่วยให้มีการประสานงานได้อย่างสอดคล้องพร้อมรักษาความสมบูรณ์ของข้อมูลโครงสร้าง
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **การรวมสเปรดชีตข้ามแพลตฟอร์ม (ODS)**  
+
+&nbsp; ผสานไฟล์ ODS ที่สร้างขึ้นในชุดออฟฟิศที่แตกต่างกัน
+
+
+
+* **การรวมข้อมูลมาตรฐานเปิด (ODS)**  
+
+&nbsp; รวมสเปรดชีต ODS เพื่อการวิเคราะห์ที่เป็นร่วมกัน
+
+
+
+* **การรวมข้อมูลร่วมกัน (ODS)**  
+
+&nbsp; ผสานไฟล์ ODS จากผู้สนับสนุนที่กระจาย
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การอัตโนมัติท่อข้อมูลเปิด (ODS)**  
+
+&nbsp; ระบบผสานไฟล์ ODS โดยไม่มีการพึ่งพาต่อโปรแกรมที่เป็นเจ้าของ
+
+
+
+* **การรวบรวมสเปรดชีตตามกำหนดเวลา (ODS)**  
+
+&nbsp; ODS merging ทำงานเป็นส่วนหนึ่งของงานหลังบ้านที่เกิดซ้ำๆ
+
+
+
+* **ท่อรายงานที่สามารถทำงานร่วมกัน (ODS)**  
+
+&nbsp; ไฟล์ ODS ถูกผสานไดนามิกในการทำงานข้อมูล
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

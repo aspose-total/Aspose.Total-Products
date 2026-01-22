@@ -74,7 +74,75 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La redazione di documenti utilizzando le API di Python per i file DOC consente alle organizzazioni di rimuovere in modo sicuro informazioni sensibili dai documenti di elaborazione testi legacy ancora ampiamente utilizzati nelle imprese. Questa capacità è fondamentale per la conformità, la protezione dei dati e la condivisione sicura dei documenti in ambienti regolamentati.
+
+
+
+Integrando la redazione basata su Python nei flussi di lavoro automatizzati, i file DOC possono essere elaborati su larga scala, garantendo un'applicazione coerente delle regole sulla privacy dei dati e riducendo lo sforzo manuale e gli errori umani.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Conformità ai Documenti Legacy**  
+
+&nbsp; Redigere dati confidenziali dai vecchi file DOC per soddisfare i requisiti normativi e di audit.
+
+
+
+* **Condivisione Interna Sicura**  
+
+&nbsp; Rimuovere sezioni sensibili prima di distribuire documenti tra dipartimenti o team.
+
+
+
+* **Sanitizzazione dell'Archivio Storico**  
+
+&nbsp; Pulire i file DOC archiviati per renderli sicuri per lo storage a lungo termine o l'accesso pubblico.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenario di Automazione" %}}
+
+
+
+* **Pipeline di Redazione Batch**  
+
+&nbsp; Automatizzare la redazione di migliaia di file DOC utilizzando lavori Python pianificati.
+
+
+
+* **Mascheramento del Testo Basato su Regole**  
+
+&nbsp; Applicare modelli predefiniti per rilevare e redigere automaticamente termini sensibili.
+
+
+
+* **Automazione dell'Assunzione dei Documenti**  
+
+&nbsp; Integrare la redazione nei flussi di inserimento prima che i documenti entrino nei sistemi di storage.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

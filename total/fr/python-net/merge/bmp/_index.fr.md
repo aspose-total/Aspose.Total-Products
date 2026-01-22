@@ -85,7 +85,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusion d'images bitmap à l'aide des API Python permet de consolider des visuels bruts et non compressés en une seule image composite ou séquence. Cela est utile dans l'imagerie technique, les flux de numérisation et les systèmes où la fidélité de l'image est priorisée par rapport à la taille du fichier.
+
+
+
+La fusion automatisée de BMP prend en charge les pipelines de traitement d'image déterministes où la précision, la répétabilité et la composition pilotée par le système sont nécessaires.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Compilation d'images numérisées (BMP)**  
+
+&nbsp; Fusionner plusieurs numérisations BMP en une seule image composite.
+
+
+
+* **Assemblage de diagrammes techniques (BMP)**  
+
+&nbsp; Combinez des diagrammes bitmap en visuels unifiés.
+
+
+
+* **Archivage d'images brutes (BMP)**  
+
+&nbsp; Agréger des fichiers BMP pour un stockage ou un traitement à long terme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Traitement automatisé des numérisations (BMP)**  
+
+&nbsp; Les systèmes fusionnent les images BMP lors des flux d'ingestion.
+
+
+
+* **Composition d'images par lot (BMP)**  
+
+&nbsp; Les tâches planifiées fusionnent des images bitmap de manière programmée.
+
+
+
+* **Pipelines d'imagerie de précision (BMP)**  
+
+&nbsp; La fusion de BMP est intégrée dans des systèmes de traitement contrôlés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

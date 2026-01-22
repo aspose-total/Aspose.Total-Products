@@ -75,7 +75,93 @@ Para obter mais detalhes, consulte [Documentação do Produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Extração de metadados de documentos para arquivos **PPTX** via APIs Python fornece acesso estruturado às propriedades modernas de apresentação—possibilitando indexação consistente, auditoria e rastreamento do ciclo de vida para decks de slides em escala. Isso é valioso para organizações que gerenciam grandes volumes de apresentações operacionais, de treinamento ou voltadas para clientes.
+
+
+
+Nos pipelines de automação, os metadados do PPTX se tornam um plano de controle leve para roteamento e governança: ele suporta classificação automática, revisões programadas, controles de publicação e integrações com sistemas de busca e gerenciamento de conteúdo.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Catálogo e Descoberta de Apresentações**
+
+  Extrair metadados do PPTX para construir catálogos pesquisáveis por tópico, proprietário e histórico de atualizações.
+
+
+
+* **Governança do Ciclo de Vida para Decks de Slides**
+
+  Utilizar carimbos de data e propriedades personalizadas para impor ciclos de revisão e políticas de atualização de conteúdo.
+
+
+
+* **Atribuição Automatizada de Propriedade**
+
+  Mapear campos de autor e último editor para equipes responsáveis por aprovações e manutenção.
+
+
+
+* **Validação de Prontidão para Publicação**
+
+  Garantir que as propriedades descritivas necessárias existam antes que um deck de PPTX seja distribuído externamente.
+
+
+
+* **Trilhas de Auditoria Operacionais**
+
+  Manter registros de auditoria baseados em metadados para saber quando os decks foram criados, atualizados e por quem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Classificação e Marcação no Momento do Upload**
+
+  Na ingestão, extrair metadados do PPTX e aplicar automaticamente tags e regras de roteamento de pastas para organização consistente.
+
+
+
+* **Geração de Tarefas de Revisão Programadas**
+
+  Criar tarefas de revisão periódicas quando os decks de PPTX excedem os limites de obsolescência ou os metadados indicam mudanças de propriedade.
+
+
+
+* **Pipeline de Distribuição Controlada**
+
+  Permitir ou restringir a distribuição de decks de PPTX com base em indicadores de metadados, como categorias internas ou confidenciais.
+
+
+
+* **Sincronização de Metadados com Sistemas de Busca**
+
+  Empurrar continuamente metadados do PPTX para um índice para que os decks de slides sejam descobertos sem a necessidade de manutenção manual do catálogo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

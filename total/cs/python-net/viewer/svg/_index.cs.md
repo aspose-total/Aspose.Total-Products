@@ -82,7 +82,73 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Zobrazení SVG pomocí Python API umožňuje vykreslování škálovatelných vektorových grafik s přesností a jasem.
+
+To je cenné pro systémy, které spoléhají na rozlišení nezávislé vizuály.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Inspekce vektorové grafiky**  
+
+&nbsp; Zobrazování grafiky bez ztráty kvality.
+
+
+
+* **Validace diagramu**  
+
+&nbsp; Kontrola technických nebo schématických vizuálů.
+
+
+
+* **Hodnocení designových prvků**  
+
+&nbsp; Ověření vizuálních prvků použitých v aplikacích nebo dokumentech.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizované diagramové potrubí**  
+
+&nbsp; Python skripty vykreslují SVG během dokumentačních procesů.
+
+
+
+* **Škálovatelné náhledové systémy**  
+
+&nbsp; Vektorové grafiky jsou dynamicky zobrazovány v různých velikostech.
+
+
+
+* **Kontroly vizuální konzistence**  
+
+&nbsp; Automatizované zobrazení zajišťuje správné vykreslení prvků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

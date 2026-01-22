@@ -90,7 +90,73 @@ Para obter mais detalhes, consulte [Documentação do produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A visualização de arquivos DOCX por meio de APIs do Python permite que documentos modernos sejam renderizados e inspecionados de forma programática, com total clareza estrutural.
+
+Isso possibilita fluxos de trabalho de documentos escaláveis em sistemas com muito conteúdo.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Revisão Estruturada de Documentos**  
+
+  Visualize títulos, parágrafos e formatação de forma consistente.
+
+
+
+* **Verificações de Qualidade de Conteúdo**  
+
+  Inspecione documentos quanto à completude e correção.
+
+
+
+* **Integração de Fluxo de Trabalho**  
+
+  Incorpore a visualização de documentos em sistemas automatizados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Pipelines de Documentos Automatizados**  
+
+  Processos em Python exibem arquivos DOCX durante fluxos de trabalho com várias etapas.
+
+
+
+* **Serviços de Pré-visualização**  
+
+  Gere pré-visualizações de documentos sob demanda para web ou ferramentas internas.
+
+
+
+* **Validação em Lote de Conteúdo**  
+
+  Grandes volumes de documentos são revisados de forma programática.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

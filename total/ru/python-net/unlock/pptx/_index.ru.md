@@ -71,7 +71,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTX - доминирующий современный формат презентаций, и разблокировка защищенных файлов обеспечивает безупречную автоматизацию, совместную работу и повторное использование. Программный доступ позволяет PPTX-файлам оставаться частью динамичных контентных экосистем.
+
+
+
+Интеграция на основе Python позволяет интегрировать PPTX-файлы в масштабируемые рабочие процессы без ущерба контролю или управлению.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Генерация динамических слайдов**  
+
+  &nbsp; Позволяет повторно использовать защищенные слайды в автоматизированных презентациях.
+
+
+
+* **Проверка согласованности контента**  
+
+  &nbsp; Поддерживает проверку заблокированных колод по стилистическим правилам.
+
+
+
+* **Автоматизированная отчетность**  
+
+  &nbsp; Позволяет защищенным презентациям поступать в системы отчетности.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированная сборка колоды**  
+
+  &nbsp; PPTX-файлы разблокируются и динамически собираются из компонентов.
+
+
+
+* **Публикация запланированных презентаций**  
+
+  &nbsp; Разблокировка обеспечивает автоматическую публикацию защищенных колод.
+
+
+
+* **Обновление слайдов на основе аналитики**  
+
+  &nbsp; Защищенный контент разблокируется для обновления слайдов на основе данных.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

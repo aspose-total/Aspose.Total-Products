@@ -79,7 +79,85 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Words for Python via .
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chèn dấu nước vào tài liệu **DOCX** bằng Python APIs tạo ra sự kiểm soát rõ ràng trên các tệp Word hiện đại, giúp ngăn chặn việc phân phối sai lầm và làm rõ quyền sở hữu trên nội dung có thể chỉnh sửa và chia sẻ.
+
+Tự động hóa Python cho phép áp dụng các quy tắc dấu nước lặp lại trên hàng ngàn tệp DOCX, đảm bảo vị trí, độ mờ và thông điệp nhất quán trên các nhóm và hệ thống.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Đánh Dấu Tài Liệu Mật**  
+
+&nbsp; Đóng dấu "MẬT" trên các báo cáo nhạy cảm để ngăn chặn việc chia sẻ không cẩn thận.
+
+
+
+* **Đánh Dấu Phiên Bản Nháp để Xem Xét**  
+
+&nbsp; Áp dụng lớp phủ "NHÁP" để giảm lỗi do phiên bản cũ.
+
+
+
+* **Đánh Dấu Sở Hữu Bản Giao Hàng cho Khách Hàng**  
+
+&nbsp; Thêm dấu nước sở hữu vào các tài liệu giao hàng trong khi vẫn giữ tính chỉnh sửa để hợp tác.
+
+
+
+* **Quản Lý Mẫu cho Tài Liệu Doanh Nghiệp**  
+
+&nbsp; Bắt buộc tuân thủ các tiêu chuẩn dấu nước trên các đề xuất, thư và báo cáo được tạo ra.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Đánh Dấu Tài Liệu Đề Xuất Kích Hoạt từ CRM**  
+
+&nbsp; Tự động tạo và đánh dấu các đề xuất DOCX khi giai đoạn giao dịch thay đổi.
+
+
+
+* **Đánh Dấu Hàng Loạt cho Di Dời Back-Office**  
+
+&nbsp; Đóng dấu các tệp DOCX lưu trữ trong quá trình di dời dữ liệu để chuẩn hóa quản lý.
+
+
+
+* **Dấu Nước Động theo Vai Trò và Vùng**  
+
+&nbsp; Thích nghi văn bản dấu nước dựa trên vai trò người dùng, vị trí văn phòng hoặc quy tắc về dữ liệu cư trú.
+
+
+
+* **Luồng Làm Việc Đồng Hành Tự Động Hóa Chỉnh Sửa**  
+
+&nbsp; Đánh dấu các tài liệu đã xử lý sau khi chỉnh sửa để chỉ ra "BẢN SAO ĐÃ ĐƯỢC XỬ LÝ".
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

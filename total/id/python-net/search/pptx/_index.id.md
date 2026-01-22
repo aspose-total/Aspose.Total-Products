@@ -76,7 +76,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mencari file **PPTX** menggunakan API Python memberikan akses yang dapat diandalkan ke dokumen presentasi modern yang berisi tata letak slide terstruktur, blok teks, dan catatan pembicara. File PPTX banyak digunakan untuk pelaporan, pelatihan, dan konten pengambilan keputusan.
+
+
+
+Pencarian PPTX otomatis mendukung analisis slide yang dapat diskalakan, pengambilan informasi yang cerdas, dan integrasi yang mulus dengan sistem manajemen pengetahuan dan konten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Pencarian Slide Terstruktur**  
+
+&nbsp; Mencari judul, poin-poin penting, dan catatan dalam file PPTX.
+
+
+
+* **Analisis Konten Presentasi**  
+
+&nbsp; Mengidentifikasi tema-tema kunci dan bagian-bagian secara programatik.
+
+
+
+* **Penemuan Slide yang Dapat Digunakan Kembali**  
+
+&nbsp; Menemukan slide yang cocok untuk digunakan kembali dalam laporan atau slide presentasi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skema Otomatisasi" %}}
+
+
+
+* **Pembaruan Indeks PPTX yang Berkelanjutan**  
+
+&nbsp; Layanan Python memantau dan mengindeks file PPTX baru.
+
+
+
+* **Klasifikasi Slide Otomatis**  
+
+&nbsp; Slide dikategorikan berdasarkan konten yang diekstrak.
+
+
+
+* **Pipa Konten PPTX**  
+
+&nbsp; Hasil pencarian memberi makan dasbor dan alur kerja otomatisasi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

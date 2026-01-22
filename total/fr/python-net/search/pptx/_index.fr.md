@@ -76,7 +76,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La recherche de fichiers **PPTX** à l'aide des API Python permet un accès fiable aux documents de présentation modernes contenant des mises en page de diapositives structurées, des blocs de texte et des notes de l'orateur. Les fichiers PPTX sont largement utilisés pour les rapports, la formation et le contenu décisionnel.
+
+
+
+La recherche automatisée de fichiers PPTX prend en charge l'analyse évolutive des diapositives, la récupération intelligente et l'intégration transparente avec les systèmes de gestion des connaissances et de contenu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Recherche de diapositives structurée**  
+
+&nbsp; Recherche les titres, les puces et les notes dans les fichiers PPTX.
+
+
+
+* **Analyse du contenu de la présentation**  
+
+&nbsp; Identifie les thèmes clés et les sections de manière programmatique.
+
+
+
+* **Découverte de diapositives réutilisables**  
+
+&nbsp; Localise les diapositives adaptées à la réutilisation dans les rapports ou les présentations.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Mises à jour continues de l'index PPTX**  
+
+&nbsp; Les services Python surveillent et indexent de nouveaux fichiers PPTX.
+
+
+
+* **Classification automatique des diapositives**  
+
+&nbsp; Les diapositives sont catégorisées en fonction du contenu extrait.
+
+
+
+* **Pipelines de contenu PPTX**  
+
+&nbsp; Les résultats de la recherche alimentent les tableaux de bord et les flux de travail automatisés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

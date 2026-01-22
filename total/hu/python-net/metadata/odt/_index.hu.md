@@ -98,7 +98,93 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A dokumentum metaadat-kinyerése **ODT** fájlokból Python API-k segítségével programozott hozzáférést biztosít a szöveges dokumentumtulajdonságokhoz - lehetővé téve az ellenőrzést, osztályozást és keresési gazdagítást anélkül, hogy az emberi ellenőrzésre támaszkodna. Ez fontos a dokumentumkezelés, tudáskezelés és életciklus nyomon követése szempontjából.
+
+
+
+Az automatizálási rendszerekben az ODT metaadatokat használhatjuk szabályok érvényesítésére, jóváhagyások irányítására és katalógusok szinkronizálására - támogatva a nagy adattárakon átívelő skálázható feldolgozást egységes szabályokkal.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* **Tudásbázis Szervezés**
+
+  Használja az ODT metaadatokat belső dokumentumok kategorizálására és indexelésére gyorsabb visszakeresés érdekében.
+
+
+
+* **Tulajdonosi és Felügyeleti Ellenőrzések**
+
+  Nyerje ki az író és szerkesztő mezőket az értékelők kijelöléséhez és a felelősségvállalás fenntartásához.
+
+
+
+* **Megőrzési és Archiválási Döntések**
+
+  Használja az időbélyegeket annak eldöntésére, hogy az ODT fájlokat archiválni, megőrizni vagy frissíteni kell-e.
+
+
+
+* **Metaadat Normalizálás Analitikához**
+
+  Konvertálja az ODT tulajdonságokat egységes mezőkké az jelentésekhez és trendelemzésekhez.
+
+
+
+* **Előzetes Közzétételi Ellenőrzés**
+
+  Ellenőrizze a szükséges leíró mezőket az ODT dokumentumok közzétételi formátumokká történő konvertálása előtt.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* **Szabályokon Alapuló Beviteli Osztályozás**
+
+  Automatikusan osztályozza az ODT dokumentumokat munkafolyamatokba a metaadat jelenléte, tulajdonlás és időbélyegek alapján.
+
+
+
+* **Katalógus Szinkronizációs Munkafolyamat**
+
+  Nyerje ki az ODT metaadatokat éjszakánként és szinkronizálja egy központi nyilvántartásba, amelyet belső keresési rendszerek használnak.
+
+
+
+* **Automatizált Dokumentáció Ellenőrzések**
+
+  Indítsa el az értékelési feladatokat az ODT fájlok esetében, amikor a metaadatok arra utalnak, hogy azokat nem frissítették a szabályzati időablakokon belül.
+
+
+
+* **Metaadat-hoz-Hozzáférési Szabályok Térképezése**
+
+  Alkalmazzon hozzáférési szabályokat dinamikusan, amikor az ODT metaadatok korlátozott tartalomkategóriákat jeleznek.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,75 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT è un formato di testo open document ampiamente utilizzato per report e documentazione. Proteggere i file ODT è essenziale per preservare l'autenticità dei documenti e prevenire modifiche accidentali o dannose.
+
+
+
+La protezione dei documenti basata su Python consente di integrare la sicurezza ODT nei flussi di lavoro automatizzati di documentazione e pubblicazione con un overhead minimo.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* **Distribuzione Sicura dei Report**  
+
+&nbsp; Proteggi i report ODT finalizzati prima di condividerli.
+
+
+
+* **Integrità della Documentazione**  
+
+&nbsp; Assicurati che i documenti ufficiali rimangano invariati dopo l'approvazione.
+
+
+
+* **Sicurezza dei Documenti Multi-Piattaforma**  
+
+&nbsp; Applica protezione indipendentemente dall'ambiente di modifica.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Flussi di Lavoro di Documentazione Automatizzati**  
+
+&nbsp; Proteggi i file ODT come parte della generazione continua di documentazione.
+
+
+
+* **Sicurezza dei File Basata su Regole**  
+
+&nbsp; Applica politiche di protezione basate sui metadati del documento.
+
+
+
+* **Rafforzamento di Documenti in Blocco**  
+
+&nbsp; Proteggi più file ODT in modo programmato in operazioni batch.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

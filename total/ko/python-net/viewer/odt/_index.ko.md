@@ -90,7 +90,73 @@ ODT 뷰어 앱이나 유틸리티를 개발해야 합니까? [Aspose.Total for P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 ODT 파일을 보면 표준 기반 워크플로에 사용되는 오픈 텍스트 문서를 검사할 수 있습니다.
+
+이는 소유권 의존성 없이 문서 중심 시스템에서 자동화를 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **오픈 문서 검토**
+
+  &nbsp; 오픈 형식의 텍스트 문서 보기.
+
+
+
+* **콘텐츠 무결성 확인**
+
+  &nbsp; 문서 구조 및 텍스트 검사.
+
+
+
+* **시스템 간 호환성**
+
+  &nbsp; 문서가 환경 간에 올바르게 렌더링되는지 확인합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동화된 문서 파이프라인**
+
+  &nbsp; Python 프로세스가 워크플로 중에 ODT 파일을 렌더링합니다.
+
+
+
+* **컴플라이언스 유효성 검사**
+
+  &nbsp; 문서가 표준과 일치하는지 확인됩니다.
+
+
+
+* **미리보기 생성**
+
+  &nbsp; 자동화된 뷰어가 검토 워크플로를 지원합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

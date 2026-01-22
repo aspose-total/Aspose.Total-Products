@@ -77,7 +77,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API对PPT文件进行文档编辑，支持对在传统系统中仍然常见的旧演示文稿格式进行安全处理。这确保了无论文件年龄如何，敏感信息都得到了保护。
+
+
+
+自动编辑使PPT文件可以在无需手动干预的情况下安全重复使用、存档或共享。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **传统演示文稿清理**  
+
+  &nbsp; 从旧PPT文件中删除过时或敏感数据。
+
+
+
+* **存档现代化**  
+
+  &nbsp; 为安全重复使用清理历史演示文稿。
+
+
+
+* **受控信息共享**  
+
+  &nbsp; 为有限的受众准备编辑后的PPT文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **传统格式流水线**  
+
+  &nbsp; 自动处理PPT文件以及更新格式。
+
+
+
+* **基于模式的编辑**  
+
+  &nbsp; 使用预定义规则检测并删除敏感术语。
+
+
+
+* **自动化存档处理**  
+
+  &nbsp; 以程序方式清理整个演示文稿存档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

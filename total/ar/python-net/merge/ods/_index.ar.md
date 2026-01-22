@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+دمج جداول OpenDocument باستخدام واجهات برمجة تطبيقات Python يدعم المعايير المفتوحة وسير العمل عبر المنصات. هذا مثالي للبيئات التي تعتمد على أدوات المكتب مفتوحة المصدر.
+
+
+
+التأكد من التوافقية من حول دمج ODS يضمن سلامة بيانات مهيكلة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **توحيد جداول الجدول عبر المنصات (ODS)**  
+
+&nbsp; دمج ملفات ODS التي تم إنشاؤها في أجهزة مكتب مختلفة.
+
+
+
+* **تجميع البيانات بمعايير مفتوحة (ODS)**  
+
+&nbsp; دمج جداول ODS لتحليل موحد.
+
+
+
+* **تجميع البيانات بشكل تعاوني (ODS)**  
+
+&nbsp; دمج ملفات ODS من المساهمين الموزعين.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+
+
+
+* **تلقيم خط أنابيب البيانات المفتوحة (ODS)**  
+
+&nbsp; تدمج الأنظمة ملفات ODS دون الاعتماد على تبعيات خاصة.
+
+
+
+* **تجميع جداول البيانات المجدول (ODS)**  
+
+&nbsp; تعمل عملية دمج ODS كجزء من المهام الخلفية المتكررة.
+
+
+
+* **أنابيب تقارير قابلة للتشغيل بشكل توافقي (ODS)**  
+
+&nbsp; يتم دمج ملفات ODS بشكل ديناميكي في سير العمل البياني.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

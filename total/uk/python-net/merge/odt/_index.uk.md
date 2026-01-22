@@ -76,7 +76,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Об'єднання файлів тексту OpenDocument за допомогою API Python підтримує відкриті стандарти та робочі процеси на різних платформах. Це дозволяє безшовно об'єднувати контент, створений в середовищах з відкритим вихідним кодом або змішаних офісних середовищах.
+
+
+
+Автоматизація навколо об'єднання ODT забезпечує взаємодію, зберігаючи цілісність документів між системами.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* **Об'єднання документів на різних платформах (ODT)**  
+
+&nbsp; Об'єднання файлів ODT, створених у різних офісних пакетах.
+
+
+
+* **Об'єднання вмісту за відкритими стандартами (ODT)**  
+
+&nbsp; Об'єднання документів ODT для єдиної публікації.
+
+
+
+* **Колаборативне об'єднання вмісту (ODT)**  
+
+&nbsp; Об'єднання файлів ODT від кількох учасників в один документ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Автоматизація відкритих робочих процесів (ODT)**  
+
+&nbsp; Автоматизовані системи об'єднують файли ODT без пропрієтарних залежностей.
+
+
+
+* **Запланована компіляція документів (ODT)**  
+
+&nbsp; Об'єднання ODT виконується як частина регулярних завдань на бекенді.
+
+
+
+* **Міжопераційні публікаційні конвеєри (ODT)**  
+
+&nbsp; Файли ODT об'єднуються динамічно в міжсистемних конвеєрах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

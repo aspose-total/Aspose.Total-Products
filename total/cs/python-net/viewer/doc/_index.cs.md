@@ -90,7 +90,73 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Zobrazení souborů DOC pomocí Python API umožňuje strukturovaný přístup k zastaralým textovým dokumentům pro účely čtení a inspekce.
+
+Toto podporuje automatizované zpracování dokumentů v systémech, které stále spoléhají na starší formáty souborů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Inspekce zastaralých dokumentů**  
+
+&nbsp; Otevření a zobrazení starších textových dokumentů bez manuální konverze.
+
+
+
+* **Ověření obsahu**  
+
+&nbsp; Programaticky zkontrolovat text a rozložení dokumentu pro přesnost.
+
+
+
+* **Podpora migrace dokumentů**  
+
+&nbsp; Inspekce souborů DOC před jejich přeměnou do novějších formátů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizované auditování zastaralých dokumentů**  
+
+&nbsp; Pythonové pracovní postupy renderují soubory DOC k potvrzení čitelnosti před zpracováním.
+
+
+
+* **Hromadné ověření dokumentů**  
+
+&nbsp; Velké kolekce dokumentů jsou automaticky zobrazeny pro kontrolu souladu.
+
+
+
+* **Předvalidace konverze**  
+
+&nbsp; Automatizovaní zobrazovače zajišťují, že dokumenty jsou nedotčené před upgradem formátu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

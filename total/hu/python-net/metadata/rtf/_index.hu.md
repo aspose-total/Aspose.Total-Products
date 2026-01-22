@@ -98,7 +98,93 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Dokumentum metaadatok kinyerése **RTF** fájlokból Python API-k segítségével segíti a rendszereket az alapvető fájltulajdonságok és beágyazott leírók rögzítésében a gazdag szöveges dokumentumokhoz, amelyek gyakran használatosak hordozhatósághoz és örökségi kompatibilitáshoz. Ez támogatja az indexelést, a kormányzást és az életciklus nyomon követését a vegyes dokumentumtípusokat tartalmazó tárolók esetében.
+
+
+
+Automatizált munkafolyamatokban az RTF metaadatok vezérelhetik a besorolást, az útvonalválasztást és a katalógus szinkronizálást—lehetővé téve a régi vagy csereorientált dokumentumok skálázható kezelését manuális felülvizsgálat nélkül.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* **Vegyes Formátumú Tároló Indexelése**
+
+  RTF metaadatok kinyerése a felfedezhetőség javítása érdekében és egységes jelentéskészítés biztosítása különböző dokumentumtárolók esetében.
+
+
+
+* **Örökségi Tartalom Kormányzása**
+
+  Használja az időbélyegeket és a szerzőségi mezőket az idősek dokumentumok gondnokságának és frissítési ciklusainak meghatározásához.
+
+
+
+* **Tömeges Besorolás Műveletekhez**
+
+  Normalizálja elérhető RTF tulajdonságokat strukturált címkékké a routoláshoz és hozzáférésvezérléshez.
+
+
+
+* **Migrációs és Konverziós Tervezés**
+
+  Auditálja az RTF metaadatokat a konverziós célpontok prioritizálásához és a hiányzó tulajdonosi részletek azonosításához.
+
+
+
+* **Minőségellenőrzés a Bevitelnél**
+
+  Jelölje meg az RTF fájlokat hiányos vagy összefüggéstelen metaadatokkal a helyreállítási munkafolyamatokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* **Örökségi Bevitel Normalizálása**
+
+  Automatikusan kinyeri az RTF metaadatokat és átalakítja őket standardizált mezőkké egy központi dokumentumnyilvántartásban.
+
+
+
+* **Konverziós Sorrendezés Orchestration**
+
+  Az RTF fájlokat konverziós csövekbe irányítja a metaadatok teljessége és elavultsági küszöbértékek alapján.
+
+
+
+* **Automatizált Gondnokság Feladatok**
+
+  Hozzon létre tulajdonosi feladatokat azokhoz az RTF fájlokhoz, amelyeknél hiányoznak a karbantartó tulajdonságok, a könyvtári kontextus és a metaadatjelzések felhasználásával.
+
+
+
+* **Időszakos Tároló Egészségjelentések**
+
+  Generáljon ütemezett összefoglalókat az RTF metaadatok lefedettségéről, a hiányzó mezőkről és az öregedés eloszlásáról a kormányzás nyomon követéséhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

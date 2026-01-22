@@ -76,7 +76,75 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Den Schutz von Word-Dokumenten im DOC-Format zu gewährleisten, ist entscheidend, um Legacy-Dateien zu sichern, die immer noch viele Geschäfts- und Archiv-Workflows unterstützen. Durch die Anwendung von Dokumentschutz bleibt sensibler Text, Formulare und geistiges Eigentum auch bei gemeinsamer Nutzung durch Teams oder Systeme sicher.
+
+
+
+Mithilfe von Python-APIs können DOC-Dateien programmgesteuert mit Passwörtern und Berechtigungssteuerungen geschützt werden, um die automatisierte Durchsetzung von Sicherheitsrichtlinien in großen Dokumentensammlungen und Legacy-Pipelines zu ermöglichen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Sicherheit für Legacy-Dokumente**  
+
+  Schutz älterer Word-Dokumente, um unbefugte Bearbeitungen oder Kopien zu verhindern.
+
+
+
+* **Compliance für archivierte Dateien**  
+
+  Stellen Sie sicher, dass historische DOC-Dateien den modernen Sicherheits- und regulatorischen Anforderungen entsprechen.
+
+
+
+* **Kontrollierte Dokumentenfreigabe**  
+
+  Beschränken Sie die Bearbeitungsrechte beim Verteilen von DOC-Dateien intern oder extern.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Batch-Schutz von Archiven**  
+
+  Automatisches Sichern Tausender DOC-Dateien während archivarischer oder Migrationsprozesse.
+
+
+
+* **Richtliniengesteuerte Zugriffskontrolle**  
+
+  Durchsetzung standardisierter Schutzregeln für DOC-Dateien beim Einfügen in Systeme.
+
+
+
+* **Automatisierte sichere Verteilung**  
+
+  Schützen von DOC-Dokumenten dynamisch, bevor sie durch automatisierte Workflows gesendet werden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

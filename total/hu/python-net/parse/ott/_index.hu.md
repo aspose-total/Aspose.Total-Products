@@ -104,7 +104,75 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az **OTT dokumentumok** elemzése Python API-k segítségével strukturált kinyerést tesz lehetővé az olyan nyílt szöveges sablonokból, amelyeket egységes dokumentum létrehozására terveztek. Az OTT fájlokat általában nyílt szabványok szerint használják újrafelhasználható elrendezések, stílusok és helyőrzők meghatározására.
+
+
+
+Az OTT elemzés integrálásával az automatizált rendszerekbe a szervezetek nagy mennyiségű dokumentumot tudnak létrehozni, ellenőrizni és kezelni, miközben szigorúan ragaszkodnak a szabványos sablonokhoz és nyílt formátumokhoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Sablonstruktúra kinyerése**  
+
+&nbsp; Az előre meghatározott szakaszokat, stílusokat és helyőrzőket az OTT sablonokon belül azonosítja.
+
+
+
+* **Szabványos dokumentum létrehozás**  
+
+&nbsp; Támogatja a dokumentumok következetes létrehozását jóváhagyott nyílt sablonok alapján.
+
+
+
+* **Nyílt formátumú irányítás**  
+
+&nbsp; Biztosítja, hogy a dokumentumok megfeleljenek a szervezeti szabványoknak anélkül, hogy zárt formátumokhoz kötnék.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Dinamikus dokumentumgenerálás**  
+
+&nbsp; Strukturált adatokkal automatikusan kitölti az OTT sablonokat.
+
+
+
+* **Sablonmegfelelőség ellenőrzése**  
+
+&nbsp; Észleli a jóváhagyott sablonstruktúráktól való eltéréseket.
+
+
+
+* **Skálázható nyílt dokumentumcsatornák**  
+
+&nbsp; Lehetővé teszi a nagy mennyiségű dokumentum előállítását nyílt szabványok felhasználásával.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

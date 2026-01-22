@@ -71,7 +71,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri ile genel görüntü girdilerini imzalama, karma görüntü kaynakları arasında onay işaretlerinin ve doğrulama meta verilerinin uygulanmasına yönelik birleşik bir yaklaşım sunar. Bu, boru hatlarının birden fazla araçtan görüntüleri alması ve tutarlı yönetim gereksinimleri olduğunda faydalıdır.
+
+
+
+Otomatikleştirildiğinde, görüntü imzalama standartlaştırılmış bir "onaylanmış artefakt" durumunu zorlar, böylece akış aşağı sistemlerin yalnızca kalite, politika veya uygunluk gereksinimlerini karşılayan varlıkları tüketmesini sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Durumları" %}}
+
+
+
+* **Çeşitli Kaynak Varlıklarının Standartlaştırılması**  
+
+&nbsp; Farklı araçlardan ve ekiplerden gelen görüntülere tutarlı bir imza bindir.
+
+
+
+* **Kanıt Görüntü Doğrulaması**  
+
+&nbsp; İnceleyici kimliğini ve onay durumunu doğrulamak için kullanılan görüntülere imza at.
+
+
+
+* **Onaylı Varlık Dağıtım Kontrolü**  
+
+&nbsp; Dağıtım paketlerine dahil edilmeden önce görüntüleri onayla.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Alım Zamanı Onay İşaretleme**  
+
+&nbsp; Doğrulama kuralları ve meta veri kontrolleri tamamlandıktan sonra alım sırasında görüntülere imza at.
+
+
+
+* **Politika Kontrol Noktası Uygulaması**  
+
+&nbsp; Yalnızca otomatik politika ve güvenlik kurallarını geçen görüntülere otomatik olarak imza at.
+
+
+
+* **Depo Senkronizasyonu Tamamlama**  
+
+&nbsp; Paylaşılan depolara senkronize etmeden önce görüntülere imza atarak yalnızca doğrulanmış sürümlerin yayılmasını sağla.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

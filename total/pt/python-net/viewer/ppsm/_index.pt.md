@@ -89,7 +89,73 @@ Para obter mais detalhes, consulte [Documentação do produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Visualizar arquivos PPSM com APIs Python permite a inspeção segura de apresentações de slides habilitadas para macro projetadas para reprodução automática.
+
+Isso suporta fluxos de trabalho de automação controlados onde a visibilidade é necessária sem executar macros incorporados.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Revisão de Apresentação de Slides Habilitada para Macro**  
+
+  Visualize o conteúdo da apresentação de slides mantendo os macros inativos.
+
+
+
+* **Inspeção do Fluxo de Reprodução**  
+
+  Inspeccione a ordem dos slides e a estrutura da apresentação destinada à exibição automática.
+
+
+
+* **Validação de Distribuição Segura**  
+
+  Revise arquivos PPSM antes de compartilhar ou implantar de forma controlada.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Pipelines de Admissão de Apresentação de Slides Seguros**  
+
+  Fluxos de trabalho em Python renderizam arquivos PPSM com segurança durante a ingestão.
+
+
+
+* **Automação de Revisão Orientada à Conformidade**  
+
+  As apresentações de slides são visualizadas como parte de verificações de políticas automatizadas.
+
+
+
+* **Fluxos de Trabalho de Apresentação Pré-Aprovação**  
+
+  Pré-visualizações automatizadas suportam aprovações humanas ou baseadas em sistema.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -100,7 +100,75 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'analisi delle **presentazioni PowerPoint** utilizzando le API di Python consente l'estrazione strutturata dei contenuti delle diapositive, inclusi titoli, elenchi puntati, layout e note del relatore dai file di presentazione. Ciò rende le informazioni basate su presentazioni accessibili per l'analisi, il riutilizzo e l'integrazione di sistemi.
+
+
+
+Quando collegato a flussi di lavoro automatizzati, l'analisi di PowerPoint trasforma i set di diapositive statiche in fonti di dati dinamiche che supportano l'elaborazione scalabile della conoscenza, la segnalazione e le operazioni sui contenuti.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Estrazione dei Contenuti delle Diapositive**  
+
+&nbsp; Recupera testi strutturati ed elementi di layout dalle diapositive di PowerPoint.
+
+
+
+* **Elaborazione della Conoscenza della Presentazione**  
+
+&nbsp; Converte i set di diapositive in risorse informative ricercabili e analizzabili.
+
+
+
+* **Riutilizzo e Trasformazione dei Contenuti**  
+
+&nbsp; Consente il riutilizzo del materiale della presentazione tra documenti e piattaforme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Ingestione Automatica delle Presentazioni**  
+
+&nbsp; Elabora automaticamente i file di PowerPoint come parte dei flussi di ingestione.
+
+
+
+* **Sommario dei Contenuti a Livello di Diapositiva**  
+
+&nbsp; Genera riassunti e output strutturati dai dati delle diapositive analizzate.
+
+
+
+* **Distribuzione dei Contenuti Programmata**  
+
+&nbsp; Alimenta i contenuti estratti dalla presentazione nei sistemi e flussi di lavoro successivi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

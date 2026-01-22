@@ -76,7 +76,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT هو تنسيق نص مفتوح المصدر يستخدم على نطاق واسع لتقارير ووثائق. حماية ملفات ODT أمر أساسي للحفاظ على مصداقية المستند ومنع التغييرات العرضية أو الخبيثة.
+
+
+
+تمكن حماية المستندات القائمة على Python من تضمين أمان ODT في سير العمل التوثيقي والنشر التلقائي مع أدنى تكلفة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **توزيع التقارير بشكل آمن**  
+
+&nbsp; قم بحماية تقارير ODT النهائية قبل مشاركتها.
+
+
+
+* **سلامة الوثائق**  
+
+&nbsp; تأكد من أن الوثائق الرسمية تبقى دون تغيير بعد الموافقة.
+
+
+
+* **سلامة الوثيقة عبر المنصات**  
+
+&nbsp; قم بتطبيق الحماية بغض النظر عن بيئة التحرير.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأمين التلقائي" %}}
+
+
+
+* **أنابيب توثيق تلقائية**  
+
+&nbsp; قم بحماية ملفات ODT كجزء من إنتاج التوثيق المستمر.
+
+
+
+* **أمان الملفات القائم على القواعد**  
+
+&nbsp; قم بتطبيق سياسات الحماية استنادًا إلى بيانات المستند.
+
+
+
+* **تقوية الوثائق بالجملة**  
+
+&nbsp; قم بتأمين ملفات ODT متعددة برمجيًا في عمليات دفعية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

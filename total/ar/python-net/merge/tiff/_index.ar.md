@@ -85,7 +85,77 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+دمج صور TIFF باستخدام واجهات برمجة تطبيقات Python يدعم سير العمل للصور عالية الدقة ومتعددة الصفحات المستخدمة بشكل شائع في الطباعة والتصوير الطبي ومسح الوثائق.
+
+
+
+التأتير يمكنه التعامل الموثوق به لمجموعات صور كبيرة وغنية بالتفاصيل.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تجميع مسح متعدد الصفحات (TIFF)**  
+
+&nbsp; دمج صفحات TIFF في ملف واحد متعدد الصفحات.
+
+
+
+* **معالجة الصور عالية الدقة (TIFF)**  
+
+&nbsp; دمج صور TIFF للتحليل التفصيلي.
+
+
+
+* **تجميع صور جاهزة للطباعة (TIFF)**  
+
+&nbsp; تجميع ملفات TIFF لسير العمل النشرية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير" %}}
+
+
+
+* **أنابيب المسح التلقائي (TIFF)**  
+
+&nbsp; تدمج الأنظمة ملفات TIFF أثناء استيعاب المسح.
+
+
+
+* **معالجة دفعية عالية الدقة (TIFF)**  
+
+&nbsp; تعمل عمليات دمج TIFF في وظائف مجدولة.
+
+
+
+* **أتمتة تصوير المؤسسات (TIFF)**  
+
+&nbsp; سيناريوهات العمل التلقائي تدير مجموعات بيانات TIFF الكبيرة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

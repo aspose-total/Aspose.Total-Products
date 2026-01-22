@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PythonのAPIを使用してタブ区切り値ファイルをマージすると、構造化された表形式データを迅速かつ軽量に組み合わせることができます。TSVはデータ交換や前処理に一般的に使用されています。
+
+
+
+自動化されたTSVのマージは、高性能なデータパイプラインや分析ワークフローをサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+
+
+* **生データの集約（TSV）**  
+
+&nbsp; 処理のためにTSVファイルを1つのデータセットにマージします。
+
+
+
+* **システム間データ交換（TSV）**  
+
+&nbsp; 異なるプラットフォームからのTSVエクスポートを結合します。
+
+
+
+* **前処理データの準備（TSV）**  
+
+&nbsp; 分析変換前にTSVファイルをマージします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **ストリームベースのデータ処理（TSV）**  
+
+&nbsp; 自動システムがデータストリーム内でTSVファイルをマージします。
+
+
+
+* **バッチETL操作（TSV）**  
+
+&nbsp; 予定されたETLジョブ中にTSVのマージが行われます。
+
+
+
+* **スケーラブルな表形式データパイプライン（TSV）**  
+
+&nbsp; プログラムによるマージは大規模なTSVデータセットをサポートします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

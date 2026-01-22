@@ -98,7 +98,93 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Extraktion von Metadaten für **DOTX**-Dateien über Python-APIs bietet eine strukturierte Möglichkeit, moderne Vorlagendateien zu verwalten, indem Eigenschaften wie Vorlagentitel, Autorendetails und Aktualisierungsverlauf gelesen werden. Dies verbessert die Governance und stellt sicher, dass die Dokumentenerstellung konsistent und policy-konform bleibt.
+
+
+
+In Automatisierungspipelines sind DOTX-Metadaten nützlich für die Vorlagenauflösung, Genehmigungsworkflows und Lebenszyklussteuerungen und ermöglichen skalierbare Vorlagenoperationen, die manuelle Überprüfungen und Konfigurationsabweichungen reduzieren.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Vorlagensuche und -suche**
+
+  Extrahieren von DOTX-Metadaten, um Vorlagen nach Zweck, Abteilung oder beabsichtigtem Dokumententyp durchsuchbar zu machen.
+
+
+
+* **Genehmigungsstatusverfolgung**
+
+  Verwenden von benutzerdefinierten Eigenschaften, um zu verfolgen, ob eine Vorlage Entwurf, genehmigt oder veraltet ist.
+
+
+
+* **Zuordnung von Vorlagenbesitz**
+
+  Identifizieren von Betreuern und Autoren, um Aktualisierungsanfragen und Verantwortungsaufgaben zu leiten.
+
+
+
+* **Konsistenzsicherung für generierte Dokumente**
+
+  Überprüfen, ob Workflows die richtige DOTX-Vorlage basierend auf Metadatenidentifikatoren verwenden.
+
+
+
+* **Vorlagenänderungsgovernance**
+
+  Überwachen des Änderungsverlaufs, um unerwartete Bearbeitungen an kontrollierten Vorlagen zu erkennen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Metadatengesteuertes Vorlagenregister**
+
+  Automatisches Einlesen von DOTX-Metadaten in einen Registrierungsdienst, der von Dokumentenerstellungssystemen verwendet wird.
+
+
+
+* **Stilllegungsdurchsetzungspipeline**
+
+  Leiten von veralteten DOTX-Vorlagen in ein Archiv und Verhindern der Verwendung basierend auf Metadatenflags.
+
+
+
+* **Automatisierte Vorlagen-QA-Überprüfungen**
+
+  Durchführung von Validierungen, die sicherstellen, dass erforderliche DOTX-Eigenschaften vorhanden sind und den organisatorischen Standards entsprechen, bevor sie veröffentlicht werden.
+
+
+
+* **Vorlagenaktualisierungsworkflow-Routing**
+
+  Wenn DOTX-Metadaten eine Änderung anzeigen, automatisches Erstellen von Überprüfungsaufgaben für den zugewiesenen Betreuer.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

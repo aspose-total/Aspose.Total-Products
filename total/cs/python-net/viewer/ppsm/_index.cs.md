@@ -89,7 +89,73 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Prohlížení souborů PPSM pomocí Python API umožňuje bezpečnou kontrolu prezentací s makry určených pro automatické přehrávání.
+
+Toto podporuje řízené automatizační pracovní postupy, kde je vyžadována viditelnost bez provádění vložených maker.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Hodnocení prezentace s makry**  
+
+&nbsp; Prohlížení obsahu prezentace při zachování neaktivních maker.
+
+
+
+* **Kontrola průběhu přehrávání**  
+
+&nbsp; Kontrola pořadí snímků a struktury prezentace určené pro automatické zobrazení.
+
+
+
+* **Ověření bezpečné distribuce**  
+
+&nbsp; Kontrola souborů PPSM před řízeným sdílením nebo nasazením.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Bezpečné zpracování prezentací**  
+
+&nbsp; Pythonové pracovní postupy bezpečně zpracovávají soubory PPSM během příjmu.
+
+
+
+* **Automatizované hodnocení z hlediska souladu**  
+
+&nbsp; Prezentace jsou hodnoceny jako součást automatizovaných kontrol politik.
+
+
+
+* **Pracovní postupy před schválením prezentace**  
+
+&nbsp; Automatizované náhledy podporují schválení lidskými nebo systémovými prostředky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

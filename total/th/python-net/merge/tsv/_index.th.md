@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การผสานไฟล์ค่าคั่งแบบแท็บโดยใช้ Python APIs ช่วยให้การผสานข้อมูลแบบตารางโครงสร้างเร็วและเบามาก  TSV มักถูกใช้สำหรับการแลกเปลี่ยนข้อมูลและการประมวลผลก่อนการวิเคราะห์
+
+
+
+การผสาน TSV อัตโนมัติสนับสนุนการทำงานของท่อข้อมูลและกระบวนการทำงานทางวิเคราะห์ที่มีประสิทธิภาพสูง
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* **การรวบรวมข้อมูลเชิงดิบ (TSV)**  
+
+&nbsp; ผสานไฟล์ TSV เข้าด้วยกันเป็นชุดข้อมูลเดียวสำหรับการประมวลผล
+
+
+
+* **การแลกเปลี่ยนข้อมูลระบบต่อระบบ (TSV)**  
+
+&nbsp; รวมการส่งออก TSV จากแพลตฟอร์มที่แตกต่างกัน
+
+
+
+* **การเตรียมข้อมูลก่อนการวิเคราะห์ (TSV)**  
+
+&nbsp; ผสานไฟล์ TSV ก่อนการแปลงทางวิเคราะห์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การประมวลผลข้อมูลแบบสตรีม (TSV)**  
+
+&nbsp; ระบบอัตโนมัติผสานไฟล์ TSV ในท่อข้อมูล
+
+
+
+* **การดำเนินการ ETL แบบแบทช์ (TSV)**  
+
+&nbsp; การผสาน TSV เกิดขึ้นระหว่างงาน ETL ที่กำหนดเวลา
+
+
+
+* **ท่อข้อมูลแบบตารางขยายได้ (TSV)**  
+
+&nbsp; การผสานโปรแกรมสนับสนุนชุดข้อมูล TSV ขนาดใหญ่
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

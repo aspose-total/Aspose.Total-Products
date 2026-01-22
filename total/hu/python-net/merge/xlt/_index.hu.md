@@ -78,7 +78,75 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az Excel sablonformátumok összevonása Python API-k segítségével biztosítja a generált táblázatok egységes szerkezetét és elrendezését. A sablon alapú összevonás elengedhetetlen a szabványosított jelentéskészítéshez és adatbeviteli folyamatokhoz.
+
+
+
+Az automatizálás lehetővé teszi egységes táblázatok gyors generálását kézi formázás nélkül.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Sablon alapú táblázat összeállítás (XLT)**  
+
+&nbsp; XLT alapú fájlok összevonása az egységes elrendezés érdekében.
+
+
+
+* **Szabványosított adatgyűjtés (XLT)**  
+
+&nbsp; Sablonvezérelt táblázatok egyesítése egy fájlba.
+
+
+
+* *\{Újrafelhasználható táblázatszerkezetek (XLT)**  
+
+&nbsp; XLT dokumentumok összevonása az egységes tervezés fenntartása érdekében.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Automatizált sablon alkalmazás (XLT)**  
+
+&nbsp; Az XLT fájlokat automatikusan összevonják a generálás során.
+
+
+
+* **Tömeges sablonfeldolgozás (XLT)**  
+
+&nbsp; Ütemezett feladatok összevonják a több XLT alapú táblázatot.
+
+
+
+* **Elrendezés-vezérelt automatizálás (XLT)**  
+
+&nbsp; Rendszerek összevonják az XLT fájlokat a formátumegység garantálása érdekében.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

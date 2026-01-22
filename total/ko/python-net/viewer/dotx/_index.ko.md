@@ -90,7 +90,73 @@ DOTX 뷰어 앱이나 유틸리티를 개발해야 합니까? [Aspose.Total for 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 DOTX 파일을 볼 때는 매크로 실행 없이 현대 워드 템플릿에 구조화된 액세스를 제공합니다.
+
+이는 확장 가능한 템플릿 기반 문서 시스템을 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **현대 템플릿 검토**  
+
+&nbsp; 구조화된 레이아웃 및 미리 정의된 스타일 확인.
+
+
+
+* **브랜드 일관성 유효성 검사**  
+
+&nbsp; 템플릿이 서식 표준과 일치하는지 확인.
+
+
+
+* **워크플로 준비 확인**  
+
+&nbsp; 템플릿이 자동화된 사용에 적합한지 확인.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **템플릿 배포 파이프라인**  
+
+&nbsp; 롤아웃 전에 DOTX 파일이 자동으로 렌더링됩니다.
+
+
+
+* **자동화된 서식 감사**  
+
+&nbsp; Python 스크립트가 템플릿을 규정 준수 여부로 검사합니다.
+
+
+
+* **콘텐츠 생성 유효성 검사**  
+
+&nbsp; 보기를 통해 템플릿이 예상대로 작동하는지 확인합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

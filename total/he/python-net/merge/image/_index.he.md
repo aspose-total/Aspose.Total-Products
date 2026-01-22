@@ -82,7 +82,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+שילוב פורמטים גנריים של תמונות באמצעות Python APIs מספק גישה אחידה לטיפול בנכסים ויזואליים שונים תחת זרימת עבודה אחת. ההפשטה הזו מקלה על עיבוד תמונות בין פורמטים מעורבים.
+
+
+
+האוטומציה מאפשרת שילוב תמונות ניתן להתקיים, ללא תלות בפורמט, עבור מערכות מודרניות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* **איחוד תמונות בפורמטים שונים (IMAGE)**  
+
+&nbsp; מיזוג פורמטים של תמונות שונות לפלט אחד.
+
+
+
+* **איגוד חזותי ממקורות שונים (IMAGE)**  
+
+&nbsp; שילוב תמונות מכלים ופלטפורמות שונות.
+
+
+
+* **הפקת תמונה אחידה לעסקית (IMAGE)**  
+
+&nbsp; איגוד של תמונות הטרוגניות לתמונות חזותיות אחידות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **צינורות תמונה לא-תלויי פורמט (IMAGE)**  
+
+&nbsp; זרימות עבודה אוטומטיות משלבות תמונות ללא קשר לפורמט.
+
+
+
+* **יצירת תמונה אחידה (IMAGE)**  
+
+&nbsp; מערכות מייצרות תמונות מאוחדות דינמיות.
+
+
+
+* **אורכסטרציה של תמונות ניתנת להתקיים (IMAGE)**  
+
+&nbsp; שילוב תומך בתהליכי תמונה בקנה מידה גדול.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

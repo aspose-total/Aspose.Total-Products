@@ -71,7 +71,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Menandatangani dokumen ODT menggunakan API Python memungkinkan dokumen teks dalam format terbuka membawa penanda persetujuan yang diverifikasi dan metadata penandatangan. Ini mendukung siklus hidup dokumentasi yang terkontrol tanpa bergantung pada format propietary.
+
+
+
+Dalam alur otomatisasi, penandatanganan ODT memastikan persetujuan diterapkan secara konsisten pada saat penutupan tinjauan, meningkatkan auditabilitas dan mengurangi penanganan dokumen manual.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Persetujuan Kebijakan dalam Format Terbuka**  
+
+  &nbsp; Tandatangani dokumen kebijakan ODT untuk mengkonfirmasi tinjauan akhir dan otorisasi.
+
+
+
+* **Penutupan Alur Kerja Editorial**  
+
+  &nbsp; Terapkan tanda tangan pada draf ODT ketika tinjauan konten selesai.
+
+
+
+* **Tata Kelola Basis Pengetahuan Internal**  
+
+  &nbsp; Tandatangani dokumen ODT sebelum dipublikasikan ke repositori bersama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pemicu Penyelesaian Pemeriksa**  
+
+  &nbsp; Secara otomatis menandatangani file ODT ketika semua pemeriksa yang ditugaskan menyelesaikan persetujuan.
+
+
+
+* **Gerbang Publikasi Repositori**  
+
+  &nbsp; Tandatangani dokumen ODT sebelum mereka dipublikasikan ke basis pengetahuan.
+
+
+
+* **Injeksi Jejak Audit Otomatis**  
+
+  &nbsp; Lampirkan identitas penandatangan dan metadata timestamp selama proses penandatanganan ODT berlangsung.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

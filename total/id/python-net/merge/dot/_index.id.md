@@ -78,7 +78,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Menggabungkan format template Word menggunakan Python APIs memungkinkan penciptaan dokumen yang konsisten di seluruh tim dan sistem. Penggabungan berbasis template memastikan tata letak yang terstandar sambil memungkinkan komposisi konten yang fleksibel.
+
+
+
+Pendekatan ini ideal untuk pabrik dokumen otomatis di mana struktur dan branding harus tetap konsisten di seluruh output.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Perakitan Dokumen Berbasis Template (DOT)**  
+
+  Merge dokumen berbasis DOT untuk menegakkan format yang konsisten.
+
+
+
+* **Penciptaan Output Terstandar (DOT)**  
+
+  Gabungkan file yang didorong oleh template ke dalam dokumen yang bersatu.
+
+
+
+* **Manajemen Tata Letak yang Dapat Digunakan Kembali (DOT)**  
+
+  Gabungkan dokumen DOT untuk mempertahankan keseragaman tata letak.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Penerapan Template Otomatis (DOT)**  
+
+  File DOT digabungkan secara otomatis selama pembuatan dokumen.
+
+
+
+* **Pemrosesan Template Batch (DOT)**  
+
+  Volume besar dokumen DOT digabungkan dalam pekerjaan terjadwal.
+
+
+
+* **Kontrol Tata Letak yang Diterapkan oleh Sistem (DOT)**  
+
+  Sistem otomatis menggabungkan file DOT untuk menjamin konsistensi format.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -82,7 +82,73 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Oglądanie plików GIF za pomocą interfejsów API w języku Python umożliwia wizualizację animowanych lub statycznych sekwencji obrazów do inspekcji i weryfikacji.
+
+To wspiera zautomatyzowane przepływy pracy związane z grafiką animowaną lub wskaźnikami wizualnymi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Recenzja zawartości animowanej**  
+
+&nbsp; Programistyczne przeglądanie animacji opartych na klatkach.
+
+
+
+* **Weryfikacja wskaźników wizualnych**  
+
+&nbsp; Inspekcja animowanych sygnałów lub grafik instruktażowych.
+
+
+
+* **Inspekcja zasobów multimedialnych**  
+
+&nbsp; Przeglądanie sekwencji obrazów używanych w przepływach pracy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Automatyczna weryfikacja mediów**  
+
+&nbsp; Potoki w języku Python wyświetlają pliki GIF podczas kontroli jakości.
+
+
+
+* **Systemy generowania podglądów**  
+
+&nbsp; Animowane podglądy są renderowane dynamicznie.
+
+
+
+* **Wizualizacja debugowania przepływu pracy**  
+
+&nbsp; Pliki GIF są przeglądane w celu weryfikacji stanów procesu wizualnie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

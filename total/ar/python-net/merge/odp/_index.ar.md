@@ -79,7 +79,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+دمج ملفات العرض الخاصة بـ OpenDocument باستخدام واجهات برمجة التطبيقات في Python يدعم المعايير المفتوحة وسير العمل عبر المنصات. هذا مثالي للبيئات التي تستخدم أدوات مكتب مفتوحة المصدر.
+
+
+
+التأكد من التوافقية ومعالجة العروض بشكل مقيد.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **دمج الشرائح عبر المنصات (ODP)**  
+
+&nbsp; دمج ملفات ODP التي تم إنشاؤها باستخدام أدوات مختلفة.
+
+
+
+* **تجميع العروض بمعايير مفتوحة (ODP)**  
+
+&nbsp; دمج مجموعات ODP لتقديم موحد.
+
+
+
+* **تجميع الشرائح بالتعاون (ODP)**  
+
+&nbsp; دمج ملفات ODP من المساهمين الموزعين.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **أنابيب العروض المفتوحة (ODP)**  
+
+&nbsp; تدمج الأنظمة ملفات ODP دون وجود تبعيات خاصة.
+
+
+
+* **تجميع المجموعات المجدول (ODP)**  
+
+&nbsp; يتم تشغيل دمج ODP كجزء من المهام الخلفية.
+
+
+
+* **أتمتة العروض التوافقية (ODP)**  
+
+&nbsp; يتم دمج ملفات ODP بشكل ديناميكي في سير العمل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

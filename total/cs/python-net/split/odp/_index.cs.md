@@ -73,7 +73,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODP soubory se používají pro prezentace ve standardním formátu obsahující více snímků a vizuálních prvků. Rozdělení ODP souborů umožňuje přístup a opakované použití na úrovni snímku.
+
+
+
+Automatizace v Pythonu podporuje efektivní rozdělení ODP pro zpracování prezentací ve velkém měřítku a opakované využití obsahu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Opakované použití na úrovni snímku**  
+
+&nbsp; Jednotlivé snímky lze extrahovat a opakovaně použít napříč prezentacemi.
+
+
+
+* **Analýza obsahu prezentace**  
+
+&nbsp; Analýza snímků nezávisle na struktuře nebo metadatech.
+
+
+
+* **Spolupracovní úpravy**  
+
+&nbsp; Týmy pracují na izolovaných sadách snímků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizovaná extrakce snímků**  
+
+&nbsp; Pythonové skripty rozdělují snímky programově.
+
+
+
+* **Dynamické sestavení prezentace**  
+
+&nbsp; Snímky jsou znovu kombinovány na základě pravidel spuštění.
+
+
+
+* **Archivační systémy prezentací**  
+
+&nbsp; Snímky jsou indexovány individuálně pro získání.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

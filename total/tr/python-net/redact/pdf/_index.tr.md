@@ -75,7 +75,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'ları kullanarak belgelerdeki hassas bilgileri kalıcı olarak kaldırmak, sabit düzen belgelerinden hassas bilgilerin kaldırılmasının önemli olduğu anlamına gelir. Bu, kırmızı çizilen verilerin kurtarılamayacağı veya ortaya çıkarılamayacağı şekilde sağlanır.
+
+
+
+Otomasyon, güvenilir, tekrarlanabilir PDF kırmızı çizme işlemlerini ölçeklendirilebilir hale getirir, bu da yüksek hacimli uyumluluk ve açıklama iş akışları için uygun hale getirir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Hukuki Açıklama Hazırlığı**  
+
+  &nbsp; Mahkemeye veya düzenleyici kuruma sunmadan önce PDF'lerden gizli detayları kaldırın.
+
+
+
+* **Halka Açık Belge Yayını**  
+
+  &nbsp; Raporları ve kayıtları halkın erişimine sunmadan önce temizleyin.
+
+
+
+* **Güvenli Müşteri Teslimatları**  
+
+  &nbsp; Paylaşılan PDF'lerden hassas bilgilerin geri dönüşümsüz olarak kaldırıldığından emin olun.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **İçerik Farkındalıklı Kırmızı Çizme**  
+
+  &nbsp; Hassas metin veya bölgeleri otomatik olarak algılayın ve kaldırın.
+
+
+
+* **Yüksek Hacimli PDF İş Akışları**  
+
+  &nbsp; Büyük PDF gruplarını programatik olarak işleyin ve kırmızı çizin.
+
+
+
+* **Yayın Öncesi Korumalar**  
+
+  &nbsp; Belgeler yayınlanmadan veya dağıtılmadan önce kırmızı çizme kontrollerini zorunlu kılın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

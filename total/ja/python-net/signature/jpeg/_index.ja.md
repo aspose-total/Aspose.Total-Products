@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用してJPEGファイルに署名することで、圧縮された画像アセットに公式承認指標を持たせることができ、監査、検査、報告で使用される視覚的なトレーサビリティをサポートします。特にJPEGが効率的な保存形式として選択された場合に役立ちます。
+
+
+
+自動化に適した署名により、JPEGの承認が一貫して適用され、手作業の再作業が削減され、高容量の画像パイプライン全体でガバナンスが向上します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **検査写真の承認**  
+
+&nbsp; 検査用JPEG写真に署名して、レビューと承認を確認します。
+
+
+
+* **報告書の証拠確認**  
+
+&nbsp; 運用報告書で使用されるJPEG証拠に承認マーカーを適用します。
+
+
+
+* **外部配信の承認**  
+
+&nbsp; 承認されたバージョンであることを確認するためにJPEG成果物に署名します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **提出から署名への自動化**  
+
+&nbsp; レビュアーが承認を送信した直後にJPEGファイルに自動的に署名します。
+
+
+
+* **品質閾値ゲート署名**  
+
+&nbsp; 解像度、サイズ、クリアリティのチェックに合格したJPEGアセットのみに署名します。
+
+
+
+* **タイムスタンプ付き承認実行**  
+
+&nbsp; 定期的な監査の一環として、タイムスタンプ付きでJPEGバッチにプログラムで署名します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

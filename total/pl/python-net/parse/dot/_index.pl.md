@@ -104,7 +104,75 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Analiza **szablonów DOT** za pomocą interfejsów API w języku Python pozwala organizacjom wydobyć zdefiniowane struktury, zastępcze elementy i reguły formatowania osadzone w szablonach dokumentów. Jest to kluczowe dla standaryzacji i spójności.
+
+
+
+Automatyczna analiza szablonów przyjazna dla automatyzacji umożliwia dynamiczną generację dokumentów i egzekwuje integralność strukturalną na dużą skalę.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Analiza Struktury Szablonu**  
+
+&nbsp; Identyfikuje zastępcze elementy i definicje układu wewnątrz szablonów.
+
+
+
+* **Standaryzowana Generacja Dokumentów**  
+
+&nbsp; Wspiera tworzenie spójnych dokumentów opartych na regułach.
+
+
+
+* **Egzekwowanie Zarządzania i Zgodności**  
+
+&nbsp; Sprawdza, czy generowane dokumenty odpowiadają zatwierdzonym szablonom.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Dynamiczne Składanie Dokumentów**  
+
+&nbsp; Wykorzystuje analizowane szablony do programowej generacji dokumentów.
+
+
+
+* **Wykrywanie Odchyleń w Szablonach**  
+
+&nbsp; Automatycznie sygnalizuje nieautoryzowane zmiany w szablonach.
+
+
+
+* **Automatyczne Wstrzykiwanie Zawartości**  
+
+&nbsp; Wypełnia dane strukturalne w sekcjach zdefiniowanych w szablonie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

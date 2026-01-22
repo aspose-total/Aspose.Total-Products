@@ -78,7 +78,75 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A bináris Excel munkafüzetek összevonása Python API-k segítségével hatékony adatkezelést tesz lehetővé nagy adatkészletek esetén csökkentett fájlmérettel. Ez a formátum optimalizált a nagy adatmennyiséggel foglalkozó teljesítményérzékeny környezetek számára.
+
+
+
+Az XLSB összevonás köré épülő automatizálás támogatja a skálázható analitikai munkafolyamatokat, miközben fenntartja a sebességet és hatékonyságot.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Nagy mennyiségű adat konszolidációja (XLSB)**  
+
+&nbsp; Nagy bináris táblázatok összevonása egyetlen analitikai munkafüzetbe.
+
+
+
+* **Teljesítménykritikus jelentéskészítés (XLSB)**  
+
+&nbsp; Az XLSB fájlok összevonása gyors betöltésre és feldolgozásra optimalizált formában.
+
+
+
+* **Vállalati adattárház (XLSB)**  
+
+&nbsp; Az XLSB adatkészletek aggregálása az utólagos elemzésekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Automatizált nagy fájlméretű feldolgozás (XLSB)**  
+
+&nbsp; Rendszerek összevonják az XLSB fájlokat nagy mennyiségű adat beolvasása közben.
+
+
+
+* **Analitikai csővezeték integráció (XLSB)**  
+
+&nbsp; Az XLSB összevonása automatizált analitikai munkafolyamatok részeként történik.
+
+
+
+* **Erőforrás-hatékony batch feldolgozások (XLSB)**  
+
+&nbsp; Bináris táblázatok összevonása ütemezett batch folyamatokban.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

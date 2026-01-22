@@ -71,7 +71,75 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Python via
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Tệp ODP thường được sử dụng trong hệ sinh thái trình bày mở, và việc mở khóa chúng đảm bảo truy cập vào các slide, ghi chú và bố cục được bảo vệ. Điều này quan trọng cho việc tái sử dụng, địa phương hóa và bảo quản lâu dài tài sản trình bày.
+
+
+
+API Python cho phép mở khóa tự động các tệp ODP, cho phép tích hợp chúng vào quy trình làm việc trình bày có thể mở rộng và các đường ống chuyển đổi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tái Sử Dụng Nội Dung Slide**  
+
+&nbsp; Cho phép trích xuất các slide được bảo vệ để tái sử dụng trong các bài trình bày khác.
+
+
+
+* **Hỗ Trợ Địa Phương Hóa**  
+
+&nbsp; Hỗ trợ truy cập vào văn bản bị khóa cho các quy trình dịch tự động.
+
+
+
+* **Lưu Trữ Bài Trình Bày**  
+
+&nbsp; Cho phép kiểm tra an toàn các tệp được bảo vệ trước khi lưu trữ lâu dài.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Dịch Slide Tự Động**  
+
+&nbsp; Mở khóa cho phép trích xuất văn bản cho các đường ống tự động đa ngôn ngữ.
+
+
+
+* **Chỉ Mục Bài Trình Bày**  
+
+&nbsp; Nội dung được bảo vệ được mở khóa và chỉ mục cho các hệ thống tìm kiếm doanh nghiệp.
+
+
+
+* **Chuyển Đổi Bài Trình Bày Theo Lô**  
+
+&nbsp; Các tệp ODP được mở khóa và chuyển đổi một cách tự động sang các định dạng khác.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

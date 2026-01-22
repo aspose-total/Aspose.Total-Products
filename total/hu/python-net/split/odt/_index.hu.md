@@ -79,7 +79,75 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT egy nyílt dokumentumformátum, amelyet strukturált szöveges dokumentumokhoz terveztek. Az ODT fájlok felosztása lehetővé teszi a szakaszszintű feldolgozást és a strukturált tartalomkezelést.
+
+
+
+A Python API-k használatával az ODT fájlok felosztása skálázhatóvá válik, és alkalmas lesz az automatizált dokumentumcsatornákhoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Strukturált tartalom kinyerése**  
+
+&nbsp; Különálló fejezetek vagy szakaszok kinyerése.
+
+
+
+* **Nyílt formátumú archiválás**  
+
+&nbsp; A tartalom megőrzése és kezelése részletes szinten.
+
+
+
+* **Együttműködésen alapuló dokumentumfeldolgozás**  
+
+&nbsp; Lehetővé teszi a dokumentumszakaszokon való párhuzamos munkafolyamatokat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **XML-alapú szakaszfeldolgozás**  
+
+&nbsp; A Python azonosítja a felosztáshoz szükséges szerkezeti jeleket.
+
+
+
+* **Automatizált tartalomkategorizálás**  
+
+&nbsp; A kinyert szakaszokat programozottan kategorizálják.
+
+
+
+* **Munkafolyamat-orientált dokumentumirányítás**  
+
+&nbsp; A szakaszok automatikusan különböző rendszerekbe áramlanak.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

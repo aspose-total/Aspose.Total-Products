@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API合并文档是现代内容处理、报告和文档生命周期管理的基本能力。它使开发人员和系统能够将多个文件合并为一个结构化的输出，同时保留跨异构文档源的格式、布局和逻辑流。
+
+
+
+通过自动化文档合并，组织可以减少手动工作量，确保一致性，并将文档工作流直接集成到基于Python构建的数据管道、后端服务和可扩展自动化系统中。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **整合的Word报告（DOC）**  
+
+  &nbsp; 将传统的Word文档合并为一个统一审阅和归档的报告。
+
+
+
+* **批量文档组装（DOC）**  
+
+  &nbsp; 将不同系统生成的多个DOC文件组装成一个可交付的文件。
+
+
+
+* **历史内容聚合（DOC）**  
+
+  &nbsp; 合并存档的DOC文件，以使旧内容集合现代化并重新利用。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **定时报告编制（DOC）**  
+
+  &nbsp; 自动作业将每日或每周的DOC文件合并为一个可分发的报告。
+
+
+
+* **基于工作流的文档拼接（DOC）**  
+
+  &nbsp; 后端工作流在流程阶段完成时动态合并DOC文件。
+
+
+
+* **管道驱动的输出生成（DOC）**  
+
+  &nbsp; DOC合并作为更大文档管道的一部分以编程方式触发。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

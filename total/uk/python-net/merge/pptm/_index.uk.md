@@ -77,7 +77,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Об'єднання макро-включених файлів PowerPoint за допомогою Python APIs підтримує презентації, які містять вбудовану логіку, автоматизацію або інтерактивну поведінку. Це поширене у підприємств та операційних презентаціях.
+
+
+
+Автоматизація забезпечує надійне об'єднання слайдів з макросами без порушення вбудованої функціональності.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+
+
+
+* **Збірка презентацій на основі макро (PPTM)**  
+
+&nbsp; Об'єднати файли PPTM, що містять автоматизовані або інтерактивні елементи.
+
+
+
+* **Об'єднання операційних слайдів (PPTM)**  
+
+&nbsp; Об'єднати макро-включені презентації, що використовуються внутрішніми процесами.
+
+
+
+* **Упакування інтерактивного набору слайдів (PPTM)**  
+
+&nbsp; Об'єднати файли PPTM в одну виконавчу презентацію.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Генерація презентацій на основі правил (PPTM)**  
+
+&nbsp; Системи об'єднують файли PPTM на основі правил автоматизації.
+
+
+
+* **Збереження макро під контролем ззаду (PPTM)**  
+
+&nbsp; Автоматизовані конвеєри об'єднують файли PPTM, зберігаючи логіку.
+
+
+
+* **Автоматизація презентацій з вимогами в області відповідності (PPTM)**  
+
+&nbsp; Об'єднання PPTM підтримує повторювані, управліні виходи.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

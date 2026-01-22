@@ -90,7 +90,73 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A RTF fájlok megtekintése Python API-k segítségével lehetővé teszi a formázást és hordozhatóságot egyensúlyozó gazdag szöveges dokumentumok ellenőrzését.
+
+Ez támogatja az alapvető formázást igénylő szövegközpontú munkafolyamatok automatizálását.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Formázott szöveg felülvizsgálata**  
+
+&nbsp; Nézze meg a stílusos szöveget a teljes dokumentum bonyolultsága nélkül.
+
+
+
+* **Interoperábilis dokumentumellenőrzés**  
+
+&nbsp; Ellenőrizze a dokumentumokat különböző rendszerekben.
+
+
+
+* **Tartalomellenőrzés**  
+
+&nbsp; Biztosítsa a formázás és a szöveg pontosságát.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Automatizált szövegcsővezetékek**  
+
+&nbsp; A Python munkafolyamatok feldolgozás közben megjelenítik a RTF fájlokat.
+
+
+
+* **Előnézeti szolgáltatások**  
+
+&nbsp; A dokumentumok dinamikusan jelennek meg felülvizsgálat céljából.
+
+
+
+* **Áttelepítés ellenőrzése**  
+
+&nbsp; A megtekintés biztosítja az biztonságos átalakítást más formátumokba.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

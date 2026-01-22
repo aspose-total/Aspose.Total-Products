@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 **ODS** 스프레드시트에 워터마킹을 적용하면 소유권, 기밀성 및 배포에 대한 가시적인 거버넌스 레이블을 추가하여 오픈 문서 스프레드시트를 보다 효과적으로 제어할 수 있습니다.
+
+ODS 워터마킹을 자동화하면 확장 가능한 보고서 워크플로우를 지원하여 오픈 포맷으로 공유된 데이터 세트 전반에 일관된 정책 지표를 보장할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **기밀 데이터 시트 스탬핑**  
+
+&nbsp; 민감한 ODS 파일에 표시하여 외부 공유의 위험을 줄입니다.
+
+
+
+* **임시 데이터 레이블**  
+
+&nbsp; 초기 데이터 유효성 검증 주기 중에 "미검증" 오버레이를 적용합니다.
+
+
+
+* **파트너 데이터 사용 공지**  
+
+&nbsp; 라이선스 및 재사용 제한을 명확히 하는 가시적인 공지를 추가합니다.
+
+
+
+* **내부 감사 트레일 지원**  
+
+&nbsp; 특정 데이터 세트를 생성한 시스템을 명확히하기 위해 워터마크를 내보냅니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **ETL 내보내기 워터마킹**  
+
+&nbsp; 자동화된 데이터 파이프라인에서 생성된 ODS 파일에 자동으로 워터마크를 찍습니다.
+
+
+
+* **역할별 워터마크 텍스트**  
+
+&nbsp; 수신 팀 또는 액세스 수준에 따라 워터마크 내용을 사용자 정의합니다.
+
+
+
+* **예약된 보고서 배포 제어**  
+
+&nbsp; 주기적인 ODS 보고서를 전송하기 전에 타임 스탬프가 찍힌 워터마크를 적용합니다.
+
+
+
+* **자동 보존 정책 태깅**  
+
+&nbsp; 저장된 스프레드시트의 라이프사이클 자동화를 지원하기 위해 시각적 보존 레이블을 추가합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

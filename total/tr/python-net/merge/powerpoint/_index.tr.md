@@ -79,7 +79,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'lerini kullanarak farklı slayt kaynaklarının birleştirilmesi, birleşik bir PowerPoint uyumlu iş akışı altında sunum formatlarını birleştirmeyi basitleştirir. Bu soyutlama, karışık format ortamlarında karmaşıklığı azaltır.
+
+
+
+Otomasyon, ölçeklenebilir sunum sistemleri için format-agnostik slayt birleştirme imkanı sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Çoklu Format Sunum Birleştirme (POWERPOINT)**  
+
+&nbsp; Çeşitli sunum formatlarını tek bir deste birleştirme.
+
+
+
+* **Farklı Kaynak Slayt Birleştirme (POWERPOINT)**  
+
+&nbsp; Farklı araçlardan ve formatlardan slaytları birleştirme.
+
+
+
+* **Kurumsal Sunum Uyumlaştırma (POWERPOINT)**  
+
+&nbsp; Farklı slayt destelerini bir ana sunumda birleştirme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Format-Agnostik Slayt Boruları (POWERPOINT)**  
+
+&nbsp; Otomatik iş akışları, formata bakılmaksızın sunumları birleştirir.
+
+
+
+* **Birleşik Sunum Oluşturma (POWERPOINT)**  
+
+&nbsp; Sistemler dinamik olarak birleştirilmiş desteler oluşturur.
+
+
+
+* **Ölçeklenebilir Slayt Orkestrasyonu (POWERPOINT)**  
+
+&nbsp; Programatik birleştirme, kurumsal ölçekte sunumları destekler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

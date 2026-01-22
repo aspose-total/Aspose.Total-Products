@@ -71,7 +71,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODP soubory jsou běžně používány pro prezentace v otevřených standardních pracovních postupech. Zabezpečení těchto prezentací zajišťuje, že vizuální obsah a zprávy zůstanou nedotčeny během sdílení a spolupráce.
+
+
+
+S Python API lze ODP prezentace automaticky chránit, což umožňuje bezpečné zacházení ve škálovatelných systémech generování a doručování prezentací.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Ochrana integrity prezentace**  
+
+&nbsp; Zabraňte neoprávněným úpravám snímků a rozložení.
+
+
+
+* **Důvěrná jednání**  
+
+&nbsp; Zabezpečte citlivé prezentace před interním nebo externím sdílením.
+
+
+
+* **Standardizovaná správa prezentací**  
+
+&nbsp; Použijte konzistentní pravidla ochrany ve všech souborech ODP.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizovaná ochrana snímků**  
+
+&nbsp; Zabezpečte ODP soubory ihned po automatickém vytvoření.
+
+
+
+* **Ochrana založená na potrubí**  
+
+&nbsp; Použijte ochranu během pracovních postupů obsahu ve stylu CI/CD.
+
+
+
+* **Omezení programového přístupu**  
+
+&nbsp; Dynamicky ovládejte práva k úpravám a prohlížení pomocí skriptů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

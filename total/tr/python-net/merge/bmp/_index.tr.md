@@ -85,7 +85,77 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'lerini kullanarak bit eşlem görüntülerini birleştirmek, ham, sıkıştırılmamış görselleri tek bir bileşik görüntü veya sıra halinde birleştirmeyi sağlar. Bu, teknik görüntüleme, tarama iş akışları ve görüntü sadakatinin dosya boyutundan önce geldiği sistemlerde faydalıdır.
+
+
+
+Otomatik BMP birleştirme, hassasiyet, tekrarlanabilirlik ve sistem tarafından yönlendirilen kompozisyonun gerektiği belirli görüntü işleme boru hatlarını destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Taranmış Görüntü Derlemesi (BMP)**  
+
+&nbsp; Birden fazla BMP taramasını tek bir bileşik görüntüye birleştirin.
+
+
+
+* **Teknik Diyagram Montajı (BMP)**  
+
+&nbsp; Bit eşlem diyagramlarını birleştirilmiş görsellere dönüştürün.
+
+
+
+* **Ham Görüntü Arşivleme (BMP)**  
+
+&nbsp; BMP dosyalarını uzun vadeli depolama veya işleme için bir araya getirin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik Tarama İşleme (BMP)**  
+
+&nbsp; Sistemler BMP görüntülerini alım iş akışları sırasında birleştirir.
+
+
+
+* **Toplu Görüntü Kompozisyonu (BMP)**  
+
+&nbsp; Zamanlanmış işler, bit eşlem görüntülerini programlı olarak birleştirir.
+
+
+
+* **Hassas Görüntüleme Boru Hatları (BMP)**  
+
+&nbsp; BMP birleştirme, kontrol edilen işleme sistemlerine gömülüdür.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

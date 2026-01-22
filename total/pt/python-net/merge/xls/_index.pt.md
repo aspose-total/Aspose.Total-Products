@@ -78,7 +78,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/cel
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A fusão de documentos do Excel e planilhas usando APIs do Python é essencial para consolidar dados estruturados de várias fontes em um único arquivo analisável. Essa capacidade é amplamente utilizada em relatórios, análises, finanças e sistemas operacionais nos quais os dados estão distribuídos em várias planilhas.
+
+
+
+A fusão automatizada de planilhas impulsionada pela automação permite o manuseio consistente de dados, reduz erros manuais e integra fluxos de trabalho de planilhas diretamente em pipelines escaláveis de dados e processamento.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Consolidação de Planilhas Legadas (XLS)**  
+
+  Combine arquivos XLS mais antigos em um único livro de trabalho para análise unificada.
+
+
+
+* **Agregação de Dados Departamentais (XLS)**  
+
+  Mesclar planilhas XLS de várias equipes em um único arquivo mestre.
+
+
+
+* **Unificação de Dados Históricos (XLS)**  
+
+  Consolidar dados XLS arquivados para relatórios e migração.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Consolidação Programada de Dados (XLS)**  
+
+  Trabalhos automatizados mesclam arquivos XLS periódicos em relatórios consolidados.
+
+
+
+* **Normalização de Dados em Backend (XLS)**  
+
+  Sistemas mesclam arquivos XLS como parte de fluxos de trabalho de limpeza de dados.
+
+
+
+* **Montagem de Planilhas Baseada em Pipeline (XLS)**  
+
+  A fusão de XLS é acionada programaticamente em pipelines ETL.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

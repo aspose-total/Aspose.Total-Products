@@ -76,7 +76,75 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az **ODP** fájlok keresése Python API-k segítségével strukturált hozzáférést biztosít az együttműködésre és nyílt forráskódú környezetekben gyakran használt prezentációs dokumentumokhoz. A programozott keresés lehetővé teszi rendszerek számára, hogy kinyerjék a dia szövegét, címét és metaadatait manuális felülvizsgálat nélkül.
+
+
+
+Automatizált ODP dokumentumkeresés esetén javul a felfedezhetőség, támogatja a skálázható tartalomkezelést, és zökkenőmentesen integrálható a modern adatfeldolgozási és munkafolyamat-automatizálási rendszerekkel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* **ODP Dia Szöveg Keresés**  
+
+&nbsp; Kulcsszavak és kifejezések lokalizálása az open-formatumú prezentációs diákban.
+
+
+
+* **Nyílt Prezentációs Tartalom Felülvizsgálata**  
+
+&nbsp; Gyors ellenőrzés lehetővé tétele megosztott vagy együttműködéses diákgyűjtemények esetén.
+
+
+
+* **ODP Metaadat Felfedezése**  
+
+&nbsp; Dokumentumtulajdonságok kinyerése osztályozáshoz és indexeléshez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* **Automatizált ODP Indexelés**  
+
+&nbsp; Python szolgáltatások folyamatosan indexelik az ODP fájlokat a keresési hozzáférés érdekében.
+
+
+
+* **ODP Tartalomfigyelés**  
+
+&nbsp; Programozott szkennelések észlelik a változásokat vagy frissítéseket a prezentációkban.
+
+
+
+* **ODP Munkafolyamat Integráció**  
+
+&nbsp; Kinyert tartalom automatizált közzétételt vagy felülvizsgálati csatornákba való bevezetést biztosít.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

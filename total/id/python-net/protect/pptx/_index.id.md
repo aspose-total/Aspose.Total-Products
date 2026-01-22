@@ -71,7 +71,69 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTX adalah format presentasi modern standar untuk PowerPoint. Melindungi file PPTX sangat penting untuk memastikan konten presentasi tetap akurat dan bebas dari penyuntingan di lingkungan kolaboratif.
+
+
+
+Dengan API Python, perlindungan PPTX dapat diintegrasikan secara mulus ke dalam alur kerja pembuatan dan distribusi presentasi otomatis.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Berbagi Presentasi Rahasia**  
+   Secure file PPTX sebelum didistribusikan ke pihak eksternal.
+
+
+
+* **Penegakan Persetujuan Konten**  
+   Kunci presentasi setelah persetujuan final.
+
+
+
+* **Tata Kelola Presentasi Perusahaan**  
+   Terapkan perlindungan seragam di semua aset PPTX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skema Otomatisasi" %}}
+
+
+
+* **Perlindungan Otomatis saat Diekspor**  
+   Amankan file PPTX segera setelah dibuat.
+
+
+
+* **Keamanan yang Dipicu oleh Alur Kerja**  
+   Terapkan perlindungan berdasarkan peristiwa persetujuan atau publikasi.
+
+
+
+* **Manajemen Presentasi yang Dapat Diskalakan**  
+   Lindungi ribuan file PPTX melalui skrip otomatis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

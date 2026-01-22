@@ -85,7 +85,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusione delle immagini bitmap utilizzando le API di Python consente di consolidare visivi grezzi e non compressi in un'unica immagine composita o sequenza. Questo è utile nell'ambito dell'immagine tecnica, dei flussi di scansione e dei sistemi in cui la fedeltà dell'immagine è prioritaria rispetto alle dimensioni del file.
+
+
+
+La fusione automatizzata di BMP supporta i flussi di lavoro di elaborazione delle immagini deterministici in cui è richiesta precisione, ripetibilità e composizione guidata dal sistema.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Compilazione di Immagini Scansionate (BMP)**  
+
+&nbsp; Unire più scansioni BMP in un'unica immagine composita.
+
+
+
+* **Assemblaggio di Diagrammi Tecnici (BMP)**  
+
+&nbsp; Combinare diagrammi bitmap in visivi unificati.
+
+
+
+* **Archiviazione di Immagini Grezze (BMP)**  
+
+&nbsp; Aggregare file BMP per archiviazione o elaborazione a lungo termine.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Elaborazione Automatica delle Scansioni (BMP)**  
+
+&nbsp; I sistemi fondono le immagini BMP durante i flussi di ingestione.
+
+
+
+* **Composizione Batch di Immagini (BMP)**  
+
+&nbsp; I lavori pianificati uniscono immagini bitmap in modo programmato.
+
+
+
+* **Flussi di Lavoro di Imaging di Precisione (BMP)**  
+
+&nbsp; La fusione di BMP è integrata nei sistemi di elaborazione controllata.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -89,7 +89,73 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Python via
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Xem POTM với Python APIs cho phép kiểm tra các mẫu trình bày có kích hoạt macro mà không thực thi macro.
+
+Điều này hỗ trợ xác nhận an toàn của cấu trúc trình bày có thể tái sử dụng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Đánh Giá Mẫu Có Kích Hoạt Macro**  
+
+  &nbsp; Xem các mẫu trình bày một cách an toàn.
+
+
+
+* **Xác Thực Bố Cục Slide**  
+
+  &nbsp; Kiểm tra cấu trúc slide được xác định trước.
+
+
+
+* **Quy Trình Phê Duyệt Mẫu**  
+
+  &nbsp; Xem xét mẫu trước khi triển khai.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Tiếp Nhận Mẫu An Toàn**  
+
+  &nbsp; Các luồng làm việc Python render các tệp POTM một cách an toàn.
+
+
+
+* **Kiểm Tra Mẫu Tự Động**  
+
+  &nbsp; Mẫu được xem xét để đảm bảo tính nhất quán.
+
+
+
+* **Các Quy Trình Tạo Ra Trình Bày**  
+
+  &nbsp; Việc xem đảm bảo sẵn sàng cho tự động hóa.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

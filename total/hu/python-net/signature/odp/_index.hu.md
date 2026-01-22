@@ -73,7 +73,75 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az ODP prezentációs fájlok aláírása Python API-k segítségével segít a csapatoknak ellenőrizni a kiadás minőségét és tulajdonjogát az open formátumban létrehozott diákkészletek esetében. Ez biztosítja, hogy a készletek csak formális jóváhagyás után legyenek terjesztve.
+
+
+
+Amikor automatizálják, az ODP aláírása ismételhető irányítási lépéssé válik a közös munkafolyamatokban, javítva a verziókezelést és megakadályozva, hogy áttekintetlen készletek terjedjenek.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Képzési készlet kiadásának jóváhagyása**  
+
+&nbsp; ODP képzési készletek aláírása a belső bevezetésre való készenlét megerősítéséhez.
+
+
+
+* **Érdekelt felek áttekintésének megerősítése**  
+
+&nbsp; Alkalmazzon egy aláírási jelet az ODP készletekre az érdekelt felek áttekintése után.
+
+
+
+* **Megfelelőségi prezentáció tanúsítványozása**  
+
+&nbsp; Aláírás hozzáadása a politika vagy megfelelőségi készletekhez annak dokumentálására, hogy ki hagyta jóvá a végső verziót.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Jóváhagyási munkafolyamat kiváltja az aláírást**  
+
+&nbsp; Automatikusan aláírja az ODP fájlokat, amikor az jóváhagyási állapotot rögzítik a rendszerben.
+
+
+
+* **Készlet integritás kapuja a megosztás előtt**  
+
+&nbsp; Készletek csak akkor legyenek aláírva, miután ellenőrzik, hogy a szükséges diák és metaadatok megléte megerősített.
+
+
+
+* **Tömeges aláírás kiadási ciklusokhoz**  
+
+&nbsp; Programozottan aláír több ODP készletet a tervezett kiadási ciklusok részeként.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -72,7 +72,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOC dosyalarını programatik olarak kilidini açmak, arşivler, işletmeler ve düzenlenmiş sistemlerde hala var olan eski kelime işlem belgelerine erişimi sağlar. Bu dosyalara kontrollü erişim kazanmak, kuruluşların içeriği kurtarmasına, uyumluluğu sağlamasına ve tarihsel belgeleri modernize etmesine olanak tanır.
+
+
+
+Python API'lerini kullanarak, DOC kilidini açma işlemi ölçeklenebilir bir şekilde otomatikleştirilebilir, alım borularına entegre edilebilir ve manuel müdahale olmadan belge işleme iş akışlarına gömülebilir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Eski Belge Kurtarma**  
+
+&nbsp; Uzun vadeli depolarda saklanan eski korumalı belgelerden içeriğin çıkarılmasını ve yeniden kullanılmasını sağlar.
+
+
+
+* **Uyumluluk Denetimi**  
+
+&nbsp; Denetimler sırasında veya yasal keşif süreçlerinde kilitli dosyaların kontrol edilmesini destekler.
+
+
+
+* **İçerik Göçü**  
+
+&nbsp; Korumalı DOC dosyalarının güvenli bir şekilde modern formatlara dönüştürülmesini, akış sistemleri için endekslenmesini kolaylaştırır.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu Arşiv İşleme**  
+
+&nbsp; Zamanlanmış arşiv taramaları sırasında büyük hacimli DOC dosyalarının otomatik olarak kilidi açılır.
+
+
+
+* **Politika Odaklı Erişim Boruları**  
+
+&nbsp; Erişim kurallarına ve belge meta verilerine dayalı olarak kilidin otomatik olarak açılmasını tetikler.
+
+
+
+* **Otomatik Format Normalizasyonu**  
+
+&nbsp; Kilidi açılan dosyalar programatik olarak dönüştürülür ve arama platformları için endekslenir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

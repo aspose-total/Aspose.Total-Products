@@ -76,7 +76,75 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+البحث عن ملفات **ODT** باستخدام واجهات برمجية Python يضمن التوافق مع معايير الوثائق المفتوحة مع تمكين اكتشاف المحتوى بكفاءة. تُستخدم مستندات ODT بشكل شائع في بيئات مفتوحة المصدر والتعاونية حيث تكون النقل والشفافية أمورًا أساسية.
+
+
+
+البحث الآلي في ملفات ODT يعزز التوافقية، ويدعم تحليل الوثائق بشكل قابل للتوسيع، ويتكامل بشكل سلس مع خطوط الأتمتة الحديثة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **البحث في الوثائق بتنسيق مفتوح**  
+
+&nbsp; يحدد الكلمات الرئيسية داخل مستندات ODT.
+
+
+
+* **مراجعة المحتوى التعاونية**  
+
+&nbsp; يمكن البحث السريع عبر المستندات المفتوحة المشتركة.
+
+
+
+* **تحليل السياسات والوثائق**  
+
+&nbsp; يحدد الأقسام المطلوبة داخل ملفات ODT.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **إنشاء فهرس ODT آليًا**  
+
+&nbsp; تنشئ النصوص بلغة Python فهارس قابلة للبحث من ملفات ODT.
+
+
+
+* **كشف التغييرات في ملفات ODT**  
+
+&nbsp; تحدد الفحوصات البرمجية المحتوى المحدث أو المعدل.
+
+
+
+* **أنابيب محتوى ODT**  
+
+&nbsp; تغذيات البيانات المستخرجة تغذي أنظمة النشر والمراجعة الآلية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

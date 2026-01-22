@@ -76,7 +76,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+הגנה על מסמכי Word בפורמט DOC היא חיונית לשמירה על קבצים מורשים שעדיין משמשים בעבודות עסקיות רבות ובתהליכי ארכיון. החלת הגנת מסמך מבטיחה שטקסט רגיש, טפסים וקניין רוחני יישמרו בטוחים גם כאשר משותפים בין צוותים או מערכות שונות.
+
+
+
+באמצעות Python APIs, ניתן להגן על קבצי DOC באופן תכנותי בעזרת סיסמאות ובקרות הרשאה, מאפשר יישום אוטומטי של מדיניות אבטחה בכללי מסמכים גדולים וצינורות ירושה.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **אבטחת מסמכי ישן**  
+
+  &nbsp; להחיל הגנה על מסמכי Word ישנים כדי למנוע עריכות לא מורשות או העתקה.
+
+
+
+* **התאמה לדרישות תקניות לקבצים מאורכים**  
+
+  &nbsp; לוודא שקבצי DOC היסטוריים עומדים בדרישות אבטחה ותקניות מודרניות.
+
+
+
+* **שיתוף מסמכים באופן מבוקר**  
+
+  &nbsp; להגביל את זכויות העריכה בעת הפצת קבצי DOC פנימית או חיצונית.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **הגנה על ארכיונים בצורה צינורית**  
+
+  &nbsp; לאבטח באופן אוטומטי אלפי קבצי DOC במהלך תהליכי ארכיון או העברה.
+
+
+
+* **בקרת גישה המופעלת על ידי מדיניות**  
+
+  &nbsp; ליישם כללי הגנה אחידים על קבצי DOC במהלך הכנסתם למערכות.
+
+
+
+* **הפצת מאובטמת ומאובטחת**  
+
+  &nbsp; להגן על מסמכי DOC באופן דינמי לפני שליחתם דרך תהליכי עבודה אוטומטיים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

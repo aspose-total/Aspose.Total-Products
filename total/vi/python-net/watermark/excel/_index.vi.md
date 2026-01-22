@@ -73,7 +73,87 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chèn dấu nước vào các bảng tính **Excel** bằng Python APIs giúp kiểm soát hiển thị trong các bảng tính chứa nhiều dữ liệu, hỗ trợ việc truyền đạt quyền sở hữu, tính bí mật và mục đích sử dụng trực tiếp trong các chế độ xem bảng tính.
+
+
+
+Tự động hóa giúp việc chèn dấu nước vào bảng tính trở nên đáng tin cậy ở quy mô lớn—lý tưởng cho báo cáo định kỳ, chia sẻ đa nhóm và xuất dữ liệu kiểm soát từ các hệ thống phân tích.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Chồng Chất Dữ Liệu Bí Mật Trong Báo Cáo Tài Chính**  
+
+&nbsp; Đánh dấu các bảng tính chứa ngân sách hoặc dự báo để giảm nguy cơ rò rỉ.
+
+
+
+* **Giới Hạn Phân Phối cho Bảng Điều Khiển Được Chia Sẻ**  
+
+&nbsp; Thêm nhãn "CHỈ SỬ DỤNG NỘI BỘ" để ngăn chặn việc chuyển tiếp bên ngoài.
+
+
+
+* **Chỉ số Bản Nháp cho Xác Nhận Dữ Liệu**  
+
+&nbsp; Áp dụng dấu nước "SƠ BỘ" cho đến khi cân đối hoặc phê duyệt hoàn tất.
+
+
+
+* **Thông Báo Quyền Sở Hữu Dữ Liệu Đối Tác**  
+
+&nbsp; Nhúng văn bản sở hữu vào các bảng tính chia sẻ để làm rõ việc tái sử dụng dữ liệu được phép.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Báo Cáo Định Kỳ với Tự Động Đóng Dấu**  
+
+&nbsp; Đóng dấu báo cáo được tạo ra hàng đêm trước khi gửi đến danh sách phân phối.
+
+
+
+* **Đóng Dấu theo Phân Loại Bảng Tính**  
+
+&nbsp; Sử dụng các thẻ nhạy cảm để chọn văn bản dấu nước và vị trí tự động.
+
+
+
+* **Thực Thi Luồng Xuất Dữ Liệu**  
+
+&nbsp; Đóng dấu bảng tính trong quá trình xuất từ các hệ thống BI hoặc ETL để duy trì quản lý.
+
+
+
+* **Gắn Nhãn Tuân Thủ Khu Vực Tự Động**  
+
+&nbsp; Thêm thông báo cụ thể cho từng khu vực dựa trên đội hoặc quốc gia đích.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

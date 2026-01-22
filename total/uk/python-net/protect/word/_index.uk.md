@@ -76,7 +76,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Категорія формату Word представляє текстові документи, які використовуються у роботі над проектами, звітами та спільною роботою. Захист документів Word забезпечує конфіденційність, цілісність та контрольований доступ протягом їх життєвого циклу.
+
+
+
+API Python дозволяють автоматизувати захист документів Word, зробивши безпеку вбудованою можливістю сучасних систем управління вмістом та документами.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* **Захист конфіденційного вмісту**  
+
+&nbsp; Захищайте документи Word, що містять конфіденційну інформацію.
+
+
+
+* **Застосування обмежень на редагування**  
+
+&nbsp; Контролюйте, хто може змінювати або переглядати документи.
+
+
+
+* **Захист життєвого циклу документа**  
+
+&nbsp; Захищайте файли на різних етапах створення та затвердження.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Автоматизований захист файлів Word**  
+
+&nbsp; Застосовуйте правила безпеки автоматично під час створення документів.
+
+
+
+* **Керування документами на основі ролей**  
+
+&nbsp; Захищайте файли Word динамічно на основі ролей користувачів.
+
+
+
+* **Повністю захищені робочі процеси**  
+
+&nbsp; Інтегруйте захист Word у повністю автоматизовані конвеєри документів.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

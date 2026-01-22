@@ -79,7 +79,71 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การผสานไฟล์งานนำเสนอ OpenDocument ด้วย Python APIs สนับสนุนมาตรฐานเปิดและการทำงานข้ามแพลตฟอร์มของงานนำเสนอ นี่เหมาะสำหรับสภาพแวดล้อมที่ใช้เครื่องมือสำนักงานโอเพนซอร์ส
+
+การอัตโนมัติช่วยให้การประมวลผลงานนำเสนอสามารถทำงานร่วมกันและมีขนาดใหญ่ได้
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **การรวมสไลด์ข้ามแพลตฟอร์ม (ODP)**  
+
+&nbsp; ผสานไฟล์ ODP ที่สร้างจากเครื่องมือต่าง ๆ
+
+
+
+* **การประกอบงานนำเสนอมาตรฐานเปิด (ODP)**  
+
+&nbsp; รวมเด็ก ODP เพื่อการส่งมอบที่เป็นร่วมกัน
+
+
+
+* **การรวมสไลด์ร่วมกัน (ODP)**  
+
+&nbsp; ผสานไฟล์ ODP จากผู้สนับสนุนที่กระจาย
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **ท่องไปรษณีย์นำเสนอเปิด (ODP)**  
+
+&nbsp; ระบบผสานไฟล์ ODP โดยไม่มีความขึ้นอยู่กับสิทธิเจ้าของ
+
+
+
+* **การรวมเด็กตามกำหนดเวลา (ODP)**  
+
+&nbsp; การผสาน ODP ทำงานเป็นส่วนหนึ่งของงานด้านหลัง
+
+
+
+* **การอัตโนมัติงานนำเสนอที่สามารถทำงานร่วมกัน (ODP)**  
+
+&nbsp; ไฟล์ ODP ถูกผสานไดนามิกในกระบวนการทำงาน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

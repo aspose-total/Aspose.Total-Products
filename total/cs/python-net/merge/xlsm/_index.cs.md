@@ -78,7 +78,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Slučování makro-povolených tabulek Excel pomocí Python API umožňuje konsolidaci datově řízené logiky, výpočtů a automatizace vložené v sešitech. To je běžné v provozních a finančních prostředích.
+
+
+
+Automatizované slučování XLSM zajišťuje, že data a makro-poháněné chování jsou zachovány v rámci škálovatelných systémů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití případy" %}}
+
+
+
+* **Sestavování zpráv řízených makry (XLSM)**  
+
+&nbsp; Slučujte XLSM soubory obsahující automatizované výpočty a logiku.
+
+
+
+* **Konsolidace provozních sešitů (XLSM)**  
+
+&nbsp; Slučujte makro-povolené tabulky napříč odděleními.
+
+
+
+* **Balení automatizace procesů (XLSM)**  
+
+&nbsp; Sjednocujte XLSM soubory používané v opakujících se provozních procesech.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Generování sešitů na základě pravidel (XLSM)**  
+
+&nbsp; Systémy slučují XLSM soubory na základě definovaných pravidel automatizace.
+
+
+
+* **Automatizované finanční modelování (XLSM)**  
+
+&nbsp; Slučování XLSM podporuje opakovatelné finanční pracovní postupy.
+
+
+
+* **Kontrolované zachování maker (XLSM)**  
+
+&nbsp; Automatizované potrubí slučuje XLSM soubory s uchováním maker.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

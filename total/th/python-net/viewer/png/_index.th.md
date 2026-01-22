@@ -82,7 +82,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การดู PNG โดยใช้ Python APIs รองรับการแสดงภาพคุณภาพสูงโดยไม่สูญเสียและมีการจัดการความโปร่งใส
+
+สำหรับสถานการณ์การอัตโนมัติที่ต้องการความแม่นยำทางด้านภาพและการรวมภาพอย่างยืดหยุ่น
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **การตรวจสอบภาพโดยไม่สูญเสีย**  
+
+&nbsp; ดูภาพโดยไม่มีอาการบีบอัด
+
+
+
+* **การตรวจสอบทรัพยากรโปร่งใส**  
+
+&nbsp; ตรวจสอบภาพที่มีช่องอัลฟาอย่างแม่นยำ
+
+
+
+* **การตรวจสอบทรัพยากร UI**  
+
+&nbsp; ตรวจสอบทรัพยากรทางภาพที่ใช้ในแอปพลิเคชันหรือเอกสาร
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การอัตโนมัติทางการทำงานของท่อทรัพยากร**  
+
+&nbsp; สคริปต์ Python แสดงไฟล์ PNG ขณะที่ตรวจสอบการสร้างหรือการใช้งาน
+
+
+
+* **บริการดูตัวอย่างแบบไดนามิก**  
+
+&nbsp; ภาพจะแสดงโดยอัตโนมัติในแดชบอร์ดหรือเครื่องมือ
+
+
+
+* **การทดสอบการถอดรหัสทางภาพ**  
+
+&nbsp; การดูอัตโนมัติรองรับการเปรียบเทียบและการทำงานการตรวจสอบ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

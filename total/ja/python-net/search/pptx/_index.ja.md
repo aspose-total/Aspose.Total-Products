@@ -76,7 +76,75 @@ PPTX 検索可能なソフトウェアまたはユーティリティを開発す
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用して**PPTX**ファイルを検索すると、構造化されたスライドレイアウト、テキストブロック、スピーカーノートを含む現代のプレゼンテーションドキュメントに信頼性のあるアクセスが提供されます。PPTXファイルは、報告、トレーニング、意思決定コンテンツに広く使用されています。
+
+
+
+自動化されたPPTX検索は、スケーラブルなスライド分析、インテリジェントな検索、ナレッジおよびコンテンツ管理システムとのシームレスな統合をサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **構造化されたスライド検索**  
+
+&nbsp; PPTXファイル内のタイトル、箇条書き、ノートを検索します。
+
+
+
+* **プレゼンテーションコンテンツの分析**  
+
+&nbsp; キーテーマやセクションをプログラムで特定します。
+
+
+
+* **再利用可能なスライドの発見**  
+
+&nbsp; レポートやデッキで再利用可能なスライドを特定します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **継続的なPPTXインデックスの更新**  
+
+&nbsp; Pythonサービスが新しいPPTXファイルを監視およびインデックス化します。
+
+
+
+* **自動化されたスライド分類**  
+
+&nbsp; 抽出されたコンテンツに基づいてスライドをカテゴリ分けします。
+
+
+
+* **PPTXコンテンツパイプライン**  
+
+&nbsp; 検索結果がダッシュボードや自動化ワークフローにフィードされます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

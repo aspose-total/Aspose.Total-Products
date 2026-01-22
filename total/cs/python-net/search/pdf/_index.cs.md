@@ -77,7 +77,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Vyhledávání **PDF** dokumentů pomocí Python API umožňuje spolehlivé objevení informací uložených v jednom z nejpoužívanějších formátů pro zprávy, smlouvy, manuály a oficiální záznamy. Programové vyhledávání v PDF pomáhá moderním systémům najít relevantní text a strukturu napříč velkými kolekcemi dokumentů bez manuálního čtení.
+
+
+
+Když je integrováno do automatizačních potrubí, vyhledávání v PDF podporuje škálovatelné indexování, rychlejší získávání a bezproblémovou integraci s analytikou, dodržováním předpisů a pracovními postupy správy znalostí.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Objevování klíčových slov v PDF**  
+
+&nbsp; Najde cílené termíny a fráze napříč velkými soubory PDF.
+
+
+
+* **Získávání částí zpráv**  
+
+&nbsp; Najde klíčové části, jako jsou souhrny, tabulky a zjištění, uvnitř PDF.
+
+
+
+* **Vyhledávání v repozitáři dokumentů**  
+
+&nbsp; Umí zpřístupnit vyhledávatelný přístup k PDF uloženým v různých složkách a systémech.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizované indexování PDF**  
+
+&nbsp; Pythonové služby extrahují text a aktualizují indexy vyhledávání PDF podle plánu.
+
+
+
+* **Automatizace kontroly dodržování PDF**  
+
+&nbsp; Programové vyhledávání detekuje požadované klauzule a chybějící prohlášení v PDF.
+
+
+
+* **Extrakce dynamických poznatků z PDF**  
+
+&nbsp; Výsledky vyhledávání řídí automatizované souhrny, upozornění a pracovní postupy následného zpracování.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

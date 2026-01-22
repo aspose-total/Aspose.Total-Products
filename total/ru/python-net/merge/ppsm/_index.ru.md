@@ -79,7 +79,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Объединение макрософ-включенных презентаций слайд-шоу с помощью Python API поддерживает автоматизированную интерактивную доставку слайд-шоу. Эти форматы часто используются в контролируемых средах.
+
+
+
+Автоматизация гарантирует сохранение макросов и поведения слайд-шоу во время объединения.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Сборка интерактивного слайд-шоу (PPSM)**  
+
+&nbsp; Объединение файлов слайд-шоу с макросами.
+
+
+
+* **Автоматизированная демонстрационная презентация (PPSM)**  
+
+&nbsp; Объединение файлов PPSM для автоматизированных демонстраций.
+
+
+
+* **Управляемые деки воспроизведения (PPSM)**  
+
+&nbsp; Объединение файлов PPSM для управляемых презентаций.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Создание слайд-шоу на основе правил (PPSM)**  
+
+&nbsp; Системы объединяют файлы PPSM на основе логических правил.
+
+
+
+* **Сохранение автоматизации на бэкенде (PPSM)**  
+
+&nbsp; Объединение PPSM сохраняет интерактивное поведение.
+
+
+
+* **Генерация демонстраций по расписанию (PPSM)**  
+
+&nbsp; Слайд-шоу объединяются автоматически по расписанию.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

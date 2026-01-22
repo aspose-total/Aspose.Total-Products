@@ -78,7 +78,75 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A makrókat támogató Excel-táblázatok összevonása Python API-k segítségével lehetővé teszi az adatalapú logika, számítások és automatizálás összevonását a munkafüzetekbe ágyazva. Ez gyakori az operatív és pénzügyi környezetekben.
+
+
+
+Az automatizált XLSM-összevonás biztosítja, hogy az adatok és a makróvezérelt viselkedés megmaradjanak a skálázható rendszerekben.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Makróvezérelt jelentésösszeállítás (XLSM)**  
+
+&nbsp; Olyan XLSM fájlok összevonása, amelyek automatizált számításokat és logikát tartalmaznak.
+
+
+
+* **Operatív munkafüzetek összevonása (XLSM)**  
+
+&nbsp; Makrókat támogató táblázatok összevonása osztályok között.
+
+
+
+* **Folyamatautomatizálás csomagolása (XLSM)**  
+
+&nbsp; Az ismétlődő operatív folyamatokban használt XLSM fájlok összevonása.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Szabályalapú munkafüzet-generálás (XLSM)**  
+
+&nbsp; Rendszerek összevonják az XLSM fájlokat meghatározott automatizálási szabályok alapján.
+
+
+
+* **Automatizált pénzügyi modellezés (XLSM)**  
+
+&nbsp; Az XLSM-összevonás támogatja a ismételhető pénzügyi munkafolyamatokat.
+
+
+
+* **Irányított makró megőrzés (XLSM)**  
+
+&nbsp; Az automatizált csövek összevonják az XLSM fájlokat, miközben megőrzik a makrókat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

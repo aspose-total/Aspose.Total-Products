@@ -82,7 +82,73 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Prohlížení generických obrázkových formátů s Python API poskytuje sjednocený přístup k prohlížení vizuálních prostředků napříč pracovními postupy.
+
+To umožňuje konzistentní zpracování obrázků bez ohledu na zdroj nebo typ.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Sjednocená kontrola obrázků**  
+
+&nbsp; Prohlížení různorodých obrázkových souborů prostřednictvím jednoho rozhraní.
+
+
+
+* **Ověření vizuálních prostředků**  
+
+&nbsp; Potvrzení integrity a vzhledu obrázku.
+
+
+
+* **Podpora obsahového potrubí**  
+
+&nbsp; Kontrola obrázků během zpracování.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizované obrázkové potrubí**  
+
+&nbsp; Pythonové pracovní postupy zobrazují obrázky během hromadného zpracování.
+
+
+
+* **Dynamické náhledové služby**  
+
+&nbsp; Obrázky jsou vykreslovány na vyžádání k přezkoumání.
+
+
+
+* **Automatizace zajištění kvality**  
+
+&nbsp; Prohlížení podporuje automatizované vizuální kontroly.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

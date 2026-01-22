@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+توقيع مستند DOCX باستخدام واجهات برمجة التطبيقات في Python يمكن أن يمكّن المستندات الحديثة المنظمة من تضمين بيانات تصديق قابلة للتحقق. وهذا يدعم قابلية التتبع ودورات حياة المستندات المُراقبة.
+
+
+
+عملية توقيع مستند DOCX بشكل آلي تتكامل بسلاسة مع محركات المحتوى وأنظمة الموافقة ومستودعات المستندات بشكل كبير.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **إنهاء العقود الرقمية**  
+
+&nbsp; تضمين تواقيع الموافقة في العقود النهائية بتنسيق DOCX.
+
+
+
+* **تتبع موافقة التقارير**  
+
+&nbsp; توقيع تقارير DOCX لتأكيد موافقة الإدارة.
+
+
+
+* **حوكمة الوثائق الداخلية**  
+
+&nbsp; تطبيق التواقيع على الوثائق الداخلية الموثقة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتيمن" %}}
+
+
+
+* **توقيع العقود بناءً على الأحداث**  
+
+&nbsp; تتم عملية توقيع ملفات DOCX تلقائيًا بعد حدوث الأحداث الموافقة.
+
+
+
+* **إغلاق مراجعة متعددة الخطوات**  
+
+&nbsp; يتم التوقيع بمجرد اكتمال جميع المراجعين لمهامهم.
+
+
+
+* **موافقة الوثائق بناءً على CI**  
+
+&nbsp; توقيع ملفات DOCX كجزء من خطوط الإنتاج الآلي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -138,7 +206,7 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -79,7 +79,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/sli
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A fusão de apresentações de slides habilitadas para macro usando APIs Python suporta a entrega automatizada e interativa de apresentações de slides. Esses formatos são frequentemente usados em ambientes controlados.
+
+
+
+A automação garante que macros e comportamentos de apresentação de slides sejam preservados durante a fusão.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Montagem Interativa de Slideshows (PPSM)**  
+
+&nbsp; Mesclar arquivos de apresentação de slides habilitados para macro.
+
+
+
+* **Apresentação de Demonstração Automatizada (PPSM)**  
+
+&nbsp; Combinar arquivos PPSM para demonstrações automatizadas.
+
+
+
+* **Decks de Reprodução Controlados (PPSM)**  
+
+&nbsp; Agregar arquivos PPSM para apresentações controladas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Criação de Slideshow Baseada em Regras (PPSM)**  
+
+&nbsp; Sistemas mesclam arquivos PPSM com base em regras lógicas.
+
+
+
+* **Preservação da Automação de Backend (PPSM)**  
+
+&nbsp; A fusão de PPSM mantém comportamentos interativos.
+
+
+
+* **Geração de Demonstração Agendada (PPSM)**  
+
+&nbsp; As apresentações de slides são mescladas automaticamente em horários programados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

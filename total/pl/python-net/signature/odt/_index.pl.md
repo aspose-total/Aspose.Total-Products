@@ -71,7 +71,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Podpisywanie dokumentów ODT za pomocą interfejsów API w języku Python umożliwia umieszczanie zweryfikowanych znaczników zatwierdzenia i metadanych podpisującego w otwartych dokumentach tekstowych. Wsparcie to umożliwia kontrolowanie cykli życia dokumentów bez konieczności polegania na formatach własnościowych.
+
+
+
+W automatycznych procesach, podpisywanie dokumentów ODT zapewnia, że zatwierdzenia są konsekwentnie stosowane w momencie zamknięcia przeglądu, poprawiając możliwość audytu i redukując ręczne przetwarzanie dokumentów.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Zatwierdzenie polityki w formacie otwartym**  
+
+&nbsp; Podpisz dokumenty polityki ODT, aby potwierdzić ostateczną recenzję i autoryzację.
+
+
+
+* **Zamknięcie przepływu redakcyjnego**  
+
+&nbsp; Dodaj podpisy do szkiców ODT po zakończeniu recenzji treści.
+
+
+
+* **Zarządzanie wewnętrzną bazą wiedzy**  
+
+&nbsp; Podpisz dokumenty ODT przed opublikowaniem w udostępnionych repozytoriach.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Wyzwalacz zakończenia recenzji**  
+
+&nbsp; Automatycznie podpisuj pliki ODT, gdy wszyscy przypisani recenzenci zakończą zatwierdzanie.
+
+
+
+* **Brama publikacji repozytorium**  
+
+&nbsp; Podpisz dokumenty ODT przed ich przesłaniem do publikacji w bazie wiedzy.
+
+
+
+* **Automatyczne wstrzykiwanie śladu audytowego**  
+
+&nbsp; Dołączaj tożsamość podpisującego i metadane znacznika czasu podczas uruchamiania procesów podpisywania ODT.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

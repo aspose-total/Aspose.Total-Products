@@ -76,7 +76,75 @@ ODT パスワード保護アプリまたはユーティリティを開発する�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODTは、レポートや文書のために広く使用されているオープンドキュメントテキスト形式です。ODTファイルを保護することは、文書の信頼性を保ち、偶発的または悪意のある変更を防ぐために不可欠です。
+
+
+
+Pythonベースの文書保護により、ODTセキュリティを自動化された文書作成および公開ワークフローに最小限のオーバーヘッドで組み込むことができます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* **セキュアなレポート配布**  
+
+&nbsp; 共有前に最終版のODTレポートを保護します。
+
+
+
+* **文書の整合性**  
+
+&nbsp; 承認後も公式文書が変更されないようにします。
+
+
+
+* **クロスプラットフォームの文書安全性**  
+
+&nbsp; 編集環境に関係なく保護を適用します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **自動化された文書パイプライン**  
+
+&nbsp; 継続的な文書生成の一環としてODTファイルを保護します。
+
+
+
+* **ルールベースのファイルセキュリティ**  
+
+&nbsp; 文書のメタデータに基づいて保護ポリシーを適用します。
+
+
+
+* **大量の文書の強化**  
+
+&nbsp; バッチ操作で複数のODTファイルをプログラムでセキュアにします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

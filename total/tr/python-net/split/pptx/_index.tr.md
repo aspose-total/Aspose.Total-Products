@@ -73,7 +73,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTX, yapılandırılmış slayt içeriği için tasarlanmış modern, XML tabanlı bir sunum formatıdır. PPTX dosyalarını bölmek, slayt düzeyinde veriler üzerinde ince kontrol sağlar.
+
+
+
+Python tabanlı otomasyon, güvenilir, ölçeklenebilir ve formata duyarlı PPTX işleme desteği sunar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Slayt Düzeyinde İçerik Yönetimi**  
+
+  &nbsp; Bireysel slaytları bağımsız birimler olarak yönetin.
+
+
+
+* **Otomatik Sunum Özelleştirme**  
+
+  &nbsp; Çıkarılan slaytlardan özel sunumlar oluşturun.
+
+
+
+* **Sunum Analitiği**  
+
+  &nbsp; Slayt içeriğini programatik olarak analiz edin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **XML Tabanlı Slayt Ayrıştırma**  
+
+  &nbsp; Python betikleri slaytları hassas bir şekilde çıkarır.
+
+
+
+* **Kural Tabanlı Sunum Montajı**  
+
+  &nbsp; Slaytlar dinamik olarak bir araya getirilir.
+
+
+
+* **Otomatik İnceleme Süreçleri**  
+
+  &nbsp; Slaytlar bağımsız olarak doğrulanır.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

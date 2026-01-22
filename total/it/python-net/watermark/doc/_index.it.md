@@ -79,7 +79,85 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'apposizione di filigrane ai file **DOC** con le API di Python aiuta a proteggere i documenti Word legacy etichettando chiaramente la proprietà, la riservatezza o le regole di distribuzione all'interno dei contenuti modificabili.
+
+L'automazione dell'apposizione di filigrane ai DOC migliora la coerenza nella governance dei documenti, consentendo alle organizzazioni di far rispettare i controlli di politica visiva su larga scala anche per i formati di documenti più datati.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Timbri di riservatezza per contratti legacy**  
+
+&nbsp; Aggiungi marchi "RISERVATO" agli accordi più vecchi per ridurre la condivisione non autorizzata.
+
+
+
+* **Etichette di stato del ciclo di revisione**  
+
+&nbsp; Contrassegna i documenti come "IN REVISIONE" per evitare la circolazione prematura delle bozze.
+
+
+
+* **Applicazione delle politiche interne per i modelli**  
+
+&nbsp; Applica filigrane standardizzate ai modelli legacy per allinearli alla governance.
+
+
+
+* **Avvisi di distribuzione specifici per il cliente**  
+
+&nbsp; Inserisci avvisi rivolti al cliente che chiariscono l'uso consentito e i limiti di ridistribuzione.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Apposizione di timbri ai documenti dalla casella di posta all'archivio**  
+
+&nbsp; Aggiungi automaticamente filigrane ai file DOC prima di salvarli in un repository.
+
+
+
+* **Monitoraggio delle cartelle per i file legacy**  
+
+&nbsp; Rileva nuovi file DOC in una directory e applica filigrane di politica senza passaggi manuali.
+
+
+
+* **Testo della filigrana guidato dai metadati**  
+
+&nbsp; Genera il contenuto della filigrana dai tag del documento come dipartimento, progetto o livello di sensibilità.
+
+
+
+* **Transizione automatica da "Bozza" a "Finale"**  
+
+&nbsp; Sostituisci le filigrane delle bozze con etichette finali quando le approvazioni vengono registrate in un sistema di workflow.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

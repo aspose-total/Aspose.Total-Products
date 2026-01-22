@@ -71,7 +71,41 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX est le format de présentation moderne dominant, et le déverrouillage des fichiers protégés garantit une automatisation, une collaboration et une réutilisation fluides. L'accès programmatique permet aux fichiers PPTX de rester partie intégrante des écosystèmes de contenu dynamique.
+
+Le déverrouillage basé sur Python intègre les fichiers PPTX dans des flux de travail évolutifs sans compromettre le contrôle ou la gouvernance.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+- **Génération dynamique de diapositives**
+  &nbsp; Permet la réutilisation des diapositives protégées dans des présentations automatisées.
+
+- **Vérifications de cohérence du contenu**
+  &nbsp; Prise en charge de la validation des decks verrouillés par rapport aux règles de style.
+
+- **Reporting automatisé**
+  &nbsp; Permet aux présentations protégées de nourrir les systèmes de reporting.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+- **Assemblage automatisé de decks**
+  &nbsp; Les fichiers PPTX sont déverrouillés et assemblés dynamiquement à partir de composants.
+
+- **Publication planifiée de présentations**
+  &nbsp; Le déverrouillage permet la publication sans intervention des decks protégés.
+
+- **Mises à jour de diapositives basées sur l'analyse**
+  &nbsp; Le contenu protégé est déverrouillé pour des rafraîchissements de diapositives basés sur les données.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

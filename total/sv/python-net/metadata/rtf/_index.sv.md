@@ -98,7 +98,93 @@ För mer information, se [Produktdokumentation](https://docs.aspose.com/words/py
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Dokumentmetadataextrahering för **RTF**-filer via Python API:er hjälper system att fånga grundläggande filattribut och inbäddade beskrivare för riktextdokument som ofta används för portabilitet och äldre kompatibilitet. Detta stödjer indexering, styrning och livscykelövervakning för lagringsplatser som innehåller olika dokumenttyper.
+
+
+
+I automatiserade arbetsflöden kan RTF-metadata driva klassificering, ruttering och katalogsynchronisering – vilket möjliggör skalbar hantering av äldre eller utbytesorienterade dokument utan manuell granskning.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsområden" %}}
+
+
+
+* **Indexering av blandade format i lagringsplatsen**
+
+  Extrahera RTF-metadata för att förbättra upptäckbarheten och enhetlig rapportering över olika dokumentlagringsplatser.
+
+
+
+* **Styrning av äldre innehåll**
+
+  Använd tidsstämplar och författarfält för att etablera förvaltning och uppdateringscykler för äldre dokument.
+
+
+
+* **Massklassificering för operationer**
+
+  Normalisera tillgängliga RTF-attribut till strukturerade taggar för ruttering och åtkontroll.
+
+
+
+* **Migrations- och konverteringsplanering**
+
+  Granska RTF-metadata för att prioritera konverteringsmål och identifiera saknade ägaruppgifter.
+
+
+
+* **Kvalitetskontroll för mottagning**
+
+  Markera RTF-filer med ofullständig eller inkonsekvent metadata för åtgärdsarbetsflöden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* **Normalisering av äldre mottagning**
+
+  Extrahera automatiskt RTF-metadata och omvandla det till standardiserade fält för ett centralt dokumentregister.
+
+
+
+* **Orkestrering av konverteringskö**
+
+  Ruttera RTF-filer till konverteringspipeliner baserat på metadatafullständighet och föråldradhetsgränser.
+
+
+
+* **Automatisk tilldelning av förvaltarskap**
+
+  Skapa ägaruppgifter för RTF-filer som saknar underhållaregenskaper, med hjälp av katalogkontext plus metadata-signaler.
+
+
+
+* **Periodiska rapporter om lagringsplatsens hälsa**
+
+  Generera schemalagda sammanfattningar av RTF-metadatatäckning, saknade fält och åldersfördelning för styrningsspårning.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

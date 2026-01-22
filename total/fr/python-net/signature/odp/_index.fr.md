@@ -73,7 +73,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La signature des fichiers de présentation ODP avec les API Python aide les équipes à contrôler la qualité de la publication et la propriété des diapositives créées dans des formats ouverts. Cela garantit que les diapositives ne sont distribuées qu'après approbation formelle.
+
+
+
+Lorsqu'elle est automatisée, la signature ODP devient une étape de gouvernance répétable au sein des flux de travail de collaboration, améliorant le contrôle des versions et empêchant la circulation de diapositives non examinées.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Approbation de la publication de la formation**  
+
+&nbsp; Signez les publications de formation ODP pour confirmer leur préparation au déploiement interne.
+
+
+
+* **Confirmation de l'examen des parties prenantes**  
+
+&nbsp; Appliquez une marque de signature aux publications ODP une fois l'examen des parties prenantes terminé.
+
+
+
+* **Certification de la présentation de conformité**  
+
+&nbsp; Signez les publications de politique ou de conformité pour documenter qui a approuvé la version finale.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Déclenchement de la signature par flux de travail d'approbation**  
+
+&nbsp; Signez automatiquement les fichiers ODP lorsque l'état d'approbation est enregistré dans le système.
+
+
+
+* **Contrôle d'intégrité des publications avant le partage**  
+
+&nbsp; Signez les publications uniquement après vérification de l'existence des diapositives et des métadonnées requises.
+
+
+
+* **Signature en lot pour les cycles de publication**  
+
+&nbsp; Signez de manière programmée plusieurs publications ODP dans le cadre de cycles de publication planifiés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API合并PowerPoint演示文稿，可以将来自多个来源的幻灯片合并为一个连贯的演示文稿。这对于报告、培训、销售和高管沟通至关重要，其中内容是并行编写然后统一的。
+
+
+
+自动化演示文稿合并提高效率，确保结构一致性，并允许幻灯片组装直接嵌入到后端系统和内容管道中。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **传统幻灯片合并（PPT）**  
+
+&nbsp; 将旧的PPT文件合并为一个演示文稿以便重用或现代化。
+
+
+
+* **部门演示文稿组装（PPT）**  
+
+&nbsp; 将不同团队创建的PPT演示文稿合并为一个统一的幻灯片集。
+
+
+
+* **历史演示文稿存档（PPT）**  
+
+&nbsp; 将存档的PPT文件汇总到一个统一的参考演示文稿中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **定时演示文稿编制（PPT）**  
+
+&nbsp; 自动作业将定期的PPT文件合并为一个主演示文稿。
+
+
+
+* **工作流驱动的幻灯片组装（PPT）**  
+
+&nbsp; 当工作流程里程碑达到时，系统会合并PPT幻灯片。
+
+
+
+* **基于管道的演示文稿生成（PPT）**  
+
+&nbsp; PPT合并作为自动化报告管道的一部分运行。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

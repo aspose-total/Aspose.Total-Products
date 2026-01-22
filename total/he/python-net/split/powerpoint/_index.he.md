@@ -72,7 +72,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+קבצי PowerPoint שומרים תוכן חזותי במבנה המבוסס על שקפים המשמש במצגות ובדיווחים. פיצול קבצי PowerPoint מאפשר גישה גרנולרית לשקפים יחידים או קבוצות שקפים.
+
+
+
+אוטומציה בעזרת Python מאפשרת עיבוד סקלאבילי של תוכן המצגות בזרימות עבודה מודרניות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **שימוש בשקפים במצגות שונות**  
+
+&nbsp; חליץ שקפים לשימוש מחדש במצגות חדשות.
+
+
+
+* **ניהול תוכן במצגות**  
+
+&nbsp; ניהול שקפים באופן עצמאי בסקאלה.
+
+
+
+* **תהליכי ביקורת ואישור**  
+
+&nbsp; שיתוף שקפים רלוונטיים עם צדדים עוסקים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **פיצול אוטומטי של שקפים**  
+
+&nbsp; סקריפטים ב-Python מפצלים קבצים ליחידות שקפים.
+
+
+
+* **יצירת מצגת דינמית**  
+
+&nbsp; שקפים מורכבים על פי כללים.
+
+
+
+* **מערכות גרסאות למצגות**  
+
+&nbsp; מעקב אחר שינויים ברמת השקפים באופן אוטומטי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

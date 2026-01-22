@@ -89,7 +89,73 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri ile PPSM dosyalarını görüntülemek, otomatik oynatma için tasarlanmış makro destekli slayt gösterilerinin güvenli denetimini sağlar.
+
+Bu, gömülü makroları çalıştırmadan görünürlüğün gerektiği kontrol edilen otomasyon iş akışlarını destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Makro-Enabled Slayt Gösterisi İncelemesi**  
+
+&nbsp; Makroları etkisiz hale getirerek slayt gösterisi içeriğini görüntüleyin.
+
+
+
+* **Oynatma Akışı İncelemesi**  
+
+&nbsp; Otomatik görüntüleme için tasarlanmış slayt sırasını ve sunum yapısını inceleyin.
+
+
+
+* **Güvenli Dağıtım Doğrulaması**  
+
+&nbsp; Kontrollü paylaşım veya dağıtımdan önce PPSM dosyalarını inceleyin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Güvenli Slayt Gösterisi Alımı İş Akışları**  
+
+&nbsp; Python iş akışları, PPSM dosyalarını güvenli bir şekilde alım sırasında işler.
+
+
+
+* **Uyumluluk Odaklı İnceleme Otomasyonu**  
+
+&nbsp; Slayt gösterileri, otomatik politika kontrollerinin bir parçası olarak görüntülenir.
+
+
+
+* **Ön Onay Sunum İş Akışları**  
+
+&nbsp; Otomatik önizlemeler, insan veya sistem tabanlı onayları destekler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

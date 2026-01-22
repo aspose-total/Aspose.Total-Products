@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Memberi Watermark pada lembar kerja **XLS** dengan Python APIs membantu melindungi file Excel warisan dengan menambahkan tanda kepemilikan dan kerahasiaan yang terlihat pada artefak data yang masih banyak digunakan dalam alur kerja pelaporan yang lebih tua.
+
+Automatisasi membuat watermark XLS menjadi praktis untuk arsip besar, memastikan tata kelola yang konsisten tanpa pengeditan manual pada setiap buku kerja.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Perlindungan Lembar Keuangan Warisan**  
+
+&nbsp; Tambahkan label kerahasiaan pada lembar anggaran dan ramalan XLS yang lebih tua.
+
+
+
+* **Tanda Kepemilikan Laporan Operasional**  
+
+&nbsp; Tandai laporan XLS untuk mempertahankan identitas sumber di seluruh salinan yang diteruskan.
+
+
+
+* **Indikator Data Draf**  
+
+&nbsp; Terapkan watermark "PRELIMINARY" untuk mengurangi kesalahan dari angka yang belum divalidasi.
+
+
+
+* **Kontrol Distribusi untuk Berbagi Eksternal**  
+
+&nbsp; Tanamkan batasan penggunaan yang terlihat pada lembar kerja warisan yang dibagikan dengan vendor.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Penandaan Arsip Otomatis**  
+
+&nbsp; Watermark file XLS selama migrasi ke sistem penyimpanan atau tata kelola baru.
+
+
+
+* **Pemantau Folder untuk Laporan Masuk**  
+
+&nbsp; Deteksi penurunan XLS baru dan terapkan watermark kebijakan standar secara otomatis.
+
+
+
+* **Watermark berdasarkan Aturan Jenis Laporan**  
+
+&nbsp; Pilih konten watermark berdasarkan pola nama file atau metadata klasifikasi.
+
+
+
+* **Penandaan Ekspor Terjadwal**  
+
+&nbsp; Tandai ekspor XLS otomatis sebelum disampaikan kepada pemangku kepentingan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

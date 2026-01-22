@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用して**ODS**スプレッドシートに透かしを入れることで、所有権、機密性、配布に関する目に見えるガバナンスラベルを追加することで、オープンドキュメントスプレッドシートをより制御できるようになります。
+
+ODS透かしを自動化することで、スケーラブルなレポートワークフローをサポートし、オープンフォーマットで共有されるデータセット全体で一貫したポリシーインジケータを確保します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **機密データシートのスタンプ**  
+
+&nbsp; 機密性の高いODSファイルにマークを付けて、意図しない外部共有のリスクを軽減します。
+
+
+
+* **予備データラベル**  
+
+&nbsp; 早い段階のデータ検証サイクル中に「未検証」のオーバーレイを適用します。
+
+
+
+* **パートナーデータ利用通知**  
+
+&nbsp; ライセンスと再利用制限を明確にする目に見える通知を追加します。
+
+
+
+* **内部監査トレイルサポート**  
+
+&nbsp; 特定のデータセットを生成したシステムを明らかにするために、透かしをエクスポートします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **ETLエクスポート透かし**  
+
+&nbsp; 自動データパイプラインから生成されたODSファイルに自動的にスタンプを押します。
+
+
+
+* **役割ベースの透かしテキスト**  
+
+&nbsp; 受信チームやアクセスレベルに応じて透かしコンテンツをカスタマイズします。
+
+
+
+* **定期レポート配布コントロール**  
+
+&nbsp; 定期的なODSレポートを送信する前に、タイムスタンプ付きの透かしを適用します。
+
+
+
+* **自動保持ポリシータグ付け**  
+
+&nbsp; 格納されたスプレッドシートのライフサイクル自動化をサポートするために、視覚的な保持ラベルを追加します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

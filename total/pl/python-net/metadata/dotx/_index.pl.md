@@ -98,7 +98,93 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Ekstrakcja metadanych dokumentu dla plików **DOTX** za pomocą interfejsów API Pythona zapewnia strukturalny sposób zarządzania nowoczesnymi plikami szablonów poprzez odczyt właściwości takich jak tytuł szablonu, szczegóły autorstwa i historię aktualizacji. Poprawia to zarządzanie i zapewnia, że generowanie dokumentów pozostaje spójne i zgodne z polityką.
+
+
+
+W potokach automatyzacji metadane DOTX są przydatne do rozstrzygania szablonów, przepływów pracy zatwierdzania i kontroli cyklu życia — umożliwiają skalowalne operacje szablonów, które redukują manualne sprawdzenia i dryf konfiguracji.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+
+
+* **Odkrywanie i wyszukiwanie szablonów**
+
+  Wyodrębnij metadane DOTX, aby szablony były wyszukiwalne według celu, działu lub zamierzonego typu dokumentu.
+
+
+
+* **Śledzenie statusu zatwierdzenia**
+
+  Użyj niestandardowych właściwości do śledzenia, czy szablon jest wersją roboczą, zatwierdzoną czy przestarzałą.
+
+
+
+* **Mapowanie właścicieli szablonów**
+
+  Zidentyfikuj opiekunów i autorów, aby przekierować prośby o aktualizację i zadania dotyczące odpowiedzialności.
+
+
+
+* **Zapewnienie spójności wygenerowanych dokumentów**
+
+  Zweryfikuj, czy przepływy pracy używają właściwego szablonu DOTX na podstawie identyfikatorów metadanych.
+
+
+
+* **Zarządzanie zmianami w szablonach**
+
+  Monitoruj historię modyfikacji, aby wykryć nieoczekiwane edycje kontrolowanych szablonów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Rejestr szablonów sterowany metadanymi**
+
+  Automatycznie wstawiaj metadane DOTX do usługi rejestru używanej przez systemy generowania dokumentów.
+
+
+
+* **Potok egzekwowania przestarzałości**
+
+  Przekierowuj przestarzałe szablony DOTX do archiwum i uniemożliwiaj ich użycie na podstawie flag metadanych.
+
+
+
+* **Automatyczne sprawdzenia jakości szablonów**
+
+  Uruchamiaj walidacje, które zapewniają, że wymagane właściwości DOTX istnieją i są zgodne ze standardami organizacyjnymi przed wydaniem.
+
+
+
+* **Kierowanie przepływem pracy aktualizacji szablonu**
+
+  Gdy metadane DOTX wskazują na zmianę, automatycznie twórz zadania do przeglądu dla przypisanego opiekuna.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

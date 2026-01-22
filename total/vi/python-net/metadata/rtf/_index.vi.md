@@ -98,7 +98,71 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Words for Python via 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Trích xuất siêu dữ liệu tài liệu cho các tệp **RTF** thông qua Python APIs giúp hệ thống thu thập các thuộc tính cơ bản của tệp và các mô tả nhúng cho tài liệu văn bản định dạng phong phú thường được sử dụng cho tính di động và tương thích kế thừa. Điều này hỗ trợ việc lập chỉ mục, quản trị và theo dõi vòng đời cho các kho chứa chứa các loại tài liệu kết hợp.
+
+Trong quy trình làm việc tự động, siêu dữ liệu RTF có thể thúc đẩy phân loại, định tuyến và đồng bộ hóa danh mục - cho phép xử lý quy mô của tài liệu cũ hoặc hướng trao đổi mà không cần xem xét thủ công.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Chỉ Mục Kho Chứa Định Dạng Kết Hợp**
+
+  Trích xuất siêu dữ liệu RTF để cải thiện khả năng tìm kiếm và thống nhất báo cáo trên các kho chứa tài liệu đa dạng.
+
+* **Quản Trị Nội Dung Kế Thừa**
+
+  Sử dụng dấu thời gian và trường tác giả để thiết lập sự quản trị và chu kỳ làm mới cho các tài liệu cũ.
+
+* **Phân Loại Hàng Loạt cho Các Hoạt Động**
+
+  Chuẩn hóa các thuộc tính RTF có sẵn thành các thẻ cấu trúc để định tuyến và kiểm soát truy cập.
+
+* **Kế Hoạch Di Dời và Chuyển Đổi**
+
+  Kiểm tra siêu dữ liệu RTF để ưu tiên các mục tiêu chuyển đổi và xác định chi tiết sở hữu bị thiếu.
+
+* **Kiểm Soát Chất Lượng cho Quá Trình Nhận**
+
+  Đánh dấu các tệp RTF có siêu dữ liệu không hoàn chỉnh hoặc không nhất quán để xử lý trong quy trình khắc phục.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Chuẩn Hóa Quá Trình Nhận Cũ**
+
+  Tự động trích xuất siêu dữ liệu RTF và chuyển đổi nó thành các trường chuẩn hóa cho một bảng đăng ký tài liệu trung tâm.
+
+* **Quản Lý Hàng Đợi Chuyển Đổi**
+
+  Định tuyến các tệp RTF vào các đường ống chuyển đổi dựa trên độ hoàn chỉnh và ngưỡng lỗi thời của siêu dữ liệu.
+
+* **Phân Công Quản Trị Tự Động**
+
+  Tạo nhiệm vụ sở hữu cho các tệp RTF thiếu các thuộc tính người duy trì, sử dụng ngữ cảnh thư mục cộng với tín hiệu siêu dữ liệu.
+
+* **Báo Cáo Sức Khỏe Kho Chứa Định Kỳ**
+
+  Tạo bản tóm tắt theo lịch trình về phạm vi siêu dữ liệu RTF, các trường bị thiếu và phân phối tuổi của chúng để theo dõi quản trị.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

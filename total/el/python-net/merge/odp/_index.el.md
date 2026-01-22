@@ -79,7 +79,77 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η συγχώνευση αρχείων παρουσιάσεων OpenDocument χρησιμοποιώντας τα APIs της Python υποστηρίζει ανοικτά πρότυπα και ροές εργασίας πολυπλατφορμικών παρουσιάσεων. Αυτό είναι ιδανικό για περιβάλλοντα που χρησιμοποιούν εργαλεία γραφείου ανοικτού κώδικα.
+
+
+
+Η αυτοματοποίηση εξασφαλίζει τη συμβατότητα και την επεξεργασία παρουσιάσεων σε κλίμακα.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* **Συγχώνευση Διαφανειών Πολυπλατφορμικά (ODP)**  
+
+&nbsp; Συγχωνεύστε αρχεία ODP που δημιουργήθηκαν σε διαφορετικά εργαλεία.
+
+
+
+* **Συναρμολόγηση Παρουσίασης με Ανοικτά Πρότυπα (ODP)**  
+
+&nbsp; Συνδυάστε τις διαφάνειες ODP για ενιαία παράδοση.
+
+
+
+* **Συλλογή Διαφανειών Συνεργατικά (ODP)**  
+
+&nbsp; Συγχωνεύστε αρχεία ODP από κατανεμημένους συνεισφέροντες.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* **Ανοικτές Συνεργατικές Διαδικασίες Παρουσίασης (ODP)**  
+
+&nbsp; Συστήματα συγχωνεύουν αρχεία ODP χωρίς εξαρτήσεις προγραμματισμού.
+
+
+
+* **Προγραμματισμένη Συλλογή Διαφανειών (ODP)**  
+
+&nbsp; Η συγχώνευση ODP λειτουργεί ως μέρος των εργασιών πίσω από τις σκηνές.
+
+
+
+* **Αυτοματοποίηση Συμβατότητας Παρουσίασης (ODP)**  
+
+&nbsp; Τα αρχεία ODP συγχωνεύονται δυναμικά σε ροές εργασίας.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

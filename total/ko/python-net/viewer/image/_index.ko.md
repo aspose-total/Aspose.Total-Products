@@ -82,7 +82,73 @@ IMAGE 뷰어 앱이나 유틸리티를 개발해야 합니까?[Aspose.Total for 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+파이썬 API를 사용하여 일반 이미지 형식을 볼 때는 작업 흐름 전체에서 시각 자산을 검사하는 통합 접근 방식을 제공합니다.
+
+이를 통해 원본 또는 유형에 관곝 없이 이미지를 일관되게 처리할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **통합 이미지 검사**
+
+  &nbsp; 단일 인터페이스를 통해 다양한 이미지 파일을 볼 수 있습니다.
+
+
+
+* **시각 자산 확인**
+
+  &nbsp; 이미지 무결성과 외관을 확인합니다.
+
+
+
+* **콘텐츠 파이프라인 지원**
+
+  &nbsp; 처리 단계 중에 이미지를 검사합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동화된 이미지 파이프라인**
+
+  &nbsp; 파이썬 워크플로는 일괄 처리 중에 이미지를 표시합니다.
+
+
+
+* **동적 미리보기 서비스**
+
+  &nbsp; 이미지는 검토를 위해 필요할 때 렌더링됩니다.
+
+
+
+* **품질 보증 자동화**
+
+  &nbsp; 보기 지원 자동화된 시각적 확인을 지원합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -133,7 +199,7 @@ IMAGE 뷰어 앱이나 유틸리티를 개발해야 합니까?[Aspose.Total for 
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

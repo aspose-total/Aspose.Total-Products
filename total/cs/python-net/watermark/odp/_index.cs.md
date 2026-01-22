@@ -79,7 +79,85 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Vodoznakování souborů prezentace **ODP** pomocí Python API pomáhá kontrolovat distribuci prezentací označením vlastnictví, důvěrnosti nebo stavu recenze přímo na snímcích.
+
+Automatizace usnadňuje razení souborů ODP hromadně, podporuje konzistentní správu pro interní školení, nabídky a prezentace partnerů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Označování důvěrných snímkových sad**  
+
+&nbsp; Aplikujte viditelné značky důvěrnosti na všechny snímky k omezení nechtěného sdílení.
+
+
+
+* **Vlastnictví nabídky pro klienty**  
+
+&nbsp; Razítko vlastnictví k objasnění povoleného použití obsahu prezentace.
+
+
+
+* **Přiřazení materiálu k školení**  
+
+&nbsp; Vodoznak školicích sad pro udržení identity zdroje při sdílení v týmech.
+
+
+
+* **Indikátory fáze recenze**  
+
+&nbsp; Přidejte překrytí „NÁVRH“ nebo „K HODNOCENÍ“ k zabránění předčasné distribuce.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* **Vstřikování vodoznaku na celý snímek**  
+
+&nbsp; Programově aplikujte stejný vodoznak na každý snímek pro konzistentní viditelnost.
+
+
+
+* **Integrace schvalovacího procesu**  
+
+&nbsp; Automaticky odstraňujte návrhové vodoznaky a aplikujte finální značky po schválení.
+
+
+
+* **Pravidla pozicování založená na šabloně**  
+
+&nbsp; Umístěte vodoznaky na základě typů rozložení snímků, abyste zabránili zakrytí klíčového obsahu.
+
+
+
+* **Hromadné zpracování pro úklid repozitáře**  
+
+&nbsp; Vodoznakujte dědictví souborů ODP během archivace nebo migrace pro standardizaci politiky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Объединение форматов шаблонов презентаций с использованием Python API обеспечивает однородное создание слайдов в открытых и проприетарных экосистемах. Слияние шаблонов обеспечивает структурную однородность.
+
+
+
+Автоматизация поддерживает быстрое создание презентаций с предсказуемыми макетами.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Сборка презентаций на основе шаблонов (OTP)**  
+
+&nbsp; Объединение шаблонов OTP в стандартизированные колоды.
+
+
+
+* **Многоразовые структуры слайдов (OTP)**  
+
+&nbsp; Объединение структур на основе OTP для обеспечения согласованности.
+
+
+
+* **Стандартизация дизайна (OTP)**  
+
+&nbsp; Склейка шаблонов OTP в единые форматы.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированное применение шаблонов (OTP)**  
+
+&nbsp; Шаблоны OTP объединяются программно.
+
+
+
+* **Пакетное создание презентаций (OTP)**  
+
+&nbsp; Шаблоны объединяются во время запланированных запусков.
+
+
+
+* **Контроль макета через конвейеры (OTP)**  
+
+&nbsp; Системы обеспечивают структуру с помощью объединения шаблонов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

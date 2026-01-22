@@ -79,7 +79,85 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'apposizione di filigrane ai documenti **DOCX** con le API di Python aggiunge un controllo visibile ai file Word moderni, contribuendo a prevenire la distribuzione impropria e a chiarire la proprietà del contenuto modificabile e condivisibile.
+
+L'automazione con Python consente di applicare regole di filigranatura ripetibili su migliaia di file DOCX, garantendo un posizionamento, un'opacità e un messaggio costanti tra team e sistemi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Etichettatura di documenti confidenziali**  
+
+&nbsp; Apporre la scritta "CONFIDENZIALE" su report sensibili per scoraggiare la condivisione casuale.
+
+
+
+* **Marcatura delle versioni di bozza per le revisioni**  
+
+&nbsp; Applicare sovrapposizioni "BOZZA" per ridurre gli errori causati dalle versioni obsolete.
+
+
+
+* **Segni di proprietà dei documenti per i clienti**  
+
+&nbsp; Aggiungere filigrane di proprietà ai documenti consegnabili preservando al contempo la possibilità di modifica per la collaborazione.
+
+
+
+* **Governance dei modelli per i documenti aziendali**  
+
+&nbsp; Imporre standard di filigranatura su proposte, lettere e dichiarazioni generate.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Apposizione automatica di filigrane alle proposte attivate dal CRM**  
+
+&nbsp; Generare e apporre filigrane automaticamente alle proposte DOCX quando cambia lo stadio di un accordo.
+
+
+
+* **Filigranatura di massa per la migrazione dell'ufficio amministrativo**  
+
+&nbsp; Apporre filigrane ai file DOCX archiviati durante la migrazione del repository per standardizzare la governance.
+
+
+
+* **Filigrana dinamica in base al ruolo e alla regione**  
+
+&nbsp; Adattare il testo della filigrana in base al ruolo dell'utente, alla sede dell'ufficio o alle regole sulla residenza dei dati.
+
+
+
+* **Flusso di lavoro automatico di accompagnamento alla redazione**  
+
+&nbsp; Apporre filigrane ai documenti post-elaborati dopo la redazione per indicare "COPIA SANIFICATA".
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

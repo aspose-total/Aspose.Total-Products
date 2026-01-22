@@ -85,7 +85,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API合并JPEG图像，支持高效整合压缩视觉内容，平衡质量和文件大小。这在Web发布、报告和内容传递系统中被广泛使用。
+
+
+
+自动化使JPEG合并能够跨高容量图像工作流进行扩展，而开销最小。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **照片集合组装（JPG）**  
+
+&nbsp; 将JPEG照片合并为单个复合图像。
+
+
+
+* **Web资产整合（JPG）**  
+
+&nbsp; 合并JPEG资产以进行优化发布。
+
+
+
+* **视觉报告生成（JPG）**  
+
+&nbsp; 将JPEG图表和图像聚合为统一的视觉内容。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **动态图像合成（JPG）**  
+
+&nbsp; 系统根据运行时输入合并JPEG图像。
+
+
+
+* **高容量媒体处理（JPG）**  
+
+&nbsp; JPEG合并在规模上自动运行。
+
+
+
+* **内容传递优化（JPG）**  
+
+&nbsp; 自动化流水线合并和优化JPEG资产。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

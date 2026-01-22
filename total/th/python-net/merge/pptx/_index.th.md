@@ -79,7 +79,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การผสานงาน PPTX โดยใช้ Python APIs เป็นวิธีที่พบมากที่สุดสำหรับการสร้างสไลด์ในยุคปัจจุบัน มันช่วยให้มีการควบคุมอย่างแม่นยำต่อลำดับสไลด์ โครงร่าง และความสอดคล้องของเนื้อหา
+
+
+
+ความสามารถนี้สามารถผสานกับเครื่องมือสร้างเนื้อหาและระบบรายงานโดยสะอาด
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **การสร้าง Deck หลายส่วน (PPTX)**  
+
+&nbsp; ผสานไฟล์ PPTX ที่แทนส่วนต่าง ๆ เข้าดีกเดียว
+
+
+
+* **การรวมสไลด์ร่วมกัน (PPTX)**  
+
+&nbsp; รวมสไลด์ PPTX ที่เขียนโดยผู้ร่วมงานหลาย ๆ คน
+
+
+
+* **การประกอบสไลด์โมดูลที่ใช้ซ้ำ (PPTX)**  
+
+&nbsp; ประกอบสไลด์ PPTX แบบโมดูลเข้าดีกเดียวเพื่อสร้างงานนำเสนอที่กำหนดเอง
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การสร้าง Deck สไลด์แบบไดนามิก (PPTX)**  
+
+&nbsp; ระบบผสานไฟล์ PPTX โดยขึ้นอยู่กับข้อมูลนำเข้าระหว่างการทำงาน
+
+
+
+* **ท่องไปมาของการนำเสนอ CI/CD (PPTX)**  
+
+&nbsp; การผสาน PPTX ถูกอัตโนมัติระหว่างขั้นตอนการสร้างหรือปล่อย
+
+
+
+* **การเผยแพร่งานนำเสนอขนาดใหญ่ (PPTX)**  
+
+&nbsp; สร้าง Deck PPTX ในปริมาณมากโดยโปรแกรม
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

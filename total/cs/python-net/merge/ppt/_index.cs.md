@@ -79,7 +79,69 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Slučování prezentací v programu PowerPoint pomocí Python API umožňuje sloučení snímků z různých zdrojů do jedné souvislé prezentace. To je zásadní pro reportování, školení, prodej a výkonnou komunikaci, kde obsah vzniká paralelně a později se sjednocuje.
+
+
+
+Automatizované slučování prezentací zvyšuje efektivitu, zajišťuje strukturální konzistenci a umožňuje vložení sestavování snímků přímo do backendových systémů a obsahových potrubí.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Slučování starých prezentací (PPT)**  
+&nbsp; Sloučení starších souborů PPT do jedné prezentace pro opětovné použití nebo modernizaci.
+
+
+
+* **Sestavování prezentací oddělení (PPT)**  
+&nbsp; Sloučení PPT prezentací vytvořených různými týmy do jednotné sady snímků.
+
+
+
+* **Archivace historických prezentací (PPT)**  
+&nbsp; Sestavení archivovaných souborů PPT do sjednocené referenční prezentace.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Plánované sestavování prezentací (PPT)**  
+&nbsp; Automatizované úlohy slučují pravidelné soubory PPT do hlavní prezentace.
+
+
+
+* **Sestavování snímků řízené pracovním postupem (PPT)**  
+&nbsp; Systémy slučují snímky PPT při dosažení milníků pracovního postupu.
+
+
+
+* **Generování sady snímků založené na potrubí (PPT)**  
+&nbsp; Slučování PPT běží jako součást automatizovaných reportovacích potrubí.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

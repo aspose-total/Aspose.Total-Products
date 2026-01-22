@@ -75,7 +75,93 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Extrakce metadat dokumentu pro soubory **ODP** prostřednictvím Python API umožňuje systémům číst atributy prezentace a vložené vlastnosti pro prezentace - podporuje správu, objevování a správu životního cyklu bez otevírání souboru v GUI. To je důležité pro týmy spravující velké objemy školení, prodejních nebo provozních prezentací.
+
+
+
+V automatizovaných pracovních postupech mohou metadata ODP řídit indexování, klasifikaci a řízené publikování - usnadňují udržování, vyhledávání a integraci knihoven snímků do systémů distribuce obsahu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití případy" %}}
+
+
+
+* **Indexace knihovny prezentací**
+
+  Extrahujte metadata ODP pro vytvoření vyhledávatelných katalogů snímků podle autora, tématu a času aktualizace.
+
+
+
+* **Kontroly aktuálnosti školicího obsahu**
+
+  Použijte upravené časové razítko k identifikaci zastaralých snímkových balíčků, které vyžadují obnovovací cykly.
+
+
+
+* **Klasifikace podle oddělení**
+
+  Normalizujte vlastnosti metadat do strukturovaných kategorií pro konzistentní organizaci a řízení přístupu.
+
+
+
+* **Zprávy o správě aktiv**
+
+  Sesbírejte metadata ODP k měření připravenosti k použití, mezery v pokrytí a vlastnictví údržby.
+
+
+
+* **Příprava hromadné migrace**
+
+  Prověřte vlastnosti ODP před migrací do nových úložišť nebo prostředí pro publikování.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizované načítání snímkových balíčků**
+
+  Při nahrávání extrahujte metadata ODP a automaticky přiřaďte balíček do správné sekce repozitáře.
+
+
+
+* **Automatizace upozornění na zastaralost**
+
+  Spusťte upozornění, když se snímkové balíčky ODP překročí časové limity aktualizace nebo pokud chybí pole odpovědného vlastnictví.
+
+
+
+* **Pravidla publikování řízená metadaty**
+
+  Publikujte nebo omezte snímkové balíčky ODP na základě metadat označujících důvěrnost nebo použití pouze v rámci interního použití.
+
+
+
+* **Hromadné auditní a zpravodajské úlohy**
+
+  Spusťte plánované úlohy, které exportují souhrny metadat ODP pro správu a provozní auditace.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

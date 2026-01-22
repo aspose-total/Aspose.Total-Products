@@ -89,7 +89,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Просмотр файлов PPSM с помощью Python API обеспечивает безопасную проверку презентаций с макросами, предназначенных для автоматического воспроизведения.
+
+Это поддерживает контролируемые рабочие процессы автоматизации, где требуется видимость без выполнения встроенных макросов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Просмотр макросов в презентации**  
+
+&nbsp; Просмотр содержимого слайд-шоу с отключенными макросами.
+
+
+
+* **Проверка порядка воспроизведения**  
+
+&nbsp; Проверка порядка слайдов и структуры презентации, предназначенной для автоматического отображения.
+
+
+
+* **Проверка безопасности распространения**  
+
+&nbsp; Просмотр файлов PPSM перед контролируемым распространением или развертыванием.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Безопасные потоки приема слайд-шоу**  
+
+&nbsp; Рабочие процессы на Python безопасно обрабатывают файлы PPSM при приеме.
+
+
+
+* **Автоматизация проверки соответствия**  
+
+&nbsp; Просмотр слайд-шоу в рамках автоматизированных проверок политики.
+
+
+
+* **Рабочие процессы предварительного утверждения презентации**  
+
+&nbsp; Автоматические предварительные просмотры поддерживают утверждения на основе человека или системы.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

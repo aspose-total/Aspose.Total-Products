@@ -85,7 +85,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Łączenie obrazów TIFF za pomocą interfejsów API w języku Python obsługuje przepływy pracy z wieloma stronami o wysokiej rozdzielczości, które są powszechnie stosowane w druku, obrazowaniu medycznym i skanowaniu dokumentów.
+
+
+
+Automatyzacja umożliwia niezawodne zarządzanie dużymi, bogatymi w szczegóły zbiorami obrazów.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Montaż wielostronicowych skanów (TIFF)**  
+
+&nbsp; Łączenie stron TIFF w pojedynczy plik wielostronicowy.
+
+
+
+* **Przetwarzanie obrazów o wysokiej rozdzielczości (TIFF)**  
+
+&nbsp; Łączenie obrazów TIFF do szczegółowej analizy.
+
+
+
+* **Kompilacja obrazów gotowych do druku (TIFF)**  
+
+&nbsp; Składanie plików TIFF do przepływów pracy związanych z publikacją.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Automatyzowane potoki skanowania (TIFF)**  
+
+&nbsp; Systemy łączą pliki TIFF podczas skanowania.
+
+
+
+* **Przetwarzanie wsadowe o wysokiej rozdzielczości (TIFF)**  
+
+&nbsp; Łączenie plików TIFF odbywa się w zaplanowanych zadaniach.
+
+
+
+* **Automatyzacja obrazowania w przedsiębiorstwie (TIFF)**  
+
+&nbsp; Zautomatyzowane przepływy pracy zarządzają dużymi zbiorami danych TIFF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

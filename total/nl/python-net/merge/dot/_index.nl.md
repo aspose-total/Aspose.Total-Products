@@ -78,7 +78,75 @@ Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het samenvoegen van Word-sjabloonindelingen met Python-API's zorgt voor consistente documentcreatie binnen teams en systemen. Door sjabloon-gebaseerd samenvoegen wordt gezorgd voor gestandaardiseerde lay-outs terwijl flexibele inhoudssamenstelling mogelijk is.
+
+
+
+Deze aanpak is ideaal voor geautomatiseerde documentfabrieken waar structuur en branding consistent moeten blijven in de uitvoer.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Sjabloon-Gebaseerde Documentassemblage (DOT)**  
+
+  Merge DOT-gebaseerde documenten om consistente opmaak af te dwingen.
+
+
+
+* **Gestandaardiseerde Uitvoercreatie (DOT)**  
+
+  Combineer op sjablonen gebaseerde bestanden tot eenduidige documenten.
+
+
+
+* **Herbruikbaar Lay-outbeheer (DOT)**  
+
+  Aggregeer DOT-documenten om de lay-outuniformiteit te behouden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Geautomatiseerde Sjabloontoepassing (DOT)**  
+
+  DOT-bestanden worden automatisch samengevoegd tijdens de documentgeneratie.
+
+
+
+* **Batchverwerking van Sjablonen (DOT)**  
+
+  Grote hoeveelheden DOT-documenten worden samengevoegd in geplande taken.
+
+
+
+* **Systeem-afgedwongen Lay-outbeheer (DOT)**  
+
+  Geautomatiseerde systemen combineren DOT-bestanden om de opmaakconsistentie te garanderen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -89,7 +89,73 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Das Anzeigen von ODP-Dateien mithilfe von Python-APIs ermöglicht die Inspektion von Präsentationsdokumenten in einem plattformneutralen Format.
+
+Dies unterstützt die Interoperabilität und automatisierte Präsentationsworkflows.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Überprüfung von offenen Präsentationen**  
+
+&nbsp; Anzeigen von Folien, die in offenen Dokumentformaten erstellt wurden.
+
+
+
+* **Validierung plattformübergreifend**  
+
+&nbsp; Stellen Sie sicher, dass Präsentationen konsistent dargestellt werden.
+
+
+
+* **Inspektion des Präsentationsinhalts**  
+
+&nbsp; Überprüfen von Folientext und -struktur.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Automatisierte Prüfungen von Präsentationen**  
+
+&nbsp; Python-Workflows stellen ODP-Dateien zur Überprüfung dar.
+
+
+
+* **Interoperabilitätsprüfungen**  
+
+&nbsp; Folien werden angezeigt, um die Formatkompatibilität sicherzustellen.
+
+
+
+* **Vorschau-Services**  
+
+&nbsp; Präsentationen werden dynamisch angezeigt.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -77,7 +77,75 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A PPTX fájlok Python API-k segítségével történő dokumentum szerkesztése pontos kontrollt biztosít a modern prezentációs tartalom felett, lehetővé téve a biztonságos együttműködést és terjesztést. Ez kritikus fontosságú az érzékeny diaadatok védelméhez.
+
+
+
+Az automatizálás biztosítja, hogy a PPTX szerkesztés következetes legyen, ellenőrizhető, és könnyen integrálható legyen a modern tartalom munkafolyamatokba.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Bizalmas adatvédelem**  
+
+&nbsp; Cenzúrázza az érzékeny számokat és szövegeket a prezentációs diaelemekről.
+
+
+
+* **Több közönség számára történő terjesztés**  
+
+&nbsp; Készítsen cenzúrázott verziókat különböző érdekelt felek számára.
+
+
+
+* **Prezentációs életciklus kezelése**  
+
+&nbsp; Biztosítsa, hogy az összes megosztott PPTX fájl megfeleljen a magánéleti szabványoknak.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Diaelem-szintű cenzúra**  
+
+&nbsp; Programozottan távolítsa el az érzékeny szövegdobozokat vagy alakzatokat.
+
+
+
+* **Folyamatos frissítéskezelés**  
+
+&nbsp; Automatikusan alkalmazza újra a cenzúrát, amikor a diák változnak.
+
+
+
+* **Munkafolyamat integráció**  
+
+&nbsp; Ágyazza be a cenzúrát CI/CD-stílusú tartalomcsatornákba.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

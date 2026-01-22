@@ -98,7 +98,93 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri aracılığıyla **DOC** dosyaları için belge meta verilerinin çıkarılması, sistemlere manuel inceleme olmadan yazar, oluşturma zamanı, son değiştirme zamanı, revizyon sayısı ve gömülü özellikler gibi temel dosya özniteliklerini okuma ve yorumlama imkanı sağlar. Bu, belge ağırlıklı iş akışlarında yönetim, aranabilirlik, denetim ve içerik yaşam döngüsü kontrolü için önemlidir.
+
+
+
+Otomasyon iş akışlarına entegre edildiğinde, DOC meta verileri, yönlendirme, uyumluluk kontrolleri, dizinleme ve toplu işleme için güvenilir bir sinyal haline gelir—ölçeklenebilir belge işlemlerini destekleyerek tutarlı sınıflandırma ve depolama, arama ve raporlama katmanlarıyla entegrasyonlar için destek sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Eski Belge Envanteri**
+
+  DOC arşivlerinden meta verileri çıkararak keşif, çoğaltma ve yaşam döngüsü planlaması için yapılandırılmış bir indeks oluşturun.
+
+
+
+* **Uyumluluk Zaman Damgası Doğrulaması**
+
+  Oluşturulan/değiştirilen alanları kullanarak saklama kurallarını doğrulayın ve düzenlenmiş belgelerdeki anormallikleri tespit edin.
+
+
+
+* **Belge Sahipliği Haritalama**
+
+  İnceleme atamaları ve erişim kontrolleri için belge sahipliğini haritalamak için yazar ve son düzenleyici özelliklerini okuyun.
+
+
+
+* **Arama İçin Toplu Kategorizasyon**
+
+  Gömülü özellikleri normalleştirilmiş etiketlere dönüştürerek tutarlı filtreleme ve iç arama zenginleştirmesi sağlayın.
+
+
+
+* **Değişiklik İzlenebilirlik Sinyalleri**
+
+  Düzenleme ve onay iş akışlarında izlenebilirliği desteklemek için revizyonla ilgili alanları yakalayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Arşiv Alma Kapısı**
+
+  Eksik yazar alanlarına, şüpheli zaman damgalarına veya geçersiz meta veri desenlerine dayanarak DOC dosyalarını otomatik olarak kabul edin veya karantinaya alın.
+
+
+
+* **Meta Veriden İndeks Senkronizasyonu**
+
+  Yükleme sırasında DOC meta verilerini çıkarın ve arama indeksine itin, böylece sonuçlar manuel kataloglama olmadan güncel kalır.
+
+
+
+* **Politika Tabanlı Yönlendirme Kuralları**
+
+  Meta veriler gizli içerik, güncellenmemiş sürümler veya bilinmeyen sahiplik durumlarını gösterdiğinde DOC dosyalarını belirli kuyruklara yönlendirin.
+
+
+
+* **Zamanlanmış Meta Veri Denetimleri**
+
+  Meta veri kaymasını tespit eden ve operasyon ekipleri için istisna raporları oluşturan gece taramaları çalıştırın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

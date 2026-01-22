@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API合并二进制Excel工作簿可以高效处理大型数据集，并减小文件大小。这种格式经过优化，适用于处理大数据量的性能敏感环境。
+
+
+
+围绕XLSB合并的自动化支持可实现可扩展的分析工作流，同时保持速度和效率。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **高容量数据合并（XLSB）**  
+
+&nbsp; 将大型二进制电子表格合并为单个分析工作簿。
+
+
+
+* **性能关键报告（XLSB）**  
+
+&nbsp; 结合为快速加载和处理优化的XLSB文件。
+
+
+
+* **企业数据仓库（XLSB）**  
+
+&nbsp; 聚合XLSB数据集以进行下游分析。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化大文件处理（XLSB）**  
+
+&nbsp; 系统在高容量数据摄入期间合并XLSB文件。
+
+
+
+* **分析管道集成（XLSB）**  
+
+&nbsp; XLSB合并作为自动化分析工作流的一部分。
+
+
+
+* **资源高效的批处理作业（XLSB）**  
+
+&nbsp; 二进制电子表格在计划的批处理过程中合并。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

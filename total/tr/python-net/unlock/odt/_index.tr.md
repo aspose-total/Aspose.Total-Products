@@ -72,7 +72,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT dosyaları açık belge iş akışlarında geniş çapta kullanılmaktadır ve bunları kilidini açmak, korumalı metin içeriğine tam erişim sağlar. Bu yetenek, analiz, göç ve uyum odaklı inceleme süreçleri için esastır.
+
+
+
+Python API'leri kullanarak, ODT kilidini açma işlemi otomatik belge boru hatlarına entegre edilebilir, böylece sistemler arasında tutarlılık ve verimlilik sağlanır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Yapılandırılmış İçerik Çıkarma**  
+
+&nbsp; Kilitli bölümlere erişimi sağlayarak ayrıştırma ve veri çıkarma için olanak tanır.
+
+
+
+* **Düzenleyici İnceleme Desteği**  
+
+&nbsp; Korunan belgelerin otomatik uyumluluk kontrolleri sırasında incelenmesine izin verir.
+
+
+
+* **Açık Biçim Göçü**  
+
+&nbsp; Güvence altına alınmış ODT dosyalarının standartlaştırılmış çıktılara dönüştürülmesini destekler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik Uyumluluk Taramaları**  
+
+&nbsp; ODT dosyaları planlanmış düzenleyici denetimler sırasında kilidi açılır.
+
+
+
+* **Belge Zekası Boru Hatları**  
+
+&nbsp; Kilidini açma, anlamsal analiz ve sınıflandırma görevlerini etkinleştirir.
+
+
+
+* **Sürekli İçerik Güncellemeleri**  
+
+&nbsp; Korunan dosyalar kontrol edilen revizyonlar için otomatik olarak kilidi açılır.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

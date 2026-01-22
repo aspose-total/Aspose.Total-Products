@@ -100,7 +100,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Menganalisis **dokumen PDF** dengan API Python memungkinkan ekstraksi teks dan informasi tata letak dari format tata letak tetap yang banyak digunakan. PDF umum digunakan dalam laporan, faktur, dan catatan resmi.
+
+
+
+Pemrosesan PDF otomatis membuka konten yang tidak dapat diedit untuk analisis, pencarian, dan integrasi sistem tanpa intervensi manual.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Ekstraksi Data Laporan**  
+
+  &nbsp; Mengambil konten teks dari laporan PDF statis.
+
+
+
+* **Pemrosesan Arsip Dokumen**  
+
+  &nbsp; Mengonversi PDF menjadi teks yang dapat dicari dan diindeks.
+
+
+
+* **Sistem Pemulihan Informasi**  
+
+  &nbsp; Memungkinkan penemuan konten dalam koleksi PDF besar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pencernaan PDF Terjadwal**  
+
+  &nbsp; Memproses PDF yang masuk secara otomatis dengan jadwal tetap.
+
+
+
+* **Pipa Normalisasi Teks**  
+
+  &nbsp; Membersihkan dan menstandarisasi teks PDF yang diekstraksi secara programatik.
+
+
+
+* **Pemberdayaan Analitika Hilir**  
+
+  &nbsp; Memberi makan konten PDF yang diparsing ke analitika atau alur kerja ML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -77,7 +77,75 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Redagowanie dokumentów za pomocą interfejsów API w języku Python dla formatów PowerPoint umożliwia bezpieczne zarządzanie treściami opartymi na slajdach, które często zawierają strategiczne lub poufne informacje. Pomaga to zapobiec przypadkowemu ujawnieniu danych podczas prezentacji.
+
+
+
+Dzięki automatyzacji, redagowanie prezentacji w PowerPoint staje się procesem powtarzalnym, który doskonale wpasowuje się w zarządzanie cyklem życia prezentacji.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Bezpieczeństwo prezentacji dla kadry zarządzającej**  
+
+&nbsp; Usuwanie poufnych metryk przed udostępnieniem slajdów szerokiemu gronu odbiorców.
+
+
+
+* **Przygotowanie slajdów dla klientów**  
+
+&nbsp; Oczyszczanie wewnętrznych notatek i danych z prezentacji.
+
+
+
+* **Redagowanie z kontrolą wersji**  
+
+&nbsp; Utrzymywanie czystych wariantów prezentacji dla różnych grup odbiorców.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Skanowanie treści slajdów**  
+
+&nbsp; Automatyczna inspekcja i redagowanie tekstu na wszystkich slajdach.
+
+
+
+* **Przepływy pracy z zatwierdzaniem prezentacji**  
+
+&nbsp; Wymuszanie redagowania przed zatwierdzeniem lub udostępnieniem prezentacji.
+
+
+
+* **Automatyczna regeneracja slajdów**  
+
+&nbsp; Redagowanie i odbudowa prezentacji dynamicznie na podstawie danych źródłowych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

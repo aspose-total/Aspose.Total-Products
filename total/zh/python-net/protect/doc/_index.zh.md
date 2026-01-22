@@ -76,7 +76,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+保护 DOC 格式的 Word 文档对于保护许多业务和档案工作流程中仍在使用的传统文件至关重要。应用文档保护可确保敏感文本、表单和知识产权即使在团队或系统间共享时也能保持安全。
+
+
+
+利用 Python API，可以通过编程方式为 DOC 文件设置密码和权限控制，实现对大型文档存储库和传统流程自动执行安全策略。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **传统文档安全**  
+
+  &nbsp; 对旧版 Word 文档应用保护，防止未经授权的编辑或复制。
+
+
+
+* **归档文件合规性**  
+
+  &nbsp; 确保历史 DOC 文件符合现代安全和监管要求。
+
+
+
+* **受控文档共享**  
+
+  &nbsp; 在内部或外部分发 DOC 文件时限制编辑权限。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量保护存档**  
+
+  &nbsp; 在归档或迁移过程中自动保护数千个 DOC 文件。
+
+
+
+* **基于策略的访问控制**  
+
+  &nbsp; 在将 DOC 文件导入系统时强制执行标准化的保护规则。
+
+
+
+* **自动化安全分发**  
+
+  &nbsp; 在通过自动化工作流发送 DOC 文档之前动态保护它们。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

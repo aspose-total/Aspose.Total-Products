@@ -77,7 +77,59 @@ otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การค้นหาเอกสาร **PDF** โดยใช้ Python APIs ช่วยให้เราค้นพบข้อมูลอย่างเชื่อถือได้ที่เก็บไว้ในหนึ่งในรูปแบบที่ใช้กันอย่างแพร่หลายสำหรับรายงาน สัญญา คู่มือ และบันทึกทางการ. การค้นหา PDF โดยการโปรแกรมช่วยให้ระบบที่ทันสมัยสามารถค้นหาข้อความและโครงสร้างที่เกี่ยวข้องในชุดเอกสารขนาดใหญ่โดยไม่ต้องอ่านด้วยมือ.
+
+เมื่อรวมเข้ากับท่องไปรแล้ว การค้นหา PDF รองรับการจัดทำดัชนีอย่างมีประสิทธิภาพ การเรียกคืนข้อมูลอย่างรวดเร็ว และการผสานเข้ากับการวิเคราะห์ การปฏิบัติตามข้อบังคับ และการจัดการความรู้ได้อย่างไม่มีข้อบกพร่อง.
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **ค้นพบคำสำคัญใน PDF**  
+
+&nbsp; ค้นหาคำหรือวลีเป้าหมายในชุดเอกสาร PDF ขนาดใหญ่.
+
+* **การเรียกคืนส่วนของรายงาน**  
+
+&nbsp; ค้นหาส่วนสำคัญ เช่น สรุป ตาราง และข้อคิดภายใน PDF.
+
+* **การค้นหาเก็บข้อมูลเอกสาร**  
+
+&nbsp; ช่วยให้สามารถเข้าถึงเอกสาร PDF ที่เก็บไว้ในโฟลเดอร์และระบบได้.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **ท่องไปรดัชนี PDF อัตโนมัติ**  
+
+&nbsp; บริการ Python สามารถสกัดข้อความและอัปเดตดัชนีค้นหา PDF ตามกำหนดเวลา.
+
+* **การตรวจสอบความปฏิบัติของ PDF โดยอัตโนมัติ**  
+
+&nbsp; การค้นหาโปรแกรมตรวจพบข้อต้องการและคำสัญญาที่ขาดหายในเอกสาร PDF.
+
+* **การสกัดข้อมูลที่ได้จาก PDF อย่างไดนามิก**  
+
+&nbsp; ผลการค้นหาช่วยในการสร้างสรุปอัตโนมัติ การแจ้งเตือน และการดำเนินการลงต่อไป.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

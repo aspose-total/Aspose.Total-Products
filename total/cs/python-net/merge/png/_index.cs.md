@@ -85,7 +85,77 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Slučování obrázků PNG pomocí Python API umožňuje bezchybné složení obrázků s podporou průhlednosti. Toto je ideální pro designové prvky, UI prvky a vrstvené vizuály.
+
+
+
+Automatizace zajišťuje konzistentní sestavení obrázků při zachování vizuální integrity.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Sestavení průhledných prvků (PNG)**  
+
+&nbsp; Slučování obrázků PNG s zachováním alfa kanálů.
+
+
+
+* **Sestavení prvků uživatelského rozhraní (PNG)**  
+
+&nbsp; Kombinace grafických prvků do jednoho obrázku.
+
+
+
+* **Konsolidace designových zdrojů (PNG)**  
+
+&nbsp; Seskupení PNG prvků pro opakované použití.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizované designové procesy (PNG)**  
+
+&nbsp; Systémy slučují PNG prvky během procesu sestavování.
+
+
+
+* **Generování vrstvených obrázků (PNG)**  
+
+&nbsp; Slučování PNG je řízeno programovacími pravidly.
+
+
+
+* **Automatická automatizace vizuálních prvků (PNG)**  
+
+&nbsp; Automatizované procesy generují sloučené vizuální prvky PNG.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

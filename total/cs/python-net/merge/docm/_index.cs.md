@@ -78,7 +78,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Slučování makro-povolených dokumentů Word pomocí Python API umožňuje strukturovanou kompozici dokumentů s zachováním vestavěné logiky a pokročilého chování dokumentu. To je zásadní pro podniková prostředí, kde dokumenty obsahují automatizaci, formuláře nebo vypočítaná pole.
+
+
+
+Automatizované slučování DOCM podporuje škálovatelné pracovní postupy s logikou, kde jsou soubory nesoucí logiku spolehlivě kombinovány bez manuálního zásahu, což zajišťuje provozní kontinuitu a efektivitu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití případy" %}}
+
+
+
+* **Sestavení šablony založené na makrech (DOCM)**  
+
+&nbsp; Slučujte více makro-povolených dokumentů do jednoho spustitelného dokumentu.
+
+
+
+* **Seskupování provozních dokumentů (DOCM)**  
+
+&nbsp; Slučujte soubory DOCM používané v různých odděleních do sjednocených provozních souborů.
+
+
+
+* **Konsolidace dokumentace procesu (DOCM)**  
+
+&nbsp; Slučujte instrukce a nástroje založené na DOCM do jednoho řízeného dokumentu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatické generování souborů pro dodržování předpisů (DOCM)**  
+
+&nbsp; Systémy automaticky slučují soubory DOCM k vytvoření dokumentů připravených k dodržování předpisů.
+
+
+
+* **Sestavování dokumentů řízené pravidly (DOCM)**  
+
+&nbsp; Soubory DOCM jsou dynamicky slučovány na základě pracovních pravidel.
+
+
+
+* **Automatizované zachování maker řízené z backendu (DOCM)**  
+
+&nbsp; Automatizované potrubí slučuje soubory DOCM zachováním vestavěné logiky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

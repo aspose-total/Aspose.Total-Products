@@ -89,7 +89,73 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Python via
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Xem tệp ODP bằng Python APIs cho phép kiểm tra tài liệu trình bày mở trong định dạng không phụ thuộc vào nền tảng.
+
+Điều này hỗ trợ tương thích và quy trình làm việc trình bày tự động.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Đánh Giá Bài Trình Bày Mở**  
+
+&nbsp; Xem các slide được tạo trong định dạng tài liệu mở.
+
+
+
+* **Xác Thực Đa Nền Tảng**  
+
+&nbsp; Đảm bảo bài trình bày hiển thị một cách nhất quán.
+
+
+
+* **Kiểm Tra Nội Dung Trình Bày**  
+
+&nbsp; Xem xét văn bản và cấu trúc slide.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Kiểm Tra Tự Động Bài Trình Bày**  
+
+&nbsp; Quy trình làm việc Python hiển thị tệp ODP để xem xét.
+
+
+
+* **Kiểm Tra Tương Thích**  
+
+&nbsp; Xem các slide để đảm bảo tính tương thích định dạng.
+
+
+
+* **Dịch Vụ Xem Trước**  
+
+&nbsp; Bài trình bày được hiển thị một cách linh hoạt.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

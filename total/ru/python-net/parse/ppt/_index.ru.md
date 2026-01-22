@@ -100,7 +100,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Анализ **презентаций PPT** с использованием API Python позволяет извлекать текст слайдов, заметки и структурные элементы из файлов презентаций. Это делает знания, основанные на слайдах, доступными для автоматизированных систем.
+
+
+
+В контексте автоматизации анализ презентаций поддерживает повторное использование контента, создание резюме и интеграцию в документацию или рабочие процессы аналитики.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Извлечение содержимого слайдов**  
+
+&nbsp; Извлекает заголовки, маркированные списки и заметки докладчика.
+
+
+
+* **Анализ архивных презентаций**  
+
+&nbsp; Делает исторические слайд-деки доступными для поиска и анализа.
+
+
+
+* **Преобразование контента в другие форматы**  
+
+&nbsp; Преобразует материал презентации в другие форматы контента.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированное создание резюме слайдов**  
+
+&nbsp; Генерирует краткие резюме из извлеченного содержимого слайдов.
+
+
+
+* **Наполнение базы знаний**  
+
+&nbsp; Внедряет данные презентации в структурированные хранилища.
+
+
+
+* **Автоматизация сравнения версий**  
+
+&nbsp; Обнаруживает изменения между различными версиями презентаций.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -98,7 +98,93 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri aracılığıyla **RTF** dosyaları için belge meta verilerinin çıkarılması, sistemlerin taşınabilirlik ve eski uyumluluk için sıkça kullanılan zengin metin belgeleri için temel dosya özelliklerini ve gömülü tanımlayıcıları yakalamasına yardımcı olur. Bu, karışık belge türlerini içeren depolardaki dizin oluşturma, yönetim ve yaşam döngüsü takibini destekler.
+
+
+
+Otomatik iş akışlarında, RTF meta verileri sınıflandırmayı, yönlendirmeyi ve katalog senkronizasyonunu yönlendirebilir ve manuel inceleme olmadan eski veya değişim odaklı belgelerin ölçeklenebilir şekilde işlenmesini sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Karışık Biçimli Depo Dizinleme**
+
+  RTF meta verilerini çıkararak farklı belge depoları arasında keşif kolaylığını artırın ve raporlamayı birleştirin.
+
+
+
+* **Eski İçerik Yönetimi**
+
+  Zaman damgalarını ve yazarlık alanlarını kullanarak eski belgeler için sorumluluk ve yenileme döngüleri oluşturun.
+
+
+
+* **Operasyonlar İçin Toplu Sınıflandırma**
+
+  Mevcut RTF özelliklerini yapılandırılmış etiketlere dönüştürerek yönlendirme ve erişim kontrolü için normalize edin.
+
+
+
+* **Göç ve Dönüşüm Planlama**
+
+  Dönüşüm hedeflerini önceliklendirmek ve eksik sahiplik detaylarını belirlemek için RTF meta verilerini denetleyin.
+
+
+
+* **Alım İçin Kalite Kontrol**
+
+  Eksik veya tutarsız meta veriler içeren RTF dosyalarını iyileştirme iş akışları için işaretleyin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Eski Alım Normalizasyonu**
+
+  RTF meta verilerini otomatik olarak çıkarın ve merkezi bir belge kaydı için standartlaştırılmış alanlara dönüştürün.
+
+
+
+* **Dönüşüm Kuyruğu Orkestrasyonu**
+
+  Meta veri eksikliği ve eskiliği eşiklerine göre RTF dosyalarını dönüşüm akışlarına yönlendirin.
+
+
+
+* **Otomatik Sorumluluk Atama**
+
+  Bakım sahipliği özelliklerine sahip olmayan RTF dosyaları için sahiplik görevleri oluşturun, dizin bağlamı ve meta veri sinyallerini kullanın.
+
+
+
+* **Periyodik Depo Sağlık Raporları**
+
+  RTF meta veri kapsamının, eksik alanların ve yaşlanma dağılımının zamanlanmış özetlerini oluşturarak yönetim takibi için raporlar oluşturun.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

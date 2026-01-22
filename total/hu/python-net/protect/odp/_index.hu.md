@@ -71,7 +71,75 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az ODP fájlokat általában az open-standard prezentációs munkafolyamatok során használják. Ezeknek a prezentációs fájloknak a védelme biztosítja, hogy a vizuális tartalom és az üzenetek érintetlenek maradjanak a megosztás és együttműködés során.
+
+
+
+Python API-k segítségével az ODP prezentációkat automatikusan lehet védeni, lehetővé téve a biztonságos kezelést a skálázható prezentáció generálási és szállítási rendszerekben.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Prezentáció integritásának védelme**  
+
+&nbsp; Megakadályozza az engedély nélküli módosításokat a diák és elrendezések terén.
+
+
+
+* **Bizalmas tájékoztatások**  
+
+&nbsp; Biztonságosan védi az érzékeny prezentációkat a belső vagy külső megosztás előtt.
+
+
+
+* **Szabványosított prezentációs irányítás**  
+
+&nbsp; Egyenletes védelmi szabályok alkalmazása az összes ODP fájlra.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Automatizált diavetítés védelem**  
+
+&nbsp; Az ODP fájlok azonnali védelme automatizált létrehozás után.
+
+
+
+* **Csővezeték-alapú biztonsági végrehajtás**  
+
+&nbsp; Védelem alkalmazása CI/CD-stílusú tartalom munkafolyamatok során.
+
+
+
+* **Programatikus hozzáférési korlátozások**  
+
+&nbsp; Szerkesztési és megtekintési jogok dinamikus vezérlése szkriptek segítségével.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

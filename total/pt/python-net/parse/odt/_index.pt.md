@@ -104,7 +104,75 @@ Para obter mais detalhes, consulte [Documentação do produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Análise de **documentos ODT** com APIs Python permite a extração de formatos de documentos abertos comumente usados em ambientes de código aberto e focados em interoperabilidade. Esses formatos suportam acesso a conteúdo estruturado e baseado em padrões.
+
+
+
+A análise pronta para automação de formatos abertos garante portabilidade, acessibilidade a longo prazo e integração contínua do sistema.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Processamento de Documentos Abertos**  
+
+&nbsp; Extrai conteúdo estruturado de documentos baseados em padrões.
+
+
+
+* **Compatibilidade Multiplataforma**  
+
+&nbsp; Suporta ambientes que evitam formatos proprietários.
+
+
+
+* **Preservação de Dados a Longo Prazo**  
+
+&nbsp; Permite acesso confiável a documentos abertos arquivados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Pipelines de Conteúdo Interoperáveis**  
+
+&nbsp; Integra dados ODT em sistemas diversos sem bloqueios.
+
+
+
+* **Conversão de Formato Automatizada**  
+
+&nbsp; Transforma documentos abertos em representações alternativas.
+
+
+
+* **Extração Alinhada com Esquema**  
+
+&nbsp; Garante que o conteúdo analisado corresponda a modelos de dados predefinidos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La signature des fichiers TIFF avec des API Python renforce la gouvernance des numérisations haute fidélité et des images couramment utilisées dans la gestion des dossiers et les flux de travail archivistiques. Cela aide à préserver l'authenticité et la traçabilité des documents numérisés critiques.
+
+
+
+Dans les pipelines automatisés, la signature des fichiers TIFF peut être effectuée après la validation et l'indexation, garantissant que les numérisations stockées portent des indicateurs d'approbation et de provenance cohérents.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Attestation d'authenticité de la numérisation**  
+
+&nbsp; Signez les numérisations TIFF pour confirmer qu'elles représentent des originaux vérifiés.
+
+
+
+* **Approbation de la gestion des dossiers**  
+
+&nbsp; Appliquez des signatures aux fichiers TIFF avant de les classer dans les systèmes de gestion des dossiers.
+
+
+
+* **Confirmation de preuves en haute résolution**  
+
+&nbsp; Signez les actifs de preuves TIFF pour documenter l'identité et l'approbation des examinateurs.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Étape de signature post-indexation**  
+
+&nbsp; Signez automatiquement les fichiers TIFF après la fin de l'OCR/indexation et de la validation.
+
+
+
+* **Pipeline de conservation de la conformité**  
+
+&nbsp; Signez les dossiers TIFF lors de leur entrée dans le stockage de conservation pour renforcer les pistes de vérification.
+
+
+
+* **Emplois de finalisation de numérisation en masse**  
+
+&nbsp; Signez de manière programmée des lots de fichiers TIFF pour de grandes opérations de numérisation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

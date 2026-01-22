@@ -78,7 +78,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX הוא פורמט מסמך מודרני, מבוסס XML, המיועד לאחסון תוכן מובנה ונרחב. פיצול קבצי DOCX מאפשר גישה מדויקת לרכיבי המסמך כגון כותרות, טבלאות או סעיפים.
+
+
+
+הפיצול של קבצי DOCX המבוסס על פי פייתון משפר את האוטומציה על ידי אפשרות פירוק מודע לסכמה, עיבוד נמוך ושילוב חלק עם מערכות ניהול תוכן.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **פרסום מסמך מודולרי**  
+
+&nbsp; קבצי DOCX גדולים יכולים להיפוצל לקטעים מוכנים לפרסום.
+
+
+
+* **חילוץ תוכן בררתי**  
+
+&nbsp; נקודות רלוונטיות בלבד מוחצות לזרימות עבודה ממוקדות.
+
+
+
+* **בקרת גרסאות מסמך**  
+
+&nbsp; קטעים מחולקים מאפשרים מעקב ועדכונים עצמאיים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **פיצול על פי כותרות**  
+
+&nbsp; סקריפטים בפייתון פוצלים מסמכים באמצעות תגי מבנה.
+
+
+
+* **עיבוד תוכן במערך צינורות**  
+
+&nbsp; קטעים שנחלצים זורים באופן אוטומטי לשלבי אימות או עיבוד.
+
+
+
+* **בדיקות תאימות אוטומטיות**  
+
+&nbsp; כל קטע מאומת באופן עצמאי נגד כללים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

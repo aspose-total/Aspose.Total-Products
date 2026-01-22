@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การผสานเอกสาร Excel และสเปรดชีตโดยใช้ Python APIs เป็นสิ่งจำเป็นสำหรับการรวมข้อมูลโครงสร้างจากแหล่งข้อมูลหลายแหล่งเข้าไว้ในไฟล์เดียวกันที่สามารถวิเคราะห์ได้ ความสามารถนี้ถูกใช้อย่างแพร่หลายในการรายงาน การวิเคราะห์ การเงิน และระบบดำเนินงานที่ข้อมูลถูกกระจายในสเปรดชีตหลายชุด
+
+
+
+การผสานสเปรดชีตที่ขับเคลื่อนด้วยอัตโนมัติช่วยให้การจัดการข้อมูลที่เป็นไปในลักษณะเดียวกัน ลดข้อผิดพลาดที่เกิดจากการทำด้วยมือ และรวมกระบวนการทำงานของสเปรดชีตโดยตรงเข้ากับกระบวนการทำงานข้อมูลและการประมวลผลที่สามารถขยายขนาดได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* **การรวมข้อมูลสเปรดชีตเก่า (XLS)**  
+
+&nbsp; รวมไฟล์ XLS เก่าเข้าไว้ในสมุดงานเดียวสำหรับการวิเคราะห์รวม
+
+
+
+* **การรวมข้อมูลแผนก (XLS)**  
+
+&nbsp; ผสานสเปรดชีต XLS จากทีมหลายทีมเข้าไว้ในไฟล์หลักเดียว
+
+
+
+* **การรวมข้อมูลประวัติ (XLS)**  
+
+&nbsp; รวมข้อมูล XLS จากการเก็บถาวรสำหรับการรายงานและการย้ายถ่ายข้อมูล
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+
+
+* **การรวบรวมข้อมูลเป็นรอบตามกำหนด (XLS)**  
+
+&nbsp; งานอัตโนมัติรวมไฟล์ XLS เป็นรายงานที่รวมกัน
+
+
+
+* **การปรับปรุงข้อมูลด้านหลัง (XLS)**  
+
+&nbsp; ระบบรวมไฟล์ XLS เป็นส่วนหนึ่งของกระบวนการทำความสะอาดข้อมูล
+
+
+
+* **การประกอบสเปรดชีตตามกระบวนการ (XLS)**  
+
+&nbsp; การรวม XLS ถูกเรียกใช้โดยโปรแกรมในท่อ ETL
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

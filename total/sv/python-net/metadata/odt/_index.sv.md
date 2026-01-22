@@ -98,7 +98,93 @@ För mer information, se [Produktdokumentation](https://docs.aspose.com/words/py
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Dokumentmetadataextrahering för **ODT**-filer via Python API:er ger programmatisk åtkomst till textdokumentegenskaper och möjliggör granskning, klassificering och sökberikning utan att behöva förlita sig på manuell granskning. Detta är viktigt för dokumentstyrning, kunskapshantering och livscykeluppföljning.
+
+
+
+I automatiseringssystem kan ODT-metadata användas för att upprätthålla standarder, dirigera godkännanden och synkronisera kataloger och därigenom stödja skalbar bearbetning över stora lagringsplatser med konsekventa regler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* **Kunskapsbasorganisation**
+
+  Använd ODT-metadata för att kategorisera och indexera interna dokument för snabbare återvinning.
+
+
+
+* **Ägarskap och förvaltningskontroller**
+
+  Extrahera författar- och redigeringsfält för att tilldela granskare och upprätthålla ansvar.
+
+
+
+* **Behållnings- och arkiveringsbeslut**
+
+  Använd tidsstämplar för att avgöra om ODT-filer bör arkiveras, behållas eller uppdateras.
+
+
+
+* **Metadata-normalisering för analys**
+
+  Konvertera ODT-egenskaper till konsekventa fält för rapportering och trendanalys.
+
+
+
+* **Förpubliceringsvalidering**
+
+  Validera obligatoriska beskrivande fält innan du konverterar ODT-dokument till publicerade format.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* **Regelbaserad intagklassificering**
+
+  Klassificera automatiskt ODT-dokument i arbetsflöden med hjälp av metadata, ägarskap och tidsstämplar.
+
+
+
+* **Katalogsynkroniseringsarbetsflöde**
+
+  Extrahera ODT-metadata varje natt och synkronisera den med ett centraliserat register som används av interna söksystem.
+
+
+
+* **Automatiserade dokumentgranskningar**
+
+  Starta granskningsuppgifter för ODT-filer när metadata indikerar att de inte har uppdaterats inom policyfönstren.
+
+
+
+* **Metadata-till-åtkomstpolicyavbildning**
+
+  Tillämpa åtkomstregler dynamiskt när ODT-metadata indikerar begränsade innehållskategorier.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -98,7 +98,93 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+通过Python API提取**DOTX**文件的文档元数据提供了一种结构化的方式来管理现代模板文件，通过读取诸如模板标题、作者详细信息和更新历史等属性。这有助于改善治理，确保文档生成保持一致性并符合政策。
+
+
+
+在自动化流水线中，DOTX元数据对模板解析、批准工作流程和生命周期控制非常有用，实现可扩展的模板操作，减少手动检查和配置漂移。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **模板发现和搜索**
+
+  提取DOTX元数据，使模板可以按目的、部门或预期文档类型进行搜索。
+
+
+
+* **批准状态跟踪**
+
+  使用自定义属性跟踪模板是草稿、已批准还是已弃用。
+
+
+
+* **模板所有权映射**
+
+  确定维护者和作者，以便路由更新请求和责任任务。
+
+
+
+* **生成文档的一致性保证**
+
+  验证工作流程是否使用了基于元数据标识符的正确DOTX模板。
+
+
+
+* **模板更改治理**
+
+  监控修改历史，以检测对受控模板的意外编辑。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **基于元数据驱动的模板注册表**
+
+  自动将DOTX元数据纳入文档生成系统使用的注册表服务。
+
+
+
+* **弃用执行流水线**
+
+  将弃用的DOTX模板路由到存档，并基于元数据标志阻止使用。
+
+
+
+* **自动化模板质量保证检查**
+
+  运行验证，确保发布前存在必需的DOTX属性并符合组织标准。
+
+
+
+* **模板更新工作流路由**
+
+  当DOTX元数据指示更改时，自动为指定的维护者创建审查任务。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

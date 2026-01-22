@@ -76,7 +76,75 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+البحث عن ملفات **PPT** باستخدام واجهات برمجة التطبيقات في Python يمكن الوصول إلى المستندات التقديمية القديمة التي تحتوي على معلومات تجارية وتدريبية واستراتيجية قيمة. يضمن البحث التلقائي أن تظل مجموعات الشرائح القديمة قابلة للاستخدام والبحث بشكل كبير.
+
+
+
+من خلال دمج بحث PPT في الأنظمة التلقائية، تقلل المؤسسات من الجهد اليدوي وتفتح الأفق للاستفادة من محتوى العروض التقديمية المؤرشفة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **البحث عن محتوى الشرائح القديمة**  
+
+&nbsp; يجد الكلمات الرئيسية داخل ملفات العروض التقديمية القديمة.
+
+
+
+* **استرجاع العروض التقديمية المؤرشفة**  
+
+&nbsp; يمكن اكتشاف مجموعات الشرائح التاريخية.
+
+
+
+* **استخراج نصوص PPT**  
+
+&nbsp; يستخرج نصوص الشرائح للفهرسة والتحليل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائي" %}}
+
+
+
+* **فحص مستودع PPT تلقائيًا**  
+
+&nbsp; تقوم الوظائف في Python بفحص ملفات PPT للبحث عن محتوى قابل للبحث.
+
+
+
+* **إنشاء فهرس للعروض التقديمية المؤرشفة**  
+
+&nbsp; يتم فهرسة العروض التقديمية القديمة برمجيًا.
+
+
+
+* **دمج محتوى PPT**  
+
+&nbsp; تغذية البيانات المستخرجة إلى سير العمل للتقارير والتحليل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

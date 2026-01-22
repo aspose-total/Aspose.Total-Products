@@ -82,7 +82,41 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La visualización de documentos TIFF con APIs de Python admite formatos de imagen de alta resolución y multipágina comúnmente utilizados en escaneo y archivado.
+
+Esto permite la inspección precisa de documentos visuales detallados.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+- **Revisión de Documentos Escaneados**
+  &nbsp; Ver páginas escaneadas de alta calidad.
+
+- **Inspección de Imágenes de Archivo**
+  &nbsp; Inspeccionar archivos de imagen de calidad de preservación.
+
+- **Manipulación de Imágenes Multipágina**
+  &nbsp; Navegar por documentos basados en imágenes complejas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+- **Verificación Automatizada de Escaneo**
+  &nbsp; Los flujos de trabajo de Python muestran archivos escaneados para garantizar la calidad.
+
+- **Controles de Integridad de Archivo**
+  &nbsp; Las imágenes almacenadas se representan periódicamente para validación.
+
+- **Tuberías de Digitalización de Documentos**
+  &nbsp; Los visores automatizados admiten procesos de digitalización.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -133,7 +167,7 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

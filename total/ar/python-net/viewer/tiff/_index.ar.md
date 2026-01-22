@@ -82,7 +82,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+يدعم عرض مستندات TIFF باستخدام واجهات برمجة التطبيقات في Python تنسيقات الصور عالية الدقة ومتعددة الصفحات المستخدمة عادة في المسح والأرشفة.
+
+وهذا يمكن من تفتيش دقيق للمستندات البصرية المفصلة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **مراجعة المستندات الممسوحة ضوئيًا**  
+
+&nbsp; عرض صفحات ممسوحة ضوئيًا عالية الجودة.
+
+
+
+* **تفتيش الصور الأرشيفية**  
+
+&nbsp; تفتيش ملفات الصور عالية الجودة للحفظ.
+
+
+
+* **التعامل مع الصور متعددة الصفحات**  
+
+&nbsp; تصفح المستندات المعقدة المعتمدة على الصور.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **التحقق التلقائي من المسح**  
+
+&nbsp; تعرض سير العمل في Python الملفات الممسوحة ضوئيًا لضمان الجودة.
+
+
+
+* **فحوصات سلامة الأرشيف**  
+
+&nbsp; يتم عرض الصور المخزنة بانتظام للتحقق من صحتها.
+
+
+
+* **أنابيب تحويل الوثائق إلى رقمية**  
+
+&nbsp; تدعم العارضات الآلية عمليات التحويل إلى رقمية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

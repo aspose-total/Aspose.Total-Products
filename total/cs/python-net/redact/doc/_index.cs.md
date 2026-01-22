@@ -74,7 +74,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Redakce dokumentů pomocí Python API pro soubory DOC umožňuje organizacím bezpečně odstranit citlivé informace z dědictví textových dokumentů, které jsou stále široce používány v podnicích. Tato schopnost je klíčová pro dodržování předpisů, ochranu dat a bezpečné sdílení dokumentů v regulovaných prostředích.
+
+
+
+Integrací redakce založené na Pythonu do automatizovaných pracovních postupů lze soubory DOC zpracovávat ve velkém měřítku, což zajišťuje konzistentní dodržování pravidel ochrany dat a zároveň snižuje manuální úsilí a lidské chyby.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití případy" %}}
+
+
+
+* **Dodržování předpisů pro staré dokumenty**  
+
+&nbsp; Redakce důvěrných údajů ze starších souborů DOC pro splnění regulačních a auditních požadavků.
+
+
+
+* **Bezpečné interní sdílení**  
+
+&nbsp; Odstraňte citlivé části před distribucí dokumentů mezi odděleními nebo týmy.
+
+
+
+* **Sankce historických archivů**  
+
+&nbsp; Vyčistěte archivované soubory DOC, aby byly bezpečné pro dlouhodobé uložení nebo veřejný přístup.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Dávkové roury pro redakci**  
+
+&nbsp; Automatizujte redakci tisíců souborů DOC pomocí plánovaných úloh v Pythonu.
+
+
+
+* **Maskování textu na základě pravidel**  
+
+&nbsp; Použijte předdefinované vzory k automatické detekci a redakci citlivých termínů.
+
+
+
+* **Automatizace příjmu dokumentů**  
+
+&nbsp; Integrujte redakci do příjmových rour před tím, než dokumenty vstoupí do úložných systémů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

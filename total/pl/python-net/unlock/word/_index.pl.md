@@ -72,7 +72,75 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Dokumenty programu Word, niezależnie od wewnętrznej struktury, są często chronione w celu kontroli edycji i dostępu. Odblokowanie ich programowo umożliwia strukturalny dostęp do automatyzacji, analizy i integracji systemowej.
+
+
+
+Interfejsy API Pythona pozwalają na bezpieczne osadzenie odblokowywania dokumentów Word w potokach dokumentów, zapewniając efektywność i powtarzalność.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Jednolite przetwarzanie dokumentów**  
+
+  &nbsp; Umożliwia spójne przetwarzanie chronionych plików do przetwarzania tekstu.
+
+
+
+* **Automatyczna recenzja treści**  
+
+  &nbsp; Wspiera inspekcję zablokowanych dokumentów bez konieczności ręcznych kroków.
+
+
+
+* **Integracja system-do-systemu**  
+
+  &nbsp; Pozwala chronionym plikom Word przepływać przez zautomatyzowane platformy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Potoki dokumentów od początku do końca**  
+
+  &nbsp; Pliki Word są odblokowywane automatycznie podczas czasu przyjmowania.
+
+
+
+* **Dostęp do dokumentów oparty na zasadach**  
+
+  &nbsp; Odblokowywanie jest wyzwalane przez reguły przepływu pracy i uprawnienia.
+
+
+
+* **Ciągła optymalizacja treści**  
+
+  &nbsp; Chronione dokumenty są odblokowywane w celu automatycznych ulepszeń.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

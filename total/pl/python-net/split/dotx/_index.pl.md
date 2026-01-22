@@ -79,7 +79,75 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTX to nowoczesny format szablonu, który zapewnia strukturalne i rozszerzalne szablony dokumentów. Podział plików DOTX umożliwia precyzyjną kontrolę nad wielokrotnie używanymi elementami układu.
+
+
+
+Automatyzacja oparta na Pythonie sprawia, że podział plików DOTX jest skalowalny i niezawodny dla systemów generowania dokumentów w przedsiębiorstwach.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Zarządzanie wielokrotnie używanymi układami**  
+
+  &nbsp; Poszczególne sekcje układu są wydobywane do modułowego użytku.
+
+
+
+* **Optymalizacja szablonu**  
+
+  &nbsp; Identyfikacja i dopracowanie konkretnych elementów szablonu.
+
+
+
+* **Kontrolowane składanie dokumentów**  
+
+  &nbsp; Zapewnienie spójnej struktury w generowanych dokumentach.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Wyodrębnianie szablonów z uwzględnieniem XML**  
+
+  &nbsp; Python analizuje strukturę DOTX w celu precyzyjnego podziału.
+
+
+
+* **Automatyczne wstrzykiwanie układu**  
+
+  &nbsp; Wydobyte sekcje są dynamicznie wstrzykiwane do dokumentów.
+
+
+
+* **Przepływy pracy walidacji szablonu**  
+
+  &nbsp; Sekcje są walidowane niezależnie przed użyciem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

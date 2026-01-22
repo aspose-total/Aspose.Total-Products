@@ -76,7 +76,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Word格式类别代表了在起草、报告和协作工作流中使用的文本文档。保护Word文件可确保文档在整个生命周期中的机密性、完整性和受控访问。
+
+
+
+Python API允许自动化Word文档保护，使安全性成为现代内容和文档管理系统的内置功能。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **敏感内容保护**  
+
+  &nbsp; 保护包含机密信息的Word文档。
+
+
+
+* **编辑限制执行**  
+
+  &nbsp; 控制谁可以修改或审阅文档。
+
+
+
+* **文档生命周期安全**  
+
+  &nbsp; 在不同创建和批准阶段保护文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化Word文件保护**  
+
+  &nbsp; 在文档创建过程中自动应用安全规则。
+
+
+
+* **基于角色的文档控制**  
+
+  &nbsp; 根据用户角色动态保护Word文件。
+
+
+
+* **端到端安全工作流**  
+
+  &nbsp; 将Word保护集成到完全自动化的文档流程中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

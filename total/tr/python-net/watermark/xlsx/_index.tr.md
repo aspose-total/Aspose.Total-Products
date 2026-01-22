@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri kullanarak XLSX elektronik tablolarına filigran eklemek, modern Excel dosyalarına görünür yönetim ekleyerek, veri yoğun teslimatlar içinde doğrudan gizlilik, mülkiyet ve amaçlanan kullanımı iletişimde yardımcı olur.
+
+Otomasyon, tutarlı politika etiketlemesinin gerektiği raporlama sistemleri, finans operasyonları ve analitik dışa aktarmalar için ölçeklenebilir XLSX filigranlama sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Gizli KPI Rapor Etiketleme**  
+
+  &nbsp; Yanlışlıkla yeniden dağıtımı azaltmak için performans raporlarına filigran ekleyin.
+
+
+
+* **Veri Çıkışları İçin Kontrollü Paylaşım**  
+
+  &nbsp; İhraç edilen veri kümelerine "YALNIZCA İÇ" işaretleri ekleyerek yönetimi pekiştirin.
+
+
+
+* **Tahminler İçin Onay Durumu Göstergeleri**  
+
+  &nbsp; Planlama modellerine "TASLAK" veya "ONAYLI" damgası vurarak yanlış yorumlamayı önleyin.
+
+
+
+* **Müşteriye Özel Çalışma Kitabı Tanımlaması**  
+
+  &nbsp; İzlenebilirlik için paylaşılan elektronik tablolara müşteri tanımlayıcılarını gömün.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik Raporlar İçin Boru Hattı Filigranlama**  
+
+  &nbsp; Tutarlı yönetimi sağlamak için rapor oluşturma zamanında filigran uygulayın.
+
+
+
+* **Erişim Politikalarından Dinamik Filigran**  
+
+  &nbsp; Hassasiyet düzeyine ve kullanıcı haklarına dayalı olarak filigran metni oluşturun.
+
+
+
+* **Otomatik Çok Sayfalı Kapsama**  
+
+  &nbsp; Programlı olarak ilgili sayfalar ve görünümler arasında filigranın görünürlüğünü sağlayın.
+
+
+
+* **Kimliklerle Denetim Dostu Damgalama**  
+
+  &nbsp; Otomatik denetimleri desteklemek için çalıştırma kimlikleri veya grup referansları içeren filigranlar ekleyin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

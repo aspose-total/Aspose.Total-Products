@@ -76,7 +76,75 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Kategorie Word-Format repräsentiert Textdokumente, die in Entwürfen, Berichten und Zusammenarbeitsabläufen verwendet werden. Durch den Schutz von Word-Dateien wird die Vertraulichkeit, Integrität und kontrollierter Zugriff auf Dokumente während ihres Lebenszyklus gewährleistet.
+
+
+
+Python-APIs ermöglichen die Automatisierung des Schutzes von Word-Dokumenten, wodurch Sicherheit zu einer integrierten Funktion moderner Inhalts- und Dokumentenverwaltungssysteme wird.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Schutz sensibler Inhalte**  
+
+&nbsp; Sichern von Word-Dokumenten mit vertraulichen Informationen.
+
+
+
+* **Durchsetzung von Bearbeitungsbeschränkungen**  
+
+&nbsp; Kontrolle darüber, wer Dokumente bearbeiten oder überprüfen kann.
+
+
+
+* **Sicherheit im Dokumentenlebenszyklus**  
+
+&nbsp; Schutz von Dateien in verschiedenen Phasen der Erstellung und Genehmigung.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Automatisierter Schutz von Word-Dateien**  
+
+&nbsp; Automatisches Anwenden von Sicherheitsregeln während der Dokumentenerstellung.
+
+
+
+* **Rollenbasierte Dokumentensteuerung**  
+
+&nbsp; Dynamischer Schutz von Word-Dateien basierend auf Benutzerrollen.
+
+
+
+* **Sichere Workflows von Anfang bis Ende**  
+
+&nbsp; Integration des Word-Schutzes in vollständig automatisierte Dokumentenpipelines.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

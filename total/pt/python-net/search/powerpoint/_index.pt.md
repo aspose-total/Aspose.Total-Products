@@ -76,7 +76,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/sli
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Pesquisar apresentações **PowerPoint** de forma programática usando APIs Python permite acesso unificado em vários formatos de apresentação usados em ambientes empresariais. Arquivos do PowerPoint frequentemente contêm informações visuais e textuais de alto valor críticas para fluxos de trabalho empresariais.
+
+
+
+Automatizar a pesquisa do PowerPoint melhora a visibilidade do conteúdo, reduz a revisão manual de slides e suporta integração escalável com sistemas modernos de automação e dados.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Pesquisa Unificada de Apresentações**  
+
+&nbsp; Permite busca consistente em arquivos baseados em PowerPoint.
+
+
+
+* **Descoberta de Slides Empresariais**  
+
+&nbsp; Melhora o acesso a apresentações armazenadas em repositórios.
+
+
+
+* **Extração de Conhecimento de Apresentações**  
+
+&nbsp; Converte o conteúdo dos slides em ativos de informação pesquisáveis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Manutenção Automatizada do Índice do PowerPoint**  
+
+&nbsp; Processos em Python mantêm os índices de pesquisa de apresentações atualizados.
+
+
+
+* **Validação de Conteúdo do PowerPoint**  
+
+&nbsp; Verificações programáticas garantem que os slides atendam aos padrões de conteúdo.
+
+
+
+* **Automação de Fluxo de Trabalho do PowerPoint**  
+
+&nbsp; As saídas da pesquisa impulsionam sistemas de relatórios e decisões automatizados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

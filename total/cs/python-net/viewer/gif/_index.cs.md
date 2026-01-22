@@ -82,7 +82,73 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Zobrazení souborů GIF pomocí Python API umožňuje vizualizaci animovaných nebo statických obrázkových sekvencí pro kontrolu a ověřování.
+
+Toto podporuje automatizované pracovní postupy zahrnující pohyblivou grafiku nebo vizuální indikátory.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Hodnocení animovaného obsahu**  
+
+  Zobrazování animací na základě snímků programově.
+
+
+
+* **Ověřování vizuálních indikátorů**  
+
+  Kontrola animovaných signálů nebo instruktážní grafiky.
+
+
+
+* **Kontrola mediálních aktiv**  
+
+  Kontrola obrázkových sekvencí používaných v pracovních postupech.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizované ověřování médií**  
+
+  Pythonové potrubí zobrazuje soubory GIF během kontrol kvality.
+
+
+
+* **Systémy generování náhledů**  
+
+  Animované náhledy jsou generovány dynamicky.
+
+
+
+* **Vizualizace ladění pracovního postupu**  
+
+  Soubory GIF jsou zobrazovány k vizuální verifikaci stavů procesu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

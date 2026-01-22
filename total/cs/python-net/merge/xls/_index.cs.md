@@ -78,7 +78,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Slučování dokumentů Excel a tabulek pomocí Python API je zásadní pro sloučení strukturovaných dat z různých zdrojů do jednoho analyzovatelného souboru. Tato schopnost je široce využívána v reportingu, analýzách, financích a operačních systémech, kde jsou data rozptýlena v mnoha tabulkách.
+
+
+
+Automatizované slučování tabulek umožňuje konzistentní zpracování dat, snižuje ruční chyby a integruje pracovní postupy s tabulkami přímo do škálovatelných datových a zpracovatelských toků.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Sloučení starých tabulek (XLS)**  
+
+&nbsp; Sloučení starých souborů XLS do jednoho sešitu pro sjednocenou analýzu.
+
+
+
+* **Agregace dat oddělení (XLS)**  
+
+&nbsp; Sloučení tabulek XLS z různých týmů do jednoho hlavního souboru.
+
+
+
+* **Sjednocení historických dat (XLS)**  
+
+&nbsp; Sloučení archivovaných dat XLS pro reportování a migraci.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Plánované shrnutí dat (XLS)**  
+
+&nbsp; Automatizované úlohy slučují pravidelné soubory XLS do konsolidovaných reportů.
+
+
+
+* **Normalizace dat na pozadí (XLS)**  
+
+&nbsp; Systémy slučují soubory XLS jako součást pracovních postupů pro čištění dat.
+
+
+
+* **Sestavení tabulek založené na toku dat (XLS)**  
+
+&nbsp; Slučování XLS je spouštěno programově v ETL toku dat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

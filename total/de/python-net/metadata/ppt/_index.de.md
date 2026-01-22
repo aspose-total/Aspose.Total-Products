@@ -75,7 +75,93 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Extraktion von Metadaten für **PPT**-Dateien über Python-APIs ermöglicht die Verwaltung von Legacy-Präsentationsmaterialien durch das Lesen von Eigenschaften wie Autor, Zeitstempel und beschreibende Felder. Dies unterstützt die Governance und Auffindbarkeit für Organisationen, die immer noch ältere Folienbibliotheken pflegen.
+
+
+
+In automatisierten Workflows können PPT-Metadaten die Klassifizierung, Indexierung und Lebenszyklussteuerung unterstützen und es ermöglichen, große Sammlungen von Legacy-Präsentationen mit minimalem manuellem Aufwand zu organisieren, zu überprüfen und zu migrieren.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Audit der Legacy-Folienbibliothek**
+
+  Extrahieren Sie PPT-Metadaten, um das Alter, die Eigentümerschaft und Wartungslücken in archivierten Decks zu verstehen.
+
+
+
+* **Bereitschaft zur Migrationseinschätzung**
+
+  Verwenden Sie Metadaten, um zu priorisieren, welche PPT-Decks zuerst konvertiert oder aktualisiert werden sollten.
+
+
+
+* **Routenbasierte Wartung nach Eigentümerschaft**
+
+  Identifizieren Sie Verantwortliche anhand von Autor/Editor-Feldern, um Update-Anfragen effizient zu bearbeiten.
+
+
+
+* **Analyse des Inhaltsportfolios**
+
+  Aggregieren Sie PPT-Metadaten, um die Abdeckung der Bibliothek, die Veraltetheit und das operationale Risiko zu messen.
+
+
+
+* **Erkennung von Duplikaten**
+
+  Verwenden Sie Metadatenmuster, um wahrscheinliche Duplikate zu erkennen und die Bibliothek zu entlasten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Legacy-Deck-Eingabepipeline**
+
+  Automatisches Einlesen von PPT-Dateien, Extrahieren von Metadaten und Zuweisen zu einem Inventarsystem mit standardisierten Feldern.
+
+
+
+* **Automatisierung der Konvertierungs-Warteschlange**
+
+  Fügen Sie PPT-Decks basierend auf Metadatenalter und Verwendungsregeln zur Klassifizierung in Konvertierungswarteschlangen hinzu.
+
+
+
+* **Benachrichtigung bei veralteten Decks**
+
+  Auslösen von Warnungen, wenn PPT-Metadaten lange Zeiträume ohne Aktualisierungen oder fehlende Eigentümerfelder anzeigen.
+
+
+
+* **Automatisierte Bibliotheksreinigungsaufgaben**
+
+  Scannen Sie regelmäßig PPT-Repositorys und isolieren Sie Assets, die als Duplikate oder nicht verwaltet identifiziert wurden, basierend auf Metadaten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

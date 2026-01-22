@@ -90,7 +90,73 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCM zobrazení dokumentů pomocí Python API umožňuje bezpečnou inspekci dokumentů s makry bez provádění vložené logiky.
+
+To je zásadní pro kontrolovaná prostředí, kde je vyžadována viditelnost bez bezpečnostního rizika.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Hodnocení dokumentů s makry**  
+
+&nbsp; Zobrazování obsahu při zachování neaktivních maker.
+
+
+
+* **Inspekce zaměřená na bezpečnost**  
+
+&nbsp; Prohlížení dokumentů pro strukturu a text bez provádění.
+
+
+
+* **Kontrolovaný přístup k dokumentům**  
+
+&nbsp; Umístit bezpečné zobrazení do omezených nebo automatizovaných systémů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Bezpečné příjmové potrubí**  
+
+&nbsp; Automatizace v Pythonu zobrazuje obsah DOCM bez spouštění maker.
+
+
+
+* **Automatizace hodnocení souladu**  
+
+&nbsp; Dokumenty jsou zobrazeny jako součást automatizovaných kontrolních politik.
+
+
+
+* **Předem schválené pracovní postupy**  
+
+&nbsp; Automatizované náhledy podporují schválení s lidským vstupem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

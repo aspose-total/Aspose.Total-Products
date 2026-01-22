@@ -76,7 +76,77 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Words for Python via 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX là định dạng tài liệu Word hiện đại được sử dụng rộng rãi cho báo cáo, hợp đồng và tài liệu cộng tác. Việc bảo vệ các tệp DOCX là rất quan trọng để duy trì tính toàn vẹn nội dung và ngăn chặn sự thay đổi không được ủy quyền trong quy trình làm việc trên nền tảng kỹ thuật số.
+
+
+
+API Python cho phép bảo vệ tệp DOCX một cách liền mạch bằng cách áp dụng mật khẩu và cài đặt quyền, khiến việc bảo mật tài liệu trở thành một phần tự nhiên của các luồng công việc nội dung tự động.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Bảo Vệ Hợp Đồng**  
+
+&nbsp; Bảo vệ các hợp đồng DOCX để ngăn chặn sửa đổi không được ủy quyền sau khi được phê duyệt.
+
+
+
+* **Kiểm Soát Nội Dung Cộng Tác**  
+
+&nbsp; Khóa các phần nhạy cảm trong khi cho phép tương tác giới hạn của người dùng.
+
+
+
+* **Bảo Vệ Tài Sản Trí Tuệ**  
+
+&nbsp; Bảo vệ tài liệu độc quyền được chia sẻ giữa các bộ phận hoặc đối tác.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Khóa Tài Liệu Dựa Trên Luồng Công Việc**  
+
+&nbsp; Tự động bảo vệ các tệp DOCX tại các giai đoạn cụ thể của quy trình làm việc.
+
+
+
+* **Gán Quyền Động**  
+
+&nbsp; Áp dụng các hạn chế dựa trên vai trò một cách chương trình trong quá trình tạo tài liệu.
+
+
+
+* **Xuất Bản Nội Dung An Toàn**  
+
+&nbsp; Bảo vệ các tài liệu DOCX trước khi phân phối hoặc lưu trữ tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

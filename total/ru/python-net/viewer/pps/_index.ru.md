@@ -89,7 +89,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Просмотр файлов PPS, PPSM и PPSX с помощью Python API позволяет осуществлять проверку презентаций, ориентированных на слайд-шоу и предназначенных для прямого воспроизведения.
+
+Это поддерживает автоматизированный просмотр без необходимости использования программы для презентаций.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Просмотр содержимого слайд-шоу**  
+
+  Просмотр презентаций, предназначенных для немедленного отображения.
+
+
+
+* **Инспекция структуры воспроизведения**  
+
+  Изучение потока слайдов и переходов.
+
+
+
+* **Проверка распространения**  
+
+  Гарантия правильности файлов слайд-шоу перед их распространением.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированная проверка слайд-шоу**  
+
+  Рабочие процессы на Python визуализируют файлы слайд-шоу для проверки.
+
+
+
+* **Предварительный просмотр перед распространением**  
+
+  Слайд-шоу отображаются динамически.
+
+
+
+* **Контроль качества в пайплайнах**  
+
+  Просмотр обеспечивает готовность к доставке.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -77,7 +77,75 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La rédaction de documents à l'aide des API Python pour les fichiers ODP permet une manipulation sécurisée du contenu de présentation créé dans des normes de document ouvertes. Ceci est essentiel lors du partage de diapositives pouvant contenir des informations sensibles ou propriétaires.
+
+
+
+L'automatisation garantit que les présentations ODP peuvent être désinfectées de manière cohérente, en soutenant des contrôles de confidentialité évolutifs et reproductibles sur l'ensemble des actifs de présentation.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Partage confidentiel de diapositives**  
+
+&nbsp; Supprimez les données sensibles des diapositives de présentation avant distribution.
+
+
+
+* **Gouvernance des formats ouverts**  
+
+&nbsp; Faites respecter les politiques de protection des données sur les fichiers de présentation au format ouvert.
+
+
+
+* **Désinfection du matériel de formation**  
+
+&nbsp; Rédigez les références internes avant de publier le contenu d'apprentissage.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Règles de désinfection au niveau de la diapositive**  
+
+&nbsp; Désinfectez automatiquement le contenu de diapositives ou de mises en page spécifiques.
+
+
+
+* **Pipelines de construction de présentation**  
+
+&nbsp; Intégrez la désinfection dans les flux de travail de génération de présentation automatisés.
+
+
+
+* **Scans de conformité planifiés**  
+
+&nbsp; Désinfectez périodiquement les fichiers ODP stockés à l'aide de tâches automatisées.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

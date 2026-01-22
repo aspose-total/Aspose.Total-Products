@@ -72,7 +72,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+קבצי ODT משמשים בצורה נרחבת בזרימות עבודה של מסמכים פתוחים, ופתיחתם מבטיחה גישה מלאה לתוכן טקסטואלי מוגן. היכולת הזו חיונית לניתוח, העברה ולתהליכי סקירה המופעלים על ידי תקנות.
+
+
+
+באמצעות ממשקי פייתון, ניתן להטמיע פתיחת ODT בצינורות תיעוד אוטומטיים, מבטיח עקביות ויעילות בכל המערכות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **חילוץ תוכן מובנה**  
+
+  &nbsp; מאפשר גישה לחלקים נעולים לצורך פירוק וחילוץ של נתונים.
+
+
+
+* **תמיכה בביקורת תקנית**  
+
+  &nbsp; מאפשר בדיקת מסמכים מוגנים במהלך בדיקות תקניות אוטומטיות.
+
+
+
+* **העברת פורמט פתוח**  
+
+  &nbsp; תומך בהמרת קבצי ODT מאובטחים לפלטים מתוקנים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **סריקות תקינות אוטומטיות**  
+
+  &nbsp; קבצי ODT מפתחים במהלך בדיקות תקניות מתוזמנות.
+
+
+
+* **צינורות אינטליגנציה למסמכים**  
+
+  &nbsp; הפתיחה מאפשרת ניתוח סמנטי ומשימות סיווג.
+
+
+
+* **עדכוני תוכן רציפים**  
+
+  &nbsp; קבצים מוגנים נפתחים באופן אוטומטי לצורך גרסאות שליטה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT je široce používaný otevřený formát textových dokumentů pro zprávy a dokumentaci. Chránění souborů ODT je zásadní pro zachování autenticity dokumentů a prevenci náhodných nebo zákeřných změn.
+
+
+
+Ochrana dokumentů založená na Pythonu umožňuje začlenění zabezpečení ODT do automatizovaných pracovních postupů dokumentace a publikace s minimální režií.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+
+
+* **Bezpečné distribuce zpráv**  
+
+&nbsp; Chránit definitivní zprávy ve formátu ODT před sdílením.
+
+
+
+* **Integrita dokumentace**  
+
+&nbsp; Zajistit, aby oficiální dokumenty zůstaly nezměněny po schválení.
+
+
+
+* **Bezpečnost dokumentů napříč platformami**  
+
+&nbsp; Aplikovat ochranu bez ohledu na prostředí pro úpravy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizované dokumentační toky**  
+
+&nbsp; Chránit soubory ODT jako součást průběžné generace dokumentace.
+
+
+
+* **Bezpečnost souborů na základě pravidel**  
+
+&nbsp; Aplikovat bezpečnostní politiky na základě metadat dokumentu.
+
+
+
+* **Hromadné zabezpečení dokumentů**  
+
+&nbsp; Zabezpečit více souborů ODT programově v hromadných operacích.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -98,7 +98,93 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Ekstraksi metadata dokumen untuk file **DOT** melalui API Python mendukung pemahaman dan pengelolaan aset template warisan dengan membaca properti yang tertanam seperti penulis template, waktu pembuatan, dan bidang deskriptif. Hal ini penting untuk standarisasi, tata kelola, dan menjaga konsistensi output dokumen di seluruh organisasi.
+
+
+
+Dalam sistem otomatis, metadata DOT memungkinkan manajemen siklus hidup template yang terkontrol—membantu pipeline memilih template yang benar, menegakkan standar yang disetujui, dan mendeteksi file template yang kadaluwarsa atau tidak dikelola secara besar-besaran.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Utama" %}}
+
+
+
+* **Pembuatan Katalog Template**
+
+  Ekstraksi metadata DOT untuk membangun inventaris pencarian template dan tujuan yang dimaksud.
+
+
+
+* **Penegakan Standarisasi**
+
+  Identifikasi template yang disetujui dengan memeriksa kepemilikan dan properti deskriptif.
+
+
+
+* **Pelacakan Siklus Hidup Template**
+
+  Pantau waktu pembuatan/modifikasi untuk mendeteksi template yang sudah basi yang memerlukan revisi atau pensiun.
+
+
+
+* **Tata Kelola Penggunaan Template**
+
+  Gunakan metadata untuk mengaitkan template dengan departemen atau alur kerja untuk distribusi yang terkontrol.
+
+
+
+* **Catatan Template Siap Audit**
+
+  Hasilkan log yang dapat dilacak yang menunjukkan asal-usul template dan riwayat pemeliharaan untuk kebutuhan kepatuhan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Penghalang Template Disetujui**
+
+  Secara otomatis menghalangi template DOT yang tidak disetujui untuk disimpan di repositori bersama berdasarkan aturan metadata.
+
+
+
+* **Pemberitahuan Pembaruan Template Terjadwal**
+
+  Pemicu pemberitahuan berkala ketika template DOT melebihi batas usia atau tidak memiliki bidang pemelihara.
+
+
+
+* **Otomatisasi Pemilihan Template**
+
+  Gunakan metadata untuk memilih template DOT yang benar secara programatis untuk alur kerja atau departemen tertentu.
+
+
+
+* **Alur Kerja Pembersihan Repositori**
+
+  Identifikasi dan karantina template DOT ganda atau kadaluwarsa menggunakan kemiripan metadata dan timestamp.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

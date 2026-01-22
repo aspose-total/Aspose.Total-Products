@@ -71,7 +71,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Penandatanganan dokumen DOCX menggunakan API Python memungkinkan dokumen terstruktur dan modern untuk menyertakan metadata persetujuan yang dapat diverifikasi. Ini mendukung pelacakan jejak dan siklus hidup dokumen yang terkontrol.
+
+
+
+Penandatanganan DOCX otomatis terintegrasi dengan lancar dengan mesin konten, sistem persetujuan, dan repositori dokumen dalam skala besar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Finalisasi Kontrak Digital**  
+
+&nbsp; Menyematkan tanda tangan persetujuan ke dalam kontrak DOCX yang telah difinalisasi.
+
+
+
+* **Pelacakan Persetujuan Laporan**  
+
+&nbsp; Menandatangani laporan DOCX untuk mengonfirmasi persetujuan manajerial.
+
+
+
+* **Tata Kelola Dokumentasi Internal**  
+
+&nbsp; Menyertakan tanda tangan ke dokumen internal yang divalidasi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Penandatanganan Kontrak Berbasis Kejadian**  
+
+&nbsp; File DOCX ditandatangani secara otomatis setelah kejadian persetujuan.
+
+
+
+* **Penutupan Tinjauan Multi-Langkah**  
+
+&nbsp; Penandatanganan terjadi setelah semua pemeriksa menyelesaikan tugas mereka.
+
+
+
+* **Persetujuan Dokumentasi Berbasis CI**  
+
+&nbsp; File DOCX ditandatangani sebagai bagian dari jalur bangunan otomatis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -138,7 +206,7 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

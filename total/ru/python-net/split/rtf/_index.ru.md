@@ -79,7 +79,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Файлы RTF обеспечивают портативный формат документа, сосредоточенный на тексте, с встроенным форматированием. Разделение файлов RTF позволяет контролируемо извлекать отформатированный контент.
+
+
+
+Автоматизация на Python обеспечивает эффективную обработку документов RTF в системах большого масштаба.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Извлечение Отформатированного Текста**  
+
+&nbsp; Извлекайте разделы, сохраняя форматирование.
+
+
+
+* **Обработка Совместимого Контента**  
+
+&nbsp; Используйте извлеченный контент на различных платформах.
+
+
+
+* **Упрощение Документов**  
+
+&nbsp; Разбивайте сложные файлы на управляемые блоки.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии Автоматизации" %}}
+
+
+
+* **Разделение Секций на Основе Шаблонов**  
+
+&nbsp; Python определяет управляющие слова для разделения контента.
+
+
+
+* **Преобразование Контента Автоматически**  
+
+&nbsp; Извлеченные секции преобразуются программно.
+
+
+
+* **Контентные Потоки Между Системами**  
+
+&nbsp; Секции легко передаются между различными системами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

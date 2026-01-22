@@ -71,7 +71,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Menandatangani file TIFF dengan API Python memperkuat tata kelola untuk pemindaian dan gambar berkualitas tinggi yang umum digunakan dalam alur kerja manajemen rekaman dan arsip. Ini membantu mempertahankan keaslian dan jejak untuk dokumen pemindaian penting.
+
+
+
+Dalam pipa otomatis, penandatanganan TIFF dapat dilakukan setelah validasi dan pengindeksan, memastikan pemindaian yang disimpan membawa indikator persetujuan dan provenans yang konsisten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Atestasi Keaslian Pemindaian**  
+
+&nbsp; Menandatangani pemindaian TIFF untuk mengonfirmasi bahwa mereka mewakili asli yang diverifikasi.
+
+
+
+* **Persetujuan Manajemen Rekaman**  
+
+&nbsp; Terapkan tanda tangan ke file TIFF sebelum disimpan ke sistem penyimpanan rekaman.
+
+
+
+* **Konfirmasi Bukti Resolusi Tinggi**  
+
+&nbsp; Menandatangani aset bukti TIFF untuk mendokumentasikan identitas pemeriksa dan persetujuan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Langkah Penandatanganan Setelah Pengindeksan**  
+
+&nbsp; Secara otomatis menandatangani file TIFF setelah OCR/pengindeksan dan validasi selesai.
+
+
+
+* **Pipa Retensi Kepatuhan**  
+
+&nbsp; Menandatangani catatan TIFF saat masuk penyimpanan retensi untuk memperkuat jejak audit.
+
+
+
+* **Pekerjaan Finalisasi Pemindaian Massal**  
+
+&nbsp; Secara programatik menandatangani batch TIFF untuk operasi pemindaian besar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

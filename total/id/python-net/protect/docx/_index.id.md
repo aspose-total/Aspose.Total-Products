@@ -76,7 +76,75 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX adalah format dokumen Word modern yang banyak digunakan untuk laporan, kontrak, dan dokumen kolaboratif. Melindungi file DOCX sangat penting untuk menjaga integritas konten dan mencegah perubahan yang tidak sah dalam alur kerja berbasis digital.
+
+
+
+API Python memungkinkan perlindungan file DOCX secara mulus dengan menerapkan kata sandi dan pengaturan izin, menjadikan keamanan dokumen sebagai bagian alami dari alur kerja konten otomatis.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Perlindungan Kontrak**  
+
+&nbsp; Amanankan kontrak DOCX untuk mencegah pengeditan yang tidak sah setelah disetujui.
+
+
+
+* **Kontrol Konten Kolaboratif**  
+
+&nbsp; Kunci bagian-bagian sensitif sambil memungkinkan interaksi pengguna terbatas.
+
+
+
+* **Perlindungan Kekayaan Intelektual**  
+
+&nbsp; Lindungi dokumen properti yang dibagikan di antara departemen atau mitra.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skema Otomatisasi" %}}
+
+
+
+* **Penguncian Dokumen Berbasis Alur Kerja**  
+
+&nbsp; Secara otomatis melindungi file DOCX pada tahapan alur kerja tertentu.
+
+
+
+* **Penugasan Izin Dinamis**  
+
+&nbsp; Terapkan pembatasan berbasis peran secara programatik selama pembuatan dokumen.
+
+
+
+* **Publikasi Konten Aman**  
+
+&nbsp; Lindungi output DOCX sebelum distribusi atau penyimpanan otomatis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

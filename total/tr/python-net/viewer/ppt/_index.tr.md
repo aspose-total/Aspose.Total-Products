@@ -89,7 +89,73 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri ile PPT dosyalarını görüntülemek, eski sistemlerde kullanılan eski sunum belgelerinin incelenmesini sağlar.
+
+Bu, geriye dönük uyumluluğun gerektiği durumlarda otomasyonu destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Eski Sunum İncelemesi**  
+
+  Gelişmiş slayt paketlerini programatik olarak görüntüleyin.
+
+
+
+* **İçerik Göçü Desteği**  
+
+  Formatları yükseltmeden önce sunumları inceleyin.
+
+
+
+* **Sunum Doğrulaması**  
+
+  Slayt verilerinin sağlam kalmasını sağlayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Eski Denetim Boruları**  
+
+  Python iş akışları, PPT dosyalarını incelemek için render eder.
+
+
+
+* **Dönüşüm Öncesi Doğrulama**  
+
+  Görüntüleme, güvenli format geçişini sağlar.
+
+
+
+* **Toplu Sunum İncelemesi**  
+
+  Büyük koleksiyonlar otomatik olarak incelenir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,75 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Das Signieren von JPG-Dateien mit Python-APIs bietet einen praktischen Weg, um gemeinsam genutzte Bildressourcen als genehmigt, abgeschlossen oder veröffentlichungsbereit zu kennzeichnen. Dies hilft, Verwirrung zwischen Entwürfen und endgültigen Versionen zu reduzieren.
+
+
+
+In automatisierten Workflows kann das Signieren von JPG-Dateien als obligatorischer Schritt vor der Veröffentlichung, Verteilung oder Archivierung durchgesetzt werden, um die Zuverlässigkeit und Prüfbereitschaft zu verbessern.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Endgültige Genehmigung von Marketing-Visuals**  
+
+&nbsp; Signieren Sie JPG-Werbegrafiken, um die Zustimmung der Stakeholder zu bestätigen.
+
+
+
+* **Markierung der Bildbereitschaft im Katalog**  
+
+&nbsp; Kennzeichnen Sie JPG-Produktbilder als genehmigt für die Auflistung und Veröffentlichung.
+
+
+
+* **Zertifizierung von Bildschirmfotos in der Dokumentation**  
+
+&nbsp; Signieren Sie JPG-Bildschirmfotos, um sicherzustellen, dass sie den genehmigten Systemzustand widerspiegeln.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Vorveröffentlichungsschritt zum Signieren**  
+
+&nbsp; Signieren Sie JPG-Dateien automatisch direkt bevor sie veröffentlicht oder live geschaltet werden.
+
+
+
+* **Automatisierung der Asset-Versionssperrung**  
+
+&nbsp; Signieren Sie JPG-Ressourcen, wenn eine Version gesperrt ist, um versehentliche Bearbeitungen zu verhindern.
+
+
+
+* **Validierung von Verteilungsbundles**  
+
+&nbsp; Signieren Sie JPGs, die in Bundles enthalten sind, nachdem automatisierte Vollständigkeitsprüfungen bestanden wurden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

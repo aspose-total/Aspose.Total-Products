@@ -74,7 +74,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Redakce dokumentů pomocí Python API pro soubory DOCX poskytuje moderní, strukturovaný přístup k odstranění citlivého obsahu z široce používaných formátů pro zpracování textu. Tím se zajistí, že dokumenty zůstanou použitelné a zároveň se chrání důvěrné informace.
+
+
+
+Automatizace založená na Pythonu umožňuje škálovat redakci DOCX bez námahy napříč velkými repozitáři dokumentů, což umožňuje bezproblémovou integraci s systémy správy obsahu a dodržování předpisů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Ochrana regulačních dat**  
+
+&nbsp; Odstranění osobních nebo finančních údajů ze souborů DOCX před externím distribuováním.
+
+
+
+* **Sanitace smluv**  
+
+&nbsp; Redakce citlivých pasáží při zachování struktury a formátování dokumentu.
+
+
+
+* **Bezpečnost spolupráce**  
+
+&nbsp; Bezpečné sdílení redakovaných souborů DOCX s partnery nebo klienty.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatické scénáře" %}}
+
+
+
+* **Redakce řízená šablonami**  
+
+&nbsp; Automatická redakce konkrétních sekcí na základě dokumentových šablon.
+
+
+
+* **Zpracování založené na pracovním postupu**  
+
+&nbsp; Spuštění redakce při přechodu souborů DOCX mezi pracovními fázemi.
+
+
+
+* **Průběžné kontroly souladu**  
+
+&nbsp; Opětovné skenování a redakce aktualizovaných dokumentů jako součást automatizovaných toků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

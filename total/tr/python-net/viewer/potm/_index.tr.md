@@ -89,7 +89,73 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri ile POTM görüntüleme, makro çalıştırmadan makro destekli sunum şablonlarının incelenmesine olanak tanır.
+
+Bu, yeniden kullanılabilir sunum yapılarının güvenli doğrulamasını destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Makro Etkin Şablon İncelemesi**  
+
+&nbsp; Sunum şablonlarını güvenli bir şekilde görüntüleyin.
+
+
+
+* **Slayt Düzeni Doğrulaması**  
+
+&nbsp; Önceden tanımlanmış slayt yapılarını inceleyin.
+
+
+
+* **Şablon Onayı İş Akışları**  
+
+&nbsp; Dağıtımdan önce şablonları gözden geçirin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Güvenli Şablon Alımı**  
+
+&nbsp; Python iş akışları POTM dosyalarını güvenli bir şekilde oluşturur.
+
+
+
+* **Otomatik Şablon Denetimleri**  
+
+&nbsp; Şablonlar tutarlılık açısından incelenir.
+
+
+
+* **Sunum Oluşturma Boruları**  
+
+&nbsp; Görüntüleme, otomasyon için hazır olduğundan emin olur.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

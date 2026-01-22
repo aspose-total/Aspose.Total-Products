@@ -76,7 +76,75 @@ ODT 비밀번호 보호 앱 또는 유틸리티를 개발해야 합니까?[Aspos
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT는 보고서 및 문서 작성에 널리 사용되는 오픈 문서 텍스트 형식입니다. ODT 파일을 보호하는 것은 문서의 신뢰성을 보존하고 우연하거나 악의적인 변경을 방지하는 데 중요합니다.
+
+
+
+Python 기반의 문서 보호는 최소한의 오버헤드로 자동화된 문서 작성 및 게시 워크플로에 ODT 보안을 통합할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **안전한 보고서 배포**  
+
+&nbsp; 공유 전에 완료된 ODT 보고서를 보호합니다.
+
+
+
+* **문서 무결성**  
+
+&nbsp; 승인 후에도 공식 문서가 변경되지 않도록 보장합니다.
+
+
+
+* **크로스 플랫폼 문서 안전성**  
+
+&nbsp; 편집 환경에 관계없이 보호를 적용합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동화된 문서 파이프라인**  
+
+&nbsp; 지속적인 문서 생성의 일환으로 ODT 파일을 보호합니다.
+
+
+
+* **규칙 기반 파일 보안**  
+
+&nbsp; 문서 메타데이터를 기반으로 보호 정책을 적용합니다.
+
+
+
+* **대량 문서 강화**  
+
+&nbsp; 일괄 작업에서 프로그래밍 방식으로 여러 ODT 파일을 안전하게 보호합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+שילוב תבניות של גיליון אקסל באמצעות Python APIs מבטיח מבנה ופריסה עקביים בגיליונות הנוצרים. שילוב בהתבסס על תבנית הוא חיוני לדיווח תקני ולתהליכי הזנת נתונים תקניים.
+
+
+
+האוטומציה מאפשרת יצירת גיליונות עבורים במהירות רבה מבלי פורמט ידני.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **אספקת גיליונות עבוריים בהתבסס על תבנית (XLT)**  
+
+  &nbsp; מיזוג קבצים בהתבסס על XLT כדי להכניס פריסות עקביות.
+
+
+
+* **איסוף נתונים תקני (XLT)**  
+
+  &nbsp; שילוב של גיליונות המופעלים על ידי תבנית לקובץ אחד.
+
+
+
+* **מבני גיליונות שניתפסים (XLT)**  
+
+  &nbsp; איגוד מסמכי XLT כדי לשמור על עיצוב אחיד.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **יישום תבנית באופן אוטומטי (XLT)**  
+
+  &nbsp; קבצי XLT מתמזגים באופן אוטומטי במהלך הייצור.
+
+
+
+* **עיבוד תבניות בצורה צפונית (XLT)**  
+
+  &nbsp; משימות מתוזמנות משלבות גיליונות מבוססי XLT מרובים.
+
+
+
+* **אוטומציה בשליטת הפריסה (XLT)**  
+
+  &nbsp; מערכות ממזגות קבצי XLT כדי להבטיח עיצוב עקבי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

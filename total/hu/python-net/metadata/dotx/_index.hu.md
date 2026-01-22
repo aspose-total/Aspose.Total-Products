@@ -98,7 +98,93 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Dokumentum metaadatok kinyerése **DOTX** fájlokból Python API-k segítségével strukturált módon kezeli a modern sablonfájlokat, olyan tulajdonságok olvasásával, mint a sablon címe, szerzői részletek és frissítési előzmények. Ez javítja a kormányzást és biztosítja, hogy a dokumentum létrehozása következetes maradjon és összhangban legyen a szabályzattal.
+
+
+
+Automatizálási csövekben a DOTX metaadatok hasznosak a sablonfelbontáshoz, jóváhagyási munkafolyamatokhoz és életciklus-vezérléshez - lehetővé téve a skálázható sablonműveleteket, amelyek csökkentik a manuális ellenőrzéseket és konfigurációs eltéréseket.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Fő felhasználási esetek" %}}
+
+
+
+* **Sablon felfedezése és keresése**
+
+  Kinyerje a DOTX metaadatokat, hogy a sablonok kereshetők legyenek cél, osztály vagy szándékolt dokumentumtípus szerint.
+
+
+
+* **Jóváhagyási állapot követése**
+
+  Használjon egyedi tulajdonságokat annak nyomon követésére, hogy egy sablon vázlat, jóváhagyott vagy elavult-e.
+
+
+
+* **Sablon tulajdonosi leképezés**
+
+  Azonosítsa a karbantartókat és szerzőket az update kérések és felelősségi feladatok irányításához.
+
+
+
+* **Konzisztencia biztosítása a generált dokumentumokhoz**
+
+  Ellenőrizze, hogy a munkafolyamatok a megfelelő DOTX sablont használják-e a metaadat azonosítók alapján.
+
+
+
+* **Sablonváltozás kormányzása**
+
+  Figyelje a módosítási előzményeket, hogy észlelje a kontrollált sablonok váratlan szerkesztéseit.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Metaadatvezérelt sablonregiszter**
+
+  Automatikusan beolvassa a DOTX metaadatokat egy regiszter szolgáltatásba, amelyet dokumentum-generáló rendszerek használnak.
+
+
+
+* **Elavultság végrehajtási csővezetéke**
+
+  Az elavult DOTX sablonokat irányítsa egy archívumba és akadályozza meg a használatukat a metaadat zászlók alapján.
+
+
+
+* **Automatizált sablon QA ellenőrzések**
+
+  Futtasson ellenőrzéseket, amelyek biztosítják, hogy a szükséges DOTX tulajdonságok léteznek és megfelelnek a szervezeti szabványoknak a kiadás előtt.
+
+
+
+* **Sablonfrissítési munkafolyamat irányítása**
+
+  Amikor a DOTX metaadat változást jelez, automatikusan hozzon létre felülvizsgálati feladatokat a hozzárendelt karbantartó számára.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

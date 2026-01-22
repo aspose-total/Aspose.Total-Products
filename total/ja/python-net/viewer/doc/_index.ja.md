@@ -90,7 +90,73 @@ DOC ビューア アプリまたはユーティリティを開発する必要が
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用してDOCファイルを表示すると、遺産のワード処理ドキュメントに構造化されたアクセスが可能になり、読み取りや検査の目的で使用できます。
+
+これにより、古いファイル規格に依存するシステムでの自動化された文書処理がサポートされます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **遺産文書の検査**  
+
+&nbsp; 手動変換せずに古いテキスト文書を開いて表示します。
+
+
+
+* **コンテンツの検証**  
+
+&nbsp; 正確性のために文書のテキストとレイアウトをプログラムで確認します。
+
+
+
+* **文書の移行サポート**  
+
+&nbsp; 新しい形式に変換する前にDOCファイルを検査します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **自動化された遺産監査**  
+
+&nbsp; PythonワークフローによってDOCファイルが読み取れることを確認してから処理します。
+
+
+
+* **一括文書レビュー**  
+
+&nbsp; コンプライアンスチェックのために大量の文書が自動的に表示されます。
+
+
+
+* **変換前の検証**  
+
+&nbsp; 自動ビューアーによって、形式のアップグレード前に文書が正常であることが確認されます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

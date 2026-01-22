@@ -79,7 +79,85 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'apposizione di filigrane ai documenti **ODT** con API Python aiuta a proteggere i file di testo del documento aperto aggiungendo chiari segni di proprietà e riservatezza mantenendo il contenuto accessibile negli ecosistemi aperti.
+
+L'automazione consente di applicare regole di filigrana coerenti tra le librerie ODT, supportando la governance scalabile dei documenti per i team che utilizzano formati aperti.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* **Etichettatura delle Politiche dei Formati Aperti**  
+
+&nbsp; Apporre timbri "INTERNO" o "RISERVATO" ai documenti ODT per ridurre gli errori di instradamento.
+
+
+
+* **Controllo delle Bozze per la Scrittura Collaborativa**  
+
+&nbsp; Applicare sovrapposizioni "BOZZA" durante cicli di editing iterativi.
+
+
+
+* **Avvisi di Distribuzione per Documenti Condivisi**  
+
+&nbsp; Aggiungere restrizioni di riutilizzo ai documenti condivisi con appaltatori o partner.
+
+
+
+* **Conservazione dell'Identità dell'Archivio**  
+
+&nbsp; Apporre filigrane ai file ODT esportati in modo che la proprietà sia visibile anche dopo la copia tra sistemi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Generatore di Documenti + Passaggio di Filigrana**  
+
+&nbsp; Applicare automaticamente filigrane ai file ODT prodotti da modelli o dati strutturati.
+
+
+
+* **Applicazione delle Politiche del Repository**  
+
+&nbsp; Applicare filigrane quando gli ODT vengono caricati nelle cartelle regolamentate.
+
+
+
+* **Cambio Automatico della Filigrana di Versione**  
+
+&nbsp; Cambiare il testo della filigrana in base allo stato della versione (bozza, revisione, finale) in modo programmato.
+
+
+
+* **Flussi di Esportazione per la Conformità**  
+
+&nbsp; Apporre timbri alle esportazioni ODT utilizzate per le verifiche per garantire un'etichettatura coerente tra le presentazioni.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

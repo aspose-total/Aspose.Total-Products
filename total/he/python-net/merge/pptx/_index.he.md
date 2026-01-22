@@ -77,7 +77,69 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+מיזוג מצגות PPTX באמצעות Python APIs הוא הגישה הנפוצה ביותר להרכבת שקופיות מודרניות. זה מאפשר שליטה מדויקת על סדר השקופיות, הפריסות והתאימות של התוכן.
+
+
+
+יכולת זו משתלבת בצורה נקייה עם מנועי תוכן אוטומטיים ומערכות דיווח.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* **יצירת מצגת עם מספר סעיפים (PPTX)**  
+&nbsp; מיזוג קבצי PPTX המייצגים סעיפים למצגת אחת.
+
+
+
+* **שילוב שקופיות שיתופיות (PPTX)**  
+&nbsp; שלב שקופיות PPTX שנכתבו על ידי משתתפים מרובים.
+
+
+
+* **אספקת מודולי שקופיות ניתנים לשימוש (PPTX)**  
+&nbsp; להרכבת שקופיות PPTX מודולריות למצגות מותאמות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **יצירת מצגת דינמית (PPTX)**  
+&nbsp; מערכות ממזגות קבצי PPTX בהתבסס על קלטים בזמן ריצה.
+
+
+
+* **צינורות CI/CD למצגות (PPTX)**  
+&nbsp; מיזוג PPTX מופעל באופן אוטומטי בשלבי בנייה או שחרור.
+
+
+
+* **פרסום מצגות נפחי בצורה קבועה (PPTX)**  
+&nbsp; מצגות PPTX בנפח גבוה נוצרות באופן תכנותי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

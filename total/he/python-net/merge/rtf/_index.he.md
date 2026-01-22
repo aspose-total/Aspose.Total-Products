@@ -76,7 +76,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+מיזוג מסמכי Rich Text Format באמצעות Python APIs מאפשר קיבוץ מסמכים קל משקל תוך שמירה על עיצוב בסיסי וקריאות. RTF משמש בצורה נרחבת לאינטרופרביליטי בין פלטפורמות ומערכות.
+
+
+
+מיזוג RTF אוטומטי תומך בעיבוד מסמכים מהיר ותכנותי בסביבות שבהן פשטות ותאימות הן קריטיות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **איסוף מסמכים קלים (RTF)**  
+
+&nbsp; מיזוג מסמכי RTF מרובים למסמך קריא.
+
+
+
+* **החלפת תוכן בין מערכות שונות (RTF)**  
+
+&nbsp; שילוב של מסמכי RTF המשותפים בין מערכות הטרוגניות.
+
+
+
+* **שמירת עיצוב פשוט (RTF)**  
+
+&nbsp; איגוד של קבצי RTF תוך שמירה על עיצוב חיוני.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **צינורות עיבוד טקסט בצד השרת (RTF)**  
+
+&nbsp; מיזוג RTF מופעל באופן אוטומטי בשירותי עיבוד טקסט.
+
+
+
+* **טיפול במסמכים בנפח גבוה (RTF)**  
+
+&nbsp; מערכות ממזגות מספר גדול של קבצי RTF באופן תכנותי.
+
+
+
+* **אוטומציה ממוקדת תאימות (RTF)**  
+
+&nbsp; קבצי RTF ממוזגים באופן אוטומטי למקסימום ניידות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

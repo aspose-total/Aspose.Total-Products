@@ -73,7 +73,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Podpisywanie prezentacji w formacie PowerPoint za pomocą interfejsów API w języku Python umożliwia organizacjom narzucenie jasnej kontroli zatwierdzeń i uwolnienia nad treścią prezentacji. Pomaga to zapobiec nieautoryzowanym edycjom i zmniejsza ryzyko udostępniania przestarzałych slajdów.
+
+
+
+W zautomatyzowanych systemach podpisywanie prezentacji w PowerPoint może działać jako ostateczny punkt kontrolny związany z wersjonowaniem, dystrybucją i wymaganiami zgodności.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Zatwierdzenie wydania prezentacji dla kadry zarządzającej**  
+
+&nbsp; Podpisz slajdy PowerPoint, aby potwierdzić zatwierdzone przez kierownictwo przekazywanie informacji.
+
+
+
+* **Kontrola zatwierdzania prezentacji dla klienta**  
+
+&nbsp; Dodaj podpisy do prezentacji przed zewnętrzną dostawą.
+
+
+
+* **Certyfikacja kwartalnych raportów**  
+
+&nbsp; Podpisz slajdy raportów, aby potwierdzić, że dane i narracja zostały zatwierdzone.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Reguła podpisywania przed dystrybucją**  
+
+&nbsp; Automatyczne podpisywanie slajdów tuż przed wysłaniem ich mailem lub opublikowaniem.
+
+
+
+* **Integracja z systemem zatwierdzania**  
+
+&nbsp; Podpisz pliki PowerPoint, gdy bilet zatwierdzenia zostanie zamknięty.
+
+
+
+* **Proces blokady i zabezpieczenia wersji**  
+
+&nbsp; Podpisz slajdy, gdy wersja wydania zostanie oznaczona, aby zapobiec niekontrolowanym zmianom.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

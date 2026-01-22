@@ -79,7 +79,85 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Pemberian watermark pada file presentasi **ODP** dengan Python APIs membantu mengontrol distribusi slide deck dengan menandai kepemilikan, kerahasiaan, atau status tinjauan langsung pada slide.
+
+Automasi memudahkan penandaan file ODP secara massal, mendukung tata kelola yang konsisten untuk pelatihan internal, proposal, dan presentasi mitra.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Pelabelan Slide Deck Rahasia**  
+
+&nbsp; Terapkan tanda kerahasiaan yang terlihat di semua slide untuk mengurangi berbagi yang tidak disengaja.
+
+
+
+* **Kepemilikan Proposal untuk Slide Deck Klien**  
+
+&nbsp; Tandai pemberitahuan kepemilikan untuk menjelaskan penggunaan yang diizinkan dari konten presentasi.
+
+
+
+* **Atribusi Materi Pelatihan**  
+
+&nbsp; Watermark deck pelatihan untuk menjaga identitas sumber saat dibagikan di antara tim.
+
+
+
+* **Indikator Tahap Tinjauan**  
+
+&nbsp; Tambahkan overlay "DRAFT" atau "FOR REVIEW" untuk mencegah distribusi yang terlalu dini.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Injeksi Watermark di Seluruh Slide**  
+
+&nbsp; Terapkan watermark yang sama ke setiap slide secara programatis untuk keterlihatan yang konsisten.
+
+
+
+* **Integrasi Alur Kerja Persetujuan**  
+
+&nbsp; Hapus watermark draf secara otomatis dan terapkan tanda akhir setelah persetujuan.
+
+
+
+* **Aturan Penempatan Berbasis Template**  
+
+&nbsp; Tempatkan watermark berdasarkan jenis tata letak slide untuk menghindari menutupi konten penting.
+
+
+
+* **Pemrosesan Massal untuk Pembersihan Repositori**  
+
+&nbsp; Watermark deck ODP lama selama pengarsipan atau migrasi untuk standarisasi kebijakan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

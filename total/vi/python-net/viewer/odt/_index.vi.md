@@ -90,7 +90,73 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Words for Python via 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Xem tệp ODT bằng Python APIs cho phép kiểm tra tài liệu văn bản mở được sử dụng trong quy trình làm việc dựa trên tiêu chuẩn.
+
+Điều này hỗ trợ tự động hóa trong các hệ thống tập trung vào tài liệu mà không phụ thuộc vào các yêu cầu độc quyền.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Đánh Giá Tài Liệu Mở**  
+
+&nbsp; Xem tài liệu văn bản trong định dạng mở.
+
+
+
+* **Kiểm Tra Tính Nguyên Vẹn Nội Dung**  
+
+&nbsp; Kiểm tra cấu trúc tài liệu và văn bản.
+
+
+
+* **Tương Thích Trên Nhiều Hệ Thống**  
+
+&nbsp; Đảm bảo tài liệu hiển thị đúng trên môi trường khác nhau.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Các Quy Trình Tài Liệu Tự Động**  
+
+&nbsp; Các quy trình Python hiển thị tệp ODT trong quy trình làm việc.
+
+
+
+* **Xác Thực Tuân Thủ**  
+
+&nbsp; Tài liệu được xem xét để đảm bảo tuân thủ tiêu chuẩn.
+
+
+
+* **Tạo Xem Trước**  
+
+&nbsp; Các trình xem tự động hỗ trợ quy trình đánh giá.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -90,7 +90,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API查看Word文档提供了一种统一的方式，可以检查跨多个兼容Word格式的基于文本的文件。
+
+这支持自动化系统中的一致文档处理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **统一文档审阅**  
+
+  &nbsp; 通过单一界面查看各种Word文档。
+
+
+
+* **内容一致性检查**  
+
+  &nbsp; 检查文件中的文本和结构。
+
+
+
+* **工作流集成**  
+
+  &nbsp; 将文档查看嵌入到处理管道中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化内容管道**  
+
+  &nbsp; Python处理在多步骤工作流期间呈现Word文档。
+
+
+
+* **预览服务**  
+
+  &nbsp; 动态显示文档以供审阅或批准。
+
+
+
+* **批量文档操作**  
+
+  &nbsp; 以编程方式查看大量Word文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

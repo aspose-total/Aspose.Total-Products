@@ -75,7 +75,93 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'estrazione dei metadati del documento per i file **ODP** tramite API Python consente ai sistemi di leggere attributi di presentazione e proprietà incorporate per le presentazioni, supportando la governance, la scoperta e la gestione del ciclo di vita senza aprire il file in un'interfaccia grafica. Questo è importante per i team che gestiscono grandi volumi di presentazioni di formazione, vendita o operative.
+
+
+
+Nei flussi di lavoro automatizzati, i metadati ODP possono guidare l'indicizzazione, la classificazione e la pubblicazione controllata, rendendo le librerie di diapositive più facili da mantenere, cercare e integrare nei sistemi di distribuzione dei contenuti.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Indicizzazione della Libreria di Presentazioni**
+
+  Estrarre i metadati ODP per costruire cataloghi ricercabili di presentazioni per autore, argomento e tempo di aggiornamento.
+
+
+
+* **Verifica della Valuta dei Contenuti di Formazione**
+
+  Utilizzare i timestamp modificati per identificare presentazioni obsolete che richiedono cicli di aggiornamento.
+
+
+
+* **Classificazione Basata sul Dipartimento**
+
+  Normalizzare le proprietà dei metadati in categorie strutturate per un'organizzazione e controlli di accesso consistenti.
+
+
+
+* **Segnalazione della Governance degli Asset**
+
+  Aggregare i metadati ODP per misurare la prontezza all'uso, le lacune nella copertura e la proprietà della manutenzione.
+
+
+
+* **Preparazione alla Migrazione di Massa**
+
+  Verificare le proprietà ODP prima della migrazione a nuovi ambienti di archiviazione o pubblicazione.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Inserimento Automatico della Presentazione**
+
+  All'upload, estrarre i metadati ODP e assegnare la presentazione alla sezione corretta del repository automaticamente.
+
+
+
+* **Automazione degli Avvisi di Obsolescenza**
+
+  Attivare gli avvisi quando le presentazioni ODP superano le soglie di aggiornamento o mancano dei campi di proprietà responsabile.
+
+
+
+* **Regole di Pubblicazione Basate sui Metadati**
+
+  Pubblicare o limitare le presentazioni ODP in base ai flag dei metadati che indicano la riservatezza o l'uso interno.
+
+
+
+* **Lavori di Audit e Reporting Batch**
+
+  Eseguire lavori pianificati che esportano riepiloghi dei metadati ODP per audit di governance e operativi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

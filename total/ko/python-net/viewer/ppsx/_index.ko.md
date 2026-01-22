@@ -89,7 +89,73 @@ PPSX 뷰어 앱이나 유틸리티를 개발해야 합니까?[Aspose.Total for P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 PPSX 파일을 볼 경우 즉시 재생이 최적화된 현대적인 슬라이드 쇼 프레젠테이션을 검사할 수 있습니다.
+
+이를 통해 프레젠테이션용 콘텐츠를 미리보고 확인하는 확장 가능한 자동화가 가능해집니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **즉시 슬라이드쇼 검토**
+
+  &nbsp; 직접 슬라이드쇼 모드로 열리도록 설계된 프레젠테이션을 확인합니다.
+
+
+
+* **슬라이드 콘텐츠 확인**
+
+  &nbsp; 배포 전 텍스트와 시각 자료를 검사합니다.
+
+
+
+* **프레젠테이션 준비 확인**
+
+  &nbsp; 슬라이드쇼 파일을 정확성과 완전성을 위해 확인합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동 슬라이드쇼 유효성 검사**
+
+  &nbsp; 품질 보증 검사 중에 Python 파이프라인이 PPSX 파일을 렌더링합니다.
+
+
+
+* **동적 미리보기 서비스**
+
+  &nbsp; 리뷰어나 이해관계자를 위해 슬라이드쇼가 자동으로 표시됩니다.
+
+
+
+* **일괄 프레젠테이션 배포 워크플로우**
+
+  &nbsp; 대규모 전달 전에 PPSX 파일이 프로그래밍 방식으로 확인됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -98,7 +98,93 @@ DOC 메타데이터 관리 앱 또는 유틸리티를 개발해야 합니까?[As
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+파이썬 API를 통한 **DOC** 파일의 문서 메타데이터 추출은 시스템이 수동 검사 없이도 작성자, 생성 시간, 최종 수정 시간, 수정 횟수, 포함된 속성과 같은 핵심 파일 속성을 읽고 해석할 수 있도록 합니다. 이는 문서 중심적 워크플로우에서 거버넌스, 검색 가능성, 감사 및 콘텐츠 라이프사이클 제어에 중요합니다.
+
+
+
+자동화 파이프라인에 통합되면 DOC 메타데이터는 라우팅, 규정 준수 확인, 색인화 및 일괄 처리를 위한 신뢰할 수 있는 신호가 되어 확장 가능한 문서 작업, 일관된 분류 및 저장, 검색 및 보고 레이어와의 하향식 통합을 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **기존 문서 인벤토리**
+
+  DOC 아카이브에서 메타데이터를 추출하여 발견, 중복 제거 및 라이프사이클 계획을 위한 구조화된 색인을 작성합니다.
+
+
+
+* **규정 준수 타임스탬프 확인**
+
+  생성/수정 필드를 사용하여 보존 규칙을 확인하고 규정된 문서에서 이상을 감지합니다.
+
+
+
+* **문서 소유권 매핑**
+
+  작성자와 마지막 편집자 속성을 읽어 문서 소유권을 매핑하여 검토 할당 및 액세스 제어를 위한 기준을 마련합니다.
+
+
+
+* **검색을 위한 일괄 분류**
+
+  포함된 속성을 일관된 필터링 및 내부 검색 향상을 위한 정규화된 태그로 변환합니다.
+
+
+
+* **변경 추적 신호**
+
+  수정 관련 필드를 캡처하여 편집 및 승인 워크플로우에서 추적성을 지원합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **아카이브 적재 게이트**
+
+  작성자 필드 누락, 의심스러운 타임스탬프 또는 잘못된 메타데이터 패턴을 기반으로 DOC 파일을 자동으로 수락하거나 격리합니다.
+
+
+
+* **메타데이터에서 색인 동기화**
+
+  업로드 시 DOC 메타데이터를 추출하고 수동 카탈로그 없이도 결과를 최신 상태로 유지하기 위해 검색 색인에 밀어 넣습니다.
+
+
+
+* **정책 기반 라우팅 규칙**
+
+  메타데이터가 기밀 콘텐츠, 오래된 버전 또는 알 수 없는 소유권을 나타낼 때 DOC 파일을 특정 대기열로 라우팅합니다.
+
+
+
+* **예약된 메타데이터 감사**
+
+  메타데이터 이탈을 감지하고 운영팀을 위한 예외 보고서를 생성하는 매일 밤 스캔을 실행합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -104,7 +104,41 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Analizar las plantillas de **DOT** utilizando APIs de Python permite a las organizaciones extraer estructuras predefinidas, marcadores de posición y reglas de formato incrustadas en las plantillas de documentos. Esto es crucial para la estandarización y consistencia.
+
+El análisis automatizado de plantillas facilita la generación dinámica de documentos y garantiza la integridad estructural a gran escala.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+- **Análisis de Estructura de Plantillas**  
+  &nbsp; Identifica marcadores de posición y definiciones de diseño dentro de las plantillas.
+
+- **Generación de Documentos Estandarizados**  
+  &nbsp; Admite la creación basada en reglas de documentos consistentes.
+
+- **Cumplimiento y Aplicación de Normativas**  
+  &nbsp; Valida que los documentos generados sigan las plantillas aprobadas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+- **Ensamblaje Dinámico de Documentos**  
+  &nbsp; Utiliza plantillas analizadas para generar documentos de forma programática.
+
+- **Detección de Desviación de Plantillas**  
+  &nbsp; Marca automáticamente cambios no autorizados en las plantillas.
+
+- **Inyección Automatizada de Contenido**  
+  &nbsp; Rellena datos estructurados en secciones definidas por la plantilla.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

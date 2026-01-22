@@ -76,7 +76,75 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A **PPT** fájlok keresése Python API-k segítségével lehetővé teszi a régi bemutatódokumentumokhoz való hozzáférést, amelyek még mindig értékes üzleti, oktatási és stratégiai információkat tárolnak. Az automatizált keresés biztosítja, hogy az idősebb diavetítések továbbra is használhatók és keresésre alkalmasak legyenek nagy mennyiségben.
+
+
+
+A PPT keresés integrálásával automatizált rendszerekbe a szervezetek csökkentik a manuális erőfeszítéseket és feloldják az archivált prezentációs tartalmakból származó információkat.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Régi Dia Tartalom Keresése**  
+
+&nbsp; Kulcsszavak keresése régebbi PPT bemutatófájlokban.
+
+
+
+* **Archivált Prezentációk Visszakeresése**  
+
+&nbsp; Lehetővé teszi a történelmi diavetítések felfedezését.
+
+
+
+* **PPT Szövegkinyerés**  
+
+&nbsp; Diavetítés szövegének kinyerése indexeléshez és elemzéshez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Automatizált PPT Repository Pásztázás**  
+
+&nbsp; Python feladatok pásztázzák a PPT fájlokat keresésre alkalmas tartalomért.
+
+
+
+* **PPT Archívum Index Létrehozása**  
+
+&nbsp; A régi prezentációkat programozottan indexelik.
+
+
+
+* **PPT Tartalom Integráció**  
+
+&nbsp; Kinyert adatok táplálják a jelentéskészítési és elemzési folyamatokat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -72,7 +72,87 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Otočení PDF dokumentů programově je běžným požadavkem v moderních pracovních postupech zpracování dokumentů, zejména při práci se skenovanými soubory, stránkami s různou orientací nebo uživatelsky nahrávaným obsahem. Otočení PDF pomocí Python API umožňuje vývojářům a systémům spolehlivě opravit orientaci stránky bez manuálního zásahu, což zlepšuje čitelnost, konzistenci a přesnost zpracování.
+
+
+
+Využitím automatizace založené na Pythonu lze otočení PDF bezproblémově integrovat do větších toků, jako jsou například zpracování dokumentů, archivační systémy a platformy pro správu obsahu. To umožňuje škálovatelné, opakovatelné a bezchybné zpracování orientace dokumentu napříč velkým množstvím souborů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Oprava orientace skenovaných dokumentů**  
+
+&nbsp; Automaticky otočí nesprávně naskenované stránky PDF do správné orientace pro zlepšení čitelnosti a použitelnosti.
+
+
+
+* **Standardizace PDF z více zdrojů**  
+
+&nbsp; Zarovná orientaci stránky při kombinaci PDF z různých zdrojů, aby byla zajištěna konzistentní zkušenost s prohlížením.
+
+
+
+* **Předzpracování pro OCR a extrakci textu**  
+
+&nbsp; Zajišťuje, že jsou stránky správně orientovány před OCR, což zlepšuje přesnost rozpoznávání textu a kvalitu dat.
+
+
+
+* **Normalizace uživatelsky nahrávaných dokumentů**  
+
+&nbsp; Upraví otočení stránky pro nahrávané PDF, aby splňovaly platformové nebo standardy souladu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizované toky zpracování**  
+
+&nbsp; Otočení PDF se automaticky aplikuje během zpracování k normalizaci dokumentů před uložením nebo dalším zpracováním.
+
+
+
+* **Hromadné zpracování pracovních postupů**  
+
+&nbsp; Velké kolekce PDF jsou programově hromadně otočeny, což snižuje manuální úsilí a dobu zpracování.
+
+
+
+* **Automatizace předzpracování pro OCR**  
+
+&nbsp; Otočení je dynamicky aplikováno před úkoly OCR k zlepšení přesnosti rozpoznávání v automatizovaných systémech extrakce textu.
+
+
+
+* **Zpracování na požádání pomocí API**  
+
+&nbsp; Stránky PDF jsou otočeny v reálném čase prostřednictvím API jako součást dynamických služeb transformace dokumentů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

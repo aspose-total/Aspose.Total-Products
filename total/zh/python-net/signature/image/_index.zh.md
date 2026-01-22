@@ -71,7 +71,43 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用Python API对通用图像输入进行签名，提供了一种统一的方法，可以在不同图像来源之间应用批准标记和验证元数据。当管道从多个工具摄取图像并需要一致的治理时，这将非常有用。
+
+自动化图像签名会强制执行标准化的“批准工件”状态，确保下游系统只使用符合质量、政策或合规要求的资产。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+* **跨来源资产标准化**  
+  &nbsp; 对从不同工具和团队传入的图像应用一致的签名叠加。
+
+* **证据图像验证**  
+  &nbsp; 对用作证据的图像进行签名，以确认审核者身份和批准状态。
+
+* **批准资产分发控制**  
+  &nbsp; 在将图像包含在分发包之前标记图像为已批准。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **摄取时批准标记**  
+  &nbsp; 在验证规则和元数据检查完成后，在摄取期间对图像进行签名。
+
+* **政策检查点强制执行**  
+  &nbsp; 仅自动签署通过政策和安全规则的图像。
+
+* **存储库同步完成**  
+  &nbsp; 在同步到共享存储库之前对图像进行签名，以确保只传播经过验证的版本。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

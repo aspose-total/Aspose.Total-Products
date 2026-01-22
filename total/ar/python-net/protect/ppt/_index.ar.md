@@ -71,7 +71,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تمثل ملفات PPT تنسيقات PowerPoint القديمة التي لا تزال تستخدم في العديد من البيئات. يضمن حماية ملفات PPT بقاء العروض التقديمية القديمة آمنة ومتوافقة.
+
+
+
+تمكن واجهات برمجة التطبيقات في Python من حماية ملفات PPT تلقائيًا، مما يسمح بمواءمة المحتوى القديم مع معايير الأمان الحديثة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **حماية الشرائح القديمة**  
+
+&nbsp; تأمين ملفات PPT القديمة من التعديلات غير المصرح بها.
+
+
+
+* **الحفاظ على المحتوى التاريخي**  
+
+&nbsp; الحفاظ على سلامة العروض التقديمية المؤرشفة.
+
+
+
+* **إعادة توزيع محكوم به**  
+
+&nbsp; تقييد التحرير عند مشاركة مجموعات الشرائح القديمة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **حماية ملفات الإرث بالدُفعة**  
+
+&nbsp; تأمين مجموعات كبيرة من ملفات PPT تلقائيًا.
+
+
+
+* **أمان أثناء عمليات الهجرة**  
+
+&nbsp; تطبيق الحماية أثناء عمليات الانتقال من النظام القديم.
+
+
+
+* **تقييد الوصول التلقائي**  
+
+&nbsp; فرض قيود متسقة على ملفات PPT بشكل برمجي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

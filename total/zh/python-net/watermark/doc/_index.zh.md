@@ -79,7 +79,85 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG DOC TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API为**DOC**文件添加水印有助于通过在可编辑内容中清晰标记所有权、保密性或分发规则来保护传统的Word文档。
+
+自动化DOC文件水印可以提高文档治理的一致性，使组织能够在规模上执行视觉策略控制，即使针对较旧的文档格式也能实现。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **传统合同保密标记**  
+
+&nbsp; 在旧协议中添加“保密”标记，以减少未经授权的共享。
+
+
+
+* **审阅周期状态标签**  
+
+&nbsp; 将文档标记为“审阅中”，以防止草稿过早传阅。
+
+
+
+* **模板的内部政策执行**  
+
+&nbsp; 在传统模板上应用标准化水印，以符合治理要求。
+
+
+
+* **特定客户的分发通知**  
+
+&nbsp; 嵌入面向客户的通知，澄清允许的使用和重新分发限制。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **邮箱到存档文档盖章**  
+
+&nbsp; 在将DOC附件保存到存储库之前自动为其添加水印。
+
+
+
+* **用于传统文件的文件夹监视器**  
+
+&nbsp; 检测目录中的新DOC文件，并在没有手动步骤的情况下应用策略水印。
+
+
+
+* **基于元数据的水印文本**  
+
+&nbsp; 从文档标签（如部门、项目或敏感级别）生成水印内容。
+
+
+
+* **自动“草稿到最终版”转换**  
+
+&nbsp; 当在工作流系统中记录批准时，用最终标签替换草稿水印。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/cel
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A fusão de pastas de trabalho modernas do Excel usando APIs do Python é uma abordagem padrão para combinar conjuntos de dados estruturados, relatórios e modelos. XLSX é o formato de planilha mais amplamente utilizado em sistemas modernos.
+
+
+
+Essa capacidade se integra perfeitamente com plataformas de dados, permitindo a geração automatizada de planilhas e consolidação em escala.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Criação de Relatórios com Múltiplas Planilhas (XLSX)**  
+
+&nbsp; Mesclar arquivos XLSX em uma pasta de trabalho de relatórios abrangente.
+
+
+
+* **Unificação de Fontes de Dados (XLSX)**  
+
+&nbsp; Combinar conjuntos de dados XLSX de múltiplos sistemas.
+
+
+
+* **Montagem Colaborativa de Dados (XLSX)**  
+
+&nbsp; Mesclar arquivos XLSX contribuídos por múltiplos interessados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Geração Dinâmica de Planilhas (XLSX)**  
+
+&nbsp; Sistemas mesclam arquivos XLSX com base em condições de dados em tempo de execução.
+
+
+
+* **Integração de Pipeline ETL (XLSX)**  
+
+&nbsp; A mesclagem de XLSX é automatizada dentro de pipelines de ingestão de dados.
+
+
+
+* **Automação de Relatórios Escalável (XLSX)**  
+
+&nbsp; Relatórios XLSX de alto volume são mesclados programaticamente.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

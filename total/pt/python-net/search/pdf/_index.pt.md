@@ -77,7 +77,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/pdf
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Pesquisar documentos **PDF** usando APIs Python permite a descoberta confiável de informações armazenadas em um dos formatos mais amplamente utilizados para relatórios, contratos, manuais e registros oficiais. A pesquisa programática de PDF ajuda os sistemas modernos a localizar texto relevante e estrutura em coleções de documentos grandes sem leitura manual.
+
+
+
+Quando integrada a pipelines de automação, a pesquisa de PDF suporta indexação escalável, recuperação mais rápida e integração perfeita com fluxos de trabalho de análise, conformidade e gerenciamento de conhecimento.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Descoberta de Palavras-chave em PDF**  
+
+  &nbsp; Encontra termos e frases específicos em grandes conjuntos de documentos PDF.
+
+
+
+* **Recuperação de Seções de Relatórios**  
+
+  &nbsp; Localiza seções-chave como resumos, tabelas e descobertas dentro de PDFs.
+
+
+
+* **Pesquisa de Repositório de Documentos**  
+
+  &nbsp; Permite acesso pesquisável a PDFs armazenados em pastas e sistemas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Pipeline de Indexação Automatizada de PDF**  
+
+  &nbsp; Serviços Python extraem texto e atualizam índices de pesquisa de PDF em um cronograma.
+
+
+
+* **Automação de Revisão de Conformidade em PDF**  
+
+  &nbsp; Pesquisas programáticas detectam cláusulas necessárias e declarações ausentes em PDFs.
+
+
+
+* **Extração Dinâmica de Insights de PDF**  
+
+  &nbsp; Os resultados da pesquisa impulsionam resumos automatizados, alertas e fluxos de processamento downstream.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

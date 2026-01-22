@@ -85,7 +85,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Łączenie ogólnych formatów obrazów za pomocą interfejsów API w języku Python zapewnia ujednolicone podejście do obsługi różnorodnych zasobów wizualnych w ramach jednego procesu roboczego. Ta abstrakcja upraszcza przetwarzanie obrazów w różnych formatach.
+
+
+
+Automatyzacja umożliwia skalowalne, niezależne od formatu konsolidowanie obrazów dla nowoczesnych systemów.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Unifikacja Obrazów Wieloformatowych (OBRAZ)**  
+
+&nbsp; Łączenie różnych formatów obrazów w jedno wyjście.
+
+
+
+* **Agregacja Wizualna z Różnych Źródeł (OBRAZ)**  
+
+&nbsp; Łączenie obrazów z różnych narzędzi i platform.
+
+
+
+* **Harmonizacja Obrazów Przedsiębiorstwa (OBRAZ)**  
+
+&nbsp; Łączenie heterogenicznych obrazów w spójne wizualizacje.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Potoki Obrazów Niezależnych od Formatu (OBRAZ)**  
+
+&nbsp; Zautomatyzowane procesy łączą obrazy bez względu na format.
+
+
+
+* **Generowanie Spójnych Wizualizacji (OBRAZ)**  
+
+&nbsp; Systemy dynamicznie generują skonsolidowane obrazy.
+
+
+
+* **Skalowalna Orkiestracja Obrazów (OBRAZ)**  
+
+&nbsp; Programistyczne łączenie wspiera duże przepływy pracy z obrazami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -82,7 +82,73 @@ Para obter mais detalhes, consulte [Documentação do Produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A visualização de documentos TIFF com APIs Python suporta formatos de imagem de alta resolução e multi-página comumente usados em digitalização e arquivamento.
+
+Isso possibilita a inspeção precisa de documentos visuais detalhados.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Revisão de Documentos Digitalizados**  
+
+  Visualize páginas digitalizadas de alta qualidade.
+
+
+
+* **Inspeção de Imagens de Arquivo**  
+
+  Inspeccione arquivos de imagem de qualidade de preservação.
+
+
+
+* **Manipulação de Imagens Multi-Página**  
+
+  Navegue por documentos complexos baseados em imagens.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Verificação Automatizada de Digitalização**  
+
+  Fluxos de trabalho em Python exibem arquivos digitalizados para garantia de qualidade.
+
+
+
+* **Verificações de Integridade de Arquivo**  
+
+  Imagens armazenadas são renderizadas periodicamente para validação.
+
+
+
+* **Pipelines de Digitalização de Documentos**  
+
+  Visualizadores automatizados suportam processos de digitalização.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

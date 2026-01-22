@@ -79,7 +79,85 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'ajout de filigranes aux documents **Word** avec des API Python aide à protéger les fichiers texte professionnels en intégrant des étiquettes visibles pour la propriété, la confidentialité et les règles de distribution dans des documents souvent partagés et modifiés.
+
+L'automatisation permet une uniformité dans l'ajout de filigranes Word à travers les équipes et les bibliothèques de documents, réduisant les efforts manuels tout en renforçant la gouvernance et la clarté des processus.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Documents de politique confidentielle**  
+
+&nbsp; Ajoutez des marques de confidentialité pour réduire les transferts accidentels des directives internes.
+
+
+
+* **Gouvernance des brouillons pour les documents collaboratifs**  
+
+&nbsp; Apposez des étiquettes "BROUILLON" pour éviter que les versions obsolètes ne soient considérées comme finales.
+
+
+
+* **Attribution des livrables clients**  
+
+&nbsp; Apposez un filigrane sur les fichiers Word partagés pour clarifier la propriété et la réutilisation autorisée.
+
+
+
+* **Étiquetage de sortie de modèle contrôlé**  
+
+&nbsp; Assurez-vous que les documents Word générés automatiquement incluent des politiques de filigrane standard.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Automatisation de l'ajout de filigranes de modèle à document**  
+
+&nbsp; Appliquez des filigranes immédiatement après la génération de documents Word à partir de données structurées.
+
+
+
+* **Changement de filigrane basé sur l'état du processus**  
+
+&nbsp; Modifiez automatiquement le texte du filigrane lorsque les documents passent de l'état de brouillon à approuvé.
+
+
+
+* **Application des politiques de téléchargement du référentiel**  
+
+&nbsp; Apposez des filigranes sur les fichiers Word lors du téléchargement dans des dossiers réglementés ou des systèmes de gestion de cas.
+
+
+
+* **Filigranage spécifique au destinataire pour le partage**  
+
+&nbsp; Intégrez des identifiants de destinataire pour améliorer la traçabilité lorsque les documents sont partagés à l'externe.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

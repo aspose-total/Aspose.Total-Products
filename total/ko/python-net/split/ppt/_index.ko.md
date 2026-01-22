@@ -73,7 +73,75 @@ PPT 파일을 쉽게 분할하기 위해 Python 스크립트 또는 유틸리티
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPT는 여전히 오래된 시스템에서 사용되는 레거시 프레젠테이션 형식입니다. PPT 파일을 분할하면 현대 자동화 환경에서 계속 사용할 수 있습니다.
+
+
+
+파이썬 API를 사용하면 레거시 구조에도 프로그래밍 방식으로 PPT 파일을 처리할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **레거시 프레젠테이션 이관**  
+
+  &nbsp; 변환 또는 업그레이드를 위해 슬라이드 추출하기.
+
+
+
+* **선택적 콘텐츠 액세스**  
+
+  &nbsp; 전체 변환 없이 특정 슬라이드 작업하기.
+
+
+
+* **프레젠테이션 아카이브 관리**  
+
+  &nbsp; 색인을 위해 슬라이드를 개별적으로 저장하기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **레거시 형식 처리 파이프라인**  
+
+  &nbsp; 규모에 맞게 PPT 분할 자동화하기.
+
+
+
+* **변환을 위한 슬라이드 추출**  
+
+  &nbsp; 슬라이드를 현대적인 형식으로 변환하기.
+
+
+
+* **자동화된 프레젠테이션 감사**  
+
+  &nbsp; 프로그래밍 방식으로 슬라이드 콘텐츠 검토하기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

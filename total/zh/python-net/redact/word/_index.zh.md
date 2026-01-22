@@ -74,7 +74,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API对Word文件进行文档编辑，可以在统一的方法下跨多个文字处理格式进行安全处理。这确保了无论文档来源如何，数据保护都是一致的。
+
+
+
+通过自动化Word文档编辑，组织可以标准化隐私控制，同时提高效率和可扩展性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **企业文档管理**  
+
+  &nbsp; 在所有Word文档中应用一致的编辑策略。
+
+
+
+* **跨格式内容控制**  
+
+  &nbsp; 在混合Word文件环境中管理敏感数据。
+
+
+
+* **安全的知识共享**  
+
+  &nbsp; 在组织内部和外部安全地分发经过编辑的文档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **统一的编辑服务**  
+
+  &nbsp; 将编辑作为可重用的基于Python的服务公开。
+
+
+
+* **事件驱动处理**  
+
+  &nbsp; 当Word文件上传或修改时触发编辑。
+
+
+
+* **符合审计要求的工作流程**  
+
+  &nbsp; 记录和跟踪自动化编辑操作以符合合规要求。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

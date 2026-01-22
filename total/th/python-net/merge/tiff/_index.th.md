@@ -85,7 +85,77 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การผสานรูปภาพ TIFF โดยใช้ Python APIs สนับสนุนการทำงานกับรูปภาพที่มีความละเอียดสูงและหลายหน้า ซึ่งเป็นวิธีที่ใช้กันอย่างแพร่หลายในการพิมพ์ การภาพการแพทย์ และการสแกนเอกสาร
+
+
+
+การอัตโนมัติช่วยให้การจัดการกับชุดรูปภาพที่มีรายละเอียดสูงและมากมายได้อย่างเชื่อถือได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* **การประกอบสแกนหลายหน้า (TIFF)**  
+
+&nbsp; ผสานหน้า TIFF เข้าด้วยกันเป็นไฟล์หลายหน้าเดียว
+
+
+
+* **การประมวลผลภาพความละเอียดสูง (TIFF)**  
+
+&nbsp; รวมรูปภาพ TIFF เพื่อการวิเคราะห์อย่างละเอียด
+
+
+
+* **การรวบรวมรูปภาพพร้อมสำหรับการพิมพ์ (TIFF)**  
+
+&nbsp; รวบรวมไฟล์ TIFF สำหรับการทำงานในการพิมพ์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+
+
+* **กระบวนการสแกนอัตโนมัติ (TIFF)**  
+
+&nbsp; ระบบผสานไฟล์ TIFF ขณะนำเข้าสแกน
+
+
+
+* **การประมวลผลความละเอียดสูงเป็นชุด (TIFF)**  
+
+&nbsp; การผสาน TIFF ทำงานในงานที่กำหนดเวลา
+
+
+
+* **อัตโนมัติในการจัดการภาพขององค์กร (TIFF)**  
+
+&nbsp; กระบวนการอัตโนมัติจัดการชุดข้อมูล TIFF ขนาดใหญ่
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

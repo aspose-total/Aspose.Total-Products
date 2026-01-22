@@ -78,7 +78,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT הוא פורמט מסמך פתוח המיועד למסמכי טקסט מובנים. פיצול קבצי ODT מאפשר עיבוד ברמת קטעים וטיפול בתוכן מובנה.
+
+
+
+באמצעות ממשקי Python, פיצול ODT מתממש ומתאים לצרכי צינורות תיעוד אוטומטיים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **חילוץ תוכן מובנה**  
+
+&nbsp; חילוץ פרקים או קטעים באופן עצמאי.
+
+
+
+* **ארכיבה בפורמט פתוח**  
+
+&nbsp; שמירה וניהול של תוכן ברמה גרנולרית.
+
+
+
+* **עיבוד מסמכים שיתופי**  
+
+&nbsp; הפעלת זרימות עבודה פרוליות על קטעי מסמך.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **פיענוח קטעים מבוסס XML**  
+
+&nbsp; Python מזהה סימני מבנה לצורך פיצול.
+
+
+
+* **סיווג תוכן אוטומטי**  
+
+&nbsp; קטעים שנחלצים מסווגים באופן תכנותי.
+
+
+
+* **הפניית מסמך מונחית זרימת עבודה**  
+
+&nbsp; קטעים זורמים למערכות שונות באופן אוטומטי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

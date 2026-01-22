@@ -79,7 +79,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/sli
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A fusão de arquivos do PowerPoint com suporte a macros usando APIs do Python permite apresentações que contêm lógica incorporada, automação ou comportamentos interativos. Isso é comum em apresentações empresariais e operacionais.
+
+
+
+A automação garante que os slides com macros sejam mesclados de forma confiável sem quebrar a funcionalidade incorporada.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Montagem de Apresentação Baseada em Macros (PPTM)**  
+
+&nbsp; Mesclar arquivos PPTM contendo elementos automatizados ou interativos.
+
+
+
+* **Consolidação de Slides Operacionais (PPTM)**  
+
+&nbsp; Combinar apresentações com macros usadas em processos internos.
+
+
+
+* **Empacotamento de Decks Interativos (PPTM)**  
+
+&nbsp; Agregar arquivos PPTM em uma única apresentação executável.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Geração de Apresentação Baseada em Regras (PPTM)**  
+
+&nbsp; Sistemas mesclam arquivos PPTM com base em regras de automação.
+
+
+
+* **Preservação de Macros Controlada pelo Backend (PPTM)**  
+
+&nbsp; Pipelines automatizados mesclam arquivos PPTM mantendo a lógica.
+
+
+
+* **Automação de Apresentação de Conformidade (PPTM)**  
+
+&nbsp; A mesclagem de PPTM suporta saídas repetíveis e governadas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

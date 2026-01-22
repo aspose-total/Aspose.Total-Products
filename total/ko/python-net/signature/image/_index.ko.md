@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 일반 이미지 입력에 서명하는 것은 혼합 이미지 소스 전체에 승인 마크 및 유효성 메타데이터를 적용하는 통합 접근 방식을 제공합니다. 이는 파이프라인이 여러 도구에서 이미지를 수용하고 일관된 지배를 필요로 할 때 유용합니다.
+
+
+
+이미지 서명을 자동화하면 표준화된 "승인된 아티팩트" 상태가 강제되어 하류 시스템이 품질, 정책 또는 규정 요구 사항을 충족하는 자산만 사용하도록 보장합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **소스 간 자산 표준화**  
+
+&nbsp; 다양한 도구 및 팀에서 도착한 이미지에 일관된 서명 오버레이를 적용합니다.
+
+
+
+* **증거 이미지 유효성 검사**  
+
+&nbsp; 리뷰어 신원 및 승인 상태를 확인하기 위해 증거로 사용되는 이미지에 서명합니다.
+
+
+
+* **승인된 자산 배포 제어**  
+
+&nbsp; 배포 패키지에 포함되기 전에 이미지를 승인으로 표시합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **수용 시간 승인 표시**  
+
+&nbsp; 유효성 규칙 및 메타데이터 확인이 완료된 후 수용 중에 이미지에 서명합니다.
+
+
+
+* **정책 점검포인트 강제 적용**  
+
+&nbsp; 자동화된 정책 및 안전 규칙을 통과한 이미지에만 자동으로 서명합니다.
+
+
+
+* **저장소 동기화 완료**  
+
+&nbsp; 공유 저장소로 동기화하기 전에 이미지에 서명하여 확인된 버전만 전파되도록 합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

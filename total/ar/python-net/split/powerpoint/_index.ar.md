@@ -73,7 +73,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تخزن ملفات PowerPoint محتوى بصري مستند إلى الشرائح يستخدم في العروض التقديمية والتقارير. يمكن تقسيم ملفات PowerPoint للوصول الدقيق إلى الشرائح الفردية أو مجموعات الشرائح.
+
+
+
+الأتمتة المعتمدة على Python تسمح بتلاعب مقياسي بمحتوى العروض التقديمية في سياقات العمل الحديثة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **إعادة استخدام الشرائح عبر العروض التقديمية**  
+
+&nbsp; استخراج الشرائح لإعادة استخدامها في عروض جديدة.
+
+
+
+* **إدارة محتوى العروض التقديمية**  
+
+&nbsp; إدارة الشرائح بشكل مستقل بمقياس كبير.
+
+
+
+* **سير العمل للمراجعة والموافقة**  
+
+&nbsp; مشاركة الشرائح ذات الصلة فقط مع أصحاب المصلحة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **تقسيم الشرائح تلقائيًا**  
+
+&nbsp; تقسيم العروض إلى وحدات شرائح باستخدام نصوص Python.
+
+
+
+* **إنشاء عروض تقديمية ديناميكية**  
+
+&nbsp; تجميع الشرائح بناءً على قواعد معينة.
+
+
+
+* **أنظمة إصدار العروض التقديمية**  
+
+&nbsp; تتبع التغييرات على مستوى الشريحة تلقائيًا.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -133,7 +201,7 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

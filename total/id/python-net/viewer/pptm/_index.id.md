@@ -89,7 +89,73 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTM viewing dengan Python APIs memungkinkan inspeksi presentasi yang mengandung makro tanpa menjalankan kode yang disematkan.
+
+Ini memungkinkan tinjauan yang aman di lingkungan otomatis.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Tinjauan Slide yang Mengandung Makro**  
+
+&nbsp; Melihat konten presentasi secara aman.
+
+
+
+* **Inspeksi yang Sadar Risiko**  
+
+&nbsp; Memeriksa slide tanpa menjalankan makro.
+
+
+
+* **Dukungan Alur Kerja Persetujuan**  
+
+&nbsp; Meninjau presentasi sebelum digunakan secara terkendali.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Penerimaan Presentasi yang Aman**  
+
+&nbsp; Penampil Python merender file PPTM dengan aman.
+
+
+
+* **Pipa Tinjauan Kepatuhan**  
+
+&nbsp; Presentasi diperiksa secara otomatis.
+
+
+
+* **Validasi Pra-Penyebaran**  
+
+&nbsp; Penampilan mendukung proses persetujuan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

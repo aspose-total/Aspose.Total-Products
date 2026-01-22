@@ -90,7 +90,73 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Pemirsaan dokumen DOCM dengan Python APIs memungkinkan inspeksi aman terhadap dokumen yang mendukung makro tanpa menjalankan logika yang disematkan.
+
+Hal ini penting untuk lingkungan yang terkontrol di mana visibilitas diperlukan tanpa risiko keamanan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Pemeriksaan Dokumen yang Sadar Makro**  
+
+&nbsp; Melihat konten sambil menjaga makro tetap tidak aktif.
+
+
+
+* **Inspeksi yang Berorientasi pada Keamanan**  
+
+&nbsp; Memeriksa dokumen untuk struktur dan teks tanpa menjalankan eksekusi.
+
+
+
+* **Akses Dokumen yang Terkontrol**  
+
+&nbsp; Memungkinkan pemirsaan aman di sistem yang terbatas atau otomatis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pipa Masukan yang Aman**  
+
+&nbsp; Otomatisasi Python menampilkan konten DOCM tanpa memicu makro.
+
+
+
+* **Otomatisasi Pemeriksaan Kepatuhan**  
+
+&nbsp; Dokumen dilihat sebagai bagian dari pemeriksaan kebijakan otomatis.
+
+
+
+* **Alur Kerja Pra-Persetujuan**  
+
+&nbsp; Pratinjau otomatis mendukung persetujuan manusia dalam proses.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

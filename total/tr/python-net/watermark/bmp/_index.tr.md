@@ -73,7 +73,85 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri kullanarak **BMP** görüntülerine filigran eklemek, genellikle baskı iş akışlarında ve teknik varlıklarda kullanılan sıkıştırılmamış raster grafiklere görünür sahiplik, köken ve müdahaleyi önleme ekler.
+
+BMP dosyaları büyük ve kayıpsız olduğundan, Python tabanlı filigranlama, **yüksek sadakatli üstünlükler**, tekrarlanabilir renderleme kuralları ve görüntü kütüphanelerinde tutarlı yerleşim için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Mühendislik Varlık Sahiplik İşaretleri**  
+
+&nbsp; Teknik bitkilere bölüm veya proje işaretleri ekleyerek kazara yeniden kullanımı ve yanlış yönlendirmeyi azaltın.
+
+
+
+* **Baskıya Hazır Onay Damgası**  
+
+&nbsp; Onay incelemelerini etkileyebilecek sıkıştırma artefaktları olmadan "PROOF" veya "DRAFT" üstünlükleri uygulayın.
+
+
+
+* **Kaynak Kalitesinde Katalog Görüntü Markalama**  
+
+&nbsp; Orijinal piksel verilerini korurken tutarlı kimlik işaretlerini gömün ve aşağı akış dönüşümleri için.
+
+
+
+* **Kısıtlı Görseller İçin Uyumluluk Etiketleri**  
+
+&nbsp; Politika odaklı işlemleri desteklemek için erişim sınıflandırmalarıyla hassas grafiklere filigran ekleyin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Alım Borularında Toplu Filigranlama**  
+
+&nbsp; Yeni yüklenen BMP'ler otomatik olarak bir ortam deposuna girdiğinde damgalanır.
+
+
+
+* **Boyutlara Göre Kural Tabanlı Yerleştirme**  
+
+&nbsp; Görüntü çözünürlüğüne bağlı olarak filigran boyutunu ve kenar boşluklarını programlı olarak ayarlayın.
+
+
+
+* **Olay Tetiklemeli Onay Oluşturma**  
+
+&nbsp; Bir dosya durumu inceleme veya onay durumuna değiştiğinde filigranlı varyantlar oluşturun.
+
+
+
+* **Kontrol Toplamı + Filigran Çift İzleme**  
+
+&nbsp; Dosya karma ile filigranlamayı birleştirerek otomatik denetimlerde izlenebilirliği artırın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

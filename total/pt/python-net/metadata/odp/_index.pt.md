@@ -75,7 +75,93 @@ Para obter mais detalhes, consulte [Documentação do Produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A extração de metadados de documentos para arquivos **ODP** via APIs Python permite que sistemas leiam atributos de apresentação e propriedades incorporadas para decks de slides - apoiando governança, descoberta e gerenciamento do ciclo de vida sem abrir o arquivo em uma GUI. Isso é importante para equipes que gerenciam grandes volumes de apresentações de treinamento, vendas ou operacionais.
+
+
+
+Em fluxos de trabalho automatizados, os metadados ODP podem impulsionar a indexação, classificação e publicação controlada - tornando as bibliotecas de slides mais fáceis de manter, pesquisar e integrar em sistemas de distribuição de conteúdo.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Indexação da Biblioteca de Apresentações**
+
+  Extrair metadados ODP para construir catálogos pesquisáveis de decks de slides por autor, tópico e horário de atualização.
+
+
+
+* **Verificações de Atualização de Conteúdo de Treinamento**
+
+  Usar carimbos de data/hora modificados para identificar decks de slides desatualizados que requerem ciclos de atualização.
+
+
+
+* **Classificação por Departamento**
+
+  Normalizar propriedades de metadados em categorias estruturadas para organização consistente e controles de acesso.
+
+
+
+* **Relatórios de Governança de Ativos**
+
+  Agregar metadados ODP para medir prontidão de uso, lacunas de cobertura e propriedade de manutenção.
+
+
+
+* **Preparação para Migração em Massa**
+
+  Auditar propriedades ODP antes da migração para novos ambientes de armazenamento ou publicação.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Ingestão Automatizada de Decks de Slides**
+
+  Ao fazer upload, extrair metadados ODP e atribuir o deck à seção correta do repositório automaticamente.
+
+
+
+* **Automação de Alerta de Obsolescência**
+
+  Disparar alertas quando os decks ODP excedem os limites de atualização ou faltam campos de propriedade de propriedade responsável.
+
+
+
+* **Regras de Publicação Baseadas em Metadados**
+
+  Publicar ou restringir decks ODP com base em indicadores de metadados que apontam confidencialidade ou uso exclusivo interno.
+
+
+
+* **Trabalhos de Auditoria em Lote e Relatórios**
+
+  Executar trabalhos agendados que exportam resumos de metadados ODP para auditorias de governança e operacionais.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

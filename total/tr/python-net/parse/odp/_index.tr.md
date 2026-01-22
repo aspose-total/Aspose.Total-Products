@@ -100,7 +100,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'lerini kullanarak **ODP sunum dosyalarının** ayrıştırılması, açık sunum formatlarında saklanan slayt tabanlı içeriğe erişim sağlar. Bu, özel araçlara bağımlılık olmaksızın yapılandırılmış çıkarma işlemini destekler.
+
+
+
+Otomatik ODP ayrıştırma, açık ve genişletilebilir ekosistemlerde sunum verilerinin ölçeklenebilir işlenmesini sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Açık Sunum Analizi**  
+
+&nbsp; ODP dosyalarından slayt metni ve yapısını çıkarır.
+
+
+
+* **Sunum İçeriği İndeksleme**  
+
+&nbsp; Açık format slaytların aranabilir ve yeniden kullanılabilir hale getirilmesini sağlar.
+
+
+
+* **Raporlama için Veri Çıkarma**  
+
+&nbsp; Slayt içeriğini yapılandırılmış veri kümelerine dönüştürür.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik Slayt Alma**  
+
+&nbsp; ODP dosyalarını zamanlanmış iş akışlarının bir parçası olarak işler.
+
+
+
+* **İçerik Uyumluluk Kontrolleri**  
+
+&nbsp; Tanımlanan kurallara karşı slayt yapısını doğrular.
+
+
+
+* **Çapraz-Format Sunum Boruları**  
+
+&nbsp; ODP içeriğini diğer formatlara programlı olarak dönüştürür.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

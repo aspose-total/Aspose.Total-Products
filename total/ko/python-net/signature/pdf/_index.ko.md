@@ -73,7 +73,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용한 PDF 서명은 완료된 문서에 대한 강력한 무결성, 신뢰성 및 부인 방지 보증을 제공합니다. 이는 외부 공유 및 규제된 워크플로에 중요합니다.
+
+
+
+자동화된 PDF 서명은 프로세스가 완료되는 정확한 시점에 문서가 암호화되어 봉인됨을 보장합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **법적 문서 인증**  
+
+&nbsp; 진위를 보장하기 위해 PDF에 전자 서명을 남깁니다.
+
+
+
+* **송장 및 재무 승인**  
+
+&nbsp; 승인된 재무 문서에 서명을 적용합니다.
+
+
+
+* **컴플라이언스 문서 완료**  
+
+&nbsp; 감사 또는 보고서에 사용되는 PDF를 봉인합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **워크플로 종료 시 암호화 서명**  
+
+&nbsp; 프로세스가 완료되면 PDF에 서명됩니다.
+
+
+
+* **일정화된 일괄 서명**  
+
+&nbsp; 정의된 간격에서 여러 PDF에 서명합니다.
+
+
+
+* **안전한 배포 준비**  
+
+&nbsp; 외부 전달 전에 서명이 이루어집니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

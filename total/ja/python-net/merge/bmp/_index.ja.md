@@ -85,7 +85,43 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+ビットマップ画像をPython APIを使用してマージすることで、生の非圧縮ビジュアルを単一の合成画像またはシーケンスに統合することができます。これは、技術画像、スキャンワークフロー、および画像の忠実度がファイルサイズよりも優先されるシステムで役立ちます。
+
+自動化されたBMPのマージは、精度、繰り返し可能性、およびシステム駆動の構成が必要な画像処理パイプラインをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+* **スキャン画像のコンパイル（BMP）**
+  &nbsp; 複数のBMPスキャンを単一の合成画像にマージします。
+
+* **技術図解の組み立て（BMP）**
+  &nbsp; ビットマップ図解を統一されたビジュアルに組み合わせます。
+
+* **生画像のアーカイブ（BMP）**
+  &nbsp; 長期保存や処理のためにBMPファイルを集約します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動スキャン処理（BMP）**
+  &nbsp; システムは取り込みワークフロー中にBMP画像をマージします。
+
+* **バッチ画像構成（BMP）**
+  &nbsp; スケジュールされたジョブがビットマップ画像をプログラムでマージします。
+
+* **精密画像パイプライン（BMP）**
+  &nbsp; BMPのマージは制御された処理システムに組み込まれています。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,85 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Words for Python via .
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chèn dấu nước vào tài liệu **ODT** bằng Python APIs giúp bảo vệ các tệp văn bản mở bằng cách thêm dấu sở hữu rõ ràng và dấu mật khẩu trong khi vẫn giữ nội dung có thể truy cập trong các hệ sinh thái mở.
+
+Tự động hóa cho phép áp dụng quy tắc dấu nước nhất quán trên các thư viện ODT, hỗ trợ quản lý tài liệu có khả năng mở rộng cho các nhóm sử dụng định dạng mở.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Đánh Dấu Chính Sách Định Dạng Mở**  
+
+&nbsp; Đóng dấu tài liệu ODT với "NỘI BỘ" hoặc "MẬT" để giảm thiểu việc định tuyến sai.
+
+
+
+* **Kiểm Soát Bản Nháp cho Việc Soạn Thảo Cộng Tác**  
+
+&nbsp; Áp dụng lớp phủ "NHÁP" trong quá trình chỉnh sửa lặp đi lặp lại.
+
+
+
+* **Thông Báo Phân Phối cho Tài Liệu Chia Sẻ**  
+
+&nbsp; Thêm hạn chế tái sử dụng vào tài liệu được chia sẻ với các nhà thầu hoặc đối tác.
+
+
+
+* **Bảo Tồn Danh Tính Lưu Trữ**  
+
+&nbsp; Đóng dấu các tệp ODT xuất khẩu để sở hữu có thể nhìn thấy ngay cả sau khi sao chép giữa các hệ thống.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Máy Tạo Tài Liệu + Bước Đóng Dấu**  
+
+&nbsp; Tự động đóng dấu các tệp ODT được tạo ra từ các mẫu hoặc dữ liệu có cấu trúc.
+
+
+
+* **Thực Thi Chính Sách Kho Lưu Trữ**  
+
+&nbsp; Áp dụng dấu nước khi các tệp ODT được tải lên trong các thư mục được quy định.
+
+
+
+* **Chuyển Đổi Dấu Nước Phiên Bản Tự Động**  
+
+&nbsp; Thay đổi văn bản dấu nước dựa trên trạng thái phiên bản (nháp, xem xét, cuối cùng) theo cách tự động.
+
+
+
+* **Luồng Xuất Theo Chuẩn Tuân Thủ**  
+
+&nbsp; Đóng dấu các tệp ODT xuất khẩu được sử dụng cho kiểm toán để đảm bảo nhãn nhận nhãn nhất quán trên các bản nộp.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

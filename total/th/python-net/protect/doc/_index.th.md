@@ -76,7 +76,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การป้องกันเอกสาร Word ในรูปแบบไฟล์ DOC เป็นสิ่งจำเป็นสำหรับการป้องกันไฟล์ที่เก่าแก่ที่ยังคงใช้งานในกระบวนการธุรกิจและการทำงานทางสารบัญ. การใช้งานการป้องกันเอกสารช่วยให้ข้อความที่มีความลับ, แบบฟอร์ม, และทรัพย์สินทางปัญญาปลอดภัยแม้ว่าจะถูกแชร์ในทีมหรือระบบต่าง ๆ.
+
+
+
+โดยใช้ Python APIs, ไฟล์ DOC สามารถถูกป้องกันโดยโปรแกรมด้วยรหัสผ่านและการควบคุมสิทธิ์, เพื่อให้สามารถปฏิบัติในการบังคับนโยบายด้านความปลอดภัยในเอกสารขนาดใหญ่และท่องเส้นทางเก่า.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **ความปลอดภัยของเอกสารเก่า**  
+
+&nbsp; ใช้การป้องกันกับเอกสาร Word เก่าเพื่อป้องกันการแก้ไขหรือคัดลอกโดยไม่ได้รับอนุญาต.
+
+
+
+* **ความเป็นไปตามข้อบังคับสำหรับไฟล์ที่ถูกเก็บถาวร**  
+
+&nbsp; ให้แน่ใจว่าไฟล์ DOC ทางประวัติตรงตามความปลอดภัยและข้อบังคับทางกฎหมายในปัจจุบัน.
+
+
+
+* **การแบ่งปันเอกสารที่มีการควบคุม**  
+
+&nbsp; จำกัดสิทธิ์ในการแก้ไขเมื่อกระจายเอกสาร DOC ภายในหรือภายนอก.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การป้องกันเป็นกลุ่มของเอกสารเก่า**  
+
+&nbsp; ป้องกันอัตโนมัติพันธุ์พันไฟล์ DOC ในระหว่างกระบวนการเก็บถาวรหรือการย้าย.
+
+
+
+* **การควบคุมการเข้าถึงตามนโยบาย**  
+
+&nbsp; บังคับกฎระเบียบการป้องกันมาตรฐานในไฟล์ DOC ในขั้นตอนการนำเข้าเข้าสู่ระบบ.
+
+
+
+* **การแจกจ่ายที่ปลอดภัยโดยอัตโนมัติ**  
+
+&nbsp; ป้องกันเอกสาร DOC อย่างไดนามิกก่อนส่งผ่านกระบวนการทำงานอัตโนมัติ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

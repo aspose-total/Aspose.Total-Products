@@ -77,7 +77,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri kullanarak PPTX dosyaları için belge düzenleme, modern sunum içeriği üzerinde hassas kontrol sağlar, güvenli işbirliği ve dağıtımı olanaklı kılar. Bu, hassas slayt verilerini korumak için kritiktir.
+
+
+
+Otomasyon, PPTX düzenlemesinin tutarlı, denetlenebilir ve modern içerik iş akışlarına kolayca entegre edilebilir olduğunu sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* **Gizli Veri Koruma**  
+
+  Redact sensitive figures and text from presentation slides.
+
+
+
+* **Çoklu Hedef Kitle Dağıtımı**  
+
+  Create redacted versions tailored to different stakeholders.
+
+
+
+* **Sunum Yaşam Döngüsü Yönetimi**  
+
+  Ensure all shared PPTX files meet privacy standards.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Slayt Nesne Düzeyinde Redaksiyon**  
+
+  Programmatically remove sensitive text boxes or shapes.
+
+
+
+* **Sürekli Güncelleme İşleme**  
+
+  Reapply redaction automatically when slides change.
+
+
+
+* **İş Akışı Entegrasyonu**  
+
+  Embed redaction into CI/CD-style content pipelines.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

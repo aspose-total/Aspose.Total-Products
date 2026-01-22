@@ -76,7 +76,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri kullanarak **PPT** dosyalarını aramak, hala değerli iş, eğitim ve stratejik bilgileri depolayan eski sunum belgelerine erişim sağlar. Otomatik arama, eski slayt dosyalarının kullanılabilir ve ölçekte aranabilir kalmasını sağlar.
+
+
+
+PPT aramasını otomatik sistemlere entegre ederek, kuruluşlar manuel çabayı azaltır ve arşivlenmiş sunum içeriğinden bilgileri ortaya çıkarır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Eski Slayt İçeriği Arama**  
+
+&nbsp; Eski PPT sunum dosyaları içinde anahtar kelimeleri bulur.
+
+
+
+* **Arşivlenmiş Sunumların Geri Alınması**  
+
+&nbsp; Tarihsel slayt dosyalarının keşfedilmesini sağlar.
+
+
+
+* **PPT Metin Çıkarma**  
+
+&nbsp; İndeksleme ve analiz için slayt metnini çeker.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik PPT Deposu Taraması**  
+
+&nbsp; Python işleri PPT dosyalarını arayarak içerikleri bulur.
+
+
+
+* **PPT Arşiv İndeksi Oluşturma**  
+
+&nbsp; Eski sunumlar programatik olarak endekslenir.
+
+
+
+* **PPT İçeriği Entegrasyonu**  
+
+&nbsp; Çıkarılan veriler raporlama ve analitik iş akışlarına beslenir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

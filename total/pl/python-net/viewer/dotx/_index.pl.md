@@ -90,7 +90,73 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Przeglądanie plików DOTX za pomocą interfejsów API w języku Python zapewnia strukturalny dostęp do nowoczesnych szablonów Word bez wykonywania makr.
+
+To wspiera skalowalne, oparte na szablonach systemy dokumentów.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Inspekcja nowoczesnych szablonów**  
+
+&nbsp; Przeglądaj strukturalne układy i predefiniowane style.
+
+
+
+* **Walidacja spójności marki**  
+
+&nbsp; Upewnij się, że szablony są zgodne z normami formatowania.
+
+
+
+* **Sprawdzenia gotowości do automatyzacji**  
+
+&nbsp; Potwierdź, że szablony są odpowiednie do automatycznego użycia.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Potoki wdrożeń szablonów**  
+
+&nbsp; Pliki DOTX są renderowane automatycznie przed wdrożeniem.
+
+
+
+* **Audyty automatycznego formatowania**  
+
+&nbsp; Skrypty Pythona sprawdzają szablony pod kątem zgodności.
+
+
+
+* **Walidacja generowania treści**  
+
+&nbsp; Przeglądanie zapewnia, że szablony działają zgodnie z oczekiwaniami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

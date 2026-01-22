@@ -76,7 +76,75 @@ ODP 検索可能なソフトウェアまたはユーティリティを開発す�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用して**ODP**ファイルを検索すると、共同作業やオープンソース環境で一般的に使用される構造化されたプレゼンテーション文書へのアクセスが可能になります。プログラムによる検索により、スライドのテキスト、タイトル、およびメタデータを手動で確認することなく抽出できます。
+
+
+
+自動化されたODP文書の検索により、発見性が向上し、スケーラブルなコンテンツ管理をサポートし、現代のデータ処理およびワークフロー自動化システムとシームレスに統合されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **ODPスライドテキスト検索**  
+
+&nbsp; オープンフォーマットのプレゼンテーションスライド全体でキーワードやフレーズを検出します。
+
+
+
+* **オープンプレゼンテーションコンテンツレビュー**  
+
+&nbsp; 共有されたスライドデッキを迅速に検査できます。
+
+
+
+* **ODPメタデータの発見**  
+
+&nbsp; 分類や索引付けのためにドキュメントのプロパティを抽出します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **自動化されたODPインデックス作成**  
+
+&nbsp; Pythonサービスが継続的にODPファイルをインデックス化して検索アクセスを可能にします。
+
+
+
+* **ODPコンテンツモニタリング**  
+
+&nbsp; プログラムによるスキャンにより、プレゼンテーションの変更や更新を検出します。
+
+
+
+* **ODPワークフロー統合**  
+
+&nbsp; 抽出されたコンテンツが自動的に公開やレビューパイプラインにフィードされます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

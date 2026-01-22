@@ -71,7 +71,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La firma di immagini generiche con API Python fornisce un approccio unificato per applicare marchi di approvazione e metadati di convalida su fonti di immagini miste. Questo è utile quando i flussi di lavoro ricevono immagini da strumenti multipli e necessitano di una governance coerente.
+
+
+
+Quando automatizzata, la firma delle immagini impone uno stato standardizzato di "artefatto approvato", garantendo che i sistemi downstream consumino solo risorse che soddisfano i requisiti di qualità, politica o conformità.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Chiave" %}}
+
+
+
+* **Standardizzazione degli Asset da Fonti Diverse**  
+
+&nbsp; Applica un overlay di firma coerente alle immagini provenienti da strumenti e team vari.
+
+
+
+* **Convalida dell'Immagine di Prova**  
+
+&nbsp; Firma le immagini utilizzate come prova per confermare l'identità del revisore e lo stato di approvazione.
+
+
+
+* **Controllo della Distribuzione degli Asset Approvati**  
+
+&nbsp; Contrassegna le immagini come approvate prima che siano incluse nei pacchetti di distribuzione.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Marchiatura dell'Approvazione al Momento dell'Ingestione**  
+
+&nbsp; Firma le immagini durante l'ingestione dopo il completamento delle regole di convalida e dei controlli dei metadati.
+
+
+
+* **Applicazione del Controllo delle Politiche**  
+
+&nbsp; Firma automaticamente solo le immagini che superano le regole di politica e sicurezza automatizzate.
+
+
+
+* **Finalizzazione della Sincronizzazione del Repository**  
+
+&nbsp; Firma le immagini prima della sincronizzazione nei repository condivisi per garantire che si propaghino solo le versioni verificate.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

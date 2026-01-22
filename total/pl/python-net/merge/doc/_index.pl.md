@@ -78,7 +78,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Łączenie dokumentów za pomocą interfejsów API w języku Python to podstawowa zdolność nowoczesnej obróbki treści, raportowania i zarządzania cyklem życia dokumentów. Umożliwia programistom i systemom połączenie wielu plików w jeden strukturalny wynik, zachowując formatowanie, układ i logiczny przepływ między heterogenicznymi źródłami dokumentów.
+
+
+
+Automatyzując łączenie dokumentów, organizacje mogą zmniejszyć nakład pracy manualnej, zapewnić spójność i zintegrować przepływy dokumentów bezpośrednio w potoki danych, usługi backendowe i skalowalne systemy automatyzacji zbudowane w języku Python.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Skonsolidowane raporty Word (DOC)**  
+
+&nbsp; Łączenie dziedzicznych dokumentów Word w jeden raport do jednolitej recenzji i archiwizacji.
+
+
+
+* **Montaż dokumentów wsadowych (DOC)**  
+
+&nbsp; Składanie wielu plików DOC wygenerowanych przez różne systemy w jeden dokument do dostarczenia.
+
+
+
+* **Agregacja treści historycznych (DOC)**  
+
+&nbsp; Łączenie zarchiwizowanych plików DOC w celu zmodernizowania i ponownego wykorzystania starszych kolekcji treści.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Kompilacja raportów z harmonogramem (DOC)**  
+
+&nbsp; Zadania automatyczne łączą codzienne lub tygodniowe pliki DOC w jeden raport do dystrybucji.
+
+
+
+* **Łączenie dokumentów oparte na przepływie pracy (DOC)**  
+
+&nbsp; Przepływy pracy backendowe dynamicznie łączą pliki DOC po zakończeniu etapów procesu.
+
+
+
+* **Generowanie wyników sterowane potokiem (DOC)**  
+
+&nbsp; Łączenie plików DOC jest uruchamiane programowo jako część większego potoku dokumentów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

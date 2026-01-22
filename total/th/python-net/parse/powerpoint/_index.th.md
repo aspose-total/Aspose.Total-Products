@@ -100,7 +100,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การวิเคราะห์ **งานนำเสนอ PowerPoint** โดยใช้ Python APIs ช่วยให้สามารถสกัดเนื้อหาของสไลด์อย่างมีโครงสร้าง เช่น หัวข้อ ข้อความหัวข้อย่อย รูปแบบ และข้อความของผู้พูดจากไฟล์งานนำเสนอ ซึ่งทำให้ข้อมูลที่อยู่บนงานนำเสนอสามารถเข้าถึงได้สำหรับการวิเคราะห์ การนำไปใช้ใหม่ และการรวมระบบ
+
+
+
+เมื่อเชื่อมต่อกับกระบวนการทำงานอัตโนมัติ การวิเคราะห์ PowerPoint จะเปลี่ยนสไลด์ที่เป็นสถานะคงที่เป็นแหล่งข้อมูลที่เปลี่ยนได้ที่รองรับกระบวนการประมวลผลความรู้ขนาดใหญ่ รายงาน และการดำเนินการเนื้อหา
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **การสกัดเนื้อหาของสไลด์**  
+
+&nbsp; ดึงข้อความโครงสร้างและองค์ประกอบเค้าโครงจากสไลด์ PowerPoint
+
+
+
+* **การประมวลผลความรู้ในงานนำเสนอ**  
+
+&nbsp; แปลงสไลด์เป็นสินทรัพย์ข้อมูลที่สามารถค้นหาและวิเคราะห์ได้
+
+
+
+* **การนำเนื้อหาไปใช้ใหม่และแปลง**  
+
+&nbsp; ทำให้เนื้อหางานนำเสนอสามารถนำไปใช้ใหม่ในเอกสารและแพลตฟอร์มต่าง ๆ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+
+
+* **การนำเข้างานนำเสนอโดยอัตโนมัติ**  
+
+&nbsp; ประมวลผลไฟล์ PowerPoint โดยอัตโนมัติเป็นส่วนหนึ่งของกระบวนการนำเข้า
+
+
+
+* **สรุปเนื้อหาของสไลด์ระดับสไลด์**  
+
+&nbsp; สร้างสรุปและเอาออกเนื้อหาโครงสร้างจากข้อมูลสไลด์ที่ถูกวิเคราะห์
+
+
+
+* **การกระจายเนื้อหาโปรแกรมเมอร์**  
+
+&nbsp; ส่งเนื้อหางานนำเสนอที่ถูกสกัดออกไปยังระบบล่างและกระบวนการทำงาน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,85 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Wasserzeichen **DOC** Dateien mit Python APIs schützt Legacy Word-Dokumente, indem sie Eigentum, Vertraulichkeit oder Verteilungsregeln innerhalb des bearbeitbaren Inhalts deutlich kennzeichnen.
+
+Die Automatisierung von DOC-Wasserzeichen verbessert die Konsistenz in der Dokumentenverwaltung und ermöglicht es Organisationen, visuelle Richtliniensteuerungen auch für ältere Dokumentenformate im großen Maßstab durchzusetzen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Vertraulichkeitsstempel für Legacy-Verträge**  
+
+&nbsp; Fügen Sie älteren Vereinbarungen "VERTRAULICH"-Markierungen hinzu, um unbefugtes Teilen zu reduzieren.
+
+
+
+* **Statuskennzeichnungen für Überprüfungszyklen**  
+
+&nbsp; Kennzeichnen Sie Dokumente als "IN ÜBERPRÜFUNG", um eine vorzeitige Zirkulation von Entwürfen zu verhindern.
+
+
+
+* **Interne Richtliniendurchsetzung für Vorlagen**  
+
+&nbsp; Wenden Sie standardisierte Wasserzeichen auf Legacy-Vorlagen an, um sie mit der Verwaltung abzustimmen.
+
+
+
+* **Kundenbezogene Verteilungshinweise**  
+
+&nbsp; Fügen Sie kundenorientierte Hinweise ein, die die erlaubte Nutzung und die Grenzen der Weiterverteilung klären.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Stempelung von Dokumenten von Mailbox zu Archiv**  
+
+&nbsp; Wasserzeichen für DOC-Anhänge automatisch hinzufügen, bevor sie in einem Repository gespeichert werden.
+
+
+
+* **Ordnerüberwachung für Legacy-Dateien**  
+
+&nbsp; Erkennen Sie neue DOC-Dateien in einem Verzeichnis und wenden Sie Richtlinienwasserzeichen ohne manuelle Schritte an.
+
+
+
+* **Metadatenbasierte Wasserzeichentexte**  
+
+&nbsp; Generieren Sie Wasserzeicheninhalte aus Dokumententags wie Abteilung, Projekt oder Sensibilitätsstufe.
+
+
+
+* **Automatischer Übergang von "Entwurf zu Endfassung"**  
+
+&nbsp; Ersetzen Sie Entwurfs-Wasserzeichen durch Endetiketten, wenn Genehmigungen in einem Workflowsystem erfasst werden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

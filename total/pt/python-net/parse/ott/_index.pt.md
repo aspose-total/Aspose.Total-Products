@@ -104,7 +104,75 @@ Para obter mais detalhes, consulte [Documentação do produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Análise de **documentos OTT** usando APIs Python permite extração estruturada de modelos de texto aberto projetados para criação consistente de documentos. Arquivos OTT são comumente usados em ambientes de padrões abertos para definir layouts reutilizáveis, estilos e espaços reservados.
+
+
+
+Ao integrar a análise de OTT em sistemas automatizados, organizações podem gerar, validar e gerenciar documentos em escala, mantendo estrita conformidade com modelos padronizados e formatos abertos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Extração da Estrutura do Modelo**  
+
+&nbsp; Identifica seções predefinidas, estilos e espaços reservados dentro de modelos OTT.
+
+
+
+* **Criação de Documentos Padronizados**  
+
+&nbsp; Suporta geração consistente de documentos com base em modelos abertos aprovados.
+
+
+
+* **Governança de Formato Aberto**  
+
+&nbsp; Garante que os documentos estejam em conformidade com os padrões organizacionais sem bloqueio proprietário.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Geração Dinâmica de Documentos**  
+
+&nbsp; Preenche automaticamente modelos OTT com dados estruturados.
+
+
+
+* **Validação de Conformidade do Modelo**  
+
+&nbsp; Detecta desvios das estruturas de modelo aprovadas.
+
+
+
+* **Pipelines de Documentos Abertos Escaláveis**  
+
+&nbsp; Possibilita a produção de documentos em grande volume usando padrões abertos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

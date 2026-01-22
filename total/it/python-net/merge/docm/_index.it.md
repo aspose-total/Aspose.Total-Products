@@ -78,7 +78,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusione di documenti Word abilitati alle macro utilizzando le API di Python consente una composizione strutturata dei documenti mantenendo la logica incorporata e i comportamenti avanzati dei documenti. Questo è essenziale per gli ambienti aziendali in cui i documenti includono automazione, moduli o campi calcolati.
+
+
+
+La fusione automatizzata dei file DOCM supporta flussi di lavoro documentali scalabili in cui i file contenenti logica vengono combinati in modo affidabile senza intervento manuale, garantendo continuità ed efficienza operative.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Assemblaggio di modelli basati su macro (DOCM)**  
+
+&nbsp; Unire più documenti abilitati alle macro in un unico documento eseguibile.
+
+
+
+* **Raggruppamento di documenti operativi (DOCM)**  
+
+&nbsp; Consolidare i file DOCM utilizzati nei vari dipartimenti in file operativi unificati.
+
+
+
+* **Consolidamento della documentazione di processo (DOCM)**  
+
+&nbsp; Combinare istruzioni e strumenti basati su DOCM in un unico documento controllato.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Generazione automatica di file di conformità (DOCM)**  
+
+&nbsp; I sistemi fondono automaticamente i file DOCM per produrre documenti pronti per la conformità.
+
+
+
+* **Composizione dinamica dei documenti basata su regole (DOCM)**  
+
+&nbsp; I file DOCM vengono uniti dinamicamente in base alle regole del flusso di lavoro.
+
+
+
+* **Preservazione automatica delle macro controllata dal backend (DOCM)**  
+
+&nbsp; I flussi di lavoro automatizzati uniscono i file DOCM preservando la logica incorporata.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

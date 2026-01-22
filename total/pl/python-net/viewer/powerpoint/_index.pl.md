@@ -89,7 +89,73 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Przeglądanie prezentacji PowerPoint za pomocą interfejsów API w języku Python umożliwia programowy dostęp do treści opartych na slajdach w celu ich przeglądu i walidacji.
+
+To wspiera automatyczne raportowanie, przepływy pracy prezentacji i potoki treści.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Przegląd Treści Slajdu**  
+
+&nbsp; Przeglądaj slajdy sekwencyjnie bez otwierania oprogramowania prezentacyjnego.
+
+
+
+* **Sprawdzanie Jakości Prezentacji**  
+
+&nbsp; Sprawdź układ i tekst we wszystkich prezentacjach.
+
+
+
+* **Wsparcie dla Automatyzacji Raportów**  
+
+&nbsp; Zweryfikuj wygenerowane prezentacje przed ich dystrybucją.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Automatyczna Recenzja Generacji Deeków**  
+
+&nbsp; Przepływy pracy w języku Python wyświetlają slajdy po automatycznej generacji.
+
+
+
+* **Audytowanie Prezentacji Partiami**  
+
+&nbsp; Wielokrotne prezentacje są recenzowane programowo.
+
+
+
+* **Usługi Podglądu dla Interesariuszy**  
+
+&nbsp; Slajdy są renderowane dynamicznie dla przepływów pracy z zatwierdzeniem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

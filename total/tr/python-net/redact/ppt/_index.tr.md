@@ -77,7 +77,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'ları kullanarak belgelerin PPT dosyaları için kırmızıaktarımı, eski sunum formatlarının güvenli işlenmesini destekler ve eski sistemlerde yaygın olarak kullanılan formatları korur. Bu, dosya yaşına bakılmaksızın hassas bilgilerin korunduğundan emin olur.
+
+
+
+Otomatik kırmızıaktarım, PPT dosyalarının manuel müdahale olmadan güvenli bir şekilde yeniden kullanılmasını, arşivlenmesini veya paylaşılmasını sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Eski Sunum Temizliği**  
+
+&nbsp; Eski PPT dosyalarından eski veya hassas verileri kaldırın.
+
+
+
+* **Arşiv Modernizasyonu**  
+
+&nbsp; Güvenli yeniden kullanım için tarihsel sunumları temizleyin.
+
+
+
+* **Kontrollü Bilgi Paylaşımı**  
+
+&nbsp; Kırmızıaktarılmış PPT dosyalarını sınırlı kitleler için hazırlayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Eski Format Boruları**  
+
+&nbsp; Yeni formatlarla birlikte PPT dosyalarını otomatik olarak işleyin.
+
+
+
+* **Desen Tabanlı Kırmızıaktarım**  
+
+&nbsp; Önceden tanımlanmış kuralları kullanarak hassas terimleri tespit edin ve kaldırın.
+
+
+
+* **Otomatik Arşiv İşleme**  
+
+&nbsp; Tüm sunum arşivlerini programatik olarak temizleyin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

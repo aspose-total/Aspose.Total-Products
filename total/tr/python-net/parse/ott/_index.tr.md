@@ -104,7 +104,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'ları kullanarak **OTT belgelerinin** ayrıştırılması, tutarlı belge oluşturulması için tasarlanmış açık metin şablonlarından yapısal çıkarma imkanı sağlar. OTT dosyaları, yeniden kullanılabilir düzenleri, stilleri ve yer tutucuları tanımlamak için açık standart ortamlarda yaygın olarak kullanılır.
+
+
+
+OTT ayrıştırmasını otomatik sistemlere entegre ederek, kuruluşlar standartlaştırılmış şablonlara ve açık formatlara sıkı bir şekilde bağlı kalarak belgeleri ölçeklenebilir bir şekilde üretebilir, doğrulayabilir ve yönetebilir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Şablon Yapısı Çıkarma**  
+
+&nbsp; OTT şablonları içinde önceden tanımlanmış bölümleri, stilleri ve yer tutucuları tanımlar.
+
+
+
+* **Standartlaştırılmış Belge Oluşturma**  
+
+&nbsp; Onaylanmış açık şablonlara dayalı belgelerin tutarlı bir şekilde oluşturulmasını destekler.
+
+
+
+* **Açık-Format Yönetişimi**  
+
+&nbsp; Belgelerin kuruluş standartlarına uygun olmasını, özel kilitlenmeye gerek kalmadan sağlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Dinamik Belge Oluşturma**  
+
+&nbsp; Yapısal verilerle OTT şablonlarını otomatik olarak doldurur.
+
+
+
+* **Şablon Uyumluluk Doğrulaması**  
+
+&nbsp; Onaylanmış şablon yapılarından sapmaları tespit eder.
+
+
+
+* **Ölçeklenebilir Açık-Belge Akışları**  
+
+&nbsp; Açık standartlar kullanarak yüksek hacimli belge üretimini sağlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

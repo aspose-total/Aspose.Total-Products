@@ -77,7 +77,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La ricerca di documenti **PDF** utilizzando le API di Python consente di scoprire in modo affidabile le informazioni memorizzate in uno dei formati più ampiamente utilizzati per report, contratti, manuali e registri ufficiali. La ricerca PDF programmatica aiuta i sistemi moderni a individuare testo rilevante e struttura in grandi raccolte di documenti senza lettura manuale.
+
+
+
+Quando integrata in pipeline di automazione, la ricerca PDF supporta l'indicizzazione scalabile, il recupero più veloce e l'integrazione senza soluzione di continuità con flussi di lavoro di analisi, conformità e gestione della conoscenza.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Scoperta delle parole chiave nei PDF**  
+
+&nbsp; Trova termini e frasi mirati in grandi set di documenti PDF.
+
+
+
+* **Recupero delle sezioni dei report**  
+
+&nbsp; Individua sezioni chiave come riassunti, tabelle e conclusioni all'interno dei PDF.
+
+
+
+* **Ricerca nel repository dei documenti**  
+
+&nbsp; Consente l'accesso ricercabile ai PDF memorizzati in cartelle e sistemi diversi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Pipeline di indicizzazione automatica dei PDF**  
+
+&nbsp; I servizi Python estraggono il testo e aggiornano gli indici di ricerca PDF secondo un programma.
+
+
+
+* **Automazione della revisione di conformità dei PDF**  
+
+&nbsp; Le ricerche programmatiche individuano clausole richieste e dichiarazioni mancanti nei PDF.
+
+
+
+* **Estrazione dinamica delle informazioni dai PDF**  
+
+&nbsp; I risultati della ricerca guidano riassunti automatici, avvisi e flussi di lavoro di elaborazione successiva.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -104,7 +104,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Разбор **шаблонов DOT** с использованием API Python позволяет организациям извлекать заранее определенные структуры, заполнители и правила форматирования, встроенные в документы-шаблоны. Это критично для стандартизации и согласованности.
+
+
+
+Автоматизированный разбор шаблонов, дружественный к автоматизации, позволяет создавать динамические системы генерации документов и обеспечивает структурную целостность в масштабе.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* **Анализ структуры шаблона**  
+
+&nbsp; Определяет заполнители и определения макета внутри шаблонов.
+
+
+
+* **Стандартизированная генерация документов**  
+
+&nbsp; Поддерживает создание согласованных документов на основе правил.
+
+
+
+* **Соблюдение нормативов и правил соответствия**  
+
+&nbsp; Проверяет, что созданные документы соответствуют утвержденным шаблонам.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Сборка документов динамическим образом**  
+
+&nbsp; Использует разобранные шаблоны для программной генерации документов.
+
+
+
+* **Обнаружение отклонений в шаблонах**  
+
+&nbsp; Автоматически выявляет несанкционированные изменения в шаблонах.
+
+
+
+* **Автоматизированная инъекция контента**  
+
+&nbsp; Заполняет структурированные данные в разделы, определенные в шаблоне.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

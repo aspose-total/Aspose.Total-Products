@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chèn dấu nước **ODS** vào bảng tính với Python APIs giúp cải thiện việc kiểm soát bảng tính tài liệu mở bằng cách thêm nhãn quản trị rõ ràng cho sở hữu, bảo mật và phân phối.
+
+Tự động chèn dấu nước vào ODS hỗ trợ quy trình làm báo cáo có thể mở rộng, đảm bảo các chỉ số chính sách nhất quán trên các bộ dữ liệu được chia sẻ dưới dạng tài liệu mở.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Đóng Dấu Bảng Dữ Liệu Nhạy Cảm**  
+
+  Mark tập tin ODS nhạy cảm để giảm nguy cơ chia sẻ bên ngoài một cách tình cờ.
+
+
+
+* **Nhãn Dữ Liệu Sơ Bộ**  
+
+  Áp dụng lớp phủ "CHƯA XÁC NHẬN" trong các chu kỳ xác nhận dữ liệu giai đoạn đầu.
+
+
+
+* **Thông Báo Sử Dụng Dữ Liệu Đối Tác**  
+
+  Thêm thông báo rõ ràng để làm sáng tỏ vấn đề cấp phép và hạn chế tái sử dụng.
+
+
+
+* **Hỗ Trợ Dấu Chân Kiểm Toán Nội Bộ**  
+
+  Đánh dấu xuất khẩu để làm cho rõ ràng hệ thống nào tạo ra một bộ dữ liệu cụ thể.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Đóng Dấu Xuất ETL**  
+
+  Đóng dấu tập tin ODS tự động khi được tạo ra từ các đường ống dữ liệu tự động.
+
+
+
+* **Văn Bản Đóng Dấu Dựa Trên Vai Trò**  
+
+  Tùy chỉnh nội dung dấu nước tùy thuộc vào nhóm nhận hoặc cấp độ truy cập.
+
+
+
+* **Kiểm Soát Phân Phối Báo Cáo Định Kỳ**  
+
+  Áp dụng dấu nước có dấu thời gian trước khi gửi báo cáo ODS định kỳ.
+
+
+
+* **Đánh Dấu Chính Sách Bảo Quản Tự Động**  
+
+  Thêm nhãn bảo quản hình ảnh để hỗ trợ tự động hóa vòng đời cho các bảng tính được lưu trữ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

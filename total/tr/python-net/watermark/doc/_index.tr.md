@@ -79,7 +79,85 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri kullanarak **DOC** dosyalarına filigran eklemek, düzenlenebilir içerik içinde sahiplik, gizlilik veya dağıtım kurallarını açıkça etiketleyerek eski Word belgelerini korumaya yardımcı olur.
+
+DOC filigranlama otomasyonu belge yönetiminde tutarlılığı artırır, organizasyonların ölçekte görsel politika kontrollerini hatta eski belge formatları için uygulamalarını sağlayarak uygulamalarını sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Eski Sözleşme Gizlilik Damgaları**  
+
+&nbsp; Yetkisiz paylaşımı azaltmak için eski anlaşmalara “GİZLİ” işaretleri ekleyin.
+
+
+
+* **İnceleme Döngü Durumu Etiketleri**  
+
+&nbsp; Taslakların erken dolaşıma girmesini önlemek için belgeleri “İNCELEMEDE” olarak işaretleyin.
+
+
+
+* **Şablonlar İçin İç Politika Uygulaması**  
+
+&nbsp; Yönetişimle uyumlu olacak şekilde eski şablonlar üzerine standartlaştırılmış filigranlar uygulayın.
+
+
+
+* **Müşteriye Özel Dağıtım Bildirimleri**  
+
+&nbsp; İzin verilen kullanımı ve yeniden dağıtım sınırlarını açıklayan müşteriye yönelik bildirimleri gömün.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Posta Kutusundan Arşive Belge Damgalama**  
+
+&nbsp; DOC eklerini otomatik olarak filigranlayarak bir depoya kaydetmeden önce.
+
+
+
+* **Eski Dosyalar İçin Klasör İzleyici**  
+
+&nbsp; Yeni DOC dosyalarını bir dizinde algılayın ve manuel adımlar olmadan politika filigranları uygulayın.
+
+
+
+* **Meta Veriye Dayalı Filigran Metni**  
+
+&nbsp; Departman, proje veya hassasiyet seviyesi gibi belge etiketlerinden filigran içeriği oluşturun.
+
+
+
+* **Otomatik “Taslaktan Nihaiye” Geçişi**  
+
+&nbsp; İş akışı sisteminde onaylar kaydedildiğinde taslak filigranlarını nihai etiketlerle değiştirin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

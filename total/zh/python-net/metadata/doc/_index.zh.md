@@ -98,7 +98,93 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+通过Python API提取**DOC**文件的文档元数据使系统能够读取和解释核心文件属性，如作者、创建时间、上次修改时间、修订次数和嵌入属性，而无需手动检查。这对于治理、可搜索性、审计以及跨文档工作流程中的内容生命周期控制至关重要。
+
+
+
+当集成到自动化流程中时，DOC元数据成为路由、合规性检查、索引和批处理的可靠信号，支持可扩展的文档操作、一致的分类以及与存储、搜索和报告层的下游集成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **传统文档清单**
+
+  从DOC存档中提取元数据，构建结构化索引以供发现、去重和生命周期规划。
+
+
+
+* **合规性时间戳验证**
+
+  使用创建/修改字段验证保留规则，并检测受监管文档中的异常。
+
+
+
+* **文档所有权映射**
+
+  读取作者和最后编辑者属性，为审查分配和访问控制映射文档所有权。
+
+
+
+* **批量分类以供搜索**
+
+  将嵌入属性转换为标准化标签，以进行一致的过滤和内部搜索增强。
+
+
+
+* **变更可追溯性信号**
+
+  捕获与修订相关的字段，支持编辑和批准工作流程中的可追溯性。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **存档摄入门**
+
+  基于缺少作者字段、可疑时间戳或无效元数据模式自动接受或隔离DOC文件。
+
+
+
+* **元数据到索引同步**
+
+  在上传时提取DOC元数据并将其推送到搜索索引，以便结果保持最新，无需手动编目。
+
+
+
+* **基于策略的路由规则**
+
+  当元数据指示机密内容、过时版本或未知所有权时，将DOC文件路由到特定队列。
+
+
+
+* **定时元数据审计**
+
+  运行每晚扫描，检测元数据漂移并为运营团队生成异常报告。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -85,7 +85,53 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การผสานรูปภาพ PNG โดยใช้ Python APIs ช่วยให้สามารถสร้างภาพโดยไม่สูญเสียคุณภาพพร้อมรองรับความโปร่งใส นี่เหมาะสำหรับสินทรัพย์ดีไซน์ องค์ประกอบ UI และภาพที่มีชั้น
+
+การอัตโนมัติช่วยให้การประกอบภาพสามารถทำได้อย่างสม่ำเสมอพร้อมรักษาความสมบูรณ์ของภาพ
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* **การประกอบสินทรัพย์โปร่งใส (PNG)**  
+  &nbsp; ผสานรูปภาพ PNG โดยรักษาช่องแอลฟา
+
+* **การประกอบองค์ประกอบ UI (PNG)**  
+  &nbsp; รวมกราฟิกอินเตอร์เฟซเป็นรูปภาพเดียว
+
+* **การรวมทรัพยากรดีไซน์ (PNG)**  
+  &nbsp; รวบรวมสินทรัพย์ PNG เพื่อใช้ซ้ำ
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **กระบวนการออกแบบอัตโนมัติ (PNG)**  
+  &nbsp; ระบบผสานสินทรัพย์ PNG ระหว่างกระบวนการสร้าง
+
+* **การสร้างภาพชั้น (PNG)**  
+  &nbsp; การผสาน PNG ถูกขับเคลื่อนด้วยกฎโปรแกรม
+
+* **การอัตโนมัติสำหรับการสร้างทรัพยากรภาพที่มีขนาดใหญ่ (PNG)**  
+  &nbsp; ท่องไปมาอัตโนมัติสร้างภาพ PNG ที่ผสานกัน
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

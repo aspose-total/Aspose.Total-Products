@@ -98,7 +98,93 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Extrakce metadat dokumentů pro soubory **RTF** pomocí Python API pomáhá systémům zachytit základní vlastnosti souboru a vložené popisy pro dokumenty ve formátu bohatého textu, které jsou často používány pro přenositelnost a kompatibilitu s dědictvím. To podporuje indexování, správu a sledování životního cyklu pro repozitáře obsahující různé typy dokumentů.
+
+
+
+V automatizovaných pracovních postupech mohou metadaty RTF řídit klasifikaci, směrování a synchronizaci katalogů - umožňující škálovatelné zpracování dokumentů orientovaných na dědictví nebo výměnu bez manuálního přezkumu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Indexování repozitáře s různými formáty**
+
+  Extrahovat metadaty RTF pro zlepšení objevitelnosti a sjednocení zpráv přes různé úložiště dokumentů.
+
+
+
+* **Správa obsahu dědictví**
+
+  Použít časové razítko a pole autorství k zavedení správy a obnovovacích cyklů pro starší dokumenty.
+
+
+
+* **Hromadná klasifikace pro operace**
+
+  Normalizovat dostupné vlastnosti RTF do strukturovaných značek pro směrování a řízení přístupu.
+
+
+
+* **Plánování migrace a konverze**
+
+  Auditovat metadaty RTF pro prioritizaci cílů konverze a identifikaci chybějících informací o vlastnictví.
+
+
+
+* **Kontrola kvality pro příjem**
+
+  Označit soubory RTF s neúplnými nebo nekonzistentními metadaty pro pracovní postupy opravy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* **Normalizace příjmu dědictví**
+
+  Automaticky extrahovat metadaty RTF a transformovat je do standardizovaných polí pro centrální registr dokumentů.
+
+
+
+* **Orchestrace fronty konverze**
+
+  Směrovat soubory RTF do konverzních linek na základě úplnosti metadat a prahů zastaralosti.
+
+
+
+* **Automatické přiřazení správy**
+
+  Vytvořit úkoly vlastnictví pro soubory RTF chybějící vlastnické vlastnosti, použitím kontextu adresáře a signálů metadat.
+
+
+
+* **Pravidelné zprávy o zdraví repozitáře**
+
+  Generovat plánované souhrny pokrytí metadat RTF, chybějících polí a stárnutí pro sledování správy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

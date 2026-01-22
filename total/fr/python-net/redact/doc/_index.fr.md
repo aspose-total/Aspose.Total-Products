@@ -74,7 +74,75 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La rédaction de documents à l'aide des API Python pour les fichiers DOC permet aux organisations de supprimer en toute sécurité des informations sensibles des documents de traitement de texte hérités encore largement utilisés dans les entreprises. Cette capacité est essentielle pour la conformité, la protection des données et le partage sécurisé de documents dans des environnements réglementés.
+
+
+
+En intégrant la rédaction basée sur Python dans des flux de travail automatisés, les fichiers DOC peuvent être traités à grande échelle, garantissant une application cohérente des règles de confidentialité des données tout en réduisant les efforts manuels et les erreurs humaines.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Conformité aux documents hérités**  
+
+&nbsp; Masquer les données confidentielles des anciens fichiers DOC pour répondre aux exigences réglementaires et d'audit.
+
+
+
+* **Partage interne sécurisé**  
+
+&nbsp; Supprimer les sections sensibles avant de distribuer des documents entre les départements ou les équipes.
+
+
+
+* **Assainissement des archives historiques**  
+
+&nbsp; Nettoyer les fichiers DOC archivés pour les rendre sûrs pour un stockage à long terme ou un accès public.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Pipelines de rédaction par lots**  
+
+&nbsp; Automatiser la rédaction de milliers de fichiers DOC en utilisant des tâches Python planifiées.
+
+
+
+* **Masquage de texte basé sur des règles**  
+
+&nbsp; Appliquer des modèles prédéfinis pour détecter et masquer automatiquement des termes sensibles.
+
+
+
+* **Automatisation de l'admission de documents**  
+
+&nbsp; Intégrer la rédaction dans les pipelines d'admission avant que les documents n'entrent dans les systèmes de stockage.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

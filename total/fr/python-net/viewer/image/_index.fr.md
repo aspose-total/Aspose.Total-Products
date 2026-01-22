@@ -82,7 +82,73 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'affichage des formats d'image génériques avec des API Python offre une approche unifiée pour inspecter les ressources visuelles à travers les flux de travail.
+
+Cela permet une manipulation cohérente des images indépendamment de leur source ou type.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Inspection d'image unifiée**  
+
+&nbsp; Visualisez divers fichiers image via une seule interface.
+
+
+
+* **Vérification des ressources visuelles**  
+
+&nbsp; Confirmez l'intégrité et l'apparence de l'image.
+
+
+
+* **Support de pipeline de contenu**  
+
+&nbsp; Inspectez les images pendant les étapes de traitement.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Pipelines d'image automatisés**  
+
+&nbsp; Les flux de travail Python affichent les images pendant le traitement par lots.
+
+
+
+* **Services de prévisualisation dynamique**  
+
+&nbsp; Les images sont rendues à la demande pour examen.
+
+
+
+* **Automatisation de l'assurance qualité**  
+
+&nbsp; La visualisation prend en charge les vérifications visuelles automatisées.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

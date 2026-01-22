@@ -90,7 +90,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η προβολή αρχείων RTF με τα APIs της Python επιτρέπει την επιθεώρηση εγγράφων rich-text που ισορροπούν μεταξύ μορφοποίησης και φορητότητας.
+
+Αυτό υποστηρίζει την αυτοματοποίηση σε ροές εργασίας με κείμενο που απαιτούν βασική διαμόρφωση.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* **Αναθεώρηση Διαμορφωμένου Κειμένου**  
+
+&nbsp; Προβολή διαμορφωμένου κειμένου χωρίς την πλήρη πολυπλοκότητα του εγγράφου.
+
+
+
+* **Επιθεώρηση Διαφόρων Εγγράφων**  
+
+&nbsp; Επιθεώρηση εγγράφων σε διάφορα συστήματα.
+
+
+
+* **Επικύρωση Περιεχομένου**  
+
+&nbsp; Βεβαιωθείτε για τη μορφοποίηση και την ακρίβεια του κειμένου.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* **Αυτοματοποιημένες Ροές Κειμένου**  
+
+&nbsp; Οι ροές εργασίας της Python αναπαριστούν αρχεία RTF κατά την επεξεργασία.
+
+
+
+* **Υπηρεσίες Προεπισκόπησης**  
+
+&nbsp; Τα έγγραφα εμφανίζονται δυναμικά για αναθεώρηση.
+
+
+
+* **Επικύρωση Μεταφοράς**  
+
+&nbsp; Η προβολή εξασφαλίζει την ασφαλή μετατροπή σε άλλες μορφές.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

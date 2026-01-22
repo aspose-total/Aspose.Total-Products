@@ -73,7 +73,85 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri kullanarak **TIFF** görüntülerine filigran eklemek, tarama, baskı ve arşivleme işlemlerinde yaygın olarak kullanılan dosyalara sahiplik ve kontrol etiketleri ekleyerek yüksek kaliteli görüntüleme iş akışlarını destekler.
+
+Özellikle büyük dosya boyutlarına ve yığınsal işlemlere sahip olan TIFF filigranlama için otomasyon, belge görüntüleme boru hatlarında tutarlı işlem olanağı sağlayarak özellikle değerlidir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Taranmış Belge Sahiplik İşaretleri**  
+
+&nbsp; Taranmış TIFF'lere filigran uygulayarak görüntü arşivlerinde kökeni korur.
+
+
+
+* **Baskı İş Akışı Kanıt Damgaları**  
+
+&nbsp; Kontrollü inceleme için baskı öncesi TIFF dosyalarına "KANIT" filigranları ekleyin.
+
+
+
+* *\{Imaging Repositories\}\ için Uyumluluk Etiketleri**  
+
+&nbsp; Kısıtlı görüntülere sınıflandırma metni ekleyerek işlem politikalarını destekleyin.
+
+
+
+* **Arşiv Dönüşüm İzlenebilirliği**  
+
+&nbsp; Kaynak kimliğini korumak için diğer formatlara dönüştürmeden önce TIFF'lere filigran ekleyin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Tarayıcı Çıkışı Otomatik Filigranlama**  
+
+&nbsp; İzlenen klasörler veya alım işleri kullanarak tarama sonrası hemen TIFF dosyalarına filigran uygulayın.
+
+
+
+* **Çok Sayfalı TIFF İşleme**  
+
+&nbsp; Çok sayfalı TIFF dosyalarındaki sayfalar arasında programlı olarak tutarlı filigranlar uygulayın.
+
+
+
+* **Çözünürlük Farkındalığına Sahip Filigran Ölçekleme**  
+
+&nbsp; DPI'ya bağlı olarak filigran boyutunu ayarlayarak tutarlı fiziksel baskı görünümünü koruyun.
+
+
+
+* **Otomatik Saklama ve Denetim İş Akışları**  
+
+&nbsp; Otomatik saklama etiketleme ve uyumluluk inceleme boru hatlarının bir parçası olarak görüntülere filigran ekleyin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

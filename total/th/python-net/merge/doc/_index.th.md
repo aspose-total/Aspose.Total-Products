@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การผสานเอกสารโดยใช้ Python APIs เป็นความสามารถที่สำคัญสำหรับการประมวลผลเนื้อหาร่วมสมัย รายงาน และการจัดการวงจรชีวิตของเอกสาร ซึ่งช่วยให้นักพัฒนาและระบบสามารถรวมไฟล์หลายๆ ไฟล์เข้าด้วยกันเป็นไฟล์เดียว โดยรังสร้างรูปแบบ รูปแบบการจัดวาง และการไหลตามตรรกะข้ามแหล่งที่มาของเอกสาร
+
+
+
+โดยการอัตโนมัติเอกสารผสาน องค์กรสามารถลดความพยายามในการทำด้วยมือ รักษาความสอดคล้อง และผสานไฟล์เอกสารลงในกระบวนการทำงานข้อมูล บริการด้านหลัง และระบบอัตโนมัติที่มีขนาดใหญ่ที่สร้างขึ้นบน Python
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **รายงานคำสั่งรวม (DOC)**  
+
+&nbsp; รวมเอกสาร Word เก่าเข้าด้วยกันเป็นรายงานเดียวสำหรับการทบทวนและเก็บถาวร
+
+
+
+* **การประกอบเอกสารเป็นชุด (DOC)**  
+
+&nbsp; ประกอบไฟล์ DOC หลายไฟล์ที่สร้างขึ้นโดยระบบต่างๆ เข้าด้วยกันเป็นไฟล์ที่สามารถส่งมอบได้
+
+
+
+* **การรวบรวมเนื้อหาประวัติ (DOC)**  
+
+&nbsp; ผสานไฟล์ DOC ที่ถูกเก็บถาวรเข้าด้วยกันเพื่อทำให้เนื้อหาเก่ากว่ามีลักษณะใหม่
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การรวบรวมรายงานตามกำหนดเวลา (DOC)**  
+
+&nbsp; งานอัตโนมัติผสานไฟล์ DOC รายวันหรือรายสัปดาห์เข้าด้วยกันเป็นรายงานเดียวที่สามารถแจกจ่ายได้
+
+
+
+* **การผสานเอกสารตามขั้นตอนการทำงาน (DOC)**  
+
+&nbsp; กระบวนการทำงานด้านหลังผสานไฟล์ DOC อย่างไดนามิกเมื่อขั้นตอนการทำงานเสร็จสิ้น
+
+
+
+* **การสร้างเอกสารเอาท์พุตโดยใช้ท่องไปร (DOC)**  
+
+&nbsp; การผสานไฟล์ DOC ถูกเรียกใช้โดยโปรแกรมเป็นส่วนหนึ่งของท่องไปรเอกสารที่ใหญ่ขึ้น
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

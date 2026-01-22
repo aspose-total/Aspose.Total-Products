@@ -78,7 +78,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/wor
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A fusão de documentos usando APIs do Python é uma capacidade fundamental para o processamento de conteúdo moderno, relatórios e gerenciamento do ciclo de vida de documentos. Isso permite que desenvolvedores e sistemas combinem vários arquivos em uma saída única e estruturada, preservando formatação, layout e fluxo lógico em fontes de documentos heterogêneas.
+
+
+
+Automatizando a fusão de documentos, as organizações podem reduzir o esforço manual, garantir consistência e integrar fluxos de trabalho de documentos diretamente em pipelines de dados, serviços back-end e sistemas de automação escaláveis construídos em Python.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Relatórios Consolidados do Word (DOC)**  
+
+&nbsp; Combine documentos legados do Word em um único relatório para revisão unificada e arquivamento.
+
+
+
+* **Montagem em Lote de Documentos (DOC)**  
+
+&nbsp; Monte vários arquivos DOC gerados por diferentes sistemas em um entregável.
+
+
+
+* **Agregação de Conteúdo Histórico (DOC)**  
+
+&nbsp; Junte arquivos DOC arquivados para modernizar e reutilizar coleções de conteúdo mais antigo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Compilação de Relatórios Agendada (DOC)**  
+
+&nbsp; Trabalhos automatizados mesclam arquivos DOC diária ou semanalmente em um relatório distribuível único.
+
+
+
+* **Costura de Documentos com Base em Fluxo de Trabalho (DOC)**  
+
+&nbsp; Fluxos de trabalho de back-end mesclam dinamicamente arquivos DOC quando as etapas do processo são concluídas.
+
+
+
+* **Geração de Saída Impulsionada por Pipeline (DOC)**  
+
+&nbsp; A fusão de DOC é acionada programaticamente como parte de um pipeline de documentos maior.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

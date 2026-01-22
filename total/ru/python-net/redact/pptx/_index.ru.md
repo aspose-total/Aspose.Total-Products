@@ -77,7 +77,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Составление документов с использованием Python API для файлов PPTX обеспечивает точный контроль над современным содержимым презентаций, обеспечивая безопасное сотрудничество и распространение. Это критически важно для защиты конфиденциальных данных слайдов.
+
+
+
+Автоматизация гарантирует, что редакция PPTX будет последовательной, проверяемой и легко интегрируемой в современные рабочие процессы контента.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Защита конфиденциальных данных**  
+
+&nbsp; Скрывайте конфиденциальные цифры и текст с презентационных слайдов.
+
+
+
+* **Распределение для различных аудиторий**  
+
+&nbsp; Создавайте скорректированные версии для разных заинтересованных сторон.
+
+
+
+* **Управление жизненным циклом презентации**  
+
+&nbsp; Гарантируйте, что все распространяемые файлы PPTX соответствуют стандартам конфиденциальности.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Скрытие объектов слайдов**  
+
+&nbsp; Программно удаляйте конфиденциальные текстовые блоки или формы.
+
+
+
+* **Обработка непрерывного обновления**  
+
+&nbsp; Автоматически повторно применяйте редакцию при изменении слайдов.
+
+
+
+* **Интеграция в рабочий процесс**  
+
+&nbsp; Встраивайте редакцию в конвейеры контента в стиле CI/CD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -128,7 +196,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

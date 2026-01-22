@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leriyle **Excel** elektronik tablolarına filigran eklemek, veri yoğun çalışma kitaplarına görünürlük kontrolleri ekleyerek, sahiplik, gizlilik ve amaçlanan kullanımı doğrudan elektronik tablo görünümleri içinde iletmeye yardımcı olur.
+
+Otomasyon, elektronik tablo filigranını güvenilir bir şekilde ölçeklendirmekte—zamanlanmış raporlama, çoklu ekip paylaşımı ve analitik sistemlerden kontrol edilen dışa aktarmalar için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Mali Rapor Gizlilik Üstünlükleri**  
+
+&nbsp; Bütçeler veya tahminler içeren elektronik tabloları işaretleme riskini azaltmak için.
+
+
+
+* **Paylaşılan Gösterge Tabloları için Dağıtım Sınırları**  
+
+&nbsp; Harici iletilmeyi engellemek için "YALNIZCA İÇ KULLANIM" etiketleri ekleyin.
+
+
+
+* **Veri Doğrulama için Taslak Göstergeleri**  
+
+&nbsp; Uyum veya onaylar tamamlanana kadar "ÖN BİLGİ" filigranları uygulayın.
+
+
+
+* **Ortak Veri Sahiplik Bildirimleri**  
+
+&nbsp; Veri kümelerinin izin verilen yeniden kullanımını açıklamak için paylaşılan çalışma kitaplarına sahiplik metni gömün.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Zamanlanmış Raporlama ve Otomatik Damgalama**  
+
+&nbsp; Raporlar her gece oluşturulur ve dağıtım listelerine gönderilmeden önce filigran eklenir.
+
+
+
+* **Elektronik Tablo Sınıflandırmasına Göre Filigran**  
+
+&nbsp; Hassasiyet etiketlerini kullanarak filigran metnini ve yerleşimini otomatik olarak seçin.
+
+
+
+* **Dışa Aktarma Boru Hattı Uygulaması**  
+
+&nbsp; BI veya ETL sistemlerinden dışa aktarım sırasında elektronik tablolara damga vurarak yönetimi sürdürün.
+
+
+
+* **Otomatik Bölgesel Uyumluluk Etiketleme**  
+
+&nbsp; Hedef ekip veya ülkeye bağlı olarak yargı alanına özgü bildirimler ekleyin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

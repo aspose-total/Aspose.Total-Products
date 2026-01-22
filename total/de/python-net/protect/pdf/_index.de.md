@@ -72,7 +72,75 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PDF ist das gängigste Format für endgültige und teilbare Dokumente. Der Schutz von PDFs ist entscheidend, um den Zugriff zu kontrollieren, das Kopieren zu verhindern und die Authentizität des Inhalts über digitale Vertriebskanäle sicherzustellen.
+
+
+
+Python-APIs ermöglichen es, den Schutz von PDFs zu automatisieren, indem Sicherheit direkt in die Dokumentenerstellung, Genehmigung und Bereitstellung integriert wird.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Sichere Dokumentenzustellung**  
+
+&nbsp; Schützen von PDFs, die an Kunden oder Stakeholder verteilt werden.
+
+
+
+* **Durchsetzung von Nur-Lese-Inhalten**  
+
+&nbsp; Bearbeiten oder Kopieren von finalen Dokumenten verhindern.
+
+
+
+* **Schutz vertraulicher Informationen**  
+
+&nbsp; Zugriff auf sensible Daten innerhalb von PDFs einschränken.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Automatisches Sperren von PDFs**  
+
+&nbsp; Schutz unmittelbar nach der PDF-Erstellung anwenden.
+
+
+
+* **Dynamische Passwortzuweisung**  
+
+&nbsp; Passwörter programmgesteuert pro Empfänger generieren und anwenden.
+
+
+
+* **Sicherheit auf Grundlage von Compliance-Anforderungen**  
+
+&nbsp; PDF-Schutz automatisch durchsetzen, um regulatorische Anforderungen zu erfüllen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

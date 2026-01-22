@@ -75,7 +75,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+מיזוג גיליונות נתונים של OpenDocument באמצעות APIs של פייתון תומך בתקנים פתוחים ובזריזות עבודת נתונים צולבת פלטפורמות. זה אידיאלי עבור סביבות שמתירות על כלים למשרד קוד פתוח.
+
+
+
+אוטומציה סביב מיזוג ODS מבטיחה אינטרופרביליות תוך שמירה על שלמות הנתונים המובנים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **איחוד גיליונות נתונים צולב פלטפורמות (ODS)**  
+
+&nbsp; למזג קבצי ODS שנוצרו בסוויטות משרד שונות.
+
+
+
+* **איגוד נתונים בתקן פתוח (ODS)**  
+
+&nbsp; לשלב גיליונות ODS לניתוח מאוחד.
+
+
+
+* **איחוד נתונים שיתופי (ODS)**  
+
+&nbsp; למזג קבצי ODS מתורמים מתפקידים מבוזרים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **אוטומציה של צינור נתונים פתוח (ODS)**  
+
+&nbsp; מערכות ממזגות קבצי ODS ללא תלות בפטנטים.
+
+
+
+* **איחוד גיליונות נתונים מתוזמן (ODS)**  
+
+&nbsp; מיזוג ODS רץ כחלק ממשימות רקורנטיות בצד השרת.
+
+
+
+* **צינורות דיווח אינטרופרביליים (ODS)**  
+
+&nbsp; קבצי ODS ממוזגים באופן דינמי בתהליכי נתונים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

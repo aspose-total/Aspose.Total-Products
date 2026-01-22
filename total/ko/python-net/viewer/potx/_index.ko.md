@@ -89,7 +89,73 @@ POTX 뷰어 앱이나 유틸리티를 개발해야 합니까?[Aspose.Total for P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+파이썬 API를 사용하여 POTX 파일을 볼 경우 자동 슬라이드 생성에 사용되는 현대적인 프레젠테이션 템플릿을 검사할 수 있습니다.
+
+이는 확장 가능하며 템플릿 중심의 프레젠테이션 워크플로우를 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **현대적인 템플릿 검사**
+
+  &nbsp; 슬라이드 마스터 및 레이아웃 보기.
+
+
+
+* **브랜딩 일관성 확인**
+
+  &nbsp; 템플릿이 프레젠테이션 표준을 준수하는지 확인.
+
+
+
+* **자동화 준비 검증**
+
+  &nbsp; 사용 전에 템플릿 검사.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **템플릿 배포 파이프라인**
+
+  &nbsp; 롤아웃 전에 POTX 파일이 렌더링됩니다.
+
+
+
+* **자동화된 프레젠테이션 시스템**
+
+  &nbsp; 템플릿이 올바르게 작동하는지 확인합니다.
+
+
+
+* **품질 보증 워크플로우**
+
+  &nbsp; 템플릿이 프로그래밍적으로 유효성이 검사됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

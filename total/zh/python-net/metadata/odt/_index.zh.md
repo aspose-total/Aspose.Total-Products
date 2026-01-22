@@ -98,7 +98,93 @@ otherformats: Word DOCX DOC DOCM DOTX DOT RTF ODT PDF Excel XLSX XLS XLSM XLSB O
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+通过Python API提取**ODT**文件的文档元数据，可编程访问文本文档属性，实现审计、分类和搜索增强，无需依赖手动检查。这对文档治理、知识管理和生命周期跟踪至关重要。
+
+
+
+在自动化系统中，ODT元数据可用于强制执行标准、路由批准并同步目录，支持跨大型存储库的可伸缩处理，保持一致的规则。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **知识库组织**
+
+  使用ODT元数据对内部文档进行分类和索引，以加快检索速度。
+
+
+
+* **所有权和管理控制**
+
+  提取作者和编辑字段以分配审阅者并保持问责制。
+
+
+
+* **保留和归档决策**
+
+  使用时间戳确定是否应将ODT文件归档、保留或更新。
+
+
+
+* **用于分析的元数据规范化**
+
+  将ODT属性转换为一致的字段，用于报告和趋势分析。
+
+
+
+* **预发布验证**
+
+  在将ODT文档转换为发布格式之前验证所需的描述字段。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **基于规则的摄取分类**
+
+  使用元数据存在、所有权和时间戳自动将ODT文档分类到工作流程中。
+
+
+
+* **目录同步工作流**
+
+  每晚提取ODT元数据并将其同步到内部搜索系统使用的集中注册表。
+
+
+
+* **自动化文档审查**
+
+  当元数据表明ODT文件在政策时间窗口内未更新时触发审查任务。
+
+
+
+* **元数据到访问策略映射**
+
+  当ODT元数据指示受限内容类别时动态应用访问规则。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

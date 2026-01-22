@@ -89,7 +89,73 @@ Para obter mais detalhes, consulte [Documentação do produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Visualizar arquivos PPT com APIs Python permite a inspeção de documentos de apresentação legados usados em sistemas mais antigos.
+
+Isso suporta a automação onde a compatibilidade com versões anteriores é necessária.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Revisão de Apresentações Legadas**  
+
+  Visualize decks de slides mais antigos de forma programática.
+
+
+
+* **Suporte à Migração de Conteúdo**  
+
+  Inspeccione apresentações antes de atualizar os formatos.
+
+
+
+* **Validação de Apresentações**  
+
+  Garanta que os dados dos slides permaneçam intactos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Pipelines de Auditoria Legados**  
+
+  Fluxos de trabalho em Python renderizam arquivos PPT para inspeção.
+
+
+
+* **Validação Pré-Conversão**  
+
+  A visualização garante uma migração segura de formato.
+
+
+
+* **Revisão em Lote de Apresentações**  
+
+  Grandes coleções são inspecionadas automaticamente.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

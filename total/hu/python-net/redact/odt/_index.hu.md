@@ -74,7 +74,75 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Dokumentum szerkesztése Python API-k segítségével ODT fájlokhoz lehetővé teszi az open document text fájlok biztonságos módosítását anélkül, hogy megváltoztatná azok alapstruktúráját. Ez támogatja az átlátható és szabványokon alapuló dokumentumfeldolgozást.
+
+
+
+Az ODT szerkesztés automatizálásával a szervezetek hatékonyan kezelhetik az érzékeny tartalmat az open-source és interoperábilis dokumentum-ökoszisztémákban.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* **Adatvédelmi Biztonságos Dokumentumcsere**  
+
+&nbsp; Redigálja a személyes adatokat, mielőtt ODT fájlokat osztana meg külső felekkel.
+
+
+
+* **Szabályvezérelt Tartalomeltávolítás**  
+
+&nbsp; Végrehajtja a redakciós szabályokat az szervezeti irányelvekkel összhangban.
+
+
+
+* **Nyílt Dokumentum Közzététele**  
+
+&nbsp; Készítsen szanitizált dokumentumokat nyilvános vagy többplatformos felhasználásra.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* **Metaadat és Szöveg Redakció**  
+
+&nbsp; Automatikusan távolítsa el az érzékeny tartalmat mind a szövegtestből, mind a metaadatokból.
+
+
+
+* **Tömeges Nyílt Formátumú Fájlkezelés**  
+
+&nbsp; Redigáljon nagy mennyiségű ODT fájlt egyetlen automatizált futtatás során.
+
+
+
+* **Integráció CMS Csővezetékekkel**  
+
+&nbsp; Alkalmazza a redakciót a dokumentumok közzététel vagy szindikáció előtt.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

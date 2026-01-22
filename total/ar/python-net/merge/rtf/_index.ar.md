@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+دمج مستندات تنسيق النص الغني باستخدام واجهات برمجة التطبيقات في Python يمكن أن يسمح بتجميع المستندات بوزن خفيف مع الحفاظ على التنسيق الأساسي والقابلية للقراءة. يُستخدم تنسيق RTF على نطاق واسع لتحقيق التوافق بين الأنظمة والمنصات المختلفة.
+
+
+
+يدعم الدمج التلقائي لملفات RTF معالجة سريعة للمستندات برمجيًا في البيئات التي تعتبر البساطة والتوافق أمورًا حيوية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تجميع المستندات بوزن خفيف (RTF)**  
+
+&nbsp; دمج ملفات RTF متعددة في مستند واحد قابل للقراءة.
+
+
+
+* **تبادل المحتوى بين الأنظمة المختلفة (RTF)**  
+
+&nbsp; دمج مستندات RTF المشتركة بين الأنظمة المتباينة.
+
+
+
+* **الحفاظ على التنسيق الأساسي (RTF)**  
+
+&nbsp; تجميع ملفات RTF مع الاحتفاظ بالتنسيق الأساسي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **أنابيب معالجة النصوص الخلفية (RTF)**  
+
+&nbsp; يتم دمج RTF تلقائيًا ضمن خدمات معالجة النصوص.
+
+
+
+* **معالجة مستندات بحجم كبير (RTF)**  
+
+&nbsp; تدمج الأنظمة أعدادًا كبيرة من ملفات RTF برمجيًا.
+
+
+
+* **التوجه نحو التوافق في التشغيل التلقائي (RTF)**  
+
+&nbsp; يتم دمج ملفات RTF تلقائيًا لتحقيق أقصى قدر من القابلية للنقل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

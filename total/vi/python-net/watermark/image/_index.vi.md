@@ -73,7 +73,85 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Imaging for Python via
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chèn dấu nước vào các tệp ảnh **IMAGE** (các đường ống thông thường) bằng Python APIs cung cấp một phương pháp nhất quán để đóng dấu quyền sở hữu và quy tắc sử dụng trên các loại ảnh khác nhau được xử lý bởi các hệ thống hiện đại.
+
+Một lớp tự động hóa thống nhất giúp đơn giản hóa việc đóng dấu nước trên các đầu vào không đồng nhất, cho phép xử lý chuẩn hóa, khả năng kiểm tra và quản lý phương tiện có khả năng mở rộng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Thương Hiệu Thống Nhất Trên Các Định Dạng Khác Nhau**  
+
+&nbsp; Áp dụng cùng một chính sách đóng dấu nước ngay cả khi các hình ảnh đầu vào khác nhau về loại và kích thước.
+
+
+
+* **Xuất Xứ Tài Sản cho Thư Viện Nội Dung**  
+
+&nbsp; Đánh dấu hình ảnh để giữ nguyên nguồn gốc sau khi sao chép, thay đổi kích thước hoặc đặt lại host.
+
+
+
+* **Đánh Dấu Hình Ảnh Nhạy Cảm**  
+
+&nbsp; Thêm nhãn rủi ro hoặc phân loại để hạn chế việc sử dụng sai mục đích của đồ họa nội bộ.
+
+
+
+* **Theo Dõi Phân Phối Đối Tác**  
+
+&nbsp; Đóng dấu các định danh duy nhất vào các hình ảnh chia sẻ để cải thiện khả năng truy vết.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Điểm Kết Nối API Đơn cho Tất Cả Các Đầu Vào Hình Ảnh**  
+
+&nbsp; Định tuyến các định dạng hình ảnh khác nhau thông qua một dịch vụ đóng dấu nước để có hành vi nhất quán.
+
+
+
+* **Tự Động Phát Hiện Hướng và Vùng An Toàn**  
+
+&nbsp; Đặt dấu nước theo cách tự động để tránh khuôn mặt, logo và các vùng nội dung chính.
+
+
+
+* **Xử Lý Đợt Dựa Trên Hàng Đợi**  
+
+&nbsp; Đóng dấu các bộ phương tiện lớn một cách không đồng bộ để duy trì khả năng phản hồi của quy trình làm việc.
+
+
+
+* **Cập Nhật Chính Sách Mà Không Cần Chỉnh Sửa Lại Tài Sản**  
+
+&nbsp; Tạo lại các biến thể đã được đóng dấu nước khi quy tắc đóng dấu nước thay đổi, mà không cần thiết kế thủ công.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

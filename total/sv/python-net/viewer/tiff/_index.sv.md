@@ -82,7 +82,73 @@ För mer information, se [Produktdokumentation](https://docs.aspose.com/imaging/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TIFF-dokumentvisning med Python API:er stöder högupplösta, flersidiga bildformat som vanligtvis används vid skanning och arkivering.
+
+Detta möjliggör noggrann inspektion av detaljerade visuella dokument.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsområden" %}}
+
+
+
+* **Granskning av skannade dokument**  
+
+&nbsp; Visa högkvalitativa skannade sidor.
+
+
+
+* **Inspektion av arkivbilder**  
+
+&nbsp; Inspektera bilder av bevarandekvalitet.
+
+
+
+* **Hantering av flersidiga bilder**  
+
+&nbsp; Navigera i komplexa bildbaserade dokument.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* **Automatisk skanningsverifiering**  
+
+&nbsp; Python-arbetsflöden visar skannade filer för kvalitetssäkring.
+
+
+
+* **Arkivets integritetskontroller**  
+
+&nbsp; Lagrade bilder renderas regelbundet för validering.
+
+
+
+* **Dokumentdigitaliseringspipeliner**  
+
+&nbsp; Automatiserade visare stödjer digitaliseringsprocesser.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

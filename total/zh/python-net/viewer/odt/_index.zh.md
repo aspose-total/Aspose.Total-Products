@@ -90,7 +90,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API查看ODT文件，可以检查在基于标准的工作流程中使用的开放文本文档。
+
+这支持在没有专有依赖的文档中心系统中进行自动化。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **开放文档审阅**  
+
+  查看开放格式的文本文档。
+
+
+
+* **内容完整性检查**  
+
+  检查文档结构和文本。
+
+
+
+* **跨系统兼容性**  
+
+  确保文档在不同环境中正确呈现。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化文档流水线**  
+
+  Python进程在工作流程中呈现ODT文件。
+
+
+
+* **合规验证**  
+
+  查看文档是否符合标准。
+
+
+
+* **预览生成**  
+
+  自动化查看器支持审阅工作流程。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

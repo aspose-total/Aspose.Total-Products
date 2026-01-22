@@ -78,7 +78,75 @@ Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het samenvoegen van macro-ingeschakelde Word-documenten met behulp van Python-API's maakt gestructureerde documentcompositie mogelijk met behoud van ingebedde logica en geavanceerde documentgedragingen. Dit is essentieel voor bedrijfsomgevingen waar documenten automatisering, formulieren of berekende velden bevatten.
+
+
+
+Geautomatiseerd samenvoegen van DOCM ondersteunt schaalbare documentworkflows waar logica-bevattende bestanden betrouwbaar worden gecombineerd zonder handmatige interventie, waardoor operationele continuïteit en efficiëntie worden gegarandeerd.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Sjabloonassemblage op basis van macro's (DOCM)**  
+
+&nbsp; Meerdere macro-ingeschakelde documenten samenvoegen tot één uitvoerbaar document.
+
+
+
+* **Operationele Documentbundeling (DOCM)**  
+
+&nbsp; DOCM-bestanden consolideren die in verschillende afdelingen worden gebruikt tot eenduidige operationele bestanden.
+
+
+
+* **Consolidatie van Procesdocumentatie (DOCM)**  
+
+&nbsp; DOCM-gebaseerde instructies en tools combineren tot één gecontroleerd document.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Automatische Generatie van Compliance-bestanden (DOCM)**  
+
+&nbsp; Systemen combineren DOCM-bestanden automatisch om compliance-klaar documenten te produceren.
+
+
+
+* **Regelgestuurde Documentcompositie (DOCM)**  
+
+&nbsp; DOCM-bestanden worden dynamisch samengevoegd op basis van workflowregels.
+
+
+
+* **Automatische Behoud van Macro's met Backend-besturing (DOCM)**  
+
+&nbsp; Geautomatiseerde pipelines combineren DOCM-bestanden terwijl ingebedde logica behouden blijft.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

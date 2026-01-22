@@ -78,7 +78,75 @@ Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het samenvoegen van Rich Text Format-documenten met behulp van Python API's maakt lichte documentconsolidatie mogelijk met behoud van basisopmaak en leesbaarheid. RTF wordt veel gebruikt voor interoperabiliteit tussen platforms en systemen.
+
+
+
+Geautomatiseerd samenvoegen van RTF ondersteunt snelle, programmatische verwerking van documenten in omgevingen waar eenvoud en compatibiliteit van cruciaal belang zijn.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Lichte Documentcompilatie (RTF)**  
+
+&nbsp; Voeg meerdere RTF-bestanden samen tot één leesbaar document.
+
+
+
+* **Uitwisseling van Inhoud tussen Systemen (RTF)**  
+
+&nbsp; Combineer RTF-documenten die worden gedeeld tussen heterogene systemen.
+
+
+
+* **Behoud van Eenvoudige Opmaak (RTF)**  
+
+&nbsp; Voeg RTF-bestanden samen met behoud van essentiële opmaak.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Achterliggende Tekstverwerkingspipelines (RTF)**  
+
+&nbsp; RTF-samenvoeging is geautomatiseerd binnen tekstverwerkingsdiensten.
+
+
+
+* **Verwerking van Grote Hoeveelheden Documenten (RTF)**  
+
+&nbsp; Systemen voegen grote aantallen RTF-bestanden programmatisch samen.
+
+
+
+* **Automatisering Gericht op Compatibiliteit (RTF)**  
+
+&nbsp; RTF-bestanden worden automatisch samengevoegd voor maximale draagbaarheid.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

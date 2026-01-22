@@ -73,7 +73,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Podpisování souborů PPT pomocí Python API podporuje zastaralé pracovní postupy prezentací, kde jsou stále vyžadovány starší formáty PowerPointu. Tím se přidávají ukazatele správy a schválení, aniž by bylo nutné okamžité aktualizace formátu.
+
+
+
+Automatizované podepisování PPT pomáhá týmům udržovat konzistentní kontrolu schválení napříč repozitáři prezentací s různými formáty.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Označení schválení starých balíčků**  
+
+&nbsp; Podepisujte PPT balíčky používané v archivovaných nebo starších dodávkových prostředích.
+
+
+
+* **Certifikace archivu školení**  
+
+&nbsp; Přidejte značky schválení k PPT školicím balíčkům uloženým dlouhodobě.
+
+
+
+* **Přiřazení vlastnictví prezentace**  
+
+&nbsp; Podepisujte PPT soubory, abyste jasně označili, kdo schválil distribuci.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Podepisování archivu při importu**  
+
+&nbsp; Automaticky podepisujte PPT soubory, když jsou přesunuty do archivního úložiště.
+
+
+
+* **Spouštění schvalovacího procesu starého pracovního postupu**  
+
+&nbsp; Podepisujte PPT dokumenty po dokončení procesů starých recenzí.
+
+
+
+* **Správa dávek v repozitáři**  
+
+&nbsp; Programově podepisujte velké sady PPT souborů pro standardizaci historických repozitářů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

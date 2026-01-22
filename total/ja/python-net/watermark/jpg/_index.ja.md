@@ -73,7 +73,85 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用して**JPG**ファイルに透かしを入れることで、一般的な画像ワークフローをサポートし、最もよく使用されるWeb画像形式に明確な所有権、証明ラベル、および配布規則を追加します。
+
+自動化されたJPG透かしは、多くのアセットにわたって一貫した配置と繰り返し可能なスタイリングが必要な高スループットパイプラインに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **画像ライブラリの大量ブランディング**
+
+  &nbsp; 多くのJPGアセットに透かしを入れて、チャネル間で一貫したアイデンティティを維持します。
+
+
+
+* **事前リリースコンテンツ保護**
+
+  &nbsp; 事故的な早期投稿を防ぐために「公開不可」のオーバーレイを追加します。
+
+
+
+* **セールスコラテラルプレビューマーキング**
+
+  &nbsp; 提案やピッチで使用されるJPGビジュアルにプレビューラベルを押します。
+
+
+
+* **アフィリエイト資産の帰属**
+
+  &nbsp; ソースの追跡を向上させるために、共有メディアに帰属透かしを埋め込みます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **フォルダベースの自動スタンピング**
+
+  &nbsp; ウォッチフォルダーで新しいJPGファイルを検出してすぐに透かしを入れます。
+
+
+
+* **応答性のある透かしのスケーリング**
+
+  &nbsp; 解像度とアスペクト比に基づいて透かしのサイズを自動的に調整します。
+
+
+
+* **多言語透かしの生成**
+
+  &nbsp; ターゲットオーディエンスや地域のルールに基づいてローカライズされた透かしテキストを生成します。
+
+
+
+* **重複排除されたバリアントの作成**
+
+  &nbsp; 自動化において指紋を追跡することで、すでに透かしが入っているJPGを再処理するのを避けます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

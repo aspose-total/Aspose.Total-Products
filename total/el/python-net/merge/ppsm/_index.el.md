@@ -79,7 +79,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η συγχώνευση παρουσιάσεων με δυνατότητα μακροενεργοποίησης χρησιμοποιώντας τα Python APIs υποστηρίζει την αυτοματοποιημένη, διαδραστική παράδοση παρουσιάσεων. Αυτές οι μορφές χρησιμοποιούνται συχνά σε ελεγχόμενα περιβάλλοντα.
+
+
+
+Η αυτοματοποίηση εξασφαλίζει ότι οι μακροενέργειες και οι συμπεριφορές της παρουσίασης διατηρούνται κατά τη συγχώνευση.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* **Συναρμολόγηση Διαδραστικής Παρουσίασης (PPSM)**  
+
+&nbsp; Συγχώνευση αρχείων παρουσιάσεων με δυνατότητα μακροενεργοποίησης.
+
+
+
+* **Αυτοματοποιημένη Παρουσίαση Δοκιμής (PPSM)**  
+
+&nbsp; Συνδυασμός αρχείων PPSM για αυτοματοποιημένες επιδείξεις.
+
+
+
+* **Ελεγχόμενα Decks Αναπαραγωγής (PPSM)**  
+
+&nbsp; Συγκέντρωση αρχείων PPSM για ελεγχόμενες παρουσιάσεις.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* **Δημιουργία Παρουσίασης με Κανόνες (PPSM)**  
+
+&nbsp; Συστήματα συγχωνεύουν αρχεία PPSM βάσει κανόνων λογικής.
+
+
+
+* **Διατήρηση Αυτοματοποίησης Πίσω Μέρους (PPSM)**  
+
+&nbsp; Η συγχώνευση PPSM διατηρεί τις διαδραστικές συμπεριφορές.
+
+
+
+* **Προγραμματισμένη Δημιουργία Δοκιμής (PPSM)**  
+
+&nbsp; Οι παρουσιάσεις συγχωνεύονται αυτόματα σύμφωνα με προγράμματα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

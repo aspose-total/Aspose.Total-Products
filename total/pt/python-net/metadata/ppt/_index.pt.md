@@ -75,7 +75,93 @@ Para obter mais detalhes, consulte [Documentação do Produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A extração de metadados de documentos para arquivos **PPT** via APIs Python permite o gerenciamento de ativos de apresentação legados lendo propriedades como autor, timestamps e campos descritivos. Isso suporta governança e descoberta para organizações que ainda mantêm bibliotecas de slides mais antigas.
+
+
+
+Em fluxos de trabalho automatizados, os metadados do PPT podem impulsionar a classificação, indexação e controles de ciclo de vida—permitindo que grandes coleções de apresentações legadas sejam organizadas, auditadas e migradas com esforço manual mínimo.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Auditoria de Biblioteca de Slides Legados**
+
+  Extrair metadados do PPT para entender a idade, propriedade e lacunas de manutenção em decks arquivados.
+
+
+
+* **Avaliação de Prontidão para Migração**
+
+  Usar metadados para priorizar quais decks de PPT devem ser convertidos ou atualizados primeiro.
+
+
+
+* **Roteamento de Manutenção com Base na Propriedade**
+
+  Identificar responsáveis pelos campos de autor/editor para encaminhar solicitações de atualização de forma eficiente.
+
+
+
+* **Análise do Portfólio de Conteúdo**
+
+  Agregar metadados do PPT para medir a cobertura da biblioteca, obsolescência e risco operacional.
+
+
+
+* **Detecção de Ativos Duplicados**
+
+  Usar padrões de metadados para detectar possíveis duplicatas e reduzir a bagunça na biblioteca.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Pipeline de Ingestão de Decks Legados**
+
+  Ingerir automaticamente arquivos PPT, extrair metadados e atribuí-los a um sistema de inventário com campos padronizados.
+
+
+
+* **Automação de Fila de Conversão**
+
+  Adicionar decks de PPT a filas de conversão com base na idade dos metadados e regras de classificação de uso.
+
+
+
+* **Fluxo de Trabalho de Notificação de Decks Obsoletos**
+
+  Disparar alertas quando os metadados do PPT indicarem longos períodos sem atualizações ou campos de propriedade ausentes.
+
+
+
+* **Trabalhos de Limpeza Automatizada da Biblioteca**
+
+  Escanear periodicamente repositórios de PPT e colocar em quarentena ativos identificados como duplicados ou não gerenciados com base nos metadados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

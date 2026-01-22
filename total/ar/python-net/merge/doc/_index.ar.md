@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+دمج المستندات باستخدام واجهات برمجة التطبيقات في Python هو قدرة أساسية لمعالجة المحتوى الحديثة وإعداد التقارير وإدارة دورة حياة المستندات. يتيح للمطورين والأنظمة دمج ملفات متعددة في مخرجات منظمة واحدة، مع الحفاظ على التنسيق والتخطيط والتدفق المنطقي عبر مصادر المستندات المتنوعة.
+
+
+
+من خلال أتمتة دمج المستندات، يمكن للمؤسسات تقليل الجهد اليدوي، وضمان الاتساق، ودمج سير العمل للمستندات مباشرة في خطوط البيانات، وخدمات الخلفية، وأنظمة الأتمتة القابلة للتوسع المبنية على Python.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تقارير Word موحدة (DOC)**  
+
+&nbsp; دمج مستندات Word التقليدية في تقرير واحد للمراجعة والأرشفة الموحدة.
+
+
+
+* **تجميع مستندات دفعة (DOC)**  
+
+&nbsp; تجميع ملفات DOC متعددة تم إنشاؤها بواسطة أنظمة مختلفة في تسليمة واحدة.
+
+
+
+* **تجميع محتوى تاريخي (DOC)**  
+
+&nbsp; دمج ملفات DOC المؤرشفة لتحديث وإعادة استخدام مجموعات المحتوى القديمة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **تجميع تقارير مجدول (DOC)**  
+
+&nbsp; تدمج الوظائف التلقائية ملفات DOC يوميًا أو أسبوعيًا في تقرير قابل للتوزيع واحد.
+
+
+
+* **دمج المستندات بناءً على سير العمل (DOC)**  
+
+&nbsp; تدمج سير العمل الخلفية ملفات DOC بشكل ديناميكي عند اكتمال مراحل العملية.
+
+
+
+* **توليد مخرجات مدفوعة بالأنابيب (DOC)**  
+
+&nbsp; يتم تشغيل دمج DOC بشكل برمجي كجزء من أنبوب مستند أكبر.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

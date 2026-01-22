@@ -76,7 +76,75 @@ Có các tùy chọn thay thế để cài đặt "Aspose.Words for Python via .
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Tìm kiếm tệp **ODT** bằng Python APIs đảm bảo tính tương thích với các tiêu chuẩn tài liệu mở trong khi cho phép khám phá nội dung hiệu quả. Các tài liệu ODT thường được sử dụng trong môi trường mã nguồn mở và cộng tác nơi tính di động và minh bạch là cần thiết.
+
+
+
+Tìm kiếm ODT tự động cải thiện tính tương thích, hỗ trợ phân tích tài liệu có thể mở rộng và tích hợp một cách sạch sẽ với các đường ống tự động hiện đại.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tìm Kiếm Tài Liệu Định Dạng Mở**  
+
+&nbsp; Định vị từ khóa trong các tài liệu dựa trên ODT.
+
+
+
+* **Đánh Giá Nội Dung Cộng Tác**  
+
+&nbsp; Cho phép tra cứu nhanh chóng trên các tài liệu mở chia sẻ.
+
+
+
+* **Phân Tích Chính Sách và Tài Liệu**  
+
+&nbsp; Xác định các phần cần thiết trong các tệp ODT.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Tạo Chỉ Mục ODT Tự Động**  
+
+&nbsp; Các kịch bản Python tạo chỉ mục có thể tìm kiếm từ các tệp ODT.
+
+
+
+* **Phát Hiện Thay Đổi ODT**  
+
+&nbsp; Quét theo cách tự động xác định nội dung được cập nhật hoặc sửa đổi.
+
+
+
+* **Các Đường Ống Nội Dung ODT**  
+
+&nbsp; Dữ liệu được trích xuất cung cấp cho các hệ thống xuất bản và đánh giá tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

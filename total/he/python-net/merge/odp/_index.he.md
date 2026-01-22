@@ -77,7 +77,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+מיזוג קבצי מצגת OpenDocument באמצעות Python APIs תומך בתקנים פתוחים ובזריזות עבודה חוצה פלטפורמות. זה אידיאלי עבור סביבות שמשתמשות בכלים למשרד קוד פתוח.
+
+
+
+אוטומציה מבטיחה בינה מלאכותית ועיבוד מצגות נפחי.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* **איחוד שקופיות חוצות פלטפורמות (ODP)**  
+
+&nbsp; מיזוג קבצי ODP שנוצרו בכלים שונים.
+
+
+
+* **אספקת מצגת תקנית (ODP)**  
+
+&nbsp; שלב קרוקי ODP למסירה אחידה.
+
+
+
+* **איחוד שקופיות שיתופי (ODP)**  
+
+&nbsp; מיזוג קבצי ODP מתורמים מופצים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **צינורות פתיחה למצגות (ODP)**  
+
+&nbsp; מערכות ממזגות קבצי ODP ללא תלות פרופריטרית.
+
+
+
+* **איחוד קרוקי מצגת מתוזמנים (ODP)**  
+
+&nbsp; מיזוג ODP רץ כחלק ממשימות צד שרת.
+
+
+
+* **אוטומציה שיתופית למצגות (ODP)**  
+
+&nbsp; קבצי ODP מתמזגים באופן דינמי בתהליכי עבודה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

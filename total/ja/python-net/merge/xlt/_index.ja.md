@@ -78,7 +78,69 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用してExcelテンプレート形式をマージすることで、生成されるスプレッドシート全体で一貫した構造とレイアウトが確保されます。テンプレートベースのマージは、標準化されたレポーティングやデータ入力ワークフローにとって重要です。
+
+
+
+自動化により、手動でのフォーマット設定なしで均一なスプレッドシートを迅速に生成できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+- **テンプレートベースのスプレッドシート組み立て（XLT）**  
+  XLTベースのファイルをマージして一貫したレイアウトを強制します。
+
+
+
+- **標準化されたデータ収集（XLT）**  
+  テンプレート駆動型のスプレッドシートを1つのファイルに結合します。
+
+
+
+- **再利用可能なスプレッドシート構造（XLT）**  
+  XLTドキュメントを集約して均一なデザインを維持します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+- **自動テンプレート適用（XLT）**  
+  XLTファイルは生成時に自動的にマージされます。
+
+
+
+- **バッチテンプレート処理（XLT）**  
+  スケジュールされたジョブが複数のXLTベースのスプレッドシートをマージします。
+
+
+
+- **レイアウト制御された自動化（XLT）**  
+  システムがXLTファイルをマージしてフォーマットの一貫性を保証します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

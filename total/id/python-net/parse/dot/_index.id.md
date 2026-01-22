@@ -104,7 +104,75 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Penguraian **templat DOT** menggunakan API Python memungkinkan organisasi untuk mengekstrak struktur yang telah ditentukan sebelumnya, placeholder, dan aturan formatting yang tertanam dalam templat dokumen. Hal ini penting untuk standarisasi dan konsistensi.
+
+
+
+Penguraian templat yang ramah otomatisasi memungkinkan sistem generasi dokumen dinamis dan menegakkan integritas struktural secara besar-besaran.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Analisis Struktur Templat**  
+
+&nbsp; Mengidentifikasi placeholder dan definisi tata letak dalam templat.
+
+
+
+* **Generasi Dokumen Terstandarisasi**  
+
+&nbsp; Mendukung pembuatan dokumen yang konsisten berdasarkan aturan.
+
+
+
+* **Penegakan Tata Kelola dan Kepatuhan**  
+
+&nbsp; Memvalidasi bahwa dokumen yang dihasilkan mengikuti templat yang disetujui.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Perakitan Dokumen Dinamis**  
+
+&nbsp; Menggunakan templat yang diurai untuk menghasilkan dokumen secara programatis.
+
+
+
+* **Deteksi Perubahan Templat yang Tidak Sah**  
+
+&nbsp; Secara otomatis menandai perubahan templat yang tidak diizinkan.
+
+
+
+* **Injeksi Konten Otomatis**  
+
+&nbsp; Mengisi data terstruktur ke dalam bagian yang ditentukan dalam templat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -82,7 +82,73 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TIFF dokumentum megtekintése Python API-k segítségével támogatja a nagy felbontású, többoldalas képformátumokat, amelyek gyakran használatosak szkenneléshez és archiváláshoz.
+
+Ez lehetővé teszi a részletes vizuális dokumentumok pontos ellenőrzését.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Szkennelt dokumentumok áttekintése**  
+
+&nbsp; Nagy minőségű szkennelt oldalak megtekintése.
+
+
+
+* **Archív képek ellenőrzése**  
+
+&nbsp; Ellenőrizze a megőrzési minőségű képfájlokat.
+
+
+
+* **Többoldalas képek kezelése**  
+
+&nbsp; Navigáljon bonyolult képalapú dokumentumokban.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Automatizált szkennelés ellenőrzése**  
+
+&nbsp; A Python munkafolyamatok megjelenítik a szkennelt fájlokat minőségbiztosítási célokra.
+
+
+
+* **Archív integritásellenőrzések**  
+
+&nbsp; A tárolt képeket időszakosan megjelenítik a validálás érdekében.
+
+
+
+* **Dokumentum digitalizálási csatornák**  
+
+&nbsp; Az automatizált nézők támogatják a digitalizálási folyamatokat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

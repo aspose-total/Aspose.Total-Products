@@ -76,7 +76,75 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT es un formato de texto de documento abierto ampliamente utilizado para informes y documentación. Proteger los archivos ODT es esencial para preservar la autenticidad del documento y prevenir cambios accidentales o maliciosos.
+
+
+
+La protección de documentos basada en Python permite que la seguridad de ODT se integre en flujos de trabajo automatizados de documentación y publicación con un mínimo sobrecarga.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* **Distribución segura de informes**  
+
+&nbsp; Proteger informes ODT finalizados antes de compartirlos.
+
+
+
+* **Integridad de la documentación**  
+
+&nbsp; Asegurar que los documentos oficiales permanezcan sin cambios después de la aprobación.
+
+
+
+* **Seguridad de documentos multiplataforma**  
+
+&nbsp; Aplicar protección independientemente del entorno de edición.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* **Tuberías de documentación automatizadas**  
+
+&nbsp; Proteger archivos ODT como parte de la generación continua de documentación.
+
+
+
+* **Seguridad de archivos basada en reglas**  
+
+&nbsp; Aplicar políticas de protección basadas en metadatos del documento.
+
+
+
+* **Fortalecimiento masivo de documentos**  
+
+&nbsp; Asegurar múltiples archivos ODT de forma programática en operaciones por lotes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

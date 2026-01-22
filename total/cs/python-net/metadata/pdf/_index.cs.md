@@ -97,7 +97,93 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Extrakce metadat dokumentů pro soubory **PDF** pomocí Python API pomáhá systémům zachytit základní vlastnosti - jako je název, autor, výrobce, data vytvoření a úpravy a vestavěné identifikátory - podporující správu a objevování, i když je obsah převážně ve fixním formátu. To je důležité pro auditovatelnost, katalogizaci a operační zpracování velkých repozitářů PDF.
+
+
+
+V automatizovaných potrubích mohou metadata PDF řídit indexování, směrování, vynucování retence a hromadné zpracování - což umožňuje integrovat PDF do škálovatelných pracovních postupů bez manuálního třídění.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití případy" %}}
+
+
+
+* **Katalogizace digitálního archivu**
+
+  Extrahujte metadata PDF k vytvoření spolehlivého inventáře dokumentů s vyhledávatelnými atributy.
+
+
+
+* **Dodržování předpisů a audit retence**
+
+  Použijte časové razítka vytvoření/úpravy k ověření časových limitů retence a detekci nesrovnalostí.
+
+
+
+* **Přiřazení výrobce a zdroje**
+
+  Zachyťte vlastnosti související s výrobcem k porozumění původu obsahu a zpracovatelské linii.
+
+
+
+* **Signály hromadné klasifikace**
+
+  Použijte metadata kategorizovat PDF do domén jako jsou politiky, faktury, manuály nebo zprávy.
+
+
+
+* **Operační kontrola kvality**
+
+  Označte PDF s chybějícími nebo podezřelými metadaty jako kandidáty na nápravu nebo manuální kontrolu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizované třídění příjmu**
+
+  Když dorazí PDF, extrahujte metadata a směrujte je do zpracovatelských drah na základě pravidel úplnosti a citlivosti.
+
+
+
+* **Aktualizace indexu řízená metadaty**
+
+  Automaticky aktualizujte vyhledávací index pokaždé, když je přidán nebo nahrazen PDF, použitím metadat pro rychlé získání.
+
+
+
+* **Pracovní postup vynucování retence**
+
+  Spusťte plánované úlohy, které identifikují PDF překračující limity retence a generují úkoly pro smazání nebo archivaci.
+
+
+
+* **Hromadné hlášení a dashboardy**
+
+  Sesbírejte extrahovaná metadata PDF do pravidelných zpráv pro správu, dodržování předpisů a operační dohled.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

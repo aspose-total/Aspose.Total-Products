@@ -100,7 +100,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API解析**ODP演示文件**可访问存储在开放演示格式中的基于幻灯片的内容。这支持结构化提取，无需依赖专有工具。
+
+
+
+自动化ODP解析实现对开放和可扩展生态系统中演示数据的可扩展处理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **开放演示分析**  
+
+&nbsp; 从ODP文件中提取幻灯片文本和结构。
+
+
+
+* **演示内容索引**  
+
+&nbsp; 使开放格式幻灯片可搜索和可重复使用。
+
+
+
+* **用于报告的数据提取**  
+
+&nbsp; 将幻灯片内容转换为结构化数据集。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动幻灯片摄入**  
+
+&nbsp; 将ODP文件作为计划工作流程的一部分进行处理。
+
+
+
+* **内容一致性检查**  
+
+&nbsp; 根据定义的规则验证幻灯片结构。
+
+
+
+* **跨格式演示管道**  
+
+&nbsp; 将ODP内容以编程方式转换为其他格式。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

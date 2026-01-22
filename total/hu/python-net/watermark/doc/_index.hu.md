@@ -79,7 +79,85 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Vízjel készítése **DOC** fájlokhoz Python API-k segítségével segít megvédeni az örökölt Word dokumentumokat a tulajdonjog, bizalmas információk vagy terjesztési szabályok egyértelmű jelölésével az szerkeszthető tartalmon belül.
+
+A DOC vízjel automatizálása javítja a dokumentumok irányításának következetességét, lehetővé téve a szervezetek számára, hogy vizuális irányítási ellenőrzéseket érvényesítsenek nagy mennyiségű, akár régebbi dokumentumformátumok esetén is.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* **Örökölt Szerződési Bizalmassági Jelzések**  
+
+&nbsp; Adj hozzá "BIZALMAS" jelzéseket az régebbi megállapodásokhoz az engedély nélküli megosztás csökkentése érdekében.
+
+
+
+* **Felülvizsgálati Ciklus Állapotjelzők**  
+
+&nbsp; Jelölje meg a dokumentumokat "VIZSGÁLAT ALATT" státusszal annak érdekében, hogy megakadályozza a tervezetek korai terjesztését.
+
+
+
+* **Belső Irányelvi Érvényesítés Sablonokhoz**  
+
+&nbsp; Alkalmazzon szabványosított vízjeleket az örökölt sablonokon, hogy összhangban legyenek az irányítással.
+
+
+
+* **Ügyfél-specifikus Terjesztési Értesítések**  
+
+&nbsp; Ágyazza be az ügyfélnek szánt értesítéseket, amelyek tisztázzák a megengedett felhasználást és az újraelosztási korlátokat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* **Levelezőládából Archívumra Dokumentum Jelölés**  
+
+&nbsp; Vízjelezze a DOC mellékleteket automatikusan, mielőtt elmentené őket egy tárolóba.
+
+
+
+* **Mappafigyelő Örökölt Fájlokhoz**  
+
+&nbsp; Azonosítsa az új DOC fájlokat egy könyvtárban, és alkalmazzon irányelvi vízjeleket manuális lépések nélkül.
+
+
+
+* **Metaadatvezérelt Vízjel Szöveg**  
+
+&nbsp; Generáljon vízjel tartalmat dokumentumcímkék alapján, mint például osztály, projekt vagy érzékenységi szint.
+
+
+
+* **Automatizált "Vázlattól Véglegesig" Átmenet**  
+
+&nbsp; Cserélje le a vázlat vízjeleket végleges címkékkel, amikor jóváhagyásokat rögzítenek egy munkafolyamatrendszerben.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

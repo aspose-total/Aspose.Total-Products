@@ -90,7 +90,73 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La visualisation de documents Word avec des API Python offre un moyen unifié d'inspecter des fichiers basés sur du texte dans plusieurs formats compatibles avec Word.
+
+Cela prend en charge la gestion cohérente des documents dans les systèmes automatisés.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Examen de document unifié**  
+
+  &nbsp; Visualisez différents documents Word à travers une seule interface.
+
+
+
+* **Vérifications de cohérence du contenu**  
+
+  &nbsp; Inspectez le texte et la structure à travers les fichiers.
+
+
+
+* **Intégration de flux de travail**  
+
+  &nbsp; Intégrez la visualisation de documents dans les pipelines de traitement.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Pipelines de contenu automatisés**  
+
+  &nbsp; Les processus Python rendent les documents Word pendant des workflows à plusieurs étapes.
+
+
+
+* **Services de prévisualisation**  
+
+  &nbsp; Les documents sont affichés dynamiquement pour examen ou approbation.
+
+
+
+* **Opérations de documents par lots**  
+
+  &nbsp; De grands ensembles de fichiers Word sont visualisés de manière programmée.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

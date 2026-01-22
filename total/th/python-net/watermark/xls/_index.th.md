@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การใส่ลายน้ำในสเปรดชีต **XLS** ด้วย Python APIs ช่วยป้องกันไฟล์ Excel เวอร์ชันเก่าๆ โดยการเพิ่มสัญลักษณ์ที่แสดงถึงการเป็นเจ้าของและความลับลงในข้อมูลที่ยังใช้กันอยู่ในกระบวนการรายงานเวอร์ชันเก่า
+
+การอัตโนมัติทำให้การใส่ลายน้ำใน XLS เป็นเรื่องที่เป็นไปได้สำหรับเอกสารขนาดใหญ่ ทำให้การบริหารจัดการเอกสารเป็นไปอย่างสม่ำเสมอโดยไม่ต้องแก้ไขด้วยมือในแต่ละสมุดงาน
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* **การป้องกันเอกสารทางการเงินเวอร์ชันเก่า**  
+
+&nbsp; เพิ่มป้ายลับในเอกสารงบประมาณและการพยากรณ์เวอร์ชันเก่า
+
+
+
+* **การทำเครื่องหมายเจ้าของในรายงานการดำเนินงาน**  
+
+&nbsp; ตราสัญลักษณ์ในรายงาน XLS เพื่อรักษาต้นฉบับข้างหน้าของสำเนาที่ส่งต่อ
+
+
+
+* **ตัวชี้วัดข้อมูลร่าง**  
+
+&nbsp; ใส่ลายน้ำ "PRELIMINARY" เพื่อลดข้อผิดพลาดจากตัวเลขที่ยังไม่ได้รับการตรวจสอบ
+
+
+
+* **การควบคุมการกระจายสำหรับการแชร์ภายนอก**  
+
+&nbsp; ฝังข้อจำกัดการใช้งานที่มองเห็นได้ในสเปรดชีตเวอร์ชันเก่าที่แชร์กับผู้ขาย
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การทำเครื่องหมายเอกสารเวอร์ชันอัตโนมัติ**  
+
+&nbsp; ใส่ลายน้ำในไฟล์ XLS ขณะโยกย้ายไปยังระบบจัดเก็บหรือการบริหารจัดการใหม่
+
+
+
+* **ตรวจจับไฟล์ XLS ที่เข้ามาอัตโนมัติ**  
+
+&nbsp; ตรวจจับไฟล์ XLS ใหม่และใส่ลายน้ำตามนโยบายมาตรฐานโดยอัตโนมัติ
+
+
+
+* **การใส่ลายน้ำตามกฎของประเภทรายงาน**  
+
+&nbsp; เลือกเนื้อหาลายน้ำตามรูปแบบชื่อไฟล์หรือเมตาดาต้าการจำแนกประเภท
+
+
+
+* **การใส่ลายน้ำสำหรับการส่งออกตามกำหนดเวลา**  
+
+&nbsp; ใส่ลายน้ำในการส่งออก XLS อัตโนมัติก่อนที่จะส่งถึงผู้มีส่วนได้ส่วนเสีย
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

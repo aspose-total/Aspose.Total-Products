@@ -78,7 +78,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Unire file di testo OpenDocument utilizzando le API di Python supporta gli standard aperti e i flussi di lavoro documentali multi-piattaforma. Consente la consolidazione senza soluzione di continuità dei contenuti creati in ambienti open-source o misti.
+
+
+
+L'automazione attorno alla fusione di ODT garantisce l'interoperabilità mantenendo l'integrità del documento tra i sistemi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Consolidamento Documenti Multi-Piattaforma (ODT)**  
+
+&nbsp; Unire file ODT creati in diverse suite office.
+
+
+
+* **Aggregazione Contenuti Standard Aperti (ODT)**  
+
+&nbsp; Combinare documenti ODT per una pubblicazione unificata.
+
+
+
+* **Assemblaggio Collaborativo dei Contenuti (ODT)**  
+
+&nbsp; Unire file ODT da diversi contributori in un unico documento.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Automazione del Flusso di Lavoro Aperto (ODT)**  
+
+&nbsp; I sistemi automatizzati uniscono file ODT senza dipendenze proprietarie.
+
+
+
+* **Compilazione Documenti Pianificata (ODT)**  
+
+&nbsp; La fusione di ODT viene eseguita come parte di attività ricorrenti sul backend.
+
+
+
+* **Pipeline di Pubblicazione Interoperabile (ODT)**  
+
+&nbsp; I file ODT vengono uniti dinamicamente nelle pipeline cross-system.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

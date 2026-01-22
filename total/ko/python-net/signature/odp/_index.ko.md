@@ -73,7 +73,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 ODP 프레젠테이션 파일에 서명하는 것은 팀이 오픈 형식으로 생성된 슬라이드 덱의 릴리스 품질과 소유권을 통제하는 데 도움이 됩니다. 이를 통해 덱이 공식 승인 후에만 배포되도록 보장합니다.
+
+
+
+자동화된 경우 ODP 서명은 협업 워크플로우 내에서 반복 가능한 거버넌스 단계가 되어 버전 관리를 개선하고 검토되지 않은 덱이 유통되는 것을 방지합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **교육 덱 릴리스 승인**  
+
+&nbsp; 내부 롤아웃 준비 여부를 확인하기 위해 ODP 교육 덱에 서명합니다.
+
+
+
+* **이해관계자 검토 확인**  
+
+&nbsp; 이해관계자 검토가 완료된 후 ODP 덱에 서명 표시를 적용합니다.
+
+
+
+* **컴플라이언스 프레젠테이션 인증**  
+
+&nbsp; 정책이나 컴플라이언스 덱에 서명하여 최종 버전을 승인한 사람을 문서화합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **승인 워크플로우 트리거 서명**  
+
+&nbsp; 시스템에 승인 상태가 기록될 때 ODP 파일을 자동으로 서명합니다.
+
+
+
+* **공유 전 덱 무결성 확인**  
+
+&nbsp; 필요한 슬라이드와 메타데이터가 있는지 확인한 후에만 덱에 서명합니다.
+
+
+
+* **릴리스 주기를 위한 일괄 서명**  
+
+&nbsp; 예정된 릴리스 주기의 일부로 여러 ODP 덱에 대해 프로그래밍 방식으로 서명합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,85 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Dodawanie znaków wodnych do obrazów **TIFF** za pomocą interfejsów API w języku Python wspiera pracę z obrazami wysokiej jakości poprzez dodawanie znaczników własności i kontroli do plików powszechnie używanych w skanowaniu, druku i archiwizacji.
+
+Automatyzacja jest szczególnie cenna w przypadku znakowania wodnego plików TIFF ze względu na duże rozmiary plików i procesy wsadowe, umożliwiając spójne zarządzanie w ramach potoków obrazowania dokumentów.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe Zastosowania" %}}
+
+
+
+* **Znaczniki Własności Dla Zeskanowanych Dokumentów**  
+
+&nbsp; Dodawaj znaki wodne do zeskanowanych plików TIFF w celu zachowania pochodzenia w archiwach obrazów.
+
+
+
+* **Znaki Dowodowe Dla Przepływu Pracy Druku**  
+
+&nbsp; Dodaj znaki wodne "PROOF" do plików TIFF przedprodukcji do kontrolowanej recenzji.
+
+
+
+* **Etykiety Zgodności Dla Repozytoriów Obrazów**  
+
+&nbsp; Oznaczaj obrazy o ograniczonym dostępie tekstem klasyfikacyjnym w celu wsparcia polityk obsługi.
+
+
+
+* **Śledzenie Konwersji Archiwum**  
+
+&nbsp; Dodawaj znaki wodne do plików TIFF przed konwersją do innych formatów, aby zachować tożsamość źródła.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Automatyczne Dodawanie Znaków Wodnych Do Wyników Skanera**  
+
+&nbsp; Oznaczaj pliki TIFF natychmiast po skanowaniu za pomocą monitorowanych folderów lub zadań przyjmowania.
+
+
+
+* **Przetwarzanie Plików TIFF Wielostronicowych**  
+
+&nbsp; Stosuj spójne znaki wodne na wszystkich stronach plików TIFF wielostronicowych programistycznie.
+
+
+
+* **Skalowanie Znaku Wodnego Zgodne Z Rozdzielczością**  
+
+&nbsp; Dostosuj rozmiar znaku wodnego na podstawie DPI, aby zachować spójny wygląd fizyczny wydruku.
+
+
+
+* **Automatyzowane Przepływy Pracy Retencji I Audytu**  
+
+&nbsp; Dodawaj znaki wodne do obrazów jako część automatycznych procesów tagowania retencji i przeglądów zgodności.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

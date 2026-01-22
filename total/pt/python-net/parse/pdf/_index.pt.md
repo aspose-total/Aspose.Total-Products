@@ -100,7 +100,75 @@ Para obter mais detalhes, consulte [Product Documentation](https://docs.aspose.c
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Análise de **documentos PDF** com APIs Python permite a extração de texto e informações de layout de um formato de layout fixo amplamente utilizado. Os PDFs são comuns em relatórios, faturas e registros oficiais.
+
+
+
+A análise automatizada de PDF desbloqueia conteúdo não editável para análise, pesquisa e integração de sistemas sem intervenção manual.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Extração de Dados de Relatórios**  
+
+  &nbsp; Recupera conteúdo textual de relatórios PDF estáticos.
+
+
+
+* **Processamento de Arquivamento de Documentos**  
+
+  &nbsp; Converte PDFs em texto pesquisável e indexável.
+
+
+
+* **Sistemas de Recuperação de Informações**  
+
+  &nbsp; Permite a descoberta de conteúdo em grandes coleções de PDF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Ingestão Agendada de PDFs**  
+
+  &nbsp; Processa automaticamente PDFs recebidos em uma cadência fixa.
+
+
+
+* **Pipelines de Normalização de Texto**  
+
+  &nbsp; Limpa e padroniza o texto extraído de PDFs de forma programática.
+
+
+
+* **Habilitação de Análises Descendentes**  
+
+  &nbsp; Alimenta o conteúdo de PDFs analisados em fluxos de trabalho de análises ou ML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

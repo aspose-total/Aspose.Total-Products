@@ -74,7 +74,75 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Redagowanie dokumentów za pomocą interfejsów API w języku Python dla plików DOCX zapewnia nowoczesne, strukturalne podejście do usuwania poufnych treści z powszechnie stosowanych formatów przetwarzania tekstu. Zapewnia to, że dokumenty pozostają użyteczne, jednocześnie chroniąc poufne informacje.
+
+
+
+Automatyzacja oparta na Pythonie pozwala na łatwe skalowanie redakcji DOCX w przypadku dużych repozytoriów dokumentów, umożliwiając bezproblemową integrację z systemami zarządzania treścią i zgodności.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+
+
+* **Ochrona danych regulacyjnych**  
+
+&nbsp; Usuń dane osobowe lub finansowe z plików DOCX przed zewnętrznym rozpowszechnieniem.
+
+
+
+* **Sankcjonowanie umów**  
+
+&nbsp; Redaguj wrażliwe klauzule, zachowując strukturę i formatowanie dokumentu.
+
+
+
+* **Bezpieczeństwo współpracy**  
+
+&nbsp; Udostępniaj bezpiecznie zredagowane pliki DOCX partnerom lub klientom.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Redakcja oparta na szablonach**  
+
+&nbsp; Automatyczne redagowanie konkretnych sekcji na podstawie szablonów dokumentów.
+
+
+
+* **Przetwarzanie oparte na przepływie pracy**  
+
+&nbsp; Wywołuj redakcję, gdy pliki DOCX przechodzą między etapami przepływu pracy.
+
+
+
+* **Ciągłe kontrole zgodności**  
+
+&nbsp; Ponownie skanuj i redaguj zaktualizowane dokumenty w ramach automatycznych procesów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

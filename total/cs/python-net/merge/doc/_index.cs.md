@@ -78,7 +78,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Slučování dokumentů pomocí Python API je základní schopností pro moderní zpracování obsahu, tvorbu zpráv a správu životního cyklu dokumentů. Umožňuje vývojářům a systémům spojit více souborů do jednoho strukturovaného výstupu a zachovat formátování, rozložení a logický tok napříč heterogenními zdroji dokumentů.
+
+
+
+Automatizací slučování dokumentů mohou organizace snížit manuální úsilí, zajistit konzistenci a integrovat pracovní postupy s dokumenty přímo do datových potrubí, backendových služeb a škálovatelných automatizačních systémů postavených na Pythonu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Konsolidované slovní zprávy (DOC)**  
+
+&nbsp; Sloučení dědictví dokumentů Word do jedné zprávy pro sjednocené přezkoumání a archivaci.
+
+
+
+* **Sestavení dokumentů ve várce (DOC)**  
+
+&nbsp; Seskupit více souborů DOC vygenerovaných různými systémy do jednoho dodávatelného souboru.
+
+
+
+* **Agregace historického obsahu (DOC)**  
+
+&nbsp; Sloučení archivovaných souborů DOC pro modernizaci a znovupoužití starších sbírek obsahu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Plánované kompilace zpráv (DOC)**  
+
+&nbsp; Automatizované úlohy slučují denně nebo týdně soubory DOC do jedné distribuovatelné zprávy.
+
+
+
+* **Šití dokumentů na základě pracovního postupu (DOC)**  
+
+&nbsp; Backendové pracovní postupy dynamicky slučují soubory DOC po dokončení procesních fází.
+
+
+
+* **Generování výstupu řízeného potrubím (DOC)**  
+
+&nbsp; Slučování DOC je spouštěno programově jako součást většího dokumentového potrubí.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -100,7 +100,75 @@ PPT パーサー アプリまたはユーティリティを開発する必要が
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用して**PPTプレゼンテーション**を解析すると、プレゼンテーションファイルからスライドのテキスト、ノート、および構造要素を抽出できます。これにより、スライドベースの知識が自動化システムでアクセス可能になります。
+
+
+
+自動化コンテキストでは、プレゼンテーションの解析はコンテンツの再利用、要約、およびドキュメンテーションや分析ワークフローへの統合をサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+
+
+* **スライドコンテンツの抽出**  
+
+&nbsp; タイトル、箇条書き、スピーカーノートを取得します。
+
+
+
+* **プレゼンテーションアーカイブ分析**  
+
+&nbsp; 過去のスライドデッキを検索可能で解析可能にします。
+
+
+
+* **コンテンツリパーパシングパイプライン**  
+
+&nbsp; プレゼンテーション資料を他のコンテンツ形式に変換します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **自動スライド要約**  
+
+&nbsp; 解析されたスライドコンテンツから簡潔な要約を生成します。
+
+
+
+* **ナレッジベースの構築**  
+
+&nbsp; プレゼンテーションデータを構造化されたリポジトリに取り込みます。
+
+
+
+* **バージョン比較の自動化**  
+
+&nbsp; 異なるプレゼンテーションバージョン間の変更を検出します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

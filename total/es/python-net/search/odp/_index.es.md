@@ -87,7 +87,75 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La búsqueda de archivos **ODP** utilizando APIs de Python permite acceder de forma estructurada a documentos de presentación de estándar abierto comúnmente utilizados en entornos colaborativos y de código abierto. La búsqueda programática permite a los sistemas extraer el texto de las diapositivas, los títulos y los metadatos sin revisión manual.
+
+
+
+Cuando se automatiza, la búsqueda de documentos ODP mejora la capacidad de descubrimiento, admite la gestión de contenido escalable e se integra perfectamente con los sistemas modernos de procesamiento de datos y automatización de flujos de trabajo.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principales Casos de Uso" %}}
+
+
+
+* **Búsqueda de Texto en Diapositivas ODP**  
+
+&nbsp; Localiza palabras clave y frases en diapositivas de presentación en formato abierto.
+
+
+
+* **Revisión de Contenido de Presentaciones Abiertas**  
+
+&nbsp; Permite una inspección rápida de presentaciones compartidas o colaborativas.
+
+
+
+* **Descubrimiento de Metadatos ODP**  
+
+&nbsp; Extrae propiedades del documento para clasificación e indexación.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+
+
+* **Indexación Automatizada de ODP**  
+
+&nbsp; Los servicios de Python indexan continuamente archivos ODP para acceso a la búsqueda.
+
+
+
+* **Monitoreo de Contenido ODP**  
+
+&nbsp; Escaneos programáticos detectan cambios o actualizaciones en presentaciones.
+
+
+
+* **Integración de Flujos de Trabajo ODP**  
+
+&nbsp; El contenido extraído alimenta la publicación automatizada o los flujos de revisión.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

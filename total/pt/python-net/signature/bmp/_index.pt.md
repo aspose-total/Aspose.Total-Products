@@ -71,7 +71,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/ima
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Assinar arquivos BMP usando APIs Python permite a aprovação e validação de ativos baseados em bitmap, como digitalizações, diagramas e visuais operacionais. Isso garante que os dados visuais usados nos fluxos de trabalho carreguem propriedade clara e contexto de aprovação.
+
+
+
+Quando integrado em pipelines automatizados, a assinatura BMP atua como uma etapa final de verificação, garantindo que apenas ativos visuais revisados e aprovados avancem nos sistemas de processamento ou distribuição.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Aprovação de Diagrama Operacional**  
+
+&nbsp; Aplicar carimbos de aprovação a diagramas BMP usados em engenharia ou documentação interna.
+
+
+
+* **Verificação de Digitalização para Registros**  
+
+&nbsp; Assinar arquivos BMP digitalizados para confirmar autenticidade antes do arquivamento ou armazenamento de conformidade.
+
+
+
+* **Confirmação de QA Visual**  
+
+&nbsp; Marcar ativos BMP como verificados em qualidade antes do consumo downstream.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Injeção Automática de Carimbo de QA**  
+
+&nbsp; Arquivos BMP são assinados automaticamente após passarem por regras de validação de imagem.
+
+
+
+* **Marcação de Conclusão de Fluxo de Trabalho**  
+
+&nbsp; A assinatura ocorre quando um fluxo de trabalho operacional atinge a aprovação final.
+
+
+
+* **Processamento em Lote de Aprovação Visual**  
+
+&nbsp; Vários arquivos BMP são assinados programaticamente em processos em massa.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

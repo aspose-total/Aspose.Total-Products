@@ -79,7 +79,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'lerini kullanarak makro etkin slayt gösterilerini birleştirme, otomatik ve etkileşimli slayt gösterisi sunumunu destekler. Bu formatlar genellikle kontrol edilen ortamlarda kullanılır.
+
+
+
+Otomasyon, birleştirme sırasında makroların ve slayt gösterisi davranışlarının korunduğundan emin olur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Etkileşimli Slayt Derleme (PPSM)**  
+
+&nbsp; Makro etkin slayt dosyalarını birleştirme.
+
+
+
+* **Otomatik Demo Sunumu (PPSM)**  
+
+&nbsp; Otomatik gösterimler için PPSM dosyalarını birleştirme.
+
+
+
+* **Kontrollü Oynatma Destekleri (PPSM)**  
+
+&nbsp; Yönetilen sunumlar için PPSM dosyalarını bir araya getirme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Kurala Dayalı Slayt Oluşturma (PPSM)**  
+
+&nbsp; Sistemler, mantık kurallarına dayanarak PPSM dosyalarını birleştirir.
+
+
+
+* **Arka Uç Otomasyon Koruma (PPSM)**  
+
+&nbsp; PPSM birleştirme etkileşimli davranışları korur.
+
+
+
+* **Zamanlanmış Demo Oluşturma (PPSM)**  
+
+&nbsp; Slayt gösterileri otomatik olarak zamanlamalara göre birleştirilir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

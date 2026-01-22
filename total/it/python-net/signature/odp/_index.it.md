@@ -73,7 +73,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La firma dei file di presentazione ODP con le API di Python aiuta i team a controllare la qualità del rilascio e la proprietà delle presentazioni create in formati aperti. Ciò garantisce che le presentazioni vengano distribuite solo dopo un'approvazione formale.
+
+
+
+Quando automatizzata, la firma ODP diventa un passaggio di governance ripetibile all'interno dei flussi di collaborazione, migliorando il controllo delle versioni e impedendo la circolazione di presentazioni non revisionate.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* **Approvazione Rilascio Presentazione di Formazione**  
+
+&nbsp; Firma le presentazioni di formazione ODP per confermare la prontezza per il lancio interno.
+
+
+
+* **Conferma Revisione Interessati**  
+
+&nbsp; Applica un segno di firma alle presentazioni ODP dopo il completamento della revisione degli interessati.
+
+
+
+* **Certificazione Presentazione Conformità**  
+
+&nbsp; Firma le presentazioni di politica o conformità per documentare chi ha approvato la versione finale.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Attivazione Firma Flusso Approvazione**  
+
+&nbsp; Firma automaticamente i file ODP quando lo stato di approvazione è registrato nel sistema.
+
+
+
+* **Controllo Integrità Presentazione Prima della Condivisione**  
+
+&nbsp; Firma le presentazioni solo dopo aver verificato che le diapositive e i metadati richiesti siano presenti.
+
+
+
+* **Firma Batch per Cicli di Rilascio**  
+
+&nbsp; Firma in modo programmato più presentazioni ODP come parte dei cicli di rilascio pianificati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

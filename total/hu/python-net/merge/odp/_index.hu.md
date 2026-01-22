@@ -79,7 +79,69 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az OpenDocument bemutatófájlok összevonása Python API-k segítségével támogatja az open standards és a cross-platform bemutatómunkafolyamatokat. Ez ideális környezetek számára, amelyek nyílt forráskódú irodai eszközöket használnak.
+
+
+
+Az automatizálás biztosítja az interoperabilitást és a skálázható bemutatófeldolgozást.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Cross-Platform Slide Consolidation (ODP)**  
+&nbsp; ODP fájlok összevonása különböző eszközökkel létrehozott ODP fájlokból.
+
+
+
+* **Open-Standard Presentation Assembly (ODP)**  
+&nbsp; ODP csomagok egyesítése egységes kézbesítés érdekében.
+
+
+
+* **Collaborative Slide Compilation (ODP)**  
+&nbsp; ODP fájlok összevonása elosztott hozzájárulóktól.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Open Presentation Pipelines (ODP)**  
+&nbsp; Rendszerek összevonják az ODP fájlokat szabadalmaztatott függőségek nélkül.
+
+
+
+* **Scheduled Deck Compilation (ODP)**  
+&nbsp; Az ODP összevonása a háttérfeladatok részeként fut.
+
+
+
+* **Interoperable Presentation Automation (ODP)**  
+&nbsp; Az ODP fájlokat dinamikusan egyesítik a munkafolyamatokban.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

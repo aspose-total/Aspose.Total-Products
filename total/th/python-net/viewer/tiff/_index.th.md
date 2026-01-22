@@ -82,7 +82,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การดูเอกสาร TIFF ด้วย Python APIs รองรับรูปแบบภาพหลายหน้าที่ใช้กันอย่างแพร่หลายในการสแกนและเก็บถาวร.
+
+นี้ช่วยให้สามารถตรวจสอบเอกสารที่มีรายละเอียดอย่างละเอียดได้.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **การตรวจสอบเอกสารที่สแกน**  
+
+&nbsp; ดูหน้าที่สแกนคุณภาพสูง.
+
+
+
+* **การตรวจสอบภาพสำรอง**  
+
+&nbsp; ตรวจสอบไฟล์ภาพระดับการอนุรักษ์.
+
+
+
+* **การจัดการภาพหลายหน้า**  
+
+&nbsp; นำทางเอกสารที่มีภาพเป็นพื้นฐาน.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* **การตรวจสอบสแกนโดยอัตโนมัติ**  
+
+&nbsp; การทำงานของ Python แสดงไฟล์ที่สแกนเพื่อการรับรองคุณภาพ.
+
+
+
+* **การตรวจสอบความสมบูรณ์ของเก็บถาวร**  
+
+&nbsp; ภาพที่เก็บถาวรถูกแสดงเป็นระยะๆ เพื่อการตรวจสอบ.
+
+
+
+* **กระบวนการดิจิทัลเอกสาร**  
+
+&nbsp; การดูภาพอัตโนมัติรองรับกระบวนการดิจิทัล.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

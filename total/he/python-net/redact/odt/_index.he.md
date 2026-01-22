@@ -74,7 +74,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+כתיבת מסמך באמצעות Python APIs עבור קבצי ODT מאפשרת שינוי מאובטח של קבצי טקסט פתוחים ללא שינוי במבנה היסודי שלהם. זה תומך בעיבוד מסמכים שקופים ומבוססים על תקנים.
+
+
+
+על ידי אוטומציה של תהליך השחיקה של קבצי ODT, ארגונים יכולים לנהל ביעילות תוכן רגיש במערכות מסמכים פתוחות ואינטרופרביליות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **החלפת מסמכים בצורה נכונה לפרטיות**  
+
+&nbsp; לשחק נתונים אישיים לפני שיתפו קבצי ODT באופן חיצוני.
+
+
+
+* **הסרת תוכן בהתאם למדיניות**  
+
+&nbsp; לאכוף כללי שחיקה המותאמים למדיניות הארגונית.
+
+
+
+* **פרסום מסמכים פתוחים**  
+
+&nbsp; להכין מסמכים מסוננים לשימוש ציבורי או צירופי פלטפורמות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **שחיקת מטא-נתונים וטקסט**  
+
+&nbsp; להסיר באופן אוטומטי תוכן רגיש מטקסט גוף וממטא-נתונים.
+
+
+
+* **עיבוד בכמות גדולה של קבצי ODT בפורמט פתוח**  
+
+&nbsp; לשחק כמויות גדולות של קבצי ODT בהפעלה אוטומטית יחידה.
+
+
+
+* **אינטגרציה עם צינורות CMS**  
+
+&nbsp; ליישם שחיקה לפני שמסמכים מתפרסמים או מתפצלים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

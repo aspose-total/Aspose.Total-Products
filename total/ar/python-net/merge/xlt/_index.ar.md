@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+دمج تنسيقات قوالب Excel باستخدام واجهات برمجة التطبيقات في Python يضمن هيكلًا وتخطيطًا متسقين عبر جداول البيانات المُنشأة. الدمج القائم على القوالب أمر حيوي لتقارير موحدة وسير العمل لإدخال البيانات.
+
+
+
+التأتير يمكن من إنشاء جداول بيانات موحدة بسرعة دون الحاجة لتنسيق يدوي.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تجميع جداول البيانات بناءً على القوالب (XLT)**  
+
+&nbsp; دمج ملفات XLT لفرض تخطيطات متسقة.
+
+
+
+* **جمع البيانات الموحدة (XLT)**  
+
+&nbsp; دمج جداول البيانات المدفوعة بالقوالب في ملف واحد.
+
+
+
+* **هياكل جداول البيانات القابلة لإعادة الاستخدام (XLT)**  
+
+&nbsp; تجميع مستندات XLT للحفاظ على التصميم الموحد.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير التلقائي" %}}
+
+
+
+* **تطبيق القوالب تلقائيًا (XLT)**  
+
+&nbsp; يتم دمج ملفات XLT تلقائيًا أثناء الإنشاء.
+
+
+
+* **معالجة القوالب بالدُفعة (XLT)**  
+
+&nbsp; تدمج الوظائف المجدولة العديد من جداول البيانات المدفوعة بالقوالب.
+
+
+
+* **التحكم في التخطيط بواسطة التأتير التلقائي (XLT)**  
+
+&nbsp; تدمج الأنظمة ملفات XLT لضمان توافق التنسيق.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

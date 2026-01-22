@@ -85,7 +85,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Slučování obrázků ve formátu TIFF pomocí Python API podporuje pracovní postupy s vysokým rozlišením a více stránkovými obrázky, které jsou běžně používány při tisku, lékařském zobrazování a skenování dokumentů.
+
+
+
+Automatizace umožňuje spolehlivé zpracování velkých souborů obrázků s bohatými detaily.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Sestavení vícestránkového skenování (TIFF)**  
+
+&nbsp; Slučuje stránky TIFF do jednoho vícestránkového souboru.
+
+
+
+* **Zpracování obrázků ve vysokém rozlišení (TIFF)**  
+
+&nbsp; Kombinuje obrázky TIFF pro podrobnou analýzu.
+
+
+
+* **Kompilace obrázků připravených k tisku (TIFF)**  
+
+&nbsp; Shromažďuje soubory TIFF pro pracovní postupy vydávání.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizované skenovací potrubí (TIFF)**  
+
+&nbsp; Systémy slučují soubory TIFF během zpracování skenování.
+
+
+
+* **Hromadné zpracování ve vysokém rozlišení (TIFF)**  
+
+&nbsp; Slučování TIFF souborů běží ve plánovaných úlohách.
+
+
+
+* **Automatizace obrázkových dat v podniku (TIFF)**  
+
+&nbsp; Automatizované pracovní postupy spravují velké sady TIFF dat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

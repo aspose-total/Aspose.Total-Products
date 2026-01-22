@@ -76,7 +76,75 @@ För mer information, se [Product Documentation](https://docs.aspose.com/words/p
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Sökning av **ODT**-filer med Python API:er säkerställer kompatibilitet med öppna dokumentstandarder samtidigt som effektivt innehållsupptäckt möjliggörs. ODT-dokument används vanligtvis i öppna källkods- och samarbetsmiljöer där bärbarhet och transparens är avgörande.
+
+
+
+Automatiserad ODT-sökning förbättrar interoperabilitet, stödjer skalbar dokumentanalys och integreras smidigt med moderna automatiseringspipelines.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* **Sökning i öppna dokumentformat**  
+
+  Lokaliserar nyckelord inom ODT-baserade dokument.
+
+
+
+* **Samarbetsinnehållsgranskning**  
+
+  Möjliggör snabb sökning över delade öppna dokument.
+
+
+
+* **Policy- och dokumentanalys**  
+
+  Identifierar nödvändiga avsnitt inom ODT-filer.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* **Automatisk ODT-indexskapelse**  
+
+  Python-skript genererar sökbara index från ODT-filer.
+
+
+
+* **ODT-förändringsdetektering**  
+
+  Programmatiska skanningar identifierar uppdaterat eller modifierat innehåll.
+
+
+
+* **ODT-innehållspipelines**  
+
+  Extraherade data matar automatiserade publicerings- och granskningssystem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

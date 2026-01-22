@@ -98,7 +98,93 @@ DOCM 메타데이터 관리 앱 또는 유틸리티를 개발해야 합니까?[A
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+파이썬 API를 통해 **DOCM** 파일의 문서 메타데이터 추출은 시스템이 매크로가 활성화된 콘텐츠와 관련된 리스크 신호를 고려하면서 문서 속성을 검사할 수 있게 도와줍니다. 이는 문서가 팀 또는 환경을 이동할 때 특히 중요한 지배, 안전한 처리 및 분류를 위해 가치가 있습니다.
+
+
+
+자동화 워크플로우에서 DOCM 메타데이터는 보안 검사, 조건부 승인 및 제한된 배포와 같은 동적 제어를 구동하는 데 도움이 되며 파일을 대화식으로 열지 않고도 확장 가능한 색인 및 보고를 가능하게 합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **매크로 인식 문서 스크리닝**
+
+  메타데이터를 사용하여 매크로가 활성화된 문서를 추가 검토 및 제어된 처리를 위해 플래그 지정합니다.
+
+
+
+* **민감한 워크플로우 분류**
+
+  포함된 속성에 따라 DOCM 파일을 분류하여 보다 엄격한 저장 및 액세스 정책을 적용합니다.
+
+
+
+* **운영 출처 추적**
+
+  작성 및 수정 이력 필드를 캡처하여 매크로가 활성화된 파일이 생성된 위치와 시기를 추적합니다.
+
+
+
+* **저장소 건강 보고**
+
+  DOCM 볼륨, 연령 및 소유권에 대한 보고서를 생성하여 규모에 맞게 리스크 노출을 관리합니다.
+
+
+
+* **제어된 배포 준비**
+
+  DOCM 파일이 하류 공유 또는 게시 프로세스로 들어가기 전에 필요한 메타데이터 필드를 확인합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **리스크 점수화된 수용 파이프라인**
+
+  메타데이터 완전성과 최신성을 사용하여 DOCM 파일을 자동으로 점수화하고 "검토" 또는 "승인" 레인으로 라우팅합니다.
+
+
+
+* **제한된 저장소 강제 실행**
+
+  DOCM 파일이 감지되면 자동화가 제한된 위치로 이동하고 보다 엄격한 보존 규칙을 적용합니다.
+
+
+
+* **매크로 활성화 예외 알림**
+
+  DOCM 메타데이터가 예기치 않은 출처, 비정상적인 타임스탬프 또는 소유권 필드 누락을 나타낼 때 경고를 트리거합니다.
+
+
+
+* **자동화된 인벤토리 대시보드**
+
+  지배 및 운영 감시를 위해 DOCM 메타데이터를 지속적으로 추출하고 집계하여 대시보드로 표시합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

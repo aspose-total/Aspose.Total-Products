@@ -89,7 +89,73 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Visualizzare file ODP utilizzando API Python consente l'ispezione di documenti di presentazione aperti in un formato neutro rispetto alla piattaforma.
+
+Ciò supporta l'interoperabilità e i flussi di lavoro di presentazione automatizzati.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* **Revisione di Presentazioni Aperte**  
+
+&nbsp; Visualizza diapositive create in formati di documento aperti.
+
+
+
+* **Convalida Multi-Piattaforma**  
+
+&nbsp; Assicurarsi che le presentazioni vengano visualizzate in modo coerente.
+
+
+
+* **Ispezione dei Contenuti della Presentazione**  
+
+&nbsp; Esaminare il testo e la struttura delle diapositive.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Audit di Presentazioni Automatiche**  
+
+&nbsp; I flussi di lavoro Python rendono i file ODP per la revisione.
+
+
+
+* **Controlli di Interoperabilità**  
+
+&nbsp; Le diapositive vengono visualizzate per garantire la compatibilità del formato.
+
+
+
+* **Servizi di Anteprima**  
+
+&nbsp; Le presentazioni vengono visualizzate dinamicamente.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

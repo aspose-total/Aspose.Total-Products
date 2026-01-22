@@ -100,7 +100,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحليل **مستندات PDF** باستخدام واجهات برمجة التطبيقات في Python يمكنه استخراج المعلومات النصية وتخطيط الصفحة من تنسيق ثابت يستخدم على نطاق واسع. تعتبر ملفات PDF شائعة في التقارير والفواتير والسجلات الرسمية.
+
+
+
+تقوم عملية تحليل ملفات PDF بشكل آلي بفتح المحتوى غير القابل للتحرير للتحليل والبحث والتكامل مع النظام دون تدخل يدوي.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **استخراج بيانات التقرير**  
+
+&nbsp; يسترد المحتوى النصي من تقارير PDF ثابتة.
+
+
+
+* **معالجة الأرشفة الوثيقة**  
+
+&nbsp; يحول ملفات PDF إلى نص قابل للبحث والفهرسة.
+
+
+
+* **أنظمة استرجاع المعلومات**  
+
+&nbsp; يمكن اكتشاف المحتوى ضمن مجموعات PDF كبيرة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **استيعاب PDF المجدول**  
+
+&nbsp; يعالج تلقائيًا ملفات PDF الواردة بانتظام.
+
+
+
+* **أنابيب توحيد النصوص**  
+
+&nbsp; ينظف ويوحد النصوص المستخرجة من ملفات PDF بشكل برمجي.
+
+
+
+* **تمكين التحليل اللاحق**  
+
+&nbsp; يقوم بتغذية محتوى ملفات PDF المحللة إلى تحليلات أو سير العمل للذكاء الاصطناعي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

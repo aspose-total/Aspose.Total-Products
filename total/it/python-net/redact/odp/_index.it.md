@@ -77,7 +77,75 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La redazione di documenti utilizzando le API di Python per i file ODP consente di gestire in modo sicuro i contenuti delle presentazioni create secondo gli standard dei documenti aperti. Questo è essenziale quando si condividono diapositive che potrebbero contenere informazioni sensibili o proprietarie.
+
+
+
+L'automazione garantisce che le presentazioni ODP possano essere sanificate in modo coerente, supportando controlli sulla privacy scalabili e ripetibili su tutti gli asset delle presentazioni.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* **Condivisione Riservata delle Diapositive**  
+
+  &nbsp; Rimuovere i dati sensibili dalle diapositive della presentazione prima della distribuzione.
+
+
+
+* **Governance del Formato Aperto**  
+
+  &nbsp; Applicare le politiche di protezione dei dati ai file di presentazione in formato standard aperto.
+
+
+
+* **Sanitizzazione dei Materiali di Formazione**  
+
+  &nbsp; Redigere riferimenti interni prima di pubblicare i contenuti di apprendimento.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Regole di Redazione a Livello di Diapositiva**  
+
+  &nbsp; Redigere automaticamente i contenuti da diapositive o layout specifici.
+
+
+
+* **Pipeline di Creazione delle Presentazioni**  
+
+  &nbsp; Integrare la redazione nei flussi di lavoro automatizzati di generazione delle presentazioni.
+
+
+
+* **Scansioni di Conformità Pianificate**  
+
+  &nbsp; Sanitizzare periodicamente i file ODP memorizzati utilizzando lavori automatizzati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

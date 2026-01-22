@@ -104,7 +104,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API解析**DOT模板**允许组织提取嵌入在文档模板中的预定义结构、占位符和格式规则。这对于标准化和一致性至关重要。
+
+
+
+自动化友好的模板解析使动态文档生成系统成为可能，并在规模上强制执行结构完整性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **模板结构分析**  
+
+  &nbsp; 识别模板中的占位符和布局定义。
+
+
+
+* **标准化文档生成**  
+
+  &nbsp; 支持基于规则的一致文档创建。
+
+
+
+* **治理和合规执行**  
+
+  &nbsp; 验证生成的文档是否遵循批准的模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **动态文档组装**  
+
+  &nbsp; 使用解析后的模板以程序方式生成文档。
+
+
+
+* **模板漂移检测**  
+
+  &nbsp; 自动标记未经授权的模板更改。
+
+
+
+* **自动化内容注入**  
+
+  &nbsp; 将结构化数据填充到模板定义的部分。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

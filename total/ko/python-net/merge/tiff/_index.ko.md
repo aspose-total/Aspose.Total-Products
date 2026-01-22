@@ -85,7 +85,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 TIFF 이미지를 병합하면 인쇄, 의료 이미징 및 문서 스캔에서 일반적으로 사용되는 고해상도 다중 페이지 이미지 워크플로우를 지원합니다.
+
+
+
+자동화를 통해 대용량의 상세 이미지 세트를 신뢰할 수 있게 처리할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **다중 페이지 스캔 어셈블리 (TIFF)**  
+
+  병합된 TIFF 페이지를 단일 다중 페이지 파일로 만듭니다.
+
+
+
+* **고해상도 이미지 처리 (TIFF)**  
+
+  자세한 분석을 위해 TIFF 이미지를 결합합니다.
+
+
+
+* **인쇄용 이미지 편집 (TIFF)**  
+
+  출판 워크플로우를 위해 TIFF 파일을 집계합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동화된 스캔 파이프라인 (TIFF)**  
+
+  시스템은 스캔 데이터 수집 중에 TIFF 파일을 병합합니다.
+
+
+
+* **일괄 고해상도 처리 (TIFF)**  
+
+  TIFF 병합이 예약된 작업에서 실행됩니다.
+
+
+
+* **기업 이미징 자동화 (TIFF)**  
+
+  자동화된 워크플로우가 대규모 TIFF 데이터 세트를 관리합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -89,7 +89,73 @@ PPTX 뷰어 앱이나 유틸리티를 개발해야 합니까?[Aspose.Total for P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 PowerPoint PPTX 프레젠테이션을 보면 여러 형식에서 슬라이드 기반 문서에 통합된 액세스가 제공됩니다.
+
+이는 자동화된 검토 및 프레젠테이션 중심적 워크플로우를 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **통합된 슬라이드 검토**
+
+  &nbsp; 변형에 관계없이 프레젠테이션을 볼 수 있습니다.
+
+
+
+* **프레젠테이션 유효성 검사**
+
+  &nbsp; 슬라이드 콘텐츠 및 레이아웃을 검사합니다.
+
+
+
+* **워크플로우 통합**
+
+  &nbsp; 보기를 자동화된 시스템에 통합합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동 검토 파이프라인**
+
+  &nbsp; 검증 중에 프레젠테이션이 렌더링됩니다.
+
+
+
+* **미리보기 서비스**
+
+  &nbsp; 이해관계자를 위해 슬라이드가 동적으로 표시됩니다.
+
+
+
+* **일괄 프레젠테이션 작업**
+
+  &nbsp; 여러 덱을 프로그래밍 방식으로 볼 수 있습니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

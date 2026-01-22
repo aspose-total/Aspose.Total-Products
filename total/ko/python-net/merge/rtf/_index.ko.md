@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 Rich Text Format 문서를 병합하면 기본 서식과 가독성을 유지하면서 가벼운 문서 통합이 가능합니다. RTF는 플랫폼 및 시스템 간의 상호 운용성을 위해 널리 사용됩니다.
+
+
+
+자동화된 RTF 병합은 간편성과 호환성이 중요한 환경에서 빠르고 프로그래밍 방식의 문서 처리를 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **가벼운 문서 편집 (RTF)**  
+
+&nbsp; 여러 RTF 파일을 하나의 가독성 있는 문서로 병합합니다.
+
+
+
+* **시스템 간 콘텐츠 교환 (RTF)**  
+
+&nbsp; 이질적인 시스템 간에 공유되는 RTF 문서를 결합합니다.
+
+
+
+* **기본 서식 보존 (RTF)**  
+
+&nbsp; 중요한 서식을 유지하면서 RTF 파일을 집계합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **백엔드 텍스트 처리 파이프라인 (RTF)**  
+
+&nbsp; RTF 병합이 텍스트 처리 서비스 내에서 자동화됩니다.
+
+
+
+* **대량 문서 처리 (RTF)**  
+
+&nbsp; 시스템이 대량의 RTF 파일을 프로그래밍 방식으로 병합합니다.
+
+
+
+* **호환성 중심 자동화 (RTF)**  
+
+&nbsp; 최대 이식성을 위해 RTF 파일이 자동으로 병합됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

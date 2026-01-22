@@ -75,7 +75,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Об'єднання сучасних робочих зошитів Excel за допомогою Python APIs є стандартним підходом для поєднання структурованих наборів даних, звітів та моделей. XLSX є найбільш поширеним форматом електронних таблиць у сучасних системах.
+
+
+
+Ця можливість інтегрується безперешкодно з платформами обробки даних, дозволяючи автоматизоване створення та об'єднання електронних таблиць в масштабах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні використання" %}}
+
+
+
+* **Створення звітів з декількома аркушами (XLSX)**  
+
+&nbsp; Об'єднайте файли XLSX в комплексний звітний зошит.
+
+
+
+* **Уніфікація джерел даних (XLSX)**  
+
+&nbsp; Об'єднайте набори даних XLSX з різних систем.
+
+
+
+* **Спільне складання даних (XLSX)**  
+
+&nbsp; Об'єднайте файли XLSX, надані різними зацікавленими сторонами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Динамічне створення електронних таблиць (XLSX)**  
+
+&nbsp; Системи об'єднують файли XLSX на основі умов даних під час виконання.
+
+
+
+* **Інтеграція конвеєра ETL (XLSX)**  
+
+&nbsp; Об'єднання XLSX автоматизовано в конвеєрах впровадження даних.
+
+
+
+* **Масштабована автоматизація звітності (XLSX)**  
+
+&nbsp; Великі обсяги звітів XLSX об'єднуються програмно.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

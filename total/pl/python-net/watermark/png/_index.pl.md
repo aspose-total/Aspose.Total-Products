@@ -73,7 +73,85 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Dodawanie znaku wodnego do obrazów w formacie **PNG** za pomocą interfejsów API w języku Python chroni grafiki, które polegają na ostrych krawędziach i przezroczystości, takie jak zasoby interfejsu użytkownika, diagramy i wizualizacje marki.
+
+Automatyzacja umożliwia spójne nakładanie znaków wodnych, jednocześnie szanując kanały alfa, co sprawia, że dodawanie znaków wodnych do plików PNG jest niezawodne dla systemów projektowych i publikacji internetowych na dużą skalę.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Ochrona Przezroczystego Logo**  
+
+&nbsp; Dodawaj znaki wodne do przeźroczystych logotypów w formacie PNG, aby zniechęcić do nieautoryzowanego ponownego wykorzystania.
+
+
+
+* **Własność Diagramu w Dokumentacji**  
+
+&nbsp; Oznaczaj diagramy techniczne, aby zachować atrybucję w skopiowanych bazach wiedzy.
+
+
+
+* **Zarządzanie Zasobami Interfejsu Użytkownika**  
+
+&nbsp; Dodawaj znaki wodne do wyeksportowanych makiety interfejsu w celu wyjaśnienia statusu projektu i własności.
+
+
+
+* **Kontrola Dystrybucji Pakietów Partnerskich**  
+
+&nbsp; Dodawaj identyfikatory do udostępnionych zasobów PNG, aby śledzić dystrybucję i ponowne wykorzystanie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Renderowanie Znaków Wodnych Z Zachowaniem Kanałów Alfa**  
+
+&nbsp; Dodawaj półprzezroczyste znaki wodne, nie naruszając przezroczystości oryginalnego obrazu.
+
+
+
+* **Oznaczanie Eksportu Projektu**  
+
+&nbsp; Automatycznie dodawaj znaki wodne do wyeksportowanych plików PNG, gdy zasoby są generowane z szablonów.
+
+
+
+* **Programowe Unikanie Nakładania Znaku Wodnego na Kluczowe Elementy UI lub Etykiety Diagramu**  
+
+&nbsp; Unikaj automatycznego nakładania znaku wodnego na kluczowe elementy interfejsu użytkownika lub etykiety diagramu.
+
+
+
+* **Automatyczna Produkcja Wariantów Dla Zespołów**  
+
+&nbsp; Generuj zestawy plików PNG z zespołowymi znakami wodnymi dla kontrolowanej współpracy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

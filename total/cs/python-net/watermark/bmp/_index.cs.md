@@ -73,7 +73,85 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Vodoznaky **BMP** obrázků s Python API přidávají viditelné vlastnictví, původ a odstrašení od manipulace k nekomprimovaným rastrovým grafikám často používaným v tiskových potrubích a technických prostředcích.
+
+Protože soubory BMP jsou velké a beze ztrát, vodoznaky vytvořené v Pythonu jsou ideální pro **vysokofrekvenční překryvy**, opakovatelná pravidla vykreslování a konzistentní umístění napříč knihovnami obrázků.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Značky vlastnictví technických prostředků**  
+
+&nbsp; Přidejte oddělení nebo projekční značky k technickým bitmapám pro snížení náhodného opakovaného použití a nesprávného směrování.
+
+
+
+* **Označení pro tiskovou přípravu**  
+
+&nbsp; Aplikujte překrytí "PROOF" nebo "DRAFT" bez artefaktů komprese, které by mohly ovlivnit schvalovací recenze.
+
+
+
+* **Označení katalogových obrázků ve zdrojové kvalitě**  
+
+&nbsp; Vložte konzistentní identifikační značky zachováním původních pixelových dat pro následné konverze.
+
+
+
+* **Označení pro dodržování předpisů u omezených vizuálů**  
+
+&nbsp; Vodoznačte citlivé grafiky s přístupovými klasifikacemi pro podporu manipulace řízené politikou.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadné vodoznakování v příjmových potrubích**  
+
+&nbsp; Automaticky označujte nově nahrávané BMP, když vstoupí do mediálního repozitáře.
+
+
+
+* **Pravidly stanovené umístění podle rozměrů**  
+
+&nbsp; Programově upravujte velikost vodoznaku a okraje na základě rozlišení obrázku.
+
+
+
+* **Generování důkazů spouštěných událostmi**  
+
+&nbsp; Vytvářejte vodoznakové varianty, když se změní stav souboru na recenzi nebo schválení.
+
+
+
+* **Sledování dvojitého kódování + vodoznak**  
+
+&nbsp; Kombinujte vodoznakování s hašováním souborů pro zlepšení sledovatelnosti v automatizovaných auditacích.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

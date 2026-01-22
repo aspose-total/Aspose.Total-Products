@@ -100,7 +100,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Аналіз **PDF-документів** за допомогою Python API дозволяє видобувати текстову інформацію та інформацію про макет з широко використовуваного формату з фіксованим макетом. PDF-файли є поширеними в звітах, рахунках та офіційних документах.
+
+
+
+Автоматизований аналіз PDF розблоковує нередагований контент для аналізу, пошуку та інтеграції в систему без ручного втручання.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* **Видобуток даних звітів**  
+
+&nbsp; Витягує текстовий вміст зі статичних PDF-звітів.
+
+
+
+* **Обробка архівних документів**  
+
+&nbsp; Конвертує PDF-файли в пошуковий та індексований текст.
+
+
+
+* **Системи пошуку інформації**  
+
+&nbsp; Дозволяє виявлення контенту великих колекцій PDF-файлів.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Заплановане введення PDF**  
+
+&nbsp; Автоматично обробляє вхідні PDF-файли на фіксованій каденції.
+
+
+
+* **Конвеєри нормалізації тексту**  
+
+&nbsp; Програмно очищає та стандартизує видобутий текст з PDF.
+
+
+
+* **Підтримка аналітики наступного рівня**  
+
+&nbsp; Подає розібраний вміст PDF у аналітичні або ML робочі процеси.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

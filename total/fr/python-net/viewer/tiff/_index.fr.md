@@ -82,7 +82,73 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La visualisation de documents TIFF avec des API Python prend en charge les formats d'image haute résolution et multi-pages couramment utilisés dans la numérisation et l'archivage.
+
+Cela permet une inspection précise des documents visuels détaillés.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Examen de documents numérisés**  
+
+  &nbsp; Visualiser des pages numérisées de haute qualité.
+
+
+
+* **Inspection d'images d'archives**  
+
+  &nbsp; Inspecter des fichiers d'images de qualité de préservation.
+
+
+
+* **Gestion d'images multi-pages**  
+
+  &nbsp; Naviguer dans des documents basés sur des images complexes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Vérification de numérisation automatisée**  
+
+  &nbsp; Les flux de travail Python affichent les fichiers numérisés pour l'assurance qualité.
+
+
+
+* **Vérifications d'intégrité d'archives**  
+
+  &nbsp; Les images stockées sont rendues périodiquement pour validation.
+
+
+
+* **Pipelines de numérisation de documents**  
+
+  &nbsp; Les visualiseurs automatisés prennent en charge les processus de numérisation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

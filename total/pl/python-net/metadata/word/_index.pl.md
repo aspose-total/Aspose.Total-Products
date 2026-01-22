@@ -98,7 +98,93 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Ekstrakcja metadanych dokumentów dla plików **Word** za pomocą interfejsów API w języku Python umożliwia programowe przechwytywanie podstawowych właściwości dokumentów przetwarzanych tekstowo — takich jak tytuł, autor, znaczniki czasu i niestandardowe pola — wspierając zarządzanie, wzbogacanie wyszukiwania oraz zarządzanie cyklem życia. Jest to niezbędne w operacjach opartych na dokumentach, gdzie ręczna inspekcja nie jest skalowalna.
+
+
+
+Po podłączeniu do systemów automatyzacji metadane Word stają się niezawodną warstwą do kierowania, walidacji i indeksowania — pomagając nowoczesnym przepływom pracy działać szybciej, konsekwentnie egzekwować standardy oraz płynnie integrować się z usługami przechowywania, wyszukiwania i raportowania.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Indeksowanie dokumentów przedsiębiorstwa**
+
+&nbsp; Wyodrębnij metadane w celu wypełnienia katalogów wspierających szybkie wyszukiwanie i spójną organizację.
+
+
+
+* **Walidacja zgodności z polityką**
+
+&nbsp; Sprawdź, czy wymagane pola metadanych istnieją, zanim dokumenty mogą trafić do kontrolowanych repozytoriów lub przepływów publikacji.
+
+
+
+* **Mapowanie właścicieli i odpowiedzialności**
+
+&nbsp; Wykorzystaj właściwości autora i edytora do przypisywania odpowiedzialności za recenzję i konserwację.
+
+
+
+* **Zarządzanie cyklem życia i retencją**
+
+&nbsp; Wykorzystaj znaczniki czasu tworzenia i modyfikacji do automatyzacji decyzji dotyczących retencji i archiwizacji.
+
+
+
+* **Analityka operacyjna i wnioski**
+
+&nbsp; Skonsoliduj metadane z dokumentów Word, aby ujawnić przestarzałość, luki w pokryciu i wąskie gardła procesowe.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Kierowanie dokumentami na podstawie metadanych**
+
+&nbsp; Automatycznie kieruj pliki Word do recenzji, zatwierdzenia lub archiwizacji na podstawie progów metadanych i reguł kompletności.
+
+
+
+* **Automatyczna synchronizacja katalogów**
+
+&nbsp; Wyodrębnij metadane Word zgodnie z harmonogramem i synchronizuj je z wewnętrznymi indeksami, aby zawsze mieć aktualne informacje.
+
+
+
+* **Obsługa wyjątków związanych z zarządzaniem**
+
+&nbsp; Wykryj brakujące właścicielstwo, podejrzane znaczniki czasu lub nieprawidłowe pola i automatycznie utwórz zadania naprawcze.
+
+
+
+* **Przygotowanie programowe do publikacji**
+
+&nbsp; Wykorzystaj metadane Word do wstępnego wypełniania pól publikacyjnych (tytuły, podsumowania, kategorie) i egzekwowania spójności między wynikami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

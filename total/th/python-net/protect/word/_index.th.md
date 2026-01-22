@@ -76,7 +76,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+หมวดหมู่รูปแบบ Word แทนเอกสารข้อความที่ใช้ในกระบวนการร่างแบบ รายงาน และการทำงานร่วมกัน การป้องกันไฟล์ Word ช่วยให้เอกสารมีความลับ ความสมบูรณ์ และการเข้าถึงที่ควบคุมได้ตลอดรอบชีวิตของมัน
+
+
+
+Python APIs ช่วยให้การป้องกันเอกสาร Word สามารถถูกอัตโนมัติได้ ทำให้ความปลอดภัยเป็นความสามารถที่ซึ่งรวมอยู่ในระบบการจัดการเนื้อหาและเอกสารที่ทันสมัย
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **การป้องกันเนื้อหาที่มีความลับ**  
+
+&nbsp; ป้องกันเอกสาร Word ที่มีข้อมูลที่ลับ
+
+
+
+* **การบังคับข้อจำกัดการแก้ไข**  
+
+&nbsp; ควบคุมใครสามารถแก้ไขหรือตรวจสอบเอกสารได้
+
+
+
+* **ความปลอดภัยของรอบชีวิตของเอกสาร**  
+
+&nbsp; ป้องกันไฟล์ในขั้นตอนต่าง ๆ ของการสร้างและการอนุมัติ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การป้องกันไฟล์ Word โดยอัตโนมัติ**  
+
+&nbsp; ใช้กฎความปลอดภัยโดยอัตโนมัติในขณะสร้างเอกสาร
+
+
+
+* **การควบคุมเอกสารตามบทบาท**  
+
+&nbsp; ป้องกันไฟล์ Word โดยไดนามิกตามบทบาทผู้ใช้
+
+
+
+* **กระบวนการทำงานที่ปลอดภัยจากจุดสิ้นสุดสู่จุดสิ้นสุด**  
+
+&nbsp; รวมการป้องกัน Word เข้ากับท่อไฟล์เอกสารที่อัตโนมัติอย่างสมบูรณ์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

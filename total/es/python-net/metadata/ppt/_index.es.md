@@ -75,7 +75,50 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La extracción de metadatos de documentos para archivos **PPT** a través de APIs de Python permite la gestión de activos de presentación heredados leyendo propiedades como autor, marcas de tiempo y campos descriptivos. Esto respalda la gobernanza y la capacidad de descubrimiento para organizaciones que aún mantienen bibliotecas de diapositivas antiguas.
+
+En flujos de trabajo automatizados, los metadatos de PPT pueden impulsar la clasificación, indexación y controles de ciclo de vida, lo que permite organizar, auditar y migrar grandes colecciones de presentaciones heredadas con un esfuerzo manual mínimo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principales Casos de Uso" %}}
+
+- **Auditoría de Biblioteca de Diapositivas Heredadas**
+  Extraer metadatos de PPT para comprender la antigüedad, propiedad y brechas de mantenimiento en las presentaciones archivadas.
+
+- **Evaluación de Preparación para Migración**
+  Utilizar metadatos para priorizar qué presentaciones de PPT deben convertirse o actualizarse primero.
+
+- **Enrutamiento de Mantenimiento Basado en Propiedad**
+  Identificar responsables a partir de los campos de autor/editor para dirigir eficientemente las solicitudes de actualización.
+
+- **Análisis de Portafolio de Contenido**
+  Agregar metadatos de PPT para medir la cobertura de la biblioteca, obsolescencia y riesgo operativo.
+
+- **Detección de Activos Duplicados**
+  Utilizar patrones de metadatos para detectar posibles duplicados y reducir el desorden en la biblioteca.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+- **Tubería de Ingesta de Biblioteca Heredada**
+  Ingerir automáticamente archivos PPT, extraer metadatos y asignarlos a un sistema de inventario con campos estandarizados.
+
+- **Automatización de Colas de Conversión**
+  Agregar presentaciones de PPT a colas de conversión basadas en la antigüedad de los metadatos y reglas de clasificación de uso.
+
+- **Flujo de Trabajo de Notificación de Presentaciones Obsoletas**
+  Activar alertas cuando los metadatos de PPT indiquen largos períodos sin actualizaciones o campos de propiedad faltantes.
+
+- **Trabajos de Limpieza Automatizada de Biblioteca**
+  Escanear periódicamente repositorios de PPT y poner en cuarentena activos identificados como duplicados o no gestionados según los metadatos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,69 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Programmatische Signierung von DOC-Dateien ermöglicht es, dass Legacy-Word-Dokumente formale Genehmigungsindikatoren tragen, ohne dass eine Formatkonvertierung erforderlich ist. Dies erhält die Kompatibilität mit älteren Dokumentsystemen und fügt Governance hinzu.
+
+
+
+Die auf Python basierende Automatisierung gewährleistet, dass die Signierung von DOC-Dateien konsistent erfolgt, was den manuellen Eingriff in dokumentenlastige Legacy-Workflows reduziert.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Genehmigung von Legacy-Verträgen**  
+  Fügen Sie Signaturdetails zu DOC-Verträgen hinzu, die in älteren Systemen verwendet werden.
+
+
+
+* **Genehmigung von Richtliniendokumenten**  
+  Markieren Sie DOC-Richtlinien als überprüft und genehmigt.
+
+
+
+* **Validierung von dokumentbasierten Vorlagen**  
+  Signieren Sie DOC-Vorlagen nach Abschlussprüfungen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Signierung bei Feldausfüllung**  
+  DOC-Dateien werden signiert, sobald obligatorische Felder ausgefüllt sind.
+
+
+
+* **Integration in Genehmigungsworkflows**  
+  Die Signierung wird durch Aktualisierungen des Genehmigungsstatus im Backend ausgelöst.
+
+
+
+* **Zertifizierung für Legacy-Archivierung**  
+  DOC-Dateien werden vor der Archivierung signiert.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

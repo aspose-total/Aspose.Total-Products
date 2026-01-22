@@ -76,7 +76,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'ları kullanarak **PPTX** dosyalarını aramak, yapılandırılmış slayt düzenleri, metin blokları ve konuşmacı notları içeren modern sunum belgelerine güvenilir erişim sağlar. PPTX dosyaları, raporlama, eğitim ve karar verme içeriği için geniş çapta kullanılmaktadır.
+
+
+
+Otomatik PPTX araması, ölçeklenebilir slayt analizi, akıllı geri alma ve bilgi ve içerik yönetim sistemleriyle sorunsuz entegrasyonu destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Yapılandırılmış Slayt Araması**  
+
+&nbsp; PPTX dosyaları içinde başlıkları, madde işaretlerini ve notları arar.
+
+
+
+* **Sunum İçeriği Analizi**  
+
+&nbsp; Ana temaları ve bölümleri programatik olarak tanımlar.
+
+
+
+* **Yeniden Kullanılabilir Slayt Keşfi**  
+
+&nbsp; Raporlarda veya destelerde yeniden kullanılmak üzere uygun slaytları bulur.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Sürekli PPTX İndeks Güncellemeleri**  
+
+&nbsp; Python hizmetleri yeni PPTX dosyalarını izler ve indeksler.
+
+
+
+* **Otomatik Slayt Sınıflandırması**  
+
+&nbsp; Slaytlar, çıkarılan içeriğe göre kategorilere ayrılır.
+
+
+
+* **PPTX İçerik Boruları**  
+
+&nbsp; Arama sonuçları, panoları ve otomasyon iş akışlarını besler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

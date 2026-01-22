@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Pemberian watermark pada lembar kerja **ODS** dengan Python API meningkatkan kontrol atas lembar kerja dokumen terbuka dengan menambahkan label tata kelola yang terlihat untuk kepemilikan, kerahasiaan, dan distribusi.
+
+Automatisasi pemberian watermark ODS mendukung alur kerja pelaporan yang dapat diskalakan, memastikan indikator kebijakan yang konsisten di seluruh dataset yang dibagikan dalam format terbuka.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Penandaan Lembar Data Rahasia**  
+
+&nbsp; Tandai file ODS yang sensitif untuk mengurangi risiko berbagi eksternal secara tidak sengaja.
+
+
+
+* **Label Data Awal**  
+
+&nbsp; Terapkan overlay "BELUM DIVERIFIKASI" selama siklus validasi data tahap awal.
+
+
+
+* **Pemberitahuan Penggunaan Data Mitra**  
+
+&nbsp; Tambahkan pemberitahuan yang terlihat yang menjelaskan lisensi dan batasan penggunaan ulang.
+
+
+
+* **Dukungan Jejak Audit Internal**  
+
+&nbsp; Watermark ekspor untuk membuat jelas sistem mana yang menghasilkan dataset tertentu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pemberian Watermark Ekspor ETL**  
+
+&nbsp; Tandai file ODS secara otomatis saat dihasilkan dari pipa data otomatis.
+
+
+
+* **Teks Watermark Berbasis Peran**  
+
+&nbsp; Sesuaikan konten watermark tergantung pada tim penerima atau tingkat akses.
+
+
+
+* **Kontrol Distribusi Laporan Terjadwal**  
+
+&nbsp; Terapkan watermark berdasarkan waktu sebelum mengirimkan laporan ODS periodik.
+
+
+
+* **Penandaan Kebijakan Retensi Otomatis**  
+
+&nbsp; Tambahkan label retensi visual untuk mendukung otomatisasi siklus hidup untuk lembar kerja yang disimpan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

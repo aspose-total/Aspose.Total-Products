@@ -79,7 +79,67 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusion de fichiers PowerPoint activés par macro à l'aide des API Python prend en charge les présentations contenant une logique intégrée, une automatisation ou des comportements interactifs. C'est courant dans les présentations d'entreprise et opérationnelles.
+
+
+
+L'automatisation garantit que les diapositives activées par macro sont fusionnées de manière fiable sans altérer les fonctionnalités intégrées.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+- **Assemblage de présentations basées sur les macros (PPTM)**  
+  Fusionner des fichiers PPTM contenant des éléments automatisés ou interactifs.
+
+
+
+- **Consolidation des diapositives opérationnelles (PPTM)**  
+  Combinez des présentations activées par macro utilisées dans les processus internes.
+
+
+
+- **Emballage interactif des decks (PPTM)**  
+  Agréger des fichiers PPTM dans une seule présentation exécutable.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+- **Génération de présentations basée sur des règles (PPTM)**  
+  Les systèmes fusionnent des fichiers PPTM en fonction de règles d'automatisation.
+
+
+
+- **Préservation des macros contrôlée en backend (PPTM)**  
+  Les pipelines automatisés fusionnent des fichiers PPTM tout en conservant la logique.
+
+
+
+- **Automatisation de la présentation de conformité (PPTM)**  
+  La fusion de PPTM prend en charge des sorties répétables et régies.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

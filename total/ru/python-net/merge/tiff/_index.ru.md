@@ -85,7 +85,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Объединение изображений TIFF с помощью API Python поддерживает рабочие процессы с высоким разрешением и многостраничные изображения, которые часто используются в печати, медицинском изображении и сканировании документов.
+
+
+
+Автоматизация обеспечивает надежную обработку больших наборов изображений с множеством деталей.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Сборка многостраничного сканирования (TIFF)**  
+
+&nbsp; Объединение страниц TIFF в один многостраничный файл.
+
+
+
+* **Обработка изображений высокого разрешения (TIFF)**  
+
+&nbsp; Объединение изображений TIFF для детального анализа.
+
+
+
+* **Подготовка изображений к печати (TIFF)**  
+
+&nbsp; Сборка файлов TIFF для рабочих процессов публикации.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированные конвейеры сканирования (TIFF)**  
+
+&nbsp; Системы объединяют файлы TIFF во время сканирования.
+
+
+
+* **Пакетная обработка изображений высокого разрешения (TIFF)**  
+
+&nbsp; Объединение TIFF выполняется в запланированных задачах.
+
+
+
+* **Автоматизация изображений предприятия (TIFF)**  
+
+&nbsp; Автоматизированные рабочие процессы управляют большими наборами данных TIFF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

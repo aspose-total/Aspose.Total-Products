@@ -73,7 +73,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODP dosyaları, birden fazla slayt ve görsel bileşen içeren açık standart sunumlar için kullanılır. ODP dosyalarını bölmek, slayt düzeyinde erişim ve yeniden kullanım sağlar.
+
+
+
+Python otomasyonu, ölçeklenebilir sunum işleme ve içerik yeniden kullanımı için verimli ODP bölme işlemini destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Slayt Düzeyinde Yeniden Kullanım**  
+
+  Individual slaytlar çıkarılabilir ve farklı sunumlarda yeniden kullanılabilir.
+
+
+
+* **Sunum İçeriği Analizi**  
+
+  Slaytları yapı veya meta veriler açısından bağımsız olarak analiz edin.
+
+
+
+* **İşbirlikçi Düzenleme**  
+
+  Ekipler izole slayt setleri üzerinde çalışır.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik Slayt Çıkarma**  
+
+  Python betikleri slaytları programlı olarak böler.
+
+
+
+* **Dinamik Sunum Montajı**  
+
+  Slaytlar çalışma zamanı kurallarına göre yeniden birleştirilir.
+
+
+
+* **Sunum Arşivleme Sistemleri**  
+
+  Slaytlar geri alınmak üzere bireysel olarak dizinlenir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

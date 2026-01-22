@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 탭으로 구분된 값 파일을 병합하면 구조화된 탭형 데이터를 빠르고 가벼운 방식으로 결합할 수 있습니다. TSV는 데이터 교환 및 전처리에 일반적으로 사용됩니다.
+
+
+
+자동화된 TSV 병합은 고성능 데이터 파이프라인 및 분석 워크플로우를 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **Raw Data Aggregation (TSV)**  
+
+&nbsp; 처리를 위해 TSV 파일을 단일 데이터 세트로 병합합니다.
+
+
+
+* **시스템 간 데이터 교환 (TSV)**  
+
+&nbsp; 다른 플랫폼에서 TSV 내보내기를 결합합니다.
+
+
+
+* **사전 분석 데이터 준비 (TSV)**  
+
+&nbsp; 분석 변환 전에 TSV 파일을 병합합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **스트림 기반 데이터 처리 (TSV)**  
+
+&nbsp; 자동화된 시스템이 데이터 스트림에서 TSV 파일을 병합합니다.
+
+
+
+* **일괄 ETL 작업 (TSV)**  
+
+&nbsp; 예약된 ETL 작업 중에 TSV 병합이 발생합니다.
+
+
+
+* **확장 가능한 탭형 데이터 파이프라인 (TSV)**  
+
+&nbsp; 프로그래밍 방식의 병합은 대규모 TSV 데이터 세트를 지원합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

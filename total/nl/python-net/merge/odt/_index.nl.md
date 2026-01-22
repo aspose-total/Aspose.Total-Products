@@ -78,7 +78,75 @@ Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het samenvoegen van OpenDocument-tekstbestanden met behulp van Python-API's ondersteunt open standaarden en cross-platform documentworkflows. Het maakt naadloze consolidatie van inhoud mogelijk die is gemaakt in open-source of gemengde kantooromgevingen.
+
+
+
+Automatisering rond ODT-samenvoeging zorgt voor interoperabiliteit terwijl de documentintegriteit over systemen behouden blijft.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Cross-Platform Documentconsolidatie (ODT)**  
+
+  Merge ODT-bestanden die zijn gemaakt in verschillende kantoorpakketten.
+
+
+
+* **Aggregatie van Inhoud volgens Open Standaarden (ODT)**  
+
+  Combineer ODT-documenten voor uniforme publicatie.
+
+
+
+* **Samenstellen van Samenwerkende Inhoud (ODT)**  
+
+  Voeg ODT-bestanden van meerdere bijdragers samen in één document.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Open Workflowautomatisering (ODT)**  
+
+  Geautomatiseerde systemen voegen ODT-bestanden samen zonder afhankelijkheid van eigen systemen.
+
+
+
+* **Geplande Documentcompilatie (ODT)**  
+
+  Het samenvoegen van ODT-bestanden wordt uitgevoerd als onderdeel van terugkerende backendtaken.
+
+
+
+* **Interoperabele Publicatiepijplijnen (ODT)**  
+
+  ODT-bestanden worden dynamisch samengevoegd in cross-system pijplijnen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

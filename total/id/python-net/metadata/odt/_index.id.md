@@ -98,7 +98,93 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Ekstraksi metadata dokumen untuk file **ODT** melalui API Python memberikan akses programatik ke properti dokumen teks—memungkinkan audit, klasifikasi, dan peningkatan pencarian tanpa harus mengandalkan inspeksi manual. Hal ini penting untuk tata kelola dokumen, manajemen pengetahuan, dan pelacakan siklus hidup dokumen.
+
+
+
+Dalam sistem otomatisasi, metadata ODT dapat digunakan untuk menegakkan standar, merute persetujuan, dan menyinkronkan katalog—mendukung pemrosesan yang scalable di repositori besar dengan aturan yang konsisten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Utama" %}}
+
+
+
+* **Organisasi Basis Pengetahuan**
+
+  Gunakan metadata ODT untuk mengategorikan dan mengindeks dokumen internal untuk pengambilan data yang lebih cepat.
+
+
+
+* **Kontrol Kepemilikan dan Pengelolaan**
+
+  Ekstrak bidang penulis dan editor untuk menetapkan pemeriksa dan mempertahankan akuntabilitas.
+
+
+
+* **Keputusan Retensi dan Arsip**
+
+  Gunakan timestamp untuk menentukan apakah file ODT harus diarsipkan, dipertahankan, atau diperbarui.
+
+
+
+* **Normalisasi Metadata untuk Analitika**
+
+  Konversi properti ODT menjadi bidang yang konsisten untuk pelaporan dan analisis tren.
+
+
+
+* **Validasi Sebelum Publikasi**
+
+  Validasi bidang deskriptif yang diperlukan sebelum mengonversi dokumen ODT menjadi format yang dipublikasikan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Klasifikasi Penerimaan Berbasis Aturan**
+
+  Otomatis mengklasifikasikan dokumen ODT ke dalam alur kerja menggunakan keberadaan metadata, kepemilikan, dan timestamp.
+
+
+
+* **Alur Kerja Sinkronisasi Katalog**
+
+  Ekstrak metadata ODT setiap malam dan sinkronkan ke registri terpusat yang digunakan oleh sistem pencarian internal.
+
+
+
+* **Pemeriksaan Dokumentasi Otomatis**
+
+  Pemicu tugas pemeriksaan untuk file ODT ketika metadata menunjukkan bahwa mereka belum diperbarui dalam jendela kebijakan.
+
+
+
+* **Pemetaan Kebijakan Akses Metadata**
+
+  Terapkan aturan akses secara dinamis ketika metadata ODT menunjukkan kategori konten yang terbatas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

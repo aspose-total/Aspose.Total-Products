@@ -100,7 +100,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Parsování **PDF dokumentů** s Python API umožňuje extrakci textu a informací o rozložení z běžně používaného formátu s pevným rozložením. PDF soubory jsou běžné v zprávách, fakturách a oficiálních záznamech.
+
+
+
+Automatizované parsování PDF odemyká neupravitelný obsah pro analýzu, vyhledávání a integraci do systému bez manuálního zásahu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Extrakce dat ze zpráv**  
+
+&nbsp; Získává textový obsah ze statických PDF zpráv.
+
+
+
+* **Zpracování archivních dokumentů**  
+
+&nbsp; Převádí PDF do vyhledatelného a indexovatelného textu.
+
+
+
+* **Systémy pro získávání informací**  
+
+&nbsp; Umožňuje objevování obsahu v rozsáhlých kolekcích PDF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Plánované zpracování PDF**  
+
+&nbsp; Automaticky zpracovává příchozí PDF soubory s pevným rytmem.
+
+
+
+* **Normalizační potrubí pro text**  
+
+&nbsp; Programaticky čistí a standardizuje extrahovaný text z PDF.
+
+
+
+* **Podpora analýzy níže**  
+
+&nbsp; Zásobuje parsovaný obsah PDF do analytických nebo ML pracovních postupů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

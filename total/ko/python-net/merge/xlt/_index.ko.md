@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 Excel 템플릿 형식을 병합하면 생성된 스프레드시트 전체에 일관된 구조와 레이아웃이 유지됩니다. 템플릿 기반 병합은 표준화된 보고서 및 데이터 입력 워크플로에 중요합니다.
+
+
+
+자동화를 통해 수동 서식 지정 없이 일관된 스프레드시트를 신속하게 생성할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **템플릿 기반 스프레드시트 조립 (XLT)**  
+
+&nbsp; 일관된 레이아웃을 강제하기 위해 XLT 기반 파일을 병합합니다.
+
+
+
+* **표준화된 데이터 수집 (XLT)**  
+
+&nbsp; 템플릿 기반 스프레드시트를 하나의 파일로 결합합니다.
+
+
+
+* **재사용 가능한 스프레드시트 구조 (XLT)**  
+
+&nbsp; 일관된 디자인을 유지하기 위해 XLT 문서를 집계합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동화된 템플릿 적용 (XLT)**  
+
+&nbsp; 생성 중 자동으로 XLT 파일을 병합합니다.
+
+
+
+* **일괄 템플릿 처리 (XLT)**  
+
+&nbsp; 예약된 작업이 여러 XLT 기반 스프레드시트를 병합합니다.
+
+
+
+* **레이아웃 제어된 자동화 (XLT)**  
+
+&nbsp; 시스템이 형식 일관성을 보장하기 위해 XLT 파일을 병합합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -90,7 +90,73 @@ DOTX ビューア アプリまたはユーティリティを開発する必要�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用してDOTXファイルを表示すると、マクロの実行なしにモダンなWordテンプレートへの構造化されたアクセスが可能です。
+
+これはスケーラブルで、テンプレート駆動のドキュメントシステムをサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **モダンテンプレートの検査**  
+
+&nbsp; 構造化されたレイアウトと事前定義されたスタイルを表示します。
+
+
+
+* **ブランドの一貫性の検証**  
+
+&nbsp; テンプレートがフォーマット基準に適合していることを確認します。
+
+
+
+* **ワークフローの準備チェック**  
+
+&nbsp; テンプレートが自動化された使用に適していることを確認します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **テンプレート展開パイプライン**  
+
+&nbsp; ロールアウト前にDOTXファイルが自動的にレンダリングされます。
+
+
+
+* **自動化されたフォーマット監査**  
+
+&nbsp; Pythonスクリプトがテンプレートをコンプライアンスに検査します。
+
+
+
+* **コンテンツ生成の検証**  
+
+&nbsp; 表示により、テンプレートが期待どおりに機能することが確認されます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

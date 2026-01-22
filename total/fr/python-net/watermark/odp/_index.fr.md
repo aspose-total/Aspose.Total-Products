@@ -79,7 +79,85 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'ajout de filigranes aux fichiers de présentation **ODP** avec des API Python aide à contrôler la distribution des diaporamas en marquant la propriété, la confidentialité ou l'état de révision directement sur les diapositives.
+
+L'automatisation facilite l'estampillage des fichiers ODP par lot, soutenant une gouvernance cohérente pour la formation interne, les propositions et les présentations aux partenaires.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Étiquetage confidentiel des diaporamas**  
+
+&nbsp; Appliquer des marques de confidentialité visibles sur toutes les diapositives pour réduire le partage involontaire.
+
+
+
+* **Propriété des propositions pour les diaporamas clients**  
+
+&nbsp; Apposer des avis de propriété pour clarifier l'utilisation autorisée du contenu de la présentation.
+
+
+
+* **Attribution du matériel de formation**  
+
+&nbsp; Filigraner les diaporamas de formation pour conserver l'identité de la source lorsqu'ils sont partagés entre les équipes.
+
+
+
+* **Indicateurs d'étape de révision**  
+
+&nbsp; Ajouter des superpositions "BROUILLON" ou "À REVOIR" pour éviter une distribution prématurée.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Injection de filigrane sur toute la diapositive**  
+
+&nbsp; Appliquer de manière programmée le même filigrane à chaque diapositive pour une visibilité cohérente.
+
+
+
+* **Intégration du flux de travail d'approbation**  
+
+&nbsp; Supprimer automatiquement les filigranes de brouillon et appliquer les marques finales après les approbations.
+
+
+
+* **Règles de positionnement basées sur des modèles**  
+
+&nbsp; Placer les filigranes en fonction des types de mise en page des diapositives pour éviter de couvrir le contenu clé.
+
+
+
+* **Traitement par lot pour le nettoyage du référentiel**  
+
+&nbsp; Filigraner les anciens diaporamas ODP lors de l'archivage ou de la migration pour standardiser la politique.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,85 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用して**IMAGE**ファイル（一般的なパイプライン）に透かしを入れると、現代のシステムで扱われるさまざまな画像タイプに対して所有権と使用規則を押印するための一貫したアプローチが提供されます。
+
+統合された自動化レイヤーは、異種の入力にわたる透かしを簡素化し、標準化された処理、監査可能性、スケーラブルなメディアガバナンスを実現します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+
+
+* **異なる形式間での統一されたブランディング**
+
+  &nbsp; 入力画像が種類やサイズによって異なる場合でも、同じ透かしポリシーを適用します。
+
+
+
+* **コンテンツライブラリの資産の由来**
+
+  &nbsp; コピー、リサイズ、再ホスト後もソースの識別情報を保持するために画像にマークを付けます。
+
+
+
+* **機密性の高いビジュアルラベリング**
+
+  &nbsp; 内部グラフィックの誤用を制限するためにリスクや分類ラベルを追加します。
+
+
+
+* **パートナー配布のトラッキング**
+
+  &nbsp; トレーサビリティを向上させるために共有画像に固有の識別子を押印します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **すべての画像入力用の単一のAPIエンドポイント**
+
+  &nbsp; 統一された動作のために異なる画像形式を1つの透かしサービスにルーティングします。
+
+
+
+* **自動方向検出と安全ゾーン**
+
+  &nbsp; 顔、ロゴ、および主要なコンテンツ領域を避けるために透かしをプログラムで配置します。
+
+
+
+* **キューを使用したバッチ処理**
+
+  &nbsp; ワークフローを応答性の高い状態に保つために大規模なメディアセットに非同期で透かしを入れます。
+
+
+
+* **アセットの再編集なしでポリシーの更新**
+
+  &nbsp; 透かしルールが変更された場合に、手作業のデザイン作業なしに透かし付きのバリアントを再生成します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

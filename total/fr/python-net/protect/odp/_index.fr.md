@@ -71,7 +71,75 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Les fichiers ODP sont couramment utilisés pour les flux de travail de présentation standard ouverts. Protéger ces fichiers de présentation garantit que le contenu visuel et les messages restent intacts lors du partage et de la collaboration.
+
+
+
+Avec les API Python, les présentations ODP peuvent être protégées automatiquement, permettant une manipulation sécurisée au sein de systèmes de génération et de livraison de présentations évolutifs.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Protection de l'intégrité de la présentation**  
+
+&nbsp; Empêcher les modifications non autorisées des diapositives et des mises en page.
+
+
+
+* **Briefings confidentiels**  
+
+&nbsp; Sécuriser les présentations sensibles avant de les partager en interne ou en externe.
+
+
+
+* **Gouvernance de présentation standardisée**  
+
+&nbsp; Appliquer des règles de protection cohérentes à tous les fichiers ODP.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Protection automatisée des diapositives**  
+
+&nbsp; Sécuriser les fichiers ODP immédiatement après leur création automatisée.
+
+
+
+* **Application de la sécurité basée sur le pipeline**  
+
+&nbsp; Appliquer la protection lors des flux de travail de contenu de style CI/CD.
+
+
+
+* **Restrictions d'accès programmatiques**  
+
+&nbsp; Contrôler dynamiquement les droits de modification et de visualisation via des scripts.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

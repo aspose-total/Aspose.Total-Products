@@ -73,7 +73,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Podpisování PDF s Python API poskytuje silné záruky integrity, authenticity a non-repudiation pro finalizované dokumenty. To je klíčové pro externí sdílení a regulované pracovní postupy.
+
+
+
+Automatizované podpisování PDF zajistí, že dokumenty jsou kryptograficky zapečetěny v přesném okamžiku dokončení procesu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Certifikace právních dokumentů**  
+
+&nbsp; Digitálně podepisujte PDF pro zajištění authenticity.
+
+
+
+* **Schválení faktur a financí**  
+
+&nbsp; Aplikujte podpisy na schválené finanční dokumenty.
+
+
+
+* **Dokončení dokumentace pro dodržování předpisů**  
+
+&nbsp; Zapečetěte PDF používané při auditu nebo reportingu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Kryptografické podepisování na konci pracovního postupu**  
+
+&nbsp; PDF jsou podepsány, když procesy dosáhnou dokončení.
+
+
+
+* **Plánované hromadné podepisování**  
+
+&nbsp; Více PDF je podepsáno v definovaných intervalech.
+
+
+
+* **Příprava zabezpečené distribuce**  
+
+&nbsp; Podepisování probíhá před externím doručením.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

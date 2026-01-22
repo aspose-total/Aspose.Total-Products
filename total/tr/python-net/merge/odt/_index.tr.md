@@ -78,7 +78,77 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri kullanarak OpenDocument Metin dosyalarını birleştirmek, açık standartları ve platformlar arası belge iş akışlarını destekler. Açık kaynak veya karma ofis ortamlarında oluşturulan içeriğin sorunsuz bir şekilde birleştirilmesini sağlar.
+
+
+
+ODT birleştirme etrafındaki otomasyon, belge bütünlüğünü korurken sistemler arasında etkileşim sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Platformlar Arası Belge Birleştirme (ODT)**  
+
+&nbsp; Farklı ofis paketleri arasında oluşturulan ODT dosyalarını birleştirin.
+
+
+
+* **Açık Standart İçerik Birleştirme (ODT)**  
+
+&nbsp; Birleştirilmiş yayınlama için ODT belgelerini birleştirin.
+
+
+
+* **İşbirlikçi İçerik Montajı (ODT)**  
+
+&nbsp; Birden fazla katkı sağlayıcıdan gelen ODT dosyalarını tek bir belgede birleştirin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Açık İş Akışı Otomasyonu (ODT)**  
+
+&nbsp; Özel bağımlılıklar olmadan otomatik sistemler ODT dosyalarını birleştirir.
+
+
+
+* **Zamanlanmış Belge Derleme (ODT)**  
+
+&nbsp; ODT birleştirme, tekrarlayan arka uç görevlerinin bir parçası olarak çalışır.
+
+
+
+* **Etkileşimli Yayınlama Boruları (ODT)**  
+
+&nbsp; ODT dosyaları, çapraz sistem borularında dinamik olarak birleştirilir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -82,7 +82,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+يدعم عرض PNG باستخدام واجهات برمجة تطبيقات Python عرض صور عالية الجودة وخالية من الفقد مع التعامل مع الشفافية.
+
+هذا مثالي لسيناريوهات الأتمتة التي تتطلب دقة بصرية وتكامل صور مرن.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **مراجعة الصور بدون فقدان**  
+
+&nbsp; عرض الصور بدون تشوهات الضغط.
+
+
+
+* **تفتيش الأصول الشفافة**  
+
+&nbsp; فحص الصور بقنوات ألفا بدقة.
+
+
+
+* **التحقق من أصول واجهة المستخدم**  
+
+&nbsp; مراجعة الأصول البصرية المستخدمة في التطبيقات أو المستندات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **أتمتة خط أنابيب الأصول**  
+
+&nbsp; تقوم النصوص بتقديم ملفات PNG أثناء التحقق من البناء أو النشر.
+
+
+
+* **خدمات المعاينة الديناميكية**  
+
+&nbsp; يتم عرض الصور تلقائيًا في لوحات التحكم أو الأدوات.
+
+
+
+* **اختبار الانحدار البصري**  
+
+&nbsp; يدعم العرض التلقائي عمليات المقارنة والتحقق.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,63 @@ Có các tùy chọn thay thế để cài đặt '[Aspose.Slides for Python via
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTX là một định dạng trình bày dựa trên XML hiện đại được thiết kế cho nội dung trình bày có cấu trúc. Chia nhỏ các tệp PPTX giúp kiểm soát chi tiết dữ liệu cấp độ trang.
+
+
+
+Tự động dựa trên Python hỗ trợ xử lý PPTX đáng tin cậy, có khả năng mở rộng và nhận biết định dạng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Quản Lý Nội Dung Cấp Độ Trang**  &nbsp; Quản lý các trang cá nhân như các đơn vị độc lập.
+
+
+
+* **Tùy Biến Bộ Slide Tự Động**  &nbsp; Tạo các bản trình bày cá nhân hóa từ các trang được trích xuất.
+
+
+
+* **Phân Tích Trình Bày**  &nbsp; Phân tích nội dung trang theo cách lập trình.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Phân Tích Trang Hiểu XML**  &nbsp; Kịch bản Python trích xuất các trang một cách chính xác.
+
+
+
+* **Tổ Chức Bộ Slide Dựa Trên Quy Tắc**  &nbsp; Các trang được tổ chức một cách linh hoạt.
+
+
+
+* **Đường Ốc Xem Xét Tự Động**  &nbsp; Các trang được xác thực một cách độc lập.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX - це сучасний формат документів Word, широко використовуваний для звітів, контрактів та спільних документів. Захист DOCX-файлів є критичним для збереження цілісності контенту та запобігання несанкціонованих змін у цифрових робочих процесах.
+
+
+
+Python APIs дозволяють безперешкодно захищати DOCX-файли, застосовуючи паролі та налаштування дозволів, зроблюючи безпеку документів вбудованою частиною автоматизованих конвеєрів контенту.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+
+
+
+* **Захист контрактів**  
+
+&nbsp; Захистіть DOCX-контракти, щоб запобігти несанкціонованим редагуванням після затвердження.
+
+
+
+* **Контроль спільного контенту**  
+
+&nbsp; Заблокуйте чутливі розділи, дозволяючи обмежену взаємодію користувачів.
+
+
+
+* **Захист інтелектуальної власності**  
+
+&nbsp; Захистіть власні документи, які обмінюються між відділами або партнерами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Блокування документів на основі робочого процесу**  
+
+&nbsp; Автоматично захищайте DOCX-файли на певних етапах робочого процесу.
+
+
+
+* **Динамічне призначення дозволів**  
+
+&nbsp; Застосовуйте обмеження на основі ролей програмно під час генерації документів.
+
+
+
+* **Захист вмісту при публікації**  
+
+&nbsp; Захистіть виходи DOCX перед автоматизованою дистрибуцією або зберіганням.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

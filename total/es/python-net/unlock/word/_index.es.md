@@ -72,7 +72,69 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Los documentos de Word, independientemente de su estructura interna, a menudo están protegidos para controlar las ediciones y el acceso. Desbloquearlos de forma programática permite un acceso estructurado para la automatización, el análisis y la integración de sistemas.
+
+
+
+Las APIs de Python permiten incorporar de forma segura el desbloqueo de documentos de Word en los flujos de documentos, garantizando eficiencia y repetibilidad.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+- **Procesamiento unificado de documentos**  
+  &nbsp; Permite el manejo consistente de archivos de procesamiento de texto protegidos.
+
+
+
+- **Revisión de contenido automatizada**  
+  &nbsp; Admite la inspección de documentos bloqueados sin pasos manuales.
+
+
+
+- **Integración de sistema a sistema**  
+  &nbsp; Permite que los archivos de Word protegidos fluyan a través de plataformas automatizadas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+- **Flujos de documentos de extremo a extremo**  
+  &nbsp; Los archivos de Word se desbloquean automáticamente en el momento de la ingestión.
+
+
+
+- **Acceso a documentos basado en políticas**  
+  &nbsp; El desbloqueo se activa por reglas de flujo de trabajo y permisos.
+
+
+
+- **Optimización continua de contenido**  
+  &nbsp; Los documentos protegidos se desbloquean para mejoras automatizadas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -123,7 +185,7 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

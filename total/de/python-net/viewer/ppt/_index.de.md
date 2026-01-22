@@ -89,7 +89,67 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Das Anzeigen von PPT-Dateien mit Python-APIs ermöglicht die Inspektion von Legacy-Präsentationsdokumenten, die in älteren Systemen verwendet werden.
+
+Dies unterstützt die Automatisierung, wenn Abwärtskompatibilität erforderlich ist.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+- **Überprüfung von Legacy-Präsentationen**
+  &nbsp; Ältere Folien-Decks programmgesteuert anzeigen.
+
+
+
+- **Unterstützung bei der Inhaltsmigration**
+  &nbsp; Präsentationen vor dem Upgrade von Formaten überprüfen.
+
+
+
+- **Präsentationsvalidierung**
+  &nbsp; Sicherstellen, dass die Folien-Daten intakt bleiben.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+- **Legacy-Audit-Pipelines**
+  &nbsp; Python-Workflows rendern PPT-Dateien zur Inspektion.
+
+
+
+- **Vor-Konvertierungsvalidierung**
+  &nbsp; Die Anzeige stellt eine sichere Formatmigration sicher.
+
+
+
+- **Batch-Prüfung von Präsentationen**
+  &nbsp; Große Sammlungen werden automatisch überprüft.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

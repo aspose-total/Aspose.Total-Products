@@ -77,7 +77,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API进行ODP文件的文档编辑，可以安全处理使用开放文档标准创建的演示文稿内容。在共享可能包含敏感或专有信息的幻灯片时，这一点至关重要。
+
+
+
+自动化确保ODP演示文稿可以一致地进行清理，支持演示资产上的可扩展和可重复的隐私控制。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **机密幻灯片共享**  
+
+  &nbsp; 在分发之前从演示幻灯片中删除敏感数据。
+
+
+
+* **开放格式治理**  
+
+  &nbsp; 在开放标准演示文件上执行数据保护策略。
+
+
+
+* **培训材料清理**  
+
+  &nbsp; 在发布学习内容之前消除内部引用。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **幻灯片级别的编辑规则**  
+
+  &nbsp; 自动从特定幻灯片或布局中清除内容。
+
+
+
+* **演示构建流水线**  
+
+  &nbsp; 将清除集成到自动化演示生成工作流程中。
+
+
+
+* **定期合规扫描**  
+
+  &nbsp; 使用自动作业定期清理存储的ODP文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

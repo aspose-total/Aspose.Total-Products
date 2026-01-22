@@ -77,7 +77,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Redakce dokumentů pomocí Python API pro soubory ODP umožňuje bezpečné zacházení s obsahem prezentace vytvořeným ve standardních otevřených dokumentech. To je zásadní při sdílení snímků, které mohou obsahovat citlivé nebo vlastní informace.
+
+
+
+Automatizace zajišťuje, že prezentace ODP mohou být konzistentně očištěny, podporujíc škálovatelná a opakovatelná ochranná opatření soukromí přes prezentace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití případy" %}}
+
+
+
+* **Sdílení důvěrných snímků**  
+
+&nbsp; Odeberte citlivá data ze snímků prezentace před distribucí.
+
+
+
+* **Správa otevřeného formátu**  
+
+&nbsp; Prosazovat politiky ochrany dat na souborech prezentací ve standardním otevřeném formátu.
+
+
+
+* **Sanitizace výukových materiálů**  
+
+&nbsp; Redakce interních odkazů před zveřejněním vzdělávacího obsahu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Pravidla redakce na úrovni snímku**  
+
+&nbsp; Automaticky redigovat obsah z konkrétních snímků nebo rozložení.
+
+
+
+* **Prezentační sestavy**  
+
+&nbsp; Integrovat redakci do automatizovaných pracovních postupů generování prezentací.
+
+
+
+* **Plánované kontroly souladu**  
+
+&nbsp; Pravidelně očišťovat uložené soubory ODP pomocí automatizovaných úkolů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

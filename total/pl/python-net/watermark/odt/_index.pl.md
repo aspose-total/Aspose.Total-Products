@@ -79,7 +79,85 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Znakowanie wodne dokumentów **ODT** za pomocą interfejsów API w języku Python pomaga chronić pliki tekstowe w formacie otwartym, dodając czytelne znaki własności i poufności, zachowując jednocześnie dostępność treści w otwartych ekosystemach.
+
+Automatyzacja umożliwia stosowanie spójnych reguł znakowania wodnego w bibliotekach ODT, wspierając skalowalne zarządzanie dokumentami dla zespołów korzystających z otwartych formatów.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Etykietowanie zgodne z polityką otwartego formatu**  
+
+&nbsp; Oznaczaj dokumenty ODT jako "WEWNĘTRZNE" lub "POUFNE", aby zmniejszyć ryzyko błędów w kierowaniu.
+
+
+
+* **Kontrola wersji podczas wspólnej redakcji**  
+
+&nbsp; Nakładaj nakładki "WERSJA ROBOCZA" podczas cykli iteracyjnego edytowania.
+
+
+
+* **Ostrzeżenia dystrybucyjne dla udostępnionych dokumentów**  
+
+&nbsp; Dodaj ograniczenia dotyczące ponownego wykorzystania do dokumentów udostępnionych kontrahentom lub partnerom.
+
+
+
+* **Zachowanie tożsamości archiwalnej**  
+
+&nbsp; Znakuj eksportowane pliki ODT, aby właściciel był widoczny nawet po skopiowaniu między systemami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Generator dokumentów + krok znakowania wodnego**  
+
+&nbsp; Automatycznie znakuj pliki ODT wygenerowane z szablonów lub danych strukturalnych.
+
+
+
+* **Egzekwowanie polityki repozytorium**  
+
+&nbsp; Nakładaj znaki wodne, gdy pliki ODT są przesyłane do regulowanych folderów.
+
+
+
+* **Automatyczna zmiana znaku wodnego w zależności od wersji**  
+
+&nbsp; Zmień tekst znaku wodnego na podstawie stanu wersji (robocza, przegląd, ostateczna) programowo.
+
+
+
+* **Potoki eksportu zgodności**  
+
+&nbsp; Oznacz eksportowane pliki ODT używane do audytów, aby zapewnić spójne etykietowanie we wszystkich przesłaniach.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

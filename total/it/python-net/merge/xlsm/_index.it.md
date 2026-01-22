@@ -78,7 +78,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusione di fogli di calcolo Excel abilitati alle macro utilizzando le API di Python consente la consolidazione della logica basata sui dati, dei calcoli e dell'automazione incorporati nei workbook. Questo è comune negli ambienti operativi e finanziari.
+
+
+
+La fusione automatizzata di file XLSM garantisce che i dati e il comportamento basato sulle macro siano preservati all'interno di sistemi scalabili.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Assemblaggio di Report basati su Macro (XLSM)**  
+
+&nbsp; Unire file XLSM contenenti calcoli e logiche automatizzate.
+
+
+
+* **Consolidamento di Workbook Operativi (XLSM)**  
+
+&nbsp; Combinare fogli di calcolo abilitati alle macro tra dipartimenti.
+
+
+
+* **Confezionamento dell'Automazione dei Processi (XLSM)**  
+
+&nbsp; Aggregare file XLSM utilizzati in processi operativi ricorrenti.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Generazione di Workbook basata su Regole (XLSM)**  
+
+&nbsp; I sistemi uniscono file XLSM basandosi su regole di automazione definite.
+
+
+
+* **Modellazione Finanziaria Automatizzata (XLSM)**  
+
+&nbsp; La fusione di XLSM supporta flussi di lavoro finanziari ripetibili.
+
+
+
+* **Preservazione Controllata delle Macro (XLSM)**  
+
+&nbsp; Le pipeline automatizzate uniscono file XLSM preservando le macro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

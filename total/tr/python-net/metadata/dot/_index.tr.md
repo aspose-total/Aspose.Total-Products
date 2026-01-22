@@ -98,7 +98,93 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri aracılığıyla **DOT** dosyaları için belge meta verilerinin çıkarılması, gömülü özelliklerin okunması yoluyla eski şablon varlıklarını anlama ve yönetmeyi destekler; şablon yazarı, oluşturma zamanları ve açıklayıcı alanlar gibi gömülü özellikleri okuyarak. Bu, standartlaştırma, yönetişim ve bir organizasyon içinde tutarlı belge çıktılarının sürdürülmesi açısından önemlidir.
+
+
+
+Otomatik sistemlerde, DOT meta verileri kontrol edilen şablon yaşam döngüsü yönetimini sağlar - boru hatlarının doğru şablonları seçmesine, onaylanmış standartları uygulamasına ve ölçekte eski veya yönetilmeyen şablon dosyalarını tespit etmesine yardımcı olur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Şablon Kataloğu Oluşturma**
+
+  Aramalı bir şablon envanteri oluşturmak için DOT meta verilerini çıkarın ve amaçlanan amaçlarını.
+
+
+
+* **Standartlaştırma Uygulaması**
+
+  Sahiplik ve açıklayıcı özellikleri kontrol ederek onaylanmış hangi şablonların olduğunu belirleyin.
+
+
+
+* **Şablon Yaşam Döngüsü Takibi**
+
+  Oluşturulan/değiştirilen zamanları izleyerek, revizyon veya emeklilik gerektiren eski şablonları tespit edin.
+
+
+
+* **Şablon Kullanımı Yönetişimi**
+
+  Kontrollü dağıtım için şablonları departmanlara veya iş akışlarına bağlamak için meta verileri kullanın.
+
+
+
+* **Denetim İçin Hazır Şablon Kayıtları**
+
+  Uyumluluk gereksinimleri için şablon kökenlerini ve bakım geçmişini gösteren izlenebilir kayıtlar üretin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Onaylı Şablon Geçiş Kapısı**
+
+  Meta veri kurallarına dayanarak paylaşılan depolarda saklanmasına izin verilmeyen onaylanmamış DOT şablonlarını otomatik olarak engelleyin.
+
+
+
+* **Zamanlanmış Şablon Yenileme Uyarıları**
+
+  DOT şablonları belirli yaş eşiklerini aştığında veya bakım sahaları eksik olduğunda periyodik bildirimleri tetikleyin.
+
+
+
+* **Şablon Seçimi Otomasyonu**
+
+  Bir iş akışı veya departman için doğru DOT şablonu programatik olarak seçmek için meta verileri kullanın.
+
+
+
+* **Depo Temizleme İş Akışı**
+
+  Meta veri benzerliği ve zaman damgalarını kullanarak yinelenen veya eski DOT şablonları tanımlayın ve karantinaya alın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

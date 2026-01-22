@@ -72,7 +72,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Документы Word, независимо от внутренней структуры, часто защищены для контроля правок и доступа. Их программное разблокирование обеспечивает структурированный доступ для автоматизации, анализа и интеграции систем.
+
+
+
+API Python позволяют безопасно встраивать разблокирование документов Word в процессы обработки документов, обеспечивая эффективность и повторяемость.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Обработка единого документа**  
+
+  &nbsp; Обеспечивает последовательную обработку защищенных файлов обработки текста.
+
+
+
+* **Автоматизированный контроль содержимого**  
+
+  &nbsp; Поддерживает проверку заблокированных документов без ручных шагов.
+
+
+
+* **Интеграция систем-система**  
+
+  &nbsp; Позволяет защищенным файлам Word проходить через автоматизированные платформы.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Полные циклы обработки документов**  
+
+  &nbsp; Файлы Word автоматически разблокируются во время ввода.
+
+
+
+* **Доступ к документам на основе политики**  
+
+  &nbsp; Разблокирование запускается правилами рабочего процесса и разрешениями.
+
+
+
+* **Непрерывная оптимизация содержимого**  
+
+  &nbsp; Защищенные документы разблокируются для автоматизированных улучшений.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -123,7 +191,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

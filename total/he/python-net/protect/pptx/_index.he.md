@@ -71,7 +71,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTX הוא התקן המודרני המקובל למצגות ב-PowerPoint. הגנה על קבצי PPTX היא חיונית כדי להבטיח שתוכן המצגת יישמר באופן מדויק ולא ייתפשט בסביבות שיתופיות.
+
+
+
+עם פייתון APIs, ניתן לשלב בקלות הגנת PPTX בתהליכי יצירת והפצת מצגות אוטומטיים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **שיתוף מצגות סודיות**  
+
+  Secure PPTX files before external distribution.
+
+
+
+* **אכיפת אישור תוכן**  
+
+  Lock presentations after final approval.
+
+
+
+* **ממשלת העסקים של מצגות**  
+
+  Apply uniform protection across all PPTX assets.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **הגנה אוטומטית בעת ייצוא**  
+
+  Secure PPTX files immediately after generation.
+
+
+
+* **אבטחה המופעלת על ידי תהליכי עבודה**  
+
+  Apply protection based on approval or publishing events.
+
+
+
+* **ניהול מצגות נמכר**  
+
+  Protect thousands of PPTX files through automated scripts.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

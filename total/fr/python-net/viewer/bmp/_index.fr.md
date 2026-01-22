@@ -82,7 +82,73 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La visualisation de documents BMP avec des API Python permet un rendu fiable des images bitmap non compressées pour l'inspection, la validation et les flux de travail visuels où la précision au niveau des pixels est importante.
+
+Cette fonctionnalité prend en charge les pipelines d'images automatisés, les systèmes de prévisualisation et les vérifications de qualité sans intervention manuelle.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Examen d'image précis au pixel près**  
+
+&nbsp; Visualisez les images bitmap exactement telles qu'elles sont stockées, en préservant les détails originaux de couleur et de résolution.
+
+
+
+* **Compatibilité avec les anciennes images**  
+
+&nbsp; Ouvrez et affichez des fichiers bitmap plus anciens ou bruts couramment utilisés dans les systèmes d'archivage.
+
+
+
+* **Vérification de la qualité visuelle**  
+
+&nbsp; Inspectez les images de manière programmable pour garantir la justesse de la mise en page et du rendu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Validation automatique des images**  
+
+&nbsp; Les scripts Python affichent les fichiers BMP lors de la validation par lot pour détecter les anomalies visuelles.
+
+
+
+* **Génération automatique de prévisualisations**  
+
+&nbsp; Les fichiers bitmap sont rendus automatiquement pour les tableaux de bord ou les outils de révision.
+
+
+
+* **Débogage des flux d'images**  
+
+&nbsp; Les visualiseurs automatisés aident à vérifier les sorties d'images intermédiaires dans les pipelines de traitement.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

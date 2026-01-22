@@ -76,7 +76,75 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+البحث عن ملفات **ODP** باستخدام واجهات برمجة التطبيقات في Python يمكن الوصول الهيكلي إلى المستندات التقديمية المفتوحة المعتاد استخدامها في بيئات التعاون والمصادر المفتوحة. يسمح البحث البرمجي للأنظمة باستخراج نصوص الشرائح والعناوين والبيانات الوصفية دون الحاجة لمراجعة يدوية.
+
+
+
+عندما يتم تشغيله بشكل آلي، يعزز البحث في مستندات ODP اكتشاف البيانات، ويدعم إدارة المحتوى الموسعة، ويتكامل بسلاسة مع أنظمة معالجة البيانات الحديثة وأنظمة التشغيل الآلي للعمليات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **بحث نص الشريحة ODP**  
+
+&nbsp; يحدد الكلمات الرئيسية والعبارات عبر شرائح العرض بتنسيق مفتوح.
+
+
+
+* **مراجعة محتوى العرض المفتوح**  
+
+&nbsp; يتيح التفتيش السريع للشرائح المشتركة أو التعاونية.
+
+
+
+* **اكتشاف البيانات الوصفية لـ ODP**  
+
+&nbsp; يستخرج خصائص المستند للتصنيف والفهرسة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **فهرسة ODP التلقائية**  
+
+&nbsp; تقوم خدمات Python بفهرسة مستمرة لملفات ODP للوصول إلى البحث.
+
+
+
+* **مراقبة محتوى ODP**  
+
+&nbsp; تكتشف الفحوصات البرمجية التغييرات أو التحديثات في العروض.
+
+
+
+* **تكامل سير العمل ODP**  
+
+&nbsp; تغذيات المحتوى المستخرج تغذي عمليات النشر التلقائي أو مواسير المراجعة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

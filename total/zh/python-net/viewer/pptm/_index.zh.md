@@ -89,7 +89,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API查看PPTM文件，可以检查带有宏的演示文稿，而无需执行嵌入的代码。
+
+这使得在自动化环境中进行安全审查成为可能。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **带宏的幻灯片审阅**  
+
+  &nbsp; 安全查看演示文稿内容。
+
+
+
+* **风险感知检查**  
+
+  &nbsp; 在不执行宏的情况下检查幻灯片。
+
+
+
+* **审批工作流支持**  
+
+  &nbsp; 在受控使用之前审查演示文稿。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **安全的演示文稿接收**  
+
+  &nbsp; Python查看器安全渲染PPTM文件。
+
+
+
+* **合规审查流水线**  
+
+  &nbsp; 演示文稿会被自动检查。
+
+
+
+* **部署前验证**  
+
+  &nbsp; 查看支持批准流程。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -85,7 +85,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Объединение изображений PNG с помощью Python API позволяет создавать композиции изображений без потерь с поддержкой прозрачности. Это идеально подходит для дизайнерских ресурсов, элементов пользовательского интерфейса и многослойных визуальных эффектов.
+
+
+
+Автоматизация обеспечивает последовательное сборку изображений с сохранением визуальной целостности.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Сборка прозрачных ресурсов (PNG)**  
+
+&nbsp; Объединение изображений PNG с сохранением альфа-каналов.
+
+
+
+* **Компоновка элементов пользовательского интерфейса (PNG)**  
+
+&nbsp; Объединение графики интерфейса в одно изображение.
+
+
+
+* **Объединение ресурсов дизайна (PNG)**  
+
+&nbsp; Агрегирование ресурсов PNG для повторного использования.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированные процессы дизайна (PNG)**  
+
+&nbsp; Системы объединяют ресурсы PNG во время процесса сборки.
+
+
+
+* **Генерация многослойных изображений (PNG)**  
+
+&nbsp; Объединение PNG осуществляется на основе программных правил.
+
+
+
+* **Масштабируемая автоматизация визуальных ресурсов (PNG)**  
+
+&nbsp; Автоматизированные процессы генерируют объединенные визуальные PNG.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -82,7 +82,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Просмотр JPEG и JPG с помощью Python API позволяет эффективно проверять сжатые изображения, широко используемые в различных системах.
+
+Это поддерживает масштабируемые визуальные рабочие процессы, где важны производительность и совместимость.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Просмотр сжатых изображений**  
+
+  &nbsp; Просмотр изображений, оптимизированных для хранения и передачи.
+
+
+
+* **Проверка визуального контента**  
+
+  &nbsp; Проверка изображений на четкость и правильность.
+
+
+
+* **Управление медиа-ресурсами**  
+
+  &nbsp; Программное обзор обычно используемых изображений.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированные медиа-каналы**  
+
+  &nbsp; Файлы JPEG отображаются во время пакетной обработки.
+
+
+
+* **Системы оптимизации предварительного просмотра**  
+
+  &nbsp; Изображения динамически отображаются для быстрого просмотра.
+
+
+
+* **Проверки качества ресурсов**  
+
+  &nbsp; Просмотрщики Python поддерживают автоматизированные проверки.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -90,7 +90,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API查看DOTX文件可结构化访问现代Word模板，无需执行宏。
+
+这支持可扩展的、基于模板的文档系统。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **现代模板检查**  
+
+  查看结构化布局和预定义样式。
+
+
+
+* **品牌一致性验证**  
+
+  确保模板符合格式标准。
+
+
+
+* **工作流程准备检查**  
+
+  确认模板适用于自动化使用。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **模板部署流水线**  
+
+  在推出之前自动呈现DOTX文件。
+
+
+
+* **自动化格式审计**  
+
+  Python脚本检查模板是否符合规定。
+
+
+
+* **内容生成验证**  
+
+  查看确保模板按预期功能。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

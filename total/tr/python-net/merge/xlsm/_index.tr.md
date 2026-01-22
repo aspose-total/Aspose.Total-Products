@@ -78,7 +78,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'lerini kullanarak makro özellikli Excel elektronik tablolarını birleştirmek, çalışma kitapları içinde yer alan veri odaklı mantık, hesaplamalar ve otomasyonun birleştirilmesini sağlar. Bu, operasyonel ve finansal ortamlarda yaygın olarak kullanılır.
+
+
+
+Otomatik XLSM birleştirme, veri ve makro tabanlı davranışın ölçeklenebilir sistemler içinde korunduğundan emin olur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Makro Tabanlı Rapor Oluşturma (XLSM)**  
+
+&nbsp; Otomatik hesaplamalar ve mantık içeren XLSM dosyalarını birleştirme.
+
+
+
+* **Operasyonel Çalışma Kitabı Birleştirme (XLSM)**  
+
+&nbsp; Departmanlar arasında makro özellikli elektronik tabloları birleştirme.
+
+
+
+* **Süreç Otomasyon Paketleme (XLSM)**  
+
+&nbsp; Tekrar eden operasyonel süreçlerde kullanılan XLSM dosyalarını bir araya getirme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Kural Tabanlı Çalışma Kitabı Oluşturma (XLSM)**  
+
+&nbsp; Sistemler, belirlenen otomasyon kurallarına göre XLSM dosyalarını birleştirir.
+
+
+
+* **Otomatik Finansal Modelleme (XLSM)**  
+
+&nbsp; XLSM birleştirme, tekrarlanabilir finansal iş akışlarını destekler.
+
+
+
+* **Kontrollü Makro Koruma (XLSM)**  
+
+&nbsp; Otomatik borular, makroları koruyarak XLSM dosyalarını birleştirir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

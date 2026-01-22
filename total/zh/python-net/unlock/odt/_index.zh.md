@@ -72,7 +72,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT文件广泛应用于开放文档工作流程中，解锁它们可以确保完全访问受保护的文本内容。这种能力对于分析、迁移和合规性审查流程至关重要。
+
+
+
+利用Python API，可以将ODT解锁嵌入到自动化文档流水线中，确保系统间的一致性和效率。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **结构化内容提取**  
+
+  &nbsp; 可以访问锁定部分以进行解析和数据提取。
+
+
+
+* **监管审查支持**  
+
+  &nbsp; 允许在自动合规性检查期间检查受保护的文档。
+
+
+
+* **开放格式迁移**  
+
+  &nbsp; 支持将受保护的ODT文件转换为标准化输出。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动合规扫描**  
+
+  &nbsp; 在预定的监管检查期间解锁ODT文件。
+
+
+
+* **文档智能流水线**  
+
+  &nbsp; 解锁可实现语义分析和分类任务。
+
+
+
+* **持续内容更新**  
+
+  &nbsp; 受保护文件会自动解锁以进行受控修订。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

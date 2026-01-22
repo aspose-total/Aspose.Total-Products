@@ -74,7 +74,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Составление документов с использованием Python API для файлов DOCX предоставляет современный структурированный подход к удалению конфиденциального контента из широко используемых форматов обработки текста. Это обеспечивает сохранение возможности использования документов при защите конфиденциальной информации.
+
+
+
+Автоматизация на основе Python позволяет масштабировать процесс редакции DOCX без усилий по всему большому количеству документов, обеспечивая безшовную интеграцию с системами управления контентом и соответствия.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Защита регуляторных данных**  
+
+&nbsp; Удаление персональных или финансовых данных из файлов DOCX перед внешним распространением.
+
+
+
+* **Санитарная обработка контрактов**  
+
+&nbsp; Сокрытие конфиденциальных пунктов, сохраняя структуру и форматирование документа.
+
+
+
+* **Безопасность совместной работы**  
+
+&nbsp; Безопасное совместное использование защищенных файлов DOCX с партнерами или клиентами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Редакция на основе шаблонов**  
+
+&nbsp; Автоматическая редакция конкретных разделов на основе шаблонов документов.
+
+
+
+* **Обработка на основе рабочего процесса**  
+
+&nbsp; Запуск редакции при перемещении файлов DOCX между этапами рабочего процесса.
+
+
+
+* **Постоянные проверки соответствия**  
+
+&nbsp; Повторное сканирование и редакция обновленных документов в рамках автоматизированных процессов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -125,7 +193,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

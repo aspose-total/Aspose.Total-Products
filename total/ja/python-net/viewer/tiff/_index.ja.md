@@ -82,7 +82,73 @@ TIFF ビューア アプリまたはユーティリティを開発する必要�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用したTIFF文書の表示は、スキャンやアーカイブに一般的に使用される高解像度のマルチページ画像形式をサポートしています。
+
+これにより、詳細なビジュアル文書の正確な検査が可能になります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* **スキャンされた文書のレビュー**  
+
+&nbsp; 高品質のスキャンされたページを表示します。
+
+
+
+* **アーカイブ画像の検査**  
+
+&nbsp; 保存グレードの画像ファイルを検査します。
+
+
+
+* **マルチページ画像の取り扱い**  
+
+&nbsp; 複雑な画像ベースの文書をナビゲートします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **自動スキャン検証**  
+
+&nbsp; Pythonワークフローは、品質保証のためにスキャンされたファイルを表示します。
+
+
+
+* **アーカイブの整合性チェック**  
+
+&nbsp; 格納された画像は定期的に検証されます。
+
+
+
+* **文書のデジタル化パイプライン**  
+
+&nbsp; 自動ビューアはデジタル化プロセスをサポートします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

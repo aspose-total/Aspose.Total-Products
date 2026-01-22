@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การผสานไฟล์ OpenDocument Text โดยใช้ Python APIs รองรับมาตรฐานเปิดและเครื่องมือทำงานเอกสาร跨แพลตฟอร์ม ช่วยให้เกิดการรวมเนื้อหาอย่างต่อเนื่องที่สร้างขึ้นในสภาพแวดล้อมของซอฟต์แวร์โอเพนซอร์สหรือสภาพแวดล้อมที่ผสมกัน
+
+
+
+การอัตโนมัติรอบ ODT merging ช่วยให้มีการทำงานร่วมกันได้พร้อมกัน พร้อมรักษาความสมบูรณ์ของเอกสารในระบบต่าง ๆ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **การรวมเอกสารข้ามแพลตฟอร์ม (ODT)**  
+
+&nbsp; ผสานไฟล์ ODT ที่สร้างขึ้นจากชุดออฟฟิศที่แตกต่างกัน
+
+
+
+* **การรวมเนื้อหามาตรฐานเปิด (ODT)**  
+
+&nbsp; รวมเอกสาร ODT เพื่อการเผยแพร่อย่างเป็นร่วมกัน
+
+
+
+* **การรวมเนื้อหาร่วมกัน (ODT)**  
+
+&nbsp; ผสานไฟล์ ODT จากผู้สนับสนุนหลาย ๆ คนเข้าไปในเอกสารเดียว
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การอัตโนมัติของกระบวนการทำงาน (ODT)**  
+
+&nbsp; ระบบอัตโนมัติผสานไฟล์ ODT โดยไม่มีความขึ้นอยู่กับลิขสิทธิ์
+
+
+
+* **การรวบรวมเอกสารตามกำหนดเวลา (ODT)**  
+
+&nbsp; การผสาน ODT ทำงานเป็นส่วนหนึ่งของงานหลังบ้านที่เกิดซ้ำ ๆ
+
+
+
+* **ท่องไปมาในการเผยแพร่ที่สามารถทำงานร่วมกัน (ODT)**  
+
+&nbsp; ไฟล์ ODT ถูกผสานไดนามิกในท่อการทำงานร่วมระบบ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Файлы PPT представляют собой устаревшие форматы презентаций, которые могут быть защищены и широко храниться. Их программное разблокирование обеспечивает дальнейшую доступность и современное использование устаревших активов презентаций.
+
+
+
+Python API позволяют автоматизировать разблокирование PPT, обеспечивая интеграцию с системами конвертации, анализа и архивирования.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Доступ к устаревшим презентациям**  
+
+  &nbsp; Позволяет повторно использовать защищенный контент из старых файлов презентаций.
+
+
+
+* **Сохранение исторического контента**  
+
+  &nbsp; Поддерживает проверку перед миграцией устаревших презентаций.
+
+
+
+* **Извлечение данных слайдов**  
+
+  &nbsp; Позволяет получить доступ к защищенным текстовым и элементам макета.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Потоки миграции устаревших форматов**  
+
+  &nbsp; Файлы PPT разблокируются и конвертируются автоматически.
+
+
+
+* **Автоматизированное архивирование слайдов**  
+
+  &nbsp; Защищенные файлы разблокируются во время этапов проверки архивации.
+
+
+
+* **Индексирование содержимого презентации**  
+
+  &nbsp; Разблокирование обеспечивает возможность индексации старых слайд-дек.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

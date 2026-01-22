@@ -76,7 +76,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kategorie formátu Word představuje textové dokumenty používané v rámci kreslení, reportování a spolupráce. Zabezpečení souborů Word zajišťuje důvěrnost dokumentů, jejich integritu a řízený přístup po celou dobu jejich životnosti.
+
+
+
+Python API umožňují automatizaci ochrany dokumentů Word, čímž zabezpečují, že bezpečnost je vestavěnou schopností moderních systémů správy obsahu a dokumentů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Ochrana citlivého obsahu**  
+
+&nbsp; Zabezpečte soubory Word obsahující důvěrné informace.
+
+
+
+* **Vynucování omezení úprav**  
+
+&nbsp; Kontrolujte, kdo může dokumenty upravovat nebo posuzovat.
+
+
+
+* **Zabezpečení životního cyklu dokumentu**  
+
+&nbsp; Chrání soubory v různých fázích tvorby a schvalování.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizovaná ochrana souborů Word**  
+
+&nbsp; Automaticky aplikujte bezpečnostní pravidla během tvorby dokumentu.
+
+
+
+* **Ochrana dokumentů založená na rolích**  
+
+&nbsp; Dynamicky chrání soubory Word na základě uživatelských rolí.
+
+
+
+* **Zabezpečené pracovní postupy od začátku do konce**  
+
+&nbsp; Integrujte ochranu Wordu do plně automatizovaných dokumentačních procesů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODP文件通常用于开放标准的演示工作流程。保护这些演示文件可确保在共享和协作过程中视觉内容和消息保持完整。
+
+
+
+通过Python API，ODP演示可以自动受保护，从而在可扩展的演示生成和交付系统中得到安全处理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **演示完整性保护**  
+
+  防止未经授权的幻灯片和布局修改。
+
+
+
+* **机密简报**  
+
+  在内部或外部共享之前保护敏感演示。
+
+
+
+* **标准化演示治理**  
+
+  在所有ODP文件中应用一致的保护规则。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化幻灯片组保护**  
+
+  在自动创建后立即保护ODP文件。
+
+
+
+* **基于流水线的安全执行**  
+
+  在CI/CD风格的内容工作流程中应用保护。
+
+
+
+* **程序化访问限制**  
+
+  通过脚本动态控制编辑和查看权限。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

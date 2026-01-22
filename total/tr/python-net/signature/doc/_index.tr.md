@@ -71,7 +71,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOC dosyalarının programlı olarak imzalanması, eski Word belgelerinin biçim dönüşümü olmadan resmi onay göstergelerini taşımasına olanak tanır. Bu, eski belge sistemleriyle uyumluluğu korurken yönetişim ekler.
+
+
+
+Python tabanlı otomasyon, DOC imzalamanın tutarlı bir şekilde gerçekleşmesini sağlayarak belge ağırlıklı eski iş akışlarındaki manuel müdahaleyi azaltır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Eski Sözleşme Onayı**  
+
+&nbsp; Eski sistemlerde kullanılan DOC sözleşmelerine imzalayan ayrıntılarını ekleyin.
+
+
+
+* **Politika Belgesi Onayı**  
+
+&nbsp; DOC politikalarını gözden geçirilmiş ve onaylanmış olarak işaretleyin.
+
+
+
+* **Şablon Tabanlı Belge Doğrulaması**  
+
+&nbsp; DOC şablonlarını tamamlama kontrollerinden sonra imzalayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Alan Tamamlama Tetikli İmzalama**  
+
+&nbsp; Zorunlu alanlar doldurulduğunda DOC dosyaları imzalanır.
+
+
+
+* **Onay İş Akışı Entegrasyonu**  
+
+&nbsp; İmzalama, arka uç onay durumu güncellemeleri tarafından tetiklenir.
+
+
+
+* **Eski Arşiv Sertifikasyonu**  
+
+&nbsp; DOC dosyaları arşivlenmeden önce imzalanır.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

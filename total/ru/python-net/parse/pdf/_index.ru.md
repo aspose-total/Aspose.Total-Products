@@ -100,7 +100,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Разбор **PDF-документов** с помощью Python API позволяет извлекать текст и информацию о макете из широко используемого формата с фиксированным макетом. PDF-файлы часто используются в отчетах, счетах и официальных документах.
+
+
+
+Автоматизированный разбор PDF-файлов открывает доступ к неизменяемому контенту для анализа, поиска и интеграции в систему без ручного вмешательства.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Извлечение данных из отчетов**  
+
+&nbsp; Извлекает текстовый контент из статических PDF-отчетов.
+
+
+
+* **Обработка архивных документов**  
+
+&nbsp; Преобразует PDF-файлы в текст, который можно искать и индексировать.
+
+
+
+* **Системы поиска информации**  
+
+&nbsp; Обеспечивает поиск контента в больших коллекциях PDF-файлов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Запланированное внесение PDF-файлов**  
+
+&nbsp; Автоматическая обработка входящих PDF-файлов с фиксированной периодичностью.
+
+
+
+* **Конвейеры нормализации текста**  
+
+&nbsp; Программно очищает и стандартизирует извлеченный текст из PDF.
+
+
+
+* **Включение в аналитику исходных данных**  
+
+&nbsp; Подаёт разобранный контент PDF в аналитические или рабочие процессы машинного обучения.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

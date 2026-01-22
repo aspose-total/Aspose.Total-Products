@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การใส่ลายน้ำในสเปรดชีต **ODS** ด้วย Python APIs ช่วยในการควบคุมเอกสารสเปรดชีตเปิดโอกาสได้ดียิ่งขึ้น โดยการเพิ่มป้ายกำกับการบริหารที่มองเห็นได้สำหรับการเป็นเจ้าของ ความลับ และการกระจายข้อมูล
+
+การทำลายน้ำใน ODS โดยอัตโนมัติ สนับสนุนการทำงานของกระบวนการรายงานที่มีขนาดใหญ่ โดยให้สัญลักษณ์นโยบายที่สม่ำเสมอที่ข้ามชุดข้อมูลที่แชร์ในรูปแบบเปิด
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **การประทับตราชีทข้อมูลลับ**  
+
+&nbsp; ทำเครื่องหมายบนไฟล์ ODS ที่มีข้อมูลที่ลับเพื่อลดความเสี่ยงจากการแชร์ภายนอกโดยไม่ตั้งใจ
+
+
+
+* **ป้ายกำกับข้อมูลชั่วคราว**  
+
+&nbsp; ใส่ "UNVERIFIED" ลงบนข้อมูลในช่วงการตรวจสอบข้อมูลระยะแรก
+
+
+
+* **ประกาศการใช้ข้อมูลของพาร์ทเนอร์**  
+
+&nbsp; เพิ่มประกาศที่มองเห็นได้เพื่ออธิบายข้อจำกัดในการอนุญาตและการนำไปใช้ใหม่
+
+
+
+* **การสนับสนุนเส้นทางการตรวจสอบภายใน**  
+
+&nbsp; การทำลายน้ำเพื่อทำให้ชัดเจนว่าระบบใดสร้างชุดข้อมูลที่กำหนด
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การใส่ลายน้ำในการส่งออก ETL**  
+
+&nbsp; ประทับตราไฟล์ ODS โดยอัตโนมัติเมื่อสร้างจากท่อไฟล์ข้อมูลอัตโนมัติ
+
+
+
+* **ข้อความลายน้ำที่ขึ้นอยู่กับบทบาท**  
+
+&nbsp; ปรับเนื้อหาลายน้ำตามทีมที่ได้รับหรือระดับการเข้าถึง
+
+
+
+* **การควบคุมการกระจายรายงานตามกำหนดเวลา**  
+
+&nbsp; ใส่ลายน้ำที่มีเวลาบนรายงาน ODS ที่ส่งเป็นระยะ
+
+
+
+* **การใส่ป้ายกำกับนโยบายการเก็บรักษาอัตโนมัติ**  
+
+&nbsp; เพิ่มป้ายกำกับการเก็บรักษาที่มองเห็นได้เพื่อสนับสนุนการอัตโนมัติชีวิตของชีตเท่านั้น
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

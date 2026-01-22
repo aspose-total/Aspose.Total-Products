@@ -89,7 +89,73 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTM megtekintése Python API-k segítségével lehetővé teszi a makróval ellátott prezentációk ellenőrzését anélkül, hogy végrehajtaná a beágyazott kódot.
+
+Ez lehetővé teszi a biztonságos áttekintést automatizált környezetekben.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Makróval ellátott diák áttekintése**  
+
+&nbsp; Nézze meg a prezentáció tartalmát biztonságosan.
+
+
+
+* **Kockázatérzékeny ellenőrzés**  
+
+&nbsp; Ellenőrizze a diákat makrók végrehajtása nélkül.
+
+
+
+* **Jóváhagyási munkafolyamat támogatása**  
+
+&nbsp; Ellenőrizze a prezentációkat a kontrollált használat előtt.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Biztonságos prezentációfogadás**  
+
+&nbsp; A Python nézők biztonságosan megjelenítik a PPTM fájlokat.
+
+
+
+* **Megfelelőségi ellenőrzési csatornák**  
+
+&nbsp; A prezentációkat automatikusan ellenőrzik.
+
+
+
+* **Telepítés előtti ellenőrzés**  
+
+&nbsp; A megtekintés támogatja a jóváhagyási folyamatokat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

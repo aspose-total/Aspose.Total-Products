@@ -75,7 +75,93 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Ekstraksi metadata dokumen untuk file **PPTX** melalui API Python memberikan akses terstruktur ke properti presentasi modern—memungkinkan pengindeksan, audit, dan pelacakan siklus hidup yang konsisten untuk slide deck dalam skala besar. Ini berharga bagi organisasi yang mengelola volume besar presentasi operasional, pelatihan, atau berhadapan dengan pelanggan.
+
+
+
+Dalam pipa otomatisasi, metadata PPTX menjadi kontrol ringan untuk routing dan tata kelola: mendukung klasifikasi otomatis, tinjauan terjadwal, kontrol penerbitan, dan integrasi dengan sistem pencarian dan manajemen konten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Katalog Presentasi dan Penemuan**
+
+  Ekstraksi metadata PPTX untuk membangun katalog yang dapat dicari berdasarkan topik, pemilik, dan riwayat pembaruan.
+
+
+
+* **Tata Kelola Siklus Hidup untuk Slide Deck**
+
+  Gunakan timestamp dan properti kustom untuk menegakkan siklus tinjauan dan kebijakan kesegaran konten.
+
+
+
+* **Penugasan Pemilik Otomatis**
+
+  Peta bidang penulis dan editor terakhir ke tim yang bertanggung jawab untuk persetujuan dan pemeliharaan.
+
+
+
+* **Validasi Kesiapan Publikasi**
+
+  Pastikan properti deskriptif yang diperlukan ada sebelum slide deck PPTX didistribusikan secara eksternal.
+
+
+
+* **Jejak Audit Operasional**
+
+  Pertahankan catatan audit berbasis metadata untuk kapan slide deck dibuat, diperbarui, dan oleh siapa.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Klasifikasi dan Penandaan Saat Unggah**
+
+  Pada saat pengambilan, ekstraksi metadata PPTX dan otomatisasi penerapan tag dan aturan routing folder untuk organisasi yang konsisten.
+
+
+
+* **Generasi Tugas Tinjauan Berkala**
+
+  Buat tugas tinjauan berkala ketika slide deck PPTX melebihi ambang batas keusangan atau metadata menunjukkan perubahan kepemilikan.
+
+
+
+* **Saluran Distribusi Terkendali**
+
+  Izinkan atau batasi distribusi slide deck PPTX berdasarkan flag metadata seperti kategori hanya internal atau rahasia.
+
+
+
+* **Sinkronisasi Metadata ke Sistem Pencarian**
+
+  Terus mendorong metadata PPTX ke dalam indeks sehingga slide deck dapat ditemukan tanpa pemeliharaan katalog manual.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

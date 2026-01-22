@@ -76,7 +76,75 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La protection des documents Word au format DOC est essentielle pour sécuriser les fichiers hérités qui alimentent encore de nombreux flux de travail commerciaux et archivistiques. L'application de la protection des documents garantit que le texte sensible, les formulaires et la propriété intellectuelle restent sécurisés même lorsqu'ils sont partagés entre équipes ou systèmes.
+
+
+
+En utilisant les API Python, les fichiers DOC peuvent être protégés de manière programmée avec des mots de passe et des contrôles d'autorisation, permettant l'application automatisée des politiques de sécurité sur de vastes référentiels de documents et des pipelines hérités.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Sécurité des documents hérités**  
+
+&nbsp; Appliquer une protection aux anciens documents Word pour empêcher les modifications ou copies non autorisées.
+
+
+
+* **Conformité des fichiers archivés**  
+
+&nbsp; Garantir que les fichiers DOC historiques répondent aux exigences de sécurité et réglementaires modernes.
+
+
+
+* **Partage contrôlé de documents**  
+
+&nbsp; Restreindre les droits de modification lors de la distribution de fichiers DOC en interne ou en externe.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Protection en lot des archives**  
+
+&nbsp; Sécuriser automatiquement des milliers de fichiers DOC lors de processus d'archivage ou de migration.
+
+
+
+* **Contrôle d'accès basé sur des politiques**  
+
+&nbsp; Appliquer des règles de protection standardisées aux fichiers DOC lors de leur ingestion dans les systèmes.
+
+
+
+* **Distribution sécurisée automatisée**  
+
+&nbsp; Protéger dynamiquement les documents DOC avant de les envoyer à travers des flux de travail automatisés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

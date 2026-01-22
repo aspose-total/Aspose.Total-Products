@@ -79,7 +79,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API合并带有宏的PowerPoint文件，支持包含嵌入式逻辑、自动化或交互行为的演示文稿。这在企业和运营演示中很常见。
+
+
+
+自动化确保宏启用的幻灯片可靠合并，而不会破坏嵌入的功能。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **基于宏的演示文稿组装（PPTM）**  
+
+&nbsp; 合并包含自动化或交互元素的PPTM文件。
+
+
+
+* **运营幻灯片合并（PPTM）**  
+
+&nbsp; 结合用于内部流程的宏启用演示文稿。
+
+
+
+* **交互式幻灯片打包（PPTM）**  
+
+&nbsp; 将PPTM文件聚合到单个可执行演示文稿中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **基于规则的演示文稿生成（PPTM）**  
+
+&nbsp; 系统根据自动化规则合并PPTM文件。
+
+
+
+* **后端控制的宏保留（PPTM）**  
+
+&nbsp; 自动化流水线合并PPTM文件同时保留逻辑。
+
+
+
+* **合规演示文稿自动化（PPTM）**  
+
+&nbsp; PPTM合并支持可重复、受控的输出。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

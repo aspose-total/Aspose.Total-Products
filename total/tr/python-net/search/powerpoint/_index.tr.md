@@ -76,7 +76,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'lerini kullanarak **PowerPoint** sunumlarını programlı olarak aramak, işletme ortamlarında kullanılan birden fazla sunum formatına birleşik erişim sağlar. PowerPoint dosyaları genellikle iş akışları için kritik olan yüksek değerli görsel ve metinsel bilgiler içerir.
+
+
+
+PowerPoint aramasını otomatikleştirmek, içerik görünürlüğünü artırır, manuel slayt incelemesini azaltır ve modern otomasyon ve veri sistemleriyle ölçeklenebilir entegrasyonu destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Birleşik Sunum Arama**  
+
+&nbsp; PowerPoint tabanlı dosyalar arasında tutarlı arama sağlar.
+
+
+
+* **İşletme Slayt Keşfi**  
+
+&nbsp; Depolanan sunumlara erişimi geliştirir.
+
+
+
+* **Sunum Bilgisi Çıkarma**  
+
+&nbsp; Slayt içeriğini aranabilir bilgi varlıklarına dönüştürür.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik PowerPoint Dizin Bakımı**  
+
+&nbsp; Python işlemleri sunum arama dizinlerini güncel tutar.
+
+
+
+* **PowerPoint İçerik Doğrulaması**  
+
+&nbsp; Programatik kontroller slaytların içerik standartlarını karşıladığından emin olur.
+
+
+
+* **PowerPoint İş Akışı Otomasyonu**  
+
+&nbsp; Arama çıktıları otomatik raporlama ve karar sistemlerini yönlendirir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

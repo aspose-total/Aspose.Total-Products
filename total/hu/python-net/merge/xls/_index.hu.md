@@ -78,7 +78,75 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az Excel és táblázatdokumentumok összevonása Python API-k segítségével alapvető fontosságú a strukturált adatok összevonásához több forrásból egyetlen, elemzésre alkalmas fájlba. Ez a képesség széles körben használatos jelentéskészítésben, elemzésben, pénzügyekben és operatív rendszerekben, ahol az adatok számos táblázatban vannak szétszórva.
+
+
+
+Az automatizált táblázatösszevonás lehetővé teszi az adatkezelés következetességét, csökkenti a manuális hibákat, és integrálja a táblázatmunkafolyamatokat közvetlenül a skálázható adat- és feldolgozási csövekbe.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Örökölt táblázatösszevonás (XLS)**  
+
+&nbsp; Régebbi XLS fájlok egyesítése egyetlen munkafüzetbe egységes elemzés céljából.
+
+
+
+* **Osztályonkénti adategyesítés (XLS)**  
+
+&nbsp; Az XLS táblázatok egyesítése több csapatból egyetlen fő fájlba.
+
+
+
+* **Történeti adatok egységesítése (XLS)**  
+
+&nbsp; Archivált XLS adatok összevonása jelentéskészítéshez és migrációhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Ütemezett adatösszevonások (XLS)**  
+
+&nbsp; Automatizált feladatok egyesítik a periodikus XLS fájlokat konszolidált jelentésekbe.
+
+
+
+* **Háttérrendszer adatnormalizálása (XLS)**  
+
+&nbsp; Rendszerek egyesítik az XLS fájlokat az adattisztítási munkafolyamatok részeként.
+
+
+
+* **Csővezeték-alapú táblázatösszeállítás (XLS)**  
+
+&nbsp; Az XLS összevonása programozottan történik ETL csövekben.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

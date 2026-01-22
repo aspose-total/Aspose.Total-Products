@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การผสานรูปแบบเทมเพลต Excel โดยใช้ Python APIs ช่วยให้โครงสร้างและเลย์เอาท์ที่สม่ำเสมอทั่วไปในสเปรดชีตที่สร้างขึ้นมีความสำคัญ การผสานตามเทมเพลตเป็นสิ่งสำคัญสำหรับการรายงานมาตรฐานและการทำงานเข้าข้อมูล
+
+
+
+การอัตโนมัติช่วยให้สามารถสร้างสเปรดชีตที่สม่ำเสมอได้เร็วขึ้นโดยไม่ต้องจัดรูปแบบด้วยมือ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **การประกอบสเปรดชีตตามเทมเพลต (XLT)**  
+
+&nbsp; ผสานไฟล์ที่ใช้เทมเพลต XLT เพื่อให้มีเลย์เอาท์ที่สม่ำเสมอ
+
+
+
+* **การรวบรวมข้อมูลมาตรฐาน (XLT)**  
+
+&nbsp; รวมสเปรดชีตที่ใช้เทมเพลตเข้าไฟล์เดียวกัน
+
+
+
+* **โครงสร้างสเปรดชีตที่ใช้ซ้ำได้ (XLT)**  
+
+&nbsp; รวบรวมเอกสาร XLT เพื่อรักษาการออกแบบที่สม่ำเสมอ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+
+
+* **การใช้เทมเพลตโดยอัตโนมัติ (XLT)**  
+
+&nbsp; ไฟล์ XLT ถูกผสานโดยอัตโนมัติขณะสร้าง
+
+
+
+* **การประมวลผลเทมเพลตเป็นชุด (XLT)**  
+
+&nbsp; งานที่กำหนดเวลาผสานสเปรดชีตที่ใช้เทมเพลต XLT หลายไฟล์
+
+
+
+* **การควบคุมเลย์เอาท์ด้วยระบบอัตโนมัติ (XLT)**  
+
+&nbsp; ระบบผสานไฟล์ XLT เพื่อรับรองความสม่ำเสมอในรูปแบบ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -89,7 +89,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Просмотр файлов PPT с помощью Python API позволяет осуществлять проверку устаревших презентационных документов, используемых в старых системах.
+
+Это поддерживает автоматизацию, когда требуется обратная совместимость.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Просмотр устаревших презентаций**  
+
+  Просмотр старых слайд-деков программно.
+
+
+
+* **Поддержка миграции контента**  
+
+  Проверка презентаций перед обновлением форматов.
+
+
+
+* **Проверка презентации**  
+
+  Гарантия целостности данных слайдов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Проверка устаревших аудиторских конвейеров**  
+
+  Рабочие процессы на Python отображают файлы PPT для проверки.
+
+
+
+* **Предварительная проверка перед конвертацией**  
+
+  Просмотр обеспечивает безопасную миграцию формата.
+
+
+
+* **Просмотр пакетов презентаций**  
+
+  Большие коллекции проверяются автоматически.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

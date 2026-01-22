@@ -82,7 +82,75 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Imaging for Python vi
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Xem tài liệu BMP bằng Python APIs cho phép hiển thị đáng tin cậy của hình ảnh bitmap không nén để kiểm tra, xác nhận và quy trình làm việc trực quan nơi độ chính xác ở mức pixel quan trọng.
+
+Khả năng này hỗ trợ các quy trình hình ảnh tự động, hệ thống xem trước và kiểm tra chất lượng mà không cần can thiệp thủ công.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Xem Xét Hình Ảnh Chính Xác Theo Pixel**  
+
+&nbsp; Xem hình ảnh bitmap chính xác như được lưu trữ, bảo tồn chi tiết màu sắc và độ phân giải ban đầu.
+
+
+
+* **Tương Thích Hình Ảnh Cũ**  
+
+&nbsp; Mở và hiển thị các tệp bitmap cũ hoặc nguyên thô thường được sử dụng trong các hệ thống lưu trữ.
+
+
+
+* **Xác Minh Chất Lượng Trực Quan**  
+
+&nbsp; Kiểm tra hình ảnh theo cách tự động để đảm bảo đúng về bố cục và hiển thị.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Xác Minh Hình Ảnh Tự Động**  
+
+&nbsp; Các kịch bản Python hiển thị tệp BMP trong quá trình xác nhận hàng loạt để phát hiện các bất thường trực quan.
+
+
+
+* **Tạo Ra Đường Ốc Xem Trước**  
+
+&nbsp; Các tệp bitmap được hiển thị tự động cho bảng điều khiển hoặc công cụ xem xét.
+
+
+
+* **Gỡ Lỗi Quy Trình Hình Ảnh**  
+
+&nbsp; Các trình xem tự động giúp xác minh đầu ra hình ảnh trung gian trong các đường ống xử lý.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

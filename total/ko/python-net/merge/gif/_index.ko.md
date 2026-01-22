@@ -85,7 +85,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 GIF 이미지를 병합하면 통합된 애니메이션 또는 통합된 시각적 시퀀스를 만들 수 있습니다. 이는 교육 콘텐츠, 모니터링 시각화 및 가벼운 모션 그래픽에 일반적으로 사용됩니다.
+
+
+
+자동화를 통해 수동 편집 없이 일관되고 반복 가능한 GIF 합성이 가능합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **애니메이션 시퀀스 조립 (GIF)**  
+
+  &nbsp; 여러 GIF를 하나의 애니메이션으로 병합합니다.
+
+
+
+* **교육용 시각적 생성 (GIF)**  
+
+  &nbsp; 단계별 GIF를 하나의 안내 시각으로 결합합니다.
+
+
+
+* **모니터링 스냅샷 집계 (GIF)**  
+
+  &nbsp; 타임라인 시각화를 위해 GIF 캡처를 집계합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동화된 애니메이션 생성 (GIF)**  
+
+  &nbsp; 시스템은 이벤트에 기반하여 GIF를 동적으로 병합합니다.
+
+
+
+* **워크플로 기반 시각적 업데이트 (GIF)**  
+
+  &nbsp; 프로세스 변경에 의해 GIF 병합이 트리거됩니다.
+
+
+
+* **프로그래밍 방식의 모션 콘텐츠 파이프라인 (GIF)**  
+
+  &nbsp; 자동화된 파이프라인이 병합된 GIF 출력물을 생성합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

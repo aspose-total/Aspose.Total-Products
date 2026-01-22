@@ -82,7 +82,73 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La visualizzazione di documenti TIFF con API Python supporta formati di immagini ad alta risoluzione e multi-pagina comunemente utilizzati nella scansione e nell'archiviazione.
+
+Ciò consente un'ispezione accurata di documenti visivi dettagliati.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Revisione di Documenti Scansionati**  
+
+  Visualizza pagine scansionate di alta qualità.
+
+
+
+* **Ispezione di Immagini Archiviate**  
+
+  Ispeziona file di immagini di qualità di conservazione.
+
+
+
+* **Gestione di Immagini Multi-Pagina**  
+
+  Naviga documenti complessi basati su immagini.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Verifica Automatica della Scansione**  
+
+  I flussi di lavoro Python visualizzano i file scansionati per il controllo di qualità.
+
+
+
+* **Controlli di Integrità dell'Archivio**  
+
+  Le immagini memorizzate vengono renderizzate periodicamente per la convalida.
+
+
+
+* **Pipeline di Digitalizzazione dei Documenti**  
+
+  I visualizzatori automatizzati supportano i processi di digitalizzazione.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

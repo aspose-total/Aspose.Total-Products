@@ -76,7 +76,75 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+البحث عن ملفات **DOC** باستخدام واجهات برمجة التطبيقات في Python يمكن الأنظمة الحديثة من استخراج وتحديد معلومات من مستندات معالجة النصوص التقليدية التي لا تزال تستخدم على نطاق واسع في الأرشيفات وبيئات الشركات. يضمن البحث البرمجي بقاء البيانات التاريخية والتشغيلية القيمة قابلة للوصول دون الحاجة إلى مراجعة يدوية.
+
+
+
+عند دمجه في سير العمل الآلي، يعزز بحث ملفات DOC الكفاءة من خلال تمكين معالجة الدفعات، والفهرسة الهيكلية، والتكامل السلس مع خطوط الأنابيب للبيانات وأنظمة إدارة الوثائق.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **بحث المستندات التقليدية**  
+
+&nbsp; يمكن البحث عن الكلمات الرئيسية داخل ملفات DOC القديمة.
+
+
+
+* **استرجاع المحتوى الأرشيفي**  
+
+&nbsp; يستخرج المعلومات ذات الصلة من المستندات المخزنة لفترة طويلة.
+
+
+
+* **البحث عن سجلات الامتثال**  
+
+&nbsp; يحدد البنود والبيانات داخل سجلات DOC.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **فهرسة DOC الآلية**  
+
+&nbsp; تقوم الوظائف في Python بفحص ملفات DOC وتحديث الفهارس القابلة للبحث تلقائيًا.
+
+
+
+* **استخراج محتوى DOC بالدفعات**  
+
+&nbsp; يتم معالجة حجم كبير من ملفات DOC دون جهد يدوي.
+
+
+
+* **تكامل DOC مع النظام**  
+
+&nbsp; يغذي المحتوى المستخرج سير العمل والتحليلات التلقائية في الأسفل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

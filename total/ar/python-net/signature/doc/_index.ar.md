@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+التوقيع البرمجي لملفات DOC يسمح للمستندات القديمة بحمل مؤشرات الموافقة الرسمية دون تحويل التنسيق. يحافظ هذا على التوافق مع أنظمة الوثائق القديمة مع إضافة الحوكمة.
+
+
+
+الأتمتة القائمة على Python تضمن أن يحدث توقيع ملفات DOC بشكل متسق، مما يقلل من التدخل اليدوي في سير العمل القائم على الوثائق القديمة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **موافقة العقود القديمة**  
+
+&nbsp; إضافة تفاصيل الموقعين إلى عقود DOC المستخدمة في الأنظمة القديمة.
+
+
+
+* **الموافقة على وثيقة السياسة**  
+
+&nbsp; وضع علامة على سياسات DOC كمراجعة وموافقة.
+
+
+
+* **التحقق من الوثائق القائم على القوالب**  
+
+&nbsp; توقيع قوالب DOC بعد فحوصات الانتهاء.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **توقيع مشغل الإكمال**  
+
+&nbsp; يتم توقيع ملفات DOC بمجرد ملء الحقول الإلزامية.
+
+
+
+* **تكامل سير العمل للموافقة**  
+
+&nbsp; يتم تشغيل التوقيع بواسطة تحديثات حالة الموافقة في الخلفية.
+
+
+
+* **شهادة الأرشيف القديمة**  
+
+&nbsp; يتم توقيع ملفات DOC قبل أن تُؤرشف.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

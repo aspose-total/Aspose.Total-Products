@@ -89,7 +89,73 @@ PPSM ビューア アプリまたはユーティリティを開発する必要�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用してPPSMファイルを表示すると、自動再生用に設計されたマクロが有効になっていないマクロ対応スライドショープレゼンテーションを安全に検査できます。
+
+これにより、埋め込まれたマクロを実行せずに可視性が必要な制御された自動化ワークフローがサポートされます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **マクロ対応スライドショーレビュー**  
+
+  &nbsp; マクロを非アクティブのままスライドショーのコンテンツを表示します。
+
+
+
+* **再生フローの検査**  
+
+  &nbsp; 自動表示を意図したスライドの順序やプレゼンテーション構造を検査します。
+
+
+
+* **安全な配布の検証**  
+
+  &nbsp; 制御された共有や展開の前にPPSMファイルを確認します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **安全なスライドショー受入パイプライン**  
+
+  &nbsp; PythonワークフローがPPSMファイルを安全に取り込む際に使用されます。
+
+
+
+* **コンプライアンス指向のレビュー自動化**  
+
+  &nbsp; スライドショーは自動化されたポリシーチェックの一環として表示されます。
+
+
+
+* **事前承認プレゼンテーションワークフロー**  
+
+  &nbsp; 自動プレビューが人間またはシステムベースの承認をサポートします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

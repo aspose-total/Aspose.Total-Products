@@ -79,7 +79,85 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri kullanarak **DOCX** belgelerine filigran eklemek, modern Word dosyalarına görünür kontrol ekleyerek yanlış dağıtımı önlemeye ve düzenlenebilir, paylaşılabilir içerikteki sahipliği netleştirmeye yardımcı olur.
+
+Python otomasyonu, binlerce DOCX dosyası üzerinde tekrarlanabilir filigran kurallarını etkinleştirerek ekipler ve sistemler arasında tutarlı yerleşim, opaklık ve iletişim sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Gizli Belge Etiketleme**  
+
+&nbsp; Hassas raporların üzerine "GİZLİ" damgası vurarak rastgele paylaşımı engelleyin.
+
+
+
+* **İncelemeler için Taslak Sürüm İşaretleme**  
+
+&nbsp; Hataları azaltmak için "TASLAK" örtüklerini uygulayın.
+
+
+
+* **Müşteri Teslimatı Sahiplik İşaretleri**  
+
+&nbsp; İşbirliği için düzenlenebilirliği korurken teslimatlara sahiplik filigranları ekleyin.
+
+
+
+* **İş Belgeleri İçin Şablon Yönetimi**  
+
+&nbsp; Oluşturulan teklifler, mektuplar ve beyanlar üzerinde filigran standartlarını zorlayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **CRM Tetiklemeli Teklif Filigranlama**  
+
+&nbsp; Bir anlaşma aşaması değiştiğinde DOCX tekliflerini otomatik olarak oluşturun ve filigranlayın.
+
+
+
+* **Arka Ofis Göçü İçin Toplu Filigran**  
+
+&nbsp; Depo göçü sırasında arşiv DOCX dosyalarına damga vurarak yönetimi standartlaştırın.
+
+
+
+* **Rol ve Bölgeye Göre Dinamik Filigran**  
+
+&nbsp; Kullanıcı rolüne, ofis konumuna veya veri saklama kurallarına göre filigran metnini uyarlayın.
+
+
+
+* **Otomatik Sansürleme Eşlik İş Akışı**  
+
+&nbsp; Sansürleme sonrası belgeleri filigranlayarak "DEZENFEKTE EDİLMİŞ KOPYA" belirtin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

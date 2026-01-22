@@ -85,7 +85,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API合并位图图像可以将原始未压缩的视觉内容合并为单个复合图像或序列。这在技术成像、扫描工作流程以及注重图像保真度胜过文件大小的系统中非常有用。
+
+
+
+自动化的BMP合并支持确定性图像处理流程，需要精度、可重复性和系统驱动的合成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **扫描图像合并（BMP）**  
+
+  合并多个BMP扫描成为单个复合图像。
+
+
+
+* **技术图解组装（BMP）**  
+
+  将位图图解组合成统一的视觉内容。
+
+
+
+* **原始图像归档（BMP）**  
+
+  聚合BMP文件以进行长期存储或处理。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化扫描处理（BMP）**  
+
+  系统在摄入工作流程中合并BMP图像。
+
+
+
+* **批量图像合成（BMP）**  
+
+  定时作业以编程方式合并位图图像。
+
+
+
+* **精密成像流水线（BMP）**  
+
+  BMP合并嵌入在受控处理系统中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La firma dei documenti DOCX utilizzando le API Python consente di includere metadati di approvazione verificabili in documenti strutturati e moderni. Ciò supporta la tracciabilità e i cicli di vita dei documenti controllati.
+
+
+
+La firma automatizzata dei documenti DOCX si integra perfettamente con i motori di contenuti, i sistemi di approvazione e i repository documentali su larga scala.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Finalizzazione dei Contratti Digitali**  
+
+&nbsp; Inserire le firme di approvazione nei contratti DOCX finalizzati.
+
+
+
+* **Tracciamento dell'Approvazione dei Report**  
+
+&nbsp; Firmare i report DOCX per confermare l'approvazione manageriale.
+
+
+
+* **Governance della Documentazione Interna**  
+
+&nbsp; Applicare firme ai documenti interni convalidati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Firma dei Contratti Basata sugli Eventi**  
+
+&nbsp; I file DOCX vengono firmati automaticamente dopo gli eventi di approvazione.
+
+
+
+* **Chiusura della Revisione a Più Passaggi**  
+
+&nbsp; La firma avviene una volta che tutti i revisori completano i loro compiti.
+
+
+
+* **Approvazione della Documentazione Basata su CI**  
+
+&nbsp; I file DOCX vengono firmati come parte dei flussi di lavoro di build automatizzati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+מיזוג פורמטים של גיליונות אלקטרוניים תואמי Excel באמצעות APIs של פייתון מספק גישה אחידה לטיפול במקורות שונים של גיליונות אלקטרוניים תחת זרימת עבודה אחת. ההפשטה הזו מקלה על איחוד נתונים בין פורמטים מעורבים.
+
+
+
+האוטומציה מאפשרת מיזוג של גיליונות אלקטרוניים בצורה חלקה ללא קשר לפורמט המקורי, משפרת את גמישות המערכת והקידמה.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **איחוד גיליונות מרובי פורמטים (EXCEL)**  
+
+&nbsp; מיזוג קבצים שונים התואמים ל-Excel לתוך חוברת אחת.
+
+
+
+* **איחוד נתונים ממקורות שונים (EXCEL)**  
+
+&nbsp; שילוב של גיליונות מכלים ופורמטים שונים.
+
+
+
+* **הרמוניזציה של נתוני עסקים ברמה הארגונית (EXCEL)**  
+
+&nbsp; איגוד של נתוני גיליונות אלקטרוניים הטובים בקובץ מאסטר.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **צינורות נתונים תלת-ממדיים ללא תלות בפורמט (EXCEL)**  
+
+&nbsp; זרימות עבודה אוטומטיות ממזגות גיליונות אלקטרוניים ללא קשר לפורמט.
+
+
+
+* **אוטומציה אחידה לדיווחים (EXCEL)**  
+
+&nbsp; מערכות מייצרות פלטים מאוחדים של Excel באופן דינמי.
+
+
+
+* **אורכסטרציה סלקולרית של גיליונות אלקטרוניים (EXCEL)**  
+
+&nbsp; מיזוג תומך בתהליכי עבודת נתונים בסולמה הארגונית.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

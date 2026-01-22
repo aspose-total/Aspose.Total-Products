@@ -88,7 +88,75 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusión de archivos de valores separados por tabuladores utilizando APIs de Python permite la combinación rápida y ligera de datos tabulares estructurados. TSV se utiliza comúnmente para el intercambio de datos y el preprocesamiento.
+
+
+
+La fusión automatizada de TSV admite canalizaciones de datos de alto rendimiento y flujos de trabajo analíticos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+
+
+* **Agregación de Datos en Bruto (TSV)**  
+
+&nbsp; Fusionar archivos TSV en un solo conjunto de datos para su procesamiento.
+
+
+
+* **Intercambio de Datos de Sistema a Sistema (TSV)**  
+
+&nbsp; Combinar exportaciones TSV de diferentes plataformas.
+
+
+
+* **Preparación de Datos Pre-Análisis (TSV)**  
+
+&nbsp; Fusionar archivos TSV antes de la transformación analítica.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+
+
+* **Procesamiento de Datos Basado en Flujos (TSV)**  
+
+&nbsp; Los sistemas automatizados fusionan archivos TSV en flujos de datos.
+
+
+
+* **Operaciones de ETL por Lotes (TSV)**  
+
+&nbsp; La fusión de TSV ocurre durante trabajos de ETL programados.
+
+
+
+* **Canalizaciones de Datos Tabulares Escalables (TSV)**  
+
+&nbsp; La fusión programática admite conjuntos de datos TSV grandes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -155,7 +223,7 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

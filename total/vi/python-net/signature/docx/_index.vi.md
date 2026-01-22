@@ -71,7 +71,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Words for Python via .
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chữ ký tài liệu DOCX bằng Python APIs cho phép tài liệu hiện đại có cấu trúc bao gồm dữ liệu xác nhận phê duyệt có thể xác minh. Điều này hỗ trợ việc theo dõi và quản lý vòng đời tài liệu được kiểm soát.
+
+
+
+Chữ ký DOCX tự động tích hợp một cách mượt mà với các hệ thống nội dung, hệ thống phê duyệt và kho lưu trữ tài liệu theo quy mô.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Hoàn Thành Hợp Đồng Kỹ Thuật Số**  
+
+&nbsp; Nhúng chữ ký phê duyệt vào các hợp đồng DOCX đã hoàn chỉnh.
+
+
+
+* **Theo Dõi Phê Duyệt Báo Cáo**  
+
+&nbsp; Ký tài liệu DOCX để xác nhận sự phê duyệt của quản lý.
+
+
+
+* **Quản Lý Tài Liệu Nội Bộ**  
+
+&nbsp; Áp dụng chữ ký vào các tài liệu nội bộ đã được xác thực.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Ký Hợp Đồng Theo Sự Kiện**  
+
+&nbsp; Các tập tin DOCX được ký tự động sau các sự kiện phê duyệt.
+
+
+
+* **Đóng Hồi Đánh Giá Đa Bước**  
+
+&nbsp; Việc ký xảy ra sau khi tất cả các người xem hoàn thành nhiệm vụ của họ.
+
+
+
+* **Phê Duyệt Tài Liệu Dựa Trên CI**  
+
+&nbsp; Các tập tin DOCX được ký như một phần của các đường ống xây dựng tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

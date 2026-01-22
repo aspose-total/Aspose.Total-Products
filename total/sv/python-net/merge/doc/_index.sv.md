@@ -78,7 +78,75 @@ För mer information, se [Product Documentation](https://docs.aspose.com/words/p
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Att sammanfoga dokument med hjälp av Python API:er är en grundläggande förmåga för modern innehållsbehandling, rapportering och hantering av dokumentlivscykeln. Det gör det möjligt för utvecklare och system att kombinera flera filer till en enda strukturerad utdata samtidigt som formatering, layout och logisk flöde bevaras över heterogena dokumentkällor.
+
+
+
+Genom att automatisera dokumentssammanfogning kan organisationer minska manuellt arbete, säkerställa konsistens och integrera dokumentflöden direkt i dataledningar, backend-tjänster och skalbara automatiseringssystem som är byggda på Python.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* **Sammanställda Word-rapporter (DOC)**  
+
+&nbsp; Kombinera äldre Word-dokument till en enda rapport för enhetlig granskning och arkivering.
+
+
+
+* **Batchdokumentmontage (DOC)**  
+
+&nbsp; Montera flera DOC-filer som genererats av olika system till en leveransklar fil.
+
+
+
+* **Historiskt innehållsaggregering (DOC)**  
+
+&nbsp; Sammanfoga arkiverade DOC-filer för att modernisera och återanvända äldre innehållssamlingar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* **Schemalagd rapportkompilering (DOC)**  
+
+&nbsp; Automatiserade jobb sammanfogar dagliga eller veckovisa DOC-filer till en distribuerbar rapport.
+
+
+
+* **Dokumentmontering baserad på arbetsflöde (DOC)**  
+
+&nbsp; Backend-arbetsflöden sammanfogar dynamiskt DOC-filer när processsteg är slutförda.
+
+
+
+* **Utmatningsgenerering driven av ledningssystem (DOC)**  
+
+&nbsp; DOC-sammanfogning utlöses programmatiskt som en del av en större dokumentledning.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

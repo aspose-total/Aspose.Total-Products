@@ -78,7 +78,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusion des classeurs Excel modernes à l'aide des API Python est une approche standard pour combiner des ensembles de données structurées, des rapports et des modèles. XLSX est le format de feuille de calcul le plus largement utilisé dans les systèmes modernes.
+
+
+
+Cette fonctionnalité s'intègre parfaitement aux plateformes de données, permettant la génération automatisée de feuilles de calcul et la consolidation à grande échelle.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Création de rapports multi-feuilles (XLSX)**  
+
+&nbsp; Fusionner des fichiers XLSX dans un classeur de rapports complet.
+
+
+
+* **Unification des sources de données (XLSX)**  
+
+&nbsp; Combinez des ensembles de données XLSX provenant de plusieurs systèmes.
+
+
+
+* **Assemblage collaboratif des données (XLSX)**  
+
+&nbsp; Fusionner des fichiers XLSX contribués par plusieurs parties prenantes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Génération dynamique de feuilles de calcul (XLSX)**  
+
+&nbsp; Les systèmes fusionnent des fichiers XLSX en fonction des conditions de données d'exécution.
+
+
+
+* **Intégration de pipeline ETL (XLSX)**  
+
+&nbsp; La fusion XLSX est automatisée dans les pipelines d'ingestion de données.
+
+
+
+* **Automatisation de rapports évolutive (XLSX)**  
+
+&nbsp; Les rapports XLSX à volume élevé sont fusionnés de manière programmable.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

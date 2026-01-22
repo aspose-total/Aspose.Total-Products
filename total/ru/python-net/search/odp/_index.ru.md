@@ -76,7 +76,75 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Поиск файлов **ODP** с использованием Python API обеспечивает структурированный доступ к документам презентаций, обычно используемым в средах совместной работы и с открытым исходным кодом. Программный поиск позволяет системам извлекать текст слайдов, заголовки и метаданные без ручного просмотра.
+
+
+
+При автоматизации поиск документов ODP улучшает обнаружимость, поддерживает масштабируемое управление контентом и интегрируется без проблем с современными системами обработки данных и автоматизации рабочих процессов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Поиск текста слайдов ODP**  
+
+&nbsp; Находит ключевые слова и фразы на слайдах презентаций в открытом формате.
+
+
+
+* **Просмотр содержимого презентации**  
+
+&nbsp; Обеспечивает быструю проверку общих или совместных слайд-деков.
+
+
+
+* **Обнаружение метаданных ODP**  
+
+&nbsp; Извлекает свойства документа для классификации и индексации.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматическая индексация ODP**  
+
+&nbsp; Сервисы Python непрерывно индексируют файлы ODP для доступа к поиску.
+
+
+
+* **Мониторинг содержимого ODP**  
+
+&nbsp; Программные сканирования обнаруживают изменения или обновления в презентациях.
+
+
+
+* **Интеграция рабочего процесса ODP**  
+
+&nbsp; Извлеченный контент подает автоматизированные публикации или процессы проверки.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

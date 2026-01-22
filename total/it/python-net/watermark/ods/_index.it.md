@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'apposizione di filigrane agli fogli di calcolo **ODS** con API Python migliora il controllo sugli fogli di calcolo aperti aggiungendo etichette di governance visibili per la proprietà, la riservatezza e la distribuzione.
+
+L'automatizzazione delle filigrane ODS supporta flussi di lavoro di reporting scalabili, garantendo indicatori di policy consistenti tra i set di dati condivisi in formati aperti.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Chiave" %}}
+
+
+
+* **Apposizione di Etichette su Fogli di Dati Riservati**  
+
+&nbsp; Contrassegnare i file ODS sensibili per ridurre il rischio di condivisione esterna accidentale.
+
+
+
+* **Etichette Preliminari sui Dati**  
+
+&nbsp; Applicare sovrapposizioni "NON VERIFICATO" durante cicli di convalida dei dati in fase iniziale.
+
+
+
+* **Avvisi sull'Utilizzo dei Dati da Parte dei Partner**  
+
+&nbsp; Aggiungere avvisi visibili che chiariscono le restrizioni di licenza e riutilizzo.
+
+
+
+* **Supporto per Traccia di Audit Interno**  
+
+&nbsp; Apporre filigrane agli esportazioni per rendere ovvio quale sistema ha prodotto un determinato set di dati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Apposizione di Filigrane su Esportazioni ETL**  
+
+&nbsp; Contrassegnare automaticamente i file ODS generati da pipeline di dati automatizzate.
+
+
+
+* **Testo della Filigrana Basato sul Ruolo**  
+
+&nbsp; Personalizzare il contenuto della filigrana a seconda del team ricevente o del livello di accesso.
+
+
+
+* **Controlli di Distribuzione dei Report Pianificati**  
+
+&nbsp; Applicare filigrane con timestamp prima di inviare report periodici ODS.
+
+
+
+* **Etichettatura Automatica della Politica di Conservazione**  
+
+&nbsp; Aggiungere etichette di conservazione visive per supportare l'automazione del ciclo di vita per fogli di calcolo archiviati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

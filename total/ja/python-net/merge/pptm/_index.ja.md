@@ -79,7 +79,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用してマクロが有効化されたPowerPointファイルをマージすると、埋め込まれたロジック、自動化、またはインタラクティブな動作を含むプレゼンテーションをサポートします。これは企業や運用プレゼンテーションで一般的です。
+
+
+
+自動化により、マクロが有効化されたスライドが埋め込まれた機能を壊さずに信頼性を持ってマージされます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **マクロベースのプレゼンテーションアセンブリ（PPTM）**  
+
+  Merge PPTM files containing automated or interactive elements.
+
+
+
+* **運用スライドの統合（PPTM）**  
+
+  内部プロセスで使用されるマクロが有効化されたプレゼンテーションを組み合わせます。
+
+
+
+* **インタラクティブデッキのパッケージング（PPTM）**  
+
+  PPTMファイルを1つの実行可能プレゼンテーションにまとめます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **ルールベースのプレゼンテーション生成（PPTM）**  
+
+  システムは自動化ルールに基づいてPPTMファイルをマージします。
+
+
+
+* **バックエンド制御されたマクロの保存（PPTM）**  
+
+  自動化されたパイプラインはロジックを保持しながらPPTMファイルをマージします。
+
+
+
+* **コンプライアンスプレゼンテーションの自動化（PPTM）**  
+
+  PPTMのマージは繰り返し可能で規定された出力をサポートします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Unire documenti Excel e fogli di calcolo utilizzando le API di Python è essenziale per consolidare dati strutturati da diverse fonti in un unico file analizzabile. Questa capacità è ampiamente utilizzata in reporting, analisi, finanza e sistemi operativi in cui i dati sono distribuiti su molti fogli di calcolo.
+
+
+
+La fusione automatizzata dei fogli di calcolo consente una gestione dati coerente, riduce gli errori manuali e integra i flussi di lavoro dei fogli di calcolo direttamente nelle pipeline di dati e di elaborazione scalabili.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Consolidamento di Fogli di Calcolo Legacy (XLS)**  
+
+&nbsp; Unire vecchi file XLS in un unico workbook per un'analisi unificata.
+
+
+
+* **Aggregazione Dati Dipartimentali (XLS)**  
+
+&nbsp; Unire fogli di calcolo XLS provenienti da più team in un unico file principale.
+
+
+
+* **Unificazione Dati Storici (XLS)**  
+
+&nbsp; Consolidare dati XLS archiviati per reporting e migrazione.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Aggregazioni Dati Pianificate (XLS)**  
+
+&nbsp; I lavori automatizzati uniscono file XLS periodici in report consolidati.
+
+
+
+* **Normalizzazione Dati Backend (XLS)**  
+
+&nbsp; I sistemi uniscono file XLS come parte dei flussi di lavoro di pulizia dati.
+
+
+
+* **Assemblaggio Fogli di Calcolo Basato su Pipeline (XLS)**  
+
+&nbsp; La fusione XLS è attivata in modo programmato nelle pipeline ETL.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

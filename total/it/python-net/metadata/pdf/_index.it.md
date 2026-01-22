@@ -97,7 +97,93 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'estrazione dei metadati dei documenti per i file **PDF** tramite API Python aiuta i sistemi a catturare proprietà fondamentali, come titolo, autore, produttore, date di creazione e modifica e identificatori incorporati, supportando la governance e la scoperta anche quando i contenuti sono principalmente a layout fisso. Questo è importante per l'auditabilità, la catalogazione e la gestione operativa di repository PDF ad alto volume.
+
+
+
+Nei flussi di automazione, i metadati dei PDF possono guidare l'indicizzazione, il routing, l'applicazione della conservazione e l'elaborazione batch, rendendo pratico integrare i PDF in flussi di lavoro scalabili senza triage manuale.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Catalogazione dell'archivio digitale**
+
+  Estrarre i metadati dei PDF per creare un inventario affidabile dei documenti con attributi ricercabili.
+
+
+
+* **Audit di conformità e conservazione**
+
+  Utilizzare i timestamp di creazione/modifica per convalidare i tempi di conservazione e rilevare eventuali incongruenze.
+
+
+
+* **Attribuzione del produttore e della fonte**
+
+  Catturare le proprietà correlate al produttore per comprendere le origini dei contenuti e la genealogia del processo.
+
+
+
+* **Segnali di classificazione batch**
+
+  Utilizzare i campi dei metadati per categorizzare i PDF in domini come politiche, fatture, manuali o rapporti.
+
+
+
+* **Controlli di qualità operativi**
+
+  Segnalare i PDF con metadati mancanti o sospetti come candidati per la correzione o la revisione manuale.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Triage di ammissione automatizzato**
+
+  Quando arrivano i PDF, estrarre i metadati e instradarli in corsie di elaborazione in base a regole di completezza e sensibilità.
+
+
+
+* **Aggiornamenti dell'indice guidati dai metadati**
+
+  Aggiornare automaticamente un indice di ricerca ogni volta che viene aggiunto o sostituito un PDF, utilizzando i metadati per un recupero rapido.
+
+
+
+* **Flusso di lavoro per l'applicazione della conservazione**
+
+  Eseguire lavori pianificati che identificano i PDF oltre i limiti di conservazione e generano compiti di eliminazione o archiviazione.
+
+
+
+* **Reporting batch e cruscotti**
+
+  Aggregare i metadati dei PDF estratti in rapporti periodici per la governance, la conformità e il controllo operativo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

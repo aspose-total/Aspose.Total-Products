@@ -98,7 +98,93 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri aracılığıyla **DOTX** dosyaları için belge meta verilerinin çıkarılması, şablon dosyalarını yönetmenin yapılandırılmış bir yolunu sağlar; şablon başlığı, yazarlık detayları ve güncelleme geçmiği gibi özellikleri okuyarak. Bu, yönetişimi geliştirir ve belge oluşturmanın tutarlı kalmasını ve politikalarla uyumlu olmasını sağlar.
+
+
+
+Otomasyon boru hatlarında, DOTX meta verileri şablon çözümlemesi, onay iş akışları ve yaşam döngüsü kontrolleri için faydalıdır—manuel kontrolleri ve yapılandırma sapmasını azaltarak ölçeklenebilir şablon işlemlerini mümkün kılar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Şablon Keşfi ve Arama**
+
+  DOTX meta verilerini çıkararak şablonları amaç, departman veya amaçlanan belge türüne göre aranabilir hale getirin.
+
+
+
+* **Onay Durumu Takibi**
+
+  Bir şablonun taslak, onaylanmış veya kullanımdan kaldırılmış olup olmadığını takip etmek için özel özellikler kullanın.
+
+
+
+* **Şablon Sahiplik Eşlemesi**
+
+  Güncelleme isteklerini yönlendirmek ve sorumluluk görevlerini belirlemek için bakım görevlilerini ve yazarları tanımlayın.
+
+
+
+* **Oluşturulan Belgeler İçin Tutarlılık Güvencesi**
+
+  İş akışlarının, meta veri tanımlayıcılarına dayanarak doğru DOTX şablonunu kullandığını doğrulayın.
+
+
+
+* **Şablon Değişiklik Yönetimi**
+
+  Kontrollü şablonlara beklenmeyen düzenlemelerin yapılıp yapılmadığını tespit etmek için değişiklik geçmişini izleyin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Meta Veri Odaklı Şablon Kaydı**
+
+  DOTX meta verilerini belge oluşturma sistemleri tarafından kullanılan bir kayıt servisine otomatik olarak alın.
+
+
+
+* **Kullanımdan Kaldırma Uygulama Boru Hattı**
+
+  Kullanımdan kaldırılan DOTX şablonları bir arşive yönlendirin ve meta veri bayraklarına dayanarak kullanımı engelleyin.
+
+
+
+* **Otomatik Şablon QA Kontrolleri**
+
+  Serbest bırakılmadan önce gerekli DOTX özelliklerinin var olduğunu ve kurumsal standartlarla eşleştiğini sağlayan doğrulamaları çalıştırın.
+
+
+
+* **Şablon Güncelleme İş Akışı Yönlendirmesi**
+
+  DOTX meta verileri bir değişiklik gösterdiğinde, atanan bakım görevlisi için otomatik olarak gözden geçirme görevleri oluşturun.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

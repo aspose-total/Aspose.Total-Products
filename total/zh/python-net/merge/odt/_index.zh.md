@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API合并OpenDocument Text文件支持开放标准和跨平台文档工作流。它能够无缝整合在开源或混合办公环境中创建的内容。
+
+
+
+围绕ODT合并的自动化确保了在系统间保持文档完整性的互操作性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **跨平台文档合并（ODT）**  
+
+&nbsp; 合并在不同办公套件中创建的ODT文件。
+
+
+
+* **开放标准内容聚合（ODT）**  
+
+&nbsp; 将ODT文档合并以进行统一发布。
+
+
+
+* **协作内容组装（ODT）**  
+
+&nbsp; 将来自多个贡献者的ODT文件合并为一个文档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **开放工作流自动化（ODT）**  
+
+&nbsp; 无需专有依赖，自动化系统合并ODT文件。
+
+
+
+* **定时文档编译（ODT）**  
+
+&nbsp; ODT合并作为定期后端任务的一部分运行。
+
+
+
+* **互操作性发布管道（ODT）**  
+
+&nbsp; ODT文件在跨系统管道中动态合并。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

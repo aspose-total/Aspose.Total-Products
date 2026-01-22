@@ -77,7 +77,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Составление документов с использованием Python API для файлов ODP обеспечивает безопасную обработку содержимого презентаций, созданных в стандартах открытых документов. Это необходимо при обмене слайдами, которые могут содержать конфиденциальную или собственническую информацию.
+
+
+
+Автоматизация гарантирует, что презентации ODP могут быть систематически очищены, поддерживая масштабируемые и повторяемые контроли конфиденциальности для активов презентации.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Конфиденциальное распространение слайдов**  
+
+&nbsp; Удаление конфиденциальных данных из слайдов презентации перед распространением.
+
+
+
+* **Управление открытым форматом**  
+
+&nbsp; Применение политик защиты данных к файлам презентаций в открытом стандарте.
+
+
+
+* **Санитарная обработка учебных материалов**  
+
+&nbsp; Удаление внутренних ссылок перед публикацией учебного контента.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Правила санитарной обработки на уровне слайда**  
+
+&nbsp; Автоматическое удаление содержимого с определенных слайдов или макетов.
+
+
+
+* **Создание конвейеров презентаций**  
+
+&nbsp; Интеграция санитарной обработки в автоматизированные рабочие процессы создания презентаций.
+
+
+
+* **Плановые проверки соответствия**  
+
+&nbsp; Периодическая санитарная обработка хранимых файлов ODP с использованием автоматизированных задач.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

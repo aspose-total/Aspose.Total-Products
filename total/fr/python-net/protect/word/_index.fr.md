@@ -76,7 +76,75 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La catégorie de format Word représente des documents texte utilisés dans les flux de travail de rédaction, de reporting et de collaboration. Protéger les fichiers Word garantit la confidentialité, l'intégrité des documents et un accès contrôlé tout au long de leur cycle de vie.
+
+
+
+Les API Python permettent d'automatiser la protection des documents Word, intégrant ainsi la sécurité comme une fonctionnalité intégrée des systèmes modernes de gestion de contenu et de documents.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Protection du contenu sensible**  
+
+&nbsp; Sécuriser les documents Word contenant des informations confidentielles.
+
+
+
+* **Application des restrictions d'édition**  
+
+&nbsp; Contrôler qui peut modifier ou consulter les documents.
+
+
+
+* **Sécurité du cycle de vie des documents**  
+
+&nbsp; Protéger les fichiers à différentes étapes de leur création et de leur approbation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Protection automatisée des fichiers Word**  
+
+&nbsp; Appliquer automatiquement les règles de sécurité lors de la création de documents.
+
+
+
+* **Contrôles de documents basés sur les rôles**  
+
+&nbsp; Protéger dynamiquement les fichiers Word en fonction des rôles des utilisateurs.
+
+
+
+* **Flux de travail sécurisés de bout en bout**  
+
+&nbsp; Intégrer la protection Word dans des pipelines de documents entièrement automatisés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

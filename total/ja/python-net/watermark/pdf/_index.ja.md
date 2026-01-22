@@ -73,7 +73,85 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用して**PDF**文書に透かしを入れることは、編集アクセスに頼らずに、可視的な所有権、機密ラベル、または証明マークを追加することで、完成した共有可能なファイルを保護する一般的な方法です。
+
+自動化されたPDF透かしは、大量のスタンプ作業、ポリシーベースのルーティング、および文書アーカイブ全体での一貫したコンプライアンスラベリングなど、スケーラブルなワークフローをサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **機密レポートの保護**
+
+  &nbsp; 不正な再配布を抑止するために可視的な機密マークを適用します。
+
+
+
+* **レビューと承認用のプルーフコピー**
+
+  &nbsp; フィードバック用に共有されるPDFに「PROOF」とスタンプを押して、最終版との混乱を減らします。
+
+
+
+* **請求書と明細の所有権ラベル**
+
+  &nbsp; 部門全体で使用される財務PDFに組織のアイデンティティマークを追加します。
+
+
+
+* **法的文書の制御された共有**
+
+  &nbsp; 取り扱いの期待を強化するために、機密性の高い提出物や契約に透かしを入れます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **アーカイブバックフィルのための大量透かし**
+
+  &nbsp; 新しいリポジトリへの移行中に、歴史的なPDFに自動的にスタンプを押します。
+
+
+
+* **ページに応じた透かし配置ルール**
+
+  &nbsp; ページサイズや向きに応じて透かしの位置をプログラムで調整します。
+
+
+
+* **ワークフローにトリガーされた最終スタンプ**
+
+  &nbsp; 承認が自動システムで完了したときに、「FINAL」透かしを追加します。
+
+
+
+* **タイムスタンプ付きの動的透かしコンテンツ**
+
+  &nbsp; 日付、リクエストID、または受信者メタデータを含む透かしを生成し、トレーサビリティを確保します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

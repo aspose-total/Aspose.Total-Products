@@ -71,7 +71,75 @@ Para obter mais detalhes, consulte [Documentação do Produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Os arquivos ODP são comumente usados em ecossistemas de apresentação abertos, e desbloqueá-los garante acesso aos slides protegidos, notas e layouts. Isso é fundamental para reutilização, localização e preservação de longo prazo dos ativos de apresentação.
+
+
+
+As APIs do Python permitem o desbloqueio automatizado de arquivos ODP, permitindo que eles se integrem a fluxos de trabalho de apresentação escaláveis e pipelines de transformação.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Reutilização de Conteúdo de Slides**  
+
+  &nbsp; Permite a extração de slides protegidos para reutilização em apresentações.
+
+
+
+* **Facilitação de Localização**  
+
+  &nbsp; Suporta o acesso ao texto bloqueado para fluxos de trabalho de tradução automatizados.
+
+
+
+* **Arquivamento de Apresentações**  
+
+  &nbsp; Permite a inspeção segura de arquivos protegidos antes do armazenamento de longo prazo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Tradução Automatizada de Slides**  
+
+  &nbsp; O desbloqueio permite a extração de texto para pipelines de automação multilíngue.
+
+
+
+* **Indexação de Apresentações**  
+
+  &nbsp; O conteúdo protegido é desbloqueado e indexado para sistemas de busca empresarial.
+
+
+
+* **Conversão em Lote de Apresentações**  
+
+  &nbsp; Arquivos ODP são desbloqueados e convertidos programaticamente em formatos alternativos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

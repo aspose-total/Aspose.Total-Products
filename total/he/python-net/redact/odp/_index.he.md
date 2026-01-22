@@ -77,7 +77,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+כתיבת מסמך באמצעות Python APIs עבור קבצי ODP מאפשרת טיפול מאובטח בתוכן המצגת שנוצר בתקני מסמך פתוחים. זה חיוני כאשר משתפים שקופיות שעלולות להכיל מידע רגיש או בעל קניין רוחני.
+
+
+
+האוטומציה מבטיחה שמצגות ODP יכולות להיות מנוקות באופן עקבי, תומכות בבקרות פרטיות נמוכות וחוזרות על כל נכסי המצגת.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **שיתוף שקופיות סודי**  
+
+&nbsp; הסרת נתונים רגישים משקופיות לפני הפצה.
+
+
+
+* **ממשל תקן פתוח**  
+
+&nbsp; הטמעת מדיניות הגנת נתונים על קבצי מצגת בתקנים פתוחים.
+
+
+
+* **סניטציה של חומרי הכשרה**  
+
+&nbsp; עיקול הפניות פנימיות לפני פרסום תוכן למידה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **כללי עיקול שקופיות ברמת השקופיות**  
+
+&nbsp; עיקול אוטומטי של תוכן משקופיות או פריסות ספציפיות.
+
+
+
+* **צינורות בניית מצגות**  
+
+&nbsp; שילוב של עיקול בתהליכי בניית מצגות אוטומטיים.
+
+
+
+* **סריקות תקינות מתוזמנות**  
+
+&nbsp; סניטציה מדיות שמורות של קבצי ODP באמצעות עבודות אוטומטיות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

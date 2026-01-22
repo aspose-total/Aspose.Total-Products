@@ -78,7 +78,35 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+##Zusammenführen von OpenDocument-Tabellenkalkulationen mit Python-APIs
+
+Die Unterstützung von Open Standards und plattformübergreifenden Datenworkflows durch Python-APIs ist ideal für Umgebungen, die auf Open-Source-Bürotools angewiesen sind.
+
+Die Automatisierung rund um das Zusammenführen von ODS gewährleistet Interoperabilität und gleichzeitig die Integrität strukturierter Daten.
+
+##Schlüsselanwendungsfälle
+
+- **Plattformübergreifende Tabellenkalkulation (ODS)**
+  Merge ODS-Dateien, die in verschiedenen Büro-Suiten erstellt wurden.
+
+- **Aggregation von Daten nach Open Standards (ODS)**
+  Kombinieren von ODS-Tabellenkalkulationen für eine einheitliche Analyse.
+
+- **Kollaborative Datensammlung (ODS)**
+  Zusammenführen von ODS-Dateien von verteilten Beitragenden.
+
+##Automatisierungsszenarien
+
+- **Automatisierung von Open Data Pipelines (ODS)**
+  Systeme führen ODS-Dateien ohne proprietäre Abhängigkeiten zusammen.
+
+- **Geplante Tabellenkalkulationserstellung (ODS)**
+  Das Zusammenführen von ODS erfolgt im Rahmen wiederkehrender Backend-Aufgaben.
+
+- **Interoperable Berichtspipelines (ODS)**
+  ODS-Dateien werden dynamisch in Datenworkflows zusammengeführt.
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

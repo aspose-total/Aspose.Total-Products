@@ -79,7 +79,85 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Vodoznakování dokumentů **Word** s Python API pomáhá chránit firemní textové soubory vložením viditelných štítků pro vlastnictví, důvěrnost a distribuční pravidla do dokumentů, které jsou často sdíleny a upravovány.
+
+Automatizace umožňuje konzistentní vodoznakování Wordu napříč týmy a knihovnami dokumentů, snižuje manuální úsilí a zajišťuje jasnost správy a pracovního postupu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Důvěrné politické dokumenty**  
+
+&nbsp; Přidejte označení důvěrnosti k zabránění náhodného přeposílání interních směrnic.
+
+
+
+* **Návrh správy pro spolupracující dokumenty**  
+
+&nbsp; Razítko "NÁVRH" zabrání tomu, aby zastaralé verze byly považovány za finální.
+
+
+
+* **Přiřazení odevzdaného klienta**  
+
+&nbsp; Vodoznakujte sdílené soubory Word k objasnění vlastnictví a povoleného opětovného použití.
+
+
+
+* **Označení výstupu z kontrolované šablony**  
+
+&nbsp; Ujistěte se, že automaticky generované dokumenty Word zahrnují standardní politiky vodoznaku.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* **Automatizace vodoznaku od šablony k dokumentu**  
+
+&nbsp; Aplikujte vodoznaky ihned po vygenerování dokumentů Word ze strukturovaných dat.
+
+
+
+* **Přepínání vodoznaku na základě stavu pracovního postupu**  
+
+&nbsp; Automaticky změňte text vodoznaku, když se dokumenty přesunou z návrhu na schválení.
+
+
+
+* **Vynucování politiky nahrávání do repozitáře**  
+
+&nbsp; Vodoznakujte soubory Word při nahrávání do regulovaných složek nebo systémů správy případů.
+
+
+
+* **Vodoznakování specifické pro příjemce pro sdílení**  
+
+&nbsp; Vložte identifikátory příjemců k zlepšení zpětného sledování, když jsou dokumenty sdíleny externě.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

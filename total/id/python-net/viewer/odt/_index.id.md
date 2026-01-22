@@ -90,7 +90,73 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Melihat file ODT dengan API Python memungkinkan inspeksi dokumen teks terbuka yang digunakan dalam alur kerja berbasis standar.
+
+Ini mendukung otomatisasi dalam sistem berbasis dokumen tanpa ketergantungan propietary.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Ulasan Dokumen Terbuka**  
+
+  Lihat dokumen teks dalam format terbuka.
+
+
+
+* **Pemeriksaan Integritas Konten**  
+
+  Periksa struktur dokumen dan teks.
+
+
+
+* **Kompatibilitas Lintas Sistem**  
+
+  Pastikan dokumen dirender dengan benar di berbagai lingkungan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pipa Dokumen Otomatis**  
+
+  Proses Python merender file ODT selama alur kerja.
+
+
+
+* **Validasi Kepatuhan**  
+
+  Dokumen dilihat untuk kesesuaian standar.
+
+
+
+* **Generasi Pratinjau**  
+
+  Peninjau otomatis mendukung alur kerja ulasan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การผสานเอกสาร Word ที่เปิดใช้งานแมโคโปรแกรมด้วย Python APIs ช่วยให้การสร้างเอกสารโครงสร้างได้อย่างมีระเบียบพร้อมกับการรักษาตรรกะที่ซ่อนอยู่และพฤติกรรมขั้นสูงของเอกสาร สิ่งนี้เป็นสิ่งจำเป็นสำหรับสภาพแวดล้อมองค์กรที่เอกสารรวมการอัตโนมัติ แบบฟอร์ม หรือช่องคำนวณ
+
+
+
+การผสาน DOCM อัตโนมัติสนับสนุนการทำงานของเอกสารที่มีมาตรการที่มีความยืดหยุ่นที่สามารถขยายได้โดยไม่ต้องมีการแทรกแซงด้วยมือ ทำให้การดำเนินงานเป็นไปอย่างต่อเนื่องและมีประสิทธิภาพ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **การประกอบเทมเพลตที่ใช้แมโค (DOCM)**  
+
+&nbsp; ผสานเอกสารหลายรายการที่เปิดใช้แมโคเข้าด้วยกันเป็นเอกสารที่สามารถใช้งานได้เดียว
+
+
+
+* **การรวมเอกสารดำเนินงาน (DOCM)**  
+
+&nbsp; รวมเอกสาร DOCM ที่ใช้ในแผนกต่าง ๆ เข้าด้วยกันในเอกสารดำเนินงานที่เป็นรูปเดียวกัน
+
+
+
+* **การรวมเอกสารเอกสารกระบวนการ (DOCM)**  
+
+&nbsp; รวมคำสั่งและเครื่องมือที่ใช้เป็นเอกสารที่ควบคุมได้เพียงเอกสารเดียว
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การสร้างเอกสารที่เป็นไฟล์ที่ปฏิบัติตามกฎระเบียบโดยอัตโนมัติ (DOCM)**  
+
+&nbsp; ระบบผสานไฟล์ DOCM โดยอัตโนมัติเพื่อสร้างเอกสารที่เป็นไฟล์ที่ปฏิบัติตามกฎระเบียบ
+
+
+
+* **การประกอบเอกสารตามกฎระเบียบที่เป็นกฎ (DOCM)**  
+
+&nbsp; ไฟล์ DOCM ถูกผสานเข้าด้วยกันโดยไดนามิกตามกฎระเบียบของกระบวนการ
+
+
+
+* **การรักษาแมโคที่ควบคุมจากด้านหลัง (DOCM)**  
+
+&nbsp; ท่อไฟล์อัตโนมัติผสานไฟล์ DOCM พร้อมรักษาตรรกะที่ซ่อนอยู่
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

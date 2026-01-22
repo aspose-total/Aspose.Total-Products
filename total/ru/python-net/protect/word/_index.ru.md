@@ -76,7 +76,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Категория формата Word представляет текстовые документы, используемые в рабочих процессах по черчению, отчетности и совместной работе. Защита файлов Word обеспечивает конфиденциальность документов, их целостность и контролируемый доступ на протяжении всего их жизненного цикла.
+
+
+
+API Python позволяют автоматизировать защиту документов Word, делая безопасность встроенной возможностью современных систем управления контентом и документами.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Защита конфиденциального контента**  
+
+&nbsp; Обеспечьте безопасность Word-документов, содержащих конфиденциальную информацию.
+
+
+
+* **Принудительное ограничение редактирования**  
+
+&nbsp; Контролируйте, кто может изменять или просматривать документы.
+
+
+
+* **Безопасность жизненного цикла документа**  
+
+&nbsp; Защищайте файлы на разных этапах создания и утверждения.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированная защита файлов Word**  
+
+&nbsp; Применяйте правила безопасности автоматически во время создания документа.
+
+
+
+* **Управление документами на основе ролей**  
+
+&nbsp; Динамически защищайте файлы Word в зависимости от ролей пользователей.
+
+
+
+* **Полностью защищенные рабочие процессы**  
+
+&nbsp; Интегрируйте защиту Word в полностью автоматизированные конвейеры документов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

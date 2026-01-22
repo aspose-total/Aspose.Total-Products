@@ -76,7 +76,59 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A DOC formátumú Word-dokumentumok védelme elengedhetetlen a régi fájlok biztonságban tartásához, amelyek még mindig sok üzleti és archív munkafolyamatot támogatnak. A dokumentumvédelem alkalmazása biztosítja, hogy az érzékeny szövegek, űrlapok és szellemi tulajdon védelme biztosított maradjon, még akkor is, ha csapatok vagy rendszerek között megosztják.
+
+Python API-k használatával a DOC fájlokat programozottan lehet védeni jelszavakkal és engedélyvezérlésekkel, lehetővé téve a biztonsági irányelvek automatizált végrehajtását nagy dokumentumtárolókban és régi csővezetékekben.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Örökölt dokumentumvédelem**  
+
+  Alkalmazzon védelmet régebbi Word-dokumentumokra az engedély nélküli szerkesztések vagy másolások megakadályozása érdekében.
+
+* **Megfelelőség az archivált fájlok esetében**  
+
+  Biztosítsa, hogy a történelmi DOC fájlok megfeleljenek a modern biztonsági és szabályozási követelményeknek.
+
+* **Irányított dokumentummegosztás**  
+
+  Korlátozza a szerkesztési jogokat DOC fájlok belső vagy külső terjesztésekor.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Archívumok tömeges védelme**  
+
+  Automatikusan biztosítsa ezreket DOC fájlokat az archiválási vagy migrációs folyamatok során.
+
+* **Irányelvek által vezérelt hozzáférési ellenőrzés**  
+
+  Szabványos védelmi szabályok érvényesítése DOC fájlokon azok bevitelkor a rendszerekbe.
+
+* **Automatizált biztonságos terjesztés**  
+
+  Védje a DOC dokumentumokat dinamikusan mielőtt automatizált munkafolyamatokon keresztül küldené őket.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

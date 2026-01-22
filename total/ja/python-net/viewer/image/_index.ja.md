@@ -82,7 +82,73 @@ IMAGE ビューア アプリまたはユーティリティを開発する必要�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用して汎用画像形式を表示することは、ワークフロー全体で視覚アセットを検査する統一されたアプローチを提供します。
+
+これにより、ソースやタイプに関係なく画像を一貫して処理できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **統一された画像検査**
+
+  &nbsp; 1つのインターフェースを通じてさまざまな画像ファイルを表示します。
+
+
+
+* **視覚アセットの検証**
+
+  &nbsp; 画像の整合性と外観を確認します。
+
+
+
+* **コンテンツパイプラインのサポート**
+
+  &nbsp; 処理段階中に画像を検査します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **自動化された画像パイプライン**
+
+  &nbsp; Pythonワークフローは、バッチ処理中に画像を表示します。
+
+
+
+* **ダイナミックプレビューサービス**
+
+  &nbsp; レビュー用に画像が必要に応じてレンダリングされます。
+
+
+
+* **品質保証の自動化**
+
+  &nbsp; 表示は自動化された視覚チェックをサポートします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -77,7 +77,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'lerini kullanarak **PDF** belgeleri aramak, raporlar, sözleşmeler, kılavuzlar ve resmi kayıtlar için en yaygın kullanılan formatlardan birinde depolanan bilgilerin güvenilir bir şekilde keşfedilmesini sağlar. Programlı PDF araması, modern sistemlerin manuel okuma olmadan büyük belge koleksiyonları boyunca ilgili metni ve yapısı bulmasına yardımcı olur.
+
+
+
+Otomasyon iş akışlarına entegre edildiğinde, PDF araması ölçeklenebilir dizin oluşturmayı, daha hızlı geri alma işlemlerini ve analiz, uyumluluk ve bilgi yönetimi iş akışlarıyla sorunsuz entegrasyonu destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **PDF Anahtar Kelime Keşfi**  
+
+&nbsp; Büyük PDF belgeleri kümesi boyunca hedeflenen terimleri ve ifadeleri bulur.
+
+
+
+* **Rapor Bölümü Geri Alma**  
+
+&nbsp; PDF'lerin içinde özetler, tablolar ve bulgular gibi ana bölümleri bulur.
+
+
+
+* **Belge Deposu Araması**  
+
+&nbsp; Klasörler ve sistemler arasında depolanan PDF'lere aranabilir erişim sağlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik PDF Dizinleme İş Akışı**  
+
+&nbsp; Python hizmetleri metni çıkarır ve PDF arama dizinlerini bir zamanlama üzerinde günceller.
+
+
+
+* **PDF Uyumluluk İnceleme Otomasyonu**  
+
+&nbsp; Programlı aramalar, PDF'lerde gerekli maddeleri ve eksik ifadeleri tespit eder.
+
+
+
+* **Dinamik PDF Bilgi Çıkarma**  
+
+&nbsp; Arama sonuçları otomatik özetler, uyarılar ve akış aşağı işlemlerini yönlendirir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -128,7 +196,7 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

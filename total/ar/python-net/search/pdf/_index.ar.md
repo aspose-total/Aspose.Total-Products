@@ -77,7 +77,75 @@ otherformats: WORD EXCEL POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+البحث عن مستندات **PDF** باستخدام واجهات برمجة التطبيقات في Python يمكن أن يوفر اكتشافًا موثوقًا للمعلومات المخزنة في أحد أكثر التنسيقات استخدامًا للتقارير والعقود والدلائل والسجلات الرسمية. يساعد البحث البرمجي في ملفات PDF الأنظمة الحديثة على تحديد النص المتعلق والهيكل عبر مجموعات كبيرة من المستندات دون الحاجة إلى قراءة يدوية.
+
+
+
+عند دمجه في خطوط الأتمتة، يدعم البحث في ملفات PDF الفهرسة الموسعة، واسترجاع البيانات بشكل أسرع، والتكامل السلس مع تحليلات البيانات، والامتثال، وسير العمل لإدارة المعرفة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **اكتشاف الكلمات الرئيسية في ملفات PDF**  
+
+&nbsp; يجد المصطلحات والعبارات المستهدفة عبر مجموعات كبيرة من ملفات PDF.
+
+
+
+* **استرجاع أقسام التقرير**  
+
+&nbsp; يحدد الأقسام الرئيسية مثل الخلاصات والجداول والنتائج داخل ملفات PDF.
+
+
+
+* **البحث في مستودع المستندات**  
+
+&nbsp; يمكن الوصول إلى ملفات PDF المخزنة عبر المجلدات والأنظمة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **أنابيب فهرسة ملفات PDF الآلية**  
+
+&nbsp; تستخرج خدمات Python النصوص وتحدث فهارس البحث في ملفات PDF وفق جدول زمني.
+
+
+
+* **أتمتة مراجعة الامتثال لملفات PDF**  
+
+&nbsp; تكتشف البحوث البرمجية البنود المطلوبة والبيانات المفقودة في ملفات PDF.
+
+
+
+* **استخراج رؤى ملفات PDF الديناميكية**  
+
+&nbsp; تدفع نتائج البحث السينواريوهات الآلية، والتنبيهات، وسير العمل الناتجة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

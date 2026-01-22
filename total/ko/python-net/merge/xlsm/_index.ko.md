@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 매크로가 활성화된 Excel 스프레드시트를 병합하면 통합된 데이터 주도 논리, 계산 및 자동화가 통합된 워크북 내에 포함됩니다. 이는 운영 및 재무 환경에서 일반적입니다.
+
+
+
+자동화된 XLSM 병합을 통해 데이터 및 매크로 기반 동작이 확장 가능한 시스템 내에서 보존됩니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **매크로 기반 보고서 어셈블리 (XLSM)**  
+
+&nbsp; 자동 계산 및 논리가 포함된 XLSM 파일을 병합합니다.
+
+
+
+* **운영 워크북 통합 (XLSM)**  
+
+&nbsp; 부서 간에 매크로가 활성화된 스프레드시트를 결합합니다.
+
+
+
+* **프로세스 자동화 패키징 (XLSM)**  
+
+&nbsp; 반복적인 운영 프로세스에서 사용되는 XLSM 파일을 집계합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **규칙 기반 워크북 생성 (XLSM)**  
+
+&nbsp; 시스템은 정의된 자동화 규칙에 따라 XLSM 파일을 병합합니다.
+
+
+
+* **자동화된 재무 모델링 (XLSM)**  
+
+&nbsp; XLSM 병합은 반복 가능한 재무 워크플로를 지원합니다.
+
+
+
+* **제어된 매크로 보존 (XLSM)**  
+
+&nbsp; 자동화된 파이프라인은 매크로를 유지한 채 XLSM 파일을 병합합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

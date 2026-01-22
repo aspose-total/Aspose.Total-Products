@@ -71,7 +71,75 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A PDF-fájlokat gyakran zárolják az érzékeny információk védelme érdekében, de az irányított feloldás elengedhetetlen az automatizáláshoz, elemzéshez és törvényes újrafelhasználáshoz. A programozott hozzáférés biztosítja, hogy a védett PDF-ek részt vehessenek a modern digitális munkafolyamatokban.
+
+
+
+A Python API-k lehetővé teszik a PDF-fájlok biztonságos és nagy mennyiségű feloldásának kezelését, integrálva az adatok kinyerésével, indexelésével és átalakításával foglalkozó rendszerekbe.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Szöveg- és adatkinyerés**  
+
+&nbsp; Lehetővé teszi a védett tartalomhoz való hozzáférést az elemzéshez és jelentéskészítéshez.
+
+
+
+* **Dokumentumfelülvizsgálat automatizálása**  
+
+&nbsp; Támogatja a zárolt fájlok automatizált ellenőrzését az felülvizsgálati ciklusok során.
+
+
+
+* **Formátumkonverziós csatornák**  
+
+&nbsp; Lehetővé teszi a biztonságosított PDF-ek konvertálását szerkeszthető vagy keresésre alkalmas formátumokká.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Automatizált OCR-munkafolyamatok**  
+
+&nbsp; A PDF-eket feloldják a szövegfelismerés és gazdagítási folyamatok előtt.
+
+
+
+* **Keresési indexgenerálás**  
+
+&nbsp; A védett tartalom programozott módon feloldódik és indexelődik.
+
+
+
+* **Tömeges megfelelőségfeldolgozás**  
+
+&nbsp; Nagy mennyiségű PDF feloldása ütemezett megfelelőségi műveletek során.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

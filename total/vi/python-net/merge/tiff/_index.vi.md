@@ -85,7 +85,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Imaging for Python via
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Hợp nhất hình ảnh TIFF bằng cách sử dụng Python APIs hỗ trợ quy trình làm việc với hình ảnh đa trang, độ phân giải cao thường được sử dụng trong in ấn, hình ảnh y khoa và quét tài liệu.
+
+
+
+Tự động hóa giúp xử lý đáng tin cậy các bộ hình ảnh lớn, chi tiết.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tổ Hợp Quét Đa Trang (TIFF)**  
+
+  Merge các trang TIFF thành một tệp đa trang duy nhất.
+
+
+
+* **Xử Lý Hình Ảnh Độ Phân Giải Cao (TIFF)**  
+
+  Kết hợp hình ảnh TIFF để phân tích chi tiết.
+
+
+
+* **Tổ Hợp Hình Ảnh Sẵn Sàng In (TIFF)**  
+
+  Tổng hợp các tệp TIFF cho quy trình xuất bản.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Các Luồng Quét Tự Động (TIFF)**  
+
+  Hệ thống hợp nhất các tệp TIFF trong quá trình tiếp nhận quét.
+
+
+
+* **Xử Lý Độ Phân Giải Cao Theo Lô (TIFF)**  
+
+  Việc hợp nhất TIFF chạy trong các công việc được lên lịch.
+
+
+
+* **Tự Động Hóa Hình Ảnh Doanh Nghiệp (TIFF)**  
+
+  Các quy trình tự động hóa quản lý các bộ dữ liệu TIFF lớn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -152,7 +220,7 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Imaging for Python via
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

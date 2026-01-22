@@ -74,7 +74,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API对DOCX文件进行文档编辑，为广泛采用的文字处理格式提供了一种现代化、结构化的方法，以删除敏感内容。这确保了文档保持可用性的同时保护机密信息。
+
+
+
+基于Python的自动化使得DOCX文件的编辑可以轻松扩展到大型文档存储库，实现与内容管理和合规系统的无缝集成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **监管数据保护**  
+
+  &nbsp; 在将DOCX文件外部分发之前删除个人或财务数据。
+
+
+
+* **合同消毒**  
+
+  &nbsp; 删除敏感条款，同时保留文档结构和格式。
+
+
+
+* **协作安全**  
+
+  &nbsp; 与合作伙伴或客户安全共享经过编辑的DOCX文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **基于模板的编辑**  
+
+  &nbsp; 根据文档模板自动编辑特定部分。
+
+
+
+* **基于工作流的处理**  
+
+  &nbsp; 当DOCX文件在工作流程阶段之间移动时触发编辑。
+
+
+
+* **持续合规检查**  
+
+  &nbsp; 作为自动化流程的一部分，重新扫描和编辑更新的文档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Soubory PowerPoint ukládají vizuální obsah založený na snímcích používaný v prezentacích a zpravodajství. Rozdělení souborů PowerPoint umožňuje detailní přístup k jednotlivým snímkům nebo skupinám snímků.
+
+
+
+Automatizace založená na Pythonu umožňuje škálovatelnou manipulaci s obsahem prezentace v moderních pracovních postupech.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Opakované použití snímků v různých prezentacích**  
+
+&nbsp; Extrahujte snímky pro opětovné použití v nových balíčcích.
+
+
+
+* **Správa obsahu prezentace**  
+
+&nbsp; Spravujte snímky nezávisle ve velkém měřítku.
+
+
+
+* **Pracovní postupy pro kontrolu a schválení**  
+
+&nbsp; Sdílejte pouze relevantní snímky se zúčastněnými stranami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* **Automatizované rozdělení snímků**  
+
+&nbsp; Pythonové skripty rozdělují balíčky na jednotky snímků.
+
+
+
+* **Dynamické generování balíčků**  
+
+&nbsp; Snímky jsou sestavovány na základě pravidel.
+
+
+
+* **Systémy verzování prezentace**  
+
+&nbsp; Automaticky sledujte změny na úrovni snímků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

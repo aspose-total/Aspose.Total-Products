@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用してBMPファイルに署名することで、スキャン、図表、および操作ビジュアルなどのビットマップベースのアセットの承認と検証が可能になります。これにより、ワークフローで使用される視覚データが明確な所有権と承認コンテキストを持つことが保証されます。
+
+
+
+自動化パイプラインに統合されると、BMPの署名は最終的な検証ステップとして機能し、レビューおよび承認済みのビジュアルアセットのみが処理または配布システムで前進することが保証されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **操作図承認**  
+
+  &nbsp; エンジニアリングや内部文書で使用されるBMP図に承認スタンプを適用します。
+
+
+
+* **記録のためのスキャン検証**  
+
+  &nbsp; アーカイブやコンプライアンスストレージ前にスキャンされたBMPファイルに署名して、信頼性を確認します。
+
+
+
+* **ビジュアル品質確認**  
+
+  &nbsp; 下流での消費前にBMPアセットを品質チェック済みとしてマークします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **自動QAスタンプの挿入**  
+
+  &nbsp; 画像検証ルールをパスした後、BMPファイルは自動的に署名されます。
+
+
+
+* **ワークフロー完了マーキング**  
+
+  &nbsp; オペレーショナルワークフローが最終承認に達したときに署名が行われます。
+
+
+
+* **バッチビジュアル承認処理**  
+
+  &nbsp; 複数のBMPファイルが一括処理でプログラムによって署名されます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

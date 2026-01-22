@@ -78,7 +78,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Slučování binárních sešitů Excel pomocí Python API umožňuje efektivní zpracování velkých datových sad s redukovanou velikostí souboru. Tento formát je optimalizován pro prostředí citlivá na výkon, která pracují s vysokým objemem dat.
+
+
+
+Automatizace kolem slučování XLSB podporuje škálovatelné analytické pracovní postupy při zachování rychlosti a efektivity.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Konsolidace dat ve vysokém objemu (XLSB)**  
+
+&nbsp; Slučování velkých binárních tabulek do jednoho analytického sešitu.
+
+
+
+* **Výkonnostně kritické reportování (XLSB)**  
+
+&nbsp; Kombinace XLSB souborů optimalizovaných pro rychlé načítání a zpracování.
+
+
+
+* **Podnikové datové skladování (XLSB)**  
+
+&nbsp; Seskupení datových sad XLSB pro následné analytické účely.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizované zpracování velkých souborů (XLSB)**  
+
+&nbsp; Systémy slučují soubory XLSB během zpracování dat ve vysokém objemu.
+
+
+
+* **Integrace analytického potrubí (XLSB)**  
+
+&nbsp; Slučování XLSB probíhá jako součást automatizovaných analytických pracovních postupů.
+
+
+
+* **Úsporné hromadné úlohy (XLSB)**  
+
+&nbsp; Binární tabulky jsou slučovány v plánovaných hromadných procesech.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

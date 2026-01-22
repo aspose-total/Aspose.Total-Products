@@ -82,7 +82,73 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A generikus képformátumok megtekintése Python API-k segítségével egységes megközelítést biztosít a vizuális eszközök átvizsgálásához a munkafolyamatok során.
+
+Ez lehetővé teszi a képek következetes kezelését függetlenül a forrástól vagy típustól.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Egységes képellenőrzés**  
+
+&nbsp; Különböző képfájlok megtekintése egyetlen felületen keresztül.
+
+
+
+* **Vizuális eszköz ellenőrzése**  
+
+&nbsp; Ellenőrizze a képek integritását és megjelenését.
+
+
+
+* **Tartalomcsővezeték támogatás**  
+
+&nbsp; Képek ellenőrzése feldolgozási szakaszok során.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Automatizált képvezérlők**  
+
+&nbsp; A Python munkafolyamatok képeket jelenítenek meg tömeges feldolgozás közben.
+
+
+
+* **Dinamikus előnézeti szolgáltatások**  
+
+&nbsp; A képeket igény szerint renderelik áttekintés céljából.
+
+
+
+* **Minőségbiztosítási automatizálás**  
+
+&nbsp; A megtekintés támogatja az automatizált vizuális ellenőrzéseket.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

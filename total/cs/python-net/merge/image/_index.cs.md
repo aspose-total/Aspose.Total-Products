@@ -85,7 +85,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Slučování obecných formátů obrázků pomocí Python API poskytuje sjednocený přístup k manipulaci s různorodými vizuálními prostředky v rámci jednoho pracovního postupu. Tato abstrakce zjednodušuje zpracování obrázků napříč různými formáty.
+
+
+
+Automatizace umožňuje škálovatelné, formátově nezávislé sloučení obrázků pro moderní systémy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Jednotný obrázkový formát (IMAGE)**  
+
+&nbsp; Slučujte různé formáty obrázků do jednoho výstupu.
+
+
+
+* **Vizuální agregace z různých zdrojů (IMAGE)**  
+
+&nbsp; Kombinujte obrázky z různých nástrojů a platforem.
+
+
+
+* **Harmonizace firemních obrázků (IMAGE)**  
+
+&nbsp; Slučujte heterogenní obrázky do sjednocených vizuálů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatické scénáře" %}}
+
+
+
+* **Obrázkové potrubí nezávislé na formátu (IMAGE)**  
+
+&nbsp; Automatizované pracovní postupy slučují obrázky bez ohledu na formát.
+
+
+
+* **Jednotné vizuální generování (IMAGE)**  
+
+&nbsp; Systémy dynamicky generují sloučené obrázky.
+
+
+
+* **Škálovatelná orchestrace obrázků (IMAGE)**  
+
+&nbsp; Programové slučování podporuje velké obrázkové pracovní postupy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

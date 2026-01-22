@@ -76,7 +76,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Zabezpečení dokumentů ve formátu DOC je zásadní pro ochranu starých souborů, které stále pohání mnoho firemních a archivačních pracovních postupů. Aplikace ochrany dokumentů zajistí, že citlivý text, formuláře a duševní vlastnictví zůstanou v bezpečí i při sdílení mezi týmy nebo systémy.
+
+
+
+Pomocí Python API lze soubory DOC programově chránit hesly a oprávněními, což umožňuje automatizované prosazování bezpečnostních politik napříč velkými repozitáři dokumentů a starými potrubími.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Zabezpečení starých dokumentů**  
+
+&nbsp; Aplikujte ochranu na staré dokumenty ve formátu Word, abyste zabránili neoprávněným úpravám nebo kopírování.
+
+
+
+* **Soulad pro archivované soubory**  
+
+&nbsp; Ujistěte se, že historické soubory DOC splňují moderní bezpečnostní a regulační požadavky.
+
+
+
+* **Omezené sdílení dokumentů**  
+
+&nbsp; Omezte práva na úpravy při distribuci souborů DOC interně nebo externě.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadné zabezpečení archivů**  
+
+&nbsp; Automaticky zabezpečte tisíce souborů DOC během archivace nebo migračních procesů.
+
+
+
+* **Ovládaný přístupový kontrolní mechanismus**  
+
+&nbsp; Prosazujte standardizovaná pravidla ochrany souborů DOC během jejich vkládání do systémů.
+
+
+
+* **Automatizované bezpečné distribuce**  
+
+&nbsp; Dynamicky chráníte dokumenty DOC před odesláním prostřednictvím automatizovaných pracovních postupů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Об'єднання макро-включених електронних таблиць Excel за допомогою Python API дозволяє консолідацію логіки, обчислень та автоматизації, вбудованих у робочі зошити. Це є загальним у операційних та фінансових середовищах.
+
+
+
+Автоматизоване об'єднання XLSM забезпечує збереження даних та макро-визначеної поведінки в масштабованих системах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні використання" %}}
+
+
+
+* **Збірка звітів на основі макро (XLSM)**  
+
+&nbsp; Об'єднати файли XLSM, що містять автоматизовані обчислення та логіку.
+
+
+
+* **Об'єднання операційних робочих зошитів (XLSM)**  
+
+&nbsp; Об'єднати макро-включені електронні таблиці між відділами.
+
+
+
+* **Упакування автоматизації процесів (XLSM)**  
+
+&nbsp; Агрегувати файли XLSM, які використовуються в повторюваних операційних процесах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Генерація робочих зошитів на основі правил (XLSM)**  
+
+&nbsp; Системи об'єднують файли XLSM на основі визначених правил автоматизації.
+
+
+
+* **Автоматизоване фінансове моделювання (XLSM)**  
+
+&nbsp; Об'єднання XLSM підтримує повторювані фінансові робочі процеси.
+
+
+
+* **Контрольоване збереження макро (XLSM)**  
+
+&nbsp; Автоматизовані конвеєри об'єднують файли XLSM зі збереженням макро.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

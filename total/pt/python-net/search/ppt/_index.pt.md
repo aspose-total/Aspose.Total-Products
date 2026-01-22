@@ -76,7 +76,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/sli
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Pesquisar arquivos **PPT** com APIs Python permite acessar documentos de apresentação legados que ainda armazenam informações comerciais, de treinamento e estratégicas valiosas. A pesquisa automatizada garante que as apresentações mais antigas permaneçam utilizáveis e pesquisáveis em grande escala.
+
+
+
+Ao integrar a pesquisa de PPT em sistemas automatizados, as organizações reduzem o esforço manual e desbloqueiam insights do conteúdo de apresentações arquivadas.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Pesquisa de Conteúdo de Slides Legados**  
+
+  &nbsp; Encontra palavras-chave em arquivos de apresentação PPT mais antigos.
+
+
+
+* **Recuperação de Apresentações Arquivadas**  
+
+  &nbsp; Permite a descoberta de decks de slides históricos.
+
+
+
+* **Extração de Texto de PPT**  
+
+  &nbsp; Extrai texto de slides para indexação e análise.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Digitalização Automatizada de Repositório de PPT**  
+
+  &nbsp; Tarefas em Python digitalizam arquivos PPT em busca de conteúdo pesquisável.
+
+
+
+* **Criação de Índice de Arquivo de Apresentações PPT**  
+
+  &nbsp; As apresentações legadas são indexadas de forma programática.
+
+
+
+* **Integração de Conteúdo de PPT**  
+
+  &nbsp; Os dados extraídos alimentam fluxos de trabalho de relatórios e análises.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

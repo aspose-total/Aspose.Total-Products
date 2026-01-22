@@ -79,7 +79,75 @@ Có các tùy chọn thay thế để cài đặt '[Aspose.Words for Python via 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Tài liệu Word bao gồm một loạt các định dạng văn bản có cấu trúc được sử dụng trong các quy trình kinh doanh và kỹ thuật. Chia tài liệu Word giúp truy cập tập trung vào các phần nội dung liên quan.
+
+
+
+Chia tài liệu dựa trên Python hỗ trợ tự động hóa bằng cách cho phép xử lý tài liệu nhất quán, có thể mở rộng trên các hệ thống.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Xử Lý Nội Dung Dựa Trên Phần**  
+
+&nbsp; Xử lý các chương hoặc phần độc lập.
+
+
+
+* **Tối Ưu Hóa Tài Liệu Lớn**  
+
+&nbsp; Cải thiện hiệu suất bằng cách chia nhỏ các tệp quá lớn.
+
+
+
+* **Quản Lý Nội Dung**  
+
+&nbsp; Áp dụng quy tắc cho từng phần của tài liệu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Các Luồng Xử Lý Tài Liệu Thống Nhất**  
+
+&nbsp; Tài liệu Word được chia và xử lý tự động.
+
+
+
+* **Định Tuyến Nội Dung Tự Động**  
+
+&nbsp; Các phần được gửi đến các hệ thống khác nhau dựa trên logic.
+
+
+
+* **Trích Xuất Kiến Thức Có Thể Mở Rộng**  
+
+&nbsp; Các phần được trích xuất cung cấp dữ liệu cho phân tích hoặc quy trình làm việc trí tuệ nhân tạo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

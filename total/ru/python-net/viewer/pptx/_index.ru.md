@@ -89,7 +89,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Просмотр презентаций PowerPoint PPTX с помощью Python API обеспечивает единый доступ к документам на основе слайдов в различных форматах.
+
+Это поддерживает автоматизированные рабочие процессы и рабочие процессы, ориентированные на презентацию.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Единый просмотр слайдов**  
+
+&nbsp; Просмотр презентаций независимо от варианта.
+
+
+
+* **Проверка презентации**  
+
+&nbsp; Проверка содержания и макета слайдов.
+
+
+
+* **Интеграция в рабочие процессы**  
+
+&nbsp; Встраивание просмотра в автоматизированные системы.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированные процессы проверки**  
+
+&nbsp; Презентации отображаются во время проверки.
+
+
+
+* **Сервис предварительного просмотра**  
+
+&nbsp; Слайды динамически отображаются заинтересованным лицам.
+
+
+
+* **Пакетные операции с презентациями**  
+
+&nbsp; Несколько наборов презентаций просматриваются программно.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

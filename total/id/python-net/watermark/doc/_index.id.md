@@ -79,7 +79,85 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Pemberian watermark pada file **DOC** dengan Python APIs membantu melindungi dokumen Word lama dengan jelas menandai kepemilikan, kerahasiaan, atau aturan distribusi dalam konten yang dapat diedit.
+
+Mengotomatisasi pemberian watermark pada DOC meningkatkan konsistensi dalam tata kelola dokumen, memungkinkan organisasi untuk menegakkan kontrol kebijakan visual dalam skala bahkan untuk format dokumen yang lebih lama.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Stempel Kerahasiaan Kontrak Lama**  
+
+  &nbsp; Tambahkan tanda "KERAHASIAAN" ke perjanjian lama untuk mengurangi berbagi yang tidak sah.
+
+
+
+* **Label Status Siklus Tinjauan**  
+
+  &nbsp; Tandai dokumen sebagai "DALAM TINJAUAN" untuk mencegah sirkulasi dini dari draf.
+
+
+
+* **Penegakan Kebijakan Internal untuk Template**  
+
+  &nbsp; Terapkan watermark standar di sepanjang template lama untuk selaras dengan tata kelola.
+
+
+
+* **Pemberitahuan Distribusi Khusus Klien**  
+
+  &nbsp; Tanamkan pemberitahuan yang menghadap ke klien yang menjelaskan penggunaan yang diizinkan dan batasan redistribusi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Penandaan Dokumen dari Kotak Surat ke Arsip**  
+
+  &nbsp; Watermark lampiran DOC secara otomatis sebelum menyimpannya ke repositori.
+
+
+
+* **Pemantau Folder untuk File Lama**  
+
+  &nbsp; Deteksi file DOC baru dalam direktori dan terapkan watermark kebijakan tanpa langkah manual.
+
+
+
+* **Teks Watermark yang Didorong Metadata**  
+
+  &nbsp; Hasilkan konten watermark dari tag dokumen seperti departemen, proyek, atau tingkat sensitivitas.
+
+
+
+* **Transisi Otomatis dari "Draf-ke-Final"**  
+
+  &nbsp; Ganti watermark draf dengan label final ketika persetujuan dicatat dalam sistem alur kerja.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

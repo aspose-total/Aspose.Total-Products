@@ -90,7 +90,59 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η προβολή αρχείων ODT με Python APIs επιτρέπει τον έλεγχο των ανοιχτών κειμενικών εγγράφων που χρησιμοποιούνται σε ροέ εργασιών βασισμένες σε πρότυπα.
+
+Αυτό υποστηρίζει την αυτοματοποίηση σε συστήματα που εστιάζουν στα έγγραφα χωρίς εξαρτήσεις από προγράμματα.
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* **Ανοιχτή Αναθεώρηση Εγγράφων**  
+
+&nbsp; Προβολή κειμενικών εγγράφων σε ανοιχτές μορφές.
+
+* **Έλεγχος Ακεραιότητας Περιεχομένου**  
+
+&nbsp; Επιθεώρηση δομής εγγράφου και κειμένου.
+
+* **Συμβατότητα Μεταξύ Συστημάτων**  
+
+&nbsp; Βεβαιωθείτε ότι τα έγγραφα απεικονίζονται σωστά σε διαφορετικά περιβάλλοντα.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* **Αυτοματοποιημένες Σωληνώσεις Εγγράφων**  
+
+&nbsp; Οι διεργασίες Python απεικονίζουν αρχεία ODT κατά τη διάρκεια των ροών εργασιών.
+
+* **Επαλήθευση Συμμόρφωσης**  
+
+&nbsp; Τα έγγραφα ελέγχονται για συμμόρφωση με πρότυπα.
+
+* **Δημιουργία Προεπισκόπησης**  
+
+&nbsp; Οι αυτοματοποιημένοι προβολείς υποστηρίζουν τις ροές εργασιών αναθεώρησης.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

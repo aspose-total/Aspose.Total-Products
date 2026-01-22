@@ -76,7 +76,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT - це широко використовуваний відкритий формат текстових документів для звітів та документації. Захист ODT-файлів є важливим для збереження автентичності документів та запобігання випадкових або зловмисних змін.
+
+
+
+Захист документів на основі Python дозволяє вбудовувати безпеку ODT у автоматизовані робочі процеси з мінімальними накладними витратами.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+
+
+
+* **Безпечна дистрибуція звітів**  
+
+&nbsp; Захистіть завершені звіти ODT перед їх поширенням.
+
+
+
+* **Цілісність документації**  
+
+&nbsp; Забезпечте, щоб офіційні документи залишалися незмінними після затвердження.
+
+
+
+* **Безпека документів на різних платформах**  
+
+&nbsp; Застосовуйте захист незалежно від середовища редагування.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Автоматизовані конвеєри документації**  
+
+&nbsp; Захист ODT-файлів як частина безперервного генерування документації.
+
+
+
+* **Захист файлів на основі правил**  
+
+&nbsp; Застосовуйте політики захисту на основі метаданих документа.
+
+
+
+* **Масове зміцнення документів**  
+
+&nbsp; Захистіть кілька файлів ODT програмно в пакетних операціях.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

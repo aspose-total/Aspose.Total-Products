@@ -98,7 +98,93 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'extraction des métadonnées de documents pour les fichiers **DOTX** via des API Python fournit une manière structurée de gérer les fichiers de modèle modernes en lisant des propriétés telles que le titre du modèle, les détails de l'auteur et l'historique des mises à jour. Cela améliore la gouvernance et garantit que la génération de documents reste cohérente et alignée sur les politiques.
+
+
+
+Dans les pipelines d'automatisation, les métadonnées DOTX sont utiles pour la résolution de modèles, les workflows d'approbation et les contrôles du cycle de vie, permettant des opérations de modèles évolutives qui réduisent les vérifications manuelles et les dérives de configuration.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Découverte et recherche de modèles**
+
+  Extraire les métadonnées DOTX pour rendre les modèles recherchables par objectif, département ou type de document prévu.
+
+
+
+* **Suivi de l'état d'approbation**
+
+  Utiliser des propriétés personnalisées pour suivre si un modèle est brouillon, approuvé ou obsolète.
+
+
+
+* **Cartographie de la propriété des modèles**
+
+  Identifier les responsables et les auteurs pour acheminer les demandes de mise à jour et les tâches de responsabilité.
+
+
+
+* **Assurance de la cohérence des documents générés**
+
+  Valider que les workflows utilisent le bon modèle DOTX en fonction des identifiants de métadonnées.
+
+
+
+* **Gouvernance des modifications de modèles**
+
+  Surveiller l'historique des modifications pour détecter les modifications inattendues apportées aux modèles contrôlés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Registre de modèles piloté par les métadonnées**
+
+  Ingestion automatique des métadonnées DOTX dans un service de registre utilisé par les systèmes de génération de documents.
+
+
+
+* **Pipeline d'application des obsolescences**
+
+  Acheminer les modèles DOTX obsolètes vers une archive et empêcher leur utilisation en fonction des indicateurs de métadonnées.
+
+
+
+* **Vérifications automatisées de la qualité des modèles**
+
+  Exécuter des validations pour garantir que les propriétés DOTX requises existent et correspondent aux normes organisationnelles avant la publication.
+
+
+
+* **Acheminement des workflows de mise à jour de modèles**
+
+  Lorsque les métadonnées DOTX indiquent un changement, créer automatiquement des tâches de révision pour le responsable assigné.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

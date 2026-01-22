@@ -83,7 +83,47 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Agregar marcas de propiedad, procedencia y disuasión de manipulación a imágenes **BMP** con Python APIs aporta visibilidad a gráficos rasterizados no comprimidos, a menudo utilizados en flujos de impresión y activos técnicos.
+
+Debido a que los archivos BMP son grandes y sin pérdida de calidad, el marcado de agua basado en Python es ideal para **superposiciones de alta fidelidad**, reglas de renderizado repetibles y colocación consistente en bibliotecas de imágenes.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+- **Marcas de Propiedad de Activos de Ingeniería**  
+&nbsp; Agregar marcas de departamento o proyecto a mapas de bits técnicos para reducir la reutilización accidental y el enrutamiento erróneo.
+
+- **Estampado de Pruebas Listo para Impresión**  
+&nbsp; Aplicar superposiciones de "PRUEBA" o "BORRADOR" sin artefactos de compresión que podrían afectar las revisiones de aprobación.
+
+- **Marca de Imagen de Catálogo en Calidad Original**  
+&nbsp; Incrustar marcas de identidad consistentes mientras se preservan los datos originales de píxeles para conversiones posteriores.
+
+- **Etiquetas de Cumplimiento para Gráficos Restringidos**  
+&nbsp; Marcar gráficos sensibles con clasificaciones de acceso para respaldar el manejo basado en políticas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+- **Marcado de Agua por Lotes en Pipelines de Ingesta**  
+&nbsp; Estampar automáticamente BMPs recién cargados al ingresar a un repositorio de medios.
+
+- **Colocación Basada en Reglas por Dimensiones**  
+&nbsp; Ajustar programáticamente el tamaño y los márgenes del marcado de agua según la resolución de la imagen.
+
+- **Generación de Pruebas Desencadenada por Eventos**  
+&nbsp; Crear variantes marcadas de agua cuando cambia el estado de un archivo a revisión o aprobación.
+
+- **Seguimiento Dual con Suma de Verificación + Marcado de Agua**  
+&nbsp; Combinar el marcado de agua con el hash de archivos para mejorar la trazabilidad en auditorías automatizadas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

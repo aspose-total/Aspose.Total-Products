@@ -73,7 +73,85 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Das Wasserzeichen von **TIFF**-Bildern mit Python-APIs unterstützt hochwertige Imaging-Workflows, indem Eigentums- und Kontrollaufkleber zu Dateien hinzugefügt werden, die häufig beim Scannen, Drucken und Archivieren verwendet werden.
+
+Die Automatisierung ist besonders wertvoll für das Wasserzeichen von TIFF-Dateien aufgrund der großen Dateigrößen und der Stapelverarbeitung, die eine konsistente Handhabung in Dokumentenbildverarbeitungspipelines ermöglicht.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Eigentumskennzeichnungen für gescannte Dokumente**  
+
+  &nbsp; Wasserzeichen auf gescannte TIFFs anwenden, um die Herkunft in Imaging-Archiven zu erhalten.
+
+
+
+* **Proof-Stempel für den Druck-Workflow**  
+
+  &nbsp; "PROOF"-Wasserzeichen zu Vorstufen-TIFF-Dateien hinzufügen, um eine kontrollierte Überprüfung zu ermöglichen.
+
+
+
+* **Compliance-Kennzeichnungen für Imaging-Repositories**  
+
+  &nbsp; Eingeschränkte Bilder mit Klassifizierungstext kennzeichnen, um Handhabungsrichtlinien zu unterstützen.
+
+
+
+* **Rückverfolgbarkeit bei Archivkonvertierungen**  
+
+  &nbsp; TIFFs vor der Konvertierung in andere Formate mit Wasserzeichen versehen, um die Ursprungsidentität zu erhalten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Automatisches Wasserzeichen für Scanner-Ausgaben**  
+
+  &nbsp; TIFF-Dateien sofort nach dem Scannen mit überwachten Ordnern oder Eingabevorgängen kennzeichnen.
+
+
+
+* **Verarbeitung von mehrseitigen TIFFs**  
+
+  &nbsp; Konsistente Wasserzeichen programmgesteuert über Seiten in mehrseitigen TIFF-Dateien anwenden.
+
+
+
+* **Auflösungsabhängige Skalierung von Wasserzeichen**  
+
+  &nbsp; Wasserzeichengröße basierend auf DPI anpassen, um ein konsistentes physisches Druckbild zu erhalten.
+
+
+
+* **Automatisierte Aufbewahrungs- und Prüfvorgänge**  
+
+  &nbsp; Bilder als Teil automatisierter Aufbewahrungskennzeichnungs- und Compliance-Überprüfungspipelines mit Wasserzeichen versehen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -100,7 +100,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+פיענוח קבצי מצגת **ODP** באמצעות פייתון APIs מאפשר גישה לתוכן המבוסס על שקופיות המאוחסן בפורמטים פתוחים למצגות. זה תומך בחילוץ מובנה ללא תלות בכלים פרופריטריים.
+
+
+
+פיענוח ODP אוטומטי מאפשר עיבוד סקאלבילי של נתוני מצגות באקוסיסטמות פתוחות ונרחבות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **ניתוח מצגות פתוח**  
+
+  &nbsp; חילוץ טקסט ומבנה של שקופיות מקבצי ODP.
+
+
+
+* **אינדקוס תוכן מצגת**  
+
+  &nbsp; הפיכת שקופיות בפורמט פתוח לחיפוש ושימוש חוזר.
+
+
+
+* **חילוץ נתונים לדיווחים**  
+
+  &nbsp; המרת תוכן שקופית לסטים מובנים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **קליטת שקופיות אוטומטית**  
+
+  &nbsp; עיבוד קבצי ODP כחלק מתהליכי עבודה מתוזמנים.
+
+
+
+* **בדיקות עקביות תוכן**  
+
+  &nbsp; אימות מבנה שקופיות נגד כללים מוגדרים.
+
+
+
+* **צינורות הצגה צורתיים חוצות פורמטים**  
+
+  &nbsp; המרת תוכן ODP לפורמטים אחרים באופן תכנותי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

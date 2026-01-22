@@ -77,7 +77,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+שילוב מצגות סליידים עם קובצי Python APIs תומך במסירת מצגות סליידים אוטומטיות ואינטראקטיביות. פורמטים אלה נהוגים לשימוש בסביבות שליטה.
+
+
+
+האוטומציה מבטיחה שמאקרוס והתנהגויות המצגת יישמרו במהלך השילוב.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **אספקת מצגת אינטראקטיבית (PPSM)**  
+
+&nbsp; שילוב קבצי מצגת סליידים עם מאקרוס.
+
+
+
+* **מצגת דמו אוטומטית (PPSM)**  
+
+&nbsp; שילוב קבצי PPSM לצורך הדגמות אוטומטיות.
+
+
+
+* **חבילות הצגה מבוקרות (PPSM)**  
+
+&nbsp; איגוד קבצי PPSM למצגות מונה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **יצירת מצגת סליידים על פי כללים (PPSM)**  
+
+&nbsp; מערכות משלבות קבצי PPSM על פי כללי לוגיקה.
+
+
+
+* **שמירת אוטומציה ברקע (PPSM)**  
+
+&nbsp; שילוב PPSM משמר תנהגויות אינטראקטיביות.
+
+
+
+* **יצירת דמו מתוזמן (PPSM)**  
+
+&nbsp; מצגות סליידים משולבות באופן אוטומטי על פי לוח זמנים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

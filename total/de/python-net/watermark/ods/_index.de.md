@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Wasserzeichen **ODS** Tabellenkalkulationen mit Python APIs verbessert die Kontrolle über Open-Document-Tabellenkalkulationen, indem sichtbare Governance-Labels für Eigentum, Vertraulichkeit und Verteilung hinzugefügt werden.
+
+Die Automatisierung von ODS-Wasserzeichen unterstützt skalierbare Berichts-Workflows und gewährleistet konsistente Richtlinienindikatoren für Datensätze, die in offenen Formaten geteilt werden.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Stempel für vertrauliche Datenblätter**  
+
+&nbsp; Markieren Sie sensible ODS-Dateien, um das Risiko eines versehentlichen externen Teilens zu reduzieren.
+
+
+
+* **Vorläufige Datenetiketten**  
+
+&nbsp; Wenden Sie "UNVERIFIED"-Overlays während früher Datenvalidierungszyklen an.
+
+
+
+* **Hinweise zur Partnerdatennutzung**  
+
+&nbsp; Fügen Sie sichtbare Hinweise hinzu, die Lizenzierung und Wiederverwendungsbeschränkungen klären.
+
+
+
+* **Unterstützung für interne Prüfpfade**  
+
+&nbsp; Wasserzeichen-Exporte, um offensichtlich zu machen, welches System einen bestimmten Datensatz erstellt hat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **ETL-Export-Wasserzeichen**  
+
+&nbsp; Stempeln Sie ODS-Dateien automatisch, wenn sie aus automatisierten Datenpipelines generiert werden.
+
+
+
+* **Rollenbasierte Wasserzeichentexte**  
+
+&nbsp; Passen Sie den Wasserzeicheninhalt je nach empfangendem Team oder Zugriffsebene an.
+
+
+
+* **Steuerung der zeitgesteuerten Berichtsverteilung**  
+
+&nbsp; Wenden Sie zeitgestempelte Wasserzeichen an, bevor Sie periodische ODS-Berichte senden.
+
+
+
+* **Automatisierte Tagging-Richtlinien für die Aufbewahrung**  
+
+&nbsp; Fügen Sie visuelle Aufbewahrungslabels hinzu, um die Lebenszyklusautomatisierung für gespeicherte Tabellenkalkulationen zu unterstützen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

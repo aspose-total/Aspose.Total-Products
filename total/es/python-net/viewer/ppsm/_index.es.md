@@ -89,7 +89,73 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La visualización de archivos PPSM con APIs de Python permite la inspección segura de presentaciones de diapositivas habilitadas para macros diseñadas para reproducción automática.
+
+Esto respalda flujos de trabajo de automatización controlados donde se requiere visibilidad sin ejecutar macros incrustados.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* **Revisión de Presentaciones de Diapositivas Habilitadas para Macros**  
+
+  &nbsp; Ver el contenido de la presentación de diapositivas manteniendo los macros inactivos.
+
+
+
+* **Inspección del Flujo de Reproducción**  
+
+  &nbsp; Inspeccionar el orden de las diapositivas y la estructura de la presentación destinada a la visualización automática.
+
+
+
+* **Validación de Distribución Segura**  
+
+  &nbsp; Revisar archivos PPSM antes de compartirlos o implementarlos de forma controlada.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+
+
+* **Tuberías de Ingesta de Presentaciones de Diapositivas Seguras**  
+
+  &nbsp; Los flujos de trabajo de Python renderizan archivos PPSM de forma segura durante la ingestión.
+
+
+
+* **Automatización de Revisión Orientada a la Cumplimiento**  
+
+  &nbsp; Las presentaciones de diapositivas se ven como parte de verificaciones de políticas automatizadas.
+
+
+
+* **Flujos de Trabajo de Presentación Preaprobados**  
+
+  &nbsp; Las vistas previas automatizadas respaldan aprobaciones humanas o basadas en sistemas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

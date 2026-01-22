@@ -85,7 +85,69 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Menggabungkan gambar TIFF menggunakan API Python mendukung alur kerja gambar multi-halaman beresolusi tinggi yang umum digunakan dalam pencetakan, pencitraan medis, dan pemindaian dokumen.
+
+
+
+Automasi memungkinkan penanganan yang dapat diandalkan dari set gambar yang besar dan kaya detail.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Perakitan Pemindaian Multi-Halaman (TIFF)**  
+&nbsp; Menggabungkan halaman TIFF ke dalam satu file multi-halaman.
+
+
+
+* **Pemrosesan Gambar Beresolusi Tinggi (TIFF)**  
+&nbsp; Menggabungkan gambar TIFF untuk analisis detail.
+
+
+
+* **Kompilasi Gambar Siap Cetak (TIFF)**  
+&nbsp; Menggabungkan file TIFF untuk alur kerja penerbitan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pipa Pemindaian Otomatis (TIFF)**  
+&nbsp; Sistem menggabungkan file TIFF selama pemindaian.
+
+
+
+* **Pemrosesan Batch Beresolusi Tinggi (TIFF)**  
+&nbsp; Penggabungan TIFF berjalan dalam pekerjaan terjadwal.
+
+
+
+* **Otomatisasi Pencitraan Enterprise (TIFF)**  
+&nbsp; Alur kerja otomatis mengelola kumpulan data TIFF besar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

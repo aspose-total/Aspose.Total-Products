@@ -82,7 +82,73 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Pemrosesan dokumen TIFF dengan API Python mendukung format gambar multi-halaman beresolusi tinggi yang umum digunakan dalam pemindaian dan pengarsipan.
+
+Ini memungkinkan inspeksi akurat dokumen visual yang detail.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Ulasan Dokumen yang Dipindai**  
+
+&nbsp; Melihat halaman yang dipindai berkualitas tinggi.
+
+
+
+* **Inspeksi Gambar Arsip**  
+
+&nbsp; Memeriksa file gambar kelas preservasi.
+
+
+
+* **Penanganan Gambar Multi-Halaman**  
+
+&nbsp; Menavigasi dokumen berbasis gambar yang kompleks.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Verifikasi Pemindaian Otomatis**  
+
+&nbsp; Alur kerja Python menampilkan file yang dipindai untuk jaminan kualitas.
+
+
+
+* **Pengecekan Integritas Arsip**  
+
+&nbsp; Gambar yang disimpan dirender secara berkala untuk validasi.
+
+
+
+* **Pipa Digitasi Dokumen**  
+
+&nbsp; Pemirsa otomatis mendukung proses digitasi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

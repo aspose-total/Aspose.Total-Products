@@ -104,7 +104,75 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'analyse des **documents OTT** à l'aide des API Python permet une extraction structurée à partir de modèles de texte ouvert conçus pour une création de document cohérente. Les fichiers OTT sont couramment utilisés dans des environnements à norme ouverte pour définir des mises en page réutilisables, des styles et des espaces réservés.
+
+
+
+En intégrant l'analyse OTT dans des systèmes automatisés, les organisations peuvent générer, valider et gérer des documents à grande échelle tout en respectant strictement les modèles normalisés et les formats ouverts.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Extraction de la structure du modèle**  
+
+&nbsp; Identifie les sections prédéfinies, les styles et les espaces réservés dans les modèles OTT.
+
+
+
+* **Création de documents normalisée**  
+
+&nbsp; Soutient la génération cohérente de documents basée sur des modèles ouverts approuvés.
+
+
+
+* **Gouvernance des formats ouverts**  
+
+&nbsp; Garantit que les documents respectent les normes organisationnelles sans verrouillage propriétaire.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Génération de documents dynamique**  
+
+&nbsp; Remplit automatiquement les modèles OTT avec des données structurées.
+
+
+
+* **Validation de la conformité du modèle**  
+
+&nbsp; Détecte les écarts par rapport aux structures de modèle approuvées.
+
+
+
+* **Pipelines de documents ouverts évolutifs**  
+
+&nbsp; Permet une production de documents à grand volume en utilisant des normes ouvertes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

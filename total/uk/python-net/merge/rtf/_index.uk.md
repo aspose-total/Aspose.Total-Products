@@ -76,7 +76,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Об'єднання документів у форматі Rich Text Format за допомогою Python API дозволяє легке об'єднання документів, зберігаючи базове форматування та читабельність. RTF широко використовується для взаємодії між платформами та системами.
+
+
+
+Автоматизоване об'єднання RTF підтримує швидку, програмну обробку документів в середовищах, де важлива простота та сумісність.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* **Легка компіляція документів (RTF)**  
+
+&nbsp; Об'єднайте кілька файлів RTF в один читабельний документ.
+
+
+
+* **Обмін вмістом між системами (RTF)**  
+
+&nbsp; Об'єднайте документи RTF, які обмінюються між гетерогенними системами.
+
+
+
+* **Збереження простого форматування (RTF)**  
+
+&nbsp; Об'єднайте файли RTF, зберігаючи основне форматування.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Текстові обробні конвеєри на боці сервера (RTF)**  
+
+&nbsp; Об'єднання RTF автоматизовано в межах служб обробки тексту.
+
+
+
+* **Обробка великого обсягу документів (RTF)**  
+
+&nbsp; Системи програмно об'єднують велику кількість файлів RTF.
+
+
+
+* **Автоматизація з фокусом на сумісності (RTF)**  
+
+&nbsp; Файли RTF об'єднуються автоматично для максимальної переносимості.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

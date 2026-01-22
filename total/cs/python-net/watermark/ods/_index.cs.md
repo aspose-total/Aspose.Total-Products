@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Vodoznakování **ODS** tabulek pomocí Python API zlepšuje kontrolu nad otevřenými dokumenty tím, že přidává viditelné správní štítky pro vlastnictví, důvěrnost a distribuci.
+
+Automatizace vodoznakování ODS podporuje škálovatelné pracovní postupy pro generování zpráv, zajistí konzistentní indikátory politiky napříč datovými sadami sdílenými ve formátech otevřených dat.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Označování důvěrných datových listů**  
+
+&nbsp; Označte citlivé soubory ODS k snížení rizika náhodného externího sdílení.
+
+
+
+* **Předběžné označení dat**  
+
+&nbsp; Přidejte překryvy „NEOVĚŘENO“ během validace dat v rané fázi.
+
+
+
+* **Oznámení o využití dat partnerem**  
+
+&nbsp; Přidejte viditelná oznámení, která objasní licenční podmínky a omezení opětovného využití.
+
+
+
+* **Podpora interní auditní stopy**  
+
+&nbsp; Vodoznakování exportů, aby bylo zřejmé, který systém vyprodukoval danou sadu dat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Vodoznakování exportu ETL**  
+
+&nbsp; Automaticky označujte soubory ODS při generování z automatizovaných datových potrubí.
+
+
+
+* **Text vodoznaku podle role**  
+
+&nbsp; Přizpůsobte obsah vodoznaku v závislosti na přijímajícím týmu nebo úrovni přístupu.
+
+
+
+* **Ovládání distribuce plánovaných zpráv**  
+
+&nbsp; Před odesláním pravidelných zpráv ve formátu ODS aplikujte časově razené vodoznaky.
+
+
+
+* **Automatické označování politiky uchovávání**  
+
+&nbsp; Přidejte vizuální štítky uchovávání k podpoře automatizace životního cyklu pro uložené tabulky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

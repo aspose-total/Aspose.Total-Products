@@ -97,7 +97,93 @@ PDF 메타데이터 관리 앱 또는 유틸리티를 개발해야 합니까?[As
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+파이썬 API를 통한 **PDF** 파일의 문서 메타데이터 추출은 시스템이 제목, 작성자, 제작자, 생성 및 수정 날짜, 그리고 포함된 식별자와 같은 핵심 속성을 캡처하여 콘텐츠가 주로 고정 레이아웃인 경우에도 거버넌스 및 발견을 지원합니다. 이는 감사, 카탈로그 작성, 그리고 대량 PDF 저장소의 운영 처리에 중요합니다.
+
+
+
+자동화 파이프라인에서 PDF 메타데이터는 인덱싱, 라우팅, 보존 강제, 및 일괄 처리를 주도할 수 있어 PDF를 수동으로 분류하지 않고도 확장 가능한 워크플로에 통합하는 것이 실용적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **디지털 아카이브 카탈로그 작성**
+
+  검색 가능한 속성을 가진 문서의 신뢰할 수 있는 인벤토리를 작성하기 위해 PDF 메타데이터 추출.
+
+
+
+* **컴플라이언스 및 보존 감사**
+
+  보존 타임라인을 확인하고 불일치를 감지하기 위해 생성/수정 타임스탬프 사용.
+
+
+
+* **제작자 및 출처 속성**
+
+  콘텐츠 원본 및 처리 계보를 이해하기 위해 제작자 관련 속성 캡처.
+
+
+
+* **일괄 분류 신호**
+
+  정책, 송장, 매뉴얼 또는 보고서와 같은 도메인으로 PDF를 분류하기 위해 메타데이터 필드 사용.
+
+
+
+* **운영 품질 점검**
+
+  누락되거나 의심스러운 메타데이터가 있는 PDF를 수정이나 수동 검토 후보로 표시.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동화된 수용 분류**
+
+  PDF가 도착하면 메타데이터를 추출하고 완전성 및 민감도 규칙에 따라 처리 레인으로 라우팅.
+
+
+
+* **메타데이터 기반 인덱스 업데이트**
+
+  PDF가 추가되거나 교체될 때마다 검색 인덱스를 자동으로 업데이트하여 빠른 검색을 위해 메타데이터 사용.
+
+
+
+* **보존 강제 워크플로**
+
+  보존 기간을 초과한 PDF를 식별하고 삭제 또는 보관 작업 생성하는 예약 작업 실행.
+
+
+
+* **일괄 보고 및 대시보드**
+
+  거버넌스, 컴플라이언스 및 운영 감시를 위해 주기적 보고서로 추출된 PDF 메타데이터 집계.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

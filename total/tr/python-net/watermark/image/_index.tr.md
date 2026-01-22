@@ -73,7 +73,85 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri kullanarak **GÖRÜNTÜ** dosyalarına filigran eklemek (genel boru hatları), modern sistemler tarafından işlenen farklı görüntü türleri arasında sahiplik ve kullanım kurallarını damgalamak için tutarlı bir yaklaşım sağlar.
+
+Birleşik otomasyon katmanı, heterojen girdiler arasında filigran eklemeyi basitleştirir, standart işleme, denetlenebilirlik ve ölçeklenebilir medya yönetimini sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Farklı Formatlarda Birleşik Markalama**  
+
+&nbsp; Gelen görüntüler tür ve boyuta göre değişse bile aynı filigran politikasını uygulayın.
+
+
+
+* **İçerik Kütüphaneleri İçin Varlık Menşei**  
+
+&nbsp; Görüntülere işaret koyarak kopyalama, yeniden boyutlandırma veya yeniden barındırma sonrasında kaynak kimliğini koruyun.
+
+
+
+* **Hassas Görsel Etiketleme**  
+
+&nbsp; İç grafiklerin yanlış kullanımını kısıtlamak için risk veya sınıflandırma etiketleri ekleyin.
+
+
+
+* **Ortak Dağıtım Takibi**  
+
+&nbsp; İzlenebilirliği artırmak için paylaşılan görüntülere benzersiz tanımlayıcılar damgalayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Tüm Görüntü Girdileri İçin Tek API Noktası**  
+
+&nbsp; Farklı görüntü formatlarını tutarlı davranış için tek bir filigran hizmetine yönlendirin.
+
+
+
+* **Otomatik Yönlendirme ve Güvenli Alanları Algılama**  
+
+&nbsp; Yüzler, logolar ve önemli içerik bölgelerinden kaçınmak için filigranları programlı olarak yerleştirin.
+
+
+
+* **Sıra Tabanlı Toplu İşleme**  
+
+&nbsp; İş akışlarını duyarlı tutmak için büyük medya setlerine asenkron olarak filigran ekleyin.
+
+
+
+* **Varlık Yeniden Düzenleme Olmadan Politika Güncellemeleri**  
+
+&nbsp; Filigran kuralları değiştiğinde filigranlı varyantları yeniden oluşturun, manuel tasarım çalışması olmadan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

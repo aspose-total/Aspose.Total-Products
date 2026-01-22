@@ -76,7 +76,75 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API搜索**DOC**文件使现代系统能够从仍然广泛用于档案和企业环境中的传统文字处理文档中提取和定位信息。程序化搜索确保有价值的历史和运营数据可以在没有手动审核的情况下保持可访问性。
+
+
+
+当集成到自动化工作流程中时，DOC文件搜索通过实现批处理、结构化索引和与数据管道以及文档管理系统的无缝集成，提高了效率。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **传统文档搜索**  
+
+&nbsp; 在旧的DOC文件中启用基于关键字的发现。
+
+
+
+* **档案内容检索**  
+
+&nbsp; 从长期存储的文档中提取相关信息。
+
+
+
+* **合规记录查找**  
+
+&nbsp; 在基于DOC的记录中定位条款和声明。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化DOC索引**  
+
+&nbsp; Python作业自动扫描DOC文件并更新可搜索的索引。
+
+
+
+* **批量DOC内容提取**  
+
+&nbsp; 大量DOC文件在没有手动干预的情况下进行处理。
+
+
+
+* **DOC到系统集成**  
+
+&nbsp; 提取的内容向下游自动化和分析工作流程提供数据。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

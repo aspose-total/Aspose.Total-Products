@@ -78,7 +78,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Slučování dokumentů DOCX pomocí Python API je běžným požadavkem pro generování dokončených, moderních výstupů ve formátu Word ve velkém měřítku. Umožňuje přesnou kontrolu nad strukturou, stylováním a kontinuitou sekcí napříč různými zdroji.
+
+
+
+Tato schopnost se integruje bezproblémově s automatizovanými obsahovými motory, umožňující škálovatelnou generaci dokumentů pro zprávy, manuály a strukturovanou dokumentaci.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Vytváření více sekcí zpráv (DOCX)**  
+
+&nbsp; Slučování souborů DOCX představujících kapitoly do jedné zprávy.
+
+
+
+* **Opakované využití modulů obsahu (DOCX)**  
+
+&nbsp; Sestavování opakovaně použitelných sekcí DOCX do upravených dokumentů.
+
+
+
+* **Integrace redakčního toku (DOCX)**  
+
+&nbsp; Slučování schválených souborů DOCX editorů do finálních výstupů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Dynamická generace dokumentů (DOCX)**  
+
+&nbsp; Systémy slučují soubory DOCX na základě uživatelských vstupů nebo podmínek dat.
+
+
+
+* **Dokumentační potrubí CI/CD (DOCX)**  
+
+&nbsp; Slučování DOCX je automatizováno jako součást sestavovacích a vydávacích postupů.
+
+
+
+* **Škálovatelná automatizace publikování (DOCX)**  
+
+&nbsp; Dokumenty DOCX ve velkém množství jsou slučovány programově ve velkém měřítku.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

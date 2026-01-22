@@ -75,7 +75,50 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La extracción de metadatos de documentos para archivos **PPTX** a través de APIs de Python proporciona acceso estructurado a propiedades de presentaciones modernas, lo que permite un indexado consistente, auditoría y seguimiento del ciclo de vida de las presentaciones a gran escala. Esto es valioso para organizaciones que gestionan grandes volúmenes de presentaciones operativas, de formación o dirigidas a clientes.
+
+En los flujos de automatización, los metadatos de PPTX se convierten en un plano de control ligero para enrutamiento y gobernanza: admite la clasificación automática, revisiones programadas, controles de publicación e integraciones con sistemas de búsqueda y gestión de contenido.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+* **Catálogo y Descubrimiento de Presentaciones**
+  Extraer metadatos de PPTX para construir catálogos buscables por tema, propietario e historial de actualizaciones.
+
+* **Gobernanza del Ciclo de Vida para Decks de Diapositivas**
+  Utilizar marcas de tiempo y propiedades personalizadas para hacer cumplir ciclos de revisión y políticas de frescura de contenido.
+
+* **Asignación Automatizada de Propiedad**
+  Mapear campos de autor y último editor a equipos responsables para aprobaciones y mantenimiento.
+
+* **Validación de Preparación para la Publicación**
+  Asegurar que las propiedades descriptivas requeridas existan antes de distribuir un mazo de PPTX externamente.
+
+* **Registros de Auditoría Operativa**
+  Mantener registros de auditoría basados en metadatos sobre cuándo se crearon, actualizaron y por quién los mazos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+* **Clasificación y Etiquetado en Tiempo de Carga**
+  Al ingresar, extraer metadatos de PPTX y aplicar automáticamente etiquetas y reglas de enrutamiento de carpetas para una organización consistente.
+
+* **Generación de Tareas de Revisión Programadas**
+  Crear tareas de revisión periódicas cuando los mazos de PPTX excedan los umbrales de obsolescencia o los metadatos indiquen cambios de propiedad.
+
+* **Canal de Distribución Controlado**
+  Permitir o restringir la distribución de mazos de PPTX según indicadores de metadatos como categorías solo internas o confidenciales.
+
+* **Sincronización de Metadatos con Sistemas de Búsqueda**
+  Empujar continuamente metadatos de PPTX a un índice para que los mazos de diapositivas sean descubribles sin mantenimiento manual del catálogo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

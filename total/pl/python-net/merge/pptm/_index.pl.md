@@ -79,7 +79,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Łączenie plików PowerPoint z makrami za pomocą interfejsów API w języku Python umożliwia obsługę prezentacji zawierających wbudowaną logikę, automatyzację lub interaktywne zachowania. Jest to częste w prezentacjach przedsiębiorstwowych i operacyjnych.
+
+
+
+Automatyzacja zapewnia niezawodne łączenie slajdów z makrami bez zakłócania wbudowanej funkcjonalności.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Montaż prezentacji opartej na makrach (PPTM)**  
+
+&nbsp; Łączenie plików PPTM zawierających elementy zautomatyzowane lub interaktywne.
+
+
+
+* **Konsolidacja slajdów operacyjnych (PPTM)**  
+
+&nbsp; Łączenie prezentacji z makrami używanych w procesach wewnętrznych.
+
+
+
+* **Pakowanie interaktywnych zestawów slajdów (PPTM)**  
+
+&nbsp; Łączenie plików PPTM w jedną wykonywalną prezentację.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Generowanie prezentacji oparte na regułach (PPTM)**  
+
+&nbsp; Systemy łączą pliki PPTM na podstawie reguł automatyzacji.
+
+
+
+* **Zachowanie makr sterowane z poziomu backendu (PPTM)**  
+
+&nbsp; Zautomatyzowane potoki łączą pliki PPTM, zachowując logikę.
+
+
+
+* **Automatyzacja prezentacji zgodności (PPTM)**  
+
+&nbsp; Łączenie PPTM wspiera powtarzalne, kontrolowane wyniki.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

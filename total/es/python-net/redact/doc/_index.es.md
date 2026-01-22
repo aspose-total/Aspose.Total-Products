@@ -74,7 +74,67 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La redacción de documentos utilizando APIs de Python para archivos DOC permite a las organizaciones eliminar de forma segura información sensible de documentos de procesamiento de texto heredados que aún se utilizan ampliamente en empresas. Esta capacidad es fundamental para el cumplimiento, la protección de datos y el intercambio seguro de documentos en entornos regulados.
+
+
+
+Al integrar la redacción basada en Python en flujos de trabajo automatizados, los archivos DOC pueden procesarse a gran escala, garantizando la aplicación consistente de las normas de privacidad de datos y reduciendo el esfuerzo manual y los errores humanos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principales Casos de Uso" %}}
+
+
+
+- **Cumplimiento de Documentos Heredados**  
+  Redactar datos confidenciales de archivos DOC antiguos para cumplir con los requisitos regulatorios y de auditoría.
+
+
+
+- **Compartir Internamente de Forma Segura**  
+  Eliminar secciones sensibles antes de distribuir documentos entre departamentos o equipos.
+
+
+
+- **Saneamiento de Archivos Históricos**  
+  Limpiar archivos DOC archivados para hacerlos seguros para almacenamiento a largo plazo o acceso público.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+
+
+- **Pipelines de Redacción por Lotes**  
+  Automatizar la redacción de miles de archivos DOC mediante trabajos programados en Python.
+
+
+
+- **Enmascaramiento de Texto Basado en Reglas**  
+  Aplicar patrones predefinidos para detectar y redactar automáticamente términos sensibles.
+
+
+
+- **Automatización de Admisión de Documentos**  
+  Integrar la redacción en los flujos de admisión antes de que los documentos ingresen a los sistemas de almacenamiento.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

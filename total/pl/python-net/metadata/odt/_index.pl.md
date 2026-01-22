@@ -98,7 +98,93 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Ekstrakcja metadanych dokumentów dla plików **ODT** za pomocą interfejsów API w języku Python umożliwia programowy dostęp do właściwości dokumentów tekstowych — umożliwiając audytowanie, klasyfikację i wzbogacanie wyszukiwania bez konieczności manualnej inspekcji. Jest to istotne dla zarządzania dokumentami, zarządzania wiedzą i śledzenia cyklu życia dokumentów.
+
+
+
+W systemach automatyzacji metadane ODT mogą być wykorzystane do egzekwowania standardów, kierowania zatwierdzeniami i synchronizacji katalogów — wspierając skalowalne przetwarzanie w dużych repozytoriach z zastosowaniem spójnych reguł.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne Zastosowania" %}}
+
+
+
+* **Organizacja Bazy Wiedzy**
+
+  Wykorzystaj metadane ODT do kategoryzacji i indeksowania wewnętrznych dokumentów dla szybszego odnajdywania.
+
+
+
+* **Kontrole Własności i Zarządzania**
+
+  Wyodrębnij pola autora i redaktora, aby przypisać recenzentów i zachować odpowiedzialność.
+
+
+
+* **Decyzje dot. Retencji i Archiwizacji**
+
+  Wykorzystaj znaczniki czasowe do określenia, czy pliki ODT powinny być archiwizowane, zachowane czy odświeżone.
+
+
+
+* **Normalizacja Metadanych dla Analiz**
+
+  Konwertuj właściwości ODT na spójne pola do raportowania i analizy trendów.
+
+
+
+* **Walidacja Przed Publikacją**
+
+  Zweryfikuj wymagane pola opisowe przed konwersją dokumentów ODT na formaty publikowane.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Klasyfikacja Przyjmowania na Podstawie Reguł**
+
+  Automatycznie klasyfikuj dokumenty ODT do przepływów pracy z wykorzystaniem obecności metadanych, właściciela i znaczników czasowych.
+
+
+
+* **Synchronizacja Katalogów w Przepływie Pracy**
+
+  Wyodrębnij metadane ODT nocą i zsynchronizuj je z scentralizowanym rejestrem używanym przez wewnętrzne systemy wyszukiwania.
+
+
+
+* **Automatyczne Recenzje Dokumentacji**
+
+  Wyzwalaj zadania recenzji dla plików ODT, gdy metadane wskazują, że nie zostały zaktualizowane w określonych oknach czasowych.
+
+
+
+* **Mapowanie Metadanych do Polityki Dostępu**
+
+  Zastosuj reguły dostępu dynamicznie, gdy metadane ODT wskazują na kategorie treści ograniczonych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

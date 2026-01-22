@@ -95,7 +95,75 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusión de imágenes de mapa de bits utilizando APIs de Python permite la consolidación de visuales crudos y sin comprimir en una sola imagen compuesta o secuencia. Esto es útil en imágenes técnicas, flujos de trabajo de escaneo y sistemas donde la fidelidad de la imagen tiene prioridad sobre el tamaño del archivo.
+
+
+
+La fusión automatizada de BMP admite tuberías de procesamiento de imágenes deterministas donde se requiere precisión, repetibilidad y composición impulsada por el sistema.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* **Compilación de Imágenes Escaneadas (BMP)**  
+
+&nbsp; Fusionar múltiples escaneos BMP en una sola imagen compuesta.
+
+
+
+* **Ensamblaje de Diagramas Técnicos (BMP)**  
+
+&nbsp; Combinar diagramas de mapa de bits en visuales unificados.
+
+
+
+* **Archivo de Imágenes en Bruto (BMP)**  
+
+&nbsp; Agregar archivos BMP para almacenamiento o procesamiento a largo plazo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+
+
+* **Procesamiento Automatizado de Escaneos (BMP)**  
+
+&nbsp; Los sistemas fusionan imágenes BMP durante los flujos de ingestión.
+
+
+
+* **Composición de Imágenes por Lotes (BMP)**  
+
+&nbsp; Trabajos programados fusionan imágenes de mapa de bits de forma programática.
+
+
+
+* **Tuberías de Imágenes de Precisión (BMP)**  
+
+&nbsp; La fusión de BMP está integrada en sistemas de procesamiento controlados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

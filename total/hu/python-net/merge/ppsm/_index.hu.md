@@ -79,7 +79,75 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A makrókat támogató diavetítések összevonása Python API-k segítségével automatizált, interaktív diavetítés-átadást tesz lehetővé. Ezeket a formátumokat gyakran ellenőrzött környezetekben használják.
+
+
+
+Az automatizálás biztosítja, hogy a makrók és a diavetítés viselkedése megmaradjon az összevonás során.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Interaktív diavetítés összeállítása (PPSM)**  
+
+&nbsp; Makrókat támogató diavetítési fájlok összevonása.
+
+
+
+* **Automatizált bemutató előadás (PPSM)**  
+
+&nbsp; PPSM fájlok kombinálása automatizált bemutatókhoz.
+
+
+
+* **Irányított lejátszási paklik (PPSM)**  
+
+&nbsp; PPSM fájlok összevonása irányított prezentációkhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Szabályvezérelt diavetítés létrehozása (PPSM)**  
+
+&nbsp; Rendszerek PPSM fájlokat vonnak össze logikai szabályok alapján.
+
+
+
+* **Háttér automatizálás megőrzése (PPSM)**  
+
+&nbsp; Az interaktív viselkedések megmaradnak a PPSM összevonásakor.
+
+
+
+* **Ütemezett bemutató generálás (PPSM)**  
+
+&nbsp; Diavetítések automatikusan összevonódnak ütemezések szerint.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

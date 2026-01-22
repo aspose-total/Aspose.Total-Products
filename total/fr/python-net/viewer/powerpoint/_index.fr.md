@@ -89,7 +89,73 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La visualisation des présentations PowerPoint avec des API Python permet un accès programmatique au contenu basé sur les diapositives pour examen et validation.
+
+Cela prend en charge les rapports automatisés, les flux de travail de présentation et les pipelines de contenu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Examen du contenu des diapositives**  
+
+&nbsp; Visualisez les diapositives séquentiellement sans ouvrir de logiciel de présentation.
+
+
+
+* **Vérifications de la qualité de la présentation**  
+
+&nbsp; Inspectez la mise en page et le texte à travers les diaporamas.
+
+
+
+* **Support d'automatisation des rapports**  
+
+&nbsp; Validez les présentations générées avant leur distribution.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Examen automatisé de la génération de diaporamas**  
+
+&nbsp; Les flux de travail Python affichent les diapositives après leur création automatisée.
+
+
+
+* **Audits de présentations en lot**  
+
+&nbsp; Plusieurs présentations sont examinées de manière programmatique.
+
+
+
+* **Services de prévisualisation pour les parties prenantes**  
+
+&nbsp; Les diapositives sont rendues dynamiquement pour les flux de travail d'approbation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,85 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'apposizione di filigrane alle immagini **TIFF** con API Python supporta flussi di lavoro di imaging di alta qualità aggiungendo etichette di proprietà e controllo ai file comunemente utilizzati nello scanning, nella stampa e nell'archiviazione.
+
+L'automazione è particolarmente preziosa per l'apposizione di filigrane ai TIFF a causa delle dimensioni dei file e dei processi batch intensivi, consentendo un trattamento coerente lungo i flussi di lavoro di imaging dei documenti.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Marchi di proprietà dei documenti scannerizzati**  
+
+&nbsp; Applicare filigrane ai TIFF scannerizzati per preservare la provenienza negli archivi di imaging.
+
+
+
+* **Timbri di prova nel flusso di lavoro di stampa**  
+
+&nbsp; Aggiungere filigrane "PROVA" ai file TIFF di pre-stampa per una revisione controllata.
+
+
+
+* **Etichette di conformità per i repository di imaging**  
+
+&nbsp; Apporre testo di classificazione alle immagini riservate per supportare le politiche di gestione.
+
+
+
+* **Tracciabilità della conversione in archivio**  
+
+&nbsp; Apporre filigrane ai TIFF prima della conversione in altri formati per mantenere l'identità della fonte.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Automazione dell'apposizione di filigrane all'output dello scanner**  
+
+&nbsp; Apporre filigrane ai file TIFF immediatamente dopo la scansione utilizzando cartelle monitorate o lavori di ingestione.
+
+
+
+* **Elaborazione di TIFF multi-pagina**  
+
+&nbsp; Applicare filigrane coerenti tra le pagine nei file TIFF multi-pagina in modo programmato.
+
+
+
+* **Ridimensionamento delle filigrane consapevole della risoluzione**  
+
+&nbsp; Regolare le dimensioni della filigrana in base al DPI per mantenere un aspetto di stampa fisica coerente.
+
+
+
+* **Flussi di lavoro automatizzati di conservazione e audit**  
+
+&nbsp; Apporre filigrane alle immagini come parte dei flussi di lavoro automatizzati di etichettatura della conservazione e revisione della conformità.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

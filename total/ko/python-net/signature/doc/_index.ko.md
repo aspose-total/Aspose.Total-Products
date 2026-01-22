@@ -71,7 +71,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOC 파일의 프로그래밍 서명을 통해 레거시 Word 문서에 형식 변환 없이 공식 승인 표시를 부여할 수 있습니다. 이는 오래된 문서 시스템과의 호환성을 유지하면서 거버넌스를 추가합니다.
+
+
+
+Python 기반 자동화를 통해 DOC 서명이 일관되게 이루어지므로 문서 중심의 레거시 워크플로에서 수동 개입이 줄어듭니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **레거시 계약 승인**  
+
+  &nbsp; 이전 시스템에서 사용되는 DOC 계약에 서명자 세부 정보 추가
+
+
+
+* **정책 문서 승인**  
+
+  &nbsp; DOC 정책을 검토하고 승인된 것으로 표시
+
+
+
+* **템플릿 기반 문서 유효성 검사**  
+
+  &nbsp; 완료 확인 후 DOC 템플릿 서명
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **필드 완료 트리거 서명**  
+
+  &nbsp; 필수 필드가 채워지면 DOC 파일에 서명됩니다.
+
+
+
+* **승인 워크플로 통합**  
+
+  &nbsp; 백엔드 승인 상태 업데이트에 의해 서명이 트리거됩니다.
+
+
+
+* **레거시 아카이브 인증**  
+
+  &nbsp; 아카이브되기 전에 DOC 파일에 서명됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

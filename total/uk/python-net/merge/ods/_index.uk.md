@@ -75,7 +75,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Об'єднання електронних таблиць OpenDocument за допомогою Python API підтримує відкриті стандарти та перехідні потоки даних між платформами. Це ідеально підходить для середовищ, які використовують відкриті офісні інструменти.
+
+
+
+Автоматизація навколо об'єднання ODS забезпечує взаємодію, зберігаючи структуровану цілісність даних.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* **Консолідація електронних таблиць на різних платформах (ODS)**  
+
+&nbsp; Об'єднання файлів ODS, створених у різних офісних пакетах.
+
+
+
+* **Агрегація даних за відкритими стандартами (ODS)**  
+
+&nbsp; Об'єднання електронних таблиць ODS для єдиної аналітики.
+
+
+
+* **Колаборативне компілювання даних (ODS)**  
+
+&nbsp; Об'єднання файлів ODS від розподілених учасників.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Автоматизація потоку відкритих даних (ODS)**  
+
+&nbsp; Системи об'єднують файли ODS без пропрієтарних залежностей.
+
+
+
+* **Запланована компіляція електронних таблиць (ODS)**  
+
+&nbsp; Об'єднання ODS виконується як частина регулярних завдань на бекенді.
+
+
+
+* **Міжоперабельні звітні потоки (ODS)**  
+
+&nbsp; Файли ODS динамічно об'єднуються в потоках даних.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -71,7 +71,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODP dosyaları genellikle açık sunum ekosistemlerinde kullanılır ve bunları kilidini açmak, korumalı slaytlara, notlara ve düzenlere erişimi sağlar. Bu, sunum varlıklarının yeniden kullanımı, yerelleştirilmesi ve uzun vadeli korunması için kritiktir.
+
+
+
+Python API'leri, ODP dosyalarının otomatik olarak kilidini açmayı sağlar, böylece bunlar ölçeklenebilir sunum iş akışlarına ve dönüşüm borularına entegre edilebilir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Slayt İçeriği Yeniden Kullanımı**  
+
+&nbsp; Korumalı slaytların çıkarılmasını sağlayarak sunumlar arasında yeniden kullanımı olanaklı kılar.
+
+
+
+* **Yerelleştirme Kolaylaştırma**  
+
+&nbsp; Kilitli metinlere otomatik çeviri iş akışları için erişimi destekler.
+
+
+
+* **Sunum Arşivleme**  
+
+&nbsp; Uzun vadeli depolamadan önce korumalı dosyaların güvenli bir şekilde incelenmesine izin verir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik Slayt Çevirisi**  
+
+&nbsp; Kilidini açma, çok dilli otomasyon boruları için metin çıkarmayı sağlar.
+
+
+
+* **Sunum İndeksleme**  
+
+&nbsp; Korumalı içerik kilidi açılır ve kurumsal arama sistemleri için dizinlenir.
+
+
+
+* **Toplu Sunum Dönüştürme**  
+
+&nbsp; ODP dosyaları kilidi açılır ve programlı olarak alternatif formatlara dönüştürülür.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

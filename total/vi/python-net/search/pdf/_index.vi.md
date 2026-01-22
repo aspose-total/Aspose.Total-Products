@@ -77,7 +77,75 @@ Có các tùy chọn thay thế để cài đặt "Aspose.PDF for Python via .NE
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Tìm kiếm tài liệu **PDF** bằng Python APIs giúp phát hiện thông tin một cách đáng tin cậy được lưu trữ trong một trong những định dạng phổ biến nhất cho báo cáo, hợp đồng, hướng dẫn và hồ sơ chính thức. Tìm kiếm PDF theo cách tự động giúp các hệ thống hiện đại xác định văn bản và cấu trúc liên quan trên các bộ sưu tập tài liệu lớn mà không cần đọc thủ công.
+
+
+
+Khi tích hợp vào các đường ống tự động hóa, tìm kiếm PDF hỗ trợ việc tạo chỉ mục có khả năng mở rộng, truy xuất nhanh hơn và tích hợp mượt mà với các luồng công việc phân tích, tuân thủ và quản lý kiến thức.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Khám Phá Từ Khóa PDF**  
+
+&nbsp; Tìm các thuật ngữ và cụm từ mục tiêu trên các tập tài liệu PDF lớn.
+
+
+
+* **Truy Xuất Phần Báo Cáo**  
+
+&nbsp; Xác định các phần quan trọng như tóm tắt, bảng và kết luận trong các tài liệu PDF.
+
+
+
+* **Tìm Kiếm Kho Tài Liệu**  
+
+&nbsp; Cho phép truy cập có thể tìm kiếm vào các tài liệu PDF được lưu trữ trên các thư mục và hệ thống.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Đường Ống Chỉ Mục PDF Tự Động**  
+
+&nbsp; Dịch vụ Python trích xuất văn bản và cập nhật chỉ mục tìm kiếm PDF theo lịch trình.
+
+
+
+* **Tự Động Hóa Đánh Giá Tuân Thủ PDF**  
+
+&nbsp; Tìm kiếm theo cách tự động phát hiện các điều khoản cần thiết và các tuyên bố bị thiếu trong các tài liệu PDF.
+
+
+
+* **Trích Xuất Thông Tin Động PDF**  
+
+&nbsp; Kết quả tìm kiếm thúc đẩy tóm tắt tự động, cảnh báo và các luồng công việc xử lý hậu truyền.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A tab-separated value fájlok összefűzése Python API-k segítségével gyors és könnyű strukturált táblázatos adatok kombinálását teszi lehetővé. A TSV gyakran használt adatcsere és előfeldolgozás során.
+
+
+
+Az automatizált TSV összefűzés támogatja a nagy teljesítményű adatcsöveket és analitikai munkafolyamatokat.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Nyers adatok összegyűjtése (TSV)**  
+
+&nbsp; TSV fájlok összefűzése egyetlen adatkészletbe való feldolgozás céljából.
+
+
+
+* **Rendszer-rendszer adatcsere (TSV)**  
+
+&nbsp; Különböző platformokról származó TSV exportok összevonása.
+
+
+
+* **Előzetes elemzési adatok előkészítése (TSV)**  
+
+&nbsp; TSV fájlok összefűzése az analitikai átalakítás előtt.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Áramvezérelt adatfeldolgozás (TSV)**  
+
+&nbsp; Az automatizált rendszerek TSV fájlokat egyesítenek adatfolyamokban.
+
+
+
+* **Tömeges ETL műveletek (TSV)**  
+
+&nbsp; A TSV összefűzése ütemezett ETL feladatok során történik.
+
+
+
+* **Skálázható táblázatos adatcsövek (TSV)**  
+
+&nbsp; Programozott összefűzés támogatja a nagy TSV adatkészleteket.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

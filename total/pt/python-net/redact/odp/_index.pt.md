@@ -77,7 +77,75 @@ Para obter mais detalhes, consulte [Documentação do produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A redação de documentos usando APIs do Python para arquivos ODP permite o manuseio seguro de conteúdo de apresentação criado em padrões de documentos abertos. Isso é essencial ao compartilhar slides que podem conter informações sensíveis ou proprietárias.
+
+
+
+A automação garante que as apresentações ODP possam ser sanitizadas de forma consistente, oferecendo suporte a controles de privacidade escaláveis e repetíveis em ativos de apresentação.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Compartilhamento de Slides Confidenciais**  
+
+  &nbsp; Remova dados sensíveis dos slides de apresentação antes da distribuição.
+
+
+
+* **Governança de Formato Aberto**  
+
+  &nbsp; Faça cumprir políticas de proteção de dados em arquivos de apresentação de padrão aberto.
+
+
+
+* **Sanitização de Material de Treinamento**  
+
+  &nbsp; Reduza referências internas antes de publicar conteúdo de aprendizado.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Regras de Redação ao Nível do Slide**  
+
+  &nbsp; Redija automaticamente o conteúdo de slides ou layouts específicos.
+
+
+
+* **Pipelines de Construção de Apresentação**  
+
+  &nbsp; Integre a redação em fluxos de trabalho automatizados de geração de apresentação.
+
+
+
+* **Varreduras de Conformidade Agendadas**  
+
+  &nbsp; Sanitize periodicamente arquivos ODP armazenados usando trabalhos automatizados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

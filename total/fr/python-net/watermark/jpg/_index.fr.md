@@ -73,7 +73,85 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'estampillage des fichiers **JPG** avec des API Python prend en charge les flux de travail d'image courants en ajoutant une propriété claire, des étiquettes de validation et des règles de distribution au format d'image web le plus fréquemment utilisé.
+
+L'estampillage automatique des JPG est idéal pour les pipelines à haut débit où un placement cohérent et un style reproductible sont nécessaires pour de nombreux actifs.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Marquage en masse pour les bibliothèques d'images**  
+
+&nbsp; Apposez des filigranes sur de grands ensembles d'actifs JPG pour maintenir une identité cohérente sur tous les canaux.
+
+
+
+* **Protection du contenu préalable à la publication**  
+
+&nbsp; Ajoutez des superpositions "PAS POUR PUBLICATION" pour éviter les publications anticipées accidentelles.
+
+
+
+* **Marquage des aperçus de supports de vente**  
+
+&nbsp; Apposez des étiquettes d'aperçu sur les visuels JPG utilisés dans les propositions et les présentations.
+
+
+
+* **Attribution des actifs d'affiliation**  
+
+&nbsp; Intégrez des filigranes d'attribution pour les médias partagés afin d'améliorer le suivi de la source.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Estampillage automatique basé sur les dossiers**  
+
+&nbsp; Détectez les nouveaux fichiers JPG dans les dossiers surveillés et apposez-leur immédiatement un filigrane.
+
+
+
+* **Adaptation automatique de la taille du filigrane**  
+
+&nbsp; Ajustez la taille du filigrane en fonction de la résolution et du rapport hauteur/largeur automatiquement.
+
+
+
+* **Génération de filigrane multilingue**  
+
+&nbsp; Produisez du texte de filigrane localisé en fonction du public cible ou des règles régionales.
+
+
+
+* **Création de variantes dédupliquées**  
+
+&nbsp; Évitez de retraiter les JPG déjà estampillés en suivant les empreintes digitales dans l'automatisation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

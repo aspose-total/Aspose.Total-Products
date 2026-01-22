@@ -78,7 +78,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Menggabungkan file nilai yang dipisahkan tab menggunakan API Python memungkinkan kombinasi data tabular terstruktur yang cepat dan ringan. TSV umum digunakan untuk pertukaran data dan pra-pemrosesan.
+
+
+
+Penggabungan TSV otomatis mendukung pipa data kinerja tinggi dan alur kerja analitik.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Aggregasi Data Mentah (TSV)**  
+
+&nbsp; Gabungkan file TSV ke dalam satu set data untuk diproses.
+
+
+
+* **Pertukaran Data Sistem-ke-Sistem (TSV)**  
+
+&nbsp; Gabungkan ekspor TSV dari platform yang berbeda.
+
+
+
+* **Persiapan Data Pra-Analisis (TSV)**  
+
+&nbsp; Gabungkan file TSV sebelum transformasi analitik.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pemrosesan Data Berbasis Aliran (TSV)**  
+
+&nbsp; Sistem otomatis menggabungkan file TSV dalam aliran data.
+
+
+
+* **Operasi ETL Batch (TSV)**  
+
+&nbsp; Penggabungan TSV terjadi selama pekerjaan ETL yang dijadwalkan.
+
+
+
+* **Pipa Data Tabular yang Dapat Diskalakan (TSV)**  
+
+&nbsp; Penggabungan berbasis program mendukung kumpulan data TSV besar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

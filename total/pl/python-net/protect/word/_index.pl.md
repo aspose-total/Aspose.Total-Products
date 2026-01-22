@@ -76,7 +76,75 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kategoria formatu Word reprezentuje dokumenty tekstowe używane w procesach sporządzania, raportowania i współpracy. Zabezpieczenie plików Word zapewnia poufność dokumentów, integralność i kontrolowany dostęp przez cały ich cykl życia.
+
+
+
+Interfejsy Pythona pozwalają zautomatyzować zabezpieczenie dokumentów Word, sprawiając, że bezpieczeństwo staje się wbudowaną funkcjonalnością nowoczesnych systemów zarządzania treścią i dokumentami.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+
+
+* **Ochrona Zawartości Poufnej**  
+
+&nbsp; Zabezpieczaj dokumenty Word zawierające poufne informacje.
+
+
+
+* **Egzekwowanie Ograniczeń Edycji**  
+
+&nbsp; Kontroluj, kto może modyfikować lub przeglądać dokumenty.
+
+
+
+* **Bezpieczeństwo Cyklu Życia Dokumentu**  
+
+&nbsp; Chron pliki na różnych etapach tworzenia i zatwierdzania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Automatyczne Zabezpieczanie Plików Word**  
+
+&nbsp; Automatyczne stosowanie zasad bezpieczeństwa podczas tworzenia dokumentu.
+
+
+
+* **Kontrole Dokumentów W oparciu o Role**  
+
+&nbsp; Dynamiczne zabezpieczanie plików Word na podstawie ról użytkowników.
+
+
+
+* **Bezpieczne Przepływy Pracy od A do Z**  
+
+&nbsp; Zintegruj ochronę Worda w w pełni zautomatyzowane potoki dokumentów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

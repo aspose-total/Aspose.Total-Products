@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API为XLS电子表格添加水印有助于保护传统的Excel文件，通过向仍然广泛在旧报告工作流程中使用的数据工件添加可见的所有权和保密线索。
+
+自动化使得对大型存档进行XLS水印处理变得实用，确保在不手动编辑每个工作簿的情况下实现一致的治理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **传统财务表格保护**  
+
+  &nbsp; 为旧XLS预算和预测表格添加保密标签。
+
+
+
+* **运营报告所有权标记**  
+
+  &nbsp; 给XLS报告加盖标记，以在转发副本中保持源标识。
+
+
+
+* **草稿数据指示器**  
+
+  &nbsp; 应用“初步”水印以减少未经验证数字带来的错误。
+
+
+
+* **外部共享的分发控制**  
+
+  &nbsp; 在与供应商共享的传统电子表格上嵌入可见的使用限制。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化存档加盖**  
+
+  &nbsp; 在迁移到新存储或治理系统期间为XLS文件添加水印。
+
+
+
+* **用于传入报告的文件夹监视器**  
+
+  &nbsp; 检测新的XLS文件并自动应用标准策略水印。
+
+
+
+* **按报告类型规则添加水印**  
+
+  &nbsp; 根据文件名模式或分类元数据选择水印内容。
+
+
+
+* **定时导出加盖**  
+
+  &nbsp; 在交付给利益相关者之前为自动化XLS导出文件加盖水印。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,85 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri ile **PPTX** dosyalarına filigran eklemek, modern PowerPoint sunumlarında sahiplik, gizlilik ve durumu işaretleyerek ölçeklenebilir kontrol sağlar.
+
+Otomasyon, ekiplerin PPTX filigranını belge akışlarına entegre etmelerine yardımcı olur, böylece sunumlar dağıtımdan önce, arşivlemeden önce veya yayınlamadan önce uygun şekilde etiketlenir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Gizli Sunum Dosyası Koruma**  
+
+&nbsp; Duyarlı sunum dosyalarına damga vurarak fon toplama veya müzakereler sırasında sızıntıyı azaltın.
+
+
+
+* **Müşteriye Özel Teslim Edilebilir Etiketleme**  
+
+&nbsp; Paylaşılan PPTX sunumlarının dağıtımını takip etmek için müşteri tanımlayıcıları uygulayın.
+
+
+
+* **İç İnceleme Aşaması Filigranları**  
+
+&nbsp; Onaylanmış sürümlerle karışıklığı önlemek için sunumları "İNCELEMEDE" olarak işaretleyin.
+
+
+
+* **Yeniden Kullanılabilir Şablon Yönetimi**  
+
+&nbsp; Oluşturulan tüm sunum dosyalarının doğru sahiplik veya politika filigranını içerdiğinden emin olun.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Slayt Ustası Tabanlı Filigranlama**  
+
+&nbsp; Slaytlar arasında tutarlı bir şekilde işlenmesi için slayt genişliğinde öğeler aracılığıyla filigran uygulayın.
+
+
+
+* **CRM Alanlarından Otomatik Filigran Metni**  
+
+&nbsp; Anlaşma kimliği, hesap adı veya proje kodu gibi bilgileri kullanarak filigranları programatik olarak oluşturun.
+
+
+
+* **Önceden Gönderme Doğrulama ve Damgalama**  
+
+&nbsp; PPTX dosyalarına otomatik olarak filigran ekleyin, e-posta veya portal ile gönderim iş akışları sırasında.
+
+
+
+* **Politika Güncellemelerinden Sonra Toplu Yeniden Damgalama**  
+
+&nbsp; Etiketleme kuralları veya yasal metin değişiklikleri olduğunda filigranlı varyantları yeniden oluşturun.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

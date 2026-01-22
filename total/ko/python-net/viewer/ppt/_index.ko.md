@@ -89,7 +89,73 @@ PPT 뷰어 앱이나 유틸리티를 개발해야 합니까?[Aspose.Total for Py
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 PPT 파일을 볼 경우, 오래된 시스템에서 사용되는 레거시 프레젠테이션 문서를 검사할 수 있습니다.
+
+이는 역호환성이 필요한 자동화를 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **레거시 프레젠테이션 검토**
+
+  &nbsp; 오래된 슬라이드 덱을 프로그래밍 방식으로 확인합니다.
+
+
+
+* **콘텐츠 이전 지원**
+
+  &nbsp; 형식을 업그레이드하기 전에 프레젠테이션을 검사합니다.
+
+
+
+* **프레젠테이션 유효성 검사**
+
+  &nbsp; 슬라이드 데이터가 유지되는지 확인합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **레거시 감사 파이프라인**
+
+  &nbsp; Python 워크플로우가 PPT 파일을 검사합니다.
+
+
+
+* **전환 전 유효성 검사**
+
+  &nbsp; 보는 것은 안전한 형식 이전을 보장합니다.
+
+
+
+* **일괄 프레젠테이션 검토**
+
+  &nbsp; 대규모 컬렉션이 자동으로 검사됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -140,7 +206,7 @@ PPT 뷰어 앱이나 유틸리티를 개발해야 합니까?[Aspose.Total for Py
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Vodoznakování se **Excel** tabulkami pomocí Python API přidává ovládací prvky do daty nabitých sešitů, pomáhá komunikovat vlastnictví, důvěrnost a zamýšlené použití přímo v zobrazení tabulek.
+
+Automatizace dělá vodoznakování tabulek spolehlivým na velkém měřítku - ideální pro plánované reportování, sdílení mezi více týmy a řízené exporty z analytických systémů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Překrytí důvěrnosti finančních reportů**  
+
+&nbsp; Označte tabulky obsahující rozpočty nebo předpovědi k snížení rizika úniku.
+
+
+
+* **Omezení distribuce sdílených dashboardů**  
+
+&nbsp; Přidejte štítky "POUZE INTERNÍ POUŽITÍ" k odrazování od externího přeposílání.
+
+
+
+* **Indikátory návrhů pro ověření dat**  
+
+&nbsp; Použijte vodoznaky "POČÁTEČNÍ" až do dokončení uskutečnění nebo schválení.
+
+
+
+* **Oznámení o vlastnictví partnera**  
+
+&nbsp; Vložte text vlastnictví do sdílených sešitů k objasnění povoleného opětovného použití datových sad.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Plánované reportování s automatickým razítkováním**  
+
+&nbsp; Vodoznak generovaných reportů každou noc před odesláním na distribuční seznamy.
+
+
+
+* **Vodoznak podle klasifikace sešitu**  
+
+&nbsp; Použijte štítky citlivosti k automatickému výběru textu vodoznaku a jeho umístění.
+
+
+
+* **Vynucování exportního potrubí**  
+
+&nbsp; Razítkujte tabulky během exportu z BI nebo ETL systémů pro zachování správy.
+
+
+
+* **Automatizované označování souladu s regionálními předpisy**  
+
+&nbsp; Přidejte oznámení specifická pro jurisdikci na základě týmu nebo země určení.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

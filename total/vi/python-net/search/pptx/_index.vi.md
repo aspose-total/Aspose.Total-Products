@@ -76,7 +76,75 @@ Có các tùy chọn thay thế để cài đặt "Aspose.Slides for Python via 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Tìm kiếm tệp **PPTX** bằng Python APIs cung cấp quyền truy cập đáng tin cậy vào tài liệu trình bày hiện đại chứa bố cục trang trình bày có cấu trúc, các khối văn bản và ghi chú của người nói. Tệp PPTX được sử dụng rộng rãi cho nội dung báo cáo, đào tạo và ra quyết định.
+
+
+
+Tìm kiếm tự động trong tệp PPTX hỗ trợ phân tích trang trình bày có khả năng mở rộng, truy xuất thông minh và tích hợp mượt mà với các hệ thống quản lý kiến thức và nội dung.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tìm Kiếm Trang Trình Bày Có Cấu Trúc**  
+
+&nbsp; Tìm kiếm tiêu đề, điểm đánh dấu và ghi chú trong tệp PPTX.
+
+
+
+* **Phân Tích Nội Dung Trình Bày**  
+
+&nbsp; Xác định các chủ đề và phần mục chính một cách tự động.
+
+
+
+* **Khám Phá Trang Trình Bày Có Thể Tái Sử Dụng**  
+
+&nbsp; Xác định các trang trình bày phù hợp để tái sử dụng trong báo cáo hoặc bộ trình chiếu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Cập Nhật Chỉ Mục PPTX Liên Tục**  
+
+&nbsp; Dịch vụ Python theo dõi và cập nhật chỉ mục tệp PPTX mới.
+
+
+
+* **Phân Loại Trang Trình Bày Tự Động**  
+
+&nbsp; Các trang trình bày được phân loại dựa trên nội dung được trích xuất.
+
+
+
+* **Luồng Nội Dung PPTX**  
+
+&nbsp; Kết quả tìm kiếm cung cấp cho bảng điều khiển và quy trình làm việc tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

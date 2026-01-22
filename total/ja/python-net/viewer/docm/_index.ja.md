@@ -90,7 +90,73 @@ DOCM ビューア アプリまたはユーティリティを開発する必要�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用したDOCM文書の表示により、埋め込まれたロジックを実行せずにマクロが有効化された文書を安全に検査できます。
+
+これは、セキュリティリスクなしに可視性が必要な制御された環境にとって不可欠です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+
+
+* **マクロを認識した文書のレビュー**
+
+&nbsp; マクロを非アクティブのままコンテンツを表示します。
+
+
+
+* **セキュリティ重視の検査**
+
+&nbsp; 実行せずに文書の構造とテキストを調査します。
+
+
+
+* **制御された文書アクセス**
+
+&nbsp; 制限されたまたは自動化されたシステムでの安全な表示を可能にします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **セキュアな入力パイプライン**
+
+&nbsp; Pythonの自動化により、マクロをトリガーせずにDOCMコンテンツを表示します。
+
+
+
+* **コンプライアンスレビューの自動化**
+
+&nbsp; 文書は自動化された方針チェックの一環として表示されます。
+
+
+
+* **事前承認ワークフロー**
+
+&nbsp; 自動プレビューが人間を介した承認をサポートします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

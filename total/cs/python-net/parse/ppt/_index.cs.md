@@ -100,7 +100,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Parsování **PPT prezentací** pomocí Python API umožňuje extrakci textu snímků, poznámek a strukturálních prvků z prezentčních souborů. To umožňuje automatizovaným systémům přístup k znalostem založeným na snímcích.
+
+
+
+V kontextu automatizace podpora parsování prezentací umožňuje opětovné využití obsahu, shrnutí a integraci do dokumentace nebo analytických pracovních postupů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Extrakce obsahu snímků**  
+
+&nbsp; Získává názvy, odrážky a poznámky řečníka.
+
+
+
+* **Analýza archivních prezentací**  
+
+&nbsp; Umožňuje vyhledávání a analýzu historických souborů snímků.
+
+
+
+* **Přetvoření obsahu v rámci procesů**  
+
+&nbsp; Převádí materiál prezentace do jiných formátů obsahu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizované shrnutí snímků**  
+
+&nbsp; Generuje stručná shrnutí z analyzovaného obsahu snímků.
+
+
+
+* **Naplnění znalostní báze**  
+
+&nbsp; Vkládá data prezentace do strukturovaných repozitářů.
+
+
+
+* **Automatizace porovnání verzí**  
+
+&nbsp; Detekuje změny mezi různými verzemi prezentací.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

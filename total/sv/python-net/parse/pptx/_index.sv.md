@@ -100,7 +100,75 @@ För mer information, se [Produktdokumentation](https://docs.aspose.com/slides/p
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Analysera **PPTX-presentationer** med Python API:er möjliggör strukturerad åtkomst till slidtext, titlar, punktlistor, layouter och talarnoteringar från moderna presentationsfiler. PPTX-analys gör kunskapen på slidnivå tillgänglig bortom manuell visning.
+
+
+
+I automatiserade system stöder PPTX-analys innehållsåteranvändning, sammanfattning, analys och integration med kunskapshantering och rapporteringspipelines.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* **Extrahering av slidinnehåll**  
+
+&nbsp; Hämtar strukturerad text och layoutelement från presentationsbilder.
+
+
+
+* **Presentationens kunskapsutvinning**  
+
+&nbsp; Konverterar sliduppsättningar till sökbara och analyserbara innehållskällor.
+
+
+
+* **Flöden för omvandling av innehåll**  
+
+&nbsp; Möjliggör återanvändning av presentationsmaterial över dokumentation och plattformar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* **Automatisk presentationstillförsel**  
+
+&nbsp; Bearbetar PPTX-filer automatiskt vid uppladdning eller schemaläggning.
+
+
+
+* **Sammanfattning på slidnivå**  
+
+&nbsp; Genererar kortfattade sammanfattningar från analyserat slidinnehåll.
+
+
+
+* **Automatisering av versionsjämförelse**  
+
+&nbsp; Upptäcker förändringar mellan flera versions av presentationer på ett programmatiskt sätt.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

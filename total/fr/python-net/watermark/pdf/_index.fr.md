@@ -73,7 +73,85 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'estampillage des documents **PDF** avec des API Python est une méthode courante pour protéger les fichiers finalisés et partageables en ajoutant des marques de propriété visibles, des étiquettes de confidentialité ou des marques de preuve sans avoir besoin d'accès en modification.
+
+L'estampillage automatique des PDF prend en charge des flux de travail évolutifs tels que le marquage en masse, le routage basé sur des politiques et l'étiquetage de conformité cohérent à travers les archives de documents.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Protection de rapports confidentiels**  
+
+&nbsp; Appliquer des marques de confidentialité visibles pour dissuader la redistribution non autorisée.
+
+
+
+* **Copies de preuve pour examen et approbation**  
+
+&nbsp; Apposer "PREUVE" sur les PDF partagés pour obtenir des retours afin de réduire la confusion avec les versions finales.
+
+
+
+* **Étiquettes de propriété pour factures et relevés**  
+
+&nbsp; Ajouter des marques d'identité de l'organisation aux PDF financiers utilisés dans les différents services.
+
+
+
+* **Partage contrôlé pour les documents juridiques**  
+
+&nbsp; Apposer des filigranes sur des dépôts et accords sensibles pour renforcer les attentes en matière de manipulation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Estampillage en masse pour le remplissage des archives**  
+
+&nbsp; Apposer automatiquement des filigranes sur les PDF historiques lors de la migration vers un nouveau référentiel.
+
+
+
+* **Règles de placement de filigrane conscientes de la page**  
+
+&nbsp; Ajuster la position du filigrane en fonction de la taille de la page et de l'orientation de manière programmable.
+
+
+
+* **Estampilles de finalisation déclenchées par le flux de travail**  
+
+&nbsp; Ajouter des filigranes "FINAL" lorsque les approbations sont terminées dans un système automatisé.
+
+
+
+* **Contenu de filigrane dynamique avec des horodatages**  
+
+&nbsp; Générer des filigranes contenant la date, l'ID de demande ou les métadonnées du destinataire pour la traçabilité.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

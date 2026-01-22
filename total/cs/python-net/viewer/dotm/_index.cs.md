@@ -90,7 +90,69 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Prohlížení souborů DOTM pomocí Python API umožňuje bezpečnou inspekci šablon pro Word s makry bez provádění vložené logiky.
+
+To je zásadní pro řízené prostředí, kde musí existovat současně viditelnost a bezpečnost.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Hodnocení šablony s makry**  
+
+&nbsp; Prohlížení obsahu šablony s neaktivními makry.
+
+
+
+* **Inspekce zaměřená na bezpečnost**  
+
+&nbsp; Inspekce struktury bez vystavení systémů rizikům provádění.
+
+
+
+* **Procesy schvalování šablon**  
+
+&nbsp; Hodnocení šablon před řízeným distribuováním.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Bezpečný příjem šablon**  
+
+&nbsp; Prohlížeče v Pythonu zobrazují soubory DOTM bezpepečně během zavádění.
+
+* **Automatizace správy**  
+
+&nbsp; Šablony jsou hodnoceny jako součást automatizovaných kontrol politiky.
+
+* **Předpoužití validačních potrubí**  
+
+&nbsp; Automatizované náhledy podporují pracovní postupy schvalování.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

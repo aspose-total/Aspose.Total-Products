@@ -100,7 +100,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحليل **عروض بوربوينت** باستخدام واجهات برمجة التطبيقات في Python يمكن أن يتيح استخراجًا منظمًا لمحتوى الشرائح، بما في ذلك العناوين ونقاط البند والتخطيطات وملاحظات المتحدث من ملفات العرض. يجعل ذلك المعلومات المستندة إلى العروض متاحة للتحليل وإعادة الاستخدام ودمج الأنظمة.
+
+
+
+عند الاتصال بسير العمل التلقائية، يحول تحليل بوربوينت العروض الثابتة إلى مصادر بيانات ديناميكية تدعم معالجة المعرفة بشكل قابل للتوسيع، وإعداد التقارير، وعمليات المحتوى.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **استخراج محتوى الشرائح**  
+
+&nbsp; يسترد النصوص المنظمة وعناصر التخطيط من شرائح بوربوينت.
+
+
+
+* **معالجة معرفة العروض**  
+
+&nbsp; يحول عروض الشرائح إلى أصول معلوماتية يمكن البحث فيها وتحليلها.
+
+
+
+* **إعادة استخدام وتحويل المحتوى**  
+
+&nbsp; يمكن إعادة استخدام مواد العرض عبر الوثائق والمنصات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **استيعاب العروض التقديمية تلقائيًا**  
+
+&nbsp; يعالج ملفات بوربوينت تلقائيًا كجزء من خطوط الأتمتة.
+
+
+
+* **تلخيص محتوى مستوى الشريحة**  
+
+&nbsp; يولد ملخصات ومخرجات منظمة من البيانات المحللة للشرائح.
+
+
+
+* **توزيع المحتوى برمجيًا**  
+
+&nbsp; يغذي محتوى العروض المستخرجة إلى الأنظمة وسير العمل الناتجة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

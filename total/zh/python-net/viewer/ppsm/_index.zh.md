@@ -89,7 +89,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API查看PPSM文件，可以安全地检查为自动播放而设计的宏启用幻灯片演示文稿。
+
+这支持需要可见性但不执行嵌入式宏的受控自动化工作流程。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **宏启用幻灯片审查**  
+
+  &nbsp; 在保持宏停用的情况下查看幻灯片内容。
+
+
+
+* **播放流程检查**  
+
+  &nbsp; 检查幻灯片顺序和预期自动显示的演示文稿结构。
+
+
+
+* **安全分发验证**  
+
+  &nbsp; 在受控共享或部署之前查看PPSM文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **安全幻灯片接收管道**  
+
+  &nbsp; Python工作流在摄入过程中安全呈现PPSM文件。
+
+
+
+* **合规审查自动化**  
+
+  &nbsp; 将幻灯片视为自动化政策检查的一部分。
+
+
+
+* **预先批准演示文稿工作流程**  
+
+  &nbsp; 自动预览支持人工或基于系统的批准。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

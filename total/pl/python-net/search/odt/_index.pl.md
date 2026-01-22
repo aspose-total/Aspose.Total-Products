@@ -76,7 +76,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Wyszukiwanie plików **ODT** za pomocą interfejsów API w języku Python zapewnia zgodność z otwartymi standardami dokumentów, umożliwiając jednocześnie skuteczne odkrywanie treści. Dokumenty ODT są powszechnie używane w środowiskach open-source i współpracy, gdzie przenośność i przejrzystość są kluczowe.
+
+
+
+Zautomatyzowane wyszukiwanie ODT zwiększa interoperacyjność, wspiera skalowalną analizę dokumentów i ładnie integruje się z nowoczesnymi automatycznymi procesami.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Wyszukiwanie Dokumentów w Otwartym Formacie**  
+
+&nbsp; Znajduje słowa kluczowe w dokumentach opartych na formacie ODT.
+
+
+
+* **Szybka Recenzja Zawartości w Trybie Współpracy**  
+
+&nbsp; Umożliwia szybkie wyszukiwanie w udostępnionych otwartych dokumentach.
+
+
+
+* **Analiza Polityk i Dokumentacji**  
+
+&nbsp; Identyfikuje wymagane sekcje w plikach ODT.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Automatyczne Tworzenie Indeksów ODT**  
+
+&nbsp; Skrypty w języku Python generują indeksy do wyszukiwania z plików ODT.
+
+
+
+* **Wykrywanie Zmian w ODT**  
+
+&nbsp; Programistyczne skany identyfikują zaktualizowane lub zmodyfikowane treści.
+
+
+
+* **Potoki Treści ODT**  
+
+&nbsp; Wydobyte dane zasila zautomatyzowane systemy publikacji i recenzji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

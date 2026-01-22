@@ -79,7 +79,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تستخدم ملفات PDF على نطاق واسع للمستندات ذات التخطيط الثابت حيث يتم توزيع المحتوى عبر الصفحات. يتيح تقسيم ملفات PDF الوصول على مستوى الصفحة أو مستوى القسم دون تعديل الملف الأصلي.
+
+
+
+تعزز عملية تقسيم ملفات PDF بواسطة Python الأتمتة من خلال تمكين معالجة بمقياس كبير، واستخراج انتقائي، والتكامل مع خطوط الأنابيب للمستندات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **استخراج على مستوى الصفحة**  
+
+&nbsp; عزل صفحات محددة للمراجعة أو التوزيع.
+
+
+
+* **تقسيم المستند**  
+
+&nbsp; تقسيم ملفات PDF الكبيرة إلى أقسام منطقية.
+
+
+
+* **الامتثال ومعالجة التدقيق**  
+
+&nbsp; استخراج أجزاء ذات صلة للتحقق.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **أنابيب معالجة ملفات PDF بالدُفعة**  
+
+&nbsp; يتم تقسيم آلاف ملفات PDF تلقائيًا.
+
+
+
+* **فصل الصفحات بناءً على القواعد**  
+
+&nbsp; تقسيم ملفات PDF باستخدام منطق Python.
+
+
+
+* **توزيع المحتوى تلقائيًا**  
+
+&nbsp; يتم توجيه ملفات PDF المستخرجة إلى أنظمة الهدف.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

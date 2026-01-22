@@ -73,7 +73,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Menandatangani file presentasi ODP dengan Python APIs membantu tim mengontrol kualitas rilis dan kepemilikan untuk slide decks yang dibuat dalam format terbuka. Hal ini memastikan bahwa slide decks didistribusikan hanya setelah persetujuan resmi.
+
+
+
+Ketika diotomatisasi, penandatanganan ODP menjadi langkah tata kelola yang dapat diulang dalam alur kerja kolaborasi, meningkatkan kontrol versi dan mencegah slide decks yang belum ditinjau beredar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Persetujuan Rilis Deck Pelatihan**  
+
+  &nbsp; Tandatangani deck pelatihan ODP untuk memastikan kesiapan untuk peluncuran internal.
+
+
+
+* **Konfirmasi Tinjauan Pemangku Kepentingan**  
+
+  &nbsp; Terapkan tanda tangan pada deck ODP setelah tinjauan pemangku kepentingan selesai.
+
+
+
+* **Sertifikasi Presentasi Kepatuhan**  
+
+  &nbsp; Tandatangani deck kebijakan atau kepatuhan untuk mendokumentasikan siapa yang menyetujui versi final.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pemicu Alur Kerja Persetujuan Penandatanganan**  
+
+  &nbsp; Secara otomatis menandatangani file ODP ketika status persetujuan tercatat dalam sistem.
+
+
+
+* **Gerbang Integritas Deck Sebelum Berbagi**  
+
+  &nbsp; Tandatangani deck hanya setelah pemeriksaan mengonfirmasi bahwa slide dan metadata yang diperlukan ada.
+
+
+
+* **Penandatanganan Batch untuk Siklus Rilis**  
+
+  &nbsp; Secara programatik menandatangani beberapa deck ODP sebagai bagian dari siklus rilis yang terjadwal.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

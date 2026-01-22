@@ -85,7 +85,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Menggabungkan gambar PNG menggunakan API Python memungkinkan komposisi gambar tanpa kehilangan kualitas dengan dukungan transparansi. Ini ideal untuk aset desain, elemen UI, dan visual berlapis.
+
+
+
+Automasi memastikan perakitan gambar yang konsisten sambil mempertahankan integritas visual.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Perakitan Aset Transparan (PNG)**  
+
+&nbsp; Menggabungkan gambar PNG sambil mempertahankan saluran alpha.
+
+
+
+* **Komposisi Elemen UI (PNG)**  
+
+&nbsp; Menggabungkan grafis antarmuka ke dalam gambar tunggal.
+
+
+
+* **Konsolidasi Sumber Daya Desain (PNG)**  
+
+&nbsp; Mengumpulkan aset PNG untuk digunakan kembali.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pipa Desain Otomatis (PNG)**  
+
+&nbsp; Sistem menggabungkan aset PNG selama proses pembangunan.
+
+
+
+* **Generasi Gambar Berlapis (PNG)**  
+
+&nbsp; Penggabungan PNG didorong oleh aturan programatis.
+
+
+
+* **Otomatisasi Aset Visual yang Dapat Diskalakan (PNG)**  
+
+&nbsp; Pipa otomatis menghasilkan visual PNG yang digabungkan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

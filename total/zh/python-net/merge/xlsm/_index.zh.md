@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API合并启用宏的Excel电子表格可 consolida数据驱动逻辑、计算和嵌入在工作簿中的自动化。这在运营和财务环境中很常见。
+
+
+
+自动化的XLSM合并确保数据和基于宏的行为在可扩展系统中得以保留。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **基于宏的报告组装（XLSM）**  
+
+  合并包含自动化计算和逻辑的XLSM文件。
+
+
+
+* **运营工作簿合并（XLSM）**  
+
+  在部门之间合并启用宏的电子表格。
+
+
+
+* **流程自动化打包（XLSM）**  
+
+  汇总用于重复运营流程的XLSM文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **基于规则的工作簿生成（XLSM）**  
+
+  系统根据定义的自动化规则合并XLSM文件。
+
+
+
+* **自动化财务建模（XLSM）**  
+
+  XLSM合并支持可重复使用的财务工作流程。
+
+
+
+* **控制的宏保留（XLSM）**  
+
+  自动化流水线合并XLSM文件同时保留宏。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

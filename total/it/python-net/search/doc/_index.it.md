@@ -76,7 +76,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La ricerca dei file **DOC** utilizzando le API di Python consente ai sistemi moderni di estrarre e individuare informazioni dai documenti di elaborazione testi legacy ancora ampiamente utilizzati negli archivi e negli ambienti aziendali. La ricerca programmata garantisce che i dati storici e operativi di valore rimangano accessibili senza revisione manuale.
+
+
+
+Quando integrata nei flussi di lavoro automatizzati, la ricerca dei file DOC migliora l'efficienza consentendo l'elaborazione batch, l'indicizzazione strutturata e l'integrazione senza soluzione di continuità con i data pipeline e i sistemi di gestione documentale.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Ricerca di Documenti Legacy**  
+
+&nbsp; Consente la scoperta basata su parole chiave all'interno dei vecchi file DOC.
+
+
+
+* **Recupero di Contenuti Archiviati**  
+
+&nbsp; Estrae informazioni rilevanti da documenti conservati a lungo termine.
+
+
+
+* **Ricerca di Record di Conformità**  
+
+&nbsp; Individua clausole e dichiarazioni all'interno di record basati su DOC.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Indicizzazione Automatica dei DOC**  
+
+&nbsp; I processi Python scansionano i file DOC e aggiornano gli indici ricercabili automaticamente.
+
+
+
+* **Estrazione Contenuti Batch da DOC**  
+
+&nbsp; Grandi volumi di file DOC vengono elaborati senza sforzo manuale.
+
+
+
+* **Integrazione DOC-con-Sistema**  
+
+&nbsp; I contenuti estratti alimentano i flussi di lavoro di automazione e analisi a valle.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

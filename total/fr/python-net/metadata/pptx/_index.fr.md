@@ -75,7 +75,93 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'extraction des métadonnées de documents pour les fichiers **PPTX** via les API Python offre un accès structuré aux propriétés de présentation modernes, permettant un indexage, une vérification et un suivi du cycle de vie cohérents pour les présentations à grande échelle. Cela est précieux pour les organisations gérant de grands volumes de présentations opérationnelles, de formation ou destinées aux clients.
+
+
+
+Dans les pipelines d'automatisation, les métadonnées PPTX deviennent un plan de contrôle léger pour l'acheminement et la gouvernance : elles prennent en charge la classification automatique, les examens planifiés, les contrôles de publication et les intégrations avec les systèmes de recherche et de gestion de contenu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Catalogue et découverte de présentations**
+
+  Extraire les métadonnées PPTX pour construire des catalogues consultables par sujet, propriétaire et historique des mises à jour.
+
+
+
+* **Gouvernance du cycle de vie des présentations**
+
+  Utiliser les horodatages et les propriétés personnalisées pour imposer des cycles d'examen et des politiques de fraîcheur du contenu.
+
+
+
+* **Attribution automatisée de la propriété**
+
+  Associer les champs de l'auteur et du dernier éditeur aux équipes responsables des approbations et de la maintenance.
+
+
+
+* **Validation de la préparation à la publication**
+
+  S'assurer que les propriétés descriptives requises existent avant qu'une présentation PPTX ne soit distribuée à l'externe.
+
+
+
+* **Pistes de vérification opérationnelles**
+
+  Maintenir des enregistrements d'audit basés sur les métadonnées pour savoir quand les présentations ont été créées, mises à jour et par qui.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Classification et balisage au moment du téléchargement**
+
+  À l'ingestion, extraire les métadonnées PPTX et appliquer automatiquement des balises et des règles de routage de dossiers pour une organisation cohérente.
+
+
+
+* **Génération de tâches d'examen planifiées**
+
+  Créer des tâches d'examen périodiques lorsque les présentations PPTX dépassent les seuils de péremption ou lorsque les métadonnées indiquent des changements de propriété.
+
+
+
+* **Pipeline de distribution contrôlée**
+
+  Autoriser ou restreindre la distribution des présentations PPTX en fonction des indicateurs de métadonnées tels que les catégories réservées à l'interne ou confidentielles.
+
+
+
+* **Synchronisation des métadonnées avec les systèmes de recherche**
+
+  Pousser continuellement les métadonnées PPTX dans un index pour que les présentations soient découvrables sans maintenance manuelle du catalogue.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

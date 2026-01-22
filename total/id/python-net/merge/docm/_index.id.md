@@ -78,7 +78,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Menggabungkan dokumen Word yang mendukung makro menggunakan API Python memungkinkan komposisi dokumen terstruktur sambil mempertahankan logika tertanam dan perilaku dokumen canggih. Hal ini penting untuk lingkungan perusahaan di mana dokumen mencakup otomatisasi, formulir, atau bidang yang dihitung.
+
+
+
+Penggabungan DOCM otomatis mendukung alur kerja dokumen yang dapat diskalakan di mana file yang membawa logika digabungkan dengan handal tanpa intervensi manual, memastikan kelangsungan operasional dan efisiensi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Perakitan Template Berbasis Makro (DOCM)**  
+
+&nbsp; Gabungkan beberapa dokumen yang mendukung makro ke dalam satu dokumen yang dapat dieksekusi.
+
+
+
+* **Penggabungan Dokumen Operasional (DOCM)**  
+
+&nbsp; Konsolidasikan file DOCM yang digunakan di berbagai departemen menjadi file operasional yang terpadu.
+
+
+
+* **Konsolidasi Dokumentasi Proses (DOCM)**  
+
+&nbsp; Gabungkan instruksi dan alat berbasis DOCM ke dalam satu dokumen terkontrol.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Generasi File Kepatuhan Otomatis (DOCM)**  
+
+&nbsp; Sistem menggabungkan file DOCM secara otomatis untuk menghasilkan dokumen siap kepatuhan.
+
+
+
+* **Komposisi Dokumen Berbasis Aturan (DOCM)**  
+
+&nbsp; File DOCM digabungkan secara dinamis berdasarkan aturan alur kerja.
+
+
+
+* **Pemeliharaan Makro yang Dikendalikan Backend (DOCM)**  
+
+&nbsp; Pipa-pipa otomatis menggabungkan file DOCM sambil mempertahankan logika tertanam.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

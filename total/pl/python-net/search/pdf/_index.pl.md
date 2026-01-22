@@ -77,7 +77,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Wyszukiwanie dokumentów w formacie **PDF** za pomocą interfejsów API w języku Python umożliwia niezawodne odkrywanie informacji przechowywanych w jednym z najczęściej używanych formatów do raportów, umów, instrukcji oraz oficjalnych dokumentów. Programistyczne wyszukiwanie w plikach PDF pomaga nowoczesnym systemom odnajdywać istotny tekst i strukturę w dużych zbiorach dokumentów bez konieczności ręcznego czytania.
+
+
+
+Po zintegrowaniu z automatycznymi procesami, wyszukiwanie w plikach PDF wspiera skalowalne indeksowanie, szybsze odzyskiwanie informacji oraz bezproblemową integrację z analizami, zgodnością oraz przepływami zarządzania wiedzą.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe Zastosowania" %}}
+
+
+
+* **Odkrywanie Słów Kluczowych w PDF**  
+
+&nbsp; Znajduje docelowe terminy i frazy w dużych zbiorach dokumentów PDF.
+
+
+
+* **Wyszukiwanie Sekcji Raportu**  
+
+&nbsp; Lokalizuje kluczowe sekcje takie jak podsumowania, tabele i wnioski wewnątrz plików PDF.
+
+
+
+* **Wyszukiwanie w Repozytorium Dokumentów**  
+
+&nbsp; Umożliwia wyszukiwalny dostęp do plików PDF przechowywanych w różnych folderach i systemach.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Automatyczna Rurociągowa Indeksacja PDF**  
+
+&nbsp; Usługi w języku Python wydobywają tekst i aktualizują indeksy wyszukiwania PDF zgodnie z harmonogramem.
+
+
+
+* **Automatyzacja Przeglądu Zgodności w PDF**  
+
+&nbsp; Programistyczne wyszukiwanie wykrywa wymagane klauzule i brakujące oświadczenia w plikach PDF.
+
+
+
+* **Dynamiczne Wyciąganie Wniosków z PDF**  
+
+&nbsp; Wyniki wyszukiwania napędzają automatyczne podsumowania, alerty oraz przepływy przetwarzania na niższym poziomie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -128,7 +196,7 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

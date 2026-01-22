@@ -104,7 +104,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+פיענוח **מסמכי RTF** עם פעולות API ב-Python מאפשר חילוץ מתבנית טקסט קלה ונתמכת היטב ששומרת על עיצוב בסיסי. RTF נהוג לשימוש באינטרופרביליות ובתמיכה בנתונים מורשים.
+
+
+
+פיענוח RTF ידידותי לאוטומציה תומך בחילוץ טקסט מהיר עם עליות מינימליות במבנה.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* **חילוץ מסמכים קלים משקל**  
+
+&nbsp; מחזיר טקסט ממסמכים פורמטים פשוטים.
+
+
+
+* **אינטרופרביליות עם מערכות מורשות**  
+
+&nbsp; מעבד קבצים שנוצרו על ידי עורכים ישנים או מינימליים.
+
+
+
+* **משימות תיקון טקסט**  
+
+&nbsp; ממיר RTF לייצוגים נקיים של טקסט.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **עיבוד טקסט בכמות גדולה**  
+
+&nbsp; מאוטומציה של חילוץ ממערכות RTF גדולות.
+
+
+
+* **צינורות פשוטות של עיבוד פורמט**  
+
+&nbsp; מסיר עיצוב בעוד ששומר על תוכן יסודי.
+
+
+
+* **תמיכה בתמיכה מערכת למערכת בהחלפת נתונים**  
+
+&nbsp; מאפשר קליטה פרוגרמטית של קלטים המבוססים על RTF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

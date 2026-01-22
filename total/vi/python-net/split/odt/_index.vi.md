@@ -79,7 +79,75 @@ Có các tùy chọn thay thế để cài đặt '[Aspose.Words for Python via 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT là một định dạng tài liệu mở được thiết kế cho các tài liệu văn bản có cấu trúc. Chia nhỏ các tệp ODT giúp xử lý theo cấp độ phần và xử lý nội dung có cấu trúc.
+
+
+
+Sử dụng Python APIs, việc chia nhỏ ODT trở nên có thể mở rộng và phù hợp cho các đường ống tài liệu tự động.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Trích Xuất Nội Dung Có Cấu Trúc**  
+
+&nbsp; Trích xuất các chương hoặc phần độc lập.
+
+
+
+* **Lưu Trữ Định Dạng Mở**  
+
+&nbsp; Bảo tồn và quản lý nội dung ở mức độ cụ thể.
+
+
+
+* **Xử Lý Tài Liệu Hợp Tác**  
+
+&nbsp; Kích hoạt luồng công việc song song trên các phần tài liệu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Phân Tích Phần Dựa Trên XML**  
+
+&nbsp; Python xác định các đánh dấu cấu trúc để chia nhỏ.
+
+
+
+* **Phân Loại Nội Dung Tự Động**  
+
+&nbsp; Các phần được trích xuất được phân loại theo chương trình.
+
+
+
+* **Định Tuyến Tài Liệu Theo Luồng Công Việc**  
+
+&nbsp; Các phần chuyển đến các hệ thống khác một cách tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

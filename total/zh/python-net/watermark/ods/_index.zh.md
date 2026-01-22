@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API为ODS电子表格添加水印**ODS**，可以通过添加可见的治理标签来提高对开放文档电子表格的控制，包括所有权、保密性和分发。
+
+自动化ODS水印支持可扩展的报告工作流程，确保在开放格式中共享的数据集中具有一致的政策指示符。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **机密数据表格标记**  
+
+&nbsp; 标记敏感的ODS文件，以减少意外外部共享的风险。
+
+
+
+* **初步数据标签**  
+
+&nbsp; 在早期数据验证周期中应用“未经验证”叠加。
+
+
+
+* **合作伙伴数据使用通知**  
+
+&nbsp; 添加可见通知，澄清许可和重用限制。
+
+
+
+* **内部审计跟踪支持**  
+
+&nbsp; 添加水印导出，以明确显示哪个系统生成了特定数据集。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **ETL导出水印**  
+
+&nbsp; 在从自动化数据管道生成时自动标记ODS文件。
+
+
+
+* **基于角色的水印文本**  
+
+&nbsp; 根据接收团队或访问级别定制水印内容。
+
+
+
+* **定时报告分发控制**  
+
+&nbsp; 在发送定期ODS报告之前应用时间戳水印。
+
+
+
+* **自动保留策略标记**  
+
+&nbsp; 添加可视化保留标签，以支持存储电子表格的生命周期自动化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

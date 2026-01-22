@@ -79,7 +79,85 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'apposizione di filigrane ai documenti **Word** con API Python aiuta a proteggere i file di testo aziendali incorporando etichette visibili per la proprietà, la riservatezza e le regole di distribuzione in documenti spesso condivisi e modificati.
+
+L'automazione consente di applicare in modo coerente le filigrane Word in tutto il team e le librerie di documenti, riducendo lo sforzo manuale e garantendo chiarezza nella governance e nei flussi di lavoro.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Documenti di Politiche Riservate**  
+
+&nbsp; Aggiungi segni di riservatezza per ridurre l'inoltro accidentale delle linee guida interne.
+
+
+
+* **Governance delle Bozze per Documenti Collaborativi**  
+
+&nbsp; Applica etichette "BOZZA" per evitare che le versioni obsolete vengano considerate definitive.
+
+
+
+* **Attribuzione dei Documenti per i Clienti**  
+
+&nbsp; Applica filigrane ai file Word condivisi per chiarire la proprietà e il riutilizzo consentito.
+
+
+
+* **Etichettatura del Modello di Output Controllato**  
+
+&nbsp; Assicurati che i documenti Word generati automaticamente includano le politiche standard sulle filigrane.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Automazione delle Filigrane da Modello a Documento**  
+
+&nbsp; Applica le filigrane immediatamente dopo la generazione dei documenti Word da dati strutturati.
+
+
+
+* **Cambio di Filigrana in Base allo Stato del Flusso di Lavoro**  
+
+&nbsp; Cambia automaticamente il testo della filigrana quando i documenti passano da bozza ad approvati.
+
+
+
+* **Applicazione delle Politiche di Caricamento nel Repository**  
+
+&nbsp; Applica filigrane ai file Word durante il caricamento nelle cartelle regolamentate o nei sistemi di gestione dei casi.
+
+
+
+* **Filigranatura Specifica per Destinatario per la Condivisione**  
+
+&nbsp; Incorpora identificatori del destinatario per migliorare la tracciabilità quando i documenti vengono condivisi esternamente.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

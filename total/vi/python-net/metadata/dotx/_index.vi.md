@@ -98,7 +98,93 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Words for Python via 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Trích xuất siêu dữ liệu tài liệu cho các tệp **DOTX** thông qua Python APIs cung cấp một cách có cấu trúc để quản lý các tệp mẫu hiện đại bằng cách đọc các thuộc tính như tiêu đề mẫu, chi tiết tác giả và lịch sử cập nhật. Điều này cải thiện quản trị và đảm bảo việc tạo tài liệu luôn nhất quán và phù hợp với chính sách.
+
+
+
+Trong các đường ống tự động hóa, siêu dữ liệu DOTX hữu ích cho việc giải quyết mẫu, quy trình phê duyệt và kiểm soát vòng đời—cho phép các hoạt động mẫu có thể mở rộng giảm thiểu các kiểm tra thủ công và sự lệch cấu hình.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Khám Phá và Tìm Kiếm Mẫu**
+
+  Trích xuất siêu dữ liệu DOTX để làm cho các mẫu có thể tìm kiếm theo mục đích, bộ phận hoặc loại tài liệu dự định.
+
+
+
+* **Theo Dõi Trạng Thái Phê Duyệt**
+
+  Sử dụng các thuộc tính tùy chỉnh để theo dõi xem một mẫu có phải là bản nháp, đã được phê duyệt hay đã bị loại bỏ.
+
+
+
+* **Ánh Xạ Sở Hữu Mẫu**
+
+  Xác định người duy trì và tác giả để chuyển hướng yêu cầu cập nhật và nhiệm vụ trách nhiệm.
+
+
+
+* **Đảm Bảo Sự Nhất Quán cho Các Tài Liệu Được Tạo Ra**
+
+  Xác minh rằng các quy trình làm việc đang sử dụng mẫu DOTX đúng dựa trên các định danh siêu dữ liệu.
+
+
+
+* **Quản Trị Thay Đổi Mẫu**
+
+  Theo dõi lịch sử sửa đổi để phát hiện các chỉnh sửa không mong muốn đối với các mẫu được kiểm soát.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Bảng Đăng Ký Mẫu Dựa Trên Siêu Dữ Liệu**
+
+  Tự động nhập siêu dữ liệu DOTX vào dịch vụ bảng đăng ký được sử dụng bởi các hệ thống tạo tài liệu.
+
+
+
+* **Luồng Xử Lý Mẫu Bị Loại Bỏ**
+
+  Chuyển hướng các mẫu DOTX bị loại bỏ đến một lưu trữ và ngăn chặn việc sử dụng dựa trên các cờ siêu dữ liệu.
+
+
+
+* **Kiểm Tra QA Mẫu Tự Động**
+
+  Chạy các kiểm tra đảm bảo rằng các thuộc tính DOTX cần thiết tồn tại và phù hợp với các tiêu chuẩn tổ chức trước khi phát hành.
+
+
+
+* **Định Tuyến Quy Trình Cập Nhật Mẫu**
+
+  Khi siêu dữ liệu DOTX cho thấy một thay đổi, tự động tạo nhiệm vụ xem xét cho người duy trì được chỉ định.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

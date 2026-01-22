@@ -76,7 +76,75 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API搜索**DOCX**文件可靠地访问结构化和现代的文字处理文档。DOCX文件包含丰富的文本、标题、表格和元数据，可供程序分析以进行高级搜索和检索。
+
+
+
+自动化准备的DOCX搜索支持可扩展的内容管理、知识提取和智能文档处理跨企业系统。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* **结构化文本搜索**  
+
+  &nbsp; 可精确搜索标题、段落和表格。
+
+
+
+* **基于元数据的发现**  
+
+  &nbsp; 使用文档属性提高搜索准确性。
+
+
+
+* **知识库生成**  
+
+  &nbsp; 将DOCX内容转换为可搜索的知识资产。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **持续的DOCX索引更新**  
+
+  &nbsp; Python服务监视并索引新的或更新的DOCX文件。
+
+
+
+* **自动化内容分类**  
+
+  &nbsp; 根据内容自动对DOCX文档进行分类。
+
+
+
+* **DOCX工作流集成**  
+
+  &nbsp; 搜索结果动态驱动仪表板和内容系统。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

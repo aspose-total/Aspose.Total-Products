@@ -78,7 +78,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Łączenie arkuszy kalkulacyjnych OpenDocument za pomocą interfejsów API w języku Python wspiera standardy otwarte i przepływy pracy danych międzyplatformowe. Jest to idealne rozwiązanie dla środowisk opierających się na narzędziach biurowych typu open-source.
+
+
+
+Automatyzacja wokół łączenia plików ODS zapewnia interoperacyjność przy zachowaniu integralności struktury danych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+
+
+* **Konsolidacja Arkuszy Kalkulacyjnych Międzyplatformowych (ODS)**  
+
+&nbsp; Łączenie plików ODS utworzonych w różnych pakietach biurowych.
+
+
+
+* **Agregacja Danych w Standardzie Otwartym (ODS)**  
+
+&nbsp; Łączenie arkuszy kalkulacyjnych ODS w celu jednolitej analizy.
+
+
+
+* **Kompilacja Danych w Trybie Współpracy (ODS)**  
+
+&nbsp; Łączenie plików ODS od rozproszonych współpracowników.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Automatyzacja Potoku Danych Otwartych (ODS)**  
+
+&nbsp; Systemy łączą pliki ODS bez zależności od własności intelektualnej.
+
+
+
+* **Zaplanowana Kompilacja Arkuszy Kalkulacyjnych (ODS)**  
+
+&nbsp; Łączenie plików ODS jest wykonywane jako część cyklicznych zadań backendowych.
+
+
+
+* **Interoperacyjne Potoki Raportowania (ODS)**  
+
+&nbsp; Pliki ODS są łączone dynamicznie w przepływach danych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

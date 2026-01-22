@@ -90,7 +90,73 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A DOCM dokumentumok megtekintése Python API-k segítségével lehetővé teszi a makrókkal ellátott dokumentumok biztonságos ellenőrzését anélkül, hogy az ágyazott logika végrehajtódna.
+
+Ez alapvető fontosságú ellenőrzött környezetekben, ahol a láthatóság szükséges a biztonsági kockázat nélkül.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Makró-kompatibilis dokumentumok áttekintése**  
+
+&nbsp; Tartalom megtekintése makrók inaktív állapotban.
+
+
+
+* **Biztonságcentrikus ellenőrzés**  
+
+&nbsp; Dokumentumok vizsgálata szerkezetük és szövegük tekintetében végrehajtás nélkül.
+
+
+
+* *\{Kontrollált dokumentumhozzáférés**  
+
+&nbsp; Biztonságos megtekintés engedélyezése korlátozott vagy automatizált rendszerekben.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Biztonságos beviteli csatornák**  
+
+&nbsp; A Python automatizálás lehetővé teszi a DOCM tartalom megjelenítését anélkül, hogy aktiválná a makrókat.
+
+
+
+* **Megfelelőségi ellenőrzés automatizálása**  
+
+&nbsp; A dokumentumok automatizáltan kerülnek megtekintésre a politikai ellenőrzések részeként.
+
+
+
+* **Előzetes jóváhagyási folyamatok**  
+
+&nbsp; Az automatizált előnézetek támogatják az emberi jóváhagyásokat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

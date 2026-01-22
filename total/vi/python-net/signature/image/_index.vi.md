@@ -71,7 +71,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Imaging for Python via
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chữ ký hình ảnh chung với Python APIs cung cấp một phương pháp thống nhất để áp dụng dấu phê duyệt và siêu dữ liệu xác thực trên các nguồn hình ảnh kết hợp. Điều này hữu ích khi các đường ống tiếp nhận hình ảnh từ nhiều công cụ và cần có quản lý nhất quán.
+
+
+
+Khi tự động hóa, việc ký hình ảnh thúc đẩy trạng thái "tác phẩm được phê duyệt" chuẩn, đảm bảo các hệ thống hạ nguồn chỉ tiêu thụ tài sản đáp ứng yêu cầu về chất lượng, chính sách hoặc tuân thủ.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tiêu Chuẩn Hóa Tài Sản Từ Nguồn Khác Nhau**  
+
+&nbsp; Áp dụng một lớp phủ chữ ký nhất quán cho hình ảnh đến từ các công cụ và nhóm khác nhau.
+
+
+
+* **Xác Thực Hình Ảnh Chứng Cứ**  
+
+&nbsp; Ký hình ảnh được sử dụng như bằng chứng để xác nhận danh tính và trạng thái phê duyệt của người xem.
+
+
+
+* **Kiểm Soát Phân Phối Tài Sản Được Phê Duyệt**  
+
+&nbsp; Đánh dấu hình ảnh là đã được phê duyệt trước khi chúng được bao gồm trong gói phân phối.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Đánh Dấu Phê Duyệt Tại Thời Điểm Tiếp Nhận**  
+
+&nbsp; Ký hình ảnh trong quá trình tiếp nhận sau khi kiểm tra quy tắc và siêu dữ liệu xác thực hoàn tất.
+
+
+
+* **Thực Thi Kiểm Tra Chính Sách**  
+
+&nbsp; Tự động ký chỉ những hình ảnh vượt qua các quy tắc chính sách và an toàn tự động.
+
+
+
+* **Hoàn Thành Đồng Bộ Hóa Kho Lưu Trữ**  
+
+&nbsp; Ký hình ảnh trước khi đồng bộ hóa với kho lưu trữ chia sẻ để đảm bảo chỉ các phiên bản đã được xác minh lan truyền.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

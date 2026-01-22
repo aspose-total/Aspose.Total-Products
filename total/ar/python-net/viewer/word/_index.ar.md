@@ -90,7 +90,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+عرض مستندات Word باستخدام واجهات برمجة التطبيقات في Python يوفر طريقة موحدة لفحص الملفات القائمة على النصوص عبر عدة تنسيقات متوافقة مع Word.
+
+يدعم هذا التعامل المتسق مع المستندات في الأنظمة الآلية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **مراجعة المستندات الموحدة**  
+
+&nbsp; عرض مستندات Word المختلفة من خلال واجهة واحدة.
+
+
+
+* **فحص توحيد المحتوى**  
+
+&nbsp; فحص النصوص والهيكل عبر الملفات.
+
+
+
+* **تكامل سير العمل**  
+
+&nbsp; تضمين عرض المستند في خطوط معالجة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **أنابيب المحتوى الآلي**  
+
+&nbsp; تقوم عمليات Python بتقديم مستندات Word أثناء سير العمل المتعدد الخطوات.
+
+
+
+* **خدمات المعاينة**  
+
+&nbsp; يتم عرض المستندات ديناميكيًا للمراجعة أو الموافقة.
+
+
+
+* **عمليات المستندات الدفعية**  
+
+&nbsp; يتم عرض مجموعات كبيرة من ملفات Word بشكل برمجي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

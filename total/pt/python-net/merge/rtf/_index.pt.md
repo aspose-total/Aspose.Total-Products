@@ -78,7 +78,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/wor
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A fusão de documentos no formato Rich Text Format usando APIs Python permite a consolidação leve de documentos, preservando a formatação básica e a legibilidade. O RTF é amplamente utilizado para interoperabilidade entre plataformas e sistemas.
+
+
+
+A fusão automatizada de RTF suporta o processamento rápido e programático de documentos em ambientes onde a simplicidade e a compatibilidade são críticas.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Compilação Leve de Documentos (RTF)**  
+
+&nbsp; Mesclar vários arquivos RTF em um único documento legível.
+
+
+
+* **Troca de Conteúdo entre Sistemas (RTF)**  
+
+&nbsp; Combinar documentos RTF compartilhados entre sistemas heterogêneos.
+
+
+
+* **Preservação de Formatação Simples (RTF)**  
+
+&nbsp; Agregar arquivos RTF mantendo a formatação essencial.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Pipelines de Processamento de Texto em Back-End (RTF)**  
+
+&nbsp; A fusão de RTF é automatizada dentro de serviços de processamento de texto.
+
+
+
+* **Manuseio de Documentos em Alto Volume (RTF)**  
+
+&nbsp; Sistemas mesclam grandes quantidades de arquivos RTF programaticamente.
+
+
+
+* **Automação com Foco em Compatibilidade (RTF)**  
+
+&nbsp; Arquivos RTF são mesclados automaticamente para máxima portabilidade.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

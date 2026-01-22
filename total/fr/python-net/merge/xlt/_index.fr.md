@@ -78,7 +78,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusion des formats de modèles Excel à l'aide des API Python garantit une structure et une mise en page cohérentes dans les feuilles de calcul générées. La fusion basée sur des modèles est essentielle pour les rapports normalisés et les flux de travail de saisie de données.
+
+
+
+L'automatisation permet de générer rapidement des feuilles de calcul uniformes sans mise en forme manuelle.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+- **Assemblage de feuilles de calcul basé sur des modèles (XLT)**  
+
+&nbsp; Fusionner des fichiers basés sur XLT pour imposer des mises en page cohérentes.
+
+
+
+- **Collecte de données normalisée (XLT)**  
+
+&nbsp; Combinez des feuilles de calcul basées sur des modèles en un seul fichier.
+
+
+
+- **Structures de feuilles de calcul réutilisables (XLT)**  
+
+&nbsp; Agréger des documents XLT pour maintenir un design uniforme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+- **Application automatisée de modèles (XLT)**  
+
+&nbsp; Les fichiers XLT sont fusionnés automatiquement lors de la génération.
+
+
+
+- **Traitement par lots de modèles (XLT)**  
+
+&nbsp; Les tâches planifiées fusionnent plusieurs feuilles de calcul basées sur XLT.
+
+
+
+- **Automatisation contrôlée par la mise en page (XLT)**  
+
+&nbsp; Les systèmes fusionnent les fichiers XLT pour garantir la cohérence du format.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

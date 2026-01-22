@@ -82,7 +82,73 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La visualisation des fichiers JPEG et JPG avec des API Python permet une inspection efficace des images compressées largement utilisées à travers les systèmes.
+
+Cela prend en charge des flux de travail visuels évolutifs où la performance et la compatibilité sont importantes.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Révision d'images compressées**  
+
+&nbsp; Visualisez des images optimisées pour le stockage et la transmission.
+
+
+
+* **Validation de contenu visuel**  
+
+&nbsp; Inspectez les images pour en vérifier la clarté et la correction.
+
+
+
+* **Gestion des actifs médias**  
+
+&nbsp; Examinez les actifs d'images couramment utilisés de manière programmable.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Pipelines médias automatisés**  
+
+&nbsp; Les fichiers JPEG sont rendus lors de flux de travaux par lots.
+
+
+
+* **Systèmes d'optimisation de prévisualisation**  
+
+&nbsp; Les images sont affichées dynamiquement pour une révision rapide.
+
+
+
+* **Vérifications de qualité des actifs**  
+
+&nbsp; Les visualiseurs Python prennent en charge les inspections automatisées.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

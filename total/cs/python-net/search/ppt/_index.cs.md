@@ -76,7 +76,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Vyhledávání souborů **PPT** pomocí Python API umožňuje přístup k důležitým obchodním, školicím a strategickým informacím uloženým v historických prezentacích. Automatizované vyhledávání zajistí, že staré prezentace zůstanou použitelné a prohledatelné v širokém měřítku.
+
+
+
+Integrací vyhledávání v PPT do automatizovaných systémů organizace snižují manuální úsilí a odemykají poznatky z archivovaného obsahu prezentací.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Vyhledávání obsahu starých prezentací**  
+
+&nbsp; Najde klíčová slova ve starších souborech prezentací PPT.
+
+
+
+* **Obnovení archivovaných prezentací**  
+
+&nbsp; Umožňuje objevování historických souborů prezentací.
+
+
+
+* **Extrakce textu z PPT**  
+
+&nbsp; Extrahuje text snímků pro indexaci a analýzu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* **Automatizované prohledávání repozitáře PPT**  
+
+&nbsp; Pythonové úlohy prohledávají soubory PPT pro prohledatelný obsah.
+
+
+
+* **Vytváření indexu archivovaných prezentací**  
+
+&nbsp; Staré prezentace jsou indexovány programově.
+
+
+
+* **Integrace obsahu PPT**  
+
+&nbsp; Extrahovaná data poskytují zpravodajské a analytické pracovní postupy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

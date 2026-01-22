@@ -76,7 +76,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η κατηγορία μορφής Word αντιπροσωπεύει κείμενα που χρησιμοποιούνται σε σχέδια, αναφορές και συνεργατικές ροές εργασίας. Η προστασία των αρχείων Word εξασφαλίζει την εμπιστευτικότητα, την ακεραιότητα και την ελεγχόμενη πρόσβαση σε όλη τη διάρκεια του κύκλου ζωής τους.
+
+
+
+Οι Python APIs επιτρέπουν την αυτοματοποίηση της προστασίας των εγγράφων Word, καθιστώντας την ασφάλεια μια ενσωματωμένη δυνατότητα των σύγχρονων συστημάτων διαχείρισης περιεχομένου και εγγράφων.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* **Προστασία Ευαίσθητου Περιεχομένου**  
+
+&nbsp; Ασφαλίστε τα έγγραφα Word που περιέχουν εμπιστευτικές πληροφορίες.
+
+
+
+* **Επιβολή Περιορισμών Επεξεργασίας**  
+
+&nbsp; Ελέγξτε ποιος μπορεί να τροποποιήσει ή να ελέγξει τα έγγραφα.
+
+
+
+* **Ασφάλεια Κύκλου Ζωής Εγγράφων**  
+
+&nbsp; Προστατέψτε τα αρχεία σε διαφορετικά στάδια δημιουργίας και έγκρισης.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* **Αυτοματοποιημένη Προστασία Αρχείων Word**  
+
+&nbsp; Εφαρμόστε κανόνες ασφαλείας αυτόματα κατά τη δημιουργία εγγράφου.
+
+
+
+* **Ελέγχοι Εγγράφων Βασισμένοι σε Ρόλους**  
+
+&nbsp; Προστατεύστε δυναμικά τα αρχεία Word βάσει των ρόλων χρηστών.
+
+
+
+* **Ασφαλείς Ροές Εργασίας Από άκρο σε άκρο**  
+
+&nbsp; Ενσωματώστε την προστασία Word σε πλήρως αυτοματοποιημένες διαδικασίες εγγράφων.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

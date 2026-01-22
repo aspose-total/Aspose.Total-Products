@@ -74,7 +74,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+כתיבת מסמך באמצעות Python APIs עבור קבצי DOC מאפשרת לארגונים להסיר מידע רגיש ממסמכים בפורמט וורד המשמשים עדיין באופן נרחב בעסקים. היכולת הזו חיונית להתאמת תקנים, להגנת נתונים ולשיתוף מסמכים בסביבות מוחלטות.
+
+
+
+על ידי שילוב של תהליך המחיקה המבוסס על Python לתהליכי עבודה אוטומטיים, ניתן לעבד קבצי DOC בקנה מידה רחב, מבטיח הטמעה עקבית של כללי הפרטיות של נתונים ומפחית את המאמץ הידני ושגיאות האדם.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **התאמת תקני מסמך מותרים**  
+
+&nbsp; למחוק נתונים סודיים מקבצי DOC ישנים כדי לעמוד בדרישות רגולציה ובדרישות בדיקה.
+
+
+
+* **שיתוף פנימי מאובטח**  
+
+&nbsp; להסיר סעיפים רגישים לפני הפצת מסמכים בין מחלקות או צוותים.
+
+
+
+* **ניקוי ארכיון היסטורי**  
+
+&nbsp; לנקות קבצי DOC מאורכונים כדי להבטיח שהם בטוחים לאחסון לטווח ארוך או לגישה ציבורית.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **צינורות מחיקה רצפיים**  
+
+&nbsp; לאוטומציה של מחיקת אלפי קבצי DOC באמצעות עבודות Python מתוזמנות.
+
+
+
+* **מסיכת טקסט על פי כללים**  
+
+&nbsp; ליישם תבניות מוגדרות מראש לזיהוי ומחיקת מונחים רגישים באופן אוטומטי.
+
+
+
+* **אוטומציה של תהליך קליטת מסמך**  
+
+&nbsp; לשלב מחיקה לתהליכי קליטה לפני שהמסמכים נכנסים למערכות אחסון.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

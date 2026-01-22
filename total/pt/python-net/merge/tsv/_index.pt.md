@@ -78,7 +78,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/cel
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A fusão de arquivos de valores separados por tabulação usando APIs Python permite a combinação rápida e leve de dados tabulares estruturados. TSV é comumente usado para troca de dados e pré-processamento.
+
+
+
+A fusão automatizada de TSV suporta pipelines de dados de alto desempenho e fluxos de trabalho analíticos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Agregação de Dados Brutos (TSV)**  
+
+&nbsp; Mesclar arquivos TSV em um único conjunto de dados para processamento.
+
+
+
+* **Troca de Dados de Sistema para Sistema (TSV)**  
+
+&nbsp; Combinar exportações TSV de diferentes plataformas.
+
+
+
+* **Preparação de Dados Pré-Análise (TSV)**  
+
+&nbsp; Mesclar arquivos TSV antes da transformação analítica.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Processamento de Dados Baseado em Fluxo (TSV)**  
+
+&nbsp; Sistemas automatizados mesclam arquivos TSV em fluxos de dados.
+
+
+
+* **Operações de ETL em Lote (TSV)**  
+
+&nbsp; A fusão de TSV ocorre durante trabalhos de ETL agendados.
+
+
+
+* **Pipelines de Dados Tabulares Escaláveis (TSV)**  
+
+&nbsp; A fusão programática suporta grandes conjuntos de dados TSV.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

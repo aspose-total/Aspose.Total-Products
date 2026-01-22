@@ -71,7 +71,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Файли PPT представляють старі формати презентацій, які можуть бути захищені та широко зберігатися. Програмне розблокування їх забезпечує подальшу доступність та модернізацію спадкових активів презентацій.
+
+
+
+Python APIs дозволяють автоматизувати розблокування PPT, що дозволяє інтегрувати його з системами конвертації, аналізу та архівації.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* **Доступ до спадкових презентацій**  
+
+&nbsp; Дозволяє повторне використання захищеного вмісту зі старих файлів презентацій.
+
+
+
+* **Збереження історичного контенту**  
+
+&nbsp; Підтримує інспекцію перед міграцією спадкових презентацій.
+
+
+
+* **Вилучення даних слайдів**  
+
+&nbsp; Дозволяє отримати доступ до захищеного тексту та елементів макету.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Трубопроводи міграції у старі формати**  
+
+&nbsp; Файли PPT автоматично розблоковуються та конвертуються.
+
+
+
+* **Автоматизоване архівування слайдів**  
+
+&nbsp; Захищені файли розблоковуються під час етапів перевірки архівації.
+
+
+
+* **Індексація вмісту презентацій**  
+
+&nbsp; Розблокування дозволяє здійснювати пошукову індексацію старих наборів слайдів.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

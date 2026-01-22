@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'estampillage des feuilles de calcul **XLS** avec des API Python aide à protéger les anciens fichiers Excel en ajoutant des indices de propriété et de confidentialité visibles aux artefacts de données encore largement utilisés dans les flux de travail de reporting plus anciens.
+
+L'automatisation rend l'estampillage XLS pratique pour de grands archives, garantissant une gouvernance cohérente sans édition manuelle de chaque classeur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Protection des feuilles de finances héritées**  
+
+&nbsp; Ajouter des étiquettes de confidentialité aux anciennes feuilles de budget et de prévisions XLS.
+
+
+
+* **Marques de propriété pour les rapports opérationnels**  
+
+&nbsp; Apposer des marques sur les rapports XLS pour maintenir l'identité de la source à travers les copies transmises.
+
+
+
+* **Indicateurs de données provisoires**  
+
+&nbsp; Appliquer des filigranes "PRÉLIMINAIRE" pour réduire les erreurs liées aux chiffres non validés.
+
+
+
+* **Contrôles de distribution pour le partage externe**  
+
+&nbsp; Intégrer des restrictions d'utilisation visibles sur les feuilles de calcul héritées partagées avec des fournisseurs.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Estampillage automatisé des archives**  
+
+&nbsp; Filigraner les fichiers XLS lors de la migration vers de nouveaux systèmes de stockage ou de gouvernance.
+
+
+
+* **Surveillant de dossier pour les rapports entrants**  
+
+&nbsp; Détecter les nouvelles chutes de fichiers XLS et appliquer automatiquement des filigranes conformes à la politique standard.
+
+
+
+* **Filigrane basé sur les règles de type de rapport**  
+
+&nbsp; Choisir le contenu du filigrane en fonction des modèles de noms de fichiers ou des métadonnées de classification.
+
+
+
+* **Estampillage des exportations planifiées**  
+
+&nbsp; Apposer des filigranes sur les exportations XLS automatisées avant leur livraison aux parties prenantes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

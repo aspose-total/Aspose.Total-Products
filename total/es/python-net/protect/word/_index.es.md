@@ -76,7 +76,41 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La categoría de formato Word representa documentos de texto utilizados en flujos de trabajo de redacción, informes y colaboración. Proteger los archivos de Word garantiza la confidencialidad, integridad y acceso controlado a lo largo de su ciclo de vida.
+
+Las API de Python permiten automatizar la protección de documentos de Word, convirtiendo la seguridad en una capacidad integrada de los sistemas modernos de gestión de contenido y documentos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+- **Protección de contenido sensible**
+  Proteger documentos de Word que contienen información confidencial.
+
+- **Aplicación de restricciones de edición**
+  Controlar quién puede modificar o revisar documentos.
+
+- **Seguridad en el ciclo de vida del documento**
+  Proteger archivos en diferentes etapas de creación y aprobación.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+- **Protección automatizada de archivos de Word**
+  Aplicar reglas de seguridad automáticamente durante la creación de documentos.
+
+- **Controles de documentos basados en roles**
+  Proteger archivos de Word dinámicamente en función de los roles de usuario.
+
+- **Flujos de trabajo seguros de principio a fin**
+  Integrar la protección de Word en flujos de trabajo de documentos totalmente automatizados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

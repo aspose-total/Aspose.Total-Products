@@ -98,7 +98,93 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'extraction des métadonnées de documents pour les fichiers **Word** via des API Python permet la capture programmatique des propriétés essentielles des documents de traitement de texte, telles que le titre, l'auteur, les horodatages et les champs personnalisés, soutenant ainsi la gouvernance, l'enrichissement de la recherche et la gestion du cycle de vie. Ceci est essentiel pour les opérations lourdes en documents où l'inspection manuelle n'est pas scalable.
+
+
+
+Lorsqu'il est connecté à des systèmes d'automatisation, les métadonnées Word deviennent une couche fiable pour l'acheminement, la validation et l'indexation, aidant les flux de travail modernes à s'exécuter plus rapidement, à appliquer les normes de manière cohérente et à s'intégrer en douceur avec les services de stockage, de recherche et de reporting.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Indexation de documents d'entreprise**
+
+&nbsp; Extraire les métadonnées pour peupler des catalogues qui soutiennent une recherche rapide et une organisation cohérente.
+
+
+
+* **Validation de la conformité aux politiques**
+
+&nbsp; Vérifier que les champs de métadonnées requis existent avant que les documents puissent entrer dans des référentiels contrôlés ou des flux de publication.
+
+
+
+* **Cartographie de la propriété et de la responsabilité**
+
+&nbsp; Utiliser les propriétés d'auteur et d'éditeur pour attribuer des responsabilités de révision et de maintenance.
+
+
+
+* **Gestion du cycle de vie et de la rétention**
+
+&nbsp; Utiliser les horodatages de création et de modification pour automatiser les décisions de rétention et d'archivage.
+
+
+
+* **Analyse opérationnelle et insights**
+
+&nbsp; Agréger les métadonnées à travers les documents Word pour révéler l'obsolescence, les lacunes de couverture et les goulots d'étranglement des processus.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Acheminement de documents basé sur les métadonnées**
+
+&nbsp; Acheminer automatiquement les fichiers Word vers des voies de révision, d'approbation ou d'archivage en fonction des seuils de métadonnées et des règles de complétude.
+
+
+
+* **Synchronisation automatisée des catalogues**
+
+&nbsp; Extraire les métadonnées Word selon un calendrier et les synchroniser dans des index internes pour une découverte toujours à jour.
+
+
+
+* **Gestion des exceptions de gouvernance**
+
+&nbsp; Détecter les propriétaires manquants, les horodatages suspects ou les champs invalides et créer automatiquement des tâches de remédiation.
+
+
+
+* **Préparation de la publication programmatique**
+
+&nbsp; Utiliser les métadonnées Word pour pré-remplir les champs de publication (titres, résumés, catégories) et garantir la cohérence des sorties.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

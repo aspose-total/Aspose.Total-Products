@@ -90,7 +90,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API查看DOC文件允许结构化访问传统文字处理文档，以便进行阅读和检查。
+
+这支持在仍依赖于旧文件标准的系统中进行自动化文档处理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **传统文档检查**  
+
+&nbsp; 打开和查看旧文本文档，无需手动转换。
+
+
+
+* **内容验证**  
+
+&nbsp; 通过程序自动审核文档文本和布局的准确性。
+
+
+
+* **文档迁移支持**  
+
+&nbsp; 在将DOC文件转换为新格式之前检查它们。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化传统审核**  
+
+&nbsp; Python工作流程渲染DOC文件以确认可读性，然后再进行处理。
+
+
+
+* **批量文档审查**  
+
+&nbsp; 自动查看大量文档以进行合规性检查。
+
+
+
+* **转换前验证**  
+
+&nbsp; 自动查看确保文档在格式升级之前完整。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

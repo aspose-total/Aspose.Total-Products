@@ -71,7 +71,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La firma dei file BMP utilizzando le API di Python consente l'approvazione e la convalida di asset basati su bitmap come scansioni, diagrammi e visualizzazioni operative. Ciò garantisce che i dati visivi utilizzati nei flussi di lavoro portino con sé un chiaro contesto di proprietà e approvazione.
+
+
+
+Quando integrata in pipeline automatizzate, la firma BMP agisce come un passaggio di verifica finale, garantendo che solo asset visivi revisionati e approvati procedano nel sistema di elaborazione o distribuzione.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Approvazione dei diagrammi operativi**  
+
+&nbsp; Applicare timbri di approvazione ai diagrammi BMP utilizzati nell'ingegneria o nella documentazione interna.
+
+
+
+* **Verifica delle scansioni per i record**  
+
+&nbsp; Firmare i file BMP scansionati per confermare l'autenticità prima dell'archiviazione o della conservazione della conformità.
+
+
+
+* **Conferma della QA visiva**  
+
+&nbsp; Contrassegnare gli asset BMP come controllati dalla qualità prima del consumo a valle.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Iniezione automatica di timbri di QA**  
+
+&nbsp; I file BMP vengono firmati automaticamente dopo aver superato le regole di convalida dell'immagine.
+
+
+
+* **Segnalazione del completamento del flusso di lavoro**  
+
+&nbsp; La firma avviene quando un flusso di lavoro operativo raggiunge l'approvazione finale.
+
+
+
+* **Elaborazione batch dell'approvazione visiva**  
+
+&nbsp; Diversi file BMP vengono firmati in modo programmato nei processi in blocco.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

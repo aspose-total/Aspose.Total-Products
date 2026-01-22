@@ -71,7 +71,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Penandatanganan programatis file DOC memungkinkan dokumen Word lama membawa indikator persetujuan formal tanpa konversi format. Ini mempertahankan kompatibilitas dengan sistem dokumen lama sambil menambahkan tata kelola.
+
+
+
+Automatisasi berbasis Python memastikan penandatanganan DOC terjadi secara konsisten, mengurangi intervensi manual dalam alur kerja dokumen lama yang padat.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Kunci" %}}
+
+
+
+* **Persetujuan Kontrak Warisan**  
+
+  Tambahkan detail penandatangan ke kontrak DOC yang digunakan dalam sistem-sistem lama.
+
+
+
+* **Persetujuan Dokumen Kebijakan**  
+
+  Tandai kebijakan DOC sebagai telah direview dan disetujui.
+
+
+
+* **Validasi Dokumen Berbasis Template**  
+
+  Tandatangani template DOC setelah pemeriksaan selesai.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Penandatanganan Dipicu oleh Penyelesaian Bidang**  
+
+  File DOC ditandatangani setelah bidang wajib diisi.
+
+
+
+* **Integrasi Alur Kerja Persetujuan**  
+
+  Penandatanganan dipicu oleh pembaruan status persetujuan backend.
+
+
+
+* **Sertifikasi Arsip Warisan**  
+
+  File DOC ditandatangani sebelum diarsipkan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

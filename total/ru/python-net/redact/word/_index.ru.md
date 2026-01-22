@@ -74,7 +74,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Составление документов с использованием Python API для файлов Word обеспечивает безопасную обработку в различных форматах обработки текста в рамках единого подхода. Это гарантирует постоянную защиту данных независимо от их происхождения.
+
+
+
+Автоматизация процесса редакции документов Word позволяет организациям стандартизировать контроль конфиденциальности, улучшая эффективность и масштабируемость.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Управление документами предприятия**  
+
+&nbsp; Применение единых политик редакции ко всем документам Word.
+
+
+
+* **Управление контентом в различных форматах**  
+
+&nbsp; Управление чувствительными данными в смешанных средах файлов Word.
+
+
+
+* **Безопасное распространение знаний**  
+
+&nbsp; Безопасное распространение отредактированных документов внутри и за пределами организации.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Унифицированные службы редакции**  
+
+&nbsp; Предоставление редакции как многократно используемой службы на основе Python.
+
+
+
+* **Обработка по событиям**  
+
+&nbsp; Запуск редакции при загрузке или изменении файлов Word.
+
+
+
+* **Готовность к проверке**  
+
+&nbsp; Регистрация и отслеживание автоматизированных действий по редакции для соответствия требованиям.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -125,7 +193,7 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -98,7 +98,93 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Wyodrębnianie metadanych dokumentów z plików **DOCM** za pomocą interfejsów API Pythona pomaga systemom sprawdzać właściwości dokumentów, uwzględniając zawartość z makrami i związane z nimi sygnały ryzyka. Jest to wartościowe dla zarządzania, bezpiecznego przetwarzania i klasyfikacji, zwłaszcza gdy dokumenty przechodzą między zespołami lub środowiskami.
+
+
+
+W przepływach automatyzacji metadane DOCM mogą sterować dynamicznymi kontrolami—takimi jak kontrola bezpieczeństwa, zatwierdzenia warunkowe i ograniczona dystrybucja—umożliwiając skalowalne indeksowanie i raportowanie bez otwierania plików interaktywnie.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Filtrowanie dokumentów świadomych makr**
+
+  Wykorzystaj metadane do oznaczania dokumentów z makrami do dodatkowej recenzji i kontrolowanego przetwarzania.
+
+
+
+* **Klasyfikacja wrażliwych przepływów pracy**
+
+  Klasyfikuj pliki DOCM na podstawie osadzonych właściwości, aby zastosować bardziej restrykcyjne zasady przechowywania i dostępu.
+
+
+
+* **Śledzenie pochodzenia operacyjnego**
+
+  Uchwyć pola historii tworzenia i modyfikacji, aby śledzić, gdzie i kiedy zostały wyprodukowane pliki z makrami.
+
+
+
+* **Raportowanie o stanie repozytorium**
+
+  Generuj raporty o wolumenie, wieku i właścicielstwie plików DOCM, aby zarządzać narażeniem na ryzyko w skali.
+
+
+
+* **Gotowość do kontrolowanej dystrybucji**
+
+  Sprawdź wymagane pola metadanych przed zezwoleniem na przekazywanie plików DOCM do procesów udostępniania lub publikowania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Potok przyjęcia z oceną ryzyka**
+
+  Automatycznie oceniaj pliki DOCM na podstawie kompletności i aktualności metadanych, a następnie kieruj do torów "do przeglądu" lub "zatwierdzone".
+
+
+
+* **Egzekwowanie ograniczeń przechowywania**
+
+  Jeśli wykryto plik DOCM, automatyzacja przenosi go do ograniczonego miejsca i stosuje bardziej restrykcyjne zasady retencji.
+
+
+
+* **Alertowanie o wyjątkach z makrami**
+
+  Wyzwalaj alerty, gdy metadane DOCM wskazują na nieoczekiwane pochodzenie, nietypowe znaczniki czasu lub brakujące pola właściciela.
+
+
+
+* **Automatyczne panele inwentaryzacyjne**
+
+  Ciągle wyodrębniaj i agreguj metadane DOCM do paneli dla zarządzania i nadzoru operacyjnego.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

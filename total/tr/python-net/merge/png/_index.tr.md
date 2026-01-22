@@ -82,7 +82,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'lerini kullanarak PNG görüntülerini birleştirmek, şeffaflığı destekleyen kayıpsız görüntü birleştirme imkanı sağlar. Bu, tasarım varlıkları, UI öğeleri ve katmanlı görseller için idealdir.
+
+
+
+Otomasyon, görsel bütünlüğü korurken tutarlı görüntü montajını sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Şeffaf Varlık Birleştirme (PNG)**  
+
+&nbsp; Alfa kanallarını koruyarak PNG görüntülerini birleştirin.
+
+
+
+* **UI Öğesi Birleştirme (PNG)**  
+
+&nbsp; Arayüz grafiklerini tek bir görüntüde birleştirin.
+
+
+
+* **Tasarım Kaynağı Konsolidasyonu (PNG)**  
+
+&nbsp; Yeniden kullanım için PNG varlıklarını bir araya getirin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik Tasarım Boruları (PNG)**  
+
+&nbsp; Sistemler, derleme süreçleri sırasında PNG varlıklarını birleştirir.
+
+
+
+* **Katmanlı Görüntü Oluşturma (PNG)**  
+
+&nbsp; PNG birleştirme, programatik kurallar tarafından yönlendirilir.
+
+
+
+* **Ölçeklenebilir Görsel Varlık Otomasyonu (PNG)**  
+
+&nbsp; Otomatik borular birleştirilmiş PNG görselleri üretir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -149,7 +217,7 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

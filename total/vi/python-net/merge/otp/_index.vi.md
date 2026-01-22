@@ -79,7 +79,77 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Slides for Python via 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kết hợp định dạng mẫu trình bày bằng cách sử dụng Python APIs giúp tạo slide một cách nhất quán trên các hệ sinh thái mở và độc quyền. Việc kết hợp mẫu đảm bảo tính đồng nhất về cấu trúc.
+
+
+
+Tự động hỗ trợ tạo ra bài thuyết trình nhanh chóng với bố cục dự đoán được.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tổ Hợp Trình Bày Dựa Trên Mẫu (OTP)**  
+
+&nbsp; Kết hợp các mẫu OTP vào các bộ bài chuẩn.
+
+
+
+* **Khung Trang Trình Bày Có Thể Tái Sử Dụng (OTP)**  
+
+&nbsp; Kết hợp cấu trúc dựa trên OTP để đảm bảo tính nhất quán.
+
+
+
+* **Tiêu Chuẩn Thiết Kế (OTP)**  
+
+&nbsp; Tổng hợp các mẫu OTP vào các định dạng thống nhất.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Thực Hiện Mẫu Tự Động (OTP)**  
+
+&nbsp; Các mẫu OTP được kết hợp một cách tự động.
+
+
+
+* **Tạo Bài Thuyết Trình Theo Lô (OTP)**  
+
+&nbsp; Các mẫu được kết hợp trong quá trình chạy theo lịch trình.
+
+
+
+* **Các Luồng Công Việc Kiểm Soát Bố Cục (OTP)**  
+
+&nbsp; Hệ thống thực hiện cấu trúc thông qua việc kết hợp mẫu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

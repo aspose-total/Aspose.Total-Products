@@ -78,7 +78,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Menggabungkan buku kerja Excel modern menggunakan API Python adalah pendekatan standar untuk menggabungkan kumpulan data terstruktur, laporan, dan model. XLSX adalah format spreadsheet yang paling banyak digunakan dalam sistem modern.
+
+
+
+Kemampuan ini terintegrasi dengan lancar dengan platform data, memungkinkan generasi spreadsheet otomatis dan konsolidasi dalam skala besar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Pembuatan Laporan Multi-Sheet (XLSX)**  
+
+&nbsp; Menggabungkan file XLSX ke dalam buku kerja pelaporan yang komprehensif.
+
+
+
+* **Unifikasi Sumber Data (XLSX)**  
+
+&nbsp; Menggabungkan kumpulan data XLSX dari beberapa sistem.
+
+
+
+* **Pengumpulan Data Kolaboratif (XLSX)**  
+
+&nbsp; Menggabungkan file XLSX yang dikontribusikan oleh beberapa pemangku kepentingan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Generasi Spreadsheet Dinamis (XLSX)**  
+
+&nbsp; Sistem menggabungkan file XLSX berdasarkan kondisi data saat runtime.
+
+
+
+* **Integrasi Pipa ETL (XLSX)**  
+
+&nbsp; Penggabungan XLSX diotomatisasi dalam pipa ingest data.
+
+
+
+* **Otomatisasi Pelaporan yang Dapat Diskalakan (XLSX)**  
+
+&nbsp; Laporan XLSX berkapasitas besar digabungkan secara programatik.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

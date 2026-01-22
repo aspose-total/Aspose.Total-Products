@@ -79,7 +79,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Menggabungkan format tayangan PowerPoint menggunakan API Python memungkinkan presentasi siap putar yang seragam. Format ini dirancang untuk presentasi langsung daripada pengeditan.
+
+
+
+Automasi memastikan pengiriman tayangan slideshow yang konsisten di seluruh tim dan acara.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Perakitan Urutan Slideshow (PPS)**  
+
+&nbsp; Menggabungkan file PPS ke dalam alur presentasi tunggal.
+
+
+
+* **Kompilasi Presentasi Acara (PPS)**  
+
+&nbsp; Menggabungkan file tayangan untuk konferensi atau pertemuan.
+
+
+
+* **Pengemasan Putar Presentasi (PPS)**  
+
+&nbsp; Menggabungkan file PPS menjadi satu tayangan yang dapat dieksekusi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Persiapan Dek Acara Otomatis (PPS)**  
+
+&nbsp; Sistem menggabungkan file PPS sebelum acara yang dijadwalkan.
+
+
+
+* **Generasi Slideshow Backend (PPS)**  
+
+&nbsp; Penggabungan PPS dipicu secara programatis.
+
+
+
+* **Otomatisasi Pengiriman Presentasi (PPS)**  
+
+&nbsp; Tayangan slideshow digabungkan secara otomatis untuk diputar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -76,7 +76,75 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX ist das moderne Word-Dokumentenformat, das weit verbreitet für Berichte, Verträge und gemeinsame Dokumente verwendet wird. Der Schutz von DOCX-Dateien ist entscheidend, um die Integrität des Inhalts zu erhalten und unbefugte Änderungen in digitalen Workflows zu verhindern.
+
+
+
+Python-APIs ermöglichen einen nahtlosen Schutz von DOCX-Dateien durch die Anwendung von Passwörtern und Berechtigungseinstellungen, wodurch die Sicherheit von Dokumenten zu einem natürlichen Bestandteil automatisierter Inhalts-Pipelines wird.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Vertragschutz**  
+
+&nbsp; Sichern Sie DOCX-Verträge, um unbefugte Änderungen nach Genehmigung zu verhindern.
+
+
+
+* **Kontrolle gemeinsamer Inhalte**  
+
+&nbsp; Sperren Sie sensible Abschnitte, während Sie eine begrenzte Benutzerinteraktion zulassen.
+
+
+
+* **Schutz des geistigen Eigentums**  
+
+&nbsp; Schützen Sie proprietäre Dokumente, die zwischen Abteilungen oder Partnern geteilt werden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Workflow-basiertes Dokumentensperren**  
+
+&nbsp; Schützen Sie DOCX-Dateien automatisch in bestimmten Workflow-Stadien.
+
+
+
+* **Dynamische Berechtigungszuweisung**  
+
+&nbsp; Weisen Sie rollenbasierte Einschränkungen programmgesteuert während der Dokumentenerstellung zu.
+
+
+
+* **Sicherer Inhaltspublishing**  
+
+&nbsp; Schützen Sie DOCX-Ausgaben vor automatisierter Verteilung oder Speicherung.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

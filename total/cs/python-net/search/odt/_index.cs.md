@@ -76,7 +76,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Vyhledávání souborů **ODT** pomocí Python API zajišťuje kompatibilitu s otevřenými dokumentovými standardy a zároveň umožňuje efektivní objevování obsahu. ODT dokumenty jsou běžně používány v prostředích s otevřeným kódem a spolupracujících prostředích, kde je důležitá přenositelnost a transparentnost.
+
+
+
+Automatizované vyhledávání ODT zlepšuje interoperabilitu, podporuje škálovatelnou analýzu dokumentů a čistě integruje s moderními automatizačními toky.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Vyhledávání v dokumentech ve formátu ODT**  
+
+&nbsp; Najde klíčová slova v dokumentech založených na formátu ODT.
+
+
+
+* **Spolupracující přezkum obsahu**  
+
+&nbsp; Umožňuje rychlé vyhledávání v sdílených otevřených dokumentech.
+
+
+
+* **Analýza politik a dokumentace**  
+
+&nbsp; Identifikuje požadované části v souborech ODT.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatické vytváření indexu ODT**  
+
+&nbsp; Python skripty generují vyhledatelné indexy z souborů ODT.
+
+
+
+* **Detekce změn v ODT**  
+
+&nbsp; Programové skeny identifikují aktualizovaný nebo upravený obsah.
+
+
+
+* **Datové toky obsahu ODT**  
+
+&nbsp; Extrahovaná data poskytují automatizované publikování a systémy pro přezkum.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

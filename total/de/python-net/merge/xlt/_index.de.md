@@ -78,7 +78,75 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Das Zusammenführen von Excel-Vorlagenformaten mithilfe von Python-APIs gewährleistet eine konsistente Struktur und Layout in den generierten Tabellenkalkulationen. Die fusionierte Vorlagenbasis ist entscheidend für standardisierte Berichterstattung und Dateneingabeprozesse.
+
+
+
+Die Automatisierung ermöglicht die schnelle Erstellung einheitlicher Tabellenkalkulationen ohne manuelle Formatierung.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Vorlagenbasierte Tabellenkalkulationszusammenstellung (XLT)**  
+
+&nbsp; Fusionieren von XLT-basierten Dateien, um einheitliche Layouts durchzusetzen.
+
+
+
+* **Standardisierte Datensammlung (XLT)**  
+
+&nbsp; Kombinieren von vorlagenbasierten Tabellenkalkulationen in einer Datei.
+
+
+
+* **Wiederverwendbare Tabellenkalkulationsstrukturen (XLT)**  
+
+&nbsp; Zusammenführen von XLT-Dokumenten, um einheitliches Design zu erhalten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Automatische Vorlagenanwendung (XLT)**  
+
+&nbsp; XLT-Dateien werden automatisch während der Generierung zusammengeführt.
+
+
+
+* **Batch-Vorlagenverarbeitung (XLT)**  
+
+&nbsp; Geplante Aufgaben fusionieren mehrere XLT-basierte Tabellenkalkulationen.
+
+
+
+* **Layout-gesteuerte Automatisierung (XLT)**  
+
+&nbsp; Systeme fusionieren XLT-Dateien, um Formatkonsistenz zu gewährleisten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

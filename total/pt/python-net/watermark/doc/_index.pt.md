@@ -79,7 +79,85 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/wor
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Adicionar marcas de água nos arquivos **DOC** com APIs Python ajuda a proteger documentos Word legados, rotulando claramente a propriedade, confidencialidade ou regras de distribuição dentro do conteúdo editável.
+
+Automatizar a marca d'água em DOC melhora a consistência na governança de documentos, permitindo que as organizações imponham controles de política visual em escala, mesmo para formatos de documento mais antigos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Carimbos de Confidencialidade de Contratos Legados**  
+
+&nbsp; Adicione marcas "CONFIDENCIAL" a acordos mais antigos para reduzir o compartilhamento não autorizado.
+
+
+
+* **Etiquetas de Status do Ciclo de Revisão**  
+
+&nbsp; Marque documentos como "EM REVISÃO" para evitar a circulação prematura de rascunhos.
+
+
+
+* **Aplicação de Política Interna para Modelos**  
+
+&nbsp; Aplique marcas d'água padronizadas em modelos legados para alinhar com a governança.
+
+
+
+* **Avisos de Distribuição Específicos do Cliente**  
+
+&nbsp; Incorpore avisos voltados para o cliente que esclareçam o uso permitido e os limites de redistribuição.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Carimbo de Documentos de Caixa de Correio para Arquivo**  
+
+&nbsp; Adicione automaticamente marcas d'água em anexos DOC antes de salvá-los em um repositório.
+
+
+
+* **Monitor de Pasta para Arquivos Legados**  
+
+&nbsp; Detecte novos arquivos DOC em um diretório e aplique marcas d'água de política sem etapas manuais.
+
+
+
+* **Texto de Marca d'Água Dirigido por Metadados**  
+
+&nbsp; Gere conteúdo de marca d'água a partir de tags do documento como departamento, projeto ou nível de sensibilidade.
+
+
+
+* **Transição Automatizada de "Rascunho para Final"**  
+
+&nbsp; Substitua marcas d'água de rascunho por rótulos finais quando as aprovações são registradas em um sistema de fluxo de trabalho.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

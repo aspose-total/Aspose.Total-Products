@@ -79,7 +79,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOT文件用作定义结构和格式标准的文档模板。拆分DOT文件可以实现对单个模板组件的分析和重复使用。
+
+
+
+使用Python自动化DOT文件拆分支持可扩展的模板管理和结构化文档生成工作流。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **模板组件重用**  
+
+  提取特定模板部分以在文档中重复使用。
+
+
+
+* **模板审计**  
+
+  分析各个部分以确保合规性和一致性。
+
+
+
+* **标准化文档生成**  
+
+  实现对模板元素的受控使用。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **模板解析自动化**  
+
+  Python脚本以程序方式隔离模板块。
+
+
+
+* **动态模板组装**  
+
+  拆分的组件根据需要动态重新组合。
+
+
+
+* **治理执行管道**  
+
+  自动化检查确保仅使用已批准的部分。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

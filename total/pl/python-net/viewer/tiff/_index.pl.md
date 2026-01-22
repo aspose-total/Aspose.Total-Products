@@ -82,7 +82,73 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Oglądanie dokumentów TIFF za pomocą interfejsów API Pythona obsługuje formaty obrazów wielostronicowych o wysokiej rozdzielczości, które są powszechnie używane podczas skanowania i archiwizacji.
+
+Dzięki temu możliwa jest dokładna inspekcja szczegółowych dokumentów wizualnych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Przeglądanie zeskanowanych dokumentów**  
+
+&nbsp; Oglądaj strony o wysokiej jakości.
+
+
+
+* **Inspekcja obrazów archiwalnych**  
+
+&nbsp; Sprawdzaj pliki obrazów o jakości zachowawczej.
+
+
+
+* **Obsługa obrazów wielostronicowych**  
+
+&nbsp; Nawiguj w złożonych dokumentach opartych na obrazach.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Automatyczna weryfikacja skanu**  
+
+&nbsp; Przepływy pracy w Pythonie wyświetlają zeskanowane pliki w celu zapewnienia jakości.
+
+
+
+* **Sprawdzenia integralności archiwum**  
+
+&nbsp; Przechowywane obrazy są okresowo renderowane w celu walidacji.
+
+
+
+* **Potoki digitalizacji dokumentów**  
+
+&nbsp; Zautomatyzowane przeglądarki wspierają procesy digitalizacji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

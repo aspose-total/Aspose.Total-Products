@@ -72,7 +72,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PDF je nejběžnějším formátem pro finální a sdílitelné dokumenty. Ochrana PDF je klíčová pro kontrolu přístupu, zabránění kopírování a zajištění autentičnosti obsahu při digitální distribuci.
+
+
+
+Pythonové API umožňují automatizovat ochranu PDF, integrovat zabezpečení přímo do pracovních postupů generování, schvalování a doručování dokumentů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Bezpečné doručování dokumentů**  
+
+&nbsp; Ochrana PDF distribuovaných klientům nebo zainteresovaným stranám.
+
+
+
+* **Vynucování pouze pro čtení obsahu**  
+
+&nbsp; Zabránění úpravám nebo kopírování finálních dokumentů.
+
+
+
+* **Ochrana důvěrných informací**  
+
+&nbsp; Omezení přístupu ke citlivým údajům v rámci PDF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatické uzamčení PDF**  
+
+&nbsp; Aplikovat ochranu ihned po generování PDF.
+
+
+
+* **Dynamické přiřazení hesla**  
+
+&nbsp; Generovat a aplikovat hesla programově pro každého příjemce.
+
+
+
+* **Bezpečnost řízená souladem**  
+
+&nbsp; Automaticky vynucovat ochranu PDF pro splnění regulačních požadavků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

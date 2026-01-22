@@ -89,7 +89,73 @@ PPT ビューア アプリまたはユーティリティを開発する必要が
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用してPPTファイルを表示すると、古いシステムで使用されているレガシーなプレゼンテーションドキュメントを検査できます。
+
+これは、後方互換性が必要な自動化をサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **レガシープレゼンテーションのレビュー**  
+
+&nbsp; 古いスライドデッキをプログラムで表示します。
+
+
+
+* **コンテンツ移行のサポート**  
+
+&nbsp; フォーマットをアップグレードする前にプレゼンテーションを検査します。
+
+
+
+* **プレゼンテーションの検証**  
+
+&nbsp; スライドデータがそのまま保持されていることを確認します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **レガシーオーディットパイプライン**  
+
+&nbsp; PythonワークフローがPPTファイルを検査します。
+
+
+
+* **変換前の検証**  
+
+&nbsp; 表示により安全なフォーマット移行が確認されます。
+
+
+
+* **バッチプレゼンテーションのレビュー**  
+
+&nbsp; 大規模なコレクションが自動的に検査されます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

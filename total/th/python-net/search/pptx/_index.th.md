@@ -76,7 +76,75 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การค้นหาไฟล์ **PPTX** โดยใช้ Python APIs จะให้การเข้าถึงไฟล์งานนำเสนอที่มีโครงสร้างเรียบง่ายที่มีเลเอาท์สไลด์ ข้อความ และบันทึกของผู้พูดอย่างเชื่อถือได้ ไฟล์ PPTX นี้ถูกใช้กันอย่างแพร่หลายสำหรับการรายงาน การฝึกอบรม และเนื้อหาที่มีการตัดสินใจ
+
+
+
+การค้นหา PPTX อัตโนมัติ รองรับการวิเคราะห์สไลด์อย่างมีประสิทธิภาพ การเรียกคืนอย่างฉลาด และการผสมผสานอย่างไม่มีรอยต่อกับระบบการจัดการความรู้และเนื้อหา
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **การค้นหาสไลด์ที่มีโครงสร้าง**  
+
+&nbsp; ค้นหาชื่อเรื่อง ข้อความหัวข้อ และบันทึกในไฟล์ PPTX
+
+
+
+* **การวิเคราะห์เนื้อหางานนำเสนอ**  
+
+&nbsp; ระบุธีมหลักและส่วนต่าง ๆ โดยโปรแกรม
+
+
+
+* **การค้นหาสไลด์ที่สามารถนำมาใช้ซ้ำ**  
+
+&nbsp; ค้นหาสไลด์ที่เหมาะสมสำหรับการนำมาใช้ในรายงานหรือสไลด์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การอัพเดตดัชนี PPTX อย่างต่อเนื่อง**  
+
+&nbsp; บริการ Python ตรวจสอบและทำดัชนีไฟล์ PPTX ใหม่
+
+
+
+* **การจำแนกประเภทสไลด์โดยอัตโนมัติ**  
+
+&nbsp; สไลด์ถูกจำแนกประเภทตามเนื้อหาที่ถูกสกัดออกมา
+
+
+
+* **ท่อการส่งผลการค้นหา PPTX**  
+
+&nbsp; ผลการค้นหาจะถูกส่งไปยังแดชบอร์ดและกระบวนการทำงานอัตโนมัติ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

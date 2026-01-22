@@ -73,7 +73,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+توقيع ملفات عروض العرض ODP باستخدام واجهات برمجة التطبيقات في Python يساعد الفرق على السيطرة على جودة الإصدار والملكية لعروض الشرائح التي تم إنشاؤها بتنسيقات مفتوحة. يضمن هذا أن تُوزع العروض فقط بعد الموافقة الرسمية.
+
+
+
+عندما يتم تأمينها تلقائيًا، يصبح توقيع ODP خطوة حكمية قابلة للتكرار ضمن سير العمل التعاوني، مما يحسن من التحكم في الإصدار ويمنع تداول العروض غير المراجعة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **موافقة إصدار عروض التدريب**  
+
+&nbsp; قم بتوقيع عروض التدريب ODP للتأكد من جاهزيتها للإطلاق الداخلي.
+
+
+
+* **تأكيد مراجعة أصحاب المصلحة**  
+
+&nbsp; ضع علامة توقيع على عروض ODP بعد اكتمال مراجعة أصحاب المصلحة.
+
+
+
+* **شهادة الامتثال للعروض التقديمية**  
+
+&nbsp; قم بتوقيع عروض السياسات أو الامتثال لتوثيق من وافق على النسخة النهائية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأليف التلقائي" %}}
+
+
+
+* **تشغيل سير العمل لتحفيز التوقيع**  
+
+&nbsp; قم بتوقيع ملفات ODP تلقائيًا عند تسجيل حالة الموافقة في النظام.
+
+
+
+* **بوابة سلامة العروض قبل المشاركة**  
+
+&nbsp; قم بتوقيع العروض فقط بعد التحقق من وجود الشرائح المطلوبة والبيانات الوصفية.
+
+
+
+* **توقيع دفعة من العروض لدورات الإصدار**  
+
+&nbsp; قم بتوقيع عدة عروض ODP برمجيًا كجزء من دورات الإصدار المجدولة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

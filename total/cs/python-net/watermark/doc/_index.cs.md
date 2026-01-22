@@ -79,7 +79,85 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Vodoznakování souborů **DOC** pomocí Python API pomáhá chránit dědictví dokumentů Word jasným označením vlastnictví, důvěrnosti nebo pravidel distribuce v rámci editovatelného obsahu.
+
+Automatizace vodoznakování DOC zlepšuje konzistenci v řízení dokumentů, umožňuje organizacím prosazovat vizuální politické kontroly ve velkém měřítku dokonce i pro starší formáty dokumentů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Pečetění důvěrnosti smluv dědictví**  
+
+&nbsp; Přidejte značky "DŮVĚRNÉ" k starším smlouvám k omezení neoprávněného sdílení.
+
+
+
+* **Štítky stavu revizního cyklu**  
+
+&nbsp; Označte dokumenty jako "V REVIZI" k zabránění předčasnému šíření návrhů.
+
+
+
+* **Vynucování interní politiky pro šablony**  
+
+&nbsp; Použijte standardizované vodoznaky napříč dědictvím šablon pro zarovnání s řízením.
+
+
+
+* **Oznámení o distribuci specifická pro klienta**  
+
+&nbsp; Vložte oznámení pro klienty, která upřesňují povolené použití a limity redistribuce.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* **Pečetění dokumentů z e-mailové schránky do archivu**  
+
+&nbsp; Automaticky vodoznačujte přílohy DOC před uložením do repozitáře.
+
+
+
+* **Sledování složky pro staré soubory**  
+
+&nbsp; Detekujte nové soubory DOC v adresáři a aplikujte politické vodoznaky bez manuálních kroků.
+
+
+
+* **Text vodoznaku řízený metadaty**  
+
+&nbsp; Generujte obsah vodoznaku z tagů dokumentu jako oddělení, projekt nebo úroveň citlivosti.
+
+
+
+* **Automatizovaný přechod z "Návrhu na finální" verzi**  
+
+&nbsp; Nahraďte návrhové vodoznaky konečnými štítky, když jsou schválení zaznamenáni v systému pracovního postupu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

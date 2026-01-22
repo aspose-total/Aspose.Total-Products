@@ -78,7 +78,69 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Unire i formati dei modelli Excel utilizzando le API di Python garantisce una struttura e un layout coerenti in tutte le tabelle generate. La fusione basata su modelli è fondamentale per i report standardizzati e i flussi di lavoro per l'inserimento dei dati.
+
+
+
+L'automazione consente la generazione rapida di tabelle uniformi senza formattazione manuale.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+- **Assemblaggio di tabelle basate su modelli (XLT)**  
+  &nbsp; Unire file basati su XLT per garantire layout coerenti.
+
+
+
+- **Raccolta dati standardizzata (XLT)**  
+  &nbsp; Combinare tabelle basate su modelli in un unico file.
+
+
+
+- **Strutture di tabelle riutilizzabili (XLT)**  
+  &nbsp; Aggregare documenti XLT per mantenere un design uniforme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+- **Applicazione automatica dei modelli (XLT)**  
+  &nbsp; I file XLT vengono uniti automaticamente durante la generazione.
+
+
+
+- **Elaborazione batch di modelli (XLT)**  
+  &nbsp; I lavori pianificati uniscono più tabelle basate su XLT.
+
+
+
+- **Automazione controllata dal layout (XLT)**  
+  &nbsp; I sistemi uniscono i file XLT per garantire la coerenza del formato.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

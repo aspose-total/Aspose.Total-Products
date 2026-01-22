@@ -78,7 +78,75 @@ Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het samenvoegen van OpenDocument-spreadsheets met behulp van Python-API's ondersteunt open standaarden en cross-platform gegevensworkflows. Dit is ideaal voor omgevingen die vertrouwen op open-source kantoortools.
+
+
+
+Automatisering rond ODS-samenvoeging zorgt voor interoperabiliteit met behoud van gestructureerde gegevensintegriteit.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Cross-Platform Spreadsheet Consolidation (ODS)**  
+
+&nbsp; ODS-bestanden samenvoegen die zijn gemaakt in verschillende kantoorpakketten.
+
+
+
+* **Open-Standaard Gegevensaggregatie (ODS)**  
+
+&nbsp; ODS-spreadsheets combineren voor geünificeerde analyse.
+
+
+
+* **Samenstellen van Samenwerkende Gegevens (ODS)**  
+
+&nbsp; ODS-bestanden samenvoegen van gedistribueerde bijdragers.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Open Data Pipeline Automatisering (ODS)**  
+
+&nbsp; Systemen voegen ODS-bestanden samen zonder afhankelijkheid van eigen software.
+
+
+
+* **Geplande Spreadsheetcompilatie (ODS)**  
+
+&nbsp; Het samenvoegen van ODS wordt uitgevoerd als onderdeel van terugkerende backend-taken.
+
+
+
+* **Interoperabele Rapportagepipelines (ODS)**  
+
+&nbsp; ODS-bestanden worden dynamisch samengevoegd in gegevensworkflows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

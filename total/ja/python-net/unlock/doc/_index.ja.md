@@ -72,7 +72,75 @@ DOC 保護管理アプリまたはユーティリティを開発する必要が�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+プログラムで DOC ファイルをアンロックすることにより、アーカイブ、企業、規制されたシステム全体に残るレガシー ワードプロセッシング ドキュメントへのアクセスが可能になります。これらのファイルに制御されたアクセスを得ることで、組織はコンテンツを回復し、コンプライアンスを強化し、歴史的な文書を現代化することができます。
+
+
+
+Python API を使用することで、DOC のアンロックを自動化し、大規模にスケーリングし、取り込みパイプラインに統合し、手動介入なしに文書処理ワークフローに組み込むことができます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* **レガシー ドキュメントの回復**  
+
+&nbsp; 長期間のリポジトリに保存されている古い保護されたドキュメントからコンテンツを抽出して再利用することが可能になります。
+
+
+
+* **コンプライアンス監査**  
+
+&nbsp; 監査や法的な発見プロセス中にロックされたファイルの制御されたレビューをサポートします。
+
+
+
+* **コンテンツの移行**  
+
+&nbsp; 保護された DOC ファイルを現代の形式に安全に変換し、下流システム向けにインデックス化することを容易にします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **バッチ アーカイブ処理**  
+
+&nbsp; 定期的なアーカイブ スキャン中に大量の DOC ファイルを自動的にアンロックするジョブを実行します。
+
+
+
+* **ポリシーに基づいたアクセス パイプライン**  
+
+&nbsp; アクセス規則や文書メタデータに基づいて自動的にアンロックがトリガーされます。
+
+
+
+* **自動化された形式の正規化**  
+
+&nbsp; アンロックされたファイルはプログラムで変換され、検索プラットフォーム向けにインデックス化されます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

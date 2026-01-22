@@ -85,7 +85,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/ima
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A fusão de imagens bitmap usando APIs Python permite a consolidação de visuais brutos e não comprimidos em uma única imagem composta ou sequência. Isso é útil em imagens técnicas, fluxos de trabalho de digitalização e sistemas onde a fidelidade da imagem é priorizada em relação ao tamanho do arquivo.
+
+
+
+A fusão automatizada de BMP suporta pipelines de processamento de imagem determinísticos onde a precisão, repetibilidade e composição orientada pelo sistema são necessárias.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Compilação de Imagens Digitalizadas (BMP)**  
+
+&nbsp; Mesclar várias digitalizações BMP em uma única imagem composta.
+
+
+
+* **Montagem de Diagramas Técnicos (BMP)**  
+
+&nbsp; Combinar diagramas bitmap em visuais unificados.
+
+
+
+* **Arquivamento de Imagens Brutas (BMP)**  
+
+&nbsp; Agregar arquivos BMP para armazenamento ou processamento a longo prazo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Processamento Automatizado de Digitalizações (BMP)**  
+
+&nbsp; Sistemas mesclam imagens BMP durante fluxos de trabalho de ingestão.
+
+
+
+* **Composição de Imagens em Lote (BMP)**  
+
+&nbsp; Trabalhos agendados mesclam imagens bitmap programaticamente.
+
+
+
+* **Pipelines de Imagens de Precisão (BMP)**  
+
+&nbsp; A fusão de BMP está incorporada em sistemas de processamento controlados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

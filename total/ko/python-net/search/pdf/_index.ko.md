@@ -77,7 +77,75 @@ PDF 검색 가능 유틸리티 앱을 개발해야 합니까? .NET을 통한 Pyt
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+파이썬 API를 사용하여 **PDF** 문서를 검색하면 보고서, 계약, 매뉴얼 및 공식 기록에 저장된 정보를 신뢰할 수 있는 방식으로 발견할 수 있습니다. 프로그래밍 방식의 PDF 검색은 현대 시스템이 수동으로 읽지 않고도 대량의 문서 컬렉션 전체에서 관련 텍스트와 구조를 찾을 수 있도록 돕습니다.
+
+
+
+자동화 파이프라인에 통합되면 PDF 검색은 확장 가능한 색인 작업, 빠른 검색 및 분석, 규정 준수 및 지식 관리 워크플로우와의 원활한 통합을 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **PDF 키워드 발견**  
+
+&nbsp; 대량의 PDF 문서 전체에서 대상 용어와 구문을 찾습니다.
+
+
+
+* **보고서 섹션 검색**  
+
+&nbsp; PDF 내의 요약, 표 및 결과물과 같은 주요 섹션을 찾습니다.
+
+
+
+* **문서 저장소 검색**  
+
+&nbsp; 폴더 및 시스템 전체에 저장된 PDF에 대한 검색 가능한 액세스를 제공합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동화된 PDF 색인 파이프라인**  
+
+&nbsp; 파이썬 서비스가 텍스트를 추출하고 PDF 검색 색인을 일정에 따라 업데이트합니다.
+
+
+
+* **PDF 규정 준수 검토 자동화**  
+
+&nbsp; 프로그래밍 방식의 검색은 PDF에서 필요한 조항과 누락된 문장을 감지합니다.
+
+
+
+* **동적 PDF 통찰력 추출**  
+
+&nbsp; 검색 결과를 기반으로 자동 요약, 경고 및 하류 처리 워크플로우를 구동합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

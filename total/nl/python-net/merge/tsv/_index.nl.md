@@ -78,7 +78,75 @@ Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het samenvoegen van tab-gescheiden waardebestanden met behulp van Python API's maakt snelle en lichtgewicht combinatie van gestructureerde tabellaire gegevens mogelijk. TSV wordt veel gebruikt voor gegevensuitwisseling en voorbewerking.
+
+
+
+Geautomatiseerd samenvoegen van TSV ondersteunt data pipelines met hoge prestaties en analytische workflows.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Aggregatie van Ruwe Gegevens (TSV)**  
+
+&nbsp; Voeg TSV-bestanden samen tot een enkel dataset voor verwerking.
+
+
+
+* **Gegevensuitwisseling Tussen Systemen (TSV)**  
+
+&nbsp; Combineer TSV-exportbestanden van verschillende platforms.
+
+
+
+* **Voorbereiding van Gegevens Vóór Analyse (TSV)**  
+
+&nbsp; Voeg TSV-bestanden samen vóór analytische transformatie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Verwerking van Gegevens op Basis van Stroom (TSV)**  
+
+&nbsp; Geautomatiseerde systemen voegen TSV-bestanden samen in gegevensstromen.
+
+
+
+* **Batch ETL-operaties (TSV)**  
+
+&nbsp; Het samenvoegen van TSV-bestanden vindt plaats tijdens geplande ETL-taken.
+
+
+
+* **Schalende Tabellaire Gegevenspipelines (TSV)**  
+
+&nbsp; Programmagestuurd samenvoegen ondersteunt grote TSV-datasets.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

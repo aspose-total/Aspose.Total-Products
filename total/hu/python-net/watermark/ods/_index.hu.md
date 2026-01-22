@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Vízjel elhelyezése **ODS** táblázatokon Python API-k segítségével növeli a nyitott dokumentum táblázatok felett gyakorolt ellenőrzést olyan látható irányítási címkék hozzáadásával, amelyek az tulajdonjogot, bizalmas jellegűséget és terjesztést jelzik.
+
+Az ODS vízjelzés automatizálása támogatja a skálázható jelentési folyamatokat, biztosítva a következetes irányelvek mutatóit az olyan adatkészletek esetében, amelyeket nyílt formátumban osztanak meg.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Bizalmas adatlap bélyegzése**  
+
+&nbsp; Jelölje meg az érzékeny ODS fájlokat annak érdekében, hogy csökkentse a véletlen külső megosztás kockázatát.
+
+
+
+* **Előzetes adatcímkék**  
+
+&nbsp; Alkalmazzon "ELLENŐRIZETLEN" átfedéseket a korai szakaszú adatellenőrzési ciklusok során.
+
+
+
+* **Partner adatfelhasználási értesítések**  
+
+&nbsp; Adjon hozzá látható értesítéseket, amelyek tisztázzák a licencelési és újrafelhasználási korlátozásokat.
+
+
+
+* **Belső ellenőrzési nyomkövetés támogatása**  
+
+&nbsp; Vízjelezze az exportokat, hogy nyilvánvaló legyen, mely rendszer állította elő a adatkészletet.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **ETL export vízjelzése**  
+
+&nbsp; Jelölje meg az ODS fájlokat automatikusan, amikor azok automatizált adatcsatornákból generálódnak.
+
+
+
+* **Szerep alapú vízjel szöveg**  
+
+&nbsp; Személyre szabott vízjel tartalom alkalmazása a fogadó csapat vagy hozzáférési szinttől függően.
+
+
+
+* **Ütemezett jelentéselosztási vezérlések**  
+
+&nbsp; Alkalmazzon időbélyegzős vízjeleket a periodikus ODS jelentések küldése előtt.
+
+
+
+* **Automatizált megőrzési irányelv címkézése**  
+
+&nbsp; Adjon hozzá vizuális megőrzési címkéket az élettartam automatizálásának támogatásához a tárolt táblázatok esetében.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

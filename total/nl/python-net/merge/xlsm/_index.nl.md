@@ -78,7 +78,75 @@ Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het samenvoegen van met macro's ingeschakelde Excel-spreadsheets met behulp van Python-API's maakt consolidatie mogelijk van op data gebaseerde logica, berekeningen en automatisering die zijn ingebed in werkboeken. Dit is gebruikelijk in operationele en financiële omgevingen.
+
+
+
+Geautomatiseerd samenvoegen van XLSM zorgt ervoor dat gegevens en op macro's gebaseerd gedrag behouden blijven binnen schaalbare systemen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Samenvoegen van Rapporten met Macro's (XLSM)**  
+
+&nbsp; Combineer XLSM-bestanden met geautomatiseerde berekeningen en logica.
+
+
+
+* **Consolidatie van Operationele Werkboeken (XLSM)**  
+
+&nbsp; Combineer met macro's ingeschakelde spreadsheets over afdelingen heen.
+
+
+
+* **Verpakking van Procesautomatisering (XLSM)**  
+
+&nbsp; Aggregeer XLSM-bestanden die worden gebruikt in terugkerende operationele processen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Regelgebaseerde Generatie van Werkboeken (XLSM)**  
+
+&nbsp; Systemen combineren XLSM-bestanden op basis van gedefinieerde automatiseringsregels.
+
+
+
+* **Geautomatiseerde Financiële Modellering (XLSM)**  
+
+&nbsp; XLSM-samenvoeging ondersteunt herhaalbare financiële workflows.
+
+
+
+* **Gecontroleerde Macrobehoud (XLSM)**  
+
+&nbsp; Geautomatiseerde pipelines combineren XLSM-bestanden terwijl macro's behouden blijven.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

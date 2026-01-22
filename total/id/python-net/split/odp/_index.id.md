@@ -73,7 +73,75 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+File ODP digunakan untuk presentasi standar terbuka yang berisi beberapa slide dan komponen visual. Memisahkan file ODP memungkinkan akses tingkat slide dan penggunaan ulang.
+
+
+
+Automasi Python mendukung pemisahan ODP yang efisien untuk pemrosesan presentasi yang dapat diskalakan dan penggunaan konten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Penggunaan Ulang Tingkat Slide**  
+
+  Individual slide dapat diekstraksi dan digunakan kembali di seluruh dek.
+
+
+
+* **Analisis Konten Presentasi**  
+
+  Menganalisis slide secara independen untuk struktur atau metadata.
+
+
+
+* **Pengeditan Kolaboratif**  
+
+  Tim bekerja pada set slide yang terisolasi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Ekstraksi Slide Otomatis**  
+
+  Skrip Python memisahkan slide secara programatis.
+
+
+
+* **Perakitan Presentasi Dinamis**  
+
+  Slide digabungkan kembali berdasarkan aturan runtime.
+
+
+
+* **Sistem Arsip Presentasi**  
+
+  Slide diindeks secara individual untuk pengambilan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

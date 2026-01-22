@@ -89,7 +89,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การดูไฟล์ PPT ด้วย Python APIs ช่วยให้สามารถตรวจสอบเอกสารงานนำเสนอรุ่นเก่าที่ใช้ในระบบเก่า
+
+นี้สนับสนุนการอัตโนมัติที่ต้องการความเข้ากันได้ย้อนหลัง
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* **การตรวจสอบงานนำเสนอรุ่นเก่า**  
+
+&nbsp; ดูสไลด์เด็กเก่าๆ โดยการโปรแกรมเชิงรุก
+
+
+
+* **การสนับสนุนการย้ายข้อมูล**  
+
+&nbsp; ตรวจสอบงานนำเสนอก่อนอัพเกรดรูปแบบ
+
+
+
+* **การตรวจสอบงานนำเสนอ**  
+
+&nbsp; ให้แน่ใจว่าข้อมูลสไลด์ยังคงไม่เสียหาย
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+
+
+* **การตรวจสอบทางการเมืองเก่า**  
+
+&nbsp; การทำงานของ Python ทำให้ไฟล์ PPT สามารถตรวจสอบได้
+
+
+
+* **การตรวจสอบก่อนการแปลง**  
+
+&nbsp; การดูแน่ใจว่าการย้ายรูปแบบปลอดภัย
+
+
+
+* **การตรวจสอบงานนำเสนอเป็นชุด**  
+
+&nbsp; การตรวจสอบชุดขนาดใหญ่โดยอัตโนมัติ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

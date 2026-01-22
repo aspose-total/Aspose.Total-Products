@@ -89,7 +89,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+عرض ملفات PPTM باستخدام واجهات برمجة التطبيقات في Python يسمح بفحص العروض التقديمية التي تحتوي على ماكرو دون تنفيذ الشفرة المضمنة.
+
+وهذا يمكن من مراجعة آمنة في بيئات الأتمتة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **مراجعة الشرائح التي تحتوي على ماكرو**  
+
+&nbsp; عرض محتوى العرض التقديمي بشكل آمن.
+
+
+
+* **فحص يدرك المخاطر**  
+
+&nbsp; فحص الشرائح دون تنفيذ الماكرو.
+
+
+
+* **دعم سير العمل للموافقة**  
+
+&nbsp; مراجعة العروض التقديمية قبل الاستخدام المراقب.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **استقبال العروض التقديمية بشكل آمن**  
+
+&nbsp; يقوم مشاهدو Python بعرض ملفات PPTM بأمان.
+
+
+
+* **أنابيب فحص الامتثال**  
+
+&nbsp; يتم فحص العروض التقديمية تلقائيًا.
+
+
+
+* **التحقق قبل النشر**  
+
+&nbsp; يدعم العرض العمليات الموافقة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

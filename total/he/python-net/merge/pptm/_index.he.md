@@ -77,7 +77,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+מיזוג קבצי PowerPoint המופעלים במקרו באמצעות Python APIs תומך במצגות שמכילות לוגיקה מוטמעת, אוטומציה או התנהגויות אינטראקטיביות. זה די נפוץ במצגות עסקיות ותהליכיות.
+
+
+
+האוטומציה מבטיחה שהשקפים המופעלים במקרו יימזגו באופן אמין מבלי לפגום בפונקציונליות המוטמעת.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* **אספקת מצגת בהתבסס על מקרו (PPTM)**  
+
+&nbsp; למזג קבצי PPTM המכילים אלמנטים ממוכנים או אינטראקטיביים.
+
+
+
+* **איחוד שקפים תהלוכתי (PPTM)**  
+
+&nbsp; לשלב מצגות המופעלות במקרו המשמשות בתהליכים פנימיים.
+
+
+
+* **אריזת מצגת אינטראקטיבית (PPTM)**  
+
+&nbsp; לצפין קבצי PPTM למצגת ביצועית אחת.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **יצירת מצגת בהתבסס על כללים (PPTM)**  
+
+&nbsp; מערכות ממזגות קבצי PPTM בהתבסס על כללי אוטומציה.
+
+
+
+* **שמירת מקרו בשלטון מאחורי הקלעים (PPTM)**  
+
+&nbsp; צינורות אוטומטיים ממזגים קבצי PPTM תוך שמירה על הלוגיקה.
+
+
+
+* **אוטומציה של מצגת התאמה לתקנות (PPTM)**  
+
+&nbsp; מיזוג PPTM תומך בפלטים חוזרים ומונה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

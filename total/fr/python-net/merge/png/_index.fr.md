@@ -85,7 +85,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusion d'images PNG à l'aide des API Python permet une composition d'images sans perte avec prise en charge de la transparence. Cela est idéal pour les ressources de conception, les éléments d'interface et les visuels en couches.
+
+
+
+L'automatisation garantit une assemblée d'images cohérente tout en préservant l'intégrité visuelle.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Assemblage d'actifs transparents (PNG)**  
+
+&nbsp; Fusionner des images PNG tout en préservant les canaux alpha.
+
+
+
+* **Composition d'éléments d'interface utilisateur (PNG)**  
+
+&nbsp; Combinez des graphiques d'interface en images uniques.
+
+
+
+* **Consolidation des ressources de conception (PNG)**  
+
+&nbsp; Agréger des ressources PNG pour une réutilisation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Pipelines de conception automatisés (PNG)**  
+
+&nbsp; Les systèmes fusionnent les ressources PNG lors des processus de construction.
+
+
+
+* **Génération d'images en couches (PNG)**  
+
+&nbsp; La fusion PNG est pilotée par des règles programmatiques.
+
+
+
+* **Automatisation des ressources visuelles évolutives (PNG)**  
+
+&nbsp; Les pipelines automatisés génèrent des visuels PNG fusionnés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -152,7 +220,7 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

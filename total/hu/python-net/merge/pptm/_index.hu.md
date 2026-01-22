@@ -79,7 +79,75 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A makrókat támogató PowerPoint-fájlok összevonása Python API-k segítségével támogatja azokat a prezentációkat, amelyek beágyazott logikát, automatizálást vagy interaktív viselkedést tartalmaznak. Ez gyakori az üzleti és működési prezentációkban.
+
+
+
+Az automatizálás biztosítja, hogy a makrókat támogató diák megbízhatóan össze legyenek vonva anélkül, hogy megsérülnének a beágyazott funkciók.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Makróalapú prezentáció összeállítás (PPTM)**  
+
+&nbsp; PPTM fájlok összevonása automatizált vagy interaktív elemeket tartalmazó prezentációkban.
+
+
+
+* **Működési diák összevonása (PPTM)**  
+
+&nbsp; Makrókat támogató prezentációk egyesítése belső folyamatokban.
+
+
+
+* **Interaktív csomagolás (PPTM)**  
+
+&nbsp; PPTM fájlok összevonása egyetlen végrehajtható prezentációba.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Szabályalapú prezentáció generálás (PPTM)**  
+
+&nbsp; Rendszerek PPTM fájlokat vonnak össze automatizálási szabályok alapján.
+
+
+
+* **Háttérvezérelt makró megőrzés (PPTM)**  
+
+&nbsp; Automatizált csővezetékek összevonják a PPTM fájlokat, miközben megőrzik a logikát.
+
+
+
+* **Megfelelőségi prezentáció automatizálás (PPTM)**  
+
+&nbsp; A PPTM összevonás támogatja az ismételhető, szabályozott kimeneteket.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Das Zusammenführen von makrofähigen Word-Dokumenten mithilfe von Python-APIs ermöglicht eine strukturierte Dokumentenkomposition unter Beibehaltung eingebetteter Logik und fortgeschrittener Dokumentenverhaltensweisen. Dies ist für Unternehmensumgebungen unerlässlich, in denen Dokumente Automatisierung, Formulare oder berechnete Felder enthalten.
+
+
+
+Die automatisierte DOCM-Zusammenführung unterstützt skalierbare Dokumentenworkflows, bei denen logiktragende Dateien zuverlässig ohne manuelle Eingriffe kombiniert werden, um eine kontinuierliche und effiziente Arbeitsweise sicherzustellen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Makrobasierte Vorlagenzusammenstellung (DOCM)**  
+
+&nbsp; Mehrere makrofähige Dokumente in ein ausführbares Dokument zusammenführen.
+
+
+
+* **Operative Dokumentenbündelung (DOCM)**  
+
+&nbsp; DOCM-Dateien, die in verschiedenen Abteilungen verwendet werden, in vereinheitlichte operative Dateien konsolidieren.
+
+
+
+* **Konsolidierung von Prozessdokumentationen (DOCM)**  
+
+&nbsp; DOCM-basierte Anleitungen und Tools in einem kontrollierten Dokument zusammenführen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Automatisierte Erstellung von Compliance-Dateien (DOCM)**  
+
+&nbsp; Systeme fusionieren DOCM-Dateien automatisch, um compliance-fähige Dokumente zu erstellen.
+
+
+
+* **Regelbasierte Dokumentenzusammensetzung (DOCM)**  
+
+&nbsp; DOCM-Dateien werden dynamisch basierend auf Workflow-Regeln zusammengeführt.
+
+
+
+* **Makroerhaltung unter Backend-Kontrolle (DOCM)**  
+
+&nbsp; Automatisierte Pipelines fusionieren DOCM-Dateien, während die eingebettete Logik erhalten bleibt.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

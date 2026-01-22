@@ -89,7 +89,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การดูงานนำเสนอ PowerPoint PPTX ด้วย Python APIs ช่วยให้มีการเข้าถึงเอกสารที่มีสไลด์อย่างเป็นระบบในรูปแบบต่าง ๆ ได้อย่างเป็นร่วมกัน
+
+นี้สนับสนุนการทบทวนอัตโนมัติและการทำงานที่เน้นการนำเสนอ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **การทบทวนสไลด์ให้เป็นระบบเดียวกัน**  
+
+&nbsp; ดูงานนำเสนอโดยไม่สนใจรูปแบบ
+
+
+
+* **การตรวจสอบความถูกต้องของงานนำเสนอ**  
+
+&nbsp; ตรวจสอบเนื้อหาและเค้าโครงของสไลด์
+
+
+
+* **การผสานการทำงาน**  
+
+&nbsp; ฝังการดูงานนำเสนอเข้าสู่ระบบอัตโนมัติ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* **กระบวนการทบทวนอัตโนมัติ**  
+
+&nbsp; งานนำเสนอถูกแสดงขณะการตรวจสอบความถูกต้อง
+
+
+
+* **บริการดูตัวอย่าง**  
+
+&nbsp; สไลด์ถูกแสดงอย่างไดนามิกสำหรับผู้มีส่วนได้ส่วนเสีย
+
+
+
+* **การดำเนินงานนำเสนอเป็นชุด**  
+
+&nbsp; มุมมองหลายชุดถูกดูโปรแกรม
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

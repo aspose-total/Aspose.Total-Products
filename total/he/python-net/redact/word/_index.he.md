@@ -74,7 +74,75 @@ otherformats: PDF Word DOC DOCX ODT Powerpoint PPT PPTX ODP Excel XLS XLSX ODS
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+כתיבת מסמך באמצעות Python APIs עבור קבצי Word מאפשרת עיבוד מאובטח במגוון פורמטים שונים בכינוי אחיד. זה מבטיח הגנת נתונים עקביים ללא קשר למקור המסמך.
+
+
+
+על ידי אוטומציה של תהליך הכינוי של מסמכי Word, ארגונים יכולים לתקן את בקרות הפרטיות ולשפר את היעילות והגמישות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **ממשלת המסמכים העסקיים**  
+
+&nbsp; ליישם מדיניות כינוי עקבית בכל המסמכים בפורמט Word.
+
+
+
+* **בקרת תוכן צורתית צורתית**  
+
+&nbsp; לנהל נתונים רגישים בסביבות קבצי Word מעורבים.
+
+
+
+* **שיתוף ידע מאובטח**  
+
+&nbsp; להפיץ מסמכים כתובים בצורה מאובטחת בתוך הארגון ומחוצה לו.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **שירותי כינוי אחידים**  
+
+&nbsp; לחשוף כינוי כשירות מבוססת Python הניתנת לשימוש חוזר.
+
+
+
+* **עיבוד מופעל על פי אירועים**  
+
+&nbsp; להפעיל כינוי כאשר קבצי Word מועלים או משתנים.
+
+
+
+* **זרימות עבודה מוכנות לבדיקת חשבון**  
+
+&nbsp; לרשום ולעקוב אחר פעולות כינוי אוטומטיות לצורך תאימות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

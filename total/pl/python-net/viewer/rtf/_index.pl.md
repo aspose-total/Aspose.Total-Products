@@ -90,7 +90,73 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Przeglądanie plików RTF za pomocą interfejsów API w języku Python umożliwia inspekcję dokumentów z formatowaniem bogatym i przenośnym.
+
+To wspiera automatyzację w przepływach pracy opartych na tekście, wymagających podstawowego stylowania.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Recenzja sformatowanego tekstu**  
+
+&nbsp; Przeglądaj sformatowany tekst bez pełnej złożoności dokumentu.
+
+
+
+* **Inspekcja dokumentów interoperacyjnych**  
+
+&nbsp; Inspekcja dokumentów w różnych systemach.
+
+
+
+* **Walidacja treści**  
+
+&nbsp; Zapewnij poprawność formatowania i tekstu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Potoki tekstowe zautomatyzowane**  
+
+&nbsp; Przepływy pracy w Pythonie renderują pliki RTF podczas przetwarzania.
+
+
+
+* **Usługi podglądu**  
+
+&nbsp; Dokumenty są dynamicznie wyświetlane do przeglądu.
+
+
+
+* **Walidacja migracji**  
+
+&nbsp; Przeglądanie zapewnia bezpieczną transformację do innych formatów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

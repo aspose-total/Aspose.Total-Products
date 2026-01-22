@@ -90,7 +90,73 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Words for Python via 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Xem tài liệu Word với Python APIs cung cấp một cách thống nhất để kiểm tra các tệp dựa trên văn bản trên nhiều định dạng tương thích với Word.
+
+Điều này hỗ trợ xử lý tài liệu nhất quán trong các hệ thống tự động.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Đánh Giá Tài Liệu Thống Nhất**  
+
+&nbsp; Xem các tài liệu Word khác nhau thông qua một giao diện duy nhất.
+
+
+
+* **Kiểm Tra Sự Nhất Quán Nội Dung**  
+
+&nbsp; Kiểm tra văn bản và cấu trúc qua các tệp.
+
+
+
+* **Tích Hợp Quy Trình Làm Việc**  
+
+&nbsp; Nhúng chế độ xem tài liệu vào các đường ống xử lý.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Các Đường Ống Nội Dung Tự Động**  
+
+&nbsp; Các quy trình Python hiển thị tài liệu Word trong các quy trình làm việc đa bước.
+
+
+
+* **Dịch Vụ Xem Trước**  
+
+&nbsp; Tài liệu được hiển thị động để xem xét hoặc phê duyệt.
+
+
+
+* **Hoạt Động Tài Liệu Đa Tập Tin**  
+
+&nbsp; Tập hợp lớn các tệp Word được xem theo cách lập trình.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

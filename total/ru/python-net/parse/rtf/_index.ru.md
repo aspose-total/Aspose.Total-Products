@@ -104,7 +104,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Разбор **RTF документов** с помощью Python API позволяет извлекать информацию из легкого, широко поддерживаемого текстового формата, сохраняющего базовое оформление. RTF часто используется для взаимодействия и обмена данными между устаревшими системами.
+
+
+
+Автоматизированный разбор RTF обеспечивает быстрое извлечение текста с минимальными структурными накладными расходами.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Извлечение легких документов**  
+
+&nbsp; Извлекает текст из просто оформленных документов.
+
+
+
+* **Взаимодействие с устаревшими системами**  
+
+&nbsp; Обрабатывает файлы, созданные старыми или минимальными редакторами.
+
+
+
+* **Нормализация текста**  
+
+&nbsp; Преобразует RTF в чистые текстовые представления.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Обработка текста в больших объемах**  
+
+&nbsp; Автоматизирует извлечение из больших наборов данных RTF.
+
+
+
+* **Упрощение формата**  
+
+&nbsp; Удаляет стилизацию, сохраняя основное содержимое.
+
+
+
+* **Обмен данными между системами**  
+
+&nbsp; Позволяет программно принимать ввод на основе RTF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

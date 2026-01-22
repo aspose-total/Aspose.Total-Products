@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η συγχώνευση φύλλων OpenDocument χρησιμοποιώντας τα APIs της Python υποστηρίζει ανοικτά πρότυπα και ροές εργασίας δια platforms. Αυτό είναι ιδανικό για περιβάλλοντα που βασίζονται σε εργαλεία γραφείου ανοικτού κώδικα.
+
+
+
+Η αυτοματοποίηση γύρω από τη συγχώνευση ODS εξασφαλίζει τη διαλειτουργικότητα διατηρώντας τη δομημένη ακεραιότητα δεδομένων.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* **Συγχώνευση Φύλλων Δια Πλατφορμών (ODS)**  
+
+&nbsp; Συγχωνεύστε αρχεία ODS που δημιουργήθηκαν σε διαφορετικά πακέτα γραφείου.
+
+
+
+* **Συγχώνευση Δεδομένων Ανοικτών Προτύπων (ODS)**  
+
+&nbsp; Συνδυάστε φύλλα εργασίας ODS για ενιαία ανάλυση.
+
+
+
+* **Συλλογική Συλλογή Δεδομένων (ODS)**  
+
+&nbsp; Συγχωνεύστε αρχεία ODS από κατανεμημένους συνεισφέροντες.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* **Αυτοματισμός Ανοικτής Σωλήνωσης Δεδομένων (ODS)**  
+
+&nbsp; Συστήματα συγχωνεύουν αρχεία ODS χωρίς εξαρτήσεις προτεκτορικού κώδικα.
+
+
+
+* **Προγραμματισμένη Συλλογή Φύλλων Εργασίας (ODS)**  
+
+&nbsp; Η συγχώνευση ODS λειτουργεί ως μέρος επαναλαμβανόμενων εργασιών πίσω από τις σκηνές.
+
+
+
+* **Διαλειτουργικές Σωλήνωσης Αναφορών (ODS)**  
+
+&nbsp; Τα αρχεία ODS συγχωνεύονται δυναμικά στις ροές δεδομένων.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

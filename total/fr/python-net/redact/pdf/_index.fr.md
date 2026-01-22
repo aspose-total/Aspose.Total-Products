@@ -75,7 +75,75 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La rédaction de documents à l'aide des API Python pour les fichiers PDF est essentielle pour supprimer définitivement des informations sensibles des documents à mise en page fixe. Cela garantit que les données rédigées ne peuvent pas être récupérées ou exposées.
+
+
+
+L'automatisation permet une rédaction fiable et reproductible des PDF à grande échelle, la rendant adaptée aux flux de travail de conformité et de divulgation à haut volume.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Préparation à la divulgation légale**  
+
+   Retirez les détails confidentiels des PDF avant leur soumission devant un tribunal ou un organisme de réglementation.
+
+
+
+* **Publication de documents publics**  
+
+   Assainissez les rapports et les dossiers avant leur accès public.
+
+
+
+* **Livraison sécurisée aux clients**  
+
+   Assurez-vous que les informations sensibles sont irrémédiablement supprimées des PDF partagés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Rédaction consciente du contenu**  
+
+   Détectez et supprimez automatiquement le texte ou les zones sensibles.
+
+
+
+* **Pipelines PDF à haut volume**  
+
+   Traitez et rédigez de grands lots de PDF de manière programmée.
+
+
+
+* **Sauvegardes avant publication**  
+
+   Appliquez des vérifications de rédaction avant la publication ou la distribution des documents.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

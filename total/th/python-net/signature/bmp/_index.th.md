@@ -69,7 +69,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การลงนามในไฟล์ BMP โดยใช้ Python APIs ช่วยให้เกิดการอนุมัติและการตรวจสอบสิทธิ์ของสินทรัพย์ที่ใช้รูปภาพแบบแบบต่าง ๆ เช่น สแกน ไดอะแกรม และภาพประกอบการดำเนินงาน ซึ่งจะทำให้ข้อมูลทางภาพที่ใช้ในขั้นตอนการทำงานมีเจ้าของและบริบทการอนุมัติที่ชัดเจน
+
+
+
+เมื่อนำเข้าไปในท่องระบบอัตโนมัติ การลงนาม BMP จะเป็นขั้นตอนการตรวจสอบสุดท้าย ทำให้มั่นใจว่าสินทรัพย์ทางภาพที่ได้รับการตรวจสอบและอนุมัติเท่านั้นที่จะเดินหน้าในระบบการประมวลผลหรือการกระจายข้อมูล
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* **การอนุมัติไดอะแกรมการดำเนินงาน**  
+
+&nbsp; ใส่ตราอนุมัติลงในไดอะแกรม BMP ที่ใช้ในวิศวกรรมหรือเอกสารภายใน
+
+
+
+* **การตรวจสอบสแกนสำหรับบันทึกข้อมูล**  
+
+&nbsp; ลงนามในไฟล์ BMP ที่สแกนเพื่อยืนยันความถูกต้องก่อนเก็บถาวรหรือเก็บข้อมูลเพื่อปฏิบัติตามกฎระเบียบ
+
+
+
+* **การยืนยันคุณภาพของภาพ**  
+
+&nbsp; ทำเครื่องหมายบนสินทรัพย์ BMP ว่าได้รับการตรวจสอบคุณภาพก่อนการบริโภคลงต่อไป
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+
+
+* **การฉีดตรา QA โดยอัตโนมัติ**  
+
+&nbsp; ไฟล์ BMP จะถูกลงนามโดยอัตโนมัติหลังจากผ่านกฎการตรวจสอบภาพ
+
+
+
+* **การทำเครื่องหมายเมื่อเสร็จสิ้นขั้นตอนการดำเนินงาน**  
+
+&nbsp; การลงนามเกิดขึ้นเมื่อขั้นตอนการดำเนินงานการดำเนินงานเอาไปสู่การอนุมัติสุดท้าย
+
+
+
+* **การประมวลผลการอนุมัติภาพเป็นชุด**  
+
+&nbsp; ไฟล์ BMP หลาย ๆ ไฟล์ถูกลงนามโดยโปรแกรมเชิงกระบวนการเป็นชุด
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

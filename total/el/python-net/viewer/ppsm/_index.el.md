@@ -89,7 +89,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η προβολή αρχείων PPSM με Python APIs επιτρέπει την ασφαλή επιθεώρηση παρουσιάσεων με παρουσίαση μακρόκειμενων διαφανειών που έχουν σχεδιαστεί για αυτόματη αναπαραγωγή.
+
+Αυτό υποστηρίζει ελεγχόμενες ροές εργασίας αυτοματισμού όπου απαιτείται ορατότητα χωρίς την εκτέλεση ενσωματωμένων μακροεντολών.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Περιπτώσεις Χρήσης" %}}
+
+
+
+* **Αναθεώρηση Παρουσίασης με Ενεργοποιημένες Μακροεντολές**  
+
+&nbsp; Προβολή περιεχομένου παρουσίασης ενώ οι μακροεντολές παραμένουν ανενεργές.
+
+
+
+* **Επιθεώρηση Ροής Αναπαραγωγής**  
+
+&nbsp; Επιθεώρηση σειράς διαφανειών και δομής παρουσίασης που προορίζεται για αυτόματη εμφάνιση.
+
+
+
+* **Επαλήθευση Ασφαλούς Διανομής**  
+
+&nbsp; Αναθεώρηση αρχείων PPSM πριν από την ελεγχόμενη κοινοποίηση ή αναπτυξιακή διανομή.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* **Ασφαλείς Αγωγοί Εισαγωγής Παρουσιάσεων**  
+
+&nbsp; Οι ροές εργασίας Python αποτυπώνουν με ασφάλεια αρχεία PPSM κατά την εισαγωγή.
+
+
+
+* **Αυτοματισμός Αναθεώρησης με Έμφαση στην Συμμόρφωση**  
+
+&nbsp; Οι παρουσιάσεις προβάλλονται ως μέρος αυτοματοποιημένων ελέγχων πολιτικής.
+
+
+
+* **Ροές Εργασίας Προεγκεκριμένης Παρουσίασης**  
+
+&nbsp; Οι αυτόματες προεπισκοπήσεις υποστηρίζουν τις εγκρίσεις από ανθρώπους ή συστήματα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -85,7 +85,69 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Łączenie obrazów bitmapowych za pomocą interfejsów API w języku Python umożliwia konsolidację surowych, nieskompresowanych wizualizacji w pojedynczy obraz lub sekwencję. Jest to przydatne w obrazowaniu technicznym, przepływach skanowania oraz systemach, w których wierność obrazu jest priorytetowa w stosunku do rozmiaru pliku.
+
+
+
+Zautomatyzowane łączenie plików BMP wspiera deterministyczne potoki przetwarzania obrazów, w których wymagana jest precyzja, powtarzalność i kompozycja sterowana przez system.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe Zastosowania" %}}
+
+
+
+* **Kompilacja Zeskanowanych Obrazów (BMP)**  
+&nbsp; Połączenie wielu skanów BMP w pojedynczy obraz kompozytowy.
+
+
+
+* **Montaż Diagramów Technicznych (BMP)**  
+&nbsp; Połączenie diagramów bitmapowych w spójne wizualizacje.
+
+
+
+* **Archiwizacja Obrazów Surowych (BMP)**  
+&nbsp; Skumulowanie plików BMP do długoterminowego przechowywania lub przetwarzania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Automatyczne Przetwarzanie Skanów (BMP)**  
+&nbsp; Systemy łączą obrazy BMP podczas przepływów przyjmowania.
+
+
+
+* **Kompozycja Obrazów Partii (BMP)**  
+&nbsp; Zaplanowane zadania łączą obrazy bitmapowe programistycznie.
+
+
+
+* **Precyzyjne Potoki Obrazowania (BMP)**  
+&nbsp; Łączenie plików BMP jest osadzone w kontrolowanych systemach przetwarzania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

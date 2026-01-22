@@ -78,7 +78,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Объединение таблиц OpenDocument с помощью API Python поддерживает открытые стандарты и рабочие процессы с данными на разных платформах. Это идеально подходит для сред, которые полагаются на офисные инструменты с открытым исходным кодом.
+
+
+
+Автоматизация вокруг объединения ODS обеспечивает взаимодействие, сохраняя структурированную целостность данных.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Консолидация таблиц на разных платформах (ODS)**  
+
+&nbsp; Объединение файлов ODS, созданных в различных офисных пакетах.
+
+
+
+* **Агрегация данных по открытым стандартам (ODS)**  
+
+&nbsp; Объединение таблиц ODS для единого анализа.
+
+
+
+* **Совместная компиляция данных (ODS)**  
+
+&nbsp; Объединение файлов ODS от распределенных участников.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизация конвейера открытых данных (ODS)**  
+
+&nbsp; Системы объединяют файлы ODS без зависимостей от собственности.
+
+
+
+* **Запланированная компиляция таблиц (ODS)**  
+
+&nbsp; Объединение ODS выполняется в рамках повторяющихся задач на бэкенде.
+
+
+
+* **Взаимодействующие конвейеры отчетности (ODS)**  
+
+&nbsp; Файлы ODS динамически объединяются в рабочих процессах с данными.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

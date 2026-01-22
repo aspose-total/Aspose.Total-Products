@@ -75,7 +75,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri kullanarak PPTX sunularını birleştirmek, modern slayt oluşturmanın en yaygın yaklaşımıdır. Bu, slayt sırası, düzenleri ve içerik tutarlılığı üzerinde hassas kontrol sağlar.
+
+
+
+Bu yetenek, otomatik içerik motorları ve raporlama sistemleriyle temiz bir şekilde entegre olur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Çoklu Bölüm Slayt Oluşturma (PPTX)**  
+
+&nbsp; Bölümleri temsil eden PPTX dosyalarını tek bir slayt setine birleştirin.
+
+
+
+* **İşbirlikçi Slayt Entegrasyonu (PPTX)**  
+
+&nbsp; Birden fazla katkıda bulunan tarafından oluşturulan PPTX slaytlarını birleştirin.
+
+
+
+* **Yeniden Kullanılabilir Slayt Modülü Montajı (PPTX)**  
+
+&nbsp; Modüler PPTX slaytlarını özelleştirilmiş sunumlara monte edin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Dinamik Slayt Seti Oluşturma (PPTX)**  
+
+&nbsp; Sistemler, çalışma zamanı girdilerine dayalı olarak PPTX dosyalarını birleştirir.
+
+
+
+* **CI/CD Sunum Boruları (PPTX)**  
+
+&nbsp; PPTX birleştirme, derleme veya yayınlama aşamalarında otomatikleştirilir.
+
+
+
+* **Ölçeklenebilir Sunum Yayınlama (PPTX)**  
+
+&nbsp; Yüksek hacimli PPTX slayt setleri programatik olarak oluşturulur.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -142,7 +210,7 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

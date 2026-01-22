@@ -78,7 +78,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Łączenie nowoczesnych skoroszytów Excel za pomocą interfejsów API w języku Python jest standardowym podejściem do łączenia strukturalnych zbiorów danych, raportów i modeli. XLSX to najczęściej używany format arkusza kalkulacyjnego we współczesnych systemach.
+
+
+
+Ta funkcjonalność integruje się bezproblemowo z platformami danych, umożliwiając automatyczną generację arkuszy kalkulacyjnych i ich konsolidację na dużą skalę.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Tworzenie raportów wieloarkuszowych (XLSX)**  
+
+&nbsp; Łączenie plików XLSX w kompleksowy skoroszyt raportowy.
+
+
+
+* **Unifikacja źródeł danych (XLSX)**  
+
+&nbsp; Łączenie zbiorów danych XLSX z wielu systemów.
+
+
+
+* **Wspólne tworzenie danych (XLSX)**  
+
+&nbsp; Łączenie plików XLSX dostarczanych przez wielu interesariuszy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Dynamiczna generacja arkuszy kalkulacyjnych (XLSX)**  
+
+&nbsp; Systemy łączą pliki XLSX na podstawie warunków danych uruchomieniowych.
+
+
+
+* **Integracja potoku ETL (XLSX)**  
+
+&nbsp; Łączenie plików XLSX jest automatyzowane w ramach potoków pobierania danych.
+
+
+
+* **Automatyzacja raportowania w skali (XLSX)**  
+
+&nbsp; Raporty XLSX o dużej objętości są łączone programowo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

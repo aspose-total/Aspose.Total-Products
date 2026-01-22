@@ -79,7 +79,85 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/wor
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Adicionar marcas d'água em documentos **DOCX** com APIs Python adiciona controle visível a arquivos do Word modernos, ajudando a evitar distribuição incorreta e esclarecendo a propriedade em conteúdos editáveis e compartilháveis.
+
+A automação em Python permite regras de marca d'água repetíveis em milhares de arquivos DOCX, garantindo posicionamento, opacidade e mensagens consistentes em equipes e sistemas.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Rotulagem de Documentos Confidenciais**  
+
+&nbsp; Carimbar "CONFIDENCIAL" em relatórios sensíveis para desencorajar compartilhamento casual.
+
+
+
+* **Marcação de Versão de Rascunho para Revisões**  
+
+&nbsp; Aplicar sobreposições de "RASCUNHO" para reduzir erros causados por versões desatualizadas.
+
+
+
+* **Marcas de Propriedade de Entregáveis para Clientes**  
+
+&nbsp; Adicionar marcas d'água de propriedade aos entregáveis, preservando a possibilidade de edição para colaboração.
+
+
+
+* **Governança de Modelos para Documentos Empresariais**  
+
+&nbsp; Aplicar padrões de marca d'água em propostas, cartas e declarações geradas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Marca d'água em Propostas Acionada pelo CRM**  
+
+&nbsp; Gerar e adicionar marca d'água automaticamente em propostas DOCX quando uma etapa de negociação é alterada.
+
+
+
+* **Marca d'água em Lote para Migração de Back-Office**  
+
+&nbsp; Carimbar arquivos DOCX arquivados durante a migração de repositório para padronizar a governança.
+
+
+
+* **Marca d'água Dinâmica por Função e Região**  
+
+&nbsp; Adaptar texto da marca d'água com base na função do usuário, localização do escritório ou regras de residência de dados.
+
+
+
+* **Fluxo de Trabalho Complementar de Redação Automatizada**  
+
+&nbsp; Adicionar marca d'água em documentos pós-processados após redação para indicar "CÓPIA SANITIZADA".
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

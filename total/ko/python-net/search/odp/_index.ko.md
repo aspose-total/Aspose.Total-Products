@@ -76,7 +76,75 @@ ODP 검색 가능 소프트웨어 또는 유틸리티를 개발해야 합니까?
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+파이썬 API를 사용하여 **ODP** 파일을 검색하면 협업 및 오픈 소스 환경에서 일반적으로 사용되는 구조화된 액세스가 가능해집니다. 프로그래밍 검색을 통해 시스템이 수동 검토 없이 슬라이드 텍스트, 제목 및 메타데이터를 추출할 수 있습니다.
+
+
+
+자동화된 ODP 문서 검색은 발견성을 향상시키고 확장 가능한 콘텐츠 관리를 지원하며 현대적인 데이터 처리 및 워크플로 자동화 시스템과 원활하게 통합됩니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **ODP 슬라이드 텍스트 검색**  
+
+&nbsp; 오픈 포맷 프레젠테이션 슬라이드 전체에서 키워드와 구문을 찾습니다.
+
+
+
+* **오픈 프레젠테이션 콘텐츠 검토**  
+
+&nbsp; 공유 또는 협업 슬라이드 덱을 빠르게 검토할 수 있습니다.
+
+
+
+* **ODP 메타데이터 발견**  
+
+&nbsp; 분류 및 색인을 위해 문서 속성을 추출합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동화된 ODP 색인**  
+
+&nbsp; 파이썬 서비스가 지속적으로 ODP 파일을 색인하여 검색 액세스를 제공합니다.
+
+
+
+* **ODP 콘텐츠 모니터링**  
+
+&nbsp; 프로그래밍 스캔을 통해 발표 자료의 변경 사항이나 업데이트를 감지합니다.
+
+
+
+* **ODP 워크플로 통합**  
+
+&nbsp; 추출된 콘텐츠가 자동 게시 또는 검토 파이프라인으로 공급됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

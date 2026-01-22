@@ -98,7 +98,93 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A dokumentum metaadatok kinyerése **DOT** fájlokból Python API-k segítségével támogatja a régi sabloneszközök megértését és kezelését azáltal, hogy beágyazott tulajdonságokat olvas, mint például a sablon szerzője, létrehozási idők és leíró mezők. Ez fontos a szabványosítás, a kormányzás és a következetes dokumentumkimenetek fenntartása szempontjából egy szervezeten belül.
+
+
+
+Az automatizált rendszerekben a DOT metaadatok lehetővé teszik a vezérelt sablonéletciklus-kezelést - segítve a csővezetékeket a megfelelő sablonok kiválasztásában, jóváhagyott szabványok érvényesítésében és elavult vagy nem kezelt sablonfájlok felismerésében nagy mennyiségben.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* **Sablonkatalógus Létrehozása**
+
+  DOT metaadatok kinyerése a sablonok keresési állományának és szándékolt céljainak felépítéséhez.
+
+
+
+* **Szabványosítás Érvényesítése**
+
+  Azonosítsa, mely sablonok vannak jóváhagyva a tulajdonjog és leíró tulajdonságok ellenőrzésével.
+
+
+
+* **Sablonéletciklus Követése**
+
+  Kövesse a létrehozott / módosított időket, hogy észrevegye a felületes sablonokat, amelyeket felül kell vizsgálni vagy nyugdíjba kell küldeni.
+
+
+
+* **Sablonhasználat Kormányzása**
+
+  Használja a metaadatokat a sablonok összekapcsolásához osztályokhoz vagy munkafolyamatokhoz a vezérelt terjesztés érdekében.
+
+
+
+* **Ellenőrizhető Sablonrekordok**
+
+  Hozzon létre nyomon követhető naplókat, amelyek megmutatják a sablon eredetét és karbantartási előzményeit a szabályozási követelményeknek megfelelően.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* **Jóváhagyott Sablonok Védelme**
+
+  Automatikusan blokkolja az engedélyezetlen DOT sablonok tárolását megosztott tárolókban a metaadat-szabályok alapján.
+
+
+
+* **Ütemezett Sablonfrissítési Értesítések**
+
+  Kivált periodikus értesítéseket, amikor a DOT sablonok meghaladják az életkor korlátait vagy hiányoznak a karbantartó mezők.
+
+
+
+* **Sablonválasztás Automatizálása**
+
+  Használja a metaadatokat a megfelelő DOT sablon programozott kiválasztásához egy adott munkafolyamathoz vagy osztályhoz.
+
+
+
+* **Tároló Tisztítási Munkafolyamat**
+
+  Azonosítsa és szeparálja a duplikált vagy elavult DOT sablonokat a metaadat hasonlósága és időbélyegek alapján.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

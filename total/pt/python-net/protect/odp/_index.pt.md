@@ -71,7 +71,75 @@ Para obter mais detalhes, consulte [Documentação do produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Os arquivos ODP são comumente usados em fluxos de trabalho de apresentação de padrão aberto. Proteger esses arquivos de apresentação garante que o conteúdo visual e a mensagem permaneçam intactos durante o compartilhamento e colaboração.
+
+
+
+Com APIs Python, as apresentações ODP podem ser protegidas automaticamente, permitindo o manuseio seguro dentro de sistemas escaláveis de geração e entrega de apresentações.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Proteção da Integridade da Apresentação**  
+
+  Evite modificações não autorizadas nos slides e layouts.
+
+
+
+* **Briefings Confidenciais**  
+
+  Proteja apresentações sensíveis antes de compartilhá-las interna ou externamente.
+
+
+
+* **Governança de Apresentação Padronizada**  
+
+  Aplique regras de proteção consistentes em todos os arquivos ODP.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Proteção Automatizada de Conjunto de Slides**  
+
+  Proteja arquivos ODP imediatamente após a criação automatizada.
+
+
+
+* **Aplicação de Segurança Baseada em Pipeline**  
+
+  Aplique proteção durante fluxos de trabalho de conteúdo no estilo CI/CD.
+
+
+
+* **Restrições de Acesso Programático**  
+
+  Controle dinamicamente os direitos de edição e visualização via scripts.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

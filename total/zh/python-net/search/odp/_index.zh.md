@@ -76,7 +76,75 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API搜索**ODP**文件可以实现对常用于协作和开源环境中的开放标准演示文档的结构化访问。通过编程搜索，系统可以提取幻灯片文本、标题和元数据，无需手动审核。
+
+
+
+自动化进行ODP文档搜索可以提高可发现性，支持可扩展的内容管理，并与现代数据处理和工作流自动化系统无缝集成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **ODP幻灯片文本搜索**  
+
+&nbsp; 在开放格式演示文稿幻灯片中定位关键字和短语。
+
+
+
+* **开放式演示内容审查**  
+
+&nbsp; 可快速检查共享或协作幻灯片组。
+
+
+
+* **ODP元数据发现**  
+
+&nbsp; 提取文档属性以进行分类和索引。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化ODP索引**  
+
+&nbsp; Python服务持续索引ODP文件以进行搜索访问。
+
+
+
+* **ODP内容监控**  
+
+&nbsp; 编程扫描检测演示文稿中的更改或更新。
+
+
+
+* **ODP工作流集成**  
+
+&nbsp; 提取的内容用于自动发布或审查流程。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

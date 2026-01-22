@@ -82,7 +82,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API查看通用图像格式为检查视觉资产提供了统一的方法，跨工作流程检查图像。
+
+这使得无论来源或类型如何，都能一致处理图像。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **统一图像检查**  
+
+  查看各种图像文件通过单一界面。
+
+
+
+* **视觉资产验证**  
+
+  确认图像完整性和外观。
+
+
+
+* **内容管道支持**  
+
+  在处理阶段检查图像。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化图像管道**  
+
+  Python工作流在批处理过程中显示图像。
+
+
+
+* **动态预览服务**  
+
+  根据需要呈现图像进行审查。
+
+
+
+* **质量保证自动化**  
+
+  查看支持自动化视觉检查。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

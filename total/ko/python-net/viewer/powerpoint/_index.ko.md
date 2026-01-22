@@ -89,7 +89,73 @@ POWERPOINT 뷰어 앱이나 유틸리티를 개발해야 합니까?[Aspose.Total
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API를 사용하여 PowerPoint 프레젠테이션을 볼 수 있으면 프로그래밍 방식으로 슬라이드 기반 콘텐츠에 대한 검토와 유효성 검사가 가능합니다.
+
+이는 자동화된 보고서, 프레젠테이션 워크플로우 및 콘텐츠 파이프라인을 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **슬라이드 콘텐츠 검토**
+
+&nbsp; 프레젠테이션 소프트웨어를 열지 않고 순차적으로 슬라이드를 볼 수 있습니다.
+
+
+
+* **프레젠테이션 품질 확인**
+
+&nbsp; 레이아웃 및 텍스트를 덱 전체에서 검사할 수 있습니다.
+
+
+
+* **보고서 자동화 지원**
+
+&nbsp; 배포 전에 생성된 프레젠테이션을 확인할 수 있습니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동화된 덱 생성 검토**
+
+&nbsp; Python 워크플로우는 자동 생성 후 슬라이드를 표시합니다.
+
+
+
+* **일괄 프레젠테이션 감사**
+
+&nbsp; 여러 프레젠테이션을 프로그래밍 방식으로 검토합니다.
+
+
+
+* **이해관계자를 위한 미리보기 서비스**
+
+&nbsp; 승인 워크플로우를 위해 슬라이드가 동적으로 렌더링됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

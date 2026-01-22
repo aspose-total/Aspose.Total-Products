@@ -89,7 +89,73 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A PPSM fájlok megtekintése Python API-k segítségével lehetővé teszi a makróval ellátott diavetítések biztonságos ellenőrzését, melyek automatikus lejátszásra lettek tervezve.
+
+Ez támogatja a kontrollált automatizált munkafolyamatokat, ahol a láthatóság szükséges anélkül, hogy be lennének hajtva a beágyazott makrók.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Makróval ellátott diavetítés ellenőrzése**  
+
+&nbsp; Nézze meg a diavetítés tartalmát anélkül, hogy a makrók aktívak lennének.
+
+
+
+* **Lejátszási folyamat ellenőrzése**  
+
+&nbsp; Ellenőrizze a diák sorrendjét és a bemutató szerkezetét, amely automatikus megjelenítésre lett tervezve.
+
+
+
+* **Biztonságos terjesztés ellenőrzése**  
+
+&nbsp; Nézze át a PPSM fájlokat a kontrollált megosztás vagy telepítés előtt.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Biztonságos diavetítés beviteli csatornák**  
+
+&nbsp; A Python munkafolyamatok biztonságosan renderelik a PPSM fájlokat az adatbevitel során.
+
+
+
+* **Megfelelőség-orientált ellenőrzés automatizálása**  
+
+&nbsp; A diavetítéseket automatizált irányelvek ellenőrzéseként tekintik.
+
+
+
+* **Előzetes jóváhagyási bemutató munkafolyamatok**  
+
+&nbsp; Az automatizált előnézetek támogatják az emberi vagy rendszer alapú jóváhagyásokat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

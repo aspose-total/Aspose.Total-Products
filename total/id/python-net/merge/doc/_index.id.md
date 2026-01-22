@@ -78,7 +78,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Menggabungkan dokumen menggunakan API Python adalah kemampuan dasar untuk pemrosesan konten modern, pelaporan, dan manajemen siklus dokumen. Ini memungkinkan pengembang dan sistem untuk menggabungkan beberapa file ke dalam satu output terstruktur sambil mempertahankan format, tata letak, dan alur logis di seluruh sumber dokumen heterogen.
+
+
+
+Dengan mengotomatisasi penggabungan dokumen, organisasi dapat mengurangi upaya manual, memastikan konsistensi, dan mengintegrasikan alur kerja dokumen langsung ke dalam pipa data, layanan backend, dan sistem otomatisasi yang dapat diskalakan yang dibangun dengan Python.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Kunci" %}}
+
+
+
+* **Laporan Kata Kunci Terkonsolidasi (DOC)**  
+
+&nbsp; Gabungkan dokumen Word warisan ke dalam satu laporan untuk tinjauan dan arsip yang terpadu.
+
+
+
+* **Perakitan Dokumen Batch (DOC)**  
+
+&nbsp; Susun beberapa file DOC yang dihasilkan oleh sistem yang berbeda menjadi satu dokumen yang dapat disampaikan.
+
+
+
+* **Aggregasi Konten Historis (DOC)**  
+
+&nbsp; Gabungkan file DOC yang diarsipkan untuk memodernisasi dan memanfaatkan kembali koleksi konten yang lebih lama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompilasi Laporan Terjadwal (DOC)**  
+
+&nbsp; Pekerjaan otomatis menggabungkan file DOC harian atau mingguan ke dalam laporan yang dapat didistribusikan.
+
+
+
+* **Penggabungan Dokumen Berbasis Alur Kerja (DOC)**  
+
+&nbsp; Alur kerja backend secara dinamis menggabungkan file DOC saat tahap proses selesai.
+
+
+
+* **Generasi Output Berbasis Pipa (DOC)**  
+
+&nbsp; Penggabungan DOC dipicu secara programatis sebagai bagian dari pipa dokumen yang lebih besar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

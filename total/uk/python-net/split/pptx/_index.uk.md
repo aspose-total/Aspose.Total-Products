@@ -72,7 +72,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTX - це сучасний формат презентацій на основі XML, призначений для структурованого вмісту слайдів. Розщеплення файлів PPTX дозволяє здійснювати дрібнозерновий контроль над даними на рівні слайдів.
+
+
+
+Автоматизація на основі Python підтримує надійну, масштабовану та орієнтовану на формат обробку файлів PPTX.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+
+
+
+* **Управління вмістом на рівні слайдів**  
+
+&nbsp; Керуйте окремими слайдами як незалежними одиницями.
+
+
+
+* **Автоматизована настроювання деки**  
+
+&nbsp; Створюйте індивідуалізовані презентації з видобраних слайдів.
+
+
+
+* **Аналітика презентацій**  
+
+&nbsp; Аналізуйте вміст слайдів програмно.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Розбір слайдів з урахуванням XML**  
+
+&nbsp; Сценарії Python точно видобувають слайди.
+
+
+
+* **Збірка деки на основі правил**  
+
+&nbsp; Слайди збираються динамічно.
+
+
+
+* **Автоматизовані конвеєри перевірки**  
+
+&nbsp; Слайди перевіряються незалежно.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

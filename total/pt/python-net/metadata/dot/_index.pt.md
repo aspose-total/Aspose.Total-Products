@@ -98,7 +98,93 @@ Para obter mais detalhes, consulte [Documentação do produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Extração de metadados de documentos para arquivos **DOT** via APIs Python suporta a compreensão e gerenciamento de ativos de modelo legados lendo propriedades incorporadas como autor do modelo, horários de criação e campos descritivos. Isso é importante para padronização, governança e manutenção de saídas de documentos consistentes em toda a organização.
+
+
+
+Em sistemas automatizados, metadados DOT permitem o gerenciamento controlado do ciclo de vida do modelo—ajudando pipelines a escolher os modelos corretos, fazer cumprir padrões aprovados e detectar arquivos de modelo desatualizados ou não gerenciados em escala.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Criação de Catálogo de Modelos**
+
+  Extrair metadados DOT para construir um inventário pesquisável de modelos e seus propósitos pretendidos.
+
+
+
+* **Aplicação de Padronização**
+
+  Identificar quais modelos são aprovados verificando propriedades de propriedade e descritivas.
+
+
+
+* **Rastreamento do Ciclo de Vida do Modelo**
+
+  Monitorar horários de criação/modificação para detectar modelos obsoletos que precisam de revisão ou aposentadoria.
+
+
+
+* **Governança de Uso de Modelos**
+
+  Usar metadados para vincular modelos a departamentos ou fluxos de trabalho para distribuição controlada.
+
+
+
+* **Registros de Modelo Prontos para Auditoria**
+
+  Produzir logs rastreáveis mostrando origens de modelos e histórico de manutenção para necessidades de conformidade.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Controle de Acesso a Modelos Aprovados**
+
+  Bloquear automaticamente modelos DOT não aprovados de serem armazenados em repositórios compartilhados com base em regras de metadados.
+
+
+
+* **Alertas de Atualização de Modelo Agendados**
+
+  Disparar notificações periódicas quando modelos DOT excedem limites de idade ou faltam campos de mantenedor.
+
+
+
+* **Automação de Seleção de Modelo**
+
+  Usar metadados para selecionar programaticamente o modelo DOT correto para um determinado fluxo de trabalho ou departamento.
+
+
+
+* **Fluxo de Trabalho de Limpeza de Repositório**
+
+  Identificar e isolar modelos DOT duplicados ou desatualizados usando similaridade de metadados e carimbos de data/hora.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

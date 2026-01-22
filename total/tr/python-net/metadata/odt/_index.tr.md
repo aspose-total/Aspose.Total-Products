@@ -98,7 +98,93 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'leri aracılığıyla **ODT** dosyaları için belge meta verilerinin çıkarılması, metin belge özelliklerine programatik erişim sağlar - denetim, sınıflandırma ve arama zenginleştirmesini manuel incelemeye dayanmadan mümkün kılar. Bu, belge yönetimi, bilgi yönetimi ve yaşam döngüsü takibi için önemlidir.
+
+
+
+Otomasyon sistemlerinde, ODT meta verileri standartları zorlamak, onayları yönlendirmek ve katalogları senkronize etmek için kullanılabilir - tutarlı kurallarla büyük depolardaki ölçeklenebilir işlemleri destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Bilgi Tabanı Organizasyonu**
+
+  ODT meta verilerini kullanarak iç belgeleri kategorize etmek ve dizinlemek için.
+
+
+
+* **Sahiplik ve Sorumluluk Kontrolleri**
+
+  İnceleyicileri atamak ve hesap verebilirliği sürdürmek için yazar ve düzenleyici alanlarını çıkartın.
+
+
+
+* **Saklama ve Arşivleme Kararları**
+
+  ODT dosyalarının arşivlenip, saklanıp veya güncellenip güncellenmeyeceğini belirlemek için zaman damgalarını kullanın.
+
+
+
+* **Analizler için Meta Veri Normalizasyonu**
+
+  Raporlama ve trend analizi için ODT özelliklerini tutarlı alanlara dönüştürün.
+
+
+
+* **Yayınlama Öncesi Doğrulama**
+
+  ODT belgelerini yayınlanabilir formatlara dönüştürmeden önce gerekli açıklayıcı alanları doğrulayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Kurallara Dayalı Alım Sınıflandırması**
+
+  Meta veri varlığı, sahiplik ve zaman damgalarını kullanarak ODT belgelerini otomatik olarak iş akışlarına sınıflandırın.
+
+
+
+* **Katalog Senkronizasyon İş Akışı**
+
+  ODT meta verilerini geceleyin çıkarın ve iç arama sistemleri tarafından kullanılan merkezi bir kayıta senkronize edin.
+
+
+
+* **Otomatik Belge İncelemeleri**
+
+  Meta veriler, belirli bir politika penceresi içinde güncellenmediğini gösterdiğinde ODT dosyaları için inceleme görevlerini tetikleyin.
+
+
+
+* **Meta Veriden Erişim Politikası Eşlemesi**
+
+  ODT meta verileri kısıtlı içerik kategorilerini gösterdiğinde erişim kurallarını dinamik olarak uygulayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

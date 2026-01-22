@@ -75,7 +75,93 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A dokumentum metaadat-kinyerése **ODP** fájlokhoz Python API-k segítségével lehetővé teszi a rendszerek számára, hogy olvassák a bemutató attribútumait és beágyazott tulajdonságait a diavetítésekhez - támogatva ezzel a kormányzást, felfedezést és életcikluskezelést anélkül, hogy megnyitnák a fájlt egy GUI-ban. Ez fontos lehet olyan csapatok számára, amelyek nagy mennyiségű képzési, értékesítési vagy operatív bemutatókat kezelnek.
+
+
+
+Automatizált munkafolyamatokban az ODP metaadatok indexelést, osztályozást és ellenőrzött közzétételt vezérelhetnek - így könnyebbé válik a diavetítési könyvtárak karbantartása, keresése és integrálása a tartalomszétosztási rendszerekbe.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* **Bemutatókönyvtár Indexelése**
+
+  ODP metaadatok kinyerése a keresésre alkalmas diavetítési katalógusok létrehozásához szerző, téma és frissítési idő alapján.
+
+
+
+* **Képzési Tartalom Frissességellenőrzései**
+
+  Módosított időbélyegek használata a régi diavetítések azonosításához, amelyek frissítési ciklusokat igényelnek.
+
+
+
+* **Osztályozás Osztályonként**
+
+  Normálja a metaadat tulajdonságait strukturált kategóriákba a következetes szervezés és hozzáférési vezérlők érdekében.
+
+
+
+* **Eszköz Kormányzati Jelentések**
+
+  ODP metaadatok összesítése az használatra való készenlét, a lefedettségi hiányok és a karbantartási tulajdonosi szint mérésére.
+
+
+
+* **Tömeges Migráció Előkészítése**
+
+  Ellenőrizze az ODP tulajdonságokat a migráció előtt az új tárolókba vagy közzétételi környezetekbe.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* **Automatizált Diavetítés Beolvasása**
+
+  Feltöltéskor kinyeri az ODP metaadatokat és automatikusan hozzárendeli a megfelelő tárolószakaszhoz.
+
+
+
+* **Elavultság Riasztás Automatizálása**
+
+  Riasztások kiváltása, amikor az ODP diavetítések meghaladják a frissítési küszöbértékeket vagy hiányoznak a felelős tulajdonosi mezők.
+
+
+
+* **Metaadat-vezérelt Közzétételi Szabályok**
+
+  Közzéteszi vagy korlátozza az ODP diavetítéseket a metaadatokat jelző zászlók alapján, amelyek bizalmas vagy csak belső felhasználásra utalnak.
+
+
+
+* **Tömeges Ellenőrzési és Jelentési Feladatok**
+
+  Menetrend szerinti feladatok futtatása, amelyek ODP metaadat-összefoglalókat exportálnak a kormányzati és működési ellenőrzésekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

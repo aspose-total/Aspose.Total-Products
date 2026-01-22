@@ -77,7 +77,75 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Python via
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Việc soạn thảo tài liệu bằng Python APIs cho các tệp ODP cho phép xử lý an toàn nội dung trình bày được tạo ra theo các tiêu chuẩn tài liệu mở. Điều này rất quan trọng khi chia sẻ các slide có thể chứa thông tin nhạy cảm hoặc độc quyền.
+
+
+
+Tự động hóa đảm bảo rằng các bản trình bày ODP có thể được làm sạch một cách nhất quán, hỗ trợ kiểm soát quyền riêng tư có thể mở rộng và lặp lại trên các tài sản trình bày.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Chia Sẻ Slide Bí Mật**  
+
+&nbsp; Loại bỏ dữ liệu nhạy cảm từ các slide trước khi phân phối.
+
+
+
+* **Quản Lý Định Dạng Mở**  
+
+&nbsp; Áp dụng chính sách bảo vệ dữ liệu cho các tệp trình bày chuẩn mở.
+
+
+
+* **Vệ Sinh Tài Liệu Đào Tạo**  
+
+&nbsp; Xóa các tham chiếu nội bộ trước khi xuất bản nội dung học tập.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Quy Tắc Vệ Sinh Tại Cấp Slide**  
+
+&nbsp; Tự động vệ sinh nội dung từ các slide hoặc bố cục cụ thể.
+
+
+
+* **Luồng Xây Dựng Bản Trình Bày**  
+
+&nbsp; Tích hợp vệ sinh vào quy trình tạo bản trình bày tự động.
+
+
+
+* **Quét Tuân Thủ Định Kỳ**  
+
+&nbsp; Định kỳ làm sạch các tệp ODP đã lưu trữ bằng các công việc tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

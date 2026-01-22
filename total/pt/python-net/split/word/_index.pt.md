@@ -79,7 +79,75 @@ Para obter mais detalhes, consulte [Documentação do produto](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Documentos do Word abrangem uma variedade de formatos de texto estruturado usados em fluxos de trabalho empresariais e técnicos. Dividir documentos do Word permite acesso focado às seções de conteúdo relevantes.
+
+
+
+A divisão baseada em Python suporta a automação, permitindo o manuseio consistente e escalável de documentos em sistemas.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Processamento de Conteúdo com Base em Seções**  
+
+  &nbsp; Manipular capítulos ou seções de forma independente.
+
+
+
+* **Otimização de Documentos Grandes**  
+
+  &nbsp; Melhorar o desempenho ao dividir arquivos muito grandes.
+
+
+
+* **Governança de Conteúdo**  
+
+  &nbsp; Aplicar regras a partes individuais do documento.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Pipelines de Processamento de Documentos Unificados**  
+
+  &nbsp; Documentos do Word são divididos e processados automaticamente.
+
+
+
+* **Roteamento Automatizado de Conteúdo**  
+
+  &nbsp; Seções são enviadas para diferentes sistemas com base na lógica.
+
+
+
+* **Extração de Conhecimento Escalável**  
+
+  &nbsp; Seções extraídas alimentam análises ou fluxos de trabalho de IA.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

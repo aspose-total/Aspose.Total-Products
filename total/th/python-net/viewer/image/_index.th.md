@@ -82,7 +82,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การดูภาพร่างทั่วไปด้วย Python APIs ให้วิธีการที่เป็นรูปแบบเดียวกันในการตรวจสอบทรัพยากรทางสายตาทั่วไป
+
+นี้ช่วยให้การจัดการภาพเป็นไปอย่างสม่ำเสมอโดยไม่ว่าจะเป็นจากแหล่งใดหรือชนิดใด
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **การตรวจสอบภาพอย่างเป็นรูปเป็นร่าง**  
+
+&nbsp; ดูไฟล์ภาพที่หลากหลายผ่านอินเตอร์เฟซเดียว
+
+
+
+* **การยืนยันทรัพยากรทางสายตา**  
+
+&nbsp; ยืนยันความสมบูรณ์และลักษณะของภาพ
+
+
+
+* **การสนับสนุนกระบวนการผ่านท่อเนื้อหา**  
+
+&nbsp; ตรวจสอบภาพในขั้นตอนการประมวลผล
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **ท่อประมวลผลภาพอัตโนมัติ**  
+
+&nbsp; การทำงานของ Python แสดงภาพในขณะประมวลผลเป็นกลุ่ม
+
+
+
+* **บริการดูตัวอย่างแบบไดนามิก**  
+
+&nbsp; ภาพถูกสร้างขึ้นตามความต้องการสำหรับการตรวจสอบ
+
+
+
+* **การอัตโนมัติในการรับรองคุณภาพ**  
+
+&nbsp; การดูรองรับการตรวจสอบทางสายตาอัตโนมัติ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

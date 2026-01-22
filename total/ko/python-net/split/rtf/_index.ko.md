@@ -79,7 +79,75 @@ RTF 파일을 쉽게 분할하기 위해 Python 스크립트 또는 유틸리티
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+RTF 파일은 포맷이 포함된 텍스트 중심 문서 형식을 제공합니다. RTF 파일을 분할하면 포맷이 적용된 콘텐츠를 제어하여 추출할 수 있습니다.
+
+
+
+대규모 시스템에서 RTF 문서를 효율적으로 처리할 수 있도록 파이썬 자동화가 가능합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **포맷된 텍스트 추출**  
+
+  &nbsp; 포맷을 유지한 채 섹션을 추출합니다.
+
+
+
+* **상호 운용 가능한 콘텐츠 처리**  
+
+  &nbsp; 추출된 콘텐츠를 다양한 플랫폼에서 사용합니다.
+
+
+
+* **문서 단순화**  
+
+  &nbsp; 복잡한 파일을 관리 가능한 단위로 분할합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **패턴 기반 섹션 분할**  
+
+  &nbsp; Python은 제어 단어를 식별하여 콘텐츠를 분할합니다.
+
+
+
+* **자동화된 콘텐츠 변환**  
+
+  &nbsp; 추출된 섹션은 프로그래밍 방식으로 변환됩니다.
+
+
+
+* **시스템 간 콘텐츠 파이프라인**  
+
+  &nbsp; 섹션이 다른 시스템으로 원활하게 이동합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -72,7 +72,87 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La rotation des documents PDF de manière programmée est une exigence courante dans les flux de travail de traitement de documents modernes, notamment lorsqu'il s'agit de fichiers scannés, de pages à orientation mixte ou de contenu téléchargé par l'utilisateur. La rotation de PDF à l'aide des API Python permet aux développeurs et aux systèmes de corriger l'orientation des pages de manière fiable sans intervention manuelle, améliorant ainsi la lisibilité, la cohérence et la précision du traitement ultérieur.
+
+
+
+En tirant parti de l'automatisation basée sur Python, la rotation de PDF peut être intégrée de manière transparente dans des pipelines plus importants tels que l'ingestion de documents, les systèmes d'archivage et les plateformes de gestion de contenu. Cela permet une gestion évolutive, reproductible et sans erreur de l'orientation des documents sur de grands volumes de fichiers.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Correction de l'orientation des documents scannés**  
+
+  &nbsp; Fait pivoter automatiquement les pages PDF scannées incorrectement vers l'orientation appropriée pour une meilleure lisibilité et une meilleure utilisabilité.
+
+
+
+* **Normalisation des PDF multi-sources**  
+
+  &nbsp; Aligne l'orientation des pages lors de la combinaison de PDF provenant de différentes sources pour garantir une expérience de visualisation cohérente.
+
+
+
+* **Prétraitement pour OCR et l'extraction de texte**  
+
+  &nbsp; Garantit que les pages sont correctement orientées avant l'OCR, améliorant ainsi la précision de la reconnaissance de texte et la qualité des données.
+
+
+
+* **Normalisation des documents téléchargés par l'utilisateur**  
+
+  &nbsp; Ajuste la rotation des pages pour les PDF téléchargés afin de respecter les normes de la plateforme ou de conformité.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Pipelines d'ingestion automatisés**  
+
+  &nbsp; La rotation des PDF est appliquée automatiquement lors de l'ingestion pour normaliser les documents avant le stockage ou le traitement ultérieur.
+
+
+
+* **Flux de travail de traitement par lots**  
+
+  &nbsp; Les grandes collections de PDF sont tournées de manière programmée en masse, réduisant ainsi les efforts manuels et le temps de traitement.
+
+
+
+* **Automatisation du prétraitement OCR**  
+
+  &nbsp; La rotation est appliquée dynamiquement avant les tâches OCR pour améliorer la précision de la reconnaissance dans les systèmes d'extraction de texte automatisés.
+
+
+
+* **Traitement basé sur API en temps réel**  
+
+  &nbsp; Les pages PDF sont tournées en temps réel via des API dans le cadre de services de transformation de documents dynamiques.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -79,7 +79,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT PDF PPT PPTX ODP PowerPoint
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT είναι ένα ανοιχτό μορφότυπο εγγράφου σχεδιασμένο για δομημένα εγγράφα κειμένου. Η διαίρεση αρχείων ODT επιτρέπει την επεξεργασία σε επίπεδο ενοτήτων και τη διαχείριση δομημένου περιεχομένου.
+
+
+
+Χρησιμοποιώντας τα APIs της Python, η διαίρεση ODT γίνεται επεκτάσιμη και κατάλληλη για αυτοματοποιημένες διαδικασίες εγγράφου.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* **Εξαγωγή Δομημένου Περιεχομένου**  
+
+&nbsp; Εξαγωγή κεφαλαίων ή ενοτήτων ανεξάρτητα.
+
+
+
+* **Αρχειοθέτηση σε Ανοιχτή Μορφή**  
+
+&nbsp; Διατήρηση και διαχείριση περιεχομένου σε γρανουλώδες επίπεδο.
+
+
+
+* **Επεξεργασία Εγγράφου Σε Συνεργατική Βάση**  
+
+&nbsp; Δυνατοποιεί παράλληλες ροές εργασίας σε ενότητες εγγράφου.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* **Ανάλυση Ενότητας Βασισμένη σε XML**  
+
+&nbsp; Η Python αναγνωρίζει δομικούς δείκτες για τη διαίρεση.
+
+
+
+* **Αυτόματη Κατηγοριοποίηση Περιεχομένου**  
+
+&nbsp; Οι εξαγόμενες ενότητες κατηγοριοποιούνται προγραμματιστικά.
+
+
+
+* **Δρομολόγηση Εγγράφου Προσανατολισμένη σε Ροές Εργασίας**  
+
+&nbsp; Οι ενότητες μεταβιβάζονται αυτόματα σε διαφορετικά συστήματα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

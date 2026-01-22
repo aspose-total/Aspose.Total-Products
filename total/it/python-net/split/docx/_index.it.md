@@ -79,7 +79,75 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX è un formato di documento moderno basato su XML progettato per lo storage strutturato ed estensibile dei contenuti. La divisione dei file DOCX consente un accesso preciso ai componenti del documento come intestazioni, tabelle o sezioni.
+
+
+
+La divisione dei file DOCX basata su Python migliora l'automazione consentendo il parsing consapevole dello schema, l'elaborazione scalabile e l'integrazione senza soluzione di continuità con i sistemi di gestione dei contenuti.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* **Pubblicazione Modulare dei Documenti**  
+
+&nbsp; I file DOCX di grandi dimensioni possono essere divisi in sezioni pronte per la pubblicazione.
+
+
+
+* **Estrazione Selettiva dei Contenuti**  
+
+&nbsp; Vengono estratte solo le porzioni rilevanti per flussi di lavoro mirati.
+
+
+
+* **Controllo delle Versioni del Documento**  
+
+&nbsp; Le sezioni divise consentono il tracciamento e gli aggiornamenti indipendenti.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Segmentazione Basata sulle Intestazioni**  
+
+&nbsp; Gli script Python dividono i documenti utilizzando tag strutturali.
+
+
+
+* **Elaborazione dei Contenuti Basata su Pipeline**  
+
+&nbsp; Le sezioni estratte fluiscono automaticamente nelle fasi di convalida o rendering.
+
+
+
+* **Controlli di Conformità Automatici**  
+
+&nbsp; Ciascuna sezione viene convalidata indipendentemente rispetto alle regole.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -139,7 +207,7 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

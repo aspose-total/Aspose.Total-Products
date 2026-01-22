@@ -74,7 +74,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'ları kullanarak belgelerin ODT dosyaları için metin düzenleme, açık belge metin dosyalarını değiştirmeden güvenli bir şekilde değiştirmeyi sağlar. Bu, şeffaf ve standartlara dayalı belge işleme desteği sağlar.
+
+
+
+ODT düzenlemesini otomatikleştirerek, kuruluşlar açık kaynaklı ve birbirleriyle uyumlu belge ekosistemlerinde hassas içeriği verimli bir şekilde yönetebilir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Gizlilik Dostu Belge Değişimi**  
+
+&nbsp; ODT dosyalarını harici olarak paylaşmadan önce kişisel verileri gizleyin.
+
+
+
+* **Politika Odaklı İçerik Kaldırma**  
+
+&nbsp; Kurumsal politikalarla uyumlu düzenleme kurallarını zorlayın.
+
+
+
+* **Açık Belge Yayınlama**  
+
+&nbsp; Halka veya çapraz platform kullanımı için temizlenmiş belgeler hazırlayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Meta Veri ve Metin Düzenleme**  
+
+&nbsp; Hem metin gövdesinden hem de meta veriden hassas içeriği otomatik olarak kaldırın.
+
+
+
+* **Toplu Açık Format İşleme**  
+
+&nbsp; Büyük miktarda ODT dosyasını tek otomatik çalışmada düzenleyin.
+
+
+
+* **CMS Boru Hatlarıyla Entegrasyon**  
+
+&nbsp; Belgeler yayınlanmadan veya yayınlandıktan önce düzenlemeyi uygulayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

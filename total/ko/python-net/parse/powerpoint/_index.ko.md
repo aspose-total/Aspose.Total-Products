@@ -100,7 +100,75 @@ POWERPOINT 파서 앱이나 유틸리티를 개발해야 합니까?[Aspose.Total
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+파이썬 API를 사용하여 **PowerPoint 프레젠테이션**을 구문 분석하면 프레젠테이션 파일에서 제목, 글머리 기호, 레이아웃 및 발표자 노트를 포함한 슬라이드 콘텐츠를 구조화된 방식으로 추출할 수 있습니다. 이를 통해 프레젠테이션 기반 정보를 분석, 재사용 및 시스템 통합을 위해 접근 가능하게 할 수 있습니다.
+
+
+
+자동화된 워크플로에 연결되면 PowerPoint 구문 분석은 정적인 슬라이드 덱을 동적 데이터 소스로 변환하여 확장 가능한 지식 처리, 보고 및 콘텐츠 작업을 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **슬라이드 콘텐츠 추출**  
+
+&nbsp; PowerPoint 슬라이드에서 구조화된 텍스트 및 레이아웃 요소를 검색합니다.
+
+
+
+* **프레젠테이션 지식 처리**  
+
+&nbsp; 슬라이드 덱을 검색 가능하고 분석 가능한 정보 자산으로 변환합니다.
+
+
+
+* **콘텐츠 재사용 및 변환**  
+
+&nbsp; 문서 및 플랫폼 간에 프레젠테이션 자료를 재활용할 수 있게 합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동화된 프레젠테이션 적재**  
+
+&nbsp; 적재 파이프라인의 일부로 PowerPoint 파일을 자동으로 처리합니다.
+
+
+
+* **슬라이드 수준 콘텐츠 요약**  
+
+&nbsp; 구문 분석된 슬라이드 데이터에서 요약 및 구조화된 출력을 생성합니다.
+
+
+
+* **프로그래밍 방식의 콘텐츠 배포**  
+
+&nbsp; 추출된 프레젠테이션 콘텐츠를 하류 시스템 및 워크플로에 공급합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

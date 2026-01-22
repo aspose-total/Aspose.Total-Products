@@ -74,7 +74,75 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La redazione di documenti utilizzando le API di Python per i file ODT consente la modifica sicura dei file di testo dei documenti aperti senza alterarne la struttura principale. Questo supporta un'elaborazione documentale trasparente e basata su standard.
+
+
+
+Automatizzando la redazione ODT, le organizzazioni possono gestire in modo efficiente i contenuti sensibili attraverso ecosistemi documentali open source e interoperabili.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* **Scambio di Documenti Riservato alla Privacy**  
+
+&nbsp; Redigere i dati personali prima di condividere i file ODT esternamente.
+
+
+
+* **Rimozione dei Contenuti Basata su Politiche**  
+
+&nbsp; Applicare regole di redazione allineate alle politiche organizzative.
+
+
+
+* **Pubblicazione di Documenti Aperti**  
+
+&nbsp; Preparare documenti sanificati per un uso pubblico o multipiattaforma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Redazione di Metadati e Testo**  
+
+&nbsp; Rimuovere automaticamente i contenuti sensibili sia dal testo principale che dai metadati.
+
+
+
+* **Elaborazione in Blocco di Formati Aperti**  
+
+&nbsp; Redigere grandi volumi di file ODT in un'unica esecuzione automatica.
+
+
+
+* **Integrazione con i Flussi di Lavoro CMS**  
+
+&nbsp; Applicare la redazione prima che i documenti siano pubblicati o sindacati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

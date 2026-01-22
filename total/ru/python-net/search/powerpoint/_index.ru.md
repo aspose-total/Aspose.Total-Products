@@ -76,7 +76,75 @@ otherformats: WORD POWERPOINT PDF DOC DOCX ODT PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Поиск презентаций PowerPoint программно с использованием Python API обеспечивает единый доступ к нескольким форматам презентаций, используемым в корпоративной среде. Файлы PowerPoint часто содержат ценную визуальную и текстовую информацию, критическую для бизнес-процессов.
+
+
+
+Автоматизация поиска в PowerPoint улучшает видимость контента, сокращает ручной просмотр слайдов и поддерживает масштабируемую интеграцию с современными системами автоматизации и обработки данных.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Единый поиск презентаций**  
+
+  &nbsp; Обеспечивает последовательный поиск по файлам на основе PowerPoint.
+
+
+
+* **Поиск слайдов в корпоративной среде**  
+
+  &nbsp; Улучшает доступ к презентациям, хранящимся в различных репозиториях.
+
+
+
+* **Извлечение знаний из презентаций**  
+
+  &nbsp; Преобразует содержимое слайдов в поисковые информационные ресурсы.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматическое обновление индексов презентаций PowerPoint**  
+
+  &nbsp; Процессы на Python поддерживают актуальность индексов поиска презентаций.
+
+
+
+* **Проверка содержимого презентаций PowerPoint**  
+
+  &nbsp; Программные проверки гарантируют соответствие слайдов стандартам контента.
+
+
+
+* **Автоматизация рабочего процесса в PowerPoint**  
+
+  &nbsp; Результаты поиска поддерживают автоматизированную отчетность и системы принятия решений.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

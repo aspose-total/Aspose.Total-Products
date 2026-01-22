@@ -77,7 +77,75 @@ ODP 編集アプリまたはユーティリティを開発する必要があり�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを使用したODPファイルの文書作成により、オープンドキュメント標準で作成されたプレゼンテーションコンテンツの安全な取り扱いが可能になります。これは、機密情報や特許情報が含まれている可能性があるスライドを共有する際に重要です。
+
+
+
+自動化により、ODPプレゼンテーションを一貫して浄化し、プレゼンテーション資産全体でスケーラブルかつ繰り返し可能なプライバシーコントロールをサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+
+
+* **機密スライドの共有**
+
+  &nbsp; 配布前にプレゼンテーションスライドから機密データを削除します。
+
+
+
+* **オープンフォーマットのガバナンス**
+
+  &nbsp; オープン標準のプレゼンテーションファイルにデータ保護ポリシーを強制します。
+
+
+
+* **トレーニング資料の浄化**
+
+  &nbsp; 学習コンテンツを公開する前に内部参照を削除します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **スライドレベルの浄化ルール**
+
+  &nbsp; 特定のスライドやレイアウトからコンテンツを自動的に削除します。
+
+
+
+* **プレゼンテーションビルドパイプライン**
+
+  &nbsp; 浄化を自動化されたプレゼンテーション生成ワークフローに統合します。
+
+
+
+* **定期的なコンプライアンススキャン**
+
+  &nbsp; 自動ジョブを使用して定期的に保存されたODPファイルを浄化します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

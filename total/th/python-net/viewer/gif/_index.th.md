@@ -82,7 +82,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การดู GIF ด้วย Python APIs ช่วยให้สามารถแสดงภาพเคลื่อนไหวหรือภาพนิ่งเพื่อการตรวจสอบและยืนยันได้
+
+นี้สนับสนุนการทำงานอัตโนมัติที่เกี่ยวข้องกับกราฟิกเคลื่อนไหวหรือตัวบ่งชี้ทางสายตา
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **การตรวจสอบเนื้อหาเคลื่อนไหว**  
+
+&nbsp; ดูภาพเคลื่อนไหวตามเฟรมโดยโปรแกรม
+
+
+
+* **การยืนยันตัวบ่งชี้ทางสายตา**  
+
+&nbsp; ตรวจสอบสัญญาณเคลื่อนไหวหรือกราฟิกสอน
+
+
+
+* **การตรวจสอบสินทรัพย์สื่อ**  
+
+&nbsp; ตรวจสอบลำดับภาพที่ใช้ในการทำงาน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* **การยืนยันสื่ออัตโนมัติ**  
+
+&nbsp; ท่องไปได้แสดง GIF ในขณะที่ตรวจสอบคุณภาพ
+
+
+
+* **ระบบสร้างตัวอย่างอัตโนมัติ**  
+
+&nbsp; ตัวอย่างเคลื่อนไหวถูกสร้างขึ้นโดยไดนามิก
+
+
+
+* **การแสดงผลการดูและการตรวจสอบขั้นตอนการทำงาน**  
+
+&nbsp; ดู GIF เพื่อยืนยันสถานะของกระบวนการอย่างสื่อสิ้นเชิง
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

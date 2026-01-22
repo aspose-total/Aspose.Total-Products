@@ -77,7 +77,85 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG DOC TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+הוספת סימן מים לקבצי **DOC** באמצעות Python APIs עוזרת להגן על מסמכי Word מורשים על ידי סימון ברור של בעלות, סודיות או כללי הפצה בתוך תוכן הניתן לעריכה.
+
+אוטומציה של סימון מים במסמכי DOC משפרת עקביות בשלטון המסמך, מאפשרת לארגונים ליישם בקרות מדיניות חזותיות בקנה מידה אף עבור פורמטי מסמך ישנים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **חותמות סודיות לחוזים מורשים**  
+
+  &nbsp; הוספת סימונים "סודי" להסכמים ישנים כדי להפחית משיתוף לא מורשה.
+
+
+
+* **תוויות מעקב על מעגלי ביקורת**  
+
+  &nbsp; סימון מסמכים כ"בבדיקה" כדי למנוע חילוק מוקדם של טיוטות.
+
+
+
+* **אכיפת מדיניות פנימית עבור תבניות**  
+
+  &nbsp; החלת סימונים סטנדרטיים בקרות על תבניות ישנות כדי ליישם עקרונות של שלטון.
+
+
+
+* **הודעות על הפצה ספציפיות ללקוח**  
+
+  &nbsp; הטבעת הודעות ללקוח שמבהירות שימוש מותר ומגבלות בהפצה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **חותמת מסמך מתיבת דואר אלקטרוני לארכיון**  
+
+  &nbsp; הוספת סימון לקבצי DOC באופן אוטומטי לפני שמירתם במאגר.
+
+
+
+* **צופה תיקייה עבור קבצים ישנים**  
+
+  &nbsp; זיהוי קבצי DOC חדשים בתיקייה והחלת סימוני מדיניות בלי שלבים ידניים.
+
+
+
+* **טקסט סימון מים המופעל על ידי מטה-נתונים**  
+
+  &nbsp; יצירת תוכן סימון מים מתגי מסמך כגון מחלקה, פרויקט או רמת רגישות.
+
+
+
+* **מעבר "מטיוטה לסופי" אוטומטי**  
+
+  &nbsp; החלפת סימוני טיוטה בתוויות סופיות כאשר מתבצעות אישורים במערכת זרימת עבודה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

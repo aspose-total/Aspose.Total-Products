@@ -76,7 +76,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Wyszukiwanie prezentacji **PowerPoint** programistycznie za pomocą interfejsów API w języku Python umożliwia jednolity dostęp do wielu formatów prezentacji używanych w środowiskach przedsiębiorstw. Pliki PowerPoint często zawierają informacje wizualne i tekstowe o wysokiej wartości krytyczne dla procesów biznesowych.
+
+
+
+Automatyzacja wyszukiwania w programie PowerPoint poprawia widoczność treści, redukuje ręczne przeglądanie slajdów i wspiera skalowalną integrację z nowoczesnymi systemami automatyzacji i danych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Jednolite wyszukiwanie prezentacji**  
+
+&nbsp; Umożliwia spójne wyszukiwanie w plikach opartych na PowerPoint.
+
+
+
+* **Odkrywanie slajdów w przedsiębiorstwie**  
+
+&nbsp; Poprawia dostęp do prezentacji przechowywanych w różnych repozytoriach.
+
+
+
+* **Ekstrakcja wiedzy z prezentacji**  
+
+&nbsp; Konwertuje treść slajdów na wyszukiwalne zasoby informacyjne.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Automatyczne utrzymanie indeksu prezentacji PowerPoint**  
+
+&nbsp; Procesy w języku Python utrzymują aktualność indeksów wyszukiwania prezentacji.
+
+
+
+* **Walidacja treści w programie PowerPoint**  
+
+&nbsp; Sprawdzenia programistyczne zapewniają zgodność slajdów z normami treści.
+
+
+
+* **Automatyzacja procesów w programie PowerPoint**  
+
+&nbsp; Wyniki wyszukiwania napędzają zautomatyzowane systemy raportowania i decyzyjne.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

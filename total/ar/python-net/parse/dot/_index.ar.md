@@ -104,7 +104,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحليل **قوالب DOT** باستخدام واجهات برمجة التطبيقات في Python يسمح للمؤسسات باستخراج الهياكل المحددة مسبقًا والعناصر النائبة وقواعد التنسيق المضمنة في قوالب الوثائق. هذا أمر حيوي لتحقيق التوحيد والاتساق.
+
+
+
+تمكين تحليل القوالب بطريقة تدعم الأتمتة يسمح بأنظمة توليد الوثائق الديناميكية ويفرض سلامة الهيكل بشكل موسع.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تحليل هيكل القالب**  
+
+&nbsp; يحدد العناصر النائبة وتعريفات التخطيط داخل القوالب.
+
+
+
+* **توليد الوثائق الموحدة**  
+
+&nbsp; يدعم إنشاء الوثائق المتسقة بناءً على القواعد.
+
+
+
+* **فرض الحوكمة والامتثال**  
+
+&nbsp; يتحقق من أن الوثائق المولدة تتبع القوالب المعتمدة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **تجميع الوثائق الديناميكي**  
+
+&nbsp; يستخدم القوالب المحللة لتوليد الوثائق برمجيًا.
+
+
+
+* **كشف تحول القالب**  
+
+&nbsp; يعلم تلقائيًا بالتغييرات غير المصرح بها في القوالب.
+
+
+
+* **حقن المحتوى الآلي**  
+
+&nbsp; يملأ البيانات المهيكلة في أقسام القالب المحددة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

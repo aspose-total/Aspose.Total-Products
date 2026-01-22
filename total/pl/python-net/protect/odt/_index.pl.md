@@ -76,7 +76,75 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT to powszechnie stosowany otwarty format dokumentu tekstowego do raportów i dokumentacji. Ochrona plików ODT jest niezbędna do zachowania autentyczności dokumentu i zapobiegania przypadkowym lub złośliwym zmianom.
+
+
+
+Ochrona dokumentów oparta na Pythonie umożliwia osadzenie bezpieczeństwa ODT w zautomatyzowanych procesach dokumentacji i publikacji z minimalnym nakładem pracy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Bezpieczne Rozpowszechnianie Raportów**  
+
+&nbsp; Zabezpiecz ostateczne raporty ODT przed udostępnieniem.
+
+
+
+* **Integralność Dokumentacji**  
+
+&nbsp; Zapewnij, że oficjalne dokumenty pozostaną niezmienione po zatwierdzeniu.
+
+
+
+* **Bezpieczeństwo Dokumentów na Wielu Platformach**  
+
+&nbsp; Stosuj ochronę niezależnie od środowiska edycji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Automatyzowane Potoki Dokumentacji**  
+
+&nbsp; Zabezpiecz pliki ODT jako część ciągłego generowania dokumentacji.
+
+
+
+* **Bezpieczeństwo Plików Oparte na Regułach**  
+
+&nbsp; Stosuj zasady ochrony na podstawie metadanych dokumentu.
+
+
+
+* **Masowe Zabezpieczanie Dokumentów**  
+
+&nbsp; Zabezpiecz wiele plików ODT programistycznie w operacjach wsadowych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -89,7 +89,73 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A PPT fájlok megtekintése Python API-k segítségével lehetővé teszi az idősebb rendszerekben használt örökség prezentációs dokumentumok ellenőrzését.
+
+Ez támogatja az automatizálást, ahol visszafelé kompatibilitás szükséges.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Örökség Prezentáció Vizsgálata**  
+
+&nbsp; Programozottan tekintse meg az idősebb diavetítéseket.
+
+
+
+* **Tartalom Migrációs Támogatás**  
+
+&nbsp; Ellenőrizze a prezentációkat a formátumfrissítés előtt.
+
+
+
+* **Prezentáció Validálása**  
+
+&nbsp; Győződjön meg arról, hogy az egyes diákadatok érintetlenek maradnak.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Örökség Audit Pipelines**  
+
+&nbsp; A Python munkafolyamatok PPT fájlokat renderelnek ellenőrzés céljából.
+
+
+
+* **Elő-Konverziós Validálás**  
+
+&nbsp; A megtekintés biztonságos formátummigrációt biztosít.
+
+
+
+* **Tömeges Prezentáció Vizsgálata**  
+
+&nbsp; A nagy gyűjtemények automatikusan ellenőrzésre kerülnek.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

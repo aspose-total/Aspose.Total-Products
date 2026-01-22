@@ -87,7 +87,41 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Buscando archivos **PPTX** utilizando APIs de Python proporciona un acceso confiable a documentos de presentación modernos que contienen diseños de diapositivas estructurados, bloques de texto y notas del presentador. Los archivos PPTX se utilizan ampliamente para informes, capacitación y contenido para la toma de decisiones.
+
+La búsqueda automatizada de PPTX admite análisis escalables de diapositivas, recuperación inteligente e integración perfecta con sistemas de gestión de conocimientos y contenido.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+* **Búsqueda Estructurada de Diapositivas**
+  &nbsp; Busca títulos, viñetas y notas dentro de archivos PPTX.
+
+* **Análisis de Contenido de Presentación**
+  &nbsp; Identifica temas clave y secciones de forma programática.
+
+* **Descubrimiento de Diapositivas Reutilizables**
+  &nbsp; Localiza diapositivas adecuadas para reutilizar en informes o presentaciones.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+* **Actualizaciones Continuas del Índice de PPTX**
+  &nbsp; Los servicios de Python monitorean e indexan nuevos archivos PPTX.
+
+* **Clasificación Automatizada de Diapositivas**
+  &nbsp; Las diapositivas se categorizan en función del contenido extraído.
+
+* **Tuberías de Contenido de PPTX**
+  &nbsp; Los resultados de la búsqueda alimentan paneles de control y flujos de trabajo de automatización.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

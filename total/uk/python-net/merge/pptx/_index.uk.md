@@ -77,7 +77,75 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Об'єднання презентацій PPTX за допомогою Python APIs є найбільш поширеним підходом до сучасного створення слайдів. Це дозволяє точно контролювати порядок слайдів, макети та послідовність вмісту.
+
+
+
+Ця можливість чисто інтегрується з автоматизованими системами контенту та системами звітності.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* **Створення багатосекційних дек (PPTX)**  
+
+&nbsp; Об'єднайте файли PPTX, що представляють секції, в один дек.
+
+
+
+* **Інтеграція спільних слайдів (PPTX)**  
+
+&nbsp; Об'єднайте слайди PPTX, створені кількома учасниками.
+
+
+
+* **Збірка модульних слайдів для подальшого використання (PPTX)**  
+
+&nbsp; Зберіть модульні слайди PPTX у налаштовані презентації.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Динамічне створення деку слайдів (PPTX)**  
+
+&nbsp; Системи об'єднують файли PPTX на основі вхідних даних під час виконання.
+
+
+
+* **Презентаційні конвеєри CI/CD (PPTX)**  
+
+&nbsp; Об'єднання PPTX автоматизовано під час етапів збірки або випуску.
+
+
+
+* **Масштабоване публікування презентацій (PPTX)**  
+
+&nbsp; Програмно генеруються великі обсяги дек PPTX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

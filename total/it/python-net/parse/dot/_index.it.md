@@ -104,7 +104,75 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'analisi dei **modelli DOT** tramite API Python consente alle organizzazioni di estrarre strutture predefinite, segnaposto e regole di formattazione incorporate nei modelli di documenti. Questo è fondamentale per la standardizzazione e la coerenza.
+
+
+
+Il parsing dei modelli in modo amichevole all'automazione consente ai sistemi di generazione dinamica dei documenti di far rispettare l'integrità strutturale su larga scala.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* **Analisi della Struttura del Modello**  
+
+&nbsp; Identifica i segnaposto e le definizioni di layout all'interno dei modelli.
+
+
+
+* **Generazione Standardizzata di Documenti**  
+
+&nbsp; Supporta la creazione basata su regole di documenti coerenti.
+
+
+
+* **Governance e Applicazione della Conformità**  
+
+&nbsp; Convalida che i documenti generati seguano i modelli approvati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Assemblaggio Dinamico dei Documenti**  
+
+&nbsp; Utilizza i modelli analizzati per generare documenti in modo programmato.
+
+
+
+* **Rilevamento dello Spostamento del Modello**  
+
+&nbsp; Segnala automaticamente le modifiche non autorizzate al modello.
+
+
+
+* **Iniezione Automatica di Contenuti**  
+
+&nbsp; Inserisce dati strutturati nelle sezioni definite dal modello.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

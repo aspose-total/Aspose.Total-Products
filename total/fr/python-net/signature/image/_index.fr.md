@@ -71,7 +71,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La signature d'images génériques avec des API Python offre une approche unifiée pour appliquer des marques d'approbation et des métadonnées de validation sur des sources d'images mixtes. Cela est utile lorsque les pipelines ingèrent des images de plusieurs outils et nécessitent une gouvernance cohérente.
+
+
+
+Lorsqu'elle est automatisée, la signature d'images impose un état standardisé d'"artefact approuvé", garantissant que les systèmes en aval ne consomment que des ressources qui répondent aux exigences de qualité, de politique ou de conformité.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Standardisation des Actifs Multi-Sources**  
+
+&nbsp; Appliquer une superposition de signature cohérente aux images provenant de différents outils et équipes.
+
+
+
+* **Validation d'Images de Preuve**  
+
+&nbsp; Signer les images utilisées comme preuve pour confirmer l'identité de l'évaluateur et le statut d'approbation.
+
+
+
+* **Contrôle de la Distribution des Actifs Approuvés**  
+
+&nbsp; Marquer les images comme approuvées avant qu'elles ne soient incluses dans les packages de distribution.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'Automatisation" %}}
+
+
+
+* **Marquage d'Approbation au Moment de l'Ingestion**  
+
+&nbsp; Signer les images lors de l'ingestion après que les règles de validation et les vérifications de métadonnées sont terminées.
+
+
+
+* **Application des Points de Contrôle de Politique**  
+
+&nbsp; Signer automatiquement uniquement les images qui passent les règles de politique et de sécurité automatisées.
+
+
+
+* **Finalisation de la Synchronisation du Référentiel**  
+
+&nbsp; Signer les images avant la synchronisation avec les référentiels partagés pour garantir que seules les versions vérifiées se propagent.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

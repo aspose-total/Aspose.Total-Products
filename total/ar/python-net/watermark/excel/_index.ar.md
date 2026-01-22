@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+إضافة علامات مائية **Excel** إلى جداول بيانات باستخدام واجهات برمجة التطبيقات بلغة Python تضيف تحكمًا في الرؤية إلى الدفاتر البيانية الثقيلة بالبيانات، مما يساعد على توضيح الملكية والسرية والاستخدام المقصود مباشرة داخل عروض الجداول البيانية.
+
+التأمين يجعل إضافة علامات مائية إلى الجداول البيانية موثوقة عند نطاق كبير - مثالية للتقارير المجدولة، ومشاركة الفرق المتعددة، والتصدير المراقب من أنظمة التحليل.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تراكيب السرية للتقارير المالية**
+
+&nbsp; علامة على الجداول البيانية التي تحتوي على ميزانيات أو توقعات لتقليل مخاطر التسرب.
+
+
+
+* **حدود التوزيع للوحدات المشتركة**
+
+&nbsp; إضافة علامات "للاستخدام الداخلي فقط" للحد من إعادة توجيه الخارجي.
+
+
+
+* **مؤشرات المسودة للتحقق من البيانات**
+
+&nbsp; تطبيق علامات مائية "مبدئية" حتى يتم الانتهاء من التصالح أو الموافقات.
+
+
+
+* **إشعارات ملكية البيانات للشركاء**
+
+&nbsp; تضمين نص الملكية في الدفاتر المشتركة لتوضيح إعادة استخدام مجموعات البيانات المسموح بها.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **التقارير المجدولة مع الطوابع التلقائية**
+
+&nbsp; وضع علامات مائية على التقارير المولدة ليلاً قبل إرسالها إلى قوائم التوزيع.
+
+
+
+* **علامات مائية حسب تصنيف الدفتر**
+
+&nbsp; استخدام علامات الحساسية لاختيار نص العلامة المائية وتحديد موضعها تلقائيًا.
+
+
+
+* **فرض خط أنابيب التصدير**
+
+&nbsp; وضع علامات على الجداول البيانية أثناء التصدير من أنظمة BI أو ETL للحفاظ على الحوكمة.
+
+
+
+* **وسم الامتثال الإقليمي التلقائي**
+
+&nbsp; إضافة إشعارات محددة للولاية استنادًا إلى فريق الوجهة أو البلد.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

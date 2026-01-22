@@ -89,7 +89,73 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Python via
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Xem các tệp POTX bằng cách sử dụng API Python cho phép kiểm tra các mẫu trình bày hiện đại được sử dụng trong quy trình tạo slide tự động.
+
+Điều này hỗ trợ quy trình làm việc trình bày dựa trên mẫu có thể mở rộng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Kiểm Tra Mẫu Hiện Đại**  
+
+  Xem các bản mẫu slide và bố cục.
+
+
+
+* **Kiểm Tra Sự Đồng Nhất về Thương Hiệu**  
+
+  Đảm bảo các mẫu tuân thủ các tiêu chuẩn trình bày.
+
+
+
+* **Xác Nhận Sẵn Sàng Tự Động Hóa**  
+
+  Kiểm tra các mẫu trước khi sử dụng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Các Quy Trình Triển Khai Mẫu**  
+
+  Các tệp POTX được hiển thị trước khi triển khai.
+
+
+
+* **Hệ Thống Trình Bày Tự Động**  
+
+  Xem xét đảm bảo các mẫu hoạt động đúng cách.
+
+
+
+* **Quy Trình Đảm Bảo Chất Lượng**  
+
+  Các mẫu được xác thực theo cách tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

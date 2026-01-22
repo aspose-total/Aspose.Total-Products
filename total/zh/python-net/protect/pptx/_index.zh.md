@@ -71,7 +71,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTX是PowerPoint的标准现代演示文稿格式。保护PPTX文件对于确保演示内容在协作环境中保持准确和不可篡改至关重要。
+
+
+
+借助Python API，PPTX保护可以无缝集成到自动化演示文稿创建和分发工作流程中。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **机密演示分享**  
+
+  安全保护PPTX文件以防止外部分发。
+
+
+
+* **内容批准执行**  
+
+  在最终批准后锁定演示文稿。
+
+
+
+* **企业演示治理**  
+
+  在所有PPTX资产上应用统一保护。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **导出时自动保护**  
+
+  在生成后立即保护PPTX文件。
+
+
+
+* **基于工作流触发的安全性**  
+
+  根据批准或发布事件应用保护。
+
+
+
+* **可扩展的演示文稿管理**  
+
+  通过自动化脚本保护成千上万个PPTX文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

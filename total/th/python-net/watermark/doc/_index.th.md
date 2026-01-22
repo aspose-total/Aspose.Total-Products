@@ -79,7 +79,85 @@ otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG DOC TIFF GIF P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การใส่ลายน้ำในไฟล์ **DOC** ด้วย Python APIs ช่วยป้องกันเอกสาร Word เวอร์ชันเก่าๆ โดยการทำเครื่องหมายเจ้าของ ความลับ หรือกฎการกระจายภายในเนื้อหาที่สามารถแก้ไขได้อย่างชัดเจน
+
+การทำลายน้ำใอัตโนมัติบนเอกสาร DOC ช่วยเพิ่มความสม่ำเสมอในการบริหารเอกสาร ทำให้องค์กรสามารถบังคับควบคุมนโยบายทางภาพเรื่องขนาดใหญ่ แม้กระทั่งสำหรับรูปแบบเอกสารที่เก่ากว่า
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* **ตราความลับของสัญญาเก่า**  
+
+&nbsp; เพิ่มเครื่องหมาย "CONFIDENTIAL" ลงในข้อตกลงเก่าเพื่อลดการแบ่งปันโดยไม่ได้รับอนุญาต
+
+
+
+* **ตราสถานะของวงจรการตรวจสอบ**  
+
+&nbsp; ทำเครื่องหมายเอกสารว่า "IN REVIEW" เพื่อป้องกันการกระจายร่างก่อนเวลา
+
+
+
+* **การบังคับนโยบายภายในสำหรับเทมเพลต**  
+
+&nbsp; ใส่ลายน้ำมาตรฐานทั่วไปในเทมเพลตเก่าเพื่อปรับตัวกับการบริหาร
+
+
+
+* **ประกาศการกระจายที่เฉพาะลูกค้า**  
+
+&nbsp; ฝังประกาศที่เผยแพร่ให้กับลูกค้าเพื่ออธิบายการใช้งานที่ได้รับอนุญาตและขีดจำกัดการกระจาย
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การตราเอกสารจากกล่องจดหมายไปยังเอกสารเก่า**  
+
+&nbsp; ใส่ลายน้ำในไฟล์ DOC โดยอัตโนมัติก่อนที่จะบันทึกลงในคลังข้อมูล
+
+
+
+* **ตรวจจับไฟล์ DOC เก่าๆ ในโฟลเดอร์**  
+
+&nbsp; ตรวจจับไฟล์ DOC ใหม่ในไดเรกทอรีและใส่ลายน้ำตามนโยบายโดยไม่ต้องทำด้วยมือ
+
+
+
+* **ข้อความลายน้ำที่ขับเคลื่อนด้วยเมตาดาต้า**  
+
+&nbsp; สร้างเนื้อหาลายน้ำจากแท็กเอกสาร เช่น แผนก โครงการ หรือระดับความลับ
+
+
+
+* **การเปลี่ยนจาก "ร่างเป็นสิ้นเป็น" โดยอัตโนมัติ**  
+
+&nbsp; แทนที่ลายน้ำร่างด้วยป้ายชื่อสุดท้ายเมื่อมีการอนุมัติในระบบการทำงาน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

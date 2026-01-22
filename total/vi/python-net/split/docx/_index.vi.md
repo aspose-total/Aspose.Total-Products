@@ -79,7 +79,75 @@ Có các tùy chọn thay thế để cài đặt '[Aspose.Words for Python via 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX là một định dạng tài liệu hiện đại dựa trên XML được thiết kế để lưu trữ nội dung có cấu trúc và có thể mở rộng. Việc chia nhỏ các tệp DOCX cho phép truy cập chính xác vào các thành phần tài liệu như tiêu đề, bảng, hoặc các phần khác.
+
+
+
+Việc chia nhỏ DOCX dựa trên Python nâng cao tự động hóa bằng cách cho phép phân tích theo lược đồ, xử lý có thể mở rộng, và tích hợp mượt mà với các hệ thống quản lý nội dung.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Xuất Bản Tài Liệu Theo Mô-đun**  
+
+&nbsp; Các tệp DOCX lớn có thể được chia thành các phần sẵn sàng xuất bản.
+
+
+
+* **Trích Xuất Nội Dung Lựa Chọn**  
+
+&nbsp; Chỉ các phần liên quan được trích xuất cho các luồng công việc cụ thể.
+
+
+
+* **Kiểm Soát Phiên Bản Tài Liệu**  
+
+&nbsp; Các phần đã chia cho phép theo dõi và cập nhật độc lập.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Phân Đoạn Dựa Trên Tiêu Đề**  
+
+&nbsp; Các kịch bản Python chia tài liệu bằng cách sử dụng các thẻ cấu trúc.
+
+
+
+* **Xử Lý Nội Dung Dựa Trên Luồng**  
+
+&nbsp; Các phần trích xuất tự động chảy vào các giai đoạn xác thực hoặc kết xuất.
+
+
+
+* **Kiểm Tra Tuân Thủ Tự Động**  
+
+&nbsp; Mỗi phần được kiểm tra độc lập theo các quy tắc.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

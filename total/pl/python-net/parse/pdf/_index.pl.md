@@ -100,7 +100,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Analiza **dokumentów PDF** za pomocą interfejsów API w języku Python umożliwia wydobycie tekstu i informacji o układzie z powszechnie stosowanego formatu o stałym układzie. Pliki PDF są powszechne w raportach, fakturach i oficjalnych dokumentach.
+
+
+
+Automatyczna analiza plików PDF odblokowuje nieedytowalne treści do analizy, wyszukiwania i integracji systemowej bez konieczności ingerencji ręcznej.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Wyodrębnianie danych z raportów**  
+
+&nbsp; Pobiera treść tekstową z statycznych raportów PDF.
+
+
+
+* **Przetwarzanie archiwalne dokumentów**  
+
+&nbsp; Konwertuje pliki PDF na tekst możliwy do wyszukiwania i indeksowania.
+
+
+
+* **Systemy wyszukiwania informacji**  
+
+&nbsp; Umożliwia odkrywanie treści w dużych zbiorach plików PDF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Harmonogramowe pobieranie plików PDF**  
+
+&nbsp; Automatycznie przetwarza przychodzące pliki PDF według ustalonego harmonogramu.
+
+
+
+* **Potoki normalizacji tekstu**  
+
+&nbsp; Czyści i standaryzuje wydobyty tekst z plików PDF programowo.
+
+
+
+* **Umożliwienie analizy danych w dółstrumieniowej**  
+
+&nbsp; Wprowadza przetworzoną treść z plików PDF do analizy lub procesów uczenia maszynowego.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

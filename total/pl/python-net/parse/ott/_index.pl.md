@@ -104,7 +104,75 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Analiza **dokumentów OTT** za pomocą interfejsów API w języku Python umożliwia strukturalne wyodrębnianie informacji z otwartych szablonów tekstowych przeznaczonych do spójnego tworzenia dokumentów. Pliki OTT są powszechnie używane w środowiskach opartych na otwartych standardach do definiowania wielokrotnie używanych układów, stylów i zmiennych.
+
+
+
+Integrując analizę OTT do systemów automatyzacji, organizacje mogą generować, walidować i zarządzać dokumentami w skali, zachowując ściśłe przestrzeganie standardowych szablonów i otwartych formatów.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Wyodrębnianie Struktury Szablonu**  
+
+&nbsp; Identyfikuje predefiniowane sekcje, style i zmienne w szablonach OTT.
+
+
+
+* **Tworzenie Dokumentów w Standardzie**  
+
+&nbsp; Wspiera spójne generowanie dokumentów na podstawie zatwierdzonych otwartych szablonów.
+
+
+
+* **Zarządzanie Formatem Otwartym**  
+
+&nbsp; Zapewnia zgodność dokumentów z normami organizacyjnymi bez blokady własnościowej.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Generowanie Dynamicznych Dokumentów**  
+
+&nbsp; Automatycznie wypełnia szablony OTT strukturalnymi danymi.
+
+
+
+* **Walidacja Zgodności ze Szablonem**  
+
+&nbsp; Wykrywa odstępstwa od struktur zatwierdzonych szablonów.
+
+
+
+* **Skalowalne Potoki Dokumentów Otwartych**  
+
+&nbsp; Umożliwia produkcję dokumentów o dużej objętości przy użyciu otwartych standardów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

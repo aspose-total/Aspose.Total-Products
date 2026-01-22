@@ -71,7 +71,75 @@ otherformats: Word DOCX DOC ODT PDF Excel XLS XLSX ODS Powerpoint PPT PPTX ODP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Файлы PPT представляют старые форматы PowerPoint, которые все еще используются во многих средах. Защита файлов PPT обеспечивает безопасность и соответствие устаревших презентаций.
+
+
+
+API Python позволяют автоматизировать защиту файлов PPT, обеспечивая соответствие устаревшего контента современным стандартам безопасности.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Защита устаревших слайдов**  
+
+&nbsp; Обеспечьте безопасность старых файлов PPT от несанкционированных изменений.
+
+
+
+* **Сохранение исторического контента**  
+
+&nbsp; Сохраните целостность архивированных презентаций.
+
+
+
+* **Контролируемое распространение**  
+
+&nbsp; Ограничьте редактирование при обмене устаревшими слайдами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Защита старых файлов пакетно**  
+
+&nbsp; Автоматически обеспечьте безопасность больших коллекций файлов PPT.
+
+
+
+* **Безопасность во время миграции**  
+
+&nbsp; Применяйте защиту во время перехода к новой системе.
+
+
+
+* **Автоматизированное ограничение доступа**  
+
+&nbsp; Программно накладывайте согласованные ограничения на файлы PPT.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

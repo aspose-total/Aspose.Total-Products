@@ -78,7 +78,75 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Dokumentumok összevonása Python API-k segítségével alapvető képesség a modern tartalomfeldolgozás, jelentéskészítés és dokumentuméletciklus-kezelés számára. Lehetővé teszi a fejlesztőknek és rendszereknek, hogy több fájlt egyetlen strukturált kimenetbe egyesítsenek, miközben megőrzik a formázást, elrendezést és logikus folyamatot a heterogén dokumentumforrások között.
+
+
+
+A dokumentumok összevonásának automatizálásával a szervezetek csökkenthetik a manuális erőfeszítéseket, biztosíthatják a következetességet, és integrálhatják a dokumentumfolyamatokat közvetlenül az adatcsövekbe, a háttérrendszeri szolgáltatásokba és a Pythonon épülő skálázható automatizálási rendszerekbe.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Összefűzött Word-jelentések (DOC)**  
+
+&nbsp; Vegye össze az örökölt Word-dokumentumokat egyetlen jelentésbe egységes áttekintés és archiválás érdekében.
+
+
+
+* **Tömeges dokumentumösszeállítás (DOC)**  
+
+&nbsp; Gyűjtse össze a különböző rendszerek által generált több DOC fájlt egyetlen szállítható fájlba.
+
+
+
+* **Történelmi tartalomösszegyűjtés (DOC)**  
+
+&nbsp; Vonja össze az archivált DOC fájlokat az idősebb tartalomgyűjtemények modernizálása és újrahasznosítása érdekében.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Ütemezett jelentésszerkesztés (DOC)**  
+
+&nbsp; Az automatizált feladatok naponta vagy hetente egyesítik a DOC fájlokat egyetlen terjeszthető jelentésbe.
+
+
+
+* **Munkafolyamat-alapú dokumentumösszeállítás (DOC)**  
+
+&nbsp; A háttérmunkafolyamatok dinamikusan egyesítik a DOC fájlokat, amikor a folyamatlépések befejeződnek.
+
+
+
+* **Csővezetékvezérelt kimenetgenerálás (DOC)**  
+
+&nbsp; A DOC-összevonás programozottan aktiválódik egy nagyobb dokumentumcsővezeték részeként.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

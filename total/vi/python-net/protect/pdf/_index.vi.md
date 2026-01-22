@@ -72,7 +72,75 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.PDF for Python via .N
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PDF là định dạng phổ biến nhất cho tài liệu cuối cùng và có thể chia sẻ. Bảo vệ PDF là rất quan trọng để kiểm soát quyền truy cập, ngăn chặn sao chép và đảm bảo tính xác thực của nội dung trên các kênh phân phối kỹ thuật số.
+
+
+
+API Python cho phép tự động hóa việc bảo vệ PDF, tích hợp bảo mật trực tiếp vào quy trình tạo tài liệu, phê duyệt và giao hàng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Giao Hàng Tài Liệu An Toàn**  
+
+&nbsp; Bảo vệ PDF được phân phối cho khách hàng hoặc bên liên quan.
+
+
+
+* **Thực Thi Nội Dung Chỉ Đọc**  
+
+&nbsp; Ngăn chặn chỉnh sửa hoặc sao chép các tài liệu đã hoàn chỉnh.
+
+
+
+* **Bảo Vệ Thông Tin Mật**  
+
+&nbsp; Hạn chế quyền truy cập vào dữ liệu nhạy cảm trong PDF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Khóa PDF Tự Động**  
+
+&nbsp; Áp dụng bảo vệ ngay sau khi tạo PDF.
+
+
+
+* **Gán Mật Khẩu Động**  
+
+&nbsp; Tạo và áp dụng mật khẩu một cách tự động cho từng người nhận.
+
+
+
+* **Bảo Mật Theo Yêu Cầu Tuân Thủ**  
+
+&nbsp; Thực thi bảo vệ PDF tự động để đáp ứng nhu cầu tuân thủ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

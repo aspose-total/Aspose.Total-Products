@@ -71,7 +71,75 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPT-Dateien stellen ältere PowerPoint-Formate dar, die immer noch in vielen Umgebungen verwendet werden. Durch den Schutz von PPT-Dateien bleiben Legacy-Präsentationen sicher und konform.
+
+
+
+Python-APIs ermöglichen die automatisierte Sicherung von PPT-Dateien, um Legacy-Inhalte mit modernen Sicherheitsstandards in Einklang zu bringen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Schutz von Legacy-Folien**  
+
+&nbsp; Sichern Sie ältere PPT-Dateien vor unbefugten Änderungen.
+
+
+
+* **Erhaltung historischer Inhalte**  
+
+&nbsp; Bewahren Sie die Integrität archivierter Präsentationen.
+
+
+
+* **Kontrollierte Weiterverteilung**  
+
+&nbsp; Beschränken Sie die Bearbeitung beim Teilen von Legacy-Folien.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Batch-Schutz für Legacy-Dateien**  
+
+&nbsp; Sichern Sie automatisch große Sammlungen von PPT-Dateien.
+
+
+
+* **Sicherheit während der Migration**  
+
+&nbsp; Wenden Sie Schutzmaßnahmen während des Übergangs zu Legacy-Systemen an.
+
+
+
+* **Automatische Zugriffsbeschränkung**  
+
+&nbsp; Erzwingen Sie programmgesteuert konsistente Beschränkungen für PPT-Dateien.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -82,7 +82,73 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Przeglądanie ogólnych formatów obrazów za pomocą interfejsów API w języku Python zapewnia ujednolicone podejście do inspekcji zasobów wizualnych w różnych procesach roboczych.
+
+Dzięki temu możliwe jest spójne zarządzanie obrazami niezależnie od ich źródła czy typu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Jednolita Inspekcja Obrazów**  
+
+&nbsp; Przeglądaj różnorodne pliki obrazów za pomocą jednego interfejsu.
+
+
+
+* **Weryfikacja Zasobów Wizualnych**  
+
+&nbsp; Potwierdź integralność i wygląd obrazu.
+
+
+
+* **Wsparcie dla Potoku Treści**  
+
+&nbsp; Inspekcja obrazów podczas etapów przetwarzania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Automatyzowane Potoki Obrazów**  
+
+&nbsp; Procesy w języku Python wyświetlają obrazy podczas przetwarzania wsadowego.
+
+
+
+* **Dynamiczne Usługi Podglądu**  
+
+&nbsp; Obrazy są renderowane na żądanie do przeglądu.
+
+
+
+* **Automatyzacja Zapewnienia Jakości**  
+
+&nbsp; Przegląd wspiera zautomatyzowane kontrole wizualne.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

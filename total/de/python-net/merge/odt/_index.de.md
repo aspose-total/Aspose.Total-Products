@@ -78,7 +78,75 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Das Zusammenführen von OpenDocument-Textdateien mithilfe von Python-APIs unterstützt offene Standards und plattformübergreifende Dokumenten-Workflows. Es ermöglicht eine nahtlose Konsolidierung von Inhalten, die in Open-Source- oder gemischten Büroumgebungen erstellt wurden.
+
+
+
+Automatisierung rund um das Zusammenführen von ODT gewährleistet Interoperabilität und gleichzeitig die Integrität von Dokumenten über Systeme hinweg.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Plattformübergreifende Dokumentenkonsolidierung (ODT)**  
+
+&nbsp; Zusammenführen von ODT-Dateien, die in verschiedenen Büro-Suiten erstellt wurden.
+
+
+
+* **Aggregation von Inhalten nach Open-Standard (ODT)**  
+
+&nbsp; Kombinieren von ODT-Dokumenten für einheitliche Veröffentlichung.
+
+
+
+* **Kollaborative Inhaltszusammenstellung (ODT)**  
+
+&nbsp; Zusammenführen von ODT-Dateien mehrerer Beitragender in einem Dokument.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Offene Workflow-Automatisierung (ODT)**  
+
+&nbsp; Automatisierte Systeme führen ODT-Dateien ohne proprietäre Abhängigkeiten zusammen.
+
+
+
+* **Geplante Dokumentenkompilierung (ODT)**  
+
+&nbsp; Das Zusammenführen von ODT erfolgt im Rahmen wiederkehrender Backend-Aufgaben.
+
+
+
+* **Interoperable Veröffentlichungspipelines (ODT)**  
+
+&nbsp; ODT-Dateien werden dynamisch in plattformübergreifenden Pipelines zusammengeführt.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -70,7 +70,75 @@ otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+חתימה על מסמכי ODT באמצעות Python APIs מאפשרת למסמכי טקסט בפורמט פתוח להכיל סימני אישור מאומתים ומטה מידע של החותמים. זה תומך במחזורי חיים של תיעוד מבוקרים מבלי לסמוך על פורמטים פרופריטריים.
+
+
+
+בצינורות אוטומציה, חתימה על מסמכי ODT מבטיחה שאישורים יישמו באופן עקבי בנקודת סגירת הסקירה, משפרת את היכולת לבצע בדיקות נאותות ומפחיתה את טיפול המסמכים הידני.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **אישור מדיניות בפורמט פתוח**  
+
+&nbsp; לחתום על מסמכי מדיניות ODT כדי לאשר סיום סופי ואישור.
+
+
+
+* **סגירת תהליך עריכה**  
+
+&nbsp; להוסיף חתימות לטיוטות ODT כאשר סיימה בדיקת התוכן.
+
+
+
+* **ממשק ניהול בסיס ידע פנימי**  
+
+&nbsp; לחתום על מסמכי ODT לפני פרסום במאגרים משותפים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **הפעלת מפעיל סיום של סקירות**  
+
+&nbsp; לחתום באופן אוטומטי על קבצי ODT כאשר כל הבודקים המוקצים משלימים את האישורים.
+
+
+
+* **שער פרסום במאגר**  
+
+&nbsp; לחתום על מסמכי ODT לפני שהם מועברים לפרסום בבסיס הידע.
+
+
+
+* **הזרקת רצפי סימון אוטומטיים**  
+
+&nbsp; לצרף זהות של החותם ומטה זמן במהלך הרצת חתימות של ODT.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -72,7 +72,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PDF, son ve paylaşılabilir belgeler için en yaygın formattır. PDF'leri korumak, erişimi kontrol etmek, kopyalamayı önlemek ve dijital dağıtım kanallarında içeriğin doğruluğunu sağlamak için hayati önem taşır.
+
+
+
+Python API'leri, PDF korumasını otomatikleştirmeyi mümkün kılar ve güvenliği belge oluşturma, onaylama ve teslimat iş akışlarına doğrudan entegre etmeyi sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Güvenli Belge Teslimatı**  
+
+&nbsp; Müşterilere veya paydaşlara dağıtılan PDF'leri korur.
+
+
+
+* **Salt Okunur İçerik Uygulaması**  
+
+&nbsp; Sonlandırılmış belgelerin düzenlenmesini veya kopyalanmasını engeller.
+
+
+
+* **Gizli Bilgi Koruma**  
+
+&nbsp; PDF'ler içindeki hassas verilere erişimi kısıtlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik PDF Kilitleme**  
+
+&nbsp; PDF oluşturulduktan hemen sonra koruma uygular.
+
+
+
+* **Dinamik Şifre Atama**  
+
+&nbsp; Alıcı başına programlı olarak şifreler oluşturur ve uygular.
+
+
+
+* **Uyumluluk Odaklı Güvenlik**  
+
+&nbsp; Düzenleyici gereksinimleri karşılamak için PDF korumasını otomatik olarak uygular.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -73,7 +73,85 @@ Fore more details please refer to [Product Documentation](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Le tatouage numérique des feuilles de calcul **ODS** avec des API Python améliore le contrôle sur les feuilles de calcul en ajoutant des étiquettes de gouvernance visibles pour la propriété, la confidentialité et la distribution.
+
+L'automatisation du tatouage numérique des feuilles de calcul ODS prend en charge des flux de travail de reporting évolutifs, garantissant des indicateurs de politique cohérents à travers les ensembles de données partagés dans des formats ouverts.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Estampillage de feuilles de données confidentielles**  
+
+&nbsp; Marquer les fichiers ODS sensibles pour réduire le risque de partage externe accidentel.
+
+
+
+* **Étiquettes de données préliminaires**  
+
+&nbsp; Appliquer des superpositions "NON VÉRIFIÉ" lors des cycles de validation des données au stade précoce.
+
+
+
+* **Avis d'utilisation des données partenaires**  
+
+&nbsp; Ajouter des avis visibles qui clarifient les restrictions de licence et de réutilisation.
+
+
+
+* **Prise en charge de l'audit interne**  
+
+&nbsp; Exporter des tatouages pour indiquer clairement quel système a produit un ensemble de données donné.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Tatouage numérique des exports ETL**  
+
+&nbsp; Marquer automatiquement les fichiers ODS lorsqu'ils sont générés à partir de pipelines de données automatisés.
+
+
+
+* **Texte de tatouage basé sur le rôle**  
+
+&nbsp; Personnaliser le contenu du tatouage en fonction de l'équipe destinataire ou du niveau d'accès.
+
+
+
+* **Contrôles de distribution de rapports planifiés**  
+
+&nbsp; Appliquer des tatouages avec horodatage avant d'envoyer des rapports périodiques ODS.
+
+
+
+* **Balisage automatisé de la politique de conservation**  
+
+&nbsp; Ajouter des étiquettes de conservation visuelles pour prendre en charge l'automatisation du cycle de vie des feuilles de calcul stockées.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusione dei formati dei modelli di Word utilizzando le API di Python consente la creazione coerente di documenti tra team e sistemi. La fusione basata su modelli garantisce layout standardizzati consentendo al contempo una composizione flessibile dei contenuti.
+
+
+
+Questo approccio è ideale per le fabbriche di documenti automatizzate in cui la struttura e il branding devono rimanere consistenti tra le uscite.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Assemblaggio di documenti basato su modelli (DOT)**  
+
+&nbsp; Unisci documenti basati su DOT per far rispettare la formattazione coerente.
+
+
+
+* **Creazione di output standardizzati (DOT)**  
+
+&nbsp; Combina file basati su modelli in documenti unificati.
+
+
+
+* **Gestione del layout riutilizzabile (DOT)**  
+
+&nbsp; Aggrega documenti DOT per mantenere uniformità di layout.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Applicazione automatica di modelli (DOT)**  
+
+&nbsp; I file DOT vengono uniti automaticamente durante la generazione del documento.
+
+
+
+* **Elaborazione batch di modelli (DOT)**  
+
+&nbsp; Grandi volumi di documenti DOT vengono uniti in lavori programmati.
+
+
+
+* **Controllo del layout garantito dal sistema (DOT)**  
+
+&nbsp; I sistemi automatizzati uniscono i file DOT per garantire la coerenza del formato.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

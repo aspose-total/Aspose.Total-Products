@@ -78,7 +78,69 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A Rich Text Format dokumentumok összevonása Python API-k segítségével könnyű dokumentum összeállítást tesz lehetővé, miközben megőrzi az alapvető formázást és olvashatóságot. Az RTF széles körben használt az interoperabilitás biztosítására platformok és rendszerek között.
+
+
+
+Az automatizált RTF összevonás támogatja a gyors, programatikus dokumentumfeldolgozást olyan környezetekben, ahol a egyszerűség és a kompatibilitás kritikus szempont.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Könnyű dokumentum összeállítás (RTF)**  
+&nbsp; Több RTF fájl egyetlen olvasható dokumentummá való összevonása.
+
+
+
+* **Rendszerközi tartalomcsere (RTF)**  
+&nbsp; RTF dokumentumok összevonása különböző rendszerek között.
+
+
+
+* **Egyszerű formázás megőrzése (RTF)**  
+&nbsp; RTF fájlok összevonása lényeges formázás megőrzése mellett.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Háttérben futó szövegfeldolgozási csővezetékek (RTF)**  
+&nbsp; Az RTF összevonás automatizált a szövegfeldolgozási szolgáltatásokban.
+
+
+
+* **Nagy mennyiségű dokumentumkezelés (RTF)**  
+&nbsp; Rendszerek nagy számú RTF fájlt összevonva programatikusan.
+
+
+
+* **Kompatibilitásra összpontosított automatizálás (RTF)**  
+&nbsp; Az RTF fájlokat automatikusan összevonják a maximális hordozhatóság érdekében.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -90,7 +90,73 @@ otherformats: DOC DOCX DOCM DOT DOTX DOTM Word PowerPoint PPT PPTX PPS PPSX PPSM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API查看DOTM文件，可以安全地检查带有嵌入式逻辑的宏启用Word模板，而无需执行嵌入的逻辑。
+
+这对于需要可见性和安全性共存的受控环境至关重要。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **宏启用模板审查**  
+
+&nbsp; 在保持宏停用的情况下查看模板内容。
+
+
+
+* **面向安全的检查**  
+
+&nbsp; 在不暴露系统于执行风险的情况下检查结构。
+
+
+
+* **模板批准流程**  
+
+&nbsp; 在受控分发之前审查模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **安全模板接收**  
+
+&nbsp; Python查看器在入职期间安全显示DOTM文件。
+
+
+
+* **治理自动化**  
+
+&nbsp; 模板作为自动化策略检查的一部分进行审查。
+
+
+
+* **使用前验证流水线**  
+
+&nbsp; 自动化预览支持批准工作流程。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

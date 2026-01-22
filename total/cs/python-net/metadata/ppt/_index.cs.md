@@ -75,7 +75,93 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Extrakce metadat dokumentů pro soubory **PPT** pomocí Python API umožňuje správu starších prezentací čtením vlastností jako je autor, časové razítko a popisná pole. Toto podporuje správu a objevitelnost pro organizace, které stále udržují staré knihovny snímků.
+
+
+
+V automatizovaných pracovních postupech mohou metadata PPT napájet klasifikaci, indexaci a řízení životního cyklu - umožňující organizovat, auditovat a migrovat velké sbírky starých prezentací s minimálním manuálním úsilím.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Audit knihovny starých snímků**
+
+  Extrahovat metadata PPT k porozumění stáří, vlastnictví a mezery v údržbě napříč archivovanými balíčky.
+
+
+
+* **Hodnocení připravenosti k migraci**
+
+  Použít metadata k prioritizaci, které balíčky PPT by měly být převedeny nebo aktualizovány jako první.
+
+
+
+* **Směrování údržby na základě vlastnictví**
+
+  Identifikovat správce z polí autor/editor pro efektivní směrování požadavků na aktualizaci.
+
+
+
+* **Analýza portfolia obsahu**
+
+  Sesbírat metadata PPT k měření pokrytí knihovny, zastaralosti a operačního rizika.
+
+
+
+* **Detekce duplicitních aktiv**
+
+  Použít vzory metadat k detekci pravděpodobných duplicit a snížení nepořádku v knihovně.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* **Potrubí pro import starých balíčků**
+
+  Automaticky importovat soubory PPT, extrahovat metadata a přiřadit je do systému inventarizace se standardizovanými poli.
+
+
+
+* **Automatizace fronty konverze**
+
+  Přidat balíčky PPT do front konverze na základě stáří metadat a pravidel klasifikace použití.
+
+
+
+* **Upozornění na zastaralé balíčky**
+
+  Spouštět upozornění, když metadata PPT naznačují dlouhá období bez aktualizací nebo chybějících polí vlastnictví.
+
+
+
+* **Automatizované úklidové úlohy knihovny**
+
+  Pravidelně prohledávat repozitáře PPT a karanténovat aktiva identifikovaná jako duplicity nebo neřízená na základě metadat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

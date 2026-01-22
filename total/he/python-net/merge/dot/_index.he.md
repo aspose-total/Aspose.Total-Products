@@ -76,7 +76,69 @@ otherformats: DOC DOCX WORD DOT DOCM DOTX DOTM RTF ODT OTT PPTX PPT POWERPOINT P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+שילוב תבניות של תבנית Word באמצעות Python APIs מאפשר יצירת מסמכים עקביים בכל הצוותים והמערכות. השילוב המבוסס על תבנית מבטיח פריסות מתוקננות בעוד מאפשר תרכובת תוכן גמישה.
+
+
+
+הגישה הזו אידיאלית למפעלי מסמכים אוטומטיים שבהם יש לשמור על תבנית ומיתוג עקביים בפלטים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **אספקת מסמכים מבוססי תבנית (DOT)**  
+  &nbsp; מיזוג מסמכים מבוססי DOT כדי לאכוף פורמט מתוקן.
+
+
+
+* **יצירת פלט מתוקן (DOT)**  
+  &nbsp; שלב קבצים המופעלים על ידי תבניות למסמכים מאוחדים.
+
+
+
+* **ניהול פריסה ניתן לשימוש מחדש (DOT)**  
+  &nbsp; איגוד מסמכי DOT כדי לשמור על אחידות פריסה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **יישום תבנית אוטומטי (DOT)**  
+  &nbsp; קבצי DOT מתמזגים באופן אוטומטי במהלך יצירת המסמך.
+
+
+
+* **עיבוד תבניות בצורת צמיחה (DOT)**  
+  &nbsp; כמויות גדולות של מסמכי DOT מתמזגים בעבודות מתוזמנות.
+
+
+
+* **שליטה בפריסה באמצעות המערכת (DOT)**  
+  &nbsp; מערכות אוטומטיות ממזגות קבצי DOT כדי להבטיח עמידות בפורמט.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

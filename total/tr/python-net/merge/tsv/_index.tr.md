@@ -78,7 +78,63 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python API'lerini kullanarak sekmeyle ayrılmış değer dosyalarını birleştirmek, yapılandırılmış tablo verilerinin hızlı ve hafif bir şekilde birleştirilmesini sağlar. TSV, veri değişimi ve ön işleme için yaygın olarak kullanılır.
+
+
+
+Otomatik TSV birleştirme, yüksek performanslı veri boru hatları ve analitik iş akışlarını destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Ham Veri Birleştirme (TSV)**  &nbsp; İşleme için TSV dosyalarını tek bir veri kümesine birleştirin.
+
+
+
+* **Sistemden Sisteme Veri Değişimi (TSV)**  &nbsp; Farklı platformlardan TSV dışa aktarmalarını birleştirin.
+
+
+
+* **Ön Analiz Veri Hazırlığı (TSV)**  &nbsp; Analitik dönüşümden önce TSV dosyalarını birleştirin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Akış Tabanlı Veri İşleme (TSV)**  &nbsp; Otomatik sistemler, veri akışlarında TSV dosyalarını birleştirir.
+
+
+
+* **Toplu ETL İşlemleri (TSV)**  &nbsp; TSV birleştirme, planlanmış ETL işlemleri sırasında gerçekleşir.
+
+
+
+* **Ölçeklenebilir Tablo Veri Boru Hatları (TSV)**  &nbsp; Programatik birleştirme, büyük TSV veri kümelerini destekler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -100,7 +100,75 @@ otherformats: Word DOCX DOC DOTX DOT RTF ODT OTT PDF Excel XLS XLSX XLSM XLSB OD
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+使用Python API解析**PDF文档**可以从广泛使用的固定布局格式中提取文本和布局信息。 PDF在报告、发票和官方记录中很常见。
+
+
+
+自动化PDF解析可解锁不可编辑内容，进行分析、搜索和系统集成，无需手动干预。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **报告数据提取**  
+
+  检索静态PDF报告中的文本内容。
+
+
+
+* **文档存档处理**  
+
+  将PDF转换为可搜索和可索引的文本。
+
+
+
+* **信息检索系统**  
+
+  在大型PDF集合中实现内容发现。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **定时PDF摄入**  
+
+  自动按固定节奏处理传入的PDF。
+
+
+
+* **文本规范化管道**  
+
+  以程序方式清理和标准化提取的PDF文本。
+
+
+
+* **下游分析启用**  
+
+  将解析的PDF内容提供给分析或机器学习工作流。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

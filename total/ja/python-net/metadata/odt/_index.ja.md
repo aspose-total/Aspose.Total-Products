@@ -98,7 +98,93 @@ ODT メタデータ管理アプリまたはユーティリティを開発する�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Python APIを介した**ODT**ファイルのドキュメントメタデータ抽出は、テキストドキュメントのプロパティにプログラム的にアクセスできるようにし、手動検査に頼らずに監査、分類、および検索の充実を可能にします。これは文書ガバナンス、知識管理、およびライフサイクルの追跡に重要です。
+
+
+
+自動化システムでは、ODTメタデータを使用して標準を強制し、承認をルーティングし、一貫したルールで大規模なリポジトリ全体でスケーラブルな処理をサポートできます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **ナレッジベースの整理**
+
+  ODTメタデータを使用して内部ドキュメントをカテゴリ別に分類し、索引付けして高速に取得します。
+
+
+
+* **所有権と管理コントロール**
+
+  レビュアーを割り当て、責任を維持するために著者と編集者のフィールドを抽出します。
+
+
+
+* **保持およびアーカイブの決定**
+
+  ODTファイルをアーカイブ、保持、または更新するかどうかを判断するためにタイムスタンプを使用します。
+
+
+
+* **アナリティクスのためのメタデータの正規化**
+
+  レポート作成やトレンド分析のためにODTプロパティを一貫したフィールドに変換します。
+
+
+
+* **公開前の検証**
+
+  ODTドキュメントを公開形式に変換する前に必要な記述フィールドを検証します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **ルールベースの受入分類**
+
+  メタデータの存在、所有権、およびタイムスタンプを使用して、ODTドキュメントをワークフローに自動的に分類します。
+
+
+
+* **カタログ同期ワークフロー**
+
+  ODTメタデータを毎晩抽出し、内部検索システムで使用される集中型レジストリに同期させます。
+
+
+
+* **自動化されたドキュメントレビュー**
+
+  メタデータがポリシーウィンドウ内で更新されていないことを示す場合、ODTファイルのレビュータスクをトリガーします。
+
+
+
+* **メタデータからアクセスポリシーマッピング**
+
+  ODTメタデータが制限されたコンテンツカテゴリを示している場合に、アクセスルールを動的に適用します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

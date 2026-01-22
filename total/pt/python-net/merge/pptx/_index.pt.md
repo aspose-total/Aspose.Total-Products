@@ -79,7 +79,69 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/sli
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A fusão de apresentações PPTX usando APIs Python é a abordagem mais comum para a composição de slides moderna. Isso permite um controle preciso sobre a ordem dos slides, layouts e consistência de conteúdo.
+
+
+
+Essa capacidade se integra perfeitamente com motores de conteúdo automatizados e sistemas de relatórios.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Criação de Decks com Múltiplas Seções (PPTX)**  
+  Merge arquivos PPTX representando seções em um único deck.
+
+
+
+* **Integração Colaborativa de Slides (PPTX)**  
+  Combine slides PPTX criados por vários colaboradores.
+
+
+
+* **Montagem de Módulos de Slides Reutilizáveis (PPTX)**  
+  Monte slides PPTX modulares em apresentações personalizadas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Geração Dinâmica de Decks de Slides (PPTX)**  
+  Sistemas mesclam arquivos PPTX com base em entradas em tempo de execução.
+
+
+
+* **Pipelines de Apresentação CI/CD (PPTX)**  
+  A fusão de PPTX é automatizada durante as etapas de build ou release.
+
+
+
+* **Publicação de Apresentações Escaláveis (PPTX)**  
+  Decks PPTX de alto volume são gerados programaticamente.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

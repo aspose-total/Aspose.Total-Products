@@ -78,7 +78,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La fusione dei documenti DOCX utilizzando le API di Python è un requisito comune per generare output Word moderni e ben curati su larga scala. Consente un controllo preciso sulla struttura, lo stile e la continuità delle sezioni da diverse fonti.
+
+
+
+Questa capacità si integra perfettamente con i motori di contenuti automatizzati, consentendo la generazione di documenti scalabili per report, manuali e documentazione strutturata.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Creazione di report a più sezioni (DOCX)**  
+
+&nbsp; Unisci file DOCX che rappresentano capitoli in un unico report.
+
+
+
+* **Riutilizzo dei moduli di contenuto (DOCX)**  
+
+&nbsp; Assembla sezioni DOCX riutilizzabili in documenti personalizzati.
+
+
+
+* **Integrazione del flusso di lavoro editoriale (DOCX)**  
+
+&nbsp; Combina file DOCX approvati dall'editor in output finalizzati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Generazione dinamica di documenti (DOCX)**  
+
+&nbsp; I sistemi uniscono file DOCX in base agli input dell'utente o alle condizioni dei dati.
+
+
+
+* **Pipeline di documentazione CI/CD (DOCX)**  
+
+&nbsp; La fusione DOCX è automatizzata come parte dei flussi di lavoro di compilazione e rilascio.
+
+
+
+* **Automazione della pubblicazione scalabile (DOCX)**  
+
+&nbsp; I documenti DOCX ad alto volume vengono uniti in modo programmato su larga scala.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

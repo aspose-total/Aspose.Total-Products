@@ -78,7 +78,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Menggabungkan dokumen DOCX menggunakan API Python adalah kebutuhan umum untuk menghasilkan output Word yang rapi dan modern secara besar-besaran. Ini memungkinkan kontrol yang tepat terhadap struktur, gaya, dan kelanjutan bagian dari berbagai sumber.
+
+
+
+Kemampuan ini terintegrasi dengan lancar dengan mesin konten otomatis, memungkinkan generasi dokumen yang dapat diskalakan untuk laporan, manual, dan dokumentasi terstruktur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Pembuatan Laporan Multi-Bagian (DOCX)**  
+
+&nbsp; Gabungkan file DOCX yang mewakili bab-bab menjadi satu laporan.
+
+
+
+* **Penggunaan Modul Konten (DOCX)**  
+
+&nbsp; Susun bagian-bagian DOCX yang dapat digunakan kembali ke dalam dokumen yang disesuaikan.
+
+
+
+* **Integrasi Alur Kerja Editorial (DOCX)**  
+
+&nbsp; Gabungkan file DOCX yang disetujui oleh editor menjadi output final.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Generasi Dokumen Dinamis (DOCX)**  
+
+&nbsp; Sistem menggabungkan file DOCX berdasarkan masukan pengguna atau kondisi data.
+
+
+
+* **Pipa Dokumentasi CI/CD (DOCX)**  
+
+&nbsp; Penggabungan DOCX diotomatisasi sebagai bagian dari alur kerja pembangunan dan rilis.
+
+
+
+* **Otomatisasi Publikasi yang Dapat Diskalakan (DOCX)**  
+
+&nbsp; Dokumen DOCX berjumlah besar digabungkan secara programatik secara besar-besaran.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

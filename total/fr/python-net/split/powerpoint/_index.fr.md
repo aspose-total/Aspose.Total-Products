@@ -73,7 +73,75 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Les fichiers PowerPoint stockent du contenu visuel basé sur des diapositives utilisé dans les présentations et les rapports. La division des fichiers PowerPoint permet un accès granulaire aux diapositives individuelles ou aux groupes de diapositives.
+
+
+
+L'automatisation basée sur Python permet une manipulation évolutive du contenu de la présentation dans les flux de travail modernes.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Réutilisation des diapositives dans les présentations**  
+
+&nbsp; Extraire des diapositives pour les réutiliser dans de nouvelles présentations.
+
+
+
+* **Gestion du contenu de la présentation**  
+
+&nbsp; Gérer les diapositives de manière indépendante à grande échelle.
+
+
+
+* **Flux de travail de révision et d'approbation**  
+
+&nbsp; Partager uniquement les diapositives pertinentes avec les parties prenantes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Segmentation automatisée des diapositives**  
+
+&nbsp; Les scripts Python divisent les decks en unités de diapositives.
+
+
+
+* **Génération dynamique de decks**  
+
+&nbsp; Les diapositives sont assemblées en fonction de règles.
+
+
+
+* **Systèmes de versionnement de présentation**  
+
+&nbsp; Suivre automatiquement les changements au niveau des diapositives.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -98,7 +98,93 @@ ODT 메타데이터 관리 앱 또는 유틸리티를 개발해야 합니까?[As
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+파이썬 API를 통한 **ODT** 파일의 문서 메타데이터 추출은 수동 검토에 의존하지 않고 텍스트 문서 속성에 프로그래밍 방식으로 접근하여 감사, 분류 및 검색 향상을 제공합니다. 이는 문서 거버넌스, 지식 관리 및 라이프사이클 추적에 중요합니다.
+
+
+
+자동화 시스템에서 ODT 메타데이터는 일관된 규칙을 통해 대규모 저장소 전체에 걸쳐 확장 가능한 처리를 지원하여 표준 강제 적용, 승인 경로 설정 및 카탈로그 동기화에 활용될 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **지식 베이스 조직화**
+
+  ODT 메타데이터를 사용하여 내부 문서를 분류하고 색인화하여 더 빠른 검색이 가능하도록 합니다.
+
+
+
+* **소유권 및 관리 권한 제어**
+
+  리뷰어를 할당하고 책임을 유지하기 위해 작성자 및 편집자 필드를 추출합니다.
+
+
+
+* **보존 및 보관 결정**
+
+  ODT 파일을 아카이빙, 보존 또는 갱신해야 하는지 결정하기 위해 타임스탬프를 사용합니다.
+
+
+
+* **분석을 위한 메타데이터 정규화**
+
+  보고 및 트렌드 분석을 위해 ODT 속성을 일관된 필드로 변환합니다.
+
+
+
+* **출판 전 유효성 검사**
+
+  ODT 문서를 게시된 형식으로 변환하기 전에 필요한 설명 필드를 확인합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **규칙 기반의 수용 분류**
+
+  메타데이터 존재, 소유권 및 타임스탬프를 사용하여 ODT 문서를 워크플로에 자동으로 분류합니다.
+
+
+
+* **카탈로그 동기화 워크플로**
+
+  매일 ODT 메타데이터를 추출하여 내부 검색 시스템에서 사용하는 중앙 레지스트리에 동기화합니다.
+
+
+
+* **자동 문서 검토**
+
+  메타데이터가 정책 기간 내에 업데이트되지 않았음을 나타낼 때 ODT 파일에 대한 검토 작업을 트리거합니다.
+
+
+
+* **메타데이터를 액세스 정책 매핑**
+
+  제한된 콘텐츠 범주를 나타내는 ODT 메타데이터가 있을 때 액세스 규칙을 동적으로 적용합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
