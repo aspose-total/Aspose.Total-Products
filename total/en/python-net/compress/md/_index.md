@@ -1,217 +1,185 @@
 ---
 title: Online MD File Compression or Build Python Apps to Archive MD Files
-description: Free online app to compress different MD files. Python archiving library code for MD documents. 
-
+description: Free online app to compress different MD files. Python archiving library
+  code for MD documents.
 family: total
 platformtag: Python
 feature: Compress
 informat: MD
-otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD PDF EPUB CGM TEX MHT PCL PS SVG XML XPS XSLFO XLS XLSX XLSB XLSM XLT XLTX XLTM CSV TSV TXT ODS SXC FODS PPT POL PPS PPTX POTX PPSX PPTM PPSM POTM ODP OTP BMP GIF DICOM DJVU DNG EMF JPEG JPG ODG PNG APNG TIFF DIB EPS WEBP WMF CDR CMX EMZ WMZ TGA SVGZ
+otherformats:
+- DOC
+- DOT
+- DOCX
+- DOCM
+- DOTX
+- DOTM
+- RTF
+- HTML
+- MHTML
+- MOBI
+- CHM
+- ODT
+- OTT
+- TXT
+- MD
+- PDF
+- EPUB
+- CGM
+- TEX
+- MHT
+- PCL
+- PS
+- SVG
+- XML
+- XPS
+- XSLFO
+- XLS
+- XLSX
+- XLSB
+- XLSM
+- XLT
+- XLTX
+- XLTM
+- CSV
+- TSV
+- TXT
+- ODS
+- SXC
+- FODS
+- PPT
+- POL
+- PPS
+- PPTX
+- POTX
+- PPSX
+- PPTM
+- PPSM
+- POTM
+- ODP
+- OTP
+- BMP
+- GIF
+- DICOM
+- DJVU
+- DNG
+- EMF
+- JPEG
+- JPG
+- ODG
+- PNG
+- APNG
+- TIFF
+- DIB
+- EPS
+- WEBP
+- WMF
+- CDR
+- CMX
+- EMZ
+- WMZ
+- TGA
+- SVGZ
+layout: total-clean
+hero:
+  h1: Online Document Compression App and Python Code to Archive MD Files
+  h2: Develop powerful Python based MD document archiving applications. Archive single
+    and multiple MD documents into ZIP, RAR and more archiving options via your Python
+    application. Freely compress various documents including MD files online via app
+    with instant download.
+howto:
+- title: Compress and Optimize MD Files Online using App
+  steps:
+  - Upload MD files to compress and optimize.
+  - Choose the Compression Level (Low, Medium or High)
+  - Click the "Compress" button.
+  - Download the compressed MD file.
+  - View and get the result of compression by checking its size and content quality.
+- title: Archive MD File via Python Compression API
+  steps:
+  - Reference API within the project directly from PyPI ([Aspose.ZIP](https://pypi.org/project/aspose-zip/))
+  - Use Archive() of Aspose.ZIP for Python via .NET.
+  - Add as many MD files as you want to archive using create_entry().
+  - Call save method and get the archived MD file as ZIP, RAR etc.
+code_example:
+  title: Code example in python to archive MD File
+  gist:
+    user: aspose-com-gists
+    id: 533b68e0904932a37c25a576bd20448d
+    file: compress-and-add-single-file-into-archive.py
+page_summary:
+  title: Develop MD File Archiving Application using Python
+  body: Need to develop python script or utility app to easily archive single or multiple
+    MD files? With Aspose.ZIP for Python via .NET, child API of Aspose.Total for Python
+    via .NET, any python developer can integrate the above API code to program archiving
+    (ZIP, 7Zip, RAR, TAR, GZIP, BZ2, GZIP, LZ, CPIO, XZ, Z, CAB) app across documents.
+    Powerful Python library for document archiving supports many popular formats including
+    MD format.
+setup:
+- title: MD archiving library for Python
+  body: 'There are alternative options to install ''Aspose.ZIP for Python via .NET''
+    or ''Aspose.Total for Python via .NET'' onto your system. Please choose one that
+    resembles your needs and follow the step-by-step instructions:'
+  bullets:
+  - Install Aspose.ZIP for Python via .NET from [PyPI](https://pypi.org/project/aspose-zip/)
+  - Or Use the following pip commands `pip install aspose-zip`.
+- title: System Requirements
+  body: Fore more details please refer to [Product Documentation](https://docs.aspose.com/zip/python-net/system-requirements/).
+  bullets:
+  - Python 3.5 or later is installed
+  - GCC-6 runtime libraries (or later).
+  - 'For Python 3.5-3.7: The pymalloc build of Python is needed.'
+about:
+  paragraphs:
+  - MD compression optimizes Markdown files by removing unnecessary whitespace, comments,
+    or redundant formatting while preserving content structure. This improves storage
+    efficiency, faster file transfer, and streamlined processing in documentation
+    and content pipelines.
+  - Python APIs enable automated MD compression, batch processing, and conversion
+    workflows for scalable handling of technical documentation, blogs, and version-controlled
+    content.
+  columns:
+  - title: Key Use Cases
+    bullets:
+    - '**Documentation Optimization** Compress large Markdown repositories for easier
+      storage and faster version control operations.'
+    - '**Content Publishing Workflows** Smaller MD files streamline web and static
+      site generation processes.'
+    - '**Archival of Markdown Content** Reduces storage for historical documentation
+      and notes.'
+    - '**Collaboration \& Distribution** Optimized files are easier to share across
+      teams and systems.'
+  - title: Automation Scenarios
+    bullets:
+    - '**Batch MD Compression** Automate optimization of multiple Markdown files.'
+    - '**Whitespace and Comment Removal** Automatically clean up unnecessary text
+      without altering content.'
+    - '**Workflow Integration** Compress MD files on ingestion into CMS or version
+      control systems.'
+    - '**Conversion + Compression Pipelines** Convert MD to HTML or PDF while applying
+      compression automatically.'
+faq:
+- q: Can I use above Python code in my application?
+  a: Yes, you are welcome to download this code. One can easily develop a professional
+    solution to archive MD file using Python. Use Aspose MD compression API to develop
+    high-level, platform independent software in Python.
+- q: Is this document compression App work only on Windows?
+  a: You have the flexibility to initiate document compression from any device, irrespective
+    of the operating system it runs on, whether it be Windows, Linux, Mac OS, or Android.
+    All that's required is a contemporary web browser and an active internet connection.
+- q: Is it safe to use the online app to compress multiple MD documents?
+  a: Of course! The output files generated through our service will be securely and
+    automatically removed from our servers within a 24-hour timeframe. As a result,
+    the download links associated with these files will cease to be functional after
+    this period.
+- q: What browser should to use App?
+  a: You can use any modern web browser like Google Chrome, Firefox, Opera, or Safari
+    for online MD document compression.
+- q: How can I compress multiple MD files?
+  a: Start by uploading one or more files you want to compress. You can either drag
+    and drop your MD files or simply click inside the white area. Afterward, click
+    the 'Compress' button, and our online compression app will quickly process the
+    uploaded files.
+- q: How long does it take to compress the MD files?
+  a: This compression application operates quickly, It may take a few seconds to upload
+    the files and compress them.
 ---
-{{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header-widget h1="Online Document Compression App and Python Code to Archive MD Files" h2="Develop powerful Python based MD document archiving applications. Archive single and multiple MD documents into ZIP, RAR and more archiving options via your Python application. Freely compress various documents including MD files online via app with instant download." >}}
-
-
-
-
-{{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Compress and Optimize MD Files Online using App" %}}
-
-1. Upload MD files to compress and optimize.
-1. Choose the Compression Level (Low, Medium or High)
-1. Click the "Compress" button.
-1. Download the compressed MD file.
-1. View and get the result of compression by checking its size and content quality.
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Archive MD File via Python Compression API" %}}
-
-1. Reference API within the project directly from PyPI ([Aspose.ZIP](https://pypi.org/project/aspose-zip/)) 
-1. Use Archive() of Aspose.ZIP for Python via .NET.
-1. Add as many MD files as you want to archive using create_entry().
-1. Call save method and get the archived MD file as ZIP, RAR etc.
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-block title="Code example in python to archive MD File" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "533b68e0904932a37c25a576bd20448d" "compress-and-add-single-file-into-archive.py" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{% blocks/products/pf/agp/code-block title="Python code to archive multiple MD Files" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "533b68e0904932a37c25a576bd20448d" "compress-and-add-multiple-files-into-archive.py" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-{{% blocks/products/pf/feature-page-summary %}}
-
-
-<h2>Develop MD File Archiving Application using Python</h2>
-
-Need to develop python script or utility app to easily archive single or multiple MD files? With Aspose.ZIP for Python via .NET, child API of Aspose.Total for Python via .NET, any python developer can integrate the above API code to program archiving (ZIP, 7Zip, RAR, TAR, GZIP, BZ2, GZIP, LZ, CPIO, XZ, Z, CAB) app across documents. Powerful Python library for document archiving supports many popular formats including MD format.<br /><br />
-
-{{% /blocks/products/pf/feature-page-summary %}}
-
-{{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="MD archiving library for Python" %}}
-There are alternative options to install 'Aspose.ZIP for Python via .NET' or 'Aspose.Total for Python via .NET' onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:<br /><br />
-
-- Install Aspose.ZIP for Python via .NET from [PyPI](https://pypi.org/project/aspose-zip/)
-- Or Use the following pip commands ```pip install aspose-zip```.
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}
-
-- Python 3.5 or later is installed
-- GCC-6 runtime libraries (or later).
-- For Python 3.5-3.7: The pymalloc build of Python is needed.
-<br /><br />
-Fore more details please refer to [Product Documentation](https://docs.aspose.com/zip/python-net/system-requirements/).
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-{{< blocks/products/pf/agp/feature-section >}}
-
-
-
-MD compression optimizes Markdown files by removing unnecessary whitespace, comments, or redundant formatting while preserving content structure. This improves storage efficiency, faster file transfer, and streamlined processing in documentation and content pipelines.
-
-
-
-Python APIs enable automated MD compression, batch processing, and conversion workflows for scalable handling of technical documentation, blogs, and version-controlled content.
-
-
-
-{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
-
-
-
-* **Documentation Optimization**  &nbsp; Compress large Markdown repositories for easier storage and faster version control operations.
-
-
-
-* **Content Publishing Workflows**  &nbsp; Smaller MD files streamline web and static site generation processes.
-
-
-
-* **Archival of Markdown Content**  &nbsp; Reduces storage for historical documentation and notes.
-
-
-
-* **Collaboration \& Distribution**  &nbsp; Optimized files are easier to share across teams and systems.
-
-
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-
-
-{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
-
-
-
-* **Batch MD Compression**  &nbsp; Automate optimization of multiple Markdown files.
-
-
-
-* **Whitespace and Comment Removal**  &nbsp; Automatically clean up unnecessary text without altering content.
-
-
-
-* **Workflow Integration**  &nbsp; Compress MD files on ingestion into CMS or version control systems.
-
-
-
-* **Conversion + Compression Pipelines**  &nbsp; Convert MD to HTML or PDF while applying compression automatically.
-
-
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-
-
-
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-
-
-<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
-<div class="col-md-12 tl bg-gray-dark howtolist section">
-  <a class="anchor" name="faqpage"></a>
-  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
-      <div class="col-md-4 howtosectiongfx">
-          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
-      </div>
-      <div class="howtosection col-md-8">
-          <div>
-              <h2>FAQs</h2>
-               <ul>
-                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>Can I use above Python code in my application?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Yes, you are welcome to download this code. One can easily develop a professional solution to archive MD file using Python. Use Aspose MD compression API to develop high-level, platform independent software in Python.</span>
-                      </div>
-                  </li>
-                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>Is this document compression App work only on Windows?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">You have the flexibility to initiate document compression from any device, irrespective of the operating system it runs on, whether it be Windows, Linux, Mac OS, or Android. All that's required is a contemporary web browser and an active internet connection.</span>
-                      </div>
-                  </li>
-                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>Is it safe to use the online app to compress multiple MD documents?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Of course! The output files generated through our service will be securely and automatically removed from our servers within a 24-hour timeframe. As a result, the download links associated with these files will cease to be functional after this period.</span>
-                      </div>
-                  </li>                 
-                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>What browser should to use App?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">You can use any modern web browser like Google Chrome, Firefox, Opera, or Safari for online MD document compression.</span>
-                      </div>
-                  </li>
- 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>How can I compress multiple MD files?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Start by uploading one or more files you want to compress. You can either drag and drop your MD files or simply click inside the white area. Afterward, click the 'Compress' button, and our online compression app will quickly process the uploaded files.</span>
-                      </div>
-                  </li>
- 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>How long does it take to compress the MD files?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">This compression application operates quickly, It may take a few seconds to upload the files and compress them.</span>
-                      </div>
-                  </li>
-              </ul>
-          </div>
-      </div>
-  </div>
-
-{{< blocks/products/pf/agp/other-autogen-total >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< /blocks/products/pf/feature-page-wrap >}}

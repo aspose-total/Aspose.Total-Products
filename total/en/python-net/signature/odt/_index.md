@@ -1,204 +1,123 @@
 ---
-title: Digitally Sign ODT File Online or Build Python Apps to Add Signature in ODT Files
-description: Free online app for digital signature in ODT files. Develop Python application to electronically sign ODT documents. 
-
+title: Digitally Sign ODT File Online or Build Python Apps to Add Signature in ODT
+  Files
+description: Free online app for digital signature in ODT files. Develop Python application
+  to electronically sign ODT documents.
 family: total
 platformtag: Python
 feature: Signature
 informat: ODT
-otherformats: PDF WORD DOC DOCX ODT POWERPOINT PPT PPTX ODP IMAGE JPG JPEG BMP TIFF GIF PNG
+otherformats:
+- PDF
+- WORD
+- DOC
+- DOCX
+- ODT
+- POWERPOINT
+- PPT
+- PPTX
+- ODP
+- IMAGE
+- JPG
+- JPEG
+- BMP
+- TIFF
+- GIF
+- PNG
+layout: total-clean
+hero:
+  h1: Online Document eSignature App and Python Code to Digitally Sign ODT Files
+  h2: Develop powerful Python based ODT document signing applications. Freely add
+    digital signature into various documents including ODT files online via app with
+    instant download.
+howto:
+- title: Add Electronic Signature into ODT Files Online using App
+  steps:
+  - Upload ODT files to sign digitally.
+  - Add text for signature or upload signature image.
+  - Click the "Sign" button.
+  - Download the signed ODT file.
+- title: Digitally Sign ODT File via Python
+  steps:
+  - Reference APIs within the project directly from PyPI ([Aspose.Words](https://pypi.org/project/aspose-words/))
+  - Load the document.
+  - Use SignOptions with digital signature.
+  - Writes signed document to destination file.
+  - More options to sign ODT file using [Signature Provider Identifier](https://docs.aspose.com/words/python-net/working-with-digital-signatures/#signing-word-document-using-signature-provider-identifier)
+code_example:
+  title: Python code for adding digital signature in ODT files
+  gist:
+    user: aspose-com-gists
+    id: 589736dd9965071e3bac8c4fcbb88608
+    file: add-digital-signature-to-word-documents.py
+page_summary:
+  title: Develop E-Signature Application using Python
+  body: Need to develop python script or utility app to easily sign multiple ODT files
+    electronically? With Aspose.Words for Python via .NET, child API of Aspose.Total
+    for Python via .NET, any python developer can integrate the above API code to
+    program eSigning app for signatures across documents. Powerful Python library
+    for document signing, supports many popular formats including ODT format.
+setup:
+- title: ODT eSignature library for Python
+  body: 'There are alternative options to install ''Aspose.Words for Python via .NET''
+    or ''Aspose.Total for Python via .NET'' onto your system. Please choose one that
+    resembles your needs and follow the step-by-step instructions:'
+  bullets:
+  - Install Aspose.Words for Python via .NET from [PyPI](https://pypi.org/project/aspose-words/)
+  - Or Use the following pip commands `pip install aspose-words`.
+- title: System Requirements
+  body: Fore more details please refer to [Product Documentation](https://docs.aspose.com/words/python-net/system-requirements/).
+  bullets:
+  - Python 3.5 or later is installed
+  - GCC-6 runtime libraries (or later).
+  - 'For Python 3.5-3.7: The pymalloc build of Python is needed.'
+about:
+  paragraphs:
+  - Signing ODT documents using Python APIs enables open-format text documents to
+    carry verified approval markers and signer metadata. This supports controlled
+    documentation lifecycles without relying on proprietary formats.
+  - In automation pipelines, ODT signing ensures approvals are applied consistently
+    at the point of review closure, improving auditability and reducing manual document
+    handling.
+  columns:
+  - title: Key Use Cases
+    bullets:
+    - '**Open-Format Policy Approval** Sign ODT policy documents to confirm final
+      review and authorization.'
+    - '**Editorial Workflow Closure** Apply signatures to ODT drafts when content
+      review completes.'
+    - '**Internal Knowledge Base Governance** Sign ODT documents before publishing
+      to shared repositories.'
+  - title: Automation Scenarios
+    bullets:
+    - '**Reviewer Completion Trigger** Automatically sign ODT files when all assigned
+      reviewers complete approvals.'
+    - '**Repository Publish Gate** Sign ODT documents before they are pushed to knowledge
+      base publishing.'
+    - '**Automated Audit Trail Injection** Attach signer identity and timestamp metadata
+      during ODT signing runs.'
+faq:
+- q: Can I use above Python code in my application?
+  a: Yes, you are welcome to download this code. One can easily develop a professional
+    solution to add digital signature in ODT file using Python. Use Aspose ODT eSignature
+    API to develop high-level, platform independent software in Python.
+- q: Is this document digital signing App work only on Windows?
+  a: You have the flexibility to initiate document signing from any device, irrespective
+    of the operating system it runs on, whether it be Windows, Linux, Mac OS, or Android.
+    All that's required is a contemporary web browser and an active internet connection.
+- q: Is it safe to use the online app to sign multiple ODT documents?
+  a: Of course! The output files generated through our service will be securely and
+    automatically removed from our servers within a 24-hour timeframe. As a result,
+    the download links associated with these files will cease to be functional after
+    this period.
+- q: What browser should to use App?
+  a: You can use any modern web browser like Google Chrome, Firefox, Opera, or Safari
+    for online ODT document compression.
+- q: How can I sign multiple ODT files?
+  a: Start by uploading one or more files you want to sign. You can either drag and
+    drop your ODT files or simply click inside the white area. Afterward, click the
+    'Sign' button, and our online esigning app will quickly process the uploaded files.
+- q: How long does it take to sign the ODT files?
+  a: This e-signature application operates quickly, It may take a few seconds to upload
+    the files and sign them.
 ---
-{{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header-widget h1="Online Document eSignature App and Python Code to Digitally Sign ODT Files" h2="Develop powerful Python based ODT document signing applications. Freely add digital signature into various documents including ODT files online via app with instant download." >}}
-
-
-
-
-{{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Add Electronic Signature into ODT Files Online using App" %}}
-
-1. Upload ODT files to sign digitally.
-1. Add text for signature or upload signature image.
-1. Click the "Sign" button.
-1. Download the signed ODT file.
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Digitally Sign ODT File via Python" %}}
-
-1. Reference APIs within the project directly from PyPI ([Aspose.Words](https://pypi.org/project/aspose-words/)) 
-1. Load the document.
-1. Use SignOptions with digital signature.
-1. Writes signed document to destination file.
-1. More options to sign ODT file using [Signature Provider Identifier](https://docs.aspose.com/words/python-net/working-with-digital-signatures/#signing-word-document-using-signature-provider-identifier)
-.
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-block title="Python code for adding digital signature in ODT files" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "589736dd9965071e3bac8c4fcbb88608" "add-digital-signature-to-word-documents.py" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-{{% blocks/products/pf/feature-page-summary %}}
-
-
-<h2>Develop E-Signature Application using Python</h2>
-
-Need to develop python script or utility app to easily sign multiple ODT files electronically? With Aspose.Words for Python via .NET, child API of Aspose.Total for Python via .NET, any python developer can integrate the above API code to program eSigning app for signatures across documents. Powerful Python library for document signing, supports many popular formats including ODT format.<br /><br />
-
-{{% /blocks/products/pf/feature-page-summary %}}
-
-{{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="ODT eSignature library for Python" %}}
-There are alternative options to install 'Aspose.Words for Python via .NET' or 'Aspose.Total for Python via .NET' onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:<br /><br />
-
-- Install Aspose.Words for Python via .NET from [PyPI](https://pypi.org/project/aspose-words/)
-- Or Use the following pip commands ```pip install aspose-words```.
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}
-
-- Python 3.5 or later is installed
-- GCC-6 runtime libraries (or later).
-- For Python 3.5-3.7: The pymalloc build of Python is needed.
-<br /><br />
-Fore more details please refer to [Product Documentation](https://docs.aspose.com/words/python-net/system-requirements/).
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-{{< blocks/products/pf/agp/feature-section >}}
-
-
-
-Signing ODT documents using Python APIs enables open-format text documents to carry verified approval markers and signer metadata. This supports controlled documentation lifecycles without relying on proprietary formats.
-
-
-
-In automation pipelines, ODT signing ensures approvals are applied consistently at the point of review closure, improving auditability and reducing manual document handling.
-
-
-
-{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
-
-
-
-* **Open-Format Policy Approval**  &nbsp; Sign ODT policy documents to confirm final review and authorization.
-
-
-
-* **Editorial Workflow Closure**  &nbsp; Apply signatures to ODT drafts when content review completes.
-
-
-
-* **Internal Knowledge Base Governance**  &nbsp; Sign ODT documents before publishing to shared repositories.
-
-
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-
-
-{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
-
-
-
-* **Reviewer Completion Trigger**  &nbsp; Automatically sign ODT files when all assigned reviewers complete approvals.
-
-
-
-* **Repository Publish Gate**  &nbsp; Sign ODT documents before they are pushed to knowledge base publishing.
-
-
-
-* **Automated Audit Trail Injection**  &nbsp; Attach signer identity and timestamp metadata during ODT signing runs.
-
-
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-
-
-
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-
-
-<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
-<div class="col-md-12 tl bg-gray-dark howtolist section">
-  <a class="anchor" name="faqpage"></a>
-  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
-      <div class="col-md-4 howtosectiongfx">
-          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
-      </div>
-      <div class="howtosection col-md-8">
-          <div>
-              <h2>FAQs</h2>
-               <ul>
-                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>Can I use above Python code in my application?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Yes, you are welcome to download this code. One can easily develop a professional solution to add digital signature in ODT file using Python. Use Aspose ODT eSignature API to develop high-level, platform independent software in Python.</span>
-                      </div>
-                  </li>
-                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>Is this document digital signing App work only on Windows?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">You have the flexibility to initiate document signing from any device, irrespective of the operating system it runs on, whether it be Windows, Linux, Mac OS, or Android. All that's required is a contemporary web browser and an active internet connection.</span>
-                      </div>
-                  </li>
-                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>Is it safe to use the online app to sign multiple ODT documents?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Of course! The output files generated through our service will be securely and automatically removed from our servers within a 24-hour timeframe. As a result, the download links associated with these files will cease to be functional after this period.</span>
-                      </div>
-                  </li>                 
-                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>What browser should to use App?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">You can use any modern web browser like Google Chrome, Firefox, Opera, or Safari for online ODT document compression.</span>
-                      </div>
-                  </li>
- 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>How can I sign multiple ODT files?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Start by uploading one or more files you want to sign. You can either drag and drop your ODT files or simply click inside the white area. Afterward, click the 'Sign' button, and our online esigning app will quickly process the uploaded files.</span>
-                      </div>
-                  </li>
- 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>How long does it take to sign the ODT files?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">This e-signature application operates quickly, It may take a few seconds to upload the files and sign them.</span>
-                      </div>
-                  </li>
-              </ul>
-          </div>
-      </div>
-  </div>
-
-{{< blocks/products/pf/agp/other-autogen-total >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< /blocks/products/pf/feature-page-wrap >}}

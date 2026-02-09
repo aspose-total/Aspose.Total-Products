@@ -1,201 +1,123 @@
 ---
 title: Online PPTM File Comparison or Build Python Apps to Compare PPTM Files
-description: Free online app to Compare different PPTM files. Python comparison library code for PPTM documents. 
-
+description: Free online app to Compare different PPTM files. Python comparison library
+  code for PPTM documents.
 family: total
 platformtag: Python
 feature: Compare
 informat: PPTM
-otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX PPSX PPTM PPSM POTM ODP PowerPoint HTML MHTML
+otherformats:
+- Word
+- DOC
+- DOT
+- DOCX
+- DOCM
+- DOTX
+- DOTM
+- RTF
+- ODT
+- TXT
+- PDF
+- PPT
+- PPS
+- PPTX
+- POTX
+- PPSX
+- PPTM
+- PPSM
+- POTM
+- ODP
+- PowerPoint
+- HTML
+- MHTML
+layout: total-clean
+hero:
+  h1: Online Document Comparison App and Python Code to Compare PPTM Files
+  h2: Develop powerful Python based PPTM document comparison applications. Freely
+    compare documents including PPTM files online via app with instant download.
+howto:
+- title: Compare PPTM Files Online using App
+  steps:
+  - Upload Two PPTM Files to Compare.
+  - Click the "Compare" Button.
+  - Download Highlighted Results.
+- title: Compare PPTM File via Python
+  steps:
+  - Reference APIs within the project directly from PyPI ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/))
+  - Load the both PPTM documents using Presentation class.
+  - Iterate through each slide of both presentations and compare one by one.
+code_example:
+  title: Code example in python to Compare PPTM Files
+  gist:
+    user: aspose-com-gists
+    id: 00576f3a2a4b2f902010cafca585c93e
+    file: compare-powerpoint-slides.py
+page_summary:
+  title: Develop PPTM File Comparison Application using Python
+  body: Need to develop python script or utility app to easily compare PPTM files?
+    With [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/),
+    child API of [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/),
+    any python developer can integrate the above API code to program comparison app.
+    Powerful Python library for document comparison supports many popular formats
+    including PPTM format such as PDF, Word, PowerPoint, Email messages and Excel
+    files.
+setup:
+- title: PPTM Comparison library for Python
+  body: 'There are alternative options to install ''[Aspose.Slides for Python via
+    .NET](https://products.aspose.com/slides/python-net/)'' or ''[Aspose.Total for
+    Python via .NET](https://products.aspose.com/total/python-net/)'' onto your system.
+    Please choose one that resembles your needs and follow the step-by-step instructions:'
+  bullets:
+  - Install [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)
+    from [PyPI](https://pypi.org/project/Aspose.Slides/)
+  - Or Use the following pip commands `pip install Aspose.Slides`.
+- title: System Requirements
+  body: For more details please refer to [Product Documentation](https://docs.aspose.com/slides/python-net/system-requirements/).
+  bullets:
+  - Python 3.5 or later is installed
+  - GCC-6 runtime libraries (or later).
+  - 'For Python 3.5-3.7: The pymalloc build of Python is needed.'
+about:
+  paragraphs:
+  - PPTM comparison identifies differences in macro-enabled presentations, including
+    slide content, design elements, transitions, and embedded automation scripts.
+    It ensures reliable version tracking.
+  - Automating PPTM comparison enhances workflow consistency, macro control, and presentation
+    quality monitoring.
+  columns:
+  - title: Key Use Cases
+    bullets:
+    - '**Macro-Driven Presentation Tracking** Highlights code and slide changes.'
+    - '**Design Standard Compliance** Ensures uniform theme usage.'
+    - '**Update Verification** Detects slide-level modifications.'
+  - title: Automation Scenarios
+    bullets:
+    - '**Macro Monitoring Automation** Flags embedded script updates.'
+    - '**Bulk PPTM Comparison** Validates large presentation sets.'
+    - '**Change Summary Generation** Produces structured reports programmatically.'
+faq:
+- q: Can I use above Python code in my application?
+  a: Yes, you are welcome to download this code. One can easily develop a professional
+    solution to compare PPTM files using Python. Use Aspose PPTM comparison API to
+    develop high-level, platform independent software in Python.
+- q: Is this document comparison App work only on Windows?
+  a: You have the flexibility to initiate document comparison from any device, irrespective
+    of the operating system it runs on, whether it be Windows, Linux, Mac OS, or Android.
+    All that's required is a contemporary web browser and an active internet connection.
+- q: Is it safe to use the online app to compare multiple PPTM documents?
+  a: Of course! The output files generated through our service will be securely and
+    automatically removed from our servers within a 24-hour timeframe. As a result,
+    the download links associated with these files will cease to be functional after
+    this period.
+- q: What browser should to use App?
+  a: You can use any modern web browser like Google Chrome, Firefox, Opera, or Safari
+    for online PPTM document comparison.
+- q: How can I compare multiple PPTM files?
+  a: Start by uploading one or more files you want to compare. You can either drag
+    and drop your PPTM files or simply click inside the white area. Afterward, click
+    the 'Compare' button, and our online Comparison app will quickly process the uploaded
+    files.
+- q: How long does it take to Compare the PPTM files?
+  a: This Comparison application operates quickly, It may take a few seconds to upload
+    the files and Compare them.
 ---
-{{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header-widget h1="Online Document Comparison App and Python Code to Compare PPTM Files" h2="Develop powerful Python based PPTM document comparison applications. Freely compare documents including PPTM files online via app with instant download." >}}
-
-
-
-
-{{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Compare PPTM Files Online using App" %}}
-
-1. Upload Two PPTM Files to Compare.
-1. Click the "Compare" Button.
-1. Download Highlighted Results.
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Compare PPTM File via Python" %}}
-
-1. Reference APIs within the project directly from PyPI ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/)) 
-1. Load the both PPTM documents using Presentation class.
-1. Iterate through each slide of both presentations and compare one by one.
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-block title="Code example in python to Compare PPTM Files" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "00576f3a2a4b2f902010cafca585c93e" "compare-powerpoint-slides.py" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-{{% blocks/products/pf/feature-page-summary %}}
-
-
-<h2>Develop PPTM File Comparison Application using Python</h2>
-
-Need to develop python script or utility app to easily compare PPTM files? With [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/), child API of [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/), any python developer can integrate the above API code to program comparison app. Powerful Python library for document comparison supports many popular formats including PPTM format such as PDF, Word, PowerPoint, Email messages and Excel files.<br /><br />
-
-{{% /blocks/products/pf/feature-page-summary %}}
-
-{{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="PPTM Comparison library for Python" %}}
-There are alternative options to install '[Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/)' or '[Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/)' onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:<br /><br />
-
-- Install [Aspose.Slides for Python via .NET](https://products.aspose.com/slides/python-net/) from [PyPI](https://pypi.org/project/Aspose.Slides/)
-- Or Use the following pip commands ```pip install Aspose.Slides```.
-
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}
-
-- Python 3.5 or later is installed
-- GCC-6 runtime libraries (or later).
-- For Python 3.5-3.7: The pymalloc build of Python is needed.
-<br /><br />
-For more details please refer to [Product Documentation](https://docs.aspose.com/slides/python-net/system-requirements/).
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-{{< blocks/products/pf/agp/feature-section >}}
-
-
-
-PPTM comparison identifies differences in macro-enabled presentations, including slide content, design elements, transitions, and embedded automation scripts. It ensures reliable version tracking.
-
-
-
-Automating PPTM comparison enhances workflow consistency, macro control, and presentation quality monitoring.
-
-
-
-{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
-
-
-
-* **Macro-Driven Presentation Tracking**  &nbsp; Highlights code and slide changes.
-
-
-
-* **Design Standard Compliance**  &nbsp; Ensures uniform theme usage.
-
-
-
-* **Update Verification**  &nbsp; Detects slide-level modifications.
-
-
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-
-
-{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
-
-
-
-* **Macro Monitoring Automation**  &nbsp; Flags embedded script updates.
-
-
-
-* **Bulk PPTM Comparison**  &nbsp; Validates large presentation sets.
-
-
-
-* **Change Summary Generation**  &nbsp; Produces structured reports programmatically.
-
-
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-
-
-
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-
-
-<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
-<div class="col-md-12 tl bg-gray-dark howtolist section">
-  <a class="anchor" name="faqpage"></a>
-  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
-      <div class="col-md-4 howtosectiongfx">
-          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
-      </div>
-      <div class="howtosection col-md-8">
-          <div>
-              <h2>FAQs</h2>
-               <ul>
-                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>Can I use above Python code in my application?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Yes, you are welcome to download this code. One can easily develop a professional solution to compare PPTM files using Python. Use Aspose PPTM comparison API to develop high-level, platform independent software in Python.</span>
-                      </div>
-                  </li>
-                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>Is this document comparison App work only on Windows?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">You have the flexibility to initiate document comparison from any device, irrespective of the operating system it runs on, whether it be Windows, Linux, Mac OS, or Android. All that's required is a contemporary web browser and an active internet connection.</span>
-                      </div>
-                  </li>
-                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>Is it safe to use the online app to compare multiple PPTM documents?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Of course! The output files generated through our service will be securely and automatically removed from our servers within a 24-hour timeframe. As a result, the download links associated with these files will cease to be functional after this period.</span>
-                      </div>
-                  </li>                 
-                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>What browser should to use App?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">You can use any modern web browser like Google Chrome, Firefox, Opera, or Safari for online PPTM document comparison.</span>
-                      </div>
-                  </li>
- 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>How can I compare multiple PPTM files?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Start by uploading one or more files you want to compare. You can either drag and drop your PPTM files or simply click inside the white area. Afterward, click the 'Compare' button, and our online Comparison app will quickly process the uploaded files.</span>
-                      </div>
-                  </li>
- 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>How long does it take to Compare the PPTM files?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">This Comparison application operates quickly, It may take a few seconds to upload the files and Compare them.</span>
-                      </div>
-                  </li>
-              </ul>
-          </div>
-      </div>
-  </div>
-
-{{< blocks/products/pf/agp/other-autogen-total >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< /blocks/products/pf/feature-page-wrap >}}

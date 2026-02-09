@@ -1,216 +1,127 @@
 ---
 title: Online ODP File Watermarking or Build Python Apps to Watermark ODP Files
-description: Free online app to Watermark different ODP files. Python watermarking library code for ODP documents. 
-
+description: Free online app to Watermark different ODP files. Python watermarking
+  library code for ODP documents.
 family: total
 platformtag: Python
 feature: Watermark
 informat: ODP
-otherformats: PDF DOC DOCX ODT PPT PPTX ODP XLS XLSX ODS JPG JPEG BMP TIFF GIF PNG PSD
+otherformats:
+- PDF
+- DOC
+- DOCX
+- ODT
+- PPT
+- PPTX
+- ODP
+- XLS
+- XLSX
+- ODS
+- JPG
+- JPEG
+- BMP
+- TIFF
+- GIF
+- PNG
+- PSD
+layout: total-clean
+hero:
+  h1: Online Document Watermarking App and Python Code to Watermark ODP Files
+  h2: Develop powerful Python based ODP document Watermarking applications. Freely
+    Watermark various documents including ODP files online via app with instant download.
+howto:
+- title: Watermark ODP Files Online using App
+  steps:
+  - Upload ODP files to Watermark.
+  - Write the Watermark Text.
+  - Choose relevant color.
+  - Click the "Watermark" button.
+  - Download the Watermarked ODP file.
+- title: Watermark ODP File via Python
+  steps:
+  - Reference APIs within the project directly from PyPI ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/))
+  - Load the document.
+  - Use the add_auto_shape method to add shapes like Rectangle.
+  - Use the add_text_frame with watmark text.
+  - Call save method and get the Watermarked ODP file.
+code_example:
+  title: Code example in python to watermark ODP files
+  gist:
+    user: aspose-com-gists
+    id: 4b5ac1c50cf9403d3bc52d2df2bbcaad
+    file: add-text-watermark-to-presentation.py
+page_summary:
+  title: Develop ODP File Watermarking Application using Python
+  body: Need to develop python script or utility app to easily Watermark multiple
+    ODP files? With Aspose.Slides for Python via .NET, child API of Aspose.Total for
+    Python via .NET, any python developer can integrate the above API code to program
+    watermarking app across documents. Powerful Python library for document watermarking
+    supports many popular formats including ODP format.
+setup:
+- title: ODP Watermarking library for Python
+  body: 'There are alternative options to install ''Aspose.Slides for Python via .NET''
+    or ''Aspose.Total for Python via .NET'' onto your system. Please choose one that
+    resembles your needs and follow the step-by-step instructions:'
+  bullets:
+  - Install Aspose.Slides for Python via .NET from [PyPI](https://pypi.org/project/Aspose.Slides/)
+  - Or Use the following pip commands `pip install Aspose.Slides`.
+- title: System Requirements
+  body: Fore more details please refer to [Product Documentation](https://docs.aspose.com/slides/python-net/system-requirements/).
+  bullets:
+  - Python 3.5 or later is installed
+  - GCC-6 runtime libraries (or later).
+  - 'For Python 3.5-3.7: The pymalloc build of Python is needed.'
+about:
+  paragraphs:
+  - Watermarking **ODP** presentation files with Python APIs helps control distribution
+    of slide decks by marking ownership, confidentiality, or review status directly
+    on slides.
+  - Automation makes it easy to stamp ODP files in batch, supporting consistent governance
+    for internal training, proposals, and partner presentations.
+  columns:
+  - title: Key Use Cases
+    bullets:
+    - '**Confidential Slide Deck Labeling** Apply visible confidentiality marks across
+      all slides to reduce unintended sharing.'
+    - '**Proposal Ownership for Client Decks** Stamp ownership notices to clarify
+      permitted usage of presentation content.'
+    - '**Training Material Attribution** Watermark training decks to keep source identity
+      when shared across teams.'
+    - '**Review Stage Indicators** Add “DRAFT” or “FOR REVIEW” overlays to prevent
+      premature distribution.'
+  - title: Automation Scenarios
+    bullets:
+    - '**Slide-Wide Watermark Injection** Programmatically apply the same watermark
+      to every slide for consistent visibility.'
+    - '**Approval Workflow Integration** Automatically remove draft watermarks and
+      apply final marks after approvals.'
+    - '**Template-Based Positioning Rules** Place watermarks based on slide layout
+      types to avoid covering key content.'
+    - '**Batch Processing for Repository Cleanup** Watermark legacy ODP decks during
+      archival or migration to standardize policy.'
+faq:
+- q: Can I use above Python code in my application?
+  a: Yes, you are welcome to download this code. One can easily develop a professional
+    solution to Watermark ODP file using Python. Use Aspose ODP Watermarking API to
+    develop high-level, platform independent software in Python.
+- q: Is this document Watermarking App work only on Windows?
+  a: You have the flexibility to initiate document Watermarking from any device, irrespective
+    of the operating system it runs on, whether it be Windows, Linux, Mac OS, or Android.
+    All that's required is a contemporary web browser and an active internet connection.
+- q: Is it safe to use the online app to Watermark multiple ODP documents?
+  a: Of course! The output files generated through our service will be securely and
+    automatically removed from our servers within a 24-hour timeframe. As a result,
+    the download links associated with these files will cease to be functional after
+    this period.
+- q: What browser should to use App?
+  a: You can use any modern web browser like Google Chrome, Firefox, Opera, or Safari
+    for online ODP document Watermarking.
+- q: How can I Watermark multiple ODP files?
+  a: Start by uploading one or more files you want to Watermark. You can either drag
+    and drop your ODP files or simply click inside the white area. Afterward, click
+    the 'Watermark' button, and our online Watermarking app will quickly process the
+    uploaded files.
+- q: How long does it take to Watermark the ODP files?
+  a: This Watermarking application operates quickly, It may take a few seconds to
+    upload the files and Watermark them.
 ---
-{{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header-widget h1="Online Document Watermarking App and Python Code to Watermark ODP Files" h2="Develop powerful Python based ODP document Watermarking applications. Freely Watermark various documents including ODP files online via app with instant download." >}}
-
-
-
-
-{{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Watermark ODP Files Online using App" %}}
-
-1. Upload ODP files to Watermark.
-1. Write the Watermark Text.
-1. Choose relevant color.
-1. Click the "Watermark" button.
-1. Download the Watermarked ODP file.
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Watermark ODP File via Python" %}}
-
-1. Reference APIs within the project directly from PyPI ([Aspose.Slides](https://pypi.org/project/Aspose.Slides/)) 
-1. Load the document.
-1. Use the add_auto_shape method to add shapes like Rectangle.
-1. Use the add_text_frame with watmark text. 
-1. Call save method and get the Watermarked ODP file.
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-block title="Code example in python to watermark ODP files" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4b5ac1c50cf9403d3bc52d2df2bbcaad" "add-text-watermark-to-presentation.py" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{% blocks/products/pf/agp/code-block title="Python code to add image watermark to ODP files" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4b5ac1c50cf9403d3bc52d2df2bbcaad" "add-image-watermark-to-presentation.py" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-{{% blocks/products/pf/feature-page-summary %}}
-
-
-<h2>Develop ODP File Watermarking Application using Python</h2>
-
-Need to develop python script or utility app to easily Watermark multiple ODP files? With Aspose.Slides for Python via .NET, child API of Aspose.Total for Python via .NET, any python developer can integrate the above API code to program watermarking app across documents. Powerful Python library for document watermarking supports many popular formats including ODP format.<br /><br />
-
-{{% /blocks/products/pf/feature-page-summary %}}
-
-{{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="ODP Watermarking library for Python" %}}
-There are alternative options to install 'Aspose.Slides for Python via .NET' or 'Aspose.Total for Python via .NET' onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:<br /><br />
-
-- Install Aspose.Slides for Python via .NET from [PyPI](https://pypi.org/project/Aspose.Slides/)
-- Or Use the following pip commands ```pip install Aspose.Slides```.
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}
-
-- Python 3.5 or later is installed
-- GCC-6 runtime libraries (or later).
-- For Python 3.5-3.7: The pymalloc build of Python is needed.
-<br /><br />
-Fore more details please refer to [Product Documentation](https://docs.aspose.com/slides/python-net/system-requirements/).
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-{{< blocks/products/pf/agp/feature-section >}}
-
-
-
-Watermarking **ODP** presentation files with Python APIs helps control distribution of slide decks by marking ownership, confidentiality, or review status directly on slides.
-
-Automation makes it easy to stamp ODP files in batch, supporting consistent governance for internal training, proposals, and partner presentations.
-
-
-
-{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
-
-
-
-* **Confidential Slide Deck Labeling**  &nbsp; Apply visible confidentiality marks across all slides to reduce unintended sharing.
-
-
-
-* **Proposal Ownership for Client Decks**  &nbsp; Stamp ownership notices to clarify permitted usage of presentation content.
-
-
-
-* **Training Material Attribution**  &nbsp; Watermark training decks to keep source identity when shared across teams.
-
-
-
-* **Review Stage Indicators**  &nbsp; Add “DRAFT” or “FOR REVIEW” overlays to prevent premature distribution.
-
-
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-
-
-{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
-
-
-
-* **Slide-Wide Watermark Injection**  &nbsp; Programmatically apply the same watermark to every slide for consistent visibility.
-
-
-
-* **Approval Workflow Integration**  &nbsp; Automatically remove draft watermarks and apply final marks after approvals.
-
-
-
-* **Template-Based Positioning Rules**  &nbsp; Place watermarks based on slide layout types to avoid covering key content.
-
-
-
-* **Batch Processing for Repository Cleanup**  &nbsp; Watermark legacy ODP decks during archival or migration to standardize policy.
-
-
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-
-
-
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-
-
-<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
-<div class="col-md-12 tl bg-gray-dark howtolist section">
-  <a class="anchor" name="faqpage"></a>
-  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
-      <div class="col-md-4 howtosectiongfx">
-          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
-      </div>
-      <div class="howtosection col-md-8">
-          <div>
-              <h2>FAQs</h2>
-               <ul>
-                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>Can I use above Python code in my application?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Yes, you are welcome to download this code. One can easily develop a professional solution to Watermark ODP file using Python. Use Aspose ODP Watermarking API to develop high-level, platform independent software in Python.</span>
-                      </div>
-                  </li>
-                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>Is this document Watermarking App work only on Windows?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">You have the flexibility to initiate document Watermarking from any device, irrespective of the operating system it runs on, whether it be Windows, Linux, Mac OS, or Android. All that's required is a contemporary web browser and an active internet connection.</span>
-                      </div>
-                  </li>
-                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>Is it safe to use the online app to Watermark multiple ODP documents?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Of course! The output files generated through our service will be securely and automatically removed from our servers within a 24-hour timeframe. As a result, the download links associated with these files will cease to be functional after this period.</span>
-                      </div>
-                  </li>                 
-                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>What browser should to use App?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">You can use any modern web browser like Google Chrome, Firefox, Opera, or Safari for online ODP document Watermarking.</span>
-                      </div>
-                  </li>
- 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>How can I Watermark multiple ODP files?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Start by uploading one or more files you want to Watermark. You can either drag and drop your ODP files or simply click inside the white area. Afterward, click the 'Watermark' button, and our online Watermarking app will quickly process the uploaded files.</span>
-                      </div>
-                  </li>
- 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>How long does it take to Watermark the ODP files?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">This Watermarking application operates quickly, It may take a few seconds to upload the files and Watermark them.</span>
-                      </div>
-                  </li>
-              </ul>
-          </div>
-      </div>
-  </div>
-
-{{< blocks/products/pf/agp/other-autogen-total >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< /blocks/products/pf/feature-page-wrap >}}
