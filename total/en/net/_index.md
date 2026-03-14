@@ -173,6 +173,11 @@ Aspose.Medical for .NET is a powerful API for processing, analyzing, and visuali
 
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/llm" imgSrc="/total/images/aspose_llm-for-net.svg" productName="Aspose.LLM for .NET">}}
+Aspose.LLM for .NET enables developers to integrate large language model (LLM) capabilities directly into .NET applications through a simple unified API. It supports features such as text and code generation, natural-language understanding, and conversational chat without requiring complex AI pipelines or external services. Developers can quickly start by loading model presets like Qwen and running chat sessions, with support for stateful conversations, history management, and optional multimodal inputs such as images.
+
+{{< /blocks/products/pf/total/product-item >}}
+
 <!--<p></p>-->
 <h2 class="pr-ft">
  <a class="anchor" id="features" name="features">
