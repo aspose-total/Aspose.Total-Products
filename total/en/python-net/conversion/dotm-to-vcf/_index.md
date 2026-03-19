@@ -55,7 +55,42 @@ The conversion process is a two-step process. First, load the Word file and rend
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM to VCF conversion transforms macro-enabled Word templates into vCard contact files, making document-based contact information easier to share and import into address book systems. It is useful when templates contain person, organization, or communication details that must become structured contact records.
+
+Using Python APIs for DOTM to VCF conversion helps automate contact generation from document sources, reducing manual re-entry and improving data consistency. This supports scalable onboarding, directory management, and CRM-adjacent workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **Contact Record Creation**
+  Convert contact details from DOTM templates into VCF files for easy sharing and import.
+
+* **Directory Data Reuse**
+  Repurpose structured document information into standardized digital contact cards.
+
+* **Workflow-Friendly Contact Exchange**
+  Enable simple movement of contact data between documents and address book systems.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **Automated Contact Extraction**
+  Workflows can generate VCF files from DOTM templates containing personal or organizational details.
+
+* **Directory Synchronization Support**
+  The conversion helps automated systems create import-ready contact records from documents.
+
+* **Bulk Contact Generation**
+  Programmatic processing supports high-volume transformation of DOTM files into VCF files.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

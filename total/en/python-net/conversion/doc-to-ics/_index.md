@@ -46,9 +46,44 @@ For a Python developer, who is trying to add a DOC to ICS conversion feature wit
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document to ICS conversion transforms document-derived event details into calendar files that can be imported into scheduling systems and digital planners. It is valuable for workflows where meeting, deadline, or appointment information originates in Word documents.
+
+Using Python APIs to automate DOC to ICS conversion improves scheduling efficiency, reduces manual entry errors, and supports seamless integration between document repositories and calendar-driven workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **Event Scheduling**
+  Extract dates and event details from documents and convert them into calendar entries.
+
+* **Meeting Distribution**
+  Turn agenda or invitation documents into importable ICS files for attendees.
+
+* **Deadline Management**
+  Convert schedule-related document content into calendar items for tracking and reminders.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **Calendar File Generation**
+  Automatically create ICS files from DOC-based schedules, notices, or plans.
+
+* **Workflow Reminder Automation**
+  Convert document deadlines into calendar events for team coordination and follow-up.
+
+* **System-to-Calendar Integration**
+  Programmatically route extracted document dates into scheduling ecosystems.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

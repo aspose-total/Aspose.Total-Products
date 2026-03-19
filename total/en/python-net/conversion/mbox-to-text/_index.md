@@ -46,9 +46,44 @@ For a Python developer, who is trying to add a MBOX to TEXT conversion feature w
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX to TEXT conversion transforms mailbox archives into plain text files, making email content lightweight, searchable, and easy to process across many systems. This is ideal for workflows focused on raw content extraction, indexing, or simple long-term storage.
+
+By using Python APIs, organizations can automate text conversion from MBOX files to support analysis, search pipelines, and large-scale content normalization processes.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **Plain Content Extraction**
+  Convert emails into text files for simple reading and downstream processing.
+
+* **Search and Index Readiness**
+  Prepare mailbox data for indexing, parsing, and text analytics workflows.
+
+* **Lightweight Archival**
+  Preserve message content in a minimal format that is easy to store and transfer.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **Automated Text Normalization**
+  Transform mailbox archives into plain text for consistent data processing.
+
+* **Search Pipeline Integration**
+  Feed converted text files into indexing, retrieval, or classification systems.
+
+* **Bulk Content Extraction**
+  Use Python to process large MBOX collections into structured text outputs.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

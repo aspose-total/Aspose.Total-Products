@@ -62,7 +62,42 @@ Using ImageSaveOptions, one can easily render a specific DOTM page into an image
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM to Images conversion transforms macro-enabled Word templates into visual formats that are easy to preview, share, and embed across digital channels. It is valuable when document content must be distributed as fixed visual output for review, publishing, or presentation purposes.
+
+Using Python APIs for DOTM to Images conversion supports automation by turning template documents into consistently rendered visual assets. This improves scalability in preview generation, document publishing, and workflows where non-editable visual representations are preferred.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **Document Preview Creation**
+  Convert DOTM files into images for quick viewing in web, mobile, or dashboard interfaces.
+
+* **Visual Archiving**
+  Preserve the appearance of template documents in static image form for reference and sharing.
+
+* **Content Embedding**
+  Use image outputs from DOTM files in portals, presentations, or automated reporting systems.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **Thumbnail and Preview Automation**
+  Systems can generate image previews from DOTM templates automatically for browsing and indexing.
+
+* **Publishing Workflow Support**
+  The conversion enables automated rendering of document pages into images for content distribution.
+
+* **High-Volume Visual Output**
+  Programmatic processing allows many template files to be converted into image sets efficiently.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

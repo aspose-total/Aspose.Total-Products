@@ -51,7 +51,42 @@ Aspose.Total for Python via .NET API is a full package of various APIs dealing d
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT to ICS conversion transforms document templates into calendar-compatible data that can be used for scheduling and event exchange. This is important when template content contains date-driven information that must be shared through calendar workflows.
+
+With Python APIs, DOT to ICS conversion can be automated to support event generation, appointment distribution, and integration with scheduling systems in a reliable and repeatable way.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **Event Creation from Templates**
+  Convert DOT-based schedule information into ICS files for calendar use.
+
+* **Meeting and Timeline Distribution**
+  Share document-derived dates and events in a standard scheduling format.
+
+* **Workflow Scheduling Integration**
+  Turn structured template content into calendar artifacts for operational planning.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **Automated Calendar Generation**
+  Python scripts can convert date-oriented DOT templates into ICS files for distribution.
+
+* **Scheduling Pipeline Support**
+  Conversion enables systems to push document-defined events into calendar workflows.
+
+* **Batch Event Publishing**
+  Programmatic processing allows high-volume creation of ICS files from multiple templates.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

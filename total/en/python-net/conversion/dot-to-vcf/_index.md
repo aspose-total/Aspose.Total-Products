@@ -53,7 +53,42 @@ Aspose.Total for Python via .NET is a full package of various APIs dealing diffe
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT to VCF conversion transforms document templates into contact card files that can be used for address book import and contact sharing. This is useful when document-based records contain person or organization details that need to enter communication systems.
+
+Python APIs allow DOT to VCF conversion to be automated, improving contact data portability and reducing repetitive manual entry across business workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **Contact Record Generation**
+  Convert DOT-based information into VCF files for address book use.
+
+* **Portable Contact Sharing**
+  Share structured contact data extracted from templates in a standardized format.
+
+* **Communication Data Entry Support**
+  Reduce manual input by transforming template content into import-ready contact cards.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **Automated Contact Export**
+  Python workflows can generate VCF files from DOT templates containing contact information.
+
+* **CRM and Directory Integration**
+  Conversion supports movement of document-based contact data into communication systems.
+
+* **Bulk Contact File Creation**
+  Programmatic processing enables scalable generation of VCF outputs from many templates.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

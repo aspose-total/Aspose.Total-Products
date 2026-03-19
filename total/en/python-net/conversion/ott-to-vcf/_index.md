@@ -53,7 +53,42 @@ Aspose.Total for Python via .NET is a full package of various APIs dealing diffe
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to VCF conversion in Python APIs transforms OpenDocument text templates into contact card files used for sharing people and organization details. This is valuable when template content contains structured contact information that must become portable and import-ready.
+
+The conversion supports automation by turning document-managed contact details into standardized exchange files, reducing manual entry and improving synchronization across communication and directory workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **Contact File Generation**  
+  Converts structured contact content into importable card files.
+
+* **Directory Data Sharing**  
+  Makes contact information easier to exchange across systems.
+
+* **Template-Based Contact Management**  
+  Reuses document templates for standardized contact output.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **Automated Contact Export**  
+  Creates VCF files from OTT templates containing people or organization data.
+
+* **CRM or Directory Integration**  
+  Feeds generated contact files into downstream information systems.
+
+* **Bulk Contact Packaging**  
+  Produces standardized contact outputs for large contact sets.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

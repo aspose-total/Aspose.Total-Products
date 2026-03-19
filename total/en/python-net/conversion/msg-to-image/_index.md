@@ -46,9 +46,44 @@ For a Python developer, who is trying to add a MSG to IMAGE conversion feature w
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MSG to image conversion enables email message content to be transformed into visual output for easier review, sharing, and archival handling. It is valuable when message appearance matters more than editability and when broad compatibility is needed across systems.
+
+In automation workflows, generic MSG to image conversion supports preview generation, visual indexing, and fixed-layout capture. It helps simplify content handling in monitoring, archiving, and document presentation pipelines.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **Visual Message Rendering**  
+  Convert email content into image output for fixed-layout viewing.
+
+* **Cross-Platform Accessibility**  
+  Share message snapshots without requiring email-specific software.
+
+* **Archive-Friendly Output**  
+  Preserve message appearance in a format suited to visual storage workflows.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **Automated Preview Services**  
+  Generate message images for dashboards, portals, or internal systems.
+
+* **Visual Capture Pipelines**  
+  Render email content into images during ingestion and archiving workflows.
+
+* **Programmatic Content Display**  
+  Use image output for fast and consistent presentation of message records.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -46,9 +46,44 @@ For a Python developer, who is trying to add a MBOX to PDF conversion feature wi
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX to PDF conversion transforms mailbox archives into fixed-layout documents that are easy to view, share, and preserve across platforms. It is one of the most practical formats for email archiving because it maintains readability while supporting long-term storage and broad accessibility.
+
+With Python APIs, MBOX to PDF conversion can be automated for compliance, reporting, and document retention workflows, helping organizations process large mailbox datasets efficiently and consistently.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **Long-Term Email Archiving**
+  Convert mailbox content into PDF files for stable and widely accepted preservation.
+
+* **Shareable Record Preparation**
+  Distribute email content in a fixed format that is easy to open and review.
+
+* **Compliance Documentation**
+  Support governance and audit needs with structured document exports from mail archives.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **Bulk PDF Generation**
+  Automatically convert MBOX files into PDFs for organized archival and review.
+
+* **Compliance Pipeline Integration**
+  Insert converted email documents into retention, audit, or legal workflows.
+
+* **Python-Based Document Scaling**
+  Handle large-volume mailbox export tasks through programmatic PDF conversion.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}
