@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod DOCX na ICS převádí informace založené na dokumentech do souborů kalendářních událostí, které dodržují standard iCalendar. Tato transformace umožňuje převést informace o plánování uložené v dokumentech do formátů kompatibilních s kalendářem.
+
+Python API umožňují automatizovaný extrahování dat událostí z dokumentů a generování souborů ICS, podporují automatizované systémy plánování a integrace kalendářů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Extrahování plánování událostí**  
+  Převádí podrobnosti událostí založené na dokumentech do kalendářních událostí.
+
+* **Pracovní postupy integrace kalendáře**  
+  Umožňuje importovat dokumentové plány do kalendářových systémů.
+
+* **Automatizace schůzek a událostí**  
+  Usnadňuje automatické vytváření kalendářních událostí z dokumentů.
+
+* **Systémy distribuce plánů**  
+  Umožňuje dokumentům obsahujícím informace o událostech generovat kalendářové soubory.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované generování souborů událostí**  
+  Systémy mohou automaticky převádět plány událostí v DOCX do souborů ICS.
+
+* **Pipelines plánování založené na dokumentech**  
+  Python automatizace může generovat kalendářové záznamy z dokumentů.
+
+* **Integrace podnikových kalendářů**  
+  Data z dokumentů mohou být transformována do souborů ICS pro automatizované plánování.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

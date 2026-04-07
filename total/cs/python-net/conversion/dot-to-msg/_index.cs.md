@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod DOT na MSG převádí znovupoužitelné šablony dokumentů do formátu e‑mailové zprávy, který je běžně používán v desktopových komunikačních prostředích. To je užitečné, když musí obsah šablony být strukturovaným objektem zprávy pro ukládání, přenos nebo integraci do poštovní schránky.
+
+Pomocí Python API mohou týmy automatizovat generování MSG ze souborů DOT a podpořit konzistentní komunikační workflow bez nutnosti ručního vytváření zpráv.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Desktop Mail Compatibility**
+  Převést šablony DOT na soubory MSG pro podporované komunikační systémy.
+
+* **Structured Message Creation**
+  Použít šablony dokumentů jako základ pro přenosné objekty e‑mailových zpráv.
+
+* **Communication Recordkeeping**
+  Uchovat znovupoužitelný obsah jako soubory zpráv pro revizi nebo provozní využití.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automated Message File Generation**
+  Python skripty mohou vytvářet výstupy MSG ze šablon DOT v opakujících se workflow.
+
+* **Mailbox Workflow Integration**
+  Převod spojuje úložiště dokumentů se systémy zaměřenými na zpracování e‑mailů.
+
+* **High-Volume Communication Packaging**
+  Programová transformace umožňuje hromadnou generaci šablon na MSG ve velkém měřítku.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOCM إلى TSV يحول المستندات الممكّنة للماكرو إلى قيم مفصولة بفواصل جدولة، مما يجعل المحتوى المهيكل أسهل في التحليل، والنقل، وإعادة الاستخدام عبر تدفقات البيانات. وهو مفيد بشكل خاص عندما تحتاج جداول المستند إلى تنسيق نصي بسيط مع فصل واضح للحقول.
+
+في بيئات الأتمتة، يدعم تحويل DOCM إلى TSV تبادل البيانات الموثوق به، وإدخالها في خطوط المعالجة، وتحويل المحتوى المستند إلى مخرجات مهيكلة خفيفة الوزن بشكل قابل للتوسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **استخراج الجداول للمعالجة**
+  يحوّل جداول المستند إلى بنية نصية مناسبة لتدفقات البيانات.
+
+* **تبادل بيانات خفيف**
+  يدعم نقل المحتوى المهيكل بين الأدوات بأقل قدر من عبء التنسيق.
+
+* **تحضير الاستيراد**
+  يساعد في تحضير السجلات المستخرجة من المستند للأنظمة التي تقبل المدخلات المفصولة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تصديرات مهيكلة متكررة**
+  يُؤتمت تحويل DOCM إلى TSV لتدفقات العمل التشغيلية المستمرة.
+
+* **تحضير بيانات صديق للخط الأنابيب**
+  ينتج مخرجات يمكن تحليلها بسهولة في السكريبتات ووظائف التكامل.
+
+* **تدفقات تحويل دفعية**
+  يحوّل العديد من ملفات DOCM إلى مخرجات TSV متسقة برمجيًا.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

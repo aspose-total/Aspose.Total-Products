@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM 到 ICS 的转换将启用宏的文档内容转换为日历兼容的数据，使得在规划工作流中能够重复使用日程、事件详情或基于日期的内容。当文档包含需要更广泛访问的结构化事件信息时，这尤其有帮助。
+
+从自动化的角度来看，DOCM 到 ICS 的转换将已编写的日程与日历系统连接起来，实现自动事件生成、同步以及基于时间的工作流协调。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **日程提取**
+  将与事件相关的文档内容转换为可用于规划的日历就绪数据。
+
+* **会议和截止日期发布**
+  帮助通过标准化的日历文件分发文档定义的时间线。
+
+* **跨平台调度**
+  支持将基于日期的信息移植到兼容的日历工具中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动事件创建**
+  从包含会议或截止日期详情的 DOCM 内容生成 ICS 文件。
+
+* **日历同步工作流**
+  支持将文档派生的日程自动导入到规划系统中。
+
+* **循环批量调度**
+  将多个调度文档批量转换为标准化的日历输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

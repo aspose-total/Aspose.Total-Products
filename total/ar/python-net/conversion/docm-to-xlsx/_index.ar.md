@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOCM إلى XLSX يحول المستندات الممكّنة بالماكرو إلى ملفات جداول بيانات حديثة، مما يجعل المحتوى المهيكل أسهل في التحليل، التحرير، والتكامل عبر أنظمة الأعمال. وهو أحد أكثر المسارات عمليةً لتحويل جداول المستندات والسجلات إلى بيانات تشغيلية قابلة لإعادة الاستخدام.
+
+في بيئات التركيز على الأتمتة، يدعم تحويل DOCM إلى XLSX إعداد التقارير القابلة للتوسع، إعداد التحليلات، ونقل المعلومات المستمدة من المستندات بسلاسة إلى سير عمل دفاتر العمل الحديثة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تحليل جداول البيانات الحديثة**
+  ينقل البيانات المستندة إلى المستندات إلى شكل دفتر عمل للتصفية، الحسابات، والمراجعة.
+
+* **تكامل عمليات الأعمال**
+  يدعم إعادة استخدام المحتوى المهيكل عبر أدوات التقارير والعمليات.
+
+* **سير عمل تحويل البيانات**
+  يساعد في إعادة توجيه محتوى DOCM لمهام واتخاذ قرارات مدفوعة بجداول البيانات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء دفتر عمل تلقائي**
+  ينتج ملفات XLSX من مصادر DOCM لعمليات سير عمل مجدولة وقابلة للتكرار.
+
+* **أنابيب التحليل والتقارير**
+  يغذي البيانات المحوّلة إلى لوحات التحكم، المراجعات، وعمليات إعداد التقارير التشغيلية.
+
+* **تحويل المستندات عالي الحجم**
+  يدعم التحويل الدفعي للعديد من ملفات DOCM إلى مخرجات جداول بيانات حديثة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

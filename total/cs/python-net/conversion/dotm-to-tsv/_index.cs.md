@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod DOTM na TSV převádí makrem povolené šablony Wordu do hodnot oddělených tabulátory pro čistou, strukturovanou výměnu dat a analýzu. Je užitečný, když je obsah šablony třeba exportovat do jednoduchého textového formátu, který jasně a efektivně zpracovává tabulková data.
+
+Použití Python API pro převod DOTM na TSV podporuje automatizaci tím, že umožňuje opakovatelný extrakci strukturovaného obsahu z dokumentů do lehkých datových sad. To zlepšuje integraci s ETL pipeline, analytickými systémy a workflow s vysokým objemem zpracování.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Export strukturovaných dat**
+  Převést obsah DOTM do TSV pro čistý přenos tabulkových informací.
+
+* **Příprava pro analytiku**
+  Přesunout data založená na dokumentech do formátu vhodného pro skriptování, analýzu a hromadný import.
+
+* **Interoperabilní výměna textových dat**
+  Použít TSV, když workflow vyžaduje jednoduchý strukturovaný výstup s minimálním zatížením formátováním.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaný extrakce dat**
+  Workflow může převádět šablony DOTM do souborů TSV pro následné zpracování bez ručního zadávání.
+
+* **Transformace vhodná pro pipeline**
+  Převod podporuje automatizované systémy, které upřednostňují lehké tabulkové výměnné formáty.
+
+* **Hromadné vytváření datových sad**
+  Programové úlohy umožňují škálovatelný převod mnoha souborů DOTM do výstupů TSV.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

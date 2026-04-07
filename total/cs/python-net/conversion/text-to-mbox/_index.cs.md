@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod textu do MBOX pomocí Python API umožňuje kompilovat prostý textový obsah do archivů ve stylu poštovní schránky pro seskupené ukládání a přenos e‑mailů. To je užitečné pro hromadnou generaci zpráv, migrační pracovní postupy a prostředí, která potřebují organizovat komunikaci v kontejnerovém formátu poštovní schránky.
+
+Tento převod je zvláště relevantní pro automatizaci, protože umožňuje škálovatelné vytváření archivů poštovní schránky z textových zdrojů, podporuje zálohovací operace, import zpráv a efektivní zpracování velkého objemu komunikačních dat.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření archivů poštovní schránky**  
+  Převádí textový obsah do struktur kompatibilních s MBOX pro seskupené ukládání zpráv.
+
+* **Balíčkování hromadné komunikace**  
+  Umožňuje kombinovat více zpráv odvozených z textu do jediného souboru poštovní schránky.
+
+* **Podpora migrace a importu**  
+  Pomáhá připravit komunikaci k přenosu do systémů, které přijímají MBOX archivy.
+
+* **Dlouhodobé uchování**  
+  Umožňuje strukturované zachování textového obsahu podobného zprávám pro revizi a soulad s předpisy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované vytváření archivů**  
+  Systémy mohou převádět generované textové záznamy do kolekcí MBOX pro centralizované ukládání.
+
+* **Dávkové exportní pracovní postupy**  
+  Velké sady zpráv lze programově sestavit z textu do archivů poštovní schránky.
+
+* **Procesy konsolidace dat**  
+  Automatizace může seskupovat textové komunikace do přenosných souborů MBOX pro migraci nebo zálohování.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

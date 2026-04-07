@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل BMP إلى OST يتيح تضمين ملفات الصور النقطية في ملفات تخزين البريد الإلكتروني غير المتصل المستخدمة من قبل عملاء المراسلة. تحافظ ملفات OST على نسخ متزامنة من بيانات صندوق البريد للوصول غير المتصل.
+
+تساعد سير عمل التحويل الآلي الأنظمة على دمج الرسائل القائمة على الصور في تخزين صندوق البريد غير المتصل. يدعم ذلك أرشفة المؤسسات، والمزامنة، وعمليات إدارة صناديق البريد الآلية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تخزين صندوق البريد غير المتصل**  
+  يمكن تخزين الرسائل المستندة إلى BMP داخل ملفات صندوق البريد غير المتصل.
+
+* **أرشفة البريد الإلكتروني للمؤسسات**  
+  يمكن للمؤسسات حفظ الاتصالات البصرية داخل أنظمة تخزين صناديق البريد.
+
+* **مزامنة بيانات صندوق البريد**  
+  يمكن دمج المحتوى البصري في سجلات صندوق البريد المتزامنة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **ملء صندوق البريد تلقائيًا**  
+  تقوم الأنظمة بإنشاء رسائل مستندة إلى BMP وتخزينها في ملفات OST.
+
+* **عمليات ترحيل صندوق البريد**  
+  يمكن تحويل محتوى البريد الإلكتروني البصري إلى تخزين صندوق البريد غير المتصل أثناء الترحيل.
+
+* **إدارة صندوق البريد برمجياً**  
+  تقوم التطبيقات بتحديث ملفات OST ديناميكيًا باستخدام الاتصالات القائمة على الصور.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

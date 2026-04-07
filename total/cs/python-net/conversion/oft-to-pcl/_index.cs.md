@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod OFT na PCL pomocí Python API převádí šablony e‑mailů Outlooku do souborů jazyka řízení tiskáren pro workflow zaměřené na tisk. To je důležité, když je obsah šablon založených na e‑mailu třeba připravit pro přímý tisk, výstup specifický pro zařízení nebo řízené prostředí výroby dokumentů.
+
+V automatizačních kontextech pomáhá převod OFT na PCL zefektivnit přípravu tisku, snížit ruční kroky formátování a podpořit generování výstupu ve velkém měřítku. Je zvláště užitečný v prostředích, kde tisk zůstává základní provozní požadavkem.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování výstupu připraveného pro tisk**  
+  Převést soubory OFT na PCL pro efektivní přípravu obsahu zaměřeného na tisk.
+
+* **Provozní tiskové workflow**  
+  Použít výstup PCL tam, kde musí být e‑mailové šablony směrovány přímo do kompatibilních tiskových systémů.
+
+* **Strukturovaná výroba tištěných kopií**  
+  Zachovat formátovaný obsah pro opakovatelný a zařízení‑specifický fyzický výstup.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované zpracování tiskové fronty**  
+  Přeměnit šablony OFT na soubory PCL a automaticky je odeslat do tiskových workflow.
+
+* **Operace s vysokým objemem výstupu**  
+  Podporovat hromadnou tvorbu souborů připravených k tisku pro opakující se provozní úkoly.
+
+* **Zařízení‑specifické směrování dokumentů**  
+  Použít Python API k integraci převedených výstupů s tiskovými servery a výrobními systémy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

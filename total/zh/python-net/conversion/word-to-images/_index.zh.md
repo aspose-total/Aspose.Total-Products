@@ -53,7 +53,47 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 的 Word 转图片转换将文档页面转换为图像文件，以便预览、共享、发布和可视化归档。当需要在各平台上保持文档内容一致显示且无需文档编辑软件时，这非常有用。
+
+为了实现自动化和可扩展性，此转换支持文档渲染流水线，可生成缩略图、预览图、网络资源以及基于图像的记录，用于内容管理和分发系统。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **文档预览生成**
+  将页面转换为图像，以便在门户、应用和仓库中快速查看。
+
+* **可视化归档**
+  将内容外观保存为静态图像，以供参考和保留。
+
+* **网页和移动发布**
+  使文档页面在针对图像优化的环境中更易显示。
+
+* **演示和审阅共享**
+  当接收者仅需查看而非编辑内容时，简化分发。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **缩略图创建流水线**
+  自动将文档页面渲染为预览图像，用于搜索和浏览界面。
+
+* **批量页面渲染**
+  将大量 Word 文件转换为图像集，用于归档或发布工作流。
+
+* **审批工作流快照**
+  生成文档的固定可视版本，用于审查检查点和合规记录。
+
+* **内容交付优化**
+  在需要快速视觉访问的网络服务和自动化流水线中使用图像输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

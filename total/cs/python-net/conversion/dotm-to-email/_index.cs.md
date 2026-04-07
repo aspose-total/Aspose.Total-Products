@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod DOTM na EMAIL transformuje makrem povolené šablony Wordu na obsah připravený pro e‑mail pro komunikační, notifikační nebo workflow‑řízené systémy zasílání zpráv. Je užitečný, když šablony dokumentů obsahují obsah, který je třeba přetvořit do těla zprávy pro obchodní korespondenci.
+
+Použití Python API pro převod DOTM na EMAIL pomáhá automatizovat komunikační workflow, snížit opakovanou práci s formátováním a udržet konzistentní zprávy ze zdrojů založených na šablonách. To zlepšuje škálovatelnost systémů, které dynamicky generují e‑maily ze standardizovaných dokumentů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Zprávy založené na šablonách**
+  Převést dokumenty DOTM na e‑mailový obsah pro oznámení, aktualizace nebo strukturovanou korespondenci.
+
+* **Opětovné využití obsahu napříč kanály**
+  Přetvořit formální šablony dokumentů na komunikaci přátelskou k e‑mailům, aniž byste obsah vytvářeli ručně.
+
+* **Upozornění workflow**
+  Použít převedený obsah jako součást procesně řízené komunikace v podnikovém systému.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná generace e‑mailů**
+  Šablony DOTM lze programově převést na e‑mailový obsah pro spouštěnou nebo naplánovanou komunikaci.
+
+* **Integrace notifikačního workflow**
+  Převod podporuje automatizované systémy, které odesílají standardizované aktualizace na základě vstupů dokumentů.
+
+* **Příprava zpráv ve velkém objemu**
+  Dynamické zpracování umožňuje masovou tvorbu obsahu připraveného pro e‑mail z opakujících se šablonových dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

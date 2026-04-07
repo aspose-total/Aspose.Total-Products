@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PST na konverzi obrazu v Python API poskytuje flexibilní způsob, jak vykreslit obsah poštovní schránky do vizuálních formátů pro revizi, ukládání a prezentaci. Je užitečná, když e‑mailové zprávy nebo extrahované položky potřebují být převedeny na výstupy založené na obrázcích, které se snadno zobrazují napříč platformami.
+
+Pro automatizaci PST na konverzi obrazu podporuje generování náhledů, archivní pracovní postupy a integraci se systémy, které se spoléhají na statické vizuální zdroje. Zlepšuje škálovatelnost tím, že umožňuje konzistentní vykreslování dat poštovní schránky do výstupů připravených k zobrazení.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Univerzální vizuální vykreslování**
+  Převádí obsah poštovní schránky do obrazových výstupů pro snadné prohlížení a sdílení.
+
+* **Vizualizace archivu**
+  Pomáhá zachovat obsah zpráv jako statické vizuální záznamy.
+
+* **Zobrazení napříč platformami**
+  Podporuje jednoduchou prezentaci informací odvozených z PST v systémech podporujících obrázky.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaný export obrázků**
+  Systémy mohou zpracovávat PST archivy a generovat soubory obrázků bez ručního zásahu.
+
+* **Pracovní postupy náhledových aktiv**
+  Převedené vizuály mohou podporovat řídicí panely, archivy a portály pro revizi.
+
+* **Škálovatelná distribuce statického obsahu**
+  Programová konverze pomáhá distribuovat obsah poštovní schránky ve formě připravené k zobrazení.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

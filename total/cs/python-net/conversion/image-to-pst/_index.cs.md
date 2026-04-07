@@ -46,7 +46,53 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu I
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konverze obrazu do PST pomocí Python API umožňuje převod komunikačního materiálu založeného na obrázcích do přenosných souborů poštovní schránky, které mohou ukládat velké množství strukturovaného obsahu zpráv. To je cenné pro archivaci, migraci a správu podnikových dat, kde je třeba zachovat vizuální záznamy v konsolidovaných komunikačních úložištích.
+
+V prostředích zaměřených na automatizaci tato konverze podporuje balení dat ve velkém objemu, retenční politiku založenou na zásadách a efektivní správu životního cyklu komunikace. Pomáhá moderním systémům transformovat izolované vizuální soubory do organizovaného poštovního obsahu, který je snazší vyhledávat, ukládat a přenášet.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Archivace firemní komunikace**
+  Převést obsah zpráv založený na obrázcích do souborů PST pro centralizované dlouhodobé úložiště.
+
+* **Balíčkování historických záznamů ve velkém**
+  Konsolidovat vizuální komunikační aktiva do přenosných poštovních úložišť.
+
+* **Podpora migrace a přenosu**
+  Připravit data komunikace odvozená z obrázků pro přesun mezi úložnými nebo zprávovými systémy.
+
+* **Seskupování dat případů a oddělení**
+  Seskupit související vizuální záznamy do strukturovaných poštovních souborů pro řízený přístup.
+
+* **Úložiště orientované na soulad**
+  Uchovat korespondenci založenou na obrázcích v archivním formátu vhodném pro revizi a požadavky na uchování.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Generování archivů ve velkém měřítku**
+  Automatizované pracovní postupy mohou shromažďovat záznamy založené na obrázcích a hromadně vytvářet výstupy PST.
+
+* **Provádění retenčních politik**
+  Systémy mohou převádět a balit vizuální komunikační data podle plánů archivace.
+
+* **Automatizace migračních pracovních toků**
+  Obsah zpráv odvozený z obrázků může být během přechodu platforem strukturován do přenosných poštovních souborů.
+
+* **Vytváření centralizovaného úložiště**
+  Distribuované záznamy obrázků mohou být automaticky sloučeny do konsolidovaných archivů PST.
+
+* **Procesy připravenosti na audit**
+  Důkazy vizuální komunikace mohou být programově zabaleny pro uspořádanou revizi a získání.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

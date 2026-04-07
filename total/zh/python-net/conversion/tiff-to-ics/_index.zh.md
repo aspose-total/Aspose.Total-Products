@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 TIFF 转换为 ICS，使得能够将可视文档内容转换为日历兼容的数据输出，其中调度上下文来源于基于图像的记录。这对于需要转化为结构化日历条目的预约通知、事件扫描或时间表文档非常有用。
+
+对于自动化项目，TIFF 转换为 ICS 支持更好的日程集成、减少手动输入，并在文档捕获系统与日历工作流之间实现更顺畅的协作。它在时间和提醒对运营至关重要的环境中实现图像到事件的处理。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **预约文档转换**
+  将基于 TIFF 的日程或预约通知转换为日历兼容的输出。
+
+* **事件记录结构化**
+  帮助将可视化的事件信息转化为标准化的调度制品。
+
+* **提醒工作流支持**
+  使得基于图像的事件细节可用于提醒和规划系统。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **扫描日程处理**
+  自动化将 TIFF 日程转换为用于日历导入工作流的 ICS 输出。
+
+* **会议录入自动化**
+  支持提取与事件相关的文档内容并将其转换为可用的调度文件。
+
+* **日历同步流水线**
+  实现从基于图像的运营文档中以编程方式生成日历条目。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 的 XPS 转 EML 转换可将固定布局文档转换为标准电子邮件消息文件，这些文件被广泛用于消息存储、交换和归档。这在必须将文档内容保存在可移植的电子邮件格式中，以用于下游通信、审阅或合规用例时尤为有用。
+
+从自动化的角度来看，XPS 转 EML 工作流提升了文档驱动消息的一致性，减少了手动准备工作，并支持文档系统、邮件处理工具和归档环境之间的可扩展集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **可移植电子邮件消息创建**  
+  将 XPS 文档转换为 EML 文件，以实现跨兼容系统的标准化存储和传输。
+
+* **以邮件格式进行文档归档**  
+  帮助将文档内容保存为电子邮件消息，以满足受监管的保留要求和未来检索。
+
+* **互操作消息交换**  
+  使转换后的消息在支持标准电子邮件文件格式的平台之间更容易移动。
+
+* **审阅和批准流程**  
+  支持需要将文档内容以消息文件形式共享以进行验证或签署的工作流。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量文档转消息转换**  
+  自动化作业可以将大量 XPS 文件转换为 EML，以实现一致的下游处理。
+
+* **系统生成的记录打包**  
+  应用程序可以将生成的 XPS 输出转换为 EML 文件，作为记录管理工作流的一部分。
+
+* **邮件归档摄取**  
+  转换后的 EML 文件可以通过程序路由到归档或索引系统进行保留。
+
+* **基于工作流的消息导出**  
+  动态流水线可以在文档达到处理的特定阶段时生成 EML 输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

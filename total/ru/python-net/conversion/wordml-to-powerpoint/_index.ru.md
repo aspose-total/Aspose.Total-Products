@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML в PowerPoint преобразует содержимое документа в форматы презентаций на основе слайдов для визуальной коммуникации, обучения, отчетности и представления заинтересованным сторонам. Это ценно, когда материал, насыщенный текстом, необходимо адаптировать в лаконичное, удобное для презентаций содержание.
+
+Python API поддерживают преобразование WordML в PowerPoint, программно формируя слайды, повторно используя разделы документа и упрощая рабочие процессы преобразования документов в презентации в масштабах.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Преобразование отчётов в слайды**
+  Преобразует документы WordML в готовый к презентации контент для визуальной коммуникации.
+
+* **Создание учебных материалов**
+  Превращает письменные процедуры или руководства в структурированные наборы слайдов.
+
+* **Подготовка презентаций для заинтересованных сторон**
+  Помогает переиспользовать содержимое документа в лаконичные и удобные для обмена презентации.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Автоматическое создание слайдов**
+  Создаёт файлы презентаций из периодических отчётов, резюме или документации.
+
+* **Рабочие процессы суммирования контента**
+  Поддерживает программное преобразование объёмного содержимого документа в слайды.
+
+* **Масштабируемая публикация презентаций**
+  Обеспечивает массовое производство презентационных материалов из репозиториев документов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

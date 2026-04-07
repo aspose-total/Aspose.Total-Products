@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Конвертация OTT в Excel в API Python преобразует текстовые шаблоны OpenDocument в совместимые с электронными таблицами книги, упрощая анализ, организацию и повторное использование содержимого документов в ориентированных на данные средах. Это полезно, когда текстовая информация требует табличного представления или бизнес‑отчетности.
+
+Конверсия повышает уровень автоматизации, перемещая содержимое шаблона в рабочие процессы электронных таблиц, где формулы, фильтры, проверка данных и процессы интеграции могут работать в масштабе с минимальным ручным вмешательством.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Структурирование бизнес-данных**  
+  Перемещает содержимое шаблона в форму книги для обзора и обработки.
+
+* **Аналитическое повторное использование**  
+  Облегчает сортировку, фильтрацию и вычисление информации, полученной из документов.
+
+* **Оперативная отчетность**  
+  Поддерживает преобразование текстовых шаблонов в отчётные активы.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Регулярная генерация книг**  
+  Преобразует стандартные файлы OTT в Excel-выводы при запланированных запусках.
+
+* **Конвейеры обогащения данных**  
+  Объединяет извлечённое содержимое документа с формулами и правилами электронных таблиц.
+
+* **Автоматическое распределение**  
+  Создаёт выводы книг для команд, систем или процессов отчётности.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

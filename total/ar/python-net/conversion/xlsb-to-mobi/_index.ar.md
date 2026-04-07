@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل XLSB إلى MOBI يحول محتوى جداول البيانات الثنائية إلى تنسيق صديق للكتب الإلكترونية، مما يسمح بتوزيع البيانات المهيكلة والمحتوى النصي المُولد في تجربة قراءة محمولة. هذا مفيد عندما تحتاج المعلومات المستندة إلى جداول البيانات إلى إعادة توظيفها في منشورات رقمية قابلة للقراءة.
+
+في سير عمل الأتمتة، يدعم تحويل XLSB إلى MOBI نشر المحتوى القابل للتوسع، مما يمكّن الأنظمة من تحويل مصادر جداول البيانات التي تركز على البيانات إلى مستندات محمولة مناسبة للتوزيع الرقمي، ومشاركة المعرفة، وأنابيب النشر الآلية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **النشر الرقمي**  
+  يحول المحتوى المستمد من جداول البيانات إلى تنسيق محمول للقراءة على نمط الكتب الإلكترونية.
+
+* **توزيع المعرفة**  
+  يساعد في تجميع المعلومات المهيكلة للاستهلاك على الهواتف المحمولة وبالوضع غير المتصل.
+
+* **إعادة توظيف المحتوى**  
+  يحول بيانات جداول البيانات إلى محتوى رقمي طويل الشكل أكثر سهولة في الوصول.
+
+* **توثيق محمول**  
+  يدعم تسليم المستندات المُولدة بتنسيق سهل القراءة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء كتب إلكترونية تلقائي**  
+  يمكن للأنظمة تحويل محتوى XLSB إلى ملفات MOBI لتدفقات عمل النشر الرقمي.
+
+* **نشر المحتوى على دفعات**  
+  يمكن تحويل كميات كبيرة من المواد المستندة إلى جداول البيانات إلى تنسيقات قراءة محمولة.
+
+* **أنابيب توزيع الوثائق**  
+  يمكن لسير العمل الآلي إعداد محتوى المراجع المستمد من جداول البيانات لتوزيع أوسع.
+
+* **تحويل البيانات إلى نشر**  
+  يمكن للمدخلات المهيكلة من جداول البيانات تغذية أنظمة النشر البرمجية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

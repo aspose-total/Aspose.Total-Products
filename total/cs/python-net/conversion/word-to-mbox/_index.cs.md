@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu W
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod Wordu do MBOX pomocí Python API převádí obsah dokumentu do formátu poštovní schránky, který se používá pro ukládání kolekcí e‑mailových zpráv. To je užitečné, když je potřeba archivovat, migrovat nebo hromadně zpracovávat záznamy komunikace založené na dokumentech nebo obsah podobný zprávám.
+
+Z pohledu automatizace tento převod podporuje škálovatelné archivní a komunikační pracovní toky tím, že převádí obsah vytvořený ve Wordu na aktiva kompatibilní s poštovními schránkami, která se hodí pro ukládání, export a přenos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Příprava poštovního archivu**  
+  Zabaluje obsah zpráv odvozený z dokumentu do formátu vhodného pro systémy e‑mailových archivů.
+
+* **Ukládání hromadné komunikace**  
+  Podporuje uchování více vygenerovaných zpráv v konsolidovaném souboru poštovní schránky.
+
+* **Podpora migračních pracovních toků**  
+  Pomáhá připravit obsah pro prostředí, která používají import nebo přenos založený na poštovních schránkách.
+
+* **Zachování záznamů**  
+  Ukládá obsah zaměřený na komunikaci do formátu určeného pro zpracování seskupených zpráv.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Pipelines generování archivů**  
+  Převádí dávky oznámení založených na Wordu do souborů MBOX pro dlouhodobé uchování.
+
+* **Balíkování hromadných zpráv**  
+  Automatizuje tvorbu poštovních archivů ze standardizovaných komunikačních dokumentů.
+
+* **Pracovní toky přípravy migrace**  
+  Vytváří výstupy MBOX pro přenos do úložišť pošty nebo revizních systémů.
+
+* **Automatizace ukládání pro soulad**  
+  Používá soubory poštovní schránky jako strukturované kontejnery pro záznamy komunikace odvozené z dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

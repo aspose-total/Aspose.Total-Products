@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod WordML na XLSB převádí strukturovaný obsah založený na dokumentech do binárních souborů tabulek optimalizovaných pro efektivní ukládání a zpracování velkých sešitů. To je cenné, když převáděná data potřebují funkčnost tabulek s vylepšenými výkonnostními charakteristikami.
+
+Python API pomáhají automatizovat převod WordML na XLSB tím, že extrahují a organizují tabulky dokumentu do binárních výstupů sešitů vhodných pro škálovatelné datové pracovní toky.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Efektivní ukládání sešitu**
+  Převádí obsah WordML do souborů XLSB pro kompaktní zpracování tabulek.
+
+* **Podpora velkých datových pracovních toků**
+  Pomáhá spravovat rozsáhlé převáděné datové sady ve formátu kompatibilním s tabulkami.
+
+* **Strukturovaná transformace tabulek**
+  Umožňuje použít data dokumentu v prostředích sešitů zaměřených na výkon.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Konverze tabulek ve velkém objemu**
+  Automatizuje generování XLSB z velkých sad dokumentů WordML.
+
+* **Datové pipeline zaměřené na výkon**
+  Podporuje pracovní toky, které těží z binárních výstupů tabulek.
+
+* **Škálovatelná příprava reportů**
+  Umožňuje opakovaný převod tabulek dokumentu do efektivních aktiv sešitu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

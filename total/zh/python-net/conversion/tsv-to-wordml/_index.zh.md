@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV 到 WordML 的转换将结构化的表格数据转换为基于 XML 的文字处理标记，适用于文档生成、互操作性和结构化内容工作流。当系统需要机器友好的文档输出且仍符合文字处理使用场景时，这非常有价值。
+
+使用 Python API，TSV 到 WordML 的转换可以自动化，以支持集成密集的环境、可扩展的内容转换以及从结构化数据源进行程序化文档组装。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **基于 XML 的文档生成**  
+  将 TSV 数据转换为适用于文字处理工作流的结构化标记。
+
+* **可互操作的内容交换**  
+  在依赖结构化 XML 表示的环境中支持文档输出。
+
+* **程序化文档组装**  
+  帮助将原始表格数据转换为机器可读的文档格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **结构化输出管道**  
+  Python API 可以自动从 TSV 源生成 WordML 文档。
+
+* **系统间集成**  
+  自动化实现结构化数据平稳流入基于 XML 的文档工作流。
+
+* **可扩展的文档转换**  
+  大型 TSV 数据集可以作为高容量处理系统的一部分转换为 WordML。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

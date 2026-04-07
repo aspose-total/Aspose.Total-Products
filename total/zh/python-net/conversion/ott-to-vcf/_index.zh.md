@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+在 Python API 中，OTT 到 VCF 的转换将 OpenDocument 文本模板转换为用于共享个人和组织详细信息的联系人卡片文件。当模板内容包含必须变得可移植且可导入的结构化联系信息时，这非常有价值。
+
+该转换通过将文档管理的联系详情转化为标准化的交换文件来支持自动化，减少手动输入并提升通信和目录工作流之间的同步。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **联系人文件生成**  
+  将结构化的联系内容转换为可导入的卡片文件。
+
+* **目录数据共享**  
+  使联系信息在系统之间更容易交换。
+
+* **基于模板的联系管理**  
+  重复使用文档模板以生成标准化的联系输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化联系人导出**  
+  从包含个人或组织数据的 OTT 模板创建 VCF 文件。
+
+* **CRM 或目录集成**  
+  将生成的联系人文件输送到下游信息系统。
+
+* **批量联系人打包**  
+  为大量联系人集合生成标准化的联系人输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

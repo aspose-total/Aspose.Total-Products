@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to MSG 转换在 Python API 中将 OpenDocument 文本模板转换为用于桌面电子邮件生态系统的存储和交换的消息文件。当结构化文档内容必须成为可重复使用的电子邮件工件而不是普通文档时，这非常有用。
+
+此转换通过帮助团队从模板以编程方式生成消息文件用于审阅、归档或大规模集成到通信工作流中，从而支持自动化。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **消息文件创建**  
+  将文档模板转换为结构化的电子邮件消息文件。
+
+* **通信工作流支持**  
+  在面向电子邮件的环境中实现文档内容的重复使用。
+
+* **可移植消息存储**  
+  生成可轻松保存和传输的消息输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量消息生成**  
+  从标准化的 OTT 模板生成大量 MSG 文件。
+
+* **基于审批的电子邮件工作流**  
+  在交付或归档之前创建可审阅的消息文件。
+
+* **系统集成**  
+  将文档生成流水线与消息处理过程连接起来。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

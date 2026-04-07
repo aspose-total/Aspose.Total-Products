@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX 转 DOT 转换将邮箱内容转换为 Word 模板文件，使基于电子邮件的结构能够作为标准化文档基础重复使用。当需要使用归档消息来指导可重复的文档布局或基于模板的报告流程时，这非常有用。
+
+借助 Python API，组织可以自动从 MBOX 存档创建 DOT 文件，以支持可扩展的模板生成、一致的格式化以及文档工作流自动化。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **从电子邮件创建模板**
+  将邮箱内容转换为可重复使用的文档模板，以供重复使用。
+
+* **标准化格式化工作流**
+  在专为一致文档生成设计的格式中保留来源于消息的布局。
+
+* **流程文档设置**
+  使用电子邮件内容作为未来文档创建的结构化基础。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **可重用模板生成**
+  将选定的电子邮件转换为支持标准化文档的 DOT 文件。
+
+* **自动化布局保留**
+  以编程方式从邮箱存档创建模板输出，以用于重复的工作流。
+
+* **可扩展内容结构化**
+  使用 Python 将电子邮件记录转换为企业使用的可直接用于模板的资产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

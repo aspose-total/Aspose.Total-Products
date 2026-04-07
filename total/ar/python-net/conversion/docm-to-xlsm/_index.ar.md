@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOCM إلى XLSM يحول المستندات المدعومة بالماكرو إلى ملفات جداول بيانات مدعومة بالماكرو، مما يجعل من الممكن الحفاظ على أتمتة جداول البيانات المتقدمة إلى جانب بيانات المستند المهيكلة. يكون ذلك ذا قيمة عندما يجب أن يظل المحتوى المحول قابلاً للاستخدام في سير عمل دفاتر العمل الديناميكية.
+
+بالنسبة لأنظمة الأتمتة الحديثة، يدعم تحويل DOCM إلى XLSM عمليات جداول البيانات القابلة لإعادة الاستخدام، والمنطق المدمج، والتحويل القابل للتوسع لمحتوى المستند إلى أصول دفتر عمل قابلة للتنفيذ.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء دفتر عمل مدعوم بالماكرو**
+  يحول محتوى المستند إلى جداول بيانات تدعم سلوكًا آليًا متقدمًا.
+
+* **معالجة البيانات الديناميكية**
+  يدعم سير العمل حيث يجب أن يعمل منطق جداول البيانات والمحتوى المهيكل معًا.
+
+* **أصول تشغيلية قابلة لإعادة الاستخدام**
+  يساعد على تحويل المستندات إلى جداول بيانات مناسبة للعمليات التجارية المتكررة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء دفتر عمل متقدم تلقائيًا**
+  ينتج ملفات XLSM من مدخلات DOCM لسير عمل جداول بيانات مدفوع بالمنطق.
+
+* **حفظ العملية المدمجة**
+  يدعم الحفاظ على قدرة الأتمتة في المخرجات القائمة على جداول البيانات.
+
+* **خطوط أنابيب التقارير والحسابات القابلة للتوسع**
+  يُمكّن من تحويل كميات كبيرة من المستندات إلى دفاتر عمل مدعومة بالماكرو.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

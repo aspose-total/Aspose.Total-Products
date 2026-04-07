@@ -44,7 +44,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci konverze M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MHTML na DOCM konverze v Pythonu umožňuje archivované webové stránky převést na makrem povolené Word dokumenty pro pokročilé pracovní postupy s dokumenty. To je užitečné, když musí být převedený obsah kombinován se skriptovanými akcemi, dynamickými šablonami nebo řízenou logikou dokumentu.
+
+V prostředích zaměřených na automatizaci podporuje výstup DOCM škálovatelné pracovní postupy, které přesahují statickou konverzi tím, že umožňují po‑konverzní automatizaci přímo v dokumentu. Je vhodný pro procesy s vysokým objemem, které vyžadují jak zachování obsahu, tak programovatelné chování dokumentu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Reportování s makry**  
+  Převést soubory MHTML na DOCM dokumenty, když finální výstup vyžaduje vloženou automatizaci nebo skriptované formátování.
+
+* **Interaktivní šablony dokumentů**  
+  Použít převedený obsah v makrem povolených šablonách pro vedenou úpravu a strukturovanou tvorbu dokumentů.
+
+* **Pokročilé obchodní pracovní postupy**  
+  Podporovat procesy dokumentů, které závisí na automatizovaných akcích, jako je validace, formátování nebo naplňování dat.
+
+* **Opakovaně použitelné provozní dokumenty**  
+  Přeměnit zachycený webový obsah na dokumenty, které mohou participovat v širších automatizovaných kancelářských pracovních postupech.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Systémy pro sestavování dokumentů**  
+  Převést MHTML na DOCM a spustit makrem založené formátování nebo zpracování po generování.
+
+* **Příprava souborů řízená pracovním postupem**  
+  Automatizovat tvorbu makrem povolených souborů pro týmy, které používají skripty dokumentů v provozních procesech.
+
+* **Pipelines pro injekci šablon**  
+  Zavést převedený webový obsah do DOCM šablon k vytvoření strukturovaných a automatizovaných výstupů.
+
+* **Automatizace kanceláře ve velkém objemu**  
+  Použít Python API k zpracování webových archivů do makrem schopných dokumentů ve velkém měřítku s minimální manuální manipulací.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

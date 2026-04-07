@@ -66,7 +66,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT 到 XLTM 的转换将文本文档内容转换为宏启用的电子表格模板格式，旨在实现可重复使用且富含自动化的工作簿创建。当标准化的工作簿生成需要高级电子表格功能时，这非常有价值。
+
+Python API 使 ODT 到 XLTM 的转换在可扩展报告、模板标准化和高级运营工作流方面变得高效。它实现了文档衍生结构的可重复转换，生成可重复使用且友好于自动化的电子表格模板。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用模板创建**  
+  将文档内容转换为可重复使用的工作簿模板，并提供高级支持。
+
+* **标准化高级报告**  
+  帮助为重复任务准备可重复的工作簿结构。
+
+* **可重复使用的电子表格自动化资产**  
+  支持从通用模板重复生成工作簿输出。
+
+* **结构化内容再利用**  
+  将文档衍生的数据转化为可扩展的电子表格框架。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **高级模板流水线**  
+  Python 工作流可以从结构化的 ODT 内容生成 XLTM 模板。
+
+* **批量工作簿框架准备**  
+  多个文档可以被处理为可重复使用的宏功能模板。
+
+* **持续的电子表格自动化**  
+  转换后的模板可以支持持续的运营报告流程。
+
+* **文档驱动的电子表格标准化**  
+  系统可以自动生成一致的高级工作簿框架。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

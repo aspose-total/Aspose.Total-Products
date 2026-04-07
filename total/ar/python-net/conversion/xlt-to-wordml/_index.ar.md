@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل XLT إلى WordML باستخدام بايثون يتيح تحويل ملفات قوالب Excel إلى مستندات Word مبنية على XML تكون مفيدة للمعالجة المهيكلة، والتشغيل البيني، ومعالجة المستندات على مستوى النظام. وهذا يكون ذا قيمة خاصة عندما يجب أن تظل مخرجات المستندات قابلة للقراءة من قبل الآلات وكذلك قابلة للتكيف مع سير عمل قائم على النص.
+
+في سياقات الأتمتة، يدعم تحويل XLT إلى WordML تحويل المستندات بشكل قابل للتوسع والبرمجة. يساعد الأنظمة على إنشاء محتوى متوافق مع Word ومهيكل يمكن التحقق منه أو تعديله أو دمجه في خطوط معالجة واعية لـ XML مع تحكم ومرونة أكبر.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إخراج مستند منظم**  
+  تحويل قوالب XLT إلى ملفات WordML لتدفقات عمل المستندات التي تستفيد من بنية XML.
+
+* **دعم تكامل النظام**  
+  استخدام مخرجات WordML في البيئات التي تتطلب تمثيلات مستندات قابلة للقراءة آليًا.
+
+* **تسلسل محتوى القالب**  
+  تحويل التخطيطات المستندة إلى جداول البيانات إلى ترميز مستند منظم للمعالجة المتحكم فيها.
+
+* **تصميم سير عمل قابل للتشغيل البيني**  
+  تمكين سيناريوهات تبادل المستندات حيث يحسن التنسيق القائم على XML الاتساق والمعالجة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط تحويل مدركة لـ XML**  
+  استخدام واجهات برمجة تطبيقات بايثون لإنشاء ملفات WordML من قوالب XLT لتدفقات عمل أتمتة مهيكلة.
+
+* **معالجة المستند برمجيًا**  
+  إدخال مخرجات WordML في الأنظمة التي تفحص أو تحول أو تُثري محتوى المستند ديناميكيًا.
+
+* **نشر مهيكل قابل للتوسع**  
+  تحويل قوالب جداول البيانات إلى مستندات Word مبنية على XML للنشر أو أنظمة التوصيل الآلية.
+
+* **سير عمل التحقق من المحتوى**  
+  استخدام مخرجات WordML المهيكلة في خطوط المعالجة التي تتطلب تنسيقًا ثابتًا ومعالجة على مستوى الآلة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

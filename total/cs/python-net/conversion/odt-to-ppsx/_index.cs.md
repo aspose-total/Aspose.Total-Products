@@ -64,7 +64,47 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT to PPSX conversion converts text documents into a modern slideshow format intended for direct presentation playback. This is useful when source content must be shared as a viewing-oriented presentation rather than an editable file.
+
+Python APIs make ODT to PPSX conversion practical for automated reporting, briefing preparation, and presentation distribution. It supports scalable transformation of written content into clean, presentation-ready outputs.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytvoření prezentace jen pro prohlížení**  
+  Produces slideshow outputs optimized for direct display.
+
+* **Převod zprávy na prezentaci**  
+  Turns formal documents into presentation-ready visual assets.
+
+* **Příprava briefingů pro schůzky**  
+  Helps package summaries and updates for fast presentation use.
+
+* **Moderní distribuce prezentací**  
+  Supports broad compatibility for slide-based sharing workflows.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaný výstup briefingů**  
+  Python automation can convert recurring documents into PPSX slideshows.
+
+* **Převod prezentací ve velkém objemu**  
+  Multiple ODT files can be transformed into direct-view outputs in batch jobs.
+
+* **Workflow doručování obsahu**  
+  Slideshow files can be generated and routed automatically for review or presentation.
+
+* **Potrubí pro přetvoření dokumentů**  
+  Structured text can feed presentation playback formats without manual redesign.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

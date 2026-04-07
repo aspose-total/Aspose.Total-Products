@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS to DOTX 转换将电子表格内容转换为现代 Word 模板文件，可重复使用以实现一致的文档生成。当电子表格数据作为标准化文档格式的基础，并在团队或系统之间反复使用时，这尤其有用。
+
+Python APIs 使 XLS to DOTX 转换能够融入可扩展的自动化工作流，减少手动模板准备，并提升文档驱动操作的可重复性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **现代模板生成**
+  将 XLS 数据转换为 DOTX 文件，以实现可重复使用的文档结构。
+
+* **一致的文档格式**
+  通过从电子表格内容生成模板，支持统一的文档创建。
+
+* **以模板为中心的工作流**
+  将电子表格数据用作未来文档生产的结构化来源。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板分发**
+  从 XLS 文件创建 DOTX 模板，并自动将其交付到文档工作流中。
+
+* **可重复使用的资产生成**
+  使用 Python APIs 从电子表格输入构建标准化的模板库。
+
+* **可扩展的内容结构化**
+  将转换集成到大批量创建一致文档的系统中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

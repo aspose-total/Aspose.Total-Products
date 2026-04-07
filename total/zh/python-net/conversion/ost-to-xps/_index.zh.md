@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OST 到 XPS 的转换将邮箱内容转换为固定布局文档格式，旨在实现一致的查看和打印。它有助于在稳定的视觉结构中保存电子邮件记录，该结构在不同设备和工作流中保持不变。
+
+借助 Python API，OST 到 XPS 的转换可以实现自动化，以支持企业归档、打印准备和标准化文档分发。这有助于提升可重复性、输出一致性以及与固定布局处理系统的兼容性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **固定布局记录保存**  
+  将邮箱内容转换为 XPS，以实现一致的渲染和归档。
+
+* **稳定的文档分发**  
+  支持在不同环境中共享电子邮件衍生的文件而不出现布局差异。
+
+* **面向打印的工作流支持**  
+  帮助准备邮箱记录，以实现可靠的查看和输出。
+
+* **结构化视觉文档**  
+  在受控的文档呈现格式中保留通信内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **固定布局转换管道**  
+  Python 自动化将 OST 数据转换为 XPS，以实现可扩展的归档工作流。
+
+* **标准化输出生成**  
+  自动化系统生成一致的邮箱衍生文档，用于审阅和打印。
+
+* **企业分发流程**  
+  编程式转换支持可靠交付固定格式的通信记录。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

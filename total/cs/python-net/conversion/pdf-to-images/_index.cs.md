@@ -53,7 +53,47 @@ Používáme API [Aspose.Words for Python via .NET](https://products.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod PDF na obrázky pomocí Python API umožňuje vykreslit stránky dokumentu jako soubory obrázků pro náhled, sdílení, vizuální archivaci a následné zpracování založené na obrázcích. To je užitečné, když je obsah dokumentu třeba zobrazit v prostředích, kde jsou formáty obrázků snazší k distribuci nebo vložení.
+
+Automatizace tento proces vylepšuje tím, že umožňuje rychlé vykreslování stránek, hromadný převod a integraci s vizuálními pracovními postupy, jako jsou miniatury, náhledy nebo systémy pro revizi dokumentů. Podporuje škálovatelné zpracování obsahu dokumentů napříč digitálními platformami.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování náhledů stránek**  
+  Převést stránky PDF na obrázky pro vizuální náhledy ve webových a mobilních aplikacích.
+
+* **Archivace dokumentů**  
+  Ukládat stránky dokumentu jako obrazová aktiva pro rychlý přístup a vizuální referenci.
+
+* **Sdílení obsahu**  
+  Použít výstupy obrázků pro prezentace, komunikaci nebo vložené snímky dokumentů.
+
+* **Vizuální zpracovatelské pracovní postupy**  
+  Připravit stránky PDF jako vstupy obrázků pro analytické, anotovací nebo rozpoznávací systémy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Kanály pro tvorbu miniatur**  
+  Python automatizace může v reálném čase generovat náhledy obrázků z nahraných PDF.
+
+* **Hromadné vykreslování stránek**  
+  Velké kolekce PDF lze převést na sady obrázků pomocí naplánovaných pracovních postupů.
+
+* **Integrace prohlížeče dokumentů**  
+  Systémy mohou vytvářet výstupy obrázků na vyžádání pro rozhraní pro prohlížení dokumentů.
+
+* **Dynamické doručování médií**  
+  Automatizované služby mohou efektivně distribuovat z PDF odvozené obrázky napříč obsahovými platformami.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

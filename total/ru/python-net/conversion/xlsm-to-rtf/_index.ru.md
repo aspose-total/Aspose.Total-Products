@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSM to RTF conversion converts macro-enabled spreadsheet content into a rich text document format designed for broad compatibility and simple formatted text exchange. It is useful when spreadsheet-based information needs to be shared as lightweight, editable content across varied systems.
+
+In automation workflows, RTF offers a practical format for generating readable text documents from spreadsheet sources without requiring complex document dependencies. Python APIs can automate XLSM to RTF conversion for reporting, archival, and interoperable content distribution.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Легковесный обмен документами**
+  Преобразует содержимое таблицы в отформатированные текстовые файлы, которые легко распространять и открывать.
+
+* **Кроссплатформенный обмен текстом**
+  Обеспечивает широкую совместимость при обмене документами, полученными из таблиц, между различными инструментами.
+
+* **Читаемый вывод отчётов**
+  Помогает представить структурированные данные в упрощённом формате документа для быстрого просмотра.
+
+* **Форматирование, удобное для архивирования**
+  Позволяет сохранять информацию из таблиц в текстовом виде в переносимом документном стиле.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Автоматизированное создание форматированного текста**
+  Python API могут преобразовывать файлы XLSM в документы RTF для повторяющихся рабочих процессов вывода.
+
+* **Пакетный экспорт документов**
+  Большие группы таблиц могут программно преобразовываться в файлы форматированного текста.
+
+* **Взаимодействующие конвейеры контента**
+  Конверсия помогает перенести содержимое таблиц в форматы, подходящие для смешанных системных сред.
+
+* **Рутинная автоматизация отчётности**
+  Автоматизированные системы могут создавать RTF‑резюме из данных XLSM с минимальной ручной разметкой.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

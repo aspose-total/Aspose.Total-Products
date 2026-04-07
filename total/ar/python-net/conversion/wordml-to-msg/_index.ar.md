@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل WordML إلى MSG ينشئ ملفات رسائل بريد إلكتروني من محتوى المستند للاستخدام في سير عمل البريد المكتبي، عمليات الأرشفة، وتعبئة الاتصالات. يكون ذلك مفيدًا عندما يجب الحفاظ على معلومات المستند المهيكلة كسجلات رسائل منفصلة.
+
+تدعم واجهات برمجة تطبيقات Python تحويل WordML إلى MSG من خلال ربط نص المستند بمكونات الرسالة وأتمتة إنشاء المخرجات لبيئات متوافقة مع البريد الإلكتروني.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء ملف الرسالة**
+  يحوّل محتوى WordML إلى ملفات MSG لمعالجة سجلات البريد الإلكتروني الفردية.
+
+* **توافق البريد المكتبي**
+  يدعم سير العمل الذي يعتمد على تبادل ملفات الرسائل في بيئات موجهة للكمبيوتر المكتبي.
+
+* **أرشفة الاتصالات**
+  يحافظ على المحتوى المستند إلى المستندات كقطع منفصلة على نمط البريد الإلكتروني.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء MSG بالجملة**
+  يؤتمت إنشاء ملفات الرسائل من مستندات WordML متعددة.
+
+* **تحضير الأرشيف**
+  يحوّل المستندات المهيكلة إلى سجلات MSG لعمليات التخزين والاسترجاع.
+
+* **تعبئة المحتوى التشغيلي**
+  يدعم التسليم البرمجي للاتصالات المستمدة من المستندات إلى أنظمة الرسائل.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

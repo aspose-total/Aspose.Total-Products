@@ -65,7 +65,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX 到 PPTM 的转换将 Word 模板内容转换为宏启用的演示文稿格式，以支持高级幻灯片工作流。当文档衍生的演示文件必须同时支持可视结构和自动化功能时，这非常有用。
+
+此过程通过启用 Python API 来生成符合复杂企业工作流、周期性报告和程序化幻灯片生成需求的演示资产，从而提升自动化水平。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用的演示文稿**
+  将文档模板转换为支持高级行为的演示文件。
+
+* **企业幻灯片工作流**
+  为结构化的业务沟通流程准备演示资产。
+
+* **基于模板的幻灯片创建**
+  在可扩展的幻灯片制作中重复使用标准化的文档内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化演示文稿组装**
+  从 DOTX 模板生成 PPTM 幻灯片，用于高级报告工作流。
+
+* **支持自动化的幻灯片生成**
+  生成适用于更丰富企业流程的演示输出。
+
+* **可扩展的模板复用**
+  将重复的文档布局转换为可自动化的演示文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

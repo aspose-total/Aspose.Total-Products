@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOCM إلى EMAIL يُعِد محتوى المستند المُمكّن للماكرو للاستخدام في سير عمل موجه بالبريد الإلكتروني، مما يُسهل تحويل معلومات المستند إلى مخرجات جاهزة للرسائل. هذا مفيد للإشعارات، والملخصات، والموافقات، أو عمليات التواصل التي تُستند إلى محتوى المستند.
+
+في الأنظمة الآلية الحديثة، يساعد تحويل DOCM إلى EMAIL على ربط المستندات المُنشأة مع خطوط التواصل، مما يتيح توزيعًا قابلًا للتوسع، ورسائلًا مُقَالبية، ومراسلات مُفعَّلة بواسطة سير العمل.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **الإشعارات المستندة إلى المستند**
+  يحول محتوى المستند إلى مادة جاهزة للبريد الإلكتروني للتواصل التشغيلي.
+
+* **سير عمل الموافقة**
+  يدعم مشاركة الملخصات المستخلصة من المستند مع المراجعين وأصحاب المصلحة.
+
+* **إعادة استخدام المحتوى في الرسائل**
+  يُسهل إعادة توظيف نص المستند الرسمي داخل قنوات التواصل.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء الرسائل المُحفَّزة**
+  ينشئ محتوى البريد الإلكتروني تلقائيًا عندما تدخل ملفات DOCM جديدة إلى سير العمل.
+
+* **خطوط تحويل المستند إلى التواصل**
+  يربط المحتوى المُنشأ مع أنظمة الرسائل الصادرة الآلية.
+
+* **عمليات التوزيع القابلة للتوسع**
+  يتيح إنشاء دفعات من المخرجات الجاهزة للرسائل من العديد من المستندات في آن واحد.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

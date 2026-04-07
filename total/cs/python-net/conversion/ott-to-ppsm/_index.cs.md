@@ -64,7 +64,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod OTT na PPSM v Python API transformuje šablony textových dokumentů OpenDocument do souborů prezentací s makry, určených pro přímé doručení prezentace s podporou pokročilého chování. To je užitečné, když výstup připravený k předvedení musí také zahrnovat automatizované akce prezentace.
+
+Převod zlepšuje automatizaci kombinací opakovaně použitelného obsahu dokumentu s výstupem prezentace podporujícím makra, což podporuje dynamičtější pracovní postupy doručování a opakovatelné procesy prezentací.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření prezentací s makry**  
+  Vytváří soubory prezentací, které podporují pokročilé automatizované chování.
+
+* **Přímé doručení prezentace**  
+  Převádí obsah šablony na spustitelné soubory prezentací připravené k nasazení.
+
+* **Opakovaně použitelný vizuální výstup**  
+  Pomáhá standardizovat prezentace generované z dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované sestavení prezentace**  
+  Vytváří soubory PPSM z opakujících se zdrojových šablon OTT.
+
+* **Skriptované pracovní postupy prezentace**  
+  Podporuje výstup prezentací pro prostředí používající logiku prezentace.
+
+* **Škálovatelné doručení událostí nebo briefingů**  
+  Generuje dynamické soubory prezentací pro opakované využití v organizaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

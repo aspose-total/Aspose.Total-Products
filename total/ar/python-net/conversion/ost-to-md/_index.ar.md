@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل OST إلى MD يحول بيانات صندوق البريد إلى تنسيق Markdown، مما يخلق محتوى نصيًا خفيفًا، قابلًا للقراءة، ومحمولًا مناسبًا لتوثيق وسير عمل المعرفة. وهو ذو قيمة للفرق التي ترغب في محتوى مستمد من البريد الإلكتروني بصيغة نصية منظمة تعمل جيدًا عبر المنصات.
+
+فوائد الأتمتة قوية لأن تحويل OST إلى MD يتناسب طبيعيًا مع خطوط محتوى، وسير عمل المطورين، وأنظمة التوثيق. تمكّن واجهات برمجة تطبيقات Python من تحويل سريع وقابل للتوسع لأرشيفات صندوق البريد إلى ملفات Markdown للفهرسة والنشر وإعادة الاستخدام.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **توثيق خفيف الوزن**  
+  يحول محتوى البريد الإلكتروني إلى Markdown لسجلات نصية بسيطة ومهيكلة.
+
+* **إعداد قاعدة المعرفة**  
+  يساعد على إعادة استخدام معلومات صندوق البريد المهمة في أنظمة التوثيق الداخلية.
+
+* **تصدير محتوى صديق للمطورين**  
+  يدعم سير العمل حيث تُفضَّل صيغ النص العادي القابلة للنقل.
+
+* **سجلات مُتحكم فيها بالإصدار**  
+  يجعل المحتوى المستمد من البريد الإلكتروني أسهل في التتبع والإدارة في بيئات موجهة للنص.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **أتمتة خط أنابيب التوثيق**  
+  تقوم سكريبتات Python بتحويل محتوى OST إلى Markdown للنشر وسير عمل الفهرسة.
+
+* **سير عمل استخراج المحتوى**  
+  تُعد الأنظمة المؤتمتة نص صندوق البريد لمستودعات قابلة للبحث وملاحظات مهيكلة.
+
+* **إنشاء أرشيف محمول**  
+  يخلق التحويل البرمجي أصول نصية قابلة لإعادة الاستخدام من بيانات البريد المخزنة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

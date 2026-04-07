@@ -66,7 +66,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python 将 ODP 转换为 DOCM，使得能够将演示文件转换为支持宏的 Word 文档，以满足高级文档工作流的需求。当转换后的内容必须支持结构化自动化、嵌入式逻辑或依赖宏功能的企业文档流程时，这一点尤为重要。
+
+从自动化的角度来看，ODP 到 DOCM 的转换有助于将演示内容与动态文档系统衔接。它支持可扩展的操作，转换后的输出需要与脚本处理、模板逻辑或受控的企业工作流集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用文档**  
+  将演示内容转换为 DOCM 文件，以便参与高级文档自动化场景。
+
+* **面向流程的报告**  
+  为需要宏支持进行格式化或工作流逻辑的环境准备转换后的文件。
+
+* **企业模板扩展**  
+  将转换后的内容用作宏启用文档模板和结构化内部流程的基础。
+
+* **运营内容转换**  
+  将演示材料转移到更适合交互式或自动化文档处理的格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化文档组装**  
+  将转换后的 DOCM 文件路由到使用基于宏的操作来丰富或处理文档的系统中。
+
+* **规则驱动的文件处理**  
+  将转换集成到文档被程序化分类、格式化或增强的流水线中。
+
+* **以模板为中心的工作流自动化**  
+  在将转换内容与可重用的宏启用模板相结合的环境中使用 DOCM 输出。
+
+* **可扩展的企业转换任务**  
+  在各部门之间处理重复的演示到文档的转换，且几乎无需人工操作。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

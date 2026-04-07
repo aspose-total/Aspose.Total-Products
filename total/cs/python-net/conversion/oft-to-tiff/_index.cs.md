@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OFT to TIFF conversion using Python APIs renders Outlook email templates into high-quality image files that are well suited to archival, scanning, and document imaging workflows. This is useful when template content must be preserved in a stable format commonly used in records and imaging systems.
+
+By automating OFT to TIFF conversion, organizations can support reliable document preservation, structured image storage, and scalable visual processing. It is especially effective in compliance-oriented and archival environments.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Archivace obrazových souborů**  
+  Převést šablony OFT do souborů TIFF pro trvalé a vysoce kvalitní vizuální ukládání.
+
+* **Pracovní postupy pro zobrazování dokumentů**  
+  Použít výstupy TIFF v systémech určených pro skenování, správu záznamů nebo archivaci založenou na obrazech.
+
+* **Detailní zachování rozvržení**  
+  Zachovat vzhled e‑mailových šablon ve formátu vhodném pro profesionální práci s obrazy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná konverze záznamů**  
+  Přeměnit soubory OFT na obrazy TIFF pro uchovávání a pracovní postupy související s dodržováním předpisů.
+
+* **Vysokofidelní obrazové pipeline**  
+  Směrovat výstupy TIFF do podnikových zobrazovacích systémů pro strukturované ukládání a vyhledávání.
+
+* **Programové archivní zpracování**  
+  Použít Python API k vytvoření archivně připravených obrazových souborů z knihoven šablon ve velkém měřítku.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML na XLS převod transformuje dokumentově založený strukturovaný obsah do tabulkových souborů vhodných pro úpravy, reportování a starší pracovní postupy s sešity. Je užitečný, když je potřeba znovu použít tabulky z dokumentů v tabulkových nástrojích s širokou kompatibilitou.
+
+Python API umožňují převod WordML na XLS tím, že extrahují tabulkový obsah a automatizují jeho umístění do struktur sešitu pro škálovatelné zpracování.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytvoření starého pracovního sešitu**
+  Převádí tabulky WordML do souborů XLS pro zavedené pracovní postupy v tabulkových aplikacích.
+
+* **Opětovné použití strukturovaných dat**
+  Umožňuje editaci a analýzu dat tabulek obsažených v dokumentu ve formě pracovního sešitu.
+
+* **Podpora provozního reportování**
+  Pomáhá přesunout obsah dokumentu do procesů revize založených na tabulkách.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaný export sešitu**
+  Generuje soubory XLS z dávky dokumentů WordML v opakovatelných úlohách.
+
+* **Integrace se starými systémy**
+  Podporuje prostředí, která stále závisí na kompatibilitě se staršími tabulkovými formáty.
+
+* **Potrubí dokument‑na‑tabulku**
+  Převádí strukturovaný obsah do výstupů pracovního sešitu pro následné operace.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

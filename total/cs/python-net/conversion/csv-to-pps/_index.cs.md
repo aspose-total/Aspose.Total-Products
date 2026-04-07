@@ -64,7 +64,57 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+CSV to PPS conversion using Python APIs enables structured tabular data to be transformed into presentation slideshow files that are ready for direct viewing and presentation delivery.  
+→ **Převod CSV do PPS pomocí Python API umožňuje strukturovaná tabulková data převést do souborů prezentací, které jsou připraveny k přímému prohlížení a doručení prezentace.**
+
+This conversion supports automation by generating streamlined slideshow outputs from CSV datasets, reducing preparation time and improving consistency in presentation workflows.  
+→ **Tento převod podporuje automatizaci generováním zjednodušených výstupů prezentací z CSV datových sad, čímž snižuje čas přípravy a zvyšuje konzistenci v pracovních postupech s prezentacemi.**
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Prezentace připravené k okamžitému přehrání**  
+  Convert CSV data into PPS files for immediate presentation playback without manual slide setup.  
+  → **Převést data CSV do souborů PPS pro okamžité přehrání prezentace bez ručního nastavování snímků.**
+
+* **Zjednodušené doručení prezentace**  
+  Generate slideshow output from structured data for briefings, reviews, and information sharing.  
+  → **Vytvořit výstup prezentace ze strukturovaných dat pro briefinky, revize a sdílení informací.**
+
+* **Distribuce snímků řízená daty**  
+  Transform CSV input into PPS files that package information in a presentation‑ready format.  
+  → **Přeměnit vstup CSV na soubory PPS, které balí informace ve formátu připraveném k prezentaci.**
+
+* **Kompatibilita se staršími prezentacemi**  
+  Produce PPS output for systems and workflows that still rely on traditional slideshow file types.  
+  → **Vytvořit výstup PPS pro systémy a pracovní postupy, které stále spoléhají na tradiční typy souborů prezentací.**
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované vytváření prezentací**  
+  Use Python APIs to convert CSV datasets into PPS files for recurring or triggered presentation workflows.  
+  → **Použít Python API k převodu CSV datových sad do souborů PPS pro opakované nebo spouštěné pracovní postupy prezentací.**
+
+* **Provozní pipeline prezentací**  
+  Integrate CSV to PPS conversion into systems that automatically generate view‑ready slide output.  
+  → **Integrovat převod CSV do PPS do systémů, které automaticky generují výstup snímků připravený k zobrazení.**
+
+* **Hromadný export prezentací**  
+  Process multiple CSV files into PPS presentations at scale to support time‑sensitive communication.  
+  → **Zpracovat více CSV souborů do prezentací PPS ve velkém měřítku pro podporu časově citlivé komunikace.**
+
+* **Programové balení prezentací**  
+  Build slideshow files dynamically from CSV‑driven content for efficient automated delivery.  
+  → **Dynamicky vytvářet soubory prezentací z obsahu řízeného CSV pro efektivní automatizované doručení.**
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

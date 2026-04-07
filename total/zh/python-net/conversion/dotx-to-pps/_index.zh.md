@@ -65,7 +65,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX 到 PPS 的转换将 Word 模板内容转换为用于直接观看的演示幻灯片格式。当文档内容需要以可直接呈现的视觉序列而非可编辑的幻灯片文件进行分发时，这非常有用。
+
+此转换通过支持基于 Python 的模板生成幻灯片输出，帮助实现自动化，从而简化发布和演示交付流程。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **即用幻灯片**
+  将文档内容转换为直接播放的演示资产。
+
+* **演示分发**
+  共享视觉输出，无需进一步编辑。
+
+* **基于模板的视觉交付**
+  将结构化文档重复使用为可直接演示的沟通材料。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化幻灯片发布**
+  从 DOTX 模板生成 PPS 文件，以支持直接观看的工作流。
+
+* **定期视觉简报**
+  从重复的文档格式生成可直接运行的幻灯片。
+
+* **演示输出标准化**
+  通过自动化流水线交付一致的幻灯片资产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

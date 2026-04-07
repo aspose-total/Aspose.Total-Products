@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل RTF إلى TSV يغيّر المستندات النصية المنسقة إلى ملفات بيانات مفصولة بفواصل جدولة تكون سهلة الاستيراد والفحص والمعالجة عبر أنظمة التحليل والتكامل. هذا يكون ذا قيمة عندما يجب تحويل محتوى المستند إلى نص بسيط ومنظم مع فصل واضح للحقول.
+
+للتنفيذ الآلي، يدعم تحويل RTF إلى TSV خطوط أنابيب تحويل بيانات خفيفة الوزن، مما يسهل نقل المحتوى المستمد من المستندات إلى السكريبتات وقواعد البيانات وأدوات المعالجة التي تفضّل صيغًا جدولة بنص عادي.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **هيكلة البيانات بنص عادي**  
+  يقوم بتحويل محتوى النص الغني إلى سجلات مفصولة بفواصل جدولة لتسهيل التحليل والاستيراد.
+
+* **تصدير صديق للتكامل**  
+  يساعد في إعداد معلومات المستند للأنظمة التي تقبل ملفات بيانات نصية خفيفة.
+
+* **تحويل البيانات بالجملة**  
+  يدعم تحويل كميات كبيرة من محتوى RTF إلى مخرجات جدولة منظمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط أنابيب البيانات المدفوعة بالسكريبت**  
+  يمكن للأنظمة تحويل ملفات RTF إلى TSV للمهام اللاحقة من التحليل والتحويل.
+
+* **سير عمل تصدير متكرر**  
+  يدعم التحويل البرمجي إنشاء مخرجات نصية منظمة مجدولة من تدفقات المستندات.
+
+* **تبادل البيانات عبر الأنظمة**  
+  يمكن للعمليات الديناميكية نقل محتوى المستند إلى أدوات تحليلية أو تشغيلية باستخدام TSV كتنسيق وسيط.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

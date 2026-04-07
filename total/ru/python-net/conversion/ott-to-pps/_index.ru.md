@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование OTT в PPS в Python API преобразует текстовые шаблоны OpenDocument в файлы презентаций, предназначенные для непосредственного отображения и доставки. Это ценно, когда контент должен быть предоставлен в виде готовой к запуску слайд‑шоу, а не в виде стандартной редактируемой презентации.
+
+Преобразование поддерживает автоматизацию, позволяя создавать презентационные шоу на основе документов для киосков, брифингов и сценариев распространения, где важны мгновенное воспроизведение и единообразное форматирование.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Доставка слайд‑шоу**  
+  Создаёт готовые к показу файлы презентаций из текстовых шаблонов.
+
+* **Контролируемый вывод презентации**  
+  Обеспечивает прямое воспроизведение вместо полного процесса редактирования.
+
+* **Упаковка визуальной коммуникации**  
+  Преобразует содержимое документа в ресурсы для презентационного шоу.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Автоматизированная публикация слайд‑шоу**  
+  Создаёт PPS‑файлы для повторяющихся презентаций или объявлений.
+
+* **Интеграция рабочего процесса отображения**  
+  Поддерживает безнадзорные или сразу запускаемые среды презентаций.
+
+* **Массовое создание брифингов**  
+  Эффективно преобразует несколько OTT‑файлов в готовые к показу результаты.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

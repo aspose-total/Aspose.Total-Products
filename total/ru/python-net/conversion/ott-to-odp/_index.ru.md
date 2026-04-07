@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Конвертация OTT в ODP в Python API преобразует шаблоны текста OpenDocument в презентационные документы, позволяя переиспользовать письменный контент для слайдовой коммуникации и структурированной визуальной подачи. Это ценно для превращения повествовательного или отчетного контента в готовый к презентации материал.
+
+Конвертация поддерживает автоматизацию, позволяя многократно генерировать презентации из шаблонов, сокращая ручную подготовку слайдов и повышая согласованность в процессах отчетности и коммуникации.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые варианты использования" %}}
+
+* **Создание презентаций**  
+  Преобразует шаблоны, основанные на тексте, в редактируемые слайдовые документы.
+
+* **Повторное использование контента**  
+  Повторно использует материал документов для встреч, брифингов или резюме.
+
+* **Вывод слайдов в открытом формате**  
+  Поддерживает рабочие процессы презентаций, основанные на открытых стандартах документов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Автоматическое создание наборов слайдов**  
+  Создает ODP‑презентации из повторяющегося контента на основе OTT.
+
+* **Интеграция в процесс отчетности**  
+  Преобразует структурированный текст в слайды для запланированных обновлений.
+
+* **Презентация на основе шаблонов**  
+  Стандартизирует создание презентаций в разных командах или процессах.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

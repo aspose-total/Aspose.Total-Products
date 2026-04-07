@@ -66,7 +66,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 POTX 转换为 DOCM 可以将 PowerPoint 模板内容转换为支持宏的 Word 文档，以实现高级文档工作流。当转换后的内容必须支持脚本操作、嵌入逻辑或交互式文档行为时，这非常有价值。
+
+在以自动化为重点的环境中，POTX 到 DOCM 的转换有助于将演示文稿模板与动态文档系统衔接。它支持可扩展的文档生成，其中自动化规则、宏或可重复的处理步骤是最终工作流的一部分。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用文档创建**
+  将演示文稿模板材料转换为能够支持自动化操作和逻辑的文档。
+
+* **工作流扩展**
+  将基于演示的内容扩展到具有可编程功能的高级文档环境。
+
+* **运营文档处理**
+  帮助准备文档，以用于依赖文件内部可重用自动化的流程。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **规则驱动的文档输出**
+  自动生成 DOCM 文件，以满足需要嵌入宏支持的工作流。
+
+* **企业文档处理**
+  将 POTX 模板转换为宏启用文件，以用于结构化的内部处理管道。
+
+* **模板到操作的管道**
+  支持动态工作流，其中转换后的文档触发或支持自动化任务。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

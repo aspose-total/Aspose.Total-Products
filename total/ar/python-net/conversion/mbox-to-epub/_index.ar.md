@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل MBOX إلى EPUB يحول أرشيفات صناديق البريد إلى ملفات نشر رقمية قابلة لإعادة التدفق، مما يجعل محتوى البريد الإلكتروني أسهل في التوزيع والقراءة والحفظ عبر بيئات متوافقة مع القارئات الإلكترونية. هذا مفيد عندما تحتاج الاتصالات المؤرشفة إلى تقديمها كمحتوى رقمي طويل الشكل ومنظم.
+
+باستخدام واجهات برمجة تطبيقات بايثون، يمكن أتمتة هذا التحويل لإنشاء منشورات محمولة من بيانات صناديق البريد، وتحسين إمكانية الوصول إلى المحتوى، ودعم سير عمل توزيع رقمي منظم.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء نشر رقمي**
+  تحويل أرشيفات البريد الإلكتروني إلى ملفات EPUB لتجارب قراءة منظمة ومحمولة.
+
+* **تعبئة محتوى طويل الشكل**
+  دمج محتوى صندوق البريد في صيغ رقمية جاهزة للنشر للرجوع إليها أو التوزيع.
+
+* **تسليم الأرشيف القابل للوصول**
+  عرض مجموعات الرسائل في تنسيق سهل القراءة ومناسب لعدة أجهزة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء كتاب إلكتروني تلقائي**
+  تحويل محتوى صندوق البريد إلى منشورات EPUB عبر سير عمل بايثون قابل للتكرار.
+
+* **توزيع المعرفة المحمولة**
+  تصدير أرشيفات البريد الإلكتروني المختارة إلى حزم قراءة رقمية للمشاركة الداخلية.
+
+* **نشر محتوى منظم**
+  دمج تحويل MBOX إلى EPUB في خطوط أنابيب النشر والأرشفة الآلية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

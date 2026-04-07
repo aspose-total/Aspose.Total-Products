@@ -64,7 +64,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod DOTX na PPS převádí obsah šablony Wordu do formátu prezentace ve formě slideshow určené pro přímé zobrazení. Je užitečný, když je potřeba distribuovat obsah dokumentu jako připravenou vizuální sekvenci k prezentaci, místo editovatelného souboru snímků.
+
+Tento převod podporuje automatizaci tím, že umožňuje generování výstupů slideshow z šablon pomocí Pythonu, což pomáhá zefektivnit procesy publikování a doručování prezentací.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Prezentace připravené k přehrání**
+  Přetvořte obsah dokumentu na prezentaci připravenou k okamžitému přehrání.
+
+* **Distribuce prezentací**
+  Sdílejte vizuální výstupy bez nutnosti další úpravy.
+
+* **Vizualizace založená na šablonách**
+  Znovu použijte strukturované dokumenty jako materiály připravené pro slideshow komunikaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované publikování slideshow**
+  Generujte soubory PPS ze šablon DOTX pro workflow přímého zobrazení.
+
+* **Opakující se vizuální briefy**
+  Vytvářejte připravené slideshow z opakujících se formátů dokumentů.
+
+* **Standardizace výstupu prezentací**
+  Poskytujte konzistentní slideshow prostředky prostřednictvím automatizovaných pipeline.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

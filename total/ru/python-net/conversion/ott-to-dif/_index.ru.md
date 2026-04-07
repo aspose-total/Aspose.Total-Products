@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Конвертация OTT в DIF в Python API преобразует текстовые шаблоны OpenDocument в формат обмена данными, предназначенный для табличной передачи данных между устаревшими и совместимыми со спредшитами системами. Это ценно, когда структурированный контент должен перемещаться между средами с широкой поддержкой импорта.
+
+Конверсия улучшает автоматизацию, делая данные, полученные из шаблонов, переносимыми между системами, использующими стандартизированные форматы обмена, помогая сократить ручную перестройку и улучшить повторяемость процессов.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Обмен наследованными данными**  
+  Поддерживает среды, которые всё ещё полагаются на классические табличные форматы обмена.
+
+* **Миграция в электронные таблицы**  
+  Подготавливает данные, полученные из документов, для импорта в совместимые аналитические инструменты.
+
+* **Нормализация данных шаблонов**  
+  Извлекает структурированную информацию из текстовых шаблонов в переносимый формат.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Автоматическое связывание форматов**  
+  Соединяет современные шаблоны документов со старыми системами отчётности.
+
+* **Пакетные задания конвертации**  
+  Преобразует большие партии файлов OTT в DIF без ручного вмешательства.
+
+* **Совместимость конвейеров**  
+  Стандартизирует шаги экспорта для рабочих процессов, требующих наборов данных, готовых к обмену.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

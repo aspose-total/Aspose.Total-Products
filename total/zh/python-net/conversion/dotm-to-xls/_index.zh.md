@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM 转 XLS 转换将带宏的 Word 模板转换为经典的 Excel 电子表格文件，以便进行结构化数据分析和兼容旧版电子表格。 当必须在旧的电子表格环境中重用文档衍生的信息时，这非常有用。
+
+使用 Python API 进行 DOTM 转 XLS 转换通过从模板中提取内容到电子表格文件，提升了自动化水平，无需手动复制。 这支持可扩展的报告、数据迁移以及以兼容性为重点的业务工作流。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **传统电子表格导出**
+  将 DOTM 内容转换为 XLS，以满足仍依赖旧版 Excel 格式的工作流。
+
+* **结构化表格转换**
+  将文档表格和重复值转移到电子表格形式，以便进行分析。
+
+* **面向兼容性的数据共享**
+  实现文档衍生数据与需要经典电子表格文件的系统之间的交换。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化传统工作簿创建**
+  工作流可以从 DOTM 模板生成 XLS 文件，以兼容已有系统。
+
+* **报告管道支持**
+  此转换帮助自动化将结构化文档数据移动到电子表格进行审阅。
+
+* **批量文档到工作簿处理**
+  编程任务支持大规模将 DOTM 文件转换为 XLS 输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

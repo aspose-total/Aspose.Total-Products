@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل Excel إلى MOBI باستخدام Python يجعل من الممكن تحويل محتوى جداول البيانات إلى تنسيق صديق للكتب الإلكترونية مناسب لبيئات القراءة الرقمية. وهو مفيد عندما يجب إعادة توظيف البيانات المهيكلة إلى مستندات محمولة وقابلة للقراءة للتوزيع أو المرجعية.
+
+يدعم هذا التحويل الأتمتة من خلال تمكين سير عمل Python لتحويل محتوى جداول البيانات إلى أصول نشر صديقة للهواتف المحمولة دون إعادة تنسيق يدوية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **النشر الرقمي**  
+  تحويل المحتوى المستند إلى Excel إلى ملفات MOBI للقراءة المحمولة واستخدامها كمرجع.
+
+* **إنشاء مواد مرجعية**  
+  تحويل معلومات جداول البيانات المهيكلة إلى وثائق قابلة للقراءة على نمط الكتب الإلكترونية.
+
+* **إعادة توظيف المحتوى**  
+  إعادة استخدام محتوى جداول البيانات التجارية أو التعليمية في صيغ توزيع رقمية طويلة الشكل.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء كتب إلكترونية تلقائيًا**  
+  استخدام واجهات برمجة تطبيقات Python لإنتاج ملفات MOBI من بيانات Excel في خطوط النشر.
+
+* **سير عمل توزيع المحتوى**  
+  تحويل المواد المستندة إلى جداول البيانات إلى مستندات قابلة للقراءة على الهواتف المحمولة للوصول الواسع.
+
+* **تحويل تنسيق قابل للتوسع**  
+  إعادة توظيف البيانات المهيكلة برمجيًا لمنصات القراءة الرقمية والأرشيفات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+在 Python 中将 XLTM 转换为 DOCM 使得带宏的 Excel 模板能够转换为带宏的 Word 文档，以实现高级文档处理和可重用内容打包。当需要将基于电子表格的源材料以支持扩展自动化逻辑的文档格式交付时，这非常有用。
+
+对于现代自动化工作流，XLTM 到 DOCM 的转换提升了办公文件类型之间的流程连续性，支持可编程的文档生成，并有助于保持高效的多步骤内容操作。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏就绪文档输出**  
+  将电子表格模板转换为可参与宏启用文档生态系统的 Word 文档。
+
+* **结构化内容转移**  
+  将有组织的模板数据转移到适合正式编辑和审阅的文档格式中。
+
+* **流程驱动的文档编制**  
+  支持依赖跨部门自动化办公文档转换的团队。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **工作流集成转换**  
+  在企业内容管道中自动化从 XLTM 模板创建 DOCM 文件的过程。
+
+* **文档组装系统**  
+  将转换后的文件输入到生成、验证或分发结构化文档的更大系统中。
+
+* **跨格式自动化链**  
+  帮助将基于电子表格的输入与宏启用的 Word 输出连接起来，以实现运营一致性。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

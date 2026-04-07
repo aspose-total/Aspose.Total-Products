@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TIFF to ICS conversion using Python APIs makes it possible to transform visual document content into calendar-compatible data outputs where scheduling context is derived from image-based records. This can be useful for appointment notices, event scans, or timetable documents that need to become structured calendar entries.
+
+For automation initiatives, TIFF to ICS conversion supports better scheduling integration, reduced manual entry, and smoother coordination between document capture systems and calendar workflows. It enables image-to-event processing in environments where timing and reminders are operationally important.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Převod dokumentů o schůzkách**
+  Converts TIFF-based schedules or appointment notices into calendar-compatible outputs.
+
+* **Strukturování záznamů událostí**
+  Helps turn visual event information into standardized scheduling artifacts.
+
+* **Podpora pracovních postupů připomínek**
+  Enables image-derived event details to be used in reminder and planning systems.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Zpracování naskenovaných rozvrhů**
+  Automates the conversion of TIFF schedules into ICS outputs for calendar import workflows.
+
+* **Automatizace přijímání schůzek**
+  Supports extracting event-related document content and converting it into usable scheduling files.
+
+* **Pipelines synchronizace kalendářů**
+  Enables programmatic generation of calendar entries from image-based operational documents.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

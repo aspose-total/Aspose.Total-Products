@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTM 到 OTT 转换在 Python 中支持将启用宏的 Excel 模板转换为开放文档文本模板，以实现可重用且基于标准的文档创建。当需要将基于电子表格的模板结构转换为开放格式模板以进行重复的文档任务时，这非常有用。
+
+在自动化系统中，XLTM 到 OTT 转换有助于创建可重用资产，促进开放标准，并加强可扩展的模板管理工作流。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **开放模板创建**  
+  将电子表格模板转换为可重用的开放文档文本模板，以实现标准化输出。
+
+* **跨系统模板复用**  
+  支持使用开放且可编辑的模板格式进行重复的文档生成。
+
+* **格式中立的工作流支持**  
+  帮助组织采用不受单一文件生态系统限制的灵活模板策略。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **模板库自动化**  
+  从 XLTM 文件生成 OTT 模板，以用于可重复的文档流程。
+
+* **开放标准工作流集成**  
+  支持在基于开放文档格式的系统之间自动分发模板。
+
+* **批量模板生产**  
+  实现将电子表格模板大规模转换为可重用文本模板资产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

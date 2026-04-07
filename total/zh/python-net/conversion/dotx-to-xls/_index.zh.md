@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX 转 XLS 转换将 Word 模板内容转换为传统的电子表格格式，以便进行表格编辑、审阅，并兼容旧的电子表格工作流。当需要在广泛认可的电子表格环境中重复使用模板生成的数据时，这非常有用。
+
+使用 Python API，此转换能够实现可扩展的自动化，用于报告、数据交接以及在文档密集系统中进行结构化内容转换。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **传统电子表格输出**
+  将文档内容转换为熟悉的电子表格格式，以适应既定的工作流。
+
+* **表格数据复用**
+  将结构化的模板信息转移到可编辑的电子表格形式。
+
+* **报告准备**
+  使用基于电子表格的工具支持运营和分析审查。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化电子表格生成**
+  在定期报告任务中，从 DOTX 模板生成 XLS 文件。
+
+* **文档到表格管道**
+  以编程方式将模板内容导入电子表格工作流。
+
+* **兼容性导向的数据交付**
+  生成适用于仍依赖旧电子表格格式的环境的输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

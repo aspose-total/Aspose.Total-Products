@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 PDF 转换为 VCF 可以将 PDF 文档中包含的联系人相关信息转换为标准的联系人卡片格式。这在需要将以 PDF 形式存储的名片、目录或联系人列表转化为结构化且可重复使用的数字联系人记录时尤为有用。
+
+自动化通过减少手动数据输入并实现快速提取联系人详细信息到可互操作的格式，从而改进了此过程。它支持 CRM 工作流、地址簿管理以及跨现代系统的联系人同步。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **联系人数据提取**  
+  将基于 PDF 的联系人详细信息转换为 VCF 文件，以用于数字地址簿。
+
+* **名片数字化**  
+  将联系人卡片的 PDF 版本转换为结构化的联系人记录。
+
+* **目录转换**  
+  以适合导入和同步的格式重用存储在 PDF 中的联系人列表。
+
+* **CRM 数据准备**  
+  为客户关系管理工作流准备提取的联系人信息。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化联系人导入流水线**  
+  Python 脚本可以从 PDF 中提取联系人字段并自动生成 VCF 文件。
+
+* **批量目录处理**  
+  大规模的 PDF 联系人集合可以批量转换为结构化的联系人记录。
+
+* **地址簿同步**  
+  转换后的 VCF 文件可供管理共享或个人联系人数据的系统使用。
+
+* **动态数据捕获工作流**  
+  传入的 PDF 联系人文档可以即时处理为可重复使用的数字个人资料。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

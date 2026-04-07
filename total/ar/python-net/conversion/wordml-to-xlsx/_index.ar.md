@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل WordML إلى XLSX يحول المحتوى الهيكلي المستند إلى المستندات إلى ملفات جداول بيانات حديثة تُستخدم على نطاق واسع للتحليل وإعداد التقارير ومشاركة البيانات. وهو ذو قيمة خاصة عندما تحتاج جداول المستند إلى أن تصبح قابلة للتحرير، جاهزة للمعادلات، وصديقة للتكامل كبيانات دفتر عمل.
+
+تجعل واجهات برمجة التطبيقات بلغة بايثون تحويل WordML إلى XLSX قابلة للتوسع من خلال استخراج المحتوى بدقة ودمج تحويل المستند إلى جدول بيانات في خطوط أنابيب مؤتمتة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تصدير جداول البيانات الحديثة**
+  يحوّل جداول WordML إلى ملفات XLSX للتحرير والتحليل وإعداد التقارير.
+
+* **إعداد بيانات الأعمال**
+  يجعل محتوى المستند الهيكلي مناسبًا لتدفقات العمل التشغيلية والتحليلية.
+
+* **تبادل البيانات عبر الأنظمة**
+  يدعم نقل بيانات المستند بشكل موثوق إلى المنصات القائمة على جداول البيانات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء دفعات دفاتر العمل**
+  يحوّل مستندات WordML تلقائيًا إلى ملفات XLSX لتدفقات العمل على نطاق واسع.
+
+* **أتمتة التقارير والتحليلات**
+  يُغذي مخرجات جداول البيانات المحوّلة إلى لوحات التحكم وعمليات المراجعة.
+
+* **خطوط أنابيب استخراج البيانات**
+  يوحد جداول المستند في شكل دفتر عمل لأتمتة العمليات اللاحقة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

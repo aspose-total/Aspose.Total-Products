@@ -65,7 +65,47 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT 到 PowerPoint 的转换将文本文档转换为可直接用于演示的格式，便于在视觉沟通环境中进行交付、审阅和共享。当报告、提纲或结构化文本需要转化为会议、培训或摘要的幻灯片时，这非常有用。
+
+在自动化系统中，ODT 到 PowerPoint 的转换支持快速的文档再利用、可重复的报告以及可扩展的演示生成。Python API 可帮助将源内容转换为精美的幻灯片输出，几乎无需人工操作。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **文档转幻灯片再利用**  
+  将叙述性内容转换为适合演示的结构。
+
+* **会议和审阅准备**  
+  帮助从现有书面文档中准备视觉材料。
+
+* **培训内容开发**  
+  支持将教学文本转化为演示资产。
+
+* **高管摘要交付**  
+  使复杂的书面内容更容易以视觉方式传达。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **定期演示生成**  
+  Python 自动化可以从计划的报告文档生成幻灯片输出。
+
+* **批量文档转换**  
+  多个 ODT 文件可以在一次工作流中转换为演示格式。
+
+* **基于模板的幻灯片组装**  
+  结构化章节可以通过编程映射到幻灯片布局中。
+
+* **分发工作流集成**  
+  转换后的演示文稿可以自动路由到存储或审阅系统。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

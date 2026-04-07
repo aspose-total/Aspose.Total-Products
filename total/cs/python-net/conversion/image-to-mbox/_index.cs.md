@@ -46,7 +46,53 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu I
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod obrázků do formátu MBOX pomocí Python API pomáhá zabalit komunikaci odvozenou z obrázků do souborů poštovních archivů, které mohou v jednom kontejneru uložit více záznamů zpráv. To je užitečné pro organizace, které potřebují zachovat nebo migrovat data vizuální komunikace v rámci konsolidovaných pracovních postupů archivace e‑mailů.
+
+Z pohledu automatizace podporuje převod obrázků do MBOX škálovatelné archivní zpracování, dávkové sestavování komunikace a efektivní přenos obsahu zpráv mezi systémy. Umožňuje ukládat informace založené na obrázcích ve strukturovaném formátu, který je praktický pro úkoly spojené s uchováváním a migrací.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření poštovních archivů**
+  Převést záznamy komunikace založené na obrázcích do MBOX archivů pro centralizované úložiště.
+
+* **Hromadná archivace záznamů**
+  Seskupit více zpráv odvozených z obrázků do jednoho archivního souboru pro dlouhodobé uchování.
+
+* **Příprava na migraci**
+  Připravit vizuální komunikační obsah k přenosu do systémů, které podporují poštovní archivy.
+
+* **Seskupování případů a projektů**
+  Organizovat související záznamy zpráv založených na obrázcích v jednom přenosném poštovním souboru.
+
+* **Ukládání historické komunikace**
+  Uchovat snímky obrazovky, oznámení a naskenovanou korespondenci ve formátu vhodném pro archivaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Dávková generace archivů**
+  Velké sbírky obrázků lze automaticky převést do komunikací založených na MBOX archivech.
+
+* **Automatizace retenčního potrubí**
+  Záznamy odvozené z obrázků lze seskupit do poštovních archivů podle plánů řízených politikou.
+
+* **Pracovní postupy konsolidace dat**
+  Rozptýlené vizuální soubory lze převést na jednotné archivní výstupy pro snadnější správu.
+
+* **Procesy exportu a přenosu**
+  Automatizované systémy mohou balit zprávy založené na obrázcích do MBOX souborů pro migraci systému.
+
+* **Automatizace ukládání pro soulad**
+  Důkazy vizuální komunikace lze archivovat ve strukturovaném poštovním formátu pro revizi a uchování.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

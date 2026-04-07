@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLAM to OTT conversion using Python APIs converts Excel add-in content into open document text templates that support repeatable document generation. This is useful for organizations that want reusable document structures in an open standard format while preserving consistency across document creation workflows.
+
+В рамках автоматизированных систем конвертация XLAM в OTT помогает создавать процессы, управляемые шаблонами, которые эффективно и масштабно генерируют стандартизированные документы. Она поддерживает операции в открытом формате, снижает затраты на ручное форматирование и повышает удобство сопровождения в цепочках документооборота.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые случаи использования" %}}
+
+* **Создание открытых шаблонов**  
+  Преобразует содержимое XLAM в шаблоны OTT для переиспользуемого генерирования документов в средах открытого формата.
+
+* **Стандартизированный дизайн документации**  
+  Помогает командам создавать согласованные шаблоны открытых документов для повторяющихся отчетов и форм.
+
+* **Фреймворки переиспользуемого контента**  
+  Поддерживает преобразование структурированного контента, исходящего из электронных таблиц, в повторяемые чертежи документов.
+
+* **Публикация на основе шаблонов**  
+  Обеспечивает подготовку шаблонов открытого формата для процессов документооборота, требующих согласованности.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Рабочие процессы автоматизации шаблонов**  
+  Python API могут генерировать шаблоны OTT из источников XLAM для стандартизированного создания документов.
+
+* **Интеграция в открытой экосистеме**  
+  Автоматизированная конвертация поддерживает операции, управляемые шаблонами, на разных платформах, использующих открытые стандарты документов.
+
+* **Масштабируемое производство форм и отчетов**  
+  Сгенерированные шаблоны OTT могут служить основой для процессов массового генерирования документов.
+
+* **Конвейеры структурирования контента**  
+  Программная конвертация помогает организовать контент, полученный из электронных таблиц, в переиспользуемые шаблоны открытого формата.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

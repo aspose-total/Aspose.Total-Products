@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+يدعم تحويل WordML إلى OST تحويل المحتوى القائم على المستندات إلى صيغ يمكن استخدامها ضمن تدفقات عمل بيانات صندوق البريد غير المتصلة وأنظمة تخزين البريد الإلكتروني. وهو ذو صلة في سيناريوهات الترحيل أو الأرشفة المتخصصة حيث تصبح معلومات المستند جزءًا من معالجة المحتوى الموجه لصناديق البريد.
+
+يمكن لواجهات برمجة التطبيقات Python أن تساعد في إعداد وهيكلة المحتوى لأتمتة تحويل WordML إلى OST، مما يحسن القابلية للتكرار في عمليات المراسلة المؤسسية والتهجير.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إعداد بيانات صندوق البريد**
+  يستخدم محتوى المستند كمدخل لتخزين البريد غير المتصل وتدفقات عمل الترحيل.
+
+* **دعم الأرشفة المؤسسية**
+  يساعد على مواءمة الاتصالات المستمدة من المستندات مع عمليات الاحتفاظ المتمحورة حول صندوق البريد.
+
+* **حزم المحتوى المنظم**
+  يدعم تحويل النص المعتمد إلى سياقات تخزين موجهة للرسائل.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط أنابيب دعم الترحيل**
+  يُؤتمت إعداد محتوى WordML لمعالجة صناديق البريد غير المتصلة.
+
+* **مهام دمج الأرشيف**
+  يدمج السجلات المستمدة من المستندات في عمليات أرشفة البريد الإلكتروني الأوسع.
+
+* **هيكلة المحتوى المؤسسي**
+  يُمكّن من معالجة قابلة للتكرار لمحتوى المستند الجاهز للرسائل على نطاق واسع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

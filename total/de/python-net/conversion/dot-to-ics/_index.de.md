@@ -46,7 +46,41 @@ Wer versucht für einen Python-Entwickler, eine DOT-zu-ICS-Konvertierungsfunktio
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT-zu-ICS-Konvertierung wandelt Dokumentvorlagen in kalenderkompatible Daten um, die für Terminplanung und Ereignisaustausch verwendet werden können. Dies ist wichtig, wenn Vorlageninhalte datengesteuerte Informationen enthalten, die über Kalender‑Workflows geteilt werden müssen.
+
+Mit Python‑APIs kann die DOT-zu-ICS-Konvertierung automatisiert werden, um die Ereigniserstellung, Terminverteilung und die Integration in Planungssysteme zuverlässig und wiederholbar zu unterstützen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Wichtige Anwendungsfälle" %}}
+
+* **Ereigniserstellung aus Vorlagen**
+  Konvertiere DOT-basierte Termininformationen in ICS-Dateien zur Kalendernutzung.
+
+* **Meeting- und Zeitplanverteilung**
+  Teile aus Dokumenten abgeleitete Daten und Ereignisse in einem standardisierten Planungsformat.
+
+* **Workflow-Planungsintegration**
+  Wandle strukturierte Vorlageninhalte in Kalenderartefakte für die operative Planung um.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* **Automatisierte Kalendererstellung**
+  Python‑Skripte können datumsorientierte DOT-Vorlagen in ICS-Dateien zur Verteilung konvertieren.
+
+* **Unterstützung der Planungs-Pipeline**
+  Die Konvertierung ermöglicht es Systemen, dokumentdefinierte Ereignisse in Kalender‑Workflows zu überführen.
+
+* **Batch‑Ereignisveröffentlichung**
+  Programmgesteuerte Verarbeitung ermöglicht die massenhafte Erstellung von ICS-Dateien aus mehreren Vorlagen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to Excel conversion in Python APIs converts OpenDocument text templates into spreadsheet-compatible workbooks, making document content easier to analyze, organize, and reuse in data-centric environments. This is helpful when textual information needs tabular presentation or business reporting.
+
+The conversion enhances automation by moving template content into spreadsheet workflows where formulas, filters, validation, and integration processes can operate at scale with minimal manual intervention.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Strukturování obchodních dat**  
+  Přesouvá obsah šablony do podoby sešitu pro revizi a zpracování.
+
+* **Analytické opětovné využití**  
+  Umožňuje snadnější řazení, filtrování a výpočty informací odvozených z dokumentu.
+
+* **Provozní reportování**  
+  Podporuje transformaci textových šablon na reportovací prostředky.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Opakovaná generace sešitů**  
+  Převádí standardní soubory OTT na výstupy v Excelu při naplánovaných spuštěních.
+
+* **Datové obohacovací pipeline**  
+  Kombinuje extrahovaný obsah dokumentu se vzorci a pravidly v tabulkovém kalkulátoru.
+
+* **Automatizované šíření**  
+  Vytváří výstupy sešitů pro týmy, systémy nebo reportovací procesy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

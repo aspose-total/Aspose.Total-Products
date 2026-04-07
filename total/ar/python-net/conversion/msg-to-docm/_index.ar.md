@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل MSG إلى DOCM يحول ملفات رسائل البريد الإلكتروني إلى مستندات معالجة كلمات مدعومة بالماكرو وتدعم سلوك المستند المتقدم. هذا مفيد عندما يجب الحفاظ على محتوى الرسالة في صيغة قابلة للتحرير مع البقاء متوافقًا مع بيئات المعالجة القائمة على الماكرو.
+
+للأتمتة، تعتبر سير عمل تحويل MSG إلى DOCM ذات صلة في الأنظمة التي تعتمد على إجراءات المستندات المبرمجة، روتينات التحقق، أو مهام التنسيق الهيكلية. إنها تساعد في ربط المحتوى المستمد من البريد الإلكتروني بعمليات المستندات الديناميكية للمؤسسة.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **توثيق مدعوم بالماكرو**  
+  إعداد محتوى البريد الإلكتروني المحول لبيئات المستندات التي تستخدم ماكرو الأتمتة.
+
+* **معالجة المحتوى الهيكلي**  
+  دعم التنسيق والتلاعب القائم على القواعد بعد التحويل.
+
+* **تجميع المستندات التشغيلية**  
+  دمج بيانات الرسالة في قوالب المستندات المتحكم فيها وجاهزة للأتمتة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **معالجة ما بعد التحويل المدفوعة بالماكرو**  
+  تحويل ملفات MSG إلى DOCM حتى تتمكن الروتينات اللاحقة من تطبيق خطوات التنسيق أو التحقق.
+
+* **سير عمل المستندات المؤسسية**  
+  إدخال المستندات المحولة إلى أنظمة المراجعة الآلية التي تعتمد على دعم الماكرو.
+
+* **معالجة المحتوى الديناميكي**  
+  تمكين التحديثات البرمجية وإجراءات سير العمل على المستندات المستمدة من الرسائل.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

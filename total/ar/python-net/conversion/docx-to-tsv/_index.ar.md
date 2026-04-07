@@ -65,7 +65,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOCX إلى TSV يحول مستندات معالجة النصوص إلى تنسيق القيم المفصولة بفواصل جدولة، مما يتيح استخراج المعلومات المهيكلة إلى ملف بيانات خفيف يعتمد على النص. هذا التنسيق مفيد لنقل الجداول المستندة إلى المستندات والمحتوى المنظم إلى سير عمل تحليلي أو تبادلي.
+
+تسمح واجهات برمجة تطبيقات بايثون بأتمتة تحويل DOCX إلى TSV في أنظمة إعداد البيانات، خطوط استخراج المحتوى، وسير عمل تكامل المؤسسات. يدعم تحويلًا قابلًا للتوسع لمحتوى المستند إلى مخرجات جدولة قابلة للقراءة آليًا.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **استخراج البيانات الجدولية**  
+  يحول جداول DOCX والمعلومات المهيكلة إلى ملفات جدولة تعتمد على النص.
+
+* **تبادل البيانات بين الأنظمة**  
+  يتيح نقلًا خفيفًا للمحتوى المهيكل عبر المنصات.
+
+* **تحليل وإعداد المعالجة**  
+  يساعد في إعداد البيانات المستمدة من المستندات لأدوات التحليل اللاحقة.
+
+* **تكامل سير عمل المستند إلى النص**  
+  يدعم تصدير المحتوى المنظم إلى تنسيقات جدولة محمولة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط تصدير البيانات المؤتمتة**  
+  يمكن للأنظمة تحويل ملفات DOCX إلى مخرجات TSV لسير عمل المعالجة.
+
+* **استخراج المحتوى المهيكل على دفعات**  
+  يمكن لسكربتات بايثون تحويل مستندات متعددة إلى مجموعات بيانات مفصولة بفواصل جدولة برمجيًا.
+
+* **أتمتة تكامل المؤسسات**  
+  يمكن تصدير محتوى المستند إلى تنسيق TSV لتضمينه في أنظمة التقارير أو قواعد البيانات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

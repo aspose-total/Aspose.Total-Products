@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu B
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+BMP na konverzi do formátu ICS umožňuje začlenit bitmapové obrázky do souborů událostí kalendáře pomocí formátu ICS. Tento přístup umožňuje vizuální materiály, jako jsou rozvrhy, plakáty událostí nebo diagramy, doprovázet kalendářové záznamy.
+
+V automatizovaných systémech pomáhá převod souborů BMP do událostí ICS integrovat vizuální informace do pracovních postupů plánování. To podporuje automatizované šíření událostí, připomenutí a spolupráci napříč kalendářovými platformami.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Distribuce oznámení události**  
+  Kalendářové pozvánky mohou obsahovat BMP obrázky, jako jsou plakáty událostí nebo diagramy.
+
+* **Vizualizovaná dokumentace plánování**  
+  Organizace mohou připojit vizuální odkazy k naplánovaným událostem.
+
+* **Komunikace založená na kalendáři**  
+  Týmy mohou distribuovat grafiku související s událostí v kalendářových záznamech.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná generace kalendářních událostí**  
+  Systémy generují soubory ICS s vloženými BMP vizuály pro automatizované plánování.
+
+* **Upozornění na události založená na pracovním postupu**  
+  Automatizované pipeline převádějí materiály založené na obrázcích do kalendářních událostí.
+
+* **Programové pozvánky na schůzky**  
+  Aplikace dynamicky vytvářejí ICS pozvánky obsahující vizuální odkazy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

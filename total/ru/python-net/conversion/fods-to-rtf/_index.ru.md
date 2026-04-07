@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FODS to RTF conversion changes flat OpenDocument spreadsheet content into Rich Text Format documents, providing a broadly compatible way to share structured information as editable text files. This is useful when organizations need a flexible document format that works across diverse systems and applications.
+
+From an automation standpoint, FODS to RTF conversion supports interoperable document generation, high-volume transformation workflows, and efficient content distribution. Python APIs help teams automate the conversion process, reduce manual handling, and integrate document output into multi-system environments.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Кроссплатформенный обмен документами**  
+  Преобразуйте данные FODS в файлы RTF для широкой совместимости в различных средах редактирования.
+
+* **Редактируемое представление данных**  
+  Представляйте информацию из таблиц в текстовом формате, который легко изменять и просматривать.
+
+* **Поддержка устаревших рабочих процессов**  
+  Используйте вывод в RTF для систем или процессов, которые всё ещё зависят от широко поддерживаемых форматов текстовых документов.
+
+* **Взаимозаменяемая отчетность**  
+  Предоставляйте структурированный контент в переносимом формате, подходящем для обмена между командами и инструментами.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Автоматизированный вывод в нескольких форматах**  
+  Рабочие процессы на Python могут генерировать документы RTF из файлов FODS в рамках более крупных систем конвертации.
+
+* **Пакетная обработка совместимости**  
+  Несколько исходных файлов могут быть преобразованы в формат RTF для более широкого последующего использования.
+
+* **Интеграция рабочих процессов между системами**  
+  Автоматизированное создание RTF поддерживает среды, где несколько платформ используют выводимые документы.
+
+* **Масштабируемый обмен документами**  
+  Программная конвертация позволяет быстро и последовательно готовить переносимые редактируемые файлы.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

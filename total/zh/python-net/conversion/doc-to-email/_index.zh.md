@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+文档到电子邮件的转换将 Word 内容转化为可嵌入通信工作流、通知系统或审阅流程的邮件就绪输出。当需要以可读的电子邮件格式分发文档信息时，它非常有用。
+
+基于 Python API 的 DOC 到电子邮件转换支持自动化通信管道，使从文档生成可重用的电子邮件内容更为简便，同时提升速度、一致性和运营效率。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **消息内容生成**
+  将文档文本转换为可用于通信和审批工作流的邮件就绪内容。
+
+* **自动化通知**
+  使用文档生成的内容填充邮件正文，以用于警报、更新或摘要。
+
+* **工作流分发**
+  以符合基于电子邮件的审阅和协作的格式共享业务文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **文档到消息路由**
+  自动将 DOC 文件转换为电子邮件内容，以在团队或系统之间进行传递。
+
+* **审批工作流自动化**
+  从正式文档生成结构化的电子邮件，以用于审阅和签署流程。
+
+* **动态通信组装**
+  通过编程方式从模板、报告或生成的文档创建电子邮件就绪的输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

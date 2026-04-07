@@ -53,7 +53,41 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT 到图像的转换在 Python API 中将 OpenDocument 文本模板渲染为图像输出，用于可视化共享、预览生成和静态发布。当文档内容必须在各平台上保持一致显示且不依赖可编辑的源格式时，这非常有用。
+
+该转换通过提供可扩展的渲染流水线，使预览、缩略图、网络资源和文档快照能够以编程方式生成并广泛分发，从而提升自动化效益。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **可视化预览生成**  
+  为快速查看创建文档内容的静态表示。
+
+* **跨平台共享**  
+  在文档支持受限的环境中，使内容更易显示。
+
+* **发布支持**  
+  生成用于网页、报告或归档的图像资源。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **缩略图创建流水线**  
+  批量从 OTT 文件生成预览图像。
+
+* **内容发布工作流**  
+  将模板转换为门户或文档站点的可视化资源。
+
+* **自动快照归档**  
+  将文档状态保存为不可编辑的图像输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

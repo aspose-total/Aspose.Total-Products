@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod SXC na RTF transformuje informace z tabulky do formátu Rich Text, který vyvažuje čitelnost, přenositelnost a širokou kompatibilitu napříč prostředími pro úpravu textu. Je užitečný, když je třeba sdílet obsah tabulky jako formátovaný text a zároveň zůstat přístupný v široké škále systémů.
+
+Pomocí Python API převod SXC na RTF pomáhá automatizovat tvorbu lehkých dokumentů pro komunikaci, archivaci a výměnu obsahu napříč platformami, aniž by bylo nutné spoléhat na složité závislosti dokumentů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Sdílení textu napříč platformami**  
+  Převádí obsah tabulky do formátu, který může otevřít mnoho aplikací podporujících text.
+
+* **Export formátovaného obsahu**  
+  Zachovává základní strukturu a čitelnost při přesunu dat do pracovních postupů s textovými dokumenty.
+
+* **Lehká dokumentace**  
+  Podporuje tvorbu přenosných formátovaných souborů pro souhrny, poznámky a jednoduché zprávy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaný výstup textových dokumentů**  
+  Používá Python API k převodu souborů SXC do RTF dokumentů pro lehké pracovní postupy reportování.
+
+* **Široce kompatibilní pipeline**  
+  Umožňuje export obsahu pro systémy, které vyžadují jednoduché, formátované a přenositelné textové dokumenty.
+
+* **Dávkové konverzní pracovní postupy**  
+  Podporuje programovou konverzi více souborů tabulek do přístupných výstupů založených na textu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

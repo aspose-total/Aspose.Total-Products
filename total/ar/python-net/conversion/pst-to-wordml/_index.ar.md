@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل PST إلى WordML في واجهات برمجة تطبيقات بايثون يحول محتوى صندوق البريد إلى تمثيل Word مبني على XML يدعم المعالجة المهيكلة وتبادل المستندات. وهو مفيد في سير العمل التقني حيث يجب الحفاظ على المحتوى المستمد من البريد الإلكتروني في تنسيق موجه للترميز من أجل التحويل أو التكامل.
+
+من أجل الأتمتة، يساعد تحويل PST إلى WordML في ربط أرشيفات صناديق البريد مع أنظمة المستندات المدفوعة بـ XML وأنابيب المعالجة القائمة على القواعد. وهو يدعم التلاعب القابل للتوسع، والفحص، وتبادل محتوى المستند المهيكل.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تمثيل مستند XML**
+  يقوم بتحويل محتوى PST إلى WordML لمعالجة المستندات المهيكلة.
+
+* **تبادل المحتوى القابل للتشغيل**
+  يساعد على نقل الملفات المستمدة من صناديق البريد عبر الأنظمة وسير العمل القائم على الترميز.
+
+* **هيكل المستند القابل للفحص**
+  يدعم العمليات التقنية التي تستفيد من ترميز المستند القابل للقراءة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تكامل سير عمل XML**
+  يمكن للأنظمة الآلية معالجة مخرجات WordML لأغراض التحقق أو مهام التحويل.
+
+* **أنابيب المستند المهيكل**
+  يمكن لبيانات صندوق البريد المحولة أن تتدفق إلى عمليات المؤسسة التي تركز على الترميز.
+
+* **تلاعب المحتوى برمجيًا**
+  يتيح WordML تحويلًا قابلاً للتوسع للمستندات المستمدة من البريد الإلكتروني عبر الشيفرة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

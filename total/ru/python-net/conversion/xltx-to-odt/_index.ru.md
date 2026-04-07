@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTX to ODT conversion converts spreadsheet template content into an open document text format that supports editable, standards-based documentation. This is beneficial when organizations want structured spreadsheet information to be repurposed into portable text documents without depending on proprietary output formats.
+
+Для автоматизации и интеграционных рабочих процессов преобразование XLTX в ODT повышает гибкость, позволяя генерировать документы, соответствующие стандартам, упрощая системную совместимость и масштабируемо трансформируя контент, основанный на шаблонах, в редактируемые текстовые ресурсы.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Генерация открытых документов**  
+  Преобразует шаблоны электронных таблиц в редактируемые текстовые документы на основе открытых стандартов.
+
+* **Совместимая документация**  
+  Поддерживает рабочие процессы, требующие более широкой совместимости между системами документооборота.
+
+* **Структурированное повторное использование контента**  
+  Помогает переиспользовать материал шаблонов электронных таблиц в повествовательные или отчетные текстовые документы.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Автоматизация документов на основе стандартов**  
+  Автоматизированные системы могут генерировать ODT‑файлы из шаблонов XLTX для совместимости с открытыми рабочими процессами.
+
+* **Кроссплатформенные конвейеры контента**  
+  Преобразование обеспечивает плавную интеграцию между входными данными из электронных таблиц и выходными текстовыми документами.
+
+* **Масштабируемая обработка открытых форматов**  
+  Программная обработка делает генерацию ODT в больших объёмах эффективной и повторяемой.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

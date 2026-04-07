@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu W
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML na MBOX konverze balí obsah odvozený z dokumentů do formátu poštovní archivy, který je vhodný pro ukládání seskupených zpráv a migrační pracovní postupy. To je užitečné, když je třeba organizovat více komunikací založených na dokumentech do poštovních úložišť.
+
+Python API umožňují konverzi WordML na MBOX programově transformací obsahu na záznamy zpráv a jejich konsolidací do škálovatelných archivních výstupů pro systémy zaměřené na e‑mail.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytvoření poštovní archivu**
+  Převádí obsah dokumentu do kolekcí zpráv kompatibilních s MBOX.
+
+* **Balíkování hromadné komunikace**
+  Seskupuje více převedených záznamů do jediného archivního souboru pro přenos nebo uchování.
+
+* **Podpora migrace e‑mailů**
+  Pomáhá připravit obsah pro import do prostředí orientovaných na poštovní schránky.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Generování archivů v dávkách**
+  Automatizuje vytváření souborů MBOX z opakujících se zdrojů dokumentů WordML.
+
+* **Integrace pracovního postupu uchovávání**
+  Podporuje dlouhodobé ukládání komunikací odvozených z dokumentů v poštovních archivech.
+
+* **Umožnění migračního řetězce**
+  Zpřístupňuje převedené výstupy MBOX pro automatizované importní nebo migrační rutiny.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

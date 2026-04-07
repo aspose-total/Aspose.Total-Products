@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل Word إلى TSV باستخدام واجهات برمجة تطبيقات Python يحول محتوى معالجة النصوص إلى قيم مفصولة بعلامات جدولة لتبادل البيانات النصية المهيكلة. هذا مفيد عندما يجب تصدير المعلومات المستمدة من المستند إلى تنسيق بسيط ومحمول يحافظ على الفصل دون الاعتماد على الفواصل.
+
+في سيناريوهات الأتمتة، يدعم تحويل TSV معالجة البيانات القابلة للتوسع، خاصةً عندما تُفضَّل المخرجات المفصولة بعلامات جدولة للاستيراد أو البرمجة النصية أو التفاعل مع الأنظمة التي تعالج النصوص المهيكلة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تصدير النص المهيكل**
+  يحوّل محتوى المستند إلى مخرجات مفصولة بعلامات جدولة لتبادل بيانات نظيف.
+
+* **تحضير استيراد البيانات**
+  يسهل تحميل المعلومات المستخرجة إلى الأدوات التي تدعم إدخال TSV.
+
+* **معالجة صديقة للبرمجة النصية**
+  يدعم سير عمل نصي خفيف الوزن للتحليل والتحويل.
+
+* **بديل للفواصل**
+  يساعد على الحفاظ على الوضوح عندما قد تحتوي القيم المصدرة على فواصل.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء ملفات محددة تلقائيًا**
+  ينتج مخرجات TSV من ملفات Word للمهام الروتينية للاستيراد والمعالجة.
+
+* **استخراج بيانات دفعي**
+  يحوّل مجموعات المستندات إلى ملفات مفصولة بعلامات جدولة مهيكلة على نطاق واسع.
+
+* **تبادل صديق للخط الأنابيب**
+  يستخدم مخرجات TSV في السكريبتات، روتينات التحقق، والأتمتة اللاحقة.
+
+* **سير عمل تحديث الأرشيف**
+  يحوّل محتوى المستندات القديمة إلى نص مهيكل يمكن الوصول إليه لإعادة الاستخدام على نطاق أوسع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

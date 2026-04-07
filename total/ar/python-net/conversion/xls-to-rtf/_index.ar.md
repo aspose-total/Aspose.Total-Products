@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل XLS إلى RTF يجعل محتوى جداول البيانات متاحًا بتنسيق نص غني يدعم توافقًا واسعًا للمستندات وإعادة استخدام نصية قابلة للتحرير. هذا مفيد عندما تحتاج معلومات جداول البيانات إلى نقلها إلى تنسيق مستند مرن للمشاركة أو الأرشفة أو مزيد من التنسيق.
+
+تحسين التحويل من XLS إلى RTF القائم على واجهة برمجة تطبيقات بايثون يرفع مستوى الأتمتة من خلال تمكين إنشاء مستندات نصية متسقة من ملفات جداول البيانات ودعم سير عمل تبادل المستندات الخفيف.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء مستند نص غني**
+  تحويل محتوى XLS إلى ملفات RTF للاستخدام القابل للتحرير والنقل.
+
+* **مشاركة عبر المنصات**
+  استخدام مخرجات RTF عندما تكون هناك حاجة إلى توافق واسع عبر بيئات المستندات.
+
+* **تحويل المحتوى الموجه للنص**
+  إعادة تعبئة بيانات جداول البيانات إلى تنسيق مناسب للتنسيق المختلط والعرض السردي.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء نص غني دفعي**
+  استخدام واجهات برمجة تطبيقات بايثون لتحويل ملفات XLS متعددة إلى مستندات RTF تلقائيًا.
+
+* **خطوط أنابيب المستندات الخفيفة**
+  إضافة تحويل XLS إلى RTF إلى سير العمل الذي يركز على القابلية للنقل والتوافق.
+
+* **إعداد الأرشفة الآلية**
+  تحويل محتوى جداول البيانات إلى مستندات نص غني للتخزين أو المراجعة على المدى الطويل.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل PST إلى XPS في واجهات برمجة تطبيقات بايثون يحول محتوى علبة البريد إلى تنسيق مستند ثابت التخطيط مصمم للعرض الموثوق واتساق الطباعة. يكون ذلك مفيدًا عندما تحتاج رسائل البريد الإلكتروني المؤرشفة إلى الحفاظ على تنسيق ثابت للتوزيع أو المراجعة أو معالجة الإخراج المتحكم فيها.
+
+في بيئات الأتمتة، يدعم تحويل PST إلى XPS إنشاء مستندات موحدة وتوصيلها بتنسيق ثابت. يساعد ذلك محتوى علبة البريد على الاندماج مع عمليات الأرشفة والعروض وسير عمل الطباعة التي تتطلب عرضًا متوقعًا.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تصدير مستند ثابت التخطيط**
+  يحول محتوى PST إلى XPS لتقديم بصري متسق.
+
+* **توزيع السجلات المستقرة**
+  يساعد على مشاركة الملفات المستخرجة من علبة البريد دون تغير التخطيط عبر الأنظمة.
+
+* **إخراج متسق للطباعة**
+  يدعم سير العمل الذي يتطلب عرض صفحات موثوق وسلوك عرض ثابت.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء تنسيق ثابت تلقائيًا**
+  يمكن للأنظمة تحويل أرشيفات PST إلى XPS لاستخدام موثوق في المراحل اللاحقة.
+
+* **سير عمل التحكم في العرض**
+  يدعم إخراج XPS خطوط أنابيب المستندات التي تتطلب اتساق التخطيط.
+
+* **توزيع وأرشفة قابلة للتوسع**
+  يساعد التحويل البرمجي على تقديم محتوى علبة البريد بتنسيق ثابت التخطيط يمكن التنبؤ به.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

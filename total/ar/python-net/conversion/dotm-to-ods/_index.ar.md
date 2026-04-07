@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOTM إلى ODS يحول قوالب Word الممكّنة بالماكرو إلى ملفات جدول بيانات OpenDocument، مما يجعل بيانات المستند المستخرجة أسهل في التحليل والمشاركة في بيئات جداول البيانات المفتوحة. وهو ذو قيمة لتدفقات العمل القائمة على المعايير التي تتطلب قابلية نقل البيانات المهيكلة.
+
+استخدام واجهات برمجة تطبيقات Python لتحويل DOTM إلى ODS يعزز الأتمتة عن طريق تحويل محتوى القالب إلى جداول بيانات قابلة لإعادة الاستخدام دون نسخ يدوي. يدعم خطوط أنابيب المستند إلى البيانات القابلة للتوسع، ويحسن التوافقية، ويساعد الأنظمة الحديثة على العمل مع معايير جداول البيانات المفتوحة.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **تقارير جداول البيانات المفتوحة**
+  تحويل محتوى DOTM إلى ODS للتحليل والتعاون في الأدوات القائمة على المعايير.
+
+* **تصدير البيانات المهيكلة**
+  نقل الجداول والمحتوى المتكرر من القوالب إلى شكل جدول بيانات لإعادة الاستخدام.
+
+* **دعم سير العمل القابل للتبادل**
+  تمكين تبادل أوسع للبيانات من خلال تنسيق جدول بيانات مفتوح معترف به على نطاق واسع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **إنشاء جدول بيانات تلقائي**
+  يمكن لتدفقات العمل إنشاء ملفات ODS من قوالب DOTM كجزء من تقارير أو خطوط استيراد.
+
+* **معالجة البيانات القائمة على المعايير**
+  يدعم التحويل الأنظمة التي تؤتمت العمليات حول صيغ المستند المفتوح.
+
+* **تحويل القوالب بالجملة**
+  يمكن للوظائف البرمجية تحويل العديد من ملفات DOTM إلى ODS بكفاءة وبشكل متسق.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

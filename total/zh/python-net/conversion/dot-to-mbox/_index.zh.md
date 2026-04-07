@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT 到 MBOX 转换将文档模板转换为适用于分组电子邮件消息处理的邮箱式存储格式。当需要将模板内容组装到电子邮件存档或迁移工作流中时，这非常有用。
+
+使用 Python API，组织可以自动从 DOT 文件创建兼容 MBOX 的输出，从而帮助简化消息打包和归档准备工作。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **邮箱存档准备**
+  将基于 DOT 的通信模板转换为兼容 MBOX 的结构。
+
+* **分组消息存储**
+  使用邮箱格式输出收集多个基于模板的通信。
+
+* **迁移工作流支持**
+  为电子邮件存档迁移和保留过程准备基于文档的内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化存档组装**
+  Python 脚本可以将 DOT 内容转换为适用于保留工作流的 MBOX 就绪输出。
+
+* **批量通信打包**
+  转换支持以编程方式将基于模板的消息分组到邮箱格式中。
+
+* **可扩展的电子邮件迁移支持**
+  动态流程帮助将文档生成的通信迁移到适合存档的结构中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

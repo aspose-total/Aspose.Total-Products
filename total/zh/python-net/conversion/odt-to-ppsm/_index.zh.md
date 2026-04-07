@@ -65,7 +65,47 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT 到 PPSM 的转换将 OpenDocument 文本文件转换为宏启用的幻灯片格式，旨在直接用于演示。当演示输出需要幻灯片行为和高级自动化功能时，这非常有价值。
+
+借助 Python API，ODT 到 PPSM 的转换支持可扩展地生成适用于专门报告和交付工作流的演示就绪输出。它有助于简化高级文档到幻灯片的自动化流程。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用的幻灯片创建**  
+  将书面文档转换为具备高级功能的幻灯片输出。
+
+* **演示交付自动化**  
+  支持生成直接查看演示文件的工作流。
+
+* **结构化沟通输出**  
+  将源内容转化为面向展示的演示资产。
+
+* **高级工作流集成**  
+  适用于需要脚本化或增强演示行为的场景。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **专用幻灯片流水线**  
+  Python 脚本可以将 ODT 内容转换为 PPSM，以实现自动化交付流程。
+
+* **批量演示发布**  
+  多个文件可以在最少人工操作下转换为幻灯片输出。
+
+* **模板驱动的输出生成**  
+  结构化文档可以自动为高级幻灯片演示工作流提供输入。
+
+* **运营报告交付**  
+  可以通过编程方式创建幻灯片文件，以用于循环的演示周期。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

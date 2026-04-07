@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod PNG na ICS umožňuje vizuální informace o rozvrhu, grafiku událostí nebo kalendářní údaje ve formě obrázku převést do strukturovaných kalendářových souborů, které podporují sdílení událostí a pracovní postupy plánování. To je zvláště užitečné, když data události pocházejí ve formě obrázku, ale je potřeba je učinit strojově čitelnými a interoperabilními.
+
+Python API dělají tento proces přátelským k automatizaci tím, že umožňují systémům programově generovat soubory ICS z PNG‑základních vstupů, zlepšují efektivitu plánování, snižují ruční zadávání a podporují škálovatelnou integraci kalendářů napříč aplikacemi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Převod grafiky události**  
+  Převádí oznámení událostí ve formátu PNG do kalendářových souborů ICS pro snadnější plánování a distribuci.
+
+* **Vytvoření položky kalendáře**  
+  Pomáhá převést informace o rozvrhu ve formě obrázku do strukturovaných kalendářových událostí.
+
+* **Příprava pozvánky na schůzku**  
+  Podporuje pracovní postupy, kde vizuální podrobnosti schůzky musí být převedeny na sdílené kalendářové soubory.
+
+* **Digitalizace rozvrhu**  
+  Umožňuje znovupoužití informací o události uložených ve formě obrázku v digitálních kalendářových systémech.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované generování kalendáře**  
+  Python API mohou vytvářet soubory ICS z PNG‑základních vstupů událostí v pipelinech pro správu událostí.
+
+* **Hromadné zpracování rozvrhů**  
+  Více PNG obrázků rozvrhu může být převedeno na výstupy ICS pro zjednodušené publikování kalendářů.
+
+* **Doručování pozvánek řízené pracovním tokem**  
+  Systémy mohou extrahovat a transformovat informace o události do příloh ICS pro automatizované pozvánky.
+
+* **Integrované systémy plánování**  
+  Aplikace mohou použít převod PNG na ICS k propojení vizuálních zdrojů událostí s kalendářovými platformami.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

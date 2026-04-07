@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل TSV إلى MOBI يغيّر البيانات الجدولية المهيكلة إلى تنسيق جاهز للكتاب الإلكتروني يدعم القراءة الرقمية وتوزيع المحتوى القابل للنقل. هذا مفيد عندما يجب إعادة توظيف المعلومات المستندة إلى TSV إلى محتوى طويل الشكل وقابل للقراءة لتوصيل المعرفة أو تعبئة الوثائق.
+
+باستخدام واجهات برمجة بايثون، يمكن أتمتة تحويل TSV إلى MOBI لتبسيط سير عمل النشر الرقمي، مما يجعل من الأسهل تحويل البيانات الخام إلى تجارب قراءة محمولة على نطاق واسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **نشر المعرفة المحمولة**  
+  يحوّل البيانات المهيكلة إلى محتوى متوافق مع الكتب الإلكترونية للتوزيع.
+
+* **مواد مرجعية قابلة للقراءة**  
+  يساعد في عرض المعلومات الجدولية بصيغة قراءة أكثر سهولة.
+
+* **تعبئة المحتوى الرقمي**  
+  يدعم إعادة توظيف بيانات TSV إلى أصول وثائقية قابلة للتنزيل.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء الكتب الإلكترونية تلقائيًا**  
+  يمكن لواجهات برمجة بايثون تحويل مدخلات TSV المتكررة إلى ملفات MOBI للتسليم الرقمي.
+
+* **خطوط أنابيب إعادة توظيف المحتوى**  
+  تساعد الأتمتة في تحويل بيانات الخلفية إلى مخرجات نشر صديقة للقارئ.
+
+* **سير عمل النشر الجماعي**  
+  يمكن تحويل مجموعات بيانات TSV المتعددة برمجيًا إلى صيغة MOBI بكفاءة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

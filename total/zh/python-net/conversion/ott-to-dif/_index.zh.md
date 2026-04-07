@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+在 Python API 中，OTT 到 DIF 的转换将 OpenDocument 文本模板转换为一种数据交换格式，该格式旨在在传统系统和兼容电子表格的系统之间进行表格数据传输。当结构化内容必须在具有广泛导入支持的环境之间移动时，这非常有价值。
+
+该转换通过使基于模板的数据在依赖标准化交换格式的系统之间可移植，从而提升自动化水平，帮助减少手动重构并改进可重复的处理。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **传统数据交换**  
+  支持仍然依赖传统表格交换格式的环境。
+
+* **电子表格迁移**  
+  准备将文档衍生的数据导入兼容的分析工具。
+
+* **模板数据标准化**  
+  将文本模板中的结构化信息提取为可转移的格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化格式桥接**  
+  将现代文档模板与旧的报告系统连接起来。
+
+* **批量转换任务**  
+  在无需人工处理的情况下，将大量 OTT 文件转换为 DIF。
+
+* **流水线兼容性**  
+  为需要可交换数据集的工作流标准化导出步骤。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

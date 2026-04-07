@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل المستند إلى PST يحول محتوى الرسائل المستند إلى Word إلى تنسيق تخزين شخصي يُستخدم عادةً لإدارة صناديق البريد على نطاق واسع وسيناريوهات الأرشفة. يكون مفيدًا عندما يجب دمج محتوى المستند في تدفقات عمل تخزين البريد الإلكتروني الأوسع.
+
+تجعل واجهات برمجة تطبيقات بايثون تحويل DOC إلى PST أكثر كفاءة لمهام الاحتفاظ المؤسسية والهجرة والأرشفة، مما يساعد على توحيد عمليات تخزين المستندات إلى البريد.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **توحيد أرشيف صندوق البريد**
+  تحويل محتوى التواصل المستند إلى المستند إلى PST للتخزين والنقل.
+
+* **سير عمل الهجرة**
+  تحضير أصول الرسائل المستندة إلى المستند لسيناريوهات هجرة البريد المؤسسية.
+
+* **دعم الاحتفاظ**
+  الحفاظ على المحتوى المنظم في تنسيق تخزين صندوق بريد شخصي واسع الاستخدام.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **أتمتة ملفات الأرشيف**
+  إنشاء محتوى PST برمجيًا من مصادر الرسائل المستندة إلى DOC.
+
+* **تعبئة بيانات البريد الضخمة**
+  تحويل كميات كبيرة من المحتوى المستند إلى المستند إلى حاويات تخزين صناديق البريد.
+
+* **معالجة موجهة للامتثال**
+  استخدام التحويل الآلي لدعم الاحتفاظ المتحكم به وسير عمل الأرشفة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

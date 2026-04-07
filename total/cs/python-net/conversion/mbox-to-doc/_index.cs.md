@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod MBOX na DOC převádí data poštovní schránky do editovatelných dokumentů kompatibilních s Wordem, což týmům pomáhá znovu využívat obsah e‑mailů pro reportování, revizi a strukturovanou dokumentaci. Je užitečný, když je třeba zprávy přeformátovat, anotovat nebo začlenit do širších obchodních záznamů.
+
+S Python API lze tento převod automatizovat, aby se zlepšila tvorba dokumentů, snížila ruční práce kopírování a vkládání a podpořily škálovatelné pracovní postupy, které transformují e‑mailové archivy na znovupoužitelný obsah připravený pro kancelář.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Editovatelná e‑mailová dokumentace**
+  Převést archivované e‑maily do editovatelných dokumentových souborů pro revizi a formátování.
+
+* **Sestavení obchodních záznamů**
+  Kombinovat obsah zpráv do dokumentů používaných pro reportování, schvalování nebo revize.
+
+* **Opětovné využití znalostí**
+  Umožnit snadnější opětovné využití důležitého obsahu poštovní schránky v provozních dokumentech.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované sestavování reportů**
+  Převést vybrané e‑maily do souborů DOC pro zařazení do opakujících se obchodních reportů.
+
+* **Pipelines pro extrakci obsahu**
+  Transformovat archivy poštovní schránky do editovatelných dokumentů pro následné revizní pracovní postupy.
+
+* **Hromadné vytváření kancelářských dokumentů**
+  Generovat uspořádané výstupy DOC z velkých datových sad e‑mailů pomocí automatizace v Pythonu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

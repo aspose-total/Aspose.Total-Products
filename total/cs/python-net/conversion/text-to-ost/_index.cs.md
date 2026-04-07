@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod textu na formát OST pomocí Python API se týká transformace prostého textového obsahu na data vhodná pro offline workflow ukládání ve stylu poštovní schránky. To je relevantní v scénářích zahrnujících synchronizovaná komunikační prostředí, archivní přípravu nebo systémově generované sady zpráv určené pro strukturovaný přístup k poštovní schránce.
+
+V automatizačních kontextech tento převod pomáhá připravit z textu odvozená komunikační data pro organizované modely úložišť, podporuje zpracování ve velkém měřítku, provozní kontinuitu a integraci s řízenými ekosystémy zpráv.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Příprava offline poštovních dat**  
+  Převádí textový obsah do strukturovaných forem vhodných pro offline workflow poštovní schránky.
+
+* **Podpora ukládání zpráv**  
+  Pomáhá organizovat komunikační data pro systémy navržené kolem synchronizovaného přístupu k poštovní schránce.
+
+* **Strukturování archivních dat**  
+  Podporuje přípravu z textu odvozených záznamů pro řízená úložná prostředí.
+
+* **Zpracování podnikové komunikace**  
+  Umožňuje zpracování textového obsahu ve velkém měřítku do formátů orientovaných na poštovní schránku.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Generování dat poštovní schránky**  
+  Automatizace může strukturovat na textu založená komunikační data pro workflow offline přístupu.
+
+* **Dávkové zpracovatelské řetězce**  
+  Velké textové datové sady mohou být programově připraveny pro operace ukládání ve stylu poštovní schránky.
+
+* **Systémy provozní kontinuity**  
+  Automatizovaný převod podporuje konzistentní zpracování komunikačních záznamů napříč řízenými prostředími.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

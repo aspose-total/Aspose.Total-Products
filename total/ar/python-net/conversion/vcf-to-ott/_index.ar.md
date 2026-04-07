@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل VCF إلى OTT يحول بيانات بطاقة الاتصال إلى قوالب مستندات مفتوحة تدعم إنشاء محتوى قابل للتكرار وموحد. هذا مفيد عندما يجب إدراج معلومات الاتصال في تخطيطات قابلة لإعادة الاستخدام لتوليد مستندات متسقة.
+
+في سير العمل الآلي، يتيح تحويل VCF إلى OTT لواجهات برمجة تطبيقات بايثون بناء مخرجات جاهزة للقوالب تحسن الكفاءة، تقلل جهد التنسيق، وتدعم عمليات تجميع المستندات القابلة للتوسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء قالب مفتوح**  
+  تحويل سجلات VCF إلى ملفات OTT لهياكل مستندات قابلة لإعادة الاستخدام.
+
+* **تخطيطات اتصال موحدة**  
+  إعداد معلومات الاتصال في تنسيق قالب قابل للتكرار.
+
+* **توثيق جاهز للمعالجة**  
+  دعم سير العمل القائم على القوالب مع توافق المستند المفتوح.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط أنابيب أتمتة القوالب**  
+  إنشاء قوالب OTT من بيانات الاتصال في عمليات جماعية.
+
+* **تجميع مستندات متسق**  
+  استخدام القوالب المحولة في سير العمل الذي يتطلب تنسيقًا قابلًا للتكرار.
+
+* **معالجة تنسيق مفتوح قابلة للتوسع**  
+  تطبيق واجهات برمجة تطبيقات بايثون لإنشاء أصول قوالب قابلة لإعادة الاستخدام بكفاءة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

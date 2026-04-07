@@ -53,7 +53,41 @@ outformat: MHTML
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOTM إلى MHTML يحول قوالب Word الممكّنة بالماكرو إلى مستندات MIME HTML تجمع بين المحتوى والموارد في ملف واحد صديق للويب. وهو مفيد لمشاركة المستندات القابلة للنقل، والعرض عبر المتصفح، والحفاظ على المحتوى المنسق في تنسيق مستقل.
+
+استخدام واجهات برمجة تطبيقات Python لتحويل DOTM إلى MHTML يدعم الأتمتة من خلال تمكين القوالب القابلة لإعادة الاستخدام للنشر كأصول متوافقة مع الويب بأقل جهد. هذا يحسن قابلية نقل المحتوى، يبسط تسليم المستندات، ويدعم خطوط عمل عرض قابلة للتوسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **العرض الويب القابل للنقل**
+  تحويل ملفات DOTM إلى MHTML للعرض الصديق للمتصفح في ملف واحد مُعبأ.
+
+* **مشاركة المستندات المستقلة**
+  الحفاظ على النص والتنسيق والموارد المرتبطة معًا لتوزيع موثوق.
+
+* **نشر القوالب**
+  إعادة توجيه قوالب المستندات إلى مخرجات موجهة للويب للبوابات أو الأرشيفات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تصدير الويب الآلي**
+  يمكن للأنظمة تحويل قوالب DOTM إلى ملفات MHTML لتسليم الويب دون تنسيق يدوي.
+
+* **سير عمل حزم المحتوى**
+  يدعم التحويل إنشاء ملفات مستندات مستقلة تلقائيًا للمشاركة والتخزين.
+
+* **خطوط أنابيب العرض القابلة للتوسع**
+  يمكن للوظائف البرمجية إنتاج كميات كبيرة من مخرجات MHTML من مستندات القوالب المتكررة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

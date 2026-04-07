@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API 中的 OTT 到 XLSB 转换将 OpenDocument 文本模板转换为二进制电子表格文件，针对大型工作簿场景下的高效存储和处理进行优化。当转换后的数据必须保持电子表格可用且受益于紧凑文件表示时，这非常有用。
+
+该转换通过实现可扩展的工作簿生成以支持数据密集型流程的自动化，有助于提升性能并在重复导出工作流中降低存储开销。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **紧凑的电子表格输出**  
+  生成二进制工作簿文件，以实现高效的存储和处理。
+
+* **大数据工作流支持**  
+  适用于生成的电子表格可能增大的场景。
+
+* **结构化内容交付**  
+  将模板内容转换为高性能的工作簿资产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **大批量工作簿生成**  
+  在大规模下自动化从 OTT 源导出 XLSB。
+
+* **存储高效的报告**  
+  为重复性流程创建紧凑的电子表格输出。
+
+* **面向性能的数据管道**  
+  在自动化电子表格工作流中支持更快的处理。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

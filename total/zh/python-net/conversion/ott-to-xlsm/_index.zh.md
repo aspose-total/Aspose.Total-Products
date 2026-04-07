@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API 中的 OTT 转换为 XLSM 将 OpenDocument 文本模板转换为支持高级工作簿自动化的宏启用电子表格。当转换后的内容必须放入包含可重用逻辑或脚本操作的电子表格时，这非常有价值。
+
+该转换通过将结构化文档内容与支持宏的电子表格环境相结合，提升自动化水平，实现更丰富的处理、验证和报告工作流。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **宏启用工作簿创建**  
+  生成适用于高级自动化操作的电子表格。
+
+* **动态数据处理**  
+  支持超越静态存储和显示的工作簿。
+
+* **模板内容复用**  
+  将基于文档的信息迁移到增强的电子表格格式中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自动化丰富工作簿生成**  
+  从 OTT 模板创建 XLSM 文件以供重复使用。
+
+* **电子表格逻辑集成**  
+  支持将转换数据与内置自动化相结合的工作流。
+
+* **可扩展的运营报告**  
+  为业务流程提供更丰富的工作簿输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

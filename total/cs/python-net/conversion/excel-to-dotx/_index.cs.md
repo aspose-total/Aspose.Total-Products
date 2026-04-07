@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Excel to DOTX conversion in Python enables spreadsheet content to be transformed into modern word template files for reusable and structured document generation. It is valuable for organizations that need clean, consistent templates built from data-rich spreadsheet sources.
+
+This conversion supports automation by helping Python applications generate template assets that can be reused across reporting, correspondence, and document assembly systems.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Opakovaně použitelné šablony Word**  
+  Převést obsah Excelu do souborů DOTX pro vytváření standardizovaných rozvržení dokumentů.
+
+* **Konzistentní návrh dokumentů**  
+  Vytvářet moderní šablony ze strukturovaných dat tabulek pro opakované použití.
+
+* **Podpora pracovního toku dokumentů**  
+  Připravit šablonové prostředky, které zjednoduší budoucí tvorbu dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované vytváření šablon**  
+  Generovat šablony DOTX přímo ze souborů Excel v rámci Pythonových pracovních postupů.
+
+* **Standardizace ve velkém měřítku**  
+  Použít automatizovaný převod k udržení konzistentních struktur dokumentů napříč odděleními.
+
+* **Publikování řízené šablonami**  
+  Vkládat převedené soubory DOTX do širších systémů, které dynamicky vytvářejí dokumenty.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

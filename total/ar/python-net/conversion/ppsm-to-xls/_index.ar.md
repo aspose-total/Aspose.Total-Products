@@ -64,7 +64,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+يدعم تحويل PPSM إلى XLS في بايثون تحويل محتوى الشرائح الممكّن بالماكرو إلى تنسيق جدول بيانات يُستخدم للتخزين الجدولي المنظم والتحليل. هذا مفيد عندما يجب جعل المعلومات من العروض التقديمية متاحة في شكل ورقة عمل للتعامل التشغيلي أو التقارير.
+
+ضمن سير عمل الأتمتة، يساعد تحويل PPSM إلى XLS على ربط محتوى العروض التقديمية بأنظمة تعتمد على جداول البيانات، مما يتيح استخراجًا قابلاً للتكرار، وتنظيمًا جدوليًا، ومعالجة مبسطة للخطوات اللاحقة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تحويل المحتوى الجدولي**  
+  ينقل معلومات الشرائح إلى بنية ورقة العمل لتسهيل التنظيم والتعامل.
+
+* **توافق جداول البيانات القديمة**  
+  يدعم سير العمل الذي لا يزال يعتمد على تنسيقات جداول البيانات التقليدية.
+
+* **إعداد التقارير**  
+  يساعد في إعداد البيانات المستخرجة من العروض التقديمية للحسابات، والمتابعة، والمراجعة المنظمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تصدير جداول البيانات تلقائيًا**  
+  يمكن لسكربتات بايثون إنشاء مخرجات XLS من ملفات PPSM في سير عمل تحويل دفعي.
+
+* **خطوط أنابيب تحويل البيانات**  
+  يدعم التحويل توجيه المحتوى المستخرج إلى أنظمة جداول البيانات التحليلية أو التشغيلية.
+
+* **دعم قديم قابل للتوسع**  
+  يتيح التحويل البرمجي التكامل مع بيئات جداول البيانات القديمة على نطاق واسع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

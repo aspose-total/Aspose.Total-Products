@@ -66,7 +66,46 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 CSV 转换为 DOCM 可以将结构化表格数据转换为支持高级格式和嵌入式自动化行为的宏启用文字处理文档。
+此转换对自动化系统非常有价值，因为它将数据转换与文档逻辑相结合，帮助工作流在减少手动编辑的同时实现更大的规模和更高的流程一致性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用报告**  
+  当生成的文档需要嵌入式自动化功能或脚本化操作时，将 CSV 数据转换为 DOCM 文件。
+
+* **面向流程的文档**  
+  生成将结构化内容与可重复的文档端行为相结合的 DOCM 文档。
+
+* **运营数据打包**  
+  将 CSV 数据集转换为适用于受控业务工作流和内部处理的宏启用文件。
+
+* **可重用的自动化文档**  
+  为依赖标准化文档例程的团队从结构化输入生成可重复的 DOCM 输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化表单填充**  
+  使用 Python API 将 CSV 数据转换为支持预构建文档操作和可重用逻辑的 DOCM 文件。
+
+* **工作流集成的文档生成**  
+  作为企业作业、报告系统或文档管理流程的一部分自动生成 DOCM 输出。
+
+* **批量宏文档创建**  
+  将大量 CSV 文件转换为 DOCM 格式，以实现可扩展且一致的自动化交付。
+
+* **规则驱动的内容组装**  
+  从 CSV 输入动态构建 DOCM 文档，同时保留面向自动化的结构以供下游任务使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

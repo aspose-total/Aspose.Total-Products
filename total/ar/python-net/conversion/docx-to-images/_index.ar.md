@@ -53,7 +53,44 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOCX إلى صور يحول مستندات معالجة النصوص إلى صيغ صور تلتقط التخطيط البصري وتنسيق صفحات المستند. يتيح هذا العملية مشاركة محتوى المستند أو أرشفته كملفات بصرية ثابتة.
+
+باستخدام واجهات برمجة تطبيقات بايثون، يمكن أتمتة تحويل DOCX إلى صورة لأنظمة معاينة المستندات، ومنصات نشر المحتوى، وعمليات الأرشفة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء معاينة المستند**  
+  يقوم بتحويل صفحات DOCX إلى صور للمعاينات السريعة.
+
+* **أرشفة بصرية للمستندات**  
+  يحافظ على مظهر المستند بصيغة صورة.
+
+* **سير عمل نشر المحتوى**  
+  يتيح تضمين محتوى المستند كصور.
+
+* **إنشاء لقطة صفحة**  
+  ينتج تمثيلات بصرية لصفحات المستند.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء مصغرات المستند تلقائيًا**  
+  يمكن للأنظمة تحويل ملفات DOCX إلى معاينات صور.
+
+* **خطوط تصدير الصور الدفعية**  
+  يمكن لسكربتات بايثون إنشاء صور من مجموعات مستندات كبيرة.
+
+* **منصات توزيع المحتوى**  
+  يمكن تحويل المستندات إلى صور لنشرها أو مشاركتها في سير العمل.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

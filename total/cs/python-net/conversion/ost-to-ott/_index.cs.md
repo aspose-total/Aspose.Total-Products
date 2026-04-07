@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod OST na OTT převádí obsah poštovní schránky do formátu šablony otevřeného dokumentu, což umožňuje vložit informace odvozené z e‑mailů do znovupoužitelných šablonových struktur. Je užitečný pro organizace, které chtějí standardní formátování a opakovatelnou kontrolu rozvržení v pracovních postupech s otevřenými dokumenty.
+
+V automatizačních kontextech podporuje převod OST na OTT škálovatelné generování šablon a standardizaci dokumentů z archivů poštovních schránek. Python API činí tento proces efektivním a spolehlivým, pomáhají týmům automatizovat opakovatelnou dokumentaci a reportingové pipeline.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Znovupoužitelné otevřené šablony**  
+  Převádí data poštovní schránky do souborů OTT pro opakovatelnou tvorbu dokumentů.
+
+* **Standardizované rozvržení dokumentace**  
+  Pomáhá aplikovat konzistentní strukturu na obsah odvozený z e‑mailů v prostředí otevřených dokumentů.
+
+* **Reportování založené na šablonách**  
+  Podporuje opakující se obchodní výstupy vytvořené z archivovaného komunikačního obsahu.
+
+* **Kompatibilita s otevřenými pracovními postupy**  
+  Usnadňuje použití informací z poštovní schránky v systémech šablon založených na standardech.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizace tvorby šablon**  
+  Python skripty převádějí obsah OST do OTT pro standardizovanou tvorbu dokumentů.
+
+* **Opakovatelné reportingové pipeline**  
+  Automatizované pracovní postupy vytvářejí otevřené dokumenty připravené k použití šablon z archivů poštovních schránek.
+
+* **Škálovatelné strukturování obsahu**  
+  Programatický převod podporuje rozsáhlou přípravu znovupoužitelných šablon dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

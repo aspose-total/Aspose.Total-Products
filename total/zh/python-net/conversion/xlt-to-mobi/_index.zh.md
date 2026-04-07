@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python 中的 XLT 转 MOBI 转换能够将 Excel 模板文件转换为适合便携阅读和数字分发的电子书友好格式。当需要将基于电子表格的内容重新用于以文本为中心的输出，以便在阅读设备或轻量级内容平台上更容易访问时，这非常有用。
+
+在现代自动化系统中，XLT 转 MOBI 转换支持内容再发布和多格式交付。它帮助将结构化的模板数据转换为可批量生成并通过数字渠道以编程方式分发的便携阅读资产。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **便携内容发布**  
+  将基于 XLT 的信息转换为 MOBI 文件，以便在支持的数字设备上阅读。
+
+* **知识分发**  
+  将电子表格模板内容重新用于轻量级格式，以实现更广泛的内容访问。
+
+* **结构化数据重新打包**  
+  将模板驱动的信息转化为顺序的、文档式的阅读体验。
+
+* **数字档案准备**  
+  为基于电子表格的材料创建便携内容版本，以实现长期可用性。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **多格式发布流水线**  
+  使用 Python API 在自动化发布工作流中从 XLT 模板生成 MOBI 输出。
+
+* **批量内容转换**  
+  以编程方式将大量电子表格模板转换为便携阅读文件。
+
+* **自动化分发系统**  
+  将生成的 MOBI 文件路由至数字图书馆、交付系统或内容仓库。
+
+* **文档再利用**  
+  通过可扩展的自动化将运营电子表格内容转化为可阅读的数字文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

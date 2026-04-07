@@ -66,7 +66,46 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 CSV 转换为 DOT 可以将结构化的表格数据转换为文字处理模板，从而在团队和系统之间标准化未来的文档创建。  
+此转换对自动化非常有用，因为它将基于 CSV 的数据结构转化为可重用的模板资产，提升一致性、可扩展性和流程效率。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **模板标准化**  
+  将 CSV 内容转换为 DOT 模板，以支持可重复的文档布局和结构化发布。
+
+* **旧版模板支持**  
+  为依赖旧模板格式的系统生成 DOT 文件，以实现兼容性和连续性。
+
+* **可重用内容框架**  
+  从结构化数据构建基于模板的输出，以用于重复的文档创建任务。
+
+* **受控文档格式化**  
+  使用 CSV 作为创建模板的来源，以在生成的文档中保持统一的结构。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板创建**  
+  使用 Python API 从 CSV 输入生成 DOT 模板，以实现可重复的文档工作流。
+
+* **文档工厂流水线**  
+  将 CSV 到 DOT 的转换集成到系统中，为下游用户或流程准备可重用的模板。
+
+* **批量模板生产**  
+  在批量操作中将多个 CSV 源转换为 DOT 模板，以支持规模化。
+
+* **基于规则的布局生成**  
+  基于 CSV 字段和转换逻辑，以编程方式定义模板内容和结构。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

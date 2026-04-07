@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM na EMLX konverze převádí makrem povolené dokumenty do souborů e‑mailových zpráv používaných v konkrétních ekosystémech úložišť pošty, což pomáhá zachovat obsah ve strukturovaném komunikačním formátu. To je užitečné, když je potřeba, aby obsah dokumentu odpovídal specifickým e‑mailovým pracovním postupům platformy nebo archivním požadavkům.
+
+V automatizačních kontextech umožňuje konverze DOCM na EMLX systematické generování, organizaci a uchovávání obsahu zpráv založených na dokumentech v řízených komunikačních prostředích.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Výstup zprávy specifický pro platformu**
+  Vytváří soubory zpráv přizpůsobené prostředím, která používají struktury úložiště EMLX.
+
+* **Archivace komunikace dokumentu**
+  Zachovává obsah dokumentu jako e‑mailové artefakty pro uchování nebo revizi.
+
+* **Kompatibilita pracovních postupů**
+  Podporuje systémy, které vyžadují ingestování souborů zpráv místo surového vstupu dokumentu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná generace souborů pošty**
+  Produkuje soubory EMLX ze zdrojů DOCM v opakovatelných zpracovatelských rutinách.
+
+* **Podpora pracovního postupu uchovávání**
+  Pomáhá archivovat komunikaci odvozenou z dokumentů ve strukturovaných poštovních repozitářích.
+
+* **Dávkové konverzní pipeline**
+  Škáluje konverzi pro velké množství souborů DOCM procházejících komunikačními pracovními postupy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

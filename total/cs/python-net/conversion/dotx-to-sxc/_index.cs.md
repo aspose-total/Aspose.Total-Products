@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod DOTX na SXC transformuje obsah šablony Word do staršího formátu tabulky používaného ve starších prostředích OpenOffice. Je relevantní, když je třeba exportovat strukturovaná data dokumentu pro kompatibilitu se staršími ekosystémy tabulek.
+
+Tento převod podporuje automatizaci tím, že umožňuje Python API připravit výstup tabulky odvozený z dokumentu pro archivaci, interoperabilitu a pracovní postupy zaměřené na systémovou kompatibilitu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Kompatibilita se staršími tabulkovými programy**
+  Exportujte obsah dokumentu do formátu vhodného pro starší tabulkové nástroje.
+
+* **Opětovné využití strukturovaných dat**
+  Přesuňte informace ze šablony do tabulkových pracovních postupů, kde je podpora starších verzí důležitá.
+
+* **Integrace s historickými systémy**
+  Podporujte výměnu dat s prostředími, která jsou stále závislá na starších otevřených formátech.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované exporty do starších formátů**
+  Generujte soubory SXC ze šablon DOTX v procesech zaměřených na kompatibilitu.
+
+* **Datové migrační pipeline**
+  Použijte převedený výstup k propojení obsahu dokumentu se staršími tabulkovými systémy.
+
+* **Zpracování archivních formátů**
+  Uchovejte strukturovaná data ze šablon v tabulkových aktivech kompatibilních se staršími verzemi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

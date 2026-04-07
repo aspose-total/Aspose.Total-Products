@@ -65,7 +65,46 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+CSV to DOC conversion using Python APIs enables structured tabular data to be transformed into legacy word-processing documents that are easier to review, share, and archive across business and documentation workflows.
+This conversion supports automation by turning raw datasets into formatted outputs that improve consistency, reduce manual effort, and fit smoothly into document generation pipelines.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření obchodních zpráv**  
+  Převést záznamy CSV do DOC dokumentů pro čitelné souhrny, interní zprávy a formátovanou prezentaci dat.
+
+* **Podpora starých pracovních postupů**  
+  Generovat DOC soubory pro prostředí, která stále závisí na starších formátech textových procesorů kvůli kompatibilitě.
+
+* **Dokumentace řízená daty**  
+  Transformovat strukturovaný vstup CSV do narativního nebo tabulkového DOC obsahu pro publikování a revizi.
+
+* **Znovupoužitelný výstup zpráv**  
+  Vytvářet standardizované DOC soubory z opakujících se CSV datových sad pro udržení konzistentní kvality dokumentace.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Plánovaná generace dokumentů**  
+  Automatizovat opakované exporty CSV do DOC pro reportovací pracovní postupy, které běží podle pevně stanovených plánů.
+
+* **Backendové zpracovatelské pipeline**  
+  Integrovat logiku převodu v Pythonu do systémů, které automaticky převádějí surová data na DOC výstupy.
+
+* **Hromadné konverzní operace**  
+  Zpracovávat více CSV souborů do formátu DOC s minimálním ručním zásahem a předvídatelným formátováním.
+
+* **Vytváření výstupu na základě šablon**  
+  Použít programové pravidla k sestavení DOC souborů z dynamického CSV obsahu pro škálovatelnou automatizaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

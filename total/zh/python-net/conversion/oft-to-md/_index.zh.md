@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 OFT 转换为 MD 可将 Outlook 邮件模板转换为 Markdown 文件，实现轻量级、结构化、可移植的基于文本的内容管理。当模板内容需要在文档系统、开发者工作流或内容发布流水线中重复使用时，这非常有用。
+
+在自动化驱动的环境中，OFT 到 MD 的转换支持版本控制、轻松编辑，并可无缝集成静态站点生成器和文档平台。它提升了内容的可移植性并简化了程序化处理。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **文档复用**  
+  将 OFT 模板转换为 Markdown，以便纳入指南、知识库或内部文档。
+
+* **版本控制的内容管理**  
+  将转换后的内容存储在基于文本的仓库中，以便跟踪和协作编辑。
+
+* **结构化发布准备**  
+  为静态站点或基于 Markdown 的发布系统准备来源于邮件的内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **内容流水线自动化**  
+  自动将 OFT 文件转换为 Markdown，以用于发布和文档工作流。
+
+* **基于仓库的模板管理**  
+  将转换后的 MD 文件推送到受源代码管理的系统，以实现可扩展的维护。
+
+* **程序化内容转换**  
+  使用 Python API 对模板内容进行标准化并分发到现代基于文本的平台。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

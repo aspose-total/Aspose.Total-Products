@@ -53,7 +53,47 @@ outformat: MHTML
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 PDF 转换为 MHTML 有助于将文档内容转换为一种将标记和嵌入资源合并为单个文件的网络存档格式。这使得 PDF 信息更容易在兼容浏览器的环境中保存、显示或分发。
+
+自动化通过实现从静态文档可扩展地生成可移植的 Web 就绪文件，提高了此转换的价值。它支持内容发布、归档以及与需要自包含 Web 文档输出的系统的集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **网络存档创建**  
+  将 PDF 文件转换为 MHTML，以便在基于浏览器的存储和查看中使用。
+
+* **可移植文档发布**  
+  以自包含的 Web 友好格式共享文档内容。
+
+* **内容保存**  
+  在适合 Web 工作流的存档中保留视觉和文本信息。
+
+* **系统互操作性**  
+  在文档交换必须符合浏览器兼容标准的情况下使用 MHTML 输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化 Web 转换流水线**  
+  Python 脚本可以将 PDF 转换为 MHTML 文件，用于数字出版系统。
+
+* **归档分发工作流**  
+  转换后的输出可以交付给管理网络存档内容的仓库。
+
+* **批量文档发布**  
+  大量 PDF 可以在无需人工干预的情况下转换为可移植的 Web 文件。
+
+* **动态内容导出**  
+  系统可以按需生成文档的 MHTML 版本，以便共享或审阅。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

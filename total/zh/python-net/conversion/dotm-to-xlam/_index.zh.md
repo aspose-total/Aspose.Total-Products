@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM 到 XLAM 的转换将带宏的 Word 模板转换为 Excel 加载项文件，以实现电子表格自动化和可重复使用的功能分发。当基于模板的逻辑或内容需要以可重复使用的扩展形式支持以 Excel 为中心的工作流时，这一转换非常有价值。
+
+使用 Python API 进行 DOTM 到 XLAM 的转换通过使结构化内容和功能从文档模板迁移到电子表格加载项工作流来支持自动化。这有助于标准化可重复使用的操作，并支持可扩展的业务流程集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **电子表格加载项准备**
+  将 DOTM 源转换为 XLAM 输出，以支持可重复使用的面向 Excel 的工作流。
+
+* **可重复使用的自动化资产创建**
+  将基于模板的内容重新用于适合重复电子表格使用的文件。
+
+* **运营标准化**
+  支持对源自文档模板的可重复使用的电子表格功能进行受控分发。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化加载项生成**
+  系统可以在高级电子表格工作流中从 DOTM 模板创建兼容 XLAM 的输出。
+
+* **可重复使用的业务逻辑分发**
+  该转换支持对可重复的电子表格支持资产进行编程化准备。
+
+* **批量自动化打包**
+  编程化处理能够实现对模板文件的大规模转换为 XLAM 输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

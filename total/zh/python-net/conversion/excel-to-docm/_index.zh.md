@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python 中的 Excel 到 DOCM 转换允许将电子表格内容导出为宏启用的文字处理文档，以支持高级文档工作流。当转换后的文件必须保持可编辑且支持文档环境中的宏操作时，这非常有用。
+
+此转换与自动化相关，因为它将电子表格数据与可编程的文档行为相连接，从而实现交互式和面向流程的文件的可扩展生成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用报告**  
+  将 Excel 文件转换为 DOCM 文档，以在文字处理工作流中支持自动化操作。
+
+* **流程文档**  
+  准备可编辑文件，将结构化数据与嵌入的文档自动化功能相结合。
+
+* **运营模板**  
+  使用电子表格数据填充专为可重复的宏驱动任务设计的文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化文档组装**  
+  将 Excel 输入转换为 DOCM 输出，以满足需要可编辑且可脚本化文档的工作流。
+
+* **内部流程自动化**  
+  支持依赖宏启用文件进行格式化、验证或引导完成的部门。
+
+* **数据到文档管道**  
+  使用 Python API 从基于电子表格的源数据以编程方式生成 DOCM 文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

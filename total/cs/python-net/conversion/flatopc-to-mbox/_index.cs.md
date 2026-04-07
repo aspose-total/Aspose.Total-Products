@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu F
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FlatOPC na MBOX převod pomocí Python API umožňuje převést strukturovaný obsah dokumentu do formátu poštovního archivu, který ukládá kolekce e‑mailových zpráv v jediném souboru. Je to cenné pro scénáře hromadné archivace, migrace a dlouhodobého ukládání, kde je potřeba efektivně seskupovat komunikaci odvozenou z dokumentů.
+
+V prostředích zaměřených na automatizaci podporuje převod FlatOPC na MBOX škálovatelné archivní pipeline, konsolidaci obsahu a interoperabilitu systémů tím, že snižuje úsilí potřebné k balení velkých objemů dat orientovaných na zprávy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytvoření poštovní archivu**  
+  Převést obsah FlatOPC do souborů MBOX pro konsolidované uložení zpráv odvozených z dokumentů.
+
+* **Hromadná archivace komunikace**  
+  Použít výstup MBOX k udržení více souvisejících záznamů zpráv pohromadě v jednom snadno spravovatelném archivu.
+
+* **Migrační a exportní pracovní postupy**  
+  Podporovat přenos obsahu mezi systémy, které používají formáty poštovních archivů.
+
+* **Správa historických záznamů**  
+  Uchovávat strukturovaná data komunikace ve formátu vhodném pro zálohování, revizi a uchování.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Generování archivů ve velkém objemu**  
+  Automatizace vylepšuje tento scénář převodem mnoha zdrojů FlatOPC do organizovaných výstupů MBOX ve velkém měřítku.
+
+* **Pipelines pro zachování souladu**  
+  Téma zlepšuje automatizované pracovní postupy balením zpráv odvozených z dokumentů pro dlouhodobé archivní zpracování.
+
+* **Konsolidovaný export zpráv**  
+  Programové procesy mohou shromažďovat převedené výstupy do poštovních archivů podle projektů, dat nebo kategorií.
+
+* **Orchestrace migrace dat**  
+  Automatizované systémy mohou připravovat soubory MBOX jako součást větších migračních a modernizačních pracovních postupů repozitářů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

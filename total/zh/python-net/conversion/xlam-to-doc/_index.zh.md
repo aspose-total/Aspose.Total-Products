@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 XLAM 转换为 DOC，使团队能够将 Excel 加载项内容转换为传统 Word 文档格式，以实现更广泛的可访问性、报告和基于文档的审查工作流。当需要以兼容旧文档系统和传统业务环境的格式共享结构化的电子表格驱动信息时，此过程非常有用。
+
+在自动化流水线中，XLAM 到 DOC 的转换支持可重复的文档生成，减少手动复制粘贴工作，并帮助在归档、合规和内部沟通流程中标准化输出。它对将电子表格逻辑或嵌入内容转换为可读文档的可扩展系统尤为有价值。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **传统文档分发**  
+  将基于 XLAM 的内容转换为 DOC 文件，以适用于仍依赖旧式文字处理标准的环境。
+
+* **报告准备**  
+  帮助将电子表格衍生的数据或文档转换为可编辑的文本文件，用于业务报告。
+
+* **内部文档工作流**  
+  支持从加载项资源创建可读文档，用于培训、审计或流程记录。
+
+* **内容可访问性**  
+  使技术或结构化的 XLAM 内容在以文档为中心的系统中更易于审阅。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量文档生成**  
+  自动化可以将多个 XLAM 文件转换为 DOC 文档，以用于大规模报告或记录保存任务。
+
+* **合规文档流水线**  
+  定时工作流可以将加载项输出转换为传统 Word 文件，以用于受监管的存储和审查过程。
+
+* **基于模板的报告**  
+  Python API 可以动态提取相关内容，并使用可重复的业务规则将其发布为 DOC 格式。
+
+* **跨系统内容交付**  
+  自动转换帮助将源自电子表格的内容转移到下游团队使用的文档工作流中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

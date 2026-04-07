@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 的 XPS 转 MSG 转换，使得能够将固定布局文档转换为常用于桌面消息环境的单个电子邮件消息文件。当需要将文档内容保留为独立的消息记录以供审阅、共享或结构化通信工作流时，这非常有益。
+
+自动化通过减少手动消息创建、实现可重复的文档到消息的转换，并支持与归档、审批和企业通信系统的集成，显著提升价值。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **独立消息文件创建**  
+  将 XPS 文档转换为 MSG 文件，以实现有序的电子邮件式存储和交换。
+
+* **文档到通信的转换**  
+  帮助将固定布局文档内容重新用于业务工作流中的消息记录。
+
+* **可审阅的消息输出**  
+  支持需要将转换后的内容以单独消息形式打开、检查或批准的工作流。
+
+* **企业记录管理**  
+  实现以消息文件格式对文档衍生的通信进行结构化保存。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **程序化消息生成**  
+  系统可以在 XPS 文档完成后自动创建 MSG 文件。
+
+* **审批工作流路由**  
+  转换后的消息可以输入到自动化审查或签署流程中。
+
+* **批量转换操作**  
+  大型 XPS 集合可以在一致且可扩展的流水线中转换为 MSG 输出。
+
+* **归档与检索自动化**  
+  从文档生成的消息文件可以自动索引并存储，以便后续访问。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

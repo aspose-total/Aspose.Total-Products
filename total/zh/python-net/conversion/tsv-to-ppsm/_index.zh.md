@@ -65,7 +65,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV 到 PPSM 的转换将结构化表格数据转换为用于高级行为演示播放的宏启用幻灯片文件。它在需要将可直接呈现的输出与受控、数据驱动的演示系统对齐的工作流中非常有用。
+
+借助 Python API，TSV 到 PPSM 的转换可以实现自动化，从而简化幻灯片制作，支持高级演示工作流，并提升在重复性数据到演示管道中的可扩展性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用幻灯片**  
+  将 TSV 数据集转换为适用于高级演示环境的幻灯片文件。
+
+* **演示播放交付**  
+  支持基于结构化源数据构建的直接观看演示输出。
+
+* **自动化报告幻灯片**  
+  帮助将重复性数据打包为可用于运营的幻灯片资产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **数据到幻灯片自动化**  
+  Python API 可以将 TSV 文件转换为具有可重复逻辑的 PPSM 输出。
+
+* **高级演示工作流**  
+  自动化支持为需要更丰富功能的环境生成幻灯片。
+
+* **可扩展批量转换**  
+  可以高效地将大型 TSV 集合处理为 PPSM 文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

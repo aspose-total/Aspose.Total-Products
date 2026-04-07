@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML إلى XLTX يحول محتوى المستندات المهيكلة إلى ملفات قوالب جداول بيانات حديثة لإنشاء دفاتر عمل قابلة لإعادة الاستخدام. يكون مفيدًا عندما تحتاج تخطيطات المستندات أو النماذج أو هياكل التقارير إلى أن تصبح قوالب جداول بيانات موحدة.
+
+تجعل واجهات برمجة التطبيقات في بايثون تحويل WordML إلى XLTX فعالًا من خلال استخراج البنية برمجيًا وتوليد مخرجات جداول بيانات جاهزة للقوالب لتدفقات عمل تجارية قابلة للتوسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء قالب جدول بيانات حديث**
+  يحوّل محتوى WordML إلى ملفات XLTX لتصميم دفاتر عمل قابلة لإعادة الاستخدام.
+
+* **توحيد تخطيط البيانات المتكرر**
+  يساعد على الحفاظ على بنية جداول بيانات متسقة عبر العمليات المتكررة.
+
+* **أسس تقارير قابلة لإعادة الاستخدام**
+  يحوّل تخطيطات المستندات إلى قوالب جداول بيانات موثوقة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **أتمتة دفتر العمل القائم على القوالب**
+  ينشئ قوالب XLTX تلقائيًا من مستندات WordML المهيكلة.
+
+* **تدفقات عمل توحيد العمليات**
+  يدعم إنشاء جداول بيانات قابلة للتكرار من تخطيطات المصدر المعتمدة.
+
+* **خطوط أنابيب من المستند إلى القالب**
+  يتيح تحويلًا قابلاً للتوسع لهياكل المستندات إلى قوالب دفاتر عمل حديثة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

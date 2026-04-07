@@ -66,7 +66,42 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+在 Python 中，XLTM 转换为 RTF 允许将启用宏的 Excel 模板转换为富文本文档，兼顾格式支持和广泛的兼容性。  
+当需要在不同应用程序之间以保持灵活性的文本文档格式共享基于工作簿的内容时，这非常有用。
+
+在自动化工作流中，XLTM 转换为 RTF 支持内容可移植性，简化跨平台文档处理，并帮助标准化从电子表格模板生成的格式化文本。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **格式化文本输出**  
+  将电子表格模板内容转换为富文本文档，保留基本的格式结构。
+
+* **跨应用共享**  
+  支持在需要灵活且广泛可读的文本格式的系统之间进行文档交换。
+
+* **基于模板的文档编制**  
+  帮助从结构化的工作簿模板生成可读的文本文档，以满足归档或编辑需求。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化富文本生成**  
+  在可重复的文档创建工作流中，从 XLTM 模板生成 RTF 文件。
+
+* **兼容遗留系统的文档流水线**  
+  支持依赖广泛兼容的格式化文本输出的环境。
+
+* **批量文本文档转换**  
+  实现工作簿模板大规模转换为富文本文件，以供下游使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

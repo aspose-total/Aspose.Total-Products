@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOTX إلى XLT يحول محتوى قالب Word إلى تنسيق قالب جدول بيانات قديم لإنشاء دفاتر عمل قابلة لإعادة الاستخدام. وهو مفيد عندما تحتاج الهياكل الجدولية المستمدة من المستند إلى أن تصبح أسس جداول بيانات قابلة للتكرار في بيئات أقدم.
+
+يدعم هذا التحويل الأتمتة من خلال مساعدة واجهات برمجة تطبيقات Python على إنشاء أصول جداول بيانات موجهة بالقوالب لتقارير متسقة وتدفقات عمل تشغيلية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **قوالب جداول البيانات القديمة**
+  تحويل محتوى المستند إلى قوالب دفاتر عمل قابلة لإعادة الاستخدام للأنظمة القائمة.
+
+* **أسس تقارير متسقة**
+  توحيد إنشاء جداول البيانات المتكررة من هياكل المستند المعتمدة.
+
+* **تدفقات عمل بيانات قائمة على القوالب**
+  إعادة توجيه المحتوى المدفوع بالقوالب إلى ملفات بدء جداول البيانات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إخراج القالب المؤتمت**
+  إنشاء ملفات XLT من قوالب DOTX لإنشاء جداول بيانات قابلة للتكرار.
+
+* **خطوط تقارير موحدة**
+  استخدام القوالب المحولة لإنتاج دفاتر عمل متسقة عبر الفرق.
+
+* **سلاسل قالب من المستند إلى دفتر العمل**
+  ربط المستندات المهيكلة بأسس جداول بيانات قابلة لإعادة الاستخدام برمجيًا.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

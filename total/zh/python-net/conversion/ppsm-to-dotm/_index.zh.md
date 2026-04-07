@@ -66,7 +66,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPSM 到 DOTM 的 Python 转换使启用宏的幻灯片内容能够转换为启用宏的文档模板，以实现结构化和自动化的文档生成。当演示文稿内容必须输入到依赖高级文档自动化功能的模板驱动工作流时，这非常有价值。
+
+对于可扩展的自动化，PPSM 到 DOTM 的转换使组织能够将标准化格式与支持宏的文档模板相结合，从而提升文档生产环境中的可重复性、控制力和效率。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用模板创建**  
+  将演示文稿内容转换为可重复使用的模板，旨在用于自动化文档工作流。
+
+* **标准化文档组装**  
+  支持从演示文稿衍生的材料创建受控的文档结构。
+
+* **流程驱动的内容复用**  
+  使内容能够重新用于在团队和系统之间反复使用的模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板库**  
+  Python API 可以生成 DOTM 输出，用于集中式模板库。
+
+* **面向工作流的文档生成**  
+  转换支持将源提取与模板化自动化逻辑相结合的流水线。
+
+* **可扩展的内容分发**  
+  编程过程可以在各部门之间交付具有一致结构的宏启用模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

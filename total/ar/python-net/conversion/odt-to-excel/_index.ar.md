@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ODT إلى Excel يحول محتوى المستند إلى صيغ جاهزة للجداول الإلكترونية مناسبة للمراجعة المنظمة، والتحليل، والتعاون. يكون ذلك ذا قيمة عندما تحتوي المستندات النصية على جداول أو قوائم أو سجلات تحتاج إلى التعامل معها في بيئة قائمة على الشبكة.
+
+من أجل الأتمتة، يتيح تحويل ODT إلى Excel استخراجًا قابلًا للتوسع للبيانات التجارية القابلة للاستخدام من المستندات. تدعم واجهات برمجة تطبيقات Python التحويل الدفعي، والتحقق، وتوجيه المخرجات إلى تقارير أو سير عمل تشغيلي.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **الحفاظ على الجداول**  
+  ينقل البيانات المنظمة من المستندات إلى تنسيقات الجداول الإلكترونية.
+
+* **دعم التحليل التجاري**  
+  يجعل المعلومات المستندة إلى المستندات أسهل في الفرز، والتصفية، والمراجعة.
+
+* **نقل البيانات التشغيلية**  
+  يحول السجلات للاستخدام في التخطيط، أو التدقيق، أو التقارير.
+
+* **تحرير تعاوني**  
+  يمكن الفرق من العمل بالمحتوى المستخرج في صيغة جدول إلكتروني مألوفة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **استخراج البيانات القائم على خطوط الأنابيب**  
+  يمكن لوظائف Python سحب الجداول من ملفات ODT وحفظها في مخرجات متوافقة مع Excel.
+
+* **إعداد تقارير دفعي**  
+  يمكن تحويل مستندات متعددة لدورات تحليل متكررة.
+
+* **التحقق والهيكلة**  
+  يمكن للقواعد الآلية تنظيف وتنظيم البيانات المستخرجة قبل التصدير.
+
+* **التسليم عبر الأنظمة**  
+  يمكن توجيه الجداول المحولة إلى التخزين أو التقارير أو أنظمة المراجعة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

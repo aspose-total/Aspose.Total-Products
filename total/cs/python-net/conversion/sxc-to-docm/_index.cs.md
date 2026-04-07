@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod SXC na DOCM převádí obsah pocházející z tabulky do formátu dokumentu s podporou maker, který je vhodný pro pokročilé pracovní postupy vyžadující vestavěné automatizační možnosti. To je užitečné, když je třeba přenést data z tabulky do dokumentů, které podporují skriptované formátování, logiku nebo opakující se akce.
+
+Pomocí Python API zlepšuje převod SXC na DOCM provozní efektivitu tím, že umožňuje automatizovanou tvorbu interaktivních nebo připravených na makra dokumentů v rámci strukturovaných podnikových pracovních postupů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Macro-Ready Reporting**  
+  Převádí obsah tabulky do dokumentů připravených pro formátování nebo zpracování založené na makrech.
+
+* **Reusable Document Templates**  
+  Podporuje pracovní postupy, kde data z tabulky musí vyplnit dokumenty navržené pro opakované automatizované použití.
+
+* **Operational Documentation**  
+  Pomáhá vytvářet dokumenty, které kombinují importovaný obsah s vestavěnou logikou pro vnitřní provádění procesů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automated Template Population**  
+  Používá Python API k napojení dat z tabulky do pracovních postupů s makry s minimálním ručním úsilím.
+
+* **Document Processing Pipelines**  
+  Umožňuje end-to-end automatizaci, kde generované soubory DOCM jsou předány do schvalovacích nebo transformačních systémů.
+
+* **Rule-Based Content Assembly**  
+  Podporuje dynamické vytváření dokumentů pro scénáře vyžadující skriptované chování po převodu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

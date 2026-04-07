@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 的 Word 转 VCF 转换将 Word 文档中的联系人相关信息转换为 vCard 文件，以便更轻松地共享并导入到联系人管理系统中。当文档中存储的目录、地址列表或个人资料详情需要转化为结构化的联系人记录时，这非常有价值。
+
+在自动化工作流中，此转换实现了联系人数据的可靠提取和打包，支持同步目录、入职流程以及简化的通信管理。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **联系人记录创建**
+  将文档中的联系人信息转换为可导入的 vCard 文件。
+
+* **目录现代化**
+  帮助将静态的基于 Word 的列表转变为结构化的数字联系人资产。
+
+* **信息共享**
+  使在系统之间分发标准化的联系人记录更加便捷。
+
+* **CRM 与联系人工具准备**
+  支持将文档中持有的联系人数据迁移到运营平台。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **批量联系人提取**
+  自动将基于 Word 的目录转换为 VCF 文件，以供导入工作流使用。
+
+* **入职与分发流水线**
+  从已批准的文档生成联系人记录，用于内部或外部共享。
+
+* **系统同步支持**
+  使用 VCF 输出保持联系人相关系统与文档来源的一致性。
+
+* **结构化数据复用**
+  将转换后的联系人文件集成到更广泛的通信自动化流程中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod DOT na EMLX transformuje šablony dokumentů do formátu e‑mailových souborů, který je běžně používán v některých e‑mailových ekosystémech. To je užitečné, když je obsah řízený šablonou třeba připravit pro platformně specifické ukládání e‑mailů nebo migrační scénáře.
+
+Pomocí Python API mohou týmy automatizovat tvorbu výstupů EMLX ze souborů DOT, což pomáhá standardizovat generování zpráv a zjednodušit integraci s cílenými e‑mailovými pracovními postupy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Export e‑mailu specifického pro platformu**
+  Převést obsah DOT do EMLX pro kompatibilitu s podporovanými e‑mailovými prostředími.
+
+* **Migrace e‑mailu založená na šablonách**
+  Přetvořit šablony pro zpracování textu na strukturovaná e‑mailová aktiva během systémových přechodů.
+
+* **Zachování zpráv**
+  Uložit komunikace odvozené z dokumentů do vyhrazeného formátu e‑mailových souborů pro opětovné použití nebo revizi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná konverze e‑mailového formátu**
+  Python úlohy mohou generovat soubory EMLX ze šablon DOT v opakujících se pracovních postupech.
+
+* **Procesy podpory migrace**
+  Konverze pomáhá přesunout obsah šablon do e‑mailových ekosystémů s minimálním ručním úsilím.
+
+* **Dávková tvorba výstupů**
+  Programové pipeline mohou ve velkém měřítku vytvářet soubory EMLX z více zdrojových dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

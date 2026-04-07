@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS 到 DOTX 的转换将电子表格文件转换为现代基于 XML 的文档模板。这些模板能够实现结构化文档生成，同时保持与现代文档编辑环境的兼容性。
+
+基于 Python 的转换管道允许从电子表格自动创建 DOTX 模板。这实现了高效的模板生成、可扩展的自动化以及与文档生产工作流的集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **可重用文档模板**  
+  将电子表格结构转换为现代文档模板。
+
+* **结构化文档框架**  
+  使用基于电子表格的数据定义模板布局。
+
+* **内容格式标准化**  
+  创建基于电子表格数据的统一文档模板。
+
+* **模板归档**  
+  存储从电子表格创建的可重用文档结构。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板生成**  
+  Python 工作流从电子表格输入生成 DOTX 模板。
+
+* **批量模板处理**  
+  系统将多个 ODS 文件转换为可重用模板。
+
+* **动态文档系统**  
+  模板生成支持自动化文档创建流水线。
+
+* **工作流标准化**  
+  转换管道在各系统间保持一致的模板结构。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

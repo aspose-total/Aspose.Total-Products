@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل MSG إلى WordML يحول رسائل البريد الإلكتروني إلى تنسيق معالجة كلمات قائم على XML لتمثيل المستندات المهيكلة والتحويل. وهو مفيد عندما يجب أن يظل محتوى المستند قابلاً للقراءة آليًا ومناسبًا للتحليل المتقدم أو مهام التفاعل.
+
+في سياق الأتمتة، تدعم سير عمل تحويل MSG إلى WordML معالجة XML، وأنابيب التحويل، وسيناريوهات تكامل الأنظمة. فهي تساعد على ربط المحتوى المستمد من البريد الإلكتروني بهندسة المستندات المهيكلة والتلاعب البرمجي.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إخراج مستند XML مهيكل**  
+  تمثيل محتوى الرسالة في تنسيق معالجة كلمات قائم على الترميز.
+
+* **تبادل محتوى قابل للتشغيل البيني**  
+  دعم سير العمل الذي يعتمد على هياكل المستند القابلة للقراءة آليًا.
+
+* **دعم التحويل المتقدم**  
+  تمكين التحليل التفصيلي وتعديل محتوى البريد الإلكتروني المحول.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **أنابيب معالجة XML**  
+  تحويل ملفات MSG إلى WordML لأغراض التحويل المهيكل ومهام التحقق.
+
+* **سير عمل تكامل الأنظمة**  
+  تبادل محتوى المستند بين أدوات الأتمتة باستخدام تنسيقات قائمة على الترميز.
+
+* **هندسة المستندات برمجيًا**  
+  تطبيق منطق مكتوب سكريبت على المحتوى المستمد من الرسائل في بيئات مدفوعة بـ XML.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

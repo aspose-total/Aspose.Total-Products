@@ -53,7 +53,41 @@ Používáme API [Aspose.Words for Python via .NET](https://products.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX to Images conversion converts Word template content into visual output for previewing, sharing, publishing, and archival purposes. It is useful when document layouts must be preserved as image assets for easy access across platforms.
+
+This conversion supports automation by allowing Python APIs to generate image-based renditions of templates for content delivery, document previews, and visual workflows that do not depend on editable formats.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování náhledů dokumentů**
+  Vykreslete obsah šablony jako obrázky pro rychlé prohlížení a distribuci.
+
+* **Vizuální archivace**
+  Zachovejte vzhled dokumentu ve formátu, který je snadno uložitelný a referencovatelný.
+
+* **Sdílení napříč platformami**
+  Sdílejte obsah dokumentu vizuálně, aniž byste potřebovali editační software.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Potrubí miniatur a náhledů**
+  Automaticky vytvářejte náhledy obrázků z DOTX souborů pro portály a repozitáře.
+
+* **Publikační pracovní postupy**
+  Převádějte šablony na obrázky pro webové stránky, zprávy nebo vizuální dokumentační systémy.
+
+* **Úlohy rozsáhlého renderování**
+  Zpracovávejte dávky šablon do sad obrázků pro standardizované dodání výstupu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

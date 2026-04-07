@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование документов в ODP меняет содержимое Word в файлы презентаций OpenDocument, поддерживающие слайд‑ориентированную коммуникацию в экосистемах открытого офиса. Это ценно, когда повествовательный или отчетный контент необходимо превратить в редактируемые презентации.
+
+Автоматизация с помощью Python API для преобразования DOC в ODP помогает упростить создание презентаций, сократить время ручного форматирования и интегрировать контент, основанный на документах, в совместные рабочие процессы со слайдами.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Создание презентаций**
+  Преобразуйте содержимое документа в слайды ODP для совещаний, обучения или брифингов.
+
+* **Сотрудничество с открытыми форматами**
+  Поддерживайте рабочие процессы презентаций, зависящие от офисных форматов, основанных на стандартах.
+
+* **Повторное использование отчётов**
+  Повторно используйте существующий материал документа в структуре, готовой к слайдам, для визуального представления.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Генерация наборов слайдов**
+  Автоматически преобразуйте отчёты DOC в презентации ODP для повторного использования.
+
+* **Кроссплатформенные офисные рабочие процессы**
+  Используйте преобразование на основе Python для поддержки открытых офисных сред в масштабе.
+
+* **Публикация на основе шаблонов**
+  Программно создавайте файлы презентаций из структурированных источников документов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

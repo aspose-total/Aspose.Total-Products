@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu W
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod WordML na VCF transformuje kontaktní informace uložené v dokumentech na soubory vCard, které lze importovat do systémů pro správu kontaktů. To je užitečné, když je potřeba, aby se jména, telefonní čísla, adresy nebo související údaje uložené v dokumentech staly standardizovanými záznamy kontaktů.
+
+Pomocí Python API lze převod WordML na VCF automatizovat tak, aby extrahoval relevantní kontaktní pole a generoval přenositelné výstupy vCard pro CRM, adresáře a synchronizační pracovní toky.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Extrahování záznamů kontaktů**
+  Převádí kontaktní údaje z dokumentů WordML do importovatelných VCF souborů.
+
+* **Podpora adresářů a CRM**
+  Pomáhá přesunout kontaktní data uložená v dokumentech do strukturovaných kontaktních systémů.
+
+* **Přenosné sdílení kontaktů**
+  Umožňuje standardizovanou výměnu kontaktních informací napříč platformami.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Hromadná generace kontaktů**
+  Automatizuje tvorbu VCF souborů z adresářů, formulářů nebo seznamů kontaktů uložených ve WordML.
+
+* **Příprava dat pro CRM**
+  Podporuje načítání standardizovaných záznamů kontaktů do automatizovaných podnikových systémů.
+
+* **Umožnění synchronizačních pracovních toků**
+  Převádí kontaktní údaje uložené v dokumentech do přenosných souborů pro opakovanou synchronizaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

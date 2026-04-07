@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS 到 DOT 的转换将电子表格文件转换为用于结构化文档创建的文档模板格式。这使得基于电子表格的数据或结构可以作为可重用文档模板的基础。
+
+基于 Python 的转换工作流能够自动从电子表格内容创建文档模板。这种方法支持可扩展的文档生成、模板标准化以及跨文档系统的高效自动化。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **从数据创建模板**  
+  将电子表格结构转换为可重用的文档模板。
+
+* **标准化文档布局**  
+  使用电子表格数据作为一致文档格式的基础。
+
+* **内容结构化**  
+  将表格信息转换为可用于模板的文档结构。
+
+* **文档工作流准备**  
+  准备从电子表格数据集派生的模板文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **模板生成流水线**  
+  Python 工作流将电子表格转换为可重用的文档模板。
+
+* **自动化模板管理**  
+  系统生成并维护从结构化电子表格数据派生的模板。
+
+* **批量模板转换**  
+  自动化服务处理多个 ODS 文件以创建标准化模板。
+
+* **动态文档创建系统**  
+  从电子表格生成的模板支持自动化文档生产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

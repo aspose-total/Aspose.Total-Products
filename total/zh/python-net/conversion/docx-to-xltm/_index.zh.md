@@ -66,7 +66,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX 到 XLTM 的转换将文字处理文档转换为宏启用的电子表格模板文件。此格式支持在需要高级自动化或可重用逻辑的环境中创建可重复的电子表格。
+
+使用 Python API，DOCX 到 XLTM 的转换可以在企业报告系统、财务工作流和运营模板管理平台中实现自动化。它使得从文档来源大规模生成高级电子表格模板成为可能。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用的模板创建**  
+  将 DOCX 内容转换为具有高级功能支持的可重用电子表格模板。
+
+* **可重复的运营工作流**  
+  帮助标准化针对重复业务任务的电子表格生成。
+
+* **高级电子表格准备**  
+  支持在结构化和自动化的电子表格环境中创建可重用模板。
+
+* **跨分析系统的文档复用**  
+  使书面内容成为可扩展电子表格模板流水线的一部分。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化 XLTM 生成**  
+  系统可以将 DOCX 文件转换为用于重复使用的高级电子表格模板。
+
+* **批量模板转换流水线**  
+  Python 脚本可以将多个文档处理为宏启用的模板输出。
+
+* **企业电子表格自动化**  
+  文档内容可以转换为 XLTM 文件，以用于可重复的报告和分析工作流。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

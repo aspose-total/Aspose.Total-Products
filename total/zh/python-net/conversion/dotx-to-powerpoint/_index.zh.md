@@ -65,7 +65,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX 转 PowerPoint 转换将 Word 模板内容转换为可用于沟通、培训、报告和视觉叙事的演示就绪输出。它在需要将以文本为主的文档重新用于基于幻灯片的格式，以便更广泛的演示使用时非常有用。
+
+借助 Python API，此转换能够从结构化模板自动创建演示资产，减少手动重复工作，并提升在重复内容工作流中的可扩展性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **文档转幻灯片再利用**
+  将结构化文档内容转换为会议和简报的演示材料。
+
+* **可视化沟通工作流**
+  将以文本为中心的模板转化为演示就绪资产。
+
+* **培训和报告支持**
+  在幻灯片演示中重复使用文档知识，以支持内部和外部沟通。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化幻灯片生成**
+  在报告流水线中从 DOTX 模板生成兼容 PowerPoint 的输出。
+
+* **可扩展的演示组装**
+  从基于文档的内容自动构建重复的演示。
+
+* **模板驱动的内容分发**
+  将已批准的文档转换为演示输出，以实现标准化交付。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

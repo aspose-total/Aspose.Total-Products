@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF 到 OTT 的转换将联系人卡片数据转换为支持可重复和标准化内容创建的开放文档模板。当必须将联系信息插入可重用布局以实现一致的文档生成时，这非常有价值。
+
+在自动化工作流中，VCF 到 OTT 的转换允许 Python API 构建可直接用于模板的输出，从而提高效率、减少格式化工作，并支持可扩展的文档组装过程。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **开放模板生成**  
+  将 VCF 记录转换为 OTT 文件，以用于可重用的文档结构。
+
+* **标准化联系人布局**  
+  以可重复的模板格式准备联系信息。
+
+* **面向流程的文档**  
+  通过开放文档兼容性支持基于模板的工作流。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **模板自动化流水线**  
+  在批量操作中从联系数据生成 OTT 模板。
+
+* **一致的文档组装**  
+  在需要可重复格式化的工作流中使用转换后的模板。
+
+* **可扩展的开放格式处理**  
+  使用 Python API 高效创建可重用的模板资产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

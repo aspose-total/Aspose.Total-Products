@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod dokumentu do formátu SXC mění obsah Wordu na tabulkový formát spojený se staršími pracovními postupy OpenOffice, což je užitečné pro starší interoperabilitu a extrakci strukturovaných dat. Podporuje organizace, které udržují kompatibilitu se staršími tabulkovými ekosystémy.
+
+Pomocí Python API lze převod DOC do SXC automatizovat, čímž se sníží ruční zadávání a podpoří se opakovatelné pracovní postupy se staršími daty.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Kompatibilita se staršími tabulkovými procesory**
+  Převést tabulky v dokumentu do formátu SXC pro starší prostředí OpenOffice.
+
+* **Zachování strukturovaných dat**
+  Uchovat hodnoty z dokumentu ve formátu tabulky určeném pro starší systémy.
+
+* **Podpora migrace**
+  Propojit Word dokumenty se systémy, které stále používají historické tabulkové standardy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizace starších pracovních postupů**
+  Automaticky generovat soubory SXC ze zdrojů DOC, kde jsou starší nástroje stále používány.
+
+* **Dávkové konverzní řetězce**
+  Převést více dokumentů do strukturovaných tabulkových souborů bez ručního zásahu.
+
+* **Úlohy systémové interoperability**
+  Programově propojit moderní zdroje dokumentů se staršími tabulkovými pracovními postupy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

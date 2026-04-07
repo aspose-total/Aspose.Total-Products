@@ -64,7 +64,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod DOT na PPSM transformuje šablony dokumentů do souborů prezentací s makry pro pokročilé doručování prezentací. To je cenné tam, kde výstupy prezentací přehrávané přímo musí také podporovat rozšířenou funkčnost v kompatibilních prostředích.
+
+S Python API lze generování PPSM automatizovat ze zdrojů DOT, aby se zlepšila opakovatelnost a podpořily výkonnější pracovní postupy prezentací.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření prezentací s makry**
+  Převést soubory DOT na PPSM pro pokročilé scénáře přehrávání prezentací.
+
+* **Zobrazení s rozšířenou funkčností**
+  Používejte výstupy prezentací, které podporují vloženou automatizaci nebo interaktivní chování.
+
+* **Opakované doručování prezentací**
+  Přeměňte šablony dokumentů na soubory připravené k prezentaci pro řízená zobrazovací prostředí.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované pokročilé vytváření prezentací**
+  Python skripty mohou vytvářet soubory PPSM z obsahu DOT pro opakující se potřeby prezentací.
+
+* **Interaktivní pracovní postupy zobrazení**
+  Převod podporuje tvorbu prezentací řízených dokumentem s rozšířenou funkčností.
+
+* **Škálovatelná distribuce prezentací**
+  Programové pipeline pomáhají nasazovat soubory prezentací s makry napříč různými případy použití.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

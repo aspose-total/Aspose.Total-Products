@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT 到 PST 转换在 Python API 中将 OpenDocument 文本模板转换为个人存储邮箱结构，以用于面向电子邮件的归档和传输工作流。当必须以邮箱为中心的格式保存文档生成的通信时，这非常有用。
+
+该转换通过帮助组织将基于模板的消息内容迁移到支持归档、迁移和大规模通信管理的存储工作流，从而支持自动化。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **邮箱归档创建**  
+  将生成的通信内容打包为面向存储的邮件格式。
+
+* **保留和转移支持**  
+  帮助高效地保存和移动基于消息的内容。
+
+* **基于模板的通信存储**  
+  重复使用文档模板以生成兼容邮箱的输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化归档生成**  
+  将基于 OTT 的消息内容批量转换为 PST 输出。
+
+* **合规导向工作流**  
+  支持记录保留和结构化邮件存储流程。
+
+* **通信迁移管道**  
+  将生成的内容输送到企业邮件传输工作流中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

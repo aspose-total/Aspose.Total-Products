@@ -64,7 +64,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod XLTM na PPSM v Pythonu umožňuje převádět makrem povolené šablony Excelu na makrem povolené soubory prezentací. To je užitečné pro pracovní postupy, kde je třeba zdrojový obsah založený na tabulkách doručit jako soubory prezentací, které podporují rozšířenou automatizaci nebo pokročilé chování prezentace.
+
+Z hlediska automatizace pomáhá převod XLTM na PPSM sjednotit kancelářské pracovní postupy, podporuje programové vytváření prezentací a zvyšuje připravenost výstupu pro systémy zaměřené na prezentace.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření prezentací s povolenými makry**  
+  Vytváří soubory prezentací, které vyhovují pokročilým prezentačním prostředím vyžadujícím rozšířenou funkčnost.
+
+* **Výstup prezentací řízený šablonou**  
+  Převádí šablony sešitu na soubory připravené pro prezentaci pro strukturovanou komunikaci.
+
+* **Provozní automatizace prezentací**  
+  Podporuje týmy, které automatizují přípravu a doručování opakujících se prezentačních materiálů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Programové generování prezentací**  
+  Automatizuje tvorbu souborů PPSM ze šablon XLTM v rámci reportovacích pracovních postupů.
+
+* **Automatizace napříč formáty v kanceláři**  
+  Propojuje šablony založené na tabulkách s cílovými prezentacemi v integrovaných systémech.
+
+* **Opakovatelná distribuce prezentací**  
+  Podporuje opakované vytváření makrem povolených souborů prezentací pro standardizovanou komunikaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

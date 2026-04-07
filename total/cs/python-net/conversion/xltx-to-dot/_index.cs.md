@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTX to DOT conversion turns spreadsheet template content into a word processing template format that can be reused to create multiple standardized documents. This is valuable when structured spreadsheet layouts need to become repeatable document templates for formal communications, reports, or operational paperwork.
+
+In automated environments, XLTX to DOT conversion helps teams generate reusable document foundations from spreadsheet-driven sources, improving consistency, reducing repetitive setup work, and supporting scalable document creation processes.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření opakovatelných šablon dokumentů**  
+  Převádí šablony tabulek na šablony dokumentů, které lze opakovaně použít pro podobné výstupy.
+
+* **Standardizované firemní formátování**  
+  Pomáhá zachovat konzistentní strukturu a rozvržení napříč generovanými sadami dokumentů.
+
+* **Procesně orientovaná dokumentace**  
+  Podporuje prostředí, kde opakované formuláře nebo zprávy musí vycházet z řízené šablony.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Generování knihovny šablon**  
+  Automatizace může vytvářet repozitáře šablon dokumentů z vstupů XLTX pro organizaci opětovného použití.
+
+* **Pipelines pro standardizaci dokumentů**  
+  Převod podporuje pracovní postupy, které potřebují konzistentní výchozí šablony napříč odděleními.
+
+* **Hromadné nasazení šablon**  
+  Programové zpracování umožňuje hromadné vytváření DOT šablon ze strukturovaných návrhů tabulek.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

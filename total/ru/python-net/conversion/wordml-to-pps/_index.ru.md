@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование WordML в PPS преобразует содержимое документа в файлы слайд‑шоу презентаций, предназначенные для непосредственного просмотра. Это полезно, когда материал на основе документа необходимо предоставить в виде готовой к запуску презентации, а не редактируемой колоды.
+
+Python API помогают автоматизировать преобразование WordML в PPS, генерируя выводы, ориентированные на слайд‑шоу, которые поддерживают эффективное распространение и контролируемые рабочие процессы презентаций.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **Доставка слайд‑шоу**
+  Преобразует содержимое WordML в файлы PPS для немедленного воспроизведения презентации.
+
+* **Нередактируемое распространение**
+  Поддерживает сценарии, когда содержимое презентации должно открываться в режиме показа.
+
+* **Вывод брифинга на основе документа**
+  Перепрофилирует письменный материал в готовые к презентации слайд‑шоу.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **Автоматическая публикация слайд‑шоу**
+  Создаёт файлы PPS из повторяющихся обновлений документов и брифингов.
+
+* **Конвейеры распределения презентаций**
+  Предоставляет готовые к просмотру слайд‑шоу заинтересованным сторонам без ручной подготовки.
+
+* **Автоматизация оперативных брифингов**
+  Преобразует структурированные документы в активы слайд‑шоу для запланированных коммуникаций.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

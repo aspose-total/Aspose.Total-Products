@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PST to RTF conversion in Python APIs transforms mailbox content into rich text format for editable, portable document workflows. It is useful when email-derived text needs basic formatting preservation while remaining broadly compatible with many word-processing environments.
+
+In automation settings, PST to RTF conversion supports lightweight document exchange and efficient transformation of mailbox archives into editable outputs. It enables scalable reuse of formatted communication content across different systems.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Export formátovaného textu**
+  Converts PST content into RTF while preserving basic document styling.
+
+* **Workflow s širokou kompatibilitou**
+  Helps make mailbox-derived files usable across varied editing environments.
+
+* **Příprava editovatelného archivu**
+  Supports transformation of communication records into revisable document form.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované pipeline pro konverzi textu**
+  Systems can export PST content into RTF for downstream editing and reuse.
+
+* **Přenosné workflow dokumentace**
+  Converted files can move easily between office applications and archive systems.
+
+* **Škálovatelná přeformátování obsahu**
+  Programmatic conversion simplifies bulk transformation of mailbox text into editable files.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

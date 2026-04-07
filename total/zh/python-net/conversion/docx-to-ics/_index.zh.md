@@ -46,7 +46,44 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX 到 ICS 的转换将基于文档的信息转换为符合 iCalendar 标准的日历事件文件。此转换使得存储在文档中的日程信息能够转换为日历兼容的格式。
+
+Python API 使得能够从文档中自动提取事件数据并生成 ICS 文件，支持自动化调度系统和日历集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **事件调度提取**  
+  将基于文档的事件详情转换为日历事件。
+
+* **日历集成工作流**  
+  使文档日程能够导入到日历系统中。
+
+* **会议和事件自动化**  
+  促进从文档自动创建日历事件。
+
+* **日程分发系统**  
+  允许包含事件信息的文档生成日历文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化事件文件生成**  
+  系统可以自动将 DOCX 事件日程转换为 ICS 文件。
+
+* **基于文档的调度流水线**  
+  Python 自动化可以从文档生成日历条目。
+
+* **企业日历集成**  
+  文档数据可以转换为用于自动调度的 ICS 文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

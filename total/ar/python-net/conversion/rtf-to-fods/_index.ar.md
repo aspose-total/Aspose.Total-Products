@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل RTF إلى FODS يحول مستندات النص الغني إلى ملفات جدول بيانات مسطحة تعتمد على XML وتكون مناسبة لتبادل البيانات المهيكلة، وسير عمل المستندات المفتوحة، وتكامل الأنظمة. يكون مفيدًا عندما يجب تحويل محتوى المستند إلى تنسيق جدول بيانات به بنية شفافة تعتمد على النص.
+
+في سياقات الأتمتة، يدعم تحويل RTF إلى FODS معالجة قابلة للتوسع، والتحقق، وسير عمل التكامل عن طريق تحويل المستندات المنسقة إلى أصول جدول بيانات مهيكلة تكون أسهل في التحكم بالإصدارات، والفحص، والتبادل.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تحويل جدول بيانات مفتوح**  
+  يحول محتوى المستند إلى تنسيق جدول بيانات مفتوح ومسطح لزيادة التوافق.
+
+* **معالجة بيانات XML المهيكلة**  
+  يسمح بفحص وإدارة أسهل لمحتوى جدول البيانات في سير عمل يعتمد على النص.
+
+* **تبادل المستندات القابل للتشغيل البيني**  
+  يساعد على نقل المعلومات بين الأنظمة التي تفضل معايير المستند المفتوح.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء جدول بيانات صديق لسلسلة الأنابيب**  
+  يمكن للتحويلات الآلية إنتاج ملفات FODS مناسبة للتحقق والمعالجة البرمجية.
+
+* **سير عمل البيانات تحت التحكم بالإصدار**  
+  يدعم التحويل البرمجي البيئات التي تُفضَّل فيها تمثيلات جدول البيانات المعتمدة على النص.
+
+* **تكامل المعايير المفتوحة**  
+  يمكن للعمليات الديناميكية تحويل محتوى RTF إلى أصول جدول بيانات قابلة للتشغيل البيني للاستخدام عبر المنصات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF 到 XLAM 转换将富文本文档转换为与电子表格自动化环境关联的加载项文件。这在文档派生的逻辑、结构或可重用工作簿相关功能必须与基于加载项的电子表格工作流保持一致的特定场景中非常有用。
+
+对于自动化，RTF 到 XLAM 通过帮助将结构化文档内容转换为可参与可重用和可扩展工作簿流程的格式，支持高级电子表格生态系统的集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **电子表格加载项工作流支持**  
+  将源内容转换为与可重用电子表格扩展相关的格式。
+
+* **可重用工作簿功能准备**  
+  帮助将基于文档的资产与可扩展的电子表格环境对齐。
+
+* **高级数据工具集成**  
+  支持文档转换为电子表格自动化资产提供的专用工作流。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化加载项资产生成**  
+  系统可以将结构化 RTF 源转换为面向电子表格扩展的输出。
+
+* **可重用电子表格流程启用**  
+  编程转换支持在工作簿环境中集中逻辑和工具的工作流。
+
+* **专用 Office 自动化管道**  
+  动态流程可以将文档输入与高级电子表格自动化场景相连接。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

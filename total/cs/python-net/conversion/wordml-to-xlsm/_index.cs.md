@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML na XLSM převod transformuje strukturovaný obsah dokumentu do souborů sešitů s makry, které kombinují data sešitu s automatizačními schopnostmi. Je užitečný, když musí převedená data podporovat logiku založenou na tabulkách, skriptování nebo opakovatelných úloh.
+
+Pomocí Python API umožňuje WordML na XLSM převod, aby data dokumentu proudila do pokročilých pracovních postupů v tabulkách s škálovatelnou automatizací a znovupoužitelnou logikou zpracování.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytvoření sešitu s makry**
+  Převádí tabulky WordML do souborů XLSM pro pracovní postupy v tabulkách zaměřené na automatizaci.
+
+* **Pokročilé zpracování dat**
+  Podporuje výstupy tabulek, které se opírají o vložené akce nebo logiku.
+
+* **Umožnění provozních úkolů**
+  Pomáhá přesunout data dokumentu do sešitů navržených pro opakované zpracování.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované generování sešitu s makry**
+  Vytváří soubory XLSM ze zdrojů WordML v opakujících se obchodních pracovních postupech.
+
+* **Integrace logiky tabulek**
+  Propojuje extrahovaná data dokumentu s prostředími zpracování řízenými makry.
+
+* **Balíčkování dat připravených pro proces**
+  Umožňuje škálovatelné připravení aktiv sešitu pro automatizované operace.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

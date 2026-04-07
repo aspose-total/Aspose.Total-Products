@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod ODT na OST převádí obsah dokumentu do formátu spojeného s offline pracovními postupy poštovní schránky, kde může být obsah přeuspořádán pro ukládání, migraci nebo balení související s komunikací. To může být užitečné ve specializovaných archivních nebo podnikových komunikačních scénářích.
+
+Pomocí Python API může převod ODT na OST podporovat automatizovanou transformaci dokumentů, kde je vyžadována integrace s procesy úložiště ve stylu poštovní schránky. Zlepšuje opakovatelnost a snižuje ruční přípravu v prostředích orientovaných na zprávy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Balíčkování orientované na poštovní schránku**  
+  Převádí obsah dokumentu pro použití v offline pracovních postupech ukládání zpráv.
+
+* **Podpora archivace**  
+  Pomáhá zachovat přeuspořádaný text ve formátech úložiště souvisejících s komunikací.
+
+* **Příprava migrace**  
+  Pomáhá při přesunu obsahu odvozeného z dokumentů do ekosystémů poštovní schránky.
+
+* **Strukturovaná konverze záznamů**  
+  Podporuje podnikové procesy, které kombinují dokumenty a artefakty zpráv.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované balíčkování obsahu**  
+  Python skripty mohou převádět ODT soubory na výstupy související s poštovní schránkou ve definovaných pracovních postupech.
+
+* **Dávkové archivní zpracování**  
+  Velké repozitáře dokumentů mohou být převáděny pro úkoly úložiště zaměřené na komunikaci.
+
+* **Integrace migračního potrubí**  
+  Automatizované úlohy mohou připravit převedený obsah pro následné zpracování poštovní schránky.
+
+* **Podpora workflow uchovávání**  
+  Výstupy odvozené z dokumentů mohou být generovány konzistentně pro dlouhodobé uchovávání záznamů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

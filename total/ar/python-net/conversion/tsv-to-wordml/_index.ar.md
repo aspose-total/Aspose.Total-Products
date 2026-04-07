@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل TSV إلى WordML يحول البيانات الجدولية المهيكلة إلى تنسيق معالجة كلمات قائم على XML مناسب لتوليد المستندات، والتشغيل البيني، وتدفقات عمل المحتوى المهيكلة. يكون ذلك ذا قيمة عندما تحتاج الأنظمة إلى مخرجات مستندات صديقة للآلات لا تزال تتماشى مع حالات استخدام معالجة الكلمات.
+
+باستخدام واجهات برمجة تطبيقات بايثون، يمكن أتمتة تحويل TSV إلى WordML لدعم بيئات ذات تكامل عالي، وتحويل محتوى قابل للتوسع، وتجميع مستندات برمجي من مصادر بيانات مهيكلة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **توليد المستندات القائم على XML**  
+  يحول بيانات TSV إلى تنسيق مهيكل مناسب لتدفقات عمل معالجة الكلمات.
+
+* **تبادل المحتوى القابل للتشغيل البيني**  
+  يدعم مخرجات المستندات في البيئات التي تعتمد على تمثيلات XML مهيكلة.
+
+* **تجميع المستندات برمجيًا**  
+  يساعد على تحويل بيانات الجداول الخام إلى تنسيقات مستندات قابلة للقراءة آليًا.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط أنابيب الإخراج المهيكلة**  
+  يمكن لواجهات برمجة تطبيقات بايثون توليد مستندات WordML من مصادر TSV تلقائيًا.
+
+* **التكامل من نظام إلى نظام**  
+  تمكن الأتمتة من نقل البيانات المهيكلة بسلاسة إلى تدفقات عمل المستندات القائمة على XML.
+
+* **تحويل المستندات القابل للتوسع**  
+  يمكن تحويل مجموعات بيانات TSV الكبيرة إلى WordML كجزء من أنظمة المعالجة ذات الحجم الكبير.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

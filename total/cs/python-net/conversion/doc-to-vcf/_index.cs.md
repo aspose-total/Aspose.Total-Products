@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod dokumentu do VCF převádí kontaktní informace uložené ve Wordových dokumentech do standardizovaného formátu vCard pro adresáře a kontaktní systémy. Je užitečný, když je potřeba přesunout vizitky, adresáře nebo seznamy kontaktů z dokumentů do digitálních pracovních postupů.
+
+Použití Python API pro převod DOC na VCF zvyšuje přesnost, snižuje ruční zadávání kontaktů a podporuje škálovatelnou synchronizaci mezi zdroji dokumentů a systémy správy kontaktů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Extrahování kontaktních údajů**
+  Převést kontaktní údaje z dokumentů do souborů vCard pro opakované použití.
+
+* **Import adresáře**
+  Připravit kontaktní informace založené na dokumentech pro přímý import do kontaktních systémů.
+
+* **Modernizace adresáře**
+  Přeměnit statické seznamy kontaktů na přenosné digitální záznamy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatické generování kontaktů**
+  Programově vytvořit soubory VCF z adresářů DOC, seznamů nebo formulářů.
+
+* **Podpora CRM a synchronizace kontaktů**
+  Směrovat extrahované kontakty z dokumentů do pracovních postupů správy kontaktů.
+
+* **Dávkové zpracování kontaktů**
+  Převést velké množství dokumentů zaměřených na kontakty na opakovaně použitelné vCard zdroje ve velkém měřítku.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

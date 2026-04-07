@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل SXC إلى DOCM يحول المحتوى المستمد من جداول البيانات إلى تنسيق مستند يدعم الماكرو، مناسب لتدفقات العمل المتقدمة التي تتطلب قدرات أتمتة مدمجة. هذا يكون ذا قيمة عندما يجب نقل بيانات جداول البيانات إلى مستندات تدعم تنسيقًا مبرمجًا، أو منطقًا، أو إجراءات متكررة.
+
+باستخدام واجهات برمجة تطبيقات بايثون، يحسن تحويل SXC إلى DOCM كفاءة العمليات من خلال السماح بإنشاء مستندات تفاعلية أو جاهزة للماكرو تلقائيًا ضمن تدفقات عمل مؤسسية منظمة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تقارير جاهزة للماكرو**  
+  يحول محتوى جداول البيانات إلى مستندات مُعدة لتنسيق أو معالجة تعتمد على الماكرو.
+
+* **قوالب مستندات قابلة لإعادة الاستخدام**  
+  يدعم تدفقات العمل التي يجب فيها أن تُملأ بيانات جداول البيانات في مستندات مصممة للاستخدام المتكرر الآلي.
+
+* **توثيق تشغيلي**  
+  يساعد في إنشاء مستندات تجمع بين المحتوى المستورد ومنطق مدمج لتنفيذ العمليات الداخلية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **ملء القوالب تلقائيًا**  
+  يستخدم واجهات برمجة تطبيقات بايثون لتغذية بيانات جداول البيانات في تدفقات عمل مستندات مدعومة بالماكرو بأقل جهد يدوي.
+
+* **خطوط معالجة المستندات**  
+  يُمكّن الأتمتة من الطرف إلى الطرف حيث يتم تمرير ملفات DOCM المُولدة إلى أنظمة الموافقة أو التحويل.
+
+* **تجميع المحتوى بناءً على القواعد**  
+  يدعم إنشاء مستندات ديناميكية للسيناريوهات التي تتطلب سلوكًا مبرمجًا بعد التحويل.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

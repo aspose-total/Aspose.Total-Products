@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX 到 XLTM 的转换将演示文稿内容转换为宏启用的电子表格模板格式，用于可重复的工作簿生成。当需要将幻灯片衍生的数据标准化为可重复使用的模板，以用于周期性报告、数据录入或自动化电子表格工作流时，这非常有益。
+
+借助 Python API，PPTX 到 XLTM 的转换通过将提取的演示文稿数据与可重复使用的电子表格结构相结合，支持可扩展的模板自动化。这提升了依赖基于模板的工作簿生成和宏驱动流程的环境中的一致性和效率。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用的电子表格模板**
+  将幻灯片内容转换为设计用于自动化使用的可重复使用的工作簿模板。
+
+* **循环报告结构**
+  为重复的报告周期创建标准化的电子表格模板。
+
+* **数据录入框架**
+  在受控的电子表格模板工作流中重复使用来源于演示文稿的布局。
+
+* **基于模板的操作**
+  支持从演示文稿内容来源一致地生成工作簿。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板生成**
+  将 PPTX 文件转换为用于周期性电子表格创建的 XLTM 模板。
+
+* **标准化工作簿工作流**
+  使用可重复使用的模板，以确保在自动化数据处理过程中的一致性。
+
+* **批量模板生成**
+  通过编程方式从演示文稿资产创建多个电子表格模板。
+
+* **宏驱动的报告系统**
+  将转换后的模板集成到需要 **自动化工作簿行为** 的工作流中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

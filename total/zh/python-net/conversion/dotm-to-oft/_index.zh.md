@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM 到 OFT 的转换将带宏的 Word 模板转换为 Outlook 电子邮件模板文件，以实现可重复使用的沟通工作流。当组织需要将结构化文档内容转化为可重复的电子邮件模板，以实现一致的外联或内部消息传递时，这非常有用。
+
+使用 Python API 进行 DOTM 到 OFT 的转换通过直接从文档源生成可重复使用的邮件模板来支持自动化。它提升了生产力，标准化了消息格式，并使业务流程中的沟通资产的可扩展创建成为可能。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **可重复使用的电子邮件模板生成**
+  将 DOTM 内容转换为 OFT 文件，以在标准化沟通中重复使用。
+
+* **基于文档的消息设计**
+  将结构化文档模板转化为邮件模板，无需手动重新创建内容。
+
+* **一致的沟通资产**
+  在可重复使用的电子邮件模板文件中保留已批准的措辞和格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板发布**
+  系统可以从 DOTM 模板创建 OFT 文件，以用于重复的沟通工作流。
+
+* **消息标准化流水线**
+  该转换实现了大规模自动化生成一致的邮件模板。
+
+* **大批量模板准备**
+  编程处理支持从文档库批量生成 OFT 文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

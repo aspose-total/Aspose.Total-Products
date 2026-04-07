@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML в SXC преобразование переводит структурированное содержимое, основанное на документах, в файлы электронных таблиц, совместимые со старыми рабочими процессами открытых таблиц. Это полезно для организаций, поддерживающих совместимость со старыми средами открытого офиса.
+
+Python API поддерживают преобразование WordML в SXC, извлекая таблицы и автоматизируя трансформацию в форматы, ориентированные на электронные таблицы, для задач миграции и взаимодействия.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Вывод в устаревший открытый электронный лист**
+  Преобразует таблицы WordML в файлы SXC для более старых сред электронных таблиц.
+
+* **Повторное использование данных из документов**
+  Делает структурированное содержимое документов редактируемым в устаревших инструментах электронных таблиц.
+
+* **Сохранение совместимости**
+  Поддерживает длительные рабочие процессы, которые всё ещё зависят от старых открытых форматов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Автоматизация экспорта в устаревший формат**
+  Создаёт выводы SXC из файлов WordML в рабочих процессах, ориентированных на совместимость.
+
+* **Задачи поддержки миграции**
+  Соединяет репозитории документов со старыми средами обработки электронных таблиц.
+
+* **Массовое преобразование таблиц**
+  Автоматизирует извлечение и упаковку данных документов в устаревшие файлы электронных таблиц.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

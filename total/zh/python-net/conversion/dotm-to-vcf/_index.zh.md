@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM 到 VCF 的转换将启用宏的 Word 模板转换为 vCard 联系人文件，使基于文档的联系信息更易于共享并导入到通讯录系统。当模板包含必须转化为结构化联系人记录的个人、组织或通信详情时，此功能非常有用。
+
+使用 Python API 进行 DOTM 到 VCF 的转换有助于自动化从文档来源生成联系人，减少手动重新输入并提升数据一致性。这支持可扩展的入职、目录管理以及 CRM 相关的工作流。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **联系人记录创建**
+  将 DOTM 模板中的联系人详情转换为 VCF 文件，以便轻松共享和导入。
+
+* **目录数据复用**
+  将结构化的文档信息重新用于标准化的数字联系人卡片。
+
+* **工作流友好的联系人交换**
+  实现文档与通讯录系统之间的联系人数据简易流动。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化联系人提取**
+  工作流可以从包含个人或组织详情的 DOTM 模板生成 VCF 文件。
+
+* **目录同步支持**
+  此转换帮助自动化系统从文档创建可直接导入的联系人记录。
+
+* **批量联系人生成**
+  编程处理支持大批量将 DOTM 文件转换为 VCF 文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOCM إلى CSV يحول مستندات معالجة النصوص التي تدعم الماكرو إلى بيانات مفصولة بفواصل بسيطة ومهيكلة، مما يسهل استخراجها وتحليلها وإعادة استخدامها عبر أنظمة التقارير والعمليات. يكون ذلك ذا قيمة عندما يحتاج النص أو الجداول أو المحتوى المتكرر من ملفات DOCM إلى توحيده للمعالجة اللاحقة.
+
+في بيئات التركيز على الأتمتة، تساعد سير عمل تحويل DOCM إلى CSV على تحويل محتوى المستند شبه المهيكل إلى مجموعات بيانات خفيفة تدعم الاستيعاب، والتحقق، والمزامنة، وتبادل البيانات القابل للتوسع بين أدوات الأعمال.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **استخراج البيانات الجدولية**
+  يقوم بتحويل الجداول داخل ملفات DOCM إلى صفوف وأعمدة مهيكلة لتسهيل التحليل وإعادة الاستخدام.
+
+* **سلاسل التقارير**
+  يُعد البيانات المستندية لتقارير الأعمال، ولوحات المعلومات، والتصديرات المجدولة.
+
+* **قابلية التفاعل بين الأنظمة**
+  يُمكّن من نقل محتوى المستند بسهولة إلى الأدوات التي تقبل مدخلات نصية مفصولة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **معالجة المستندات على دفعات**
+  يُؤتمت تحويل مجموعات DOCM الكبيرة إلى مخرجات CSV لتدفقات عمل البيانات المتكررة.
+
+* **تحضير ETL**
+  يدعم خطوط أنابيب الاستخراج-التحويل-التحميل عن طريق تحويل محتوى المستند إلى سجلات قابلة للقراءة آليًا.
+
+* **التحقق والأرشفة**
+  يساعد في إنشاء تصديرات موحدة يمكن التحقق منها، وفهرستها، وتخزينها برمجيًا.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

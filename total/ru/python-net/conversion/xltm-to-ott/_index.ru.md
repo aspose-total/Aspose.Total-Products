@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTM to OTT conversion in Python supports the conversion of macro-enabled Excel templates into open document text templates for reusable and standards-based document creation. This is useful when spreadsheet-driven template structures need to be turned into open-format templates for repeated documentation tasks.
+
+In automated systems, XLTM to OTT conversion helps create reusable assets, promotes open standards, and strengthens scalable template management workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Создание открытого шаблона**  
+  Преобразует шаблоны таблиц в повторно используемые открытые текстовые шаблоны документов для стандартизированного вывода.
+
+* **Повторное использование шаблонов в разных системах**  
+  Поддерживает повторную генерацию документов с использованием открытых и редактируемых форматов шаблонов.
+
+* **Поддержка нейтрального к формату рабочего процесса**  
+  Помогает организациям принимать гибкие стратегии шаблонов, не привязанные к единой файловой экосистеме.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Автоматизация библиотеки шаблонов**  
+  Создаёт OTT‑шаблоны из файлов XLTM для использования в повторяющихся процессах документирования.
+
+* **Интеграция рабочего процесса с открытыми стандартами**  
+  Поддерживает автоматическое распределение шаблонов между системами, построенными на открытых форматах документов.
+
+* **Массовое производство шаблонов**  
+  Обеспечивает масштабируемую конвертацию шаблонов таблиц в повторно используемые текстовые шаблоны.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

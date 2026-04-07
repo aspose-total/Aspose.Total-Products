@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل المستند إلى FODS يحول محتوى Word إلى تنسيق جدول بيانات OpenDocument XML المسطح، وهو مناسب جيدًا لتدفقات العمل المفتوحة، والتشغيل البيني، وتخزين البيانات الشفاف. وهو مفيد للمنظمات التي تفضل تبادل جداول البيانات المستندة إلى XML.
+
+تدعم أتمتة واجهة برمجة التطبيقات Python لتحويل DOC إلى FODS خطوط أنابيب تنسيق مفتوح قابلة للتوسع، وتقلل الاعتماد على المعالجة اليدوية، وتساعد في دمج المستندات في أنظمة البيانات المهيكلة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تدفقات عمل جداول البيانات المفتوحة**
+  تحويل محتوى المستند إلى FODS لمعالجة جداول البيانات القائمة على المعايير.
+
+* **تبادل البيانات المستند إلى XML**
+  الحفاظ على الجداول المستخرجة في بنية جدول بيانات XML مسطحة قابلة للقراءة.
+
+* **تقارير تشغيلية متبادلة**
+  دعم تحويل المستند إلى جدول بيانات حيث تُفضَّل الصيغ المفتوحة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **أتمتة الصيغة المفتوحة**
+  تحويل ملفات DOC تلقائيًا إلى FODS لتدفقات عمل بيانات متبادلة.
+
+* **تصديرات صديقة للمخطط**
+  استخدام التحويل البرمجي لإنتاج جداول بيانات XML مسطحة من محتوى المستند.
+
+* **خطوط أنابيب تقارير الدُفعات**
+  تحويل تقارير المستند المتكررة إلى FODS للتكامل وأتمتة التخزين.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

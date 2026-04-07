@@ -64,7 +64,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات POTX إلى XLS باستخدام واجهات برمجة تطبيقات بايثون يحول محتوى قالب PowerPoint إلى ملفات جداول بيانات تدعم إدخال البيانات المهيكلة والتحليل. هذا مفيد للمؤسسات التي تحتاج إلى نقل المعلومات المستندة إلى العروض التقديمية إلى صيغ جداول البيانات لأغراض تشغيلية أو تقارير.
+
+في خطوط الأتمتة، يقلل تحويل POTX إلى XLS من العمل اليدوي لاستخراج البيانات ويسمح بتحويل قابل للتوسع إلى مخرجات جداول البيانات. يدعم توافق جداول البيانات القديمة مع تحسين الكفاءة في سير العمل المرتكز على البيانات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تحويل جداول البيانات**
+  يحوّل محتوى قالب العرض التقديمي إلى ملفات قائمة على جداول البيانات للاستخدام المهيكل.
+
+* **دعم جداول البيانات القديمة**
+  يساعد في تقديم المخرجات بصيغ جداول بيانات أقدم المطلوبة من الأنظمة القائمة.
+
+* **معالجة البيانات التشغيلية**
+  يدعم إعادة استخدام معلومات العرض في مهام التحليل والتقارير.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تصدير قديم مؤتمت**
+  ينتج ملفات XLS من مصادر POTX للأنظمة التي تعتمد على صيغ جداول بيانات أقدم.
+
+* **إنتاج جداول بيانات دفعي**
+  يدعم تحويل عالي الحجم لملفات القوالب إلى جداول بيانات مهيكلة.
+
+* **تكامل معالجة البيانات**
+  يربط مخرجات جداول البيانات المحوّلة بسير عمل التقارير والتحقق.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

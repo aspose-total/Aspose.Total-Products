@@ -53,7 +53,41 @@ outformat: MHTML
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل WordML إلى MHTML يحول محتوى المستند إلى تنسيق أرشيف ويب يجمع بين العلامات والموارد المرتبطة في ملف واحد. هذا مفيد للحفاظ على محتوى المستند في تمثيل صديق للمتصفح ومتكامل.
+
+باستخدام واجهات برمجة تطبيقات بايثون، يمكن أتمتة تحويل WordML إلى MHTML لدعم أرشفة الويب، وإنشاء المعاينات، ونقل المحتوى عبر الأنظمة المستندة إلى المستندات والمتصفحات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تصدير أرشيف الويب**
+  يحوّل مستندات WordML إلى ملفات MHTML متكاملة صديقة للويب.
+
+* **حفظ المحتوى القابل للنقل**
+  يحافظ على المحتوى المعروض والعناصر المرتبطة به معًا في تنسيق أرشيف واحد.
+
+* **الوصول الموجه للمتصفح**
+  يسهّل مراجعة معلومات المستند في بيئات متوافقة مع الويب.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تعبئة الويب الآلية**
+  يحوّل دفعات المستندات إلى MHTML لأرشفة أو مراجعة سير العمل.
+
+* **خطوط توصيل المعاينة**
+  يدعم الوصول إلى المستند عبر المتصفح دون الاعتماد على أدوات التحرير الأصلية.
+
+* **وظائف نقل المحتوى**
+  يتيح مشاركة ثابتة للمحتوى المعروض للمستند عبر الأنظمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

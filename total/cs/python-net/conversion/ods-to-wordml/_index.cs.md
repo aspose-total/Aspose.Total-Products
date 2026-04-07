@@ -65,7 +65,47 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS to WORDML conversion converts spreadsheet files into WordprocessingML, an XML-based document format used for structured document representation. This enables spreadsheet data to be represented in machine-readable document structures.
+
+Python APIs allow automated generation of WordprocessingML documents from spreadsheet inputs. This supports scalable document processing, data transformation pipelines, and integration with structured document workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování strukturovaných dokumentů**  
+  Převod dat z tabulek do XML‑založených struktur dokumentů.
+
+* **Interoperabilita dat**  
+  Umožňuje strojově čitelné formáty dokumentů odvozené z tabulek.
+
+* **Pipeline pro zpracování dokumentů**  
+  Integruje obsah tabulek do workflow založených na XML dokumentech.
+
+* **Transformace obsahu**  
+  Převádí tabulková data z tabulek do strukturovaných dat dokumentu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Programové generování dokumentů**  
+  Python systémy generují strukturované dokumenty přímo ze vstupů tabulek.
+
+* **Dávková konverze XML dokumentů**  
+  Automatizované pipeline převádějí velké množství tabulek do WordprocessingML.
+
+* **Workflowy integrace dat**  
+  Strukturované dokumenty generované z tabulek se integrují s podnikovými systémy.
+
+* **Dynamická transformace obsahu**  
+  Programové pipeline transformují datové sady tabulek do XML‑založených formátů dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل MBOX إلى TEXT يحول أرشيفات صناديق البريد إلى ملفات نصية عادية، مما يجعل محتوى البريد الإلكتروني خفيفًا، قابلًا للبحث، وسهل المعالجة عبر العديد من الأنظمة. هذا مثالي لسير العمل الذي يركز على استخراج المحتوى الخام، الفهرسة، أو التخزين البسيط طويل الأمد.
+
+باستخدام واجهات برمجة تطبيقات Python، يمكن للمنظمات أتمتة تحويل النص من ملفات MBOX لدعم التحليل، خطوط أنابيب البحث، وعمليات تطبيع المحتوى على نطاق واسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **استخراج المحتوى العادي**
+  تحويل رسائل البريد الإلكتروني إلى ملفات نصية للقراءة البسيطة والمعالجة اللاحقة.
+
+* **الاستعداد للبحث والفهرسة**
+  تحضير بيانات صندوق البريد للفهرسة، التحليل، وسير عمل تحليلات النص.
+
+* **أرشفة خفيفة الوزن**
+  حفظ محتوى الرسائل بتنسيق بسيط سهل التخزين والنقل.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تطبيع النص الآلي**
+  تحويل أرشيفات صناديق البريد إلى نص عادي لمعالجة بيانات متسقة.
+
+* **دمج خط أنابيب البحث**
+  إدخال ملفات النص المحولة إلى أنظمة الفهرسة، الاسترجاع، أو التصنيف.
+
+* **استخراج المحتوى بالجملة**
+  استخدام Python لمعالجة مجموعات MBOX الكبيرة إلى مخرجات نصية منظمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

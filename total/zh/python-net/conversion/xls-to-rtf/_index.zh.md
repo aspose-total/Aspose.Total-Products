@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS 转 RTF 转换使电子表格内容可在富文本格式中使用，该格式支持广泛的文档兼容性和可编辑的基于文本的复用。当需要将电子表格信息移至灵活的文档格式以进行共享、归档或进一步格式化时，这非常有用。
+
+基于 Python API 的 XLS 转 RTF 转换通过从电子表格文件生成一致的文本文档并支持轻量级文档交换工作流，提升了自动化水平。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **富文本文档创建**
+  将 XLS 内容转换为 RTF 文件，以实现可编辑且可移植的文档使用。
+
+* **跨平台共享**
+  在需要跨文档环境的广泛兼容性时使用 RTF 输出。
+
+* **面向文本的内容转换**
+  将电子表格数据重新打包为适合混合格式和叙事呈现的格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量富文本生成**
+  使用 Python API 自动将多个 XLS 文件转换为 RTF 文档。
+
+* **轻量级文档流水线**
+  将 XLS 转 RTF 转换添加到强调可移植性和兼容性的工作流中。
+
+* **自动化归档准备**
+  将电子表格内容转换为富文本文档，以用于长期存储或审阅。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

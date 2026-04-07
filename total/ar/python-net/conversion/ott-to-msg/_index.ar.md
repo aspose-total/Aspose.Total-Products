@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل OTT إلى MSG في واجهات برمجة تطبيقات بايثون يحول قوالب نصية من OpenDocument إلى ملفات رسائل تُستخدم في بيئات البريد الإلكتروني على سطح المكتب للتخزين والتبادل. هذا مفيد عندما يجب أن يصبح محتوى المستند المُنظم عنصرًا قابلاً لإعادة الاستخدام في البريد الإلكتروني بدلاً من مستند عادي.
+
+يدعم هذا التحويل الأتمتة من خلال مساعدة الفرق على إنشاء ملفات رسائل برمجيًا من القوالب للمراجعة أو الأرشفة أو التكامل في سير عمل الاتصالات على نطاق واسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **إنشاء ملف الرسالة**  
+  يحول قوالب المستندات إلى ملفات رسائل بريد إلكتروني مُنظمة.
+
+* **دعم سير عمل الاتصالات**  
+  يُمكّن من إعادة استخدام محتوى المستند في بيئات موجهة للبريد الإلكتروني.
+
+* **تخزين الرسائل القابل للنقل**  
+  ينتج مخرجات رسائل يمكن حفظها ونقلها بسهولة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **إنشاء رسائل جماعية**  
+  ينتج العديد من ملفات MSG من قوالب OTT القياسية.
+
+* **سير عمل البريد الإلكتروني القائم على الموافقة**  
+  ينشئ ملفات رسائل قابلة للمراجعة قبل التسليم أو الأرشفة.
+
+* **تكامل النظام**  
+  يربط خطوط إنتاج المستندات مع عمليات معالجة الرسائل.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование документа в TSV преобразует содержимое Word в значения, разделённые табуляцией, простой структурированный формат, идеальный для чистого обмена текстовыми данными и импортных рабочих процессов. Это полезно, когда таблицы в документе или повторяющиеся поля требуют лёгкого структурированного вывода.
+
+Python API помогают автоматизировать преобразование DOC в TSV для масштабируемого извлечения, подготовки данных и задач интеграции, где предпочтительны табличные форматы в виде простого текста.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Лёгкий экспорт данных**
+  Преобразуйте таблицы документа в TSV для простого структурированного обмена.
+
+* **Вывод, удобный для импорта**
+  Подготовьте данные, полученные из Word, для инструментов и систем, принимающих разделённый текст.
+
+* **Рабочие процессы очистки данных**
+  Используйте вывод TSV для предварительной обработки, валидации и загрузки в конвейер.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Извлечение данных в больших объёмах**
+  Автоматически преобразуйте файлы DOC в TSV для последующей обработки.
+
+* **Экспорт текста, готовый для конвейера**
+  Создавайте разделённые файлы из документов в рамках ETL или импортных рабочих процессов.
+
+* **Запланированные задачи трансформации**
+  Программно стандартизируйте записи, основанные на документах, в TSV на регулярной основе.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

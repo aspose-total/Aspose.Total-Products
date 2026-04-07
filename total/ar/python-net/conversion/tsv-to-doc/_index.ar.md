@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل TSV إلى DOC يحول البيانات المفصولة بعلامات الجدولة إلى مستندات معالجة كلمات قابلة للتحرير تكون أسهل في المراجعة والمشاركة والتنسيق للاستخدام التجاري أو التشغيلي. يكون مفيدًا عندما يحتاج ناتج مجموعة البيانات المهيكلة إلى أن يصبح وثائقًا سردية قابلة للقراءة للتقارير أو التواصل أو سير عمل الأرشفة.
+
+باستخدام واجهات برمجة تطبيقات بايثون، يمكن أتمتة هذا التحويل لتوليد ملفات DOC متسقة من المدخلات الجدولية الخام، مما يحسن الكفاءة في خطوط إنتاج المستندات ويدعم مهام التقارير والتصدير والنشر القابلة للتوسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تقارير البيانات القابلة للقراءة**  
+  يحول جداول TSV الخام إلى محتوى صديق للمستندات لتسهيل القراءة والعرض.
+
+* **الوثائق الداخلية**  
+  يدعم إنشاء مستندات تشغيلية أو تحليلية من ملفات المصدر المهيكلة.
+
+* **تصديرات صديقة لسير العمل**  
+  يساعد الفرق على نقل البيانات من الأنظمة الخلفية إلى صيغ مستندات قابلة للتحرير.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء تقارير مجدولة**  
+  يمكن للأتمتة تحويل تصديرات TSV المتكررة إلى ملفات DOC لتوثيق روتيني.
+
+* **توثيق عمليات الأعمال**  
+  يمكن لواجهات برمجة تطبيقات بايثون تحويل السجلات المهيكلة إلى مستندات منسقة تُستخدم في الموافقات أو المراجعات.
+
+* **تحويل ملفات بالجملة**  
+  يمكن تحويل كميات كبيرة من ملفات TSV برمجيًا إلى مخرجات DOC بأقل جهد يدوي.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

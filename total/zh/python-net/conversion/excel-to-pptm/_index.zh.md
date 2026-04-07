@@ -65,7 +65,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Excel 到 PPTM 的 Python 转换将电子表格数据转换为宏启用的演示文件，以实现可编辑且具备自动化感知的幻灯片工作流。当演示输出必须同时支持结构化内容和基于宏的功能时，这非常有用。
+
+此转换通过将基于电子表格的报告与支持增强工作流行为的可编程演示文件相连接，提升了自动化的相关性。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **宏启用的演示文稿**  
+  将 Excel 内容转换为 PPTM 文件，以实现具备高级自动化支持的可编辑演示文稿。
+
+* **交互式报告资产**  
+  准备将基于电子表格的数据与可编程演示功能相结合的幻灯片套件。
+
+* **运营幻灯片工作流**  
+  创建适用于依赖宏启用演示行为的环境的文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **可编程演示创建**  
+  使用 Python API 在可重复的业务工作流中从 Excel 数据生成 PPTM 文件。
+
+* **高级幻灯片自动化**  
+  支持依赖嵌入宏功能的可编辑幻灯片的演示流程。
+
+* **可扩展的报告系统**  
+  将结构化的电子表格输入大规模转换为可自动化的演示文稿。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod OTT do CSV v Python API transformuje textové šablony OpenDocument na strukturovaná, oddělená data, která jsou snazší zpracovat, vyměňovat a analyzovat v moderních podnikových systémech. Je užitečný, když je nutné normalizovat textový obsah pro reportování, migraci nebo následné zpracování dat.
+
+Tento převod podporuje automatizaci tím, že mění obsah dokumentu na lehký tabulkový výstup, který se hodí do datových pipeline, naplánovaných úloh a integračních pracovních toků, kde jsou důležité konzistence, přenositelnost a rychlé parsování.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Strukturovaný extrakce dat**  
+  Převádí textový obsah řízený šablonou do řádků a sloupců pro snadnější zpracování.
+
+* **Příprava reportingu**  
+  Umožňuje použít informace založené na dokumentech pro dashboardy a analýzu tabulek.
+
+* **Interoperabilita systémů**  
+  Umožňuje jednoduchou výměnu dat s nástroji, které podporují import odděleného textu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Dávkový export obsahu**  
+  Automatizuje převod více souborů OTT do CSV pro hromadné zpracování.
+
+* **Integrace datových pipeline**  
+  Zavádí extrahovaná data z dokumentů do ETL nebo validačních pracovních toků.
+
+* **Plánované parsování dokumentů**  
+  Podporuje opakující se úlohy, které transformují šablony do strojově čitelných datových sad.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

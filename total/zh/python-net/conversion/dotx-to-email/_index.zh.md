@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX 转 EMAIL 转换将 Word 模板内容转换为可用于通信工作流、通知和自动消息场景的电子邮件就绪输出。当需要将正式文档内容重新用于结构化电子邮件通信时，它非常有用。
+
+该过程通过支持基于 Python 的文档模板生成可重用的电子邮件内容，帮助实现自动化，使组织能够高效地扩大外联、警报和事务性通信的规模。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **基于模板的消息**
+  将文档模板转换为电子邮件内容，以实现一致的沟通。
+
+* **通知准备**
+  在自动状态更新或警报中重复使用格式化的文档文本。
+
+* **文档到通信工作流**
+  将正式文档创建与外发消息流程相连接。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量电子邮件生成**
+  将多个 DOTX 模板转换为可用于计划活动的电子邮件就绪内容。
+
+* **触发式通知**
+  在事件驱动的工作流中使用转换后的输出发送自动电子邮件。
+
+* **工作流驱动的通信**
+  将基于文档的电子邮件生成集成到审批或支持系统中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

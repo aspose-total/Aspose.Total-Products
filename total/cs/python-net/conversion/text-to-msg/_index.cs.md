@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod textu do formátu MSG pomocí Python API transformuje prostý text do strukturovaných souborů zpráv, které se běžně používají pro ukládání e‑mailů a pracovní postupy desktopového zasílání zpráv. To je důležité pro organizace, které potřebují přenosné objekty zpráv pro archivaci, zpracování nebo integraci se systémy zaměřenými na e‑mail.
+
+Z pohledu automatizace pomáhá převod textu do formátu MSG standardizovat komunikační prostředky, zjednodušit generování zpráv založených na souborech a podpořit opakovatelné pracovní postupy pro reportování, upozornění a digitální evidenci.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření strukturovaných souborů zpráv**  
+  Převádí prostý text do MSG souborů pro uspořádané ukládání ve stylu e‑mailu.
+
+* **Správa záznamů komunikace**  
+  Pomáhá zachovat textové komunikace jako samostatné dokumenty zpráv.
+
+* **Výstup zpráv založený na pracovních postupech**  
+  Podporuje automatizované vytváření souborů zpráv z textu generovaného systémem.
+
+* **Distribuce provozních reportů**  
+  Umožňuje balení reportů a aktualizací jako strukturovaných zprávových aktiv.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Systémově generované soubory zpráv**  
+  Aplikace mohou převádět výstupy textu do MSG souborů pro následné zpracování.
+
+* **Automatizované archivní pracovní postupy**  
+  Textové záznamy lze uložit jako soubory zpráv pro indexaci a uchovávání.
+
+* **Upozorňovací pipeline založené na souborech**  
+  Programové pracovní postupy mohou ve velkém měřítku generovat MSG aktiva z dynamického textového obsahu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

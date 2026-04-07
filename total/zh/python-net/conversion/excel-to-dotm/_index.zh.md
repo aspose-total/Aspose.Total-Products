@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+在 Python 中将 Excel 转换为 DOTM 可将电子表格内容转换为宏启用的 Word 模板文件，以支持高级基于模板的工作流。当可重用的文档结构也需要可编程行为时，这非常有用。
+
+此转换通过将基于电子表格的内容转换与支持宏启用文档流程的模板文件相结合，提升了自动化价值。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **宏启用模板**  
+  将 Excel 数据转换为 DOTM 文件，以实现带有嵌入自动化逻辑的可重复文档生成。
+
+* **标准化流程文档**  
+  创建可重用的模板，既支持一致的结构，又具备文档自动化功能。
+
+* **企业文档准备**  
+  使用电子表格输入构建具备宏功能的模板，以用于运营工作流。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **模板自动化流水线**  
+  从 Excel 源程序化生成 DOTM 文件，以实现可重复的文档操作。
+
+* **文档流程启用**  
+  支持依赖于内置宏功能模板的工作流。
+
+* **可扩展的模板管理**  
+  自动从不断变化的电子表格数据集创建宏启用模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

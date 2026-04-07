@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 的 OFT 到 DOT 转换可将 Outlook 电子邮件模板转换为传统的 Word 模板文件，以实现标准化的文档创建。当组织依赖可重用的文档结构并需要将消息内容转换为基于模板的格式时，这非常有用。
+
+在以自动化为重点的环境中，OFT 到 DOT 的转换有助于将来源于电子邮件的内容与可重复的文档创建流程对齐。它提升了一致性，支持模板治理，并简化了下游生成任务。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **可重用的文档模板创建**  
+  将 OFT 内容转换为 DOT 文件，以基于固定结构重复生成文档。
+
+* **传统工作流兼容性**  
+  支持仍然依赖旧版 Word 模板格式进行业务操作的系统。
+
+* **标准化内容分发**  
+  提供已准备好模板的文件，保持生成文档之间的一致格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自动化模板库**  
+  使用 Python API 从 OFT 内容构建和维护文档模板库。
+
+* **一致的表单生成**  
+  在自动化系统中使用转换后的 DOT 文件来创建重复的报告或表单。
+
+* **结构化内容转换**  
+  将电子邮件模板转换为可重用的文档模式，以实现可扩展的运营工作流。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

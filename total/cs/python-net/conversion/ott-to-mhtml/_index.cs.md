@@ -53,7 +53,41 @@ K přidání funkce převodu OTT na MHTML používáme API [Aspose.Words for Pyt
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod OTT na MHTML v Python API převádí šablony textových dokumentů OpenDocument do souborů webových archivů, které spojují obsah do jediného přenosného formátu podobného stránce. To je užitečné, když je výstup dokumentu nutné zobrazit v prohlížečích nebo zachovat jako samostatný webový obsah.
+
+Převod zlepšuje automatizaci tím, že umožňuje konzistentní generování sdílených, lehkých artefaktů připravených pro web z šablon, které lze uložit, přenést nebo vložit do širších digitálních pracovních postupů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování webového archivu**  
+  Vytváří samostatné výstupy stránek ze šablon dokumentů.
+
+* **Přenosné prohlížení**  
+  Usnadňuje otevírání obsahu v prostředích přátelských k prohlížečům.
+
+* **Uchování v jednom souboru**  
+  Zabaluje formátovaný výstup dokumentu do jednoho přenositelného souboru.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované vytváření webových snímků**  
+  Převádí soubory OTT do archivovaných webových dokumentů hromadně.
+
+* **Distribuce založená na prohlížeči**  
+  Podporuje pracovní postupy, které sdílejí výstup šablony jako soubory zobrazitelné ve webu.
+
+* **Pipelines pro zachování obsahu**  
+  Ukládá stavy formátovaných dokumentů do kompaktního přenosného formátu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

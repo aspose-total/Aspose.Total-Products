@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod DOCM na TSV převádí dokumenty s makry do hodnot oddělených tabulátory, což usnadňuje parsování, přenos a opětovné využití strukturovaného obsahu v datových pracovních postupech. Je zvláště užitečný, když tabulky v dokumentech potřebují jednoduchý textový formát s jasným oddělením polí.
+
+V automatizačních prostředích podporuje převod DOCM na TSV spolehlivou výměnu dat, ingestování do zpracovatelských pipeline a škálovatelnou transformaci obsahu dokumentů do lehkých strukturovaných výstupů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Extrahování tabulek pro zpracování**
+  Převádí tabulky v dokumentech do textové struktury vhodné pro datové pracovní postupy.
+
+* **Lehká výměna dat**
+  Podporuje přenos strukturovaného obsahu mezi nástroji s minimálním formátovacím zatížením.
+
+* **Příprava importu**
+  Pomáhá připravit z dokumentů odvozené záznamy pro systémy, které přijímají oddělené vstupy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Opakované strukturované exporty**
+  Automatizuje převod DOCM na TSV pro probíhající provozní pracovní postupy.
+
+* **Pipeline-přátelská příprava dat**
+  Vytváří výstupy, které lze snadno parsovat ve skriptech a integračních úlohách.
+
+* **Dávkové transformační pracovní postupy**
+  Programově převádí mnoho souborů DOCM do konzistentních TSV výstupů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

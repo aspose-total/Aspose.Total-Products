@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu V
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod VCF na WordML převádí data kontaktních karet do XML‑založeného značkovacího jazyka pro zpracování textu, který podporuje strukturovanou reprezentaci dokumentu a technickou interoperabilitu. To je cenné pro pracovní postupy, které vyžadují kontrolovatelný, transformovatelný a standardy orientovaný obsah dokumentů.
+
+V automatizačních scénářích umožňuje převod VCF na WordML Python API generovat strojově přátelské výstupy dokumentů, které lze validovat, transformovat a integrovat do XML‑řízených zpracovatelských pipeline.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Strukturovaný výstup značkování**  
+  Převést záznamy VCF do WordML pro XML‑založenou manipulaci s dokumenty.
+
+* **Technická interoperabilita**  
+  Podporovat systémy, které zpracovávají kontaktní informace prostřednictvím workflow se strukturovaným značkováním.
+
+* **Transformovatelný obsah dokumentu**  
+  Zachovat kontaktní data ve formátu vhodném pro analýzu a konverzní úlohy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **XML‑založené konverzní pipeline**  
+  Automaticky generovat soubory WordML ze záznamů kontaktů pro integraci do systému.
+
+* **Workflowy validace a transformace**  
+  Použít výstup značkování v automatizovaných nástrojích, které kontrolují nebo přetvářejí obsah dokumentu.
+
+* **Škálovatelné strukturované zpracování**  
+  Použít Python API k efektivnímu vytváření strojově čitelných kontaktních dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

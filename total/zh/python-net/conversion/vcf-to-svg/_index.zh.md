@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF 到 SVG 的转换将联系人卡片数据转换为可缩放的矢量图形，能够在不失去视觉质量的情况下调整大小。这对于需要在网页、演示和文档环境中呈现清晰联系人信息的系统来说是理想的。
+
+在自动化工作流中，VCF 到 SVG 的转换使 Python API 能够生成轻量级、可缩放的视觉资产，这些资产能够很好地集成到数字出版、界面渲染和结构化内容管道中。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **可扩展的联系人图形**  
+  将 VCF 记录转换为 SVG 文件，以实现分辨率无关的显示。
+
+* **网页和界面集成**  
+  在现代数字环境和嵌入式视觉中使用矢量输出。
+
+* **高清晰度展示**  
+  以一种在任何尺寸下都保持清晰的格式保存联系人信息。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自动化 SVG 渲染**  
+  从批量 VCF 文件生成可扩展的联系人图形。
+
+* **数字出版管道**  
+  自动将 SVG 输出输送到网页和文档系统。
+
+* **高效的矢量资产创建**  
+  使用 Python API 大规模创建可重用且可扩展的联系人视觉资产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod dokumentu do formátu PST transformuje obsah zpráv odvozený z Wordu do osobního úložného formátu, který se běžně používá pro správu poštovních schránek ve velkém měřítku a archivaci. Je užitečný tam, kde je třeba začlenit obsah dokumentu do širších pracovních toků ukládání e‑mailů.
+
+Python API zefektivňují převod DOC do PST pro úkoly spojené s podnikovou archivací, migrací a uchováváním, čímž pomáhají standardizovat procesy ukládání dokumentů do pošty.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Konsolidace archivů poštovní schránky**
+  Převést obsah komunikace odvozený z dokumentu do PST pro ukládání a přenos.
+
+* **Migrační pracovní toky**
+  Připravit na dokumentové zprávy pro scénáře migrace podnikového e‑mailu.
+
+* **Podpora uchovávání**
+  Zachovat strukturovaný obsah v široce používaném formátu osobního úložiště poštovní schránky.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizace archivních souborů**
+  Programově generovat obsah PST ze zdrojů zpráv založených na DOC.
+
+* **Hromadné balení poštovních dat**
+  Převést velké objemy obsahu odvozeného z dokumentů do kontejnerů úložiště poštovní schránky.
+
+* **Zpracování orientované na soulad**
+  Použít automatizovaný převod k podpoře řízeného uchovávání a archivních pracovních toků.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

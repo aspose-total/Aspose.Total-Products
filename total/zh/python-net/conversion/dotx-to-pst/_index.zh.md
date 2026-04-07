@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX 转 PST 转换将 Word 模板内容转换为与邮箱和消息归档工作流相关的个人存储表格格式。当生成的通信内容必须打包成可移植的邮件存储结构时，这非常有用。
+
+使用 Python API，此转换支持围绕电子邮件归档、消息组织以及基于结构化文档模板的大规模通信保留的自动化。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **可移植邮件归档**
+  将文档生成的通信打包成结构化的邮件存储格式。
+
+* **消息保留工作流**
+  为审查和合规性保留生成的通信。
+
+* **通信打包**
+  将可重用的基于文档的消息整合为面向归档的输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化邮件归档生成**
+  在保留流水线中从基于 DOTX 的通信内容创建 PST 输出。
+
+* **批量消息存储**
+  通过结构化归档处理大量生成的通信。
+
+* **文档到归档自动化**
+  将重复的模板输出以编程方式转换为可移植的邮箱资产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -64,7 +64,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX to PPTX conversion transforms Word template content into a modern XML-based presentation format for professional slide creation. It is valuable when template-driven content needs to be reused in presentations for reporting, training, sales, or internal communication.
+
+With Python APIs, this conversion supports scalable automation by turning structured documents into presentation outputs that fit modern collaborative and content-delivery workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Moderní tvorba snímků**
+  Převést obsah dokumentu do prezentací vhodných pro současné workflow.
+
+* **Převod obsahu pro prezentace**
+  Znovu použít text a strukturu šablony v materiálech pro briefing a školení.
+
+* **Profesionální komunikační materiály**
+  Vytvořit vylepšené výstupy snímků ze standardizovaných zdrojů dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované pipeline prezentací**
+  Převést soubory DOTX na prezentace PPTX v naplánovaných workflow obsahu.
+
+* **Reportování řízené šablonou**
+  Vytvořit opakující se sady snímků z schválených šablon dokumentů.
+
+* **Škálovatelné publikování prezentací**
+  Programově generovat výstupy prezentací pro široké využití v organizaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

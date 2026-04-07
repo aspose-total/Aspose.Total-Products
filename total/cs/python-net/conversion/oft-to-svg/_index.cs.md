@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod OFT na SVG pomocí Python API převádí šablony e‑mailů Outlooku na škálovatelné vektorové grafiky pro čisté vizuální vykreslení v libovolné velikosti. To je cenné, když je potřeba zobrazit obsah šablony ostře ve webových, designových nebo dokumentačních prostředích, aniž by došlo ke ztrátě kvality.
+
+Tento převod je zvláště relevantní pro automatizované systémy, které dynamicky generují, zobrazují nebo vkládají grafiku. Zlepšuje přenositelnost, škálovatelnost a integraci s moderními pracovními postupy digitální prezentace.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Škálovatelný vizuální export**  
+  Převést šablony OFT do souborů SVG pro vykreslování nezávislé na rozlišení napříč obrazovkami a velikostmi.
+
+* **Vkládání do webu a rozhraní**  
+  Použít výstup SVG v portálech, nástěnkách nebo obsahových systémech, které vyžadují flexibilní vizuální aktiva.
+
+* **Čisté diagramové zachování**  
+  Zobrazit rozvržení šablony ve vektorovém formátu vhodném pro moderní digitální dokumentaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Dynamické generování grafiky**  
+  Automaticky vytvářet SVG aktiva ze šablon OFT pro webové prezentační systémy.
+
+* **Škálovatelná distribuce obsahu**  
+  Použít Python API k distribuci vektorových výstupů napříč responzivními digitálními prostředími.
+
+* **Programové opětovné využití aktiv**  
+  Zahrnout vygenerované SVG soubory do dokumentace, publikování nebo pracovních postupů rozhraní bez ručního přepracování.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

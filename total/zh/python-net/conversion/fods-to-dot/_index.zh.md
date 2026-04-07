@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FODS 到 DOT 的转换允许将平面的 OpenDocument 电子表格数据转换为 Word 模板文件，从而更容易在重复文档中统一结构化内容的呈现方式。当组织希望在重复的报告任务中复用布局、格式和文档结构时，这尤其有用。
+
+在自动化工作流中，FODS 到 DOT 的转换支持基于模板的文档生成和可重复的内容生产。借助 Python API，团队可以自动化地从结构化数据源创建模板，并将文档标准化集成到更广泛的数字流程中。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **从数据创建模板**  
+  将基于电子表格的内容转换为 DOT 文件，以实现可重用的文档结构。
+
+* **标准化报告布局**  
+  为从结构化源信息生成的周期性报告构建一致的模板。
+
+* **文档格式控制**  
+  使用 DOT 输出在多个生成的文档中保持统一的样式和布局。
+
+* **工作流可重用性**  
+  通过将数据转换为可重用的模板资产，支持重复的文档创建过程。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **模板生成流水线**  
+  Python 自动化可以从 FODS 输入创建 DOT 模板，以实现标准化的下游使用。
+
+* **周期性文档生成**  
+  自动化系统可以重复使用生成的模板进行周期性报告和运营文档。
+
+* **批量模板转换**  
+  多个 FODS 文件可以在单个自动化工作流中转换为可用于模板的格式。
+
+* **大规模格式一致性**  
+  编程式转换有助于在大批量流程中保持文档外观的一致性。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

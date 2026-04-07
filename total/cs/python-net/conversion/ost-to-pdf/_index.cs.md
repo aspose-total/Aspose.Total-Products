@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OST to PDF conversion transforms mailbox data into a widely accepted fixed-layout document format, preserving email content in a stable and shareable form. It is highly useful for archiving, compliance, legal review, and secure content distribution.
+
+In automation-focused workflows, OST to PDF conversion provides reliable document output that integrates well with search, storage, and audit systems. Python APIs make large-scale conversion efficient, enabling repeatable processing of mailbox archives into professional digital records.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Dlouhodobé zachování záznamů**  
+  Převádí obsah poštovní schránky do PDF pro stabilní a konzistentní archivaci.
+
+* **Soulad a právní podpora**  
+  Pomáhá zachovat e‑mailové záznamy v needitovatelném formátu vhodném pro formální revizi.
+
+* **Universální sdílení dokumentů**  
+  Umožňuje snadné šíření a přístup k souborům odvozeným z poštovní schránky napříč platformami.
+
+* **Strukturované obchodní reportování**  
+  Podporuje tvorbu profesionálních výstupních dokumentů z archivované komunikace.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Podnikové archivační pipeline**  
+  Python skripty převádějí soubory OST do PDF pro centralizovanou správu záznamů.
+
+* **Automatizace pracovních postupů pro soulad**  
+  Automatizované systémy generují PDF důkazy z obsahu poštovní schránky pro procesy uchovávání.
+
+* **Prohledávatelné úložiště dokumentů**  
+  Programatický převod poskytuje standardizované výstupy do indexovacích a úložných platforem.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

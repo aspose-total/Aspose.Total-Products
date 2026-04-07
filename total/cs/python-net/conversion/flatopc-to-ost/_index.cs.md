@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu F
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FlatOPC na OST převod pomocí Python API podporuje transformaci strukturovaného obsahu dokumentů do offline formátu orientovaného na poštovní schránky, který se používá pro synchronizovaný přístup a lokální ukládání zpráv. To je relevantní pro podniky, které potřebují data komunikace odvozená z dokumentů připravená pro offline zpracování, podporu migrace nebo pracovní postupy související s poštovními schránkami.
+
+Z hlediska automatizace tento převod pomáhá snižovat ruční přípravu, podporuje škálovatelné strategie synchronizace obsahu a umožňuje strukturovaným datům proudit do větších ekosystémů zpráv a archivace.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Příprava offline poštovní schránky**  
+  Převést obsah FlatOPC do výstupu kompatibilního s OST pro pracovní postupy zahrnující synchronizovaný lokální přístup k poštovní schránce.
+
+* **Ukládání pošty řízené dokumenty**  
+  Přetvořit informace ze zdrojových dokumentů do struktur souvisejících s poštovními schránkami pro zachování provozní kontinuity.
+
+* **Podpora připravenosti na migraci**  
+  Připravit převedený obsah pro prostředí, kde je offline správa poštovní schránky součástí migračního procesu.
+
+* **Konsolidace dat zpráv**  
+  Použít převod k organizaci strukturovaného obsahu pro řízené lokální ukládání a následnou synchronizaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Škálovatelné zpracování dat poštovní schránky**  
+  Automatizace vylepšuje tento scénář převodem velkého množství dokumentů FlatOPC do výstupů připravených pro poštovní schránky.
+
+* **Podpora pracovního postupu synchronizace**  
+  Téma zlepšuje automatizované pracovní postupy přípravou strukturovaného obsahu pro prostředí zpráv s offline přístupem.
+
+* **Integrace životního cyklu dokumentu**  
+  Programové procesy mohou převádět zdrojové soubory jako součást širší synchronizace obsahu a operací ukládání.
+
+* **Podnikové pipeline pro zpracování dat**  
+  Automatizovaný převod podporuje efektivní přesun informací odvozených z dokumentů do systémů orientovaných na poštovní schránky.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

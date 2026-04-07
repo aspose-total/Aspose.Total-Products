@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT 转 VCF 转换将文档模板转换为可用于地址簿导入和联系人共享的名片文件。当基于文档的记录包含需要进入通信系统的个人或组织详细信息时，这非常有用。
+
+Python API 允许将 DOT 转 VCF 的转换自动化，提升联系人数据的可移植性，并减少业务工作流中重复的手动输入。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **联系人记录生成**
+  将基于 DOT 的信息转换为用于地址簿的 VCF 文件。
+
+* **可移植的联系人共享**
+  以标准化格式共享从模板中提取的结构化联系人数据。
+
+* **通信数据录入支持**
+  通过将模板内容转换为可导入的联系人卡片来减少手动输入。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化联系人导出**
+  Python 工作流可以从包含联系信息的 DOT 模板生成 VCF 文件。
+
+* **CRM 与目录集成**
+  转换支持将基于文档的联系人数据迁移到通信系统中。
+
+* **批量联系人文件创建**
+  编程处理使得能够从大量模板可扩展地生成 VCF 输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

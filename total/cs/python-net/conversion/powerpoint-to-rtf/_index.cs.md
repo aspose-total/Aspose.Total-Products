@@ -65,7 +65,47 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Slides for Python via 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PowerPoint to RTF conversion in Python transforms presentation content into a rich text format that balances editability with broad compatibility. This is useful when slide material needs to be shared as formatted text across systems that may not require full Word document features.
+
+For automation use cases, RTF conversion supports lightweight document exchange, text preservation, and flexible integration into content workflows. It is a practical format when compatibility and readable formatting are both important.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Export formátovaného textu**
+  Převádí obsah prezentace do editovatelného textu při zachování základního stylování.
+
+* **Sdílení dokumentů napříč systémy**
+  Podporuje výměnu obsahu mezi platformami s různými schopnostmi zpracování textu.
+
+* **Archivace prezentací**
+  Pomáhá zachovat informace ze snímků v jednoduchém a přenosném textovém formátu.
+
+* **Pracovní toky redakčního revize**
+  Usnadňuje revizi obsahu snímků v lehkých dokumentových prostředích.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Lehká konverze dokumentů**
+  Automatizuje generování RTF souborů pro snadnou distribuci a úpravy.
+
+* **Pipelines výměny obsahu**
+  Podporuje pracovní toky, které vyžadují širokou kompatibilitu napříč systémy zpracování textu.
+
+* **Hromadná transformace textu**
+  Umožňuje konverzi velkého množství prezentací do přehledných výstupních dokumentů.
+
+* **Interoperabilní publikační toky**
+  Pomáhá organizacím využívat obsah prezentací v prostředích s různými formáty.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

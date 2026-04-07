@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل WordML إلى ODS يحول المحتوى الهيكلي المستند إلى المستندات إلى ملفات OpenDocument Spreadsheet للتعامل مع البيانات وفق معيار مفتوح وتحرير الجداول. يكون ذلك ذا قيمة عندما تحتاج المؤسسات إلى مخرجات جداول قابلة للتحرير دون الاعتماد على صيغ مملوكة.
+
+تساعد واجهات برمجة تطبيقات Python في أتمتة تحويل WordML إلى ODS عن طريق استخراج الجداول وربطها بأوراق الجداول المناسبة لتدفقات عمل تعاونية ومحمولة وقابلة للتوسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إخراج جدول بيانات مفتوح**
+  يحول جداول WordML إلى ملفات ODS قابلة للتحرير لتدفقات عمل جداول بيانات معيارية مفتوحة.
+
+* **تبادل بيانات محمول**
+  يدعم نقل المحتوى الهيكلي إلى بيئات جداول بيانات قابلة للتشغيل البيني.
+
+* **إعادة استخدام جداول المستند**
+  يجعل البيانات الموجودة داخل المستند أسهل في التحليل والصيانة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تحويل جداول بيانات دفعي**
+  ينشئ ملفات ODS تلقائيًا من مستندات WordML متعددة.
+
+* **تكامل سير عمل مفتوح**
+  يمد الجداول المحولة إلى بيئات معالجة قائمة على المعايير.
+
+* **استخراج بيانات قابل للتوسع**
+  يدعم تحويلًا واسع النطاق لجداول المستند إلى أصول جداول بيانات قابلة لإعادة الاستخدام.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV 到 RTF 的转换将结构化的表格内容转换为兼具可移植性、可读性和可编辑格式的富文本文档。当需要以轻量级文本文档格式共享 TSV 数据，同时仍然保留文档结构和呈现价值时，这种转换非常有用。
+
+使用 Python API，TSV 到 RTF 的转换可以实现自动化，以支持高效的基于文本的报告、可扩展的导出工作流以及结构化数据向文档中心系统的平稳迁移。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **轻量级文档导出**  
+  将 TSV 数据转换为易于共享和编辑的格式化文本文档。
+
+* **可读的结构化内容**  
+  帮助以更友好的文档形式呈现原始表格记录。
+
+* **跨环境兼容性**  
+  支持受广泛支持的文本格式受益的文档工作流。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化文本报告生成**  
+  Python API 可以从 TSV 输入创建 RTF 文件，以用于重复的文档任务。
+
+* **数据到文档的转换**  
+  自动化帮助将原始结构化导出转换为格式化的文本输出。
+
+* **批量转换操作**  
+  大量 TSV 文件可以高效地转换为 RTF 格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

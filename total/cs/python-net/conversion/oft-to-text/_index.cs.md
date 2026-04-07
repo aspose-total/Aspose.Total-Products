@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OFT to TEXT conversion using Python APIs extracts Outlook email template content into plain text for simple processing, indexing, and archival. This is useful when formatting is less important than content accessibility, searchability, and lightweight data handling.
+
+In automation workflows, OFT to TEXT conversion supports parsing, analysis, and integration with systems that rely on raw textual content. It improves efficiency in content extraction, search optimization, and downstream data operations.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Extrahování čistého obsahu**  
+  Převést soubory OFT na text pro přímý přístup k obsahu zprávy bez složitosti formátování.
+
+* **Příprava vyhledávání a indexování**  
+  Použít výstupy v prostém textu ke zlepšení indexování, vyhledávání a analytických pracovních postupů založených na textu.
+
+* **Lehká archivace**  
+  Zachovat podstatný obsah šablon v kompaktním a jednoduchém formátu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Pipelines pro těžbu textu**  
+  Zavést extrahovaný obsah OFT do automatizovaných procesů klasifikace, označování nebo analýzy.
+
+* **Vytvoření prohledávatelného archivu**  
+  Převést šablony na prostý text pro indexaci úložiště a rychlé vyhledávací pracovní postupy.
+
+* **Programatická normalizace obsahu**  
+  Použít Python API k standardizaci textu šablony pro následné integrace a zpracování dat.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

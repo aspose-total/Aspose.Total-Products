@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod WordML na TSV transformuje strukturovaný obsah dokumentu do textových souborů oddělených tabulátory, které jsou jednoduché, přenosné a snadno použitelné v datových pracovních tocích. Je užitečný, když je potřeba čisté oddělení sloupců bez formátování specifického pro tabulkové kalkulátory.
+
+Python API umožňují efektivní převod WordML na TSV tím, že extrahují struktury tabulek a převádějí je do lehkých, automatizaci přátelských výstupů pro zpracování a výměnu dat.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Export dat s oddělovačem**
+  Převádí tabulky WordML do TSV souborů pro čistou výměnu textových dat.
+
+* **Výstup vhodný pro pipeline**
+  Vytváří jednoduché strukturované soubory vhodné pro parsování a validační úlohy.
+
+* **Extrahování tabulek z dokumentu**
+  Usnadňuje programové zpracování tabulkového obsahu dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Dávková konverze tabulek**
+  Automaticky převádí tabulky dokumentů do TSV souborů pro následné pracovní toky.
+
+* **Podpora ETL pracovních toků**
+  Vkládá TSV výstupy do ingestních, mapovacích a transformačních pipeline.
+
+* **Úlohy synchronizace dat**
+  Umožňuje opakovatelný export aktualizovaných dat z dokumentu do textových strukturovaných souborů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

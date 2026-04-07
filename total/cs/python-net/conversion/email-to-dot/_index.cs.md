@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu E
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod e‑mailů na DOT v Pythonu umožňuje zprávy převést do souborů šablon Wordu pro standardizované vytváření dokumentů. To je užitečné, když obsah e‑mailu slouží jako výchozí bod pro opakovatelně použitelné šablony používané v administrativních, právních nebo provozních procesech.
+
+Podporuje automatizaci tím, že pomáhá organizacím převádět komunikační vzory na znovupoužitelné šablonové prostředky, což zvyšuje konzistenci a snižuje ruční přípravu dokumentů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření šablon z komunikace**
+  Převádějte opakující se struktury e‑mailů do DOT šablon pro opakované generování dokumentů.
+
+* **Standardizované rozvržení obsahu**
+  Uchovávejte běžné formáty založené na e‑mailu jako znovupoužitelné soubory šablon.
+
+* **Vytváření provozních formulářů**
+  Přeměňujte vzory zpráv na výchozí dokumenty pro interní pracovní postupy.
+
+* **Konzistence formátování**
+  Aplikujte opakovatelné pravidla rozvržení ukládáním struktur odvozených z e‑mailu jako šablon.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Generování knihovny šablon**
+  Automaticky vytvářejte DOT šablony ze strukturovaného obsahu e‑mailu pro použití v odděleních.
+
+* **Opakovatelná výroba dokumentů**
+  Používejte převedené šablony k vytváření konzistentních výstupů z opakujících se komunikací.
+
+* **Standardizace formulářů řízená workflow**
+  Vkládejte šablony odvozené z e‑mailu do systémů, které automaticky generují rutinní dokumenty.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

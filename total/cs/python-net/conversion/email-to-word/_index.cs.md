@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu E
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod e‑mailu do Wordu v Pythonu umožňuje převést obsah zprávy do editovatelných dokumentů pro zpracování textu, určených pro tvorbu, ukládání a spolupráci. Je užitečný, když e‑mailová komunikace musí být převedena na pracovní dokumenty v rámci širších obchodních procesů.
+
+Tento převod zlepšuje automatizaci tím, že přesouvá nestrukturovaný obsah schránky do strukturovaných dokumentových pracovních toků, které podporují úpravy, opětovné použití, schvalování a správu úložiště.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Uchování editovatelné zprávy**  
+  Převést e‑maily do dokumentů Word pro snadnější revizi a opětovné použití.
+
+* **Dokumentace obchodních procesů**  
+  Přeměnit důležité komunikace na pracovní soubory pro týmy a oddělení.
+
+* **Spolupráce na obsahu**  
+  Sdílet převedené e‑maily ve formátu, který podporuje úpravy a komentáře.
+
+* **Integrace pracovního toku**  
+  Vložit dokumenty odvozené z e‑mailu do strukturovaných úložišť a schvalovacích systémů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Převodní pipeline z inboxu do Wordu**  
+  Automaticky generovat dokumenty Word z vybraných e‑mailů pro zpracování.
+
+* **Pracovní toky standardizace obsahu**  
+  Normalizovat obsah e‑mailů do editovatelných obchodních dokumentů ve velkém měřítku.
+
+* **Automatizované směrování revizí**  
+  Posílat převedené soubory Word skrze spolupracující redakční nebo provozní pipeline.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

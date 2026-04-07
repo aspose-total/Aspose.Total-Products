@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل MBOX إلى PCL يحول أرشيفات صناديق البريد إلى مخرجات بلغة التحكم في الطابعات، مما يجعل محتوى البريد الإلكتروني مناسبًا للأنظمة التي تركز على الطباعة وتدفقات العمل الموجهة للأجهزة. هذا مفيد عندما تحتاج الرسائل المؤرشفة إلى التسليم مباشرةً إلى بيئات طباعة مُتحكم فيها.
+
+باستخدام واجهات برمجة تطبيقات Python، يمكن للفرق أتمتة تحويل صندوق البريد إلى PCL لدعم قوائم طباعة، ومعالجة المستندات ذات الحجم الكبير، والتكامل مع أنظمة مخرجات المؤسسات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تصدير البريد الإلكتروني الموجه للطباعة**
+  تحويل الرسائل إلى ملفات PCL للمعالجة الجاهزة للطباعة.
+
+* **توافق تدفق عمل الأجهزة**
+  تحضير محتوى صندوق البريد للأنظمة المبنية على مخرجات طباعة مُتحكم فيها.
+
+* **أرشفة الطباعة التشغيلية**
+  حفظ سجلات البريد الإلكتروني بصيغ تتماشى مع تدفقات عمل الطباعة الإنتاجية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء قائمة طباعة آلية**
+  تحويل أرشيفات صناديق البريد إلى مخرجات PCL لتدفقات عمل الطباعة المجدولة.
+
+* **تكامل مخرجات المؤسسة**
+  توجيه ملفات البريد الإلكتروني المحوّلة إلى أنظمة إدارة الأجهزة ومعالجة الطباعة.
+
+* **معالجة المستندات ذات الحجم الكبير**
+  استخدام Python لتوسيع تحويل صناديق البريد لبيئات تشغيلية تعتمد على الطباعة بشكل كبير.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

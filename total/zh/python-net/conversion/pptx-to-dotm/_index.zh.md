@@ -66,7 +66,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX 到 DOTM 的转换将演示文稿内容转换为宏启用的文档模板格式，适用于可重复和自动化的文档创建。当演示材料必须在依赖模板逻辑、自动化或高级处理行为的受控工作流中重复使用时，这非常有用。
+
+使用 Python API 处理时，PPTX 到 DOTM 的转换通过将可重用结构与宏启用功能相结合，支持可扩展的模板自动化。这帮助组织为表单、报告和流程驱动的沟通创建高效的文档生成系统。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用模板创建**
+  将演示文稿转换为支持自动化文档操作的可重用模板。
+
+* **标准化流程文档**
+  为经常性的运营或报告需求构建结构化模板。
+
+* **工作流驱动的表单设计**
+  在用于高级文档自动化的模板中重复使用幻灯片内容。
+
+* **可重复的内容交付**
+  为一致的文档输出生成准备基于演示的模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板部署**
+  从演示文稿生成 DOTM 文件，以供依赖可重用自动化模板的系统使用。
+
+* **批量表单模板处理**
+  以编程方式将一批 PPTX 文件转换为宏启用的模板。
+
+* **基于规则的文档生成**
+  将转换后的 DOTM 模板输入到应用逻辑驱动输出创建的工作流中。
+
+* **企业文档标准化**
+  使用 Python API 在复杂的文档环境中扩展模板生产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

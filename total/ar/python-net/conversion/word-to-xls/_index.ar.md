@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل Word إلى XLS باستخدام واجهات برمجة تطبيقات Python يتيح تحويل محتوى معالجة النصوص إلى ملفات جداول بيانات كلاسيكية لاستخدام البيانات المهيكلة في بيئات جداول البيانات القديمة. هذا مفيد عندما يجب تنظيم المعلومات من المستندات في أوراق عمل للتحليل أو التقارير أو المتابعة التشغيلية.
+
+من منظور الأتمتة، يدعم هذا التحويل سير عمل يركز على التوافق من خلال تحويل المحتوى المستمد من المستندات إلى أصول جداول بيانات تظل قابلة للاستخدام عبر الأنظمة القديمة.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **تصدير جداول البيانات القديمة**
+  يحوّل محتوى Word إلى XLS لتدفقات العمل التقليدية القائمة على أوراق العمل.
+
+* **تنظيم البيانات التشغيلية**
+  يعيد تنظيم معلومات المستند إلى أوراق لتسهيل المتابعة والتحليل.
+
+* **الحفاظ على التوافق**
+  يدعم البيئات التي لا يزال فيها تنسيقات جداول البيانات الكلاسيكية مطلوبة.
+
+* **دعم سير عمل التقارير**
+  يجعل البيانات المستمدة من المستندات أسهل في الإدارة باستخدام أدوات جداول البيانات المعتمدة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **إنشاء XLS دفعي**
+  يحوّل ملفات Word تلقائيًا إلى جداول بيانات كلاسيكية للعمليات المستمرة.
+
+* **خطوط دمج الأنظمة القديمة**
+  يُغذي بيانات أوراق العمل المستمدة من المستندات إلى أنظمة الأعمال القديمة.
+
+* **سير عمل تحويل الأرشيف**
+  يحافظ على المخرجات المهيكلة بصيغة جداول البيانات لاسترجاعها ومراجعتها لاحقًا.
+
+* **أتمتة من مستند إلى ورقة**
+  يربط عمليات استخراج المستندات بروتينات التقارير القائمة على جداول البيانات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

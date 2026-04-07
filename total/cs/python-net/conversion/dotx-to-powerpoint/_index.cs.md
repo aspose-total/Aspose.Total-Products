@@ -64,7 +64,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX to PowerPoint conversion transforms Word template content into presentation-ready output for communication, training, reporting, and visual storytelling. It is useful when text-driven documents need to be repurposed into slide-based formats for broader presentation use.
+
+With Python APIs, this conversion enables automated creation of presentation assets from structured templates, reducing manual rework and improving scalability across recurring content workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Převod dokumentu na snímky**
+  Převést strukturovaný obsah dokumentu na prezentační materiál pro schůzky a briefinky.
+
+* **Vizuální komunikační workflow**
+  Přeměnit textově orientované šablony na materiály připravené k prezentaci.
+
+* **Podpora školení a reportování**
+  Znovu využít znalosti z dokumentů v prezentacích pro interní i externí komunikaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná tvorba prezentací**
+  Vytvářet výstupy kompatibilní s PowerPointem ze šablon DOTX v reportovacích pipelinech.
+
+* **Škálovatelná sestava prezentací**
+  Automaticky vytvářet opakující se prezentace ze obsahu založeného na dokumentech.
+
+* **Distribuce obsahu řízená šablonou**
+  Převést schválené dokumenty na prezentační výstupy pro standardizované doručení.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

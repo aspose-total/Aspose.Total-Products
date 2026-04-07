@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل البريد الإلكتروني إلى PCL في بايثون يحول محتوى الرسالة إلى مخرجات لغة أوامر الطابعة المناسبة لتدفقات العمل الموجهة للأجهزة. هذا مفيد عندما يجب عرض رسائل البريد مباشرةً لضمان طباعة متسقة في بيئات الطباعة التشغيلية أو القديمة.
+
+يدعم الأتمتة من خلال تمكين محتوى الرسالة من الانتقال مباشرةً إلى خطوط طباعة، مما يقلل خطوات التحضير ويسهل إنشاء مخرجات على نطاق واسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **دعم تدفق العمل الطباعة المباشر**
+  تحويل رسائل البريد إلى PCL للأنظمة التي تعتمد على مخرجات جاهزة للطباعة.
+
+* **طباعة رسائل تشغيلية**
+  استخدام مخرجات PCL حيث يجب طباعة الاتصالات بتنسيقات موحدة.
+
+* **توافق مع بيئات قديمة**
+  دعم البنى التحتية للطباعة القديمة من خلال عرض البريد الإلكتروني مباشرةً.
+
+* **قوائم طباعة مركزية**
+  إدخال ملفات البريد المحولة إلى عمليات طباعة عالية الحجم.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إرسال طباعة مؤتمت**
+  تحويل رسائل البريد الواردة إلى PCL وإرسالها إلى قوائم طباعة مجدولة.
+
+* **مخرجات تشغيلية دفعية**
+  إنتاج سجلات بريد جاهزة للطباعة للوجستيات أو الإدارة أو المراجعة.
+
+* **تسليم مستندات مدفوع بالأجهزة**
+  دمج تحويل البريد الإلكتروني مع أنظمة إدارة الطباعة المؤتمتة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

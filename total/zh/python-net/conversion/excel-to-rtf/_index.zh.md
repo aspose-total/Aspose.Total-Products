@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+在 Python 中的 Excel 到 RTF 转换将电子表格内容转换为兼具可移植性和可编辑格式的富文本文档。当需要将电子表格数据重新用于以文本为中心、且保持结构和可读性的格式时，这非常有用。
+
+此转换通过支持轻量级文档生成工作流，实现自动化，将电子表格数据转换为可共享的格式化文本输出。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **格式化文本导出**  
+  将 Excel 数据转换为 RTF 文档，以实现可读且可编辑的基于文本的分发。
+
+* **跨编辑器兼容性**  
+  当文档输出需要在不同文字处理环境中获得广泛支持时，使用 RTF。
+
+* **结构化内容共享**  
+  将电子表格信息转换为更简洁的文档格式，适合审阅和重复使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化文本文档生成**  
+  在报告或归档工作流中使用 Python API 从 Excel 输入创建 RTF 文件。
+
+* **轻量级文档管道**  
+  支持需要格式化文本输出但不需要完整文档复杂性的系统。
+
+* **批量内容转换**  
+  以编程方式将电子表格集合转换为 RTF 文件，以加快交付速度。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

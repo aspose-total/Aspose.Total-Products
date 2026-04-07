@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML 到 SXC 的转换将基于文档的结构化内容转换为兼容传统开放电子表格工作流的电子表格文件。这对于需要保持与旧版开放办公环境兼容性的组织非常有用。
+
+Python API 通过提取表格并自动将其转换为面向电子表格的格式，支持 WordML 到 SXC 的转换，以满足迁移和互操作性的需求。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **传统开放电子表格输出**
+  将 WordML 表格转换为适用于旧版电子表格环境的 SXC 文件。
+
+* **文档中的数据复用**
+  使结构化文档内容能够在传统电子表格工具中编辑。
+
+* **兼容性保留**
+  支持仍然依赖旧版开放格式的长尾工作流。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **传统导出自动化**
+  在以兼容性为重点的工作流中，从 WordML 文件生成 SXC 输出。
+
+* **迁移支持任务**
+  将文档库与旧版电子表格处理环境连接起来。
+
+* **批量表格转换**
+  自动提取并打包文档数据到传统电子表格文件中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

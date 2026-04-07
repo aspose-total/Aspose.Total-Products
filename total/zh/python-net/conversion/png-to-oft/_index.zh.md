@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PNG 到 OFT 的转换能够将基于图像的内容转化为可重复使用的电子邮件模板文件，帮助组织标准化围绕视觉输入构建的沟通方式。当需要在循环消息中保持一致的结构并加入基于 PNG 的图形、通知或图像驱动的信息时，这非常有价值。
+
+借助 Python API，可以自动化 OFT 的生成，以支持大规模的模板创建，提高消息工作流的一致性，并简化依赖可重复沟通格式的系统。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **可重复使用的电子邮件模板创建**  
+  将 PNG 内容转换为基于 OFT 的模板，以用于循环通信。
+
+* **标准化的视觉消息**  
+  帮助团队构建包含基于图像信息的可重复使用的电子邮件格式。
+
+* **运营沟通设计**  
+  支持需要从 PNG 资产生成结构化模板的工作流。
+
+* **基于模板的外展**  
+  使得可视化的电子邮件模板能够为未来的发送或编辑做好准备。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **动态模板生成**  
+  Python API 可以从 PNG 输入创建 OFT 模板，用于自动化通信系统。
+
+* **批量模板准备**  
+  多个基于 PNG 的消息布局可以转换为 OFT 文件，以支持大规模操作。
+
+* **工作流标准化**  
+  系统可以自动生成跨部门或跨流程的一致视觉电子邮件模板。
+
+* **触发式通信管道**  
+  当新的基于 PNG 的资产进入工作流时，应用程序可以按需生成 OFT 模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

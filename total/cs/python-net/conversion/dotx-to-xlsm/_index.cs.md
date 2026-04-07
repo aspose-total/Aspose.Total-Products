@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX na XLSM převod transformuje obsah šablony Wordu do formátu tabulky s makry pro pokročilé pracovní postupy se sešity. Je užitečný, když je třeba strukturovaná data dokumentu znovu použít v tabulkách, které podporují chování zaměřené na automatizaci.
+
+S Python API tento převod umožňuje škálovatelné generování výstupů tabulek, které vyhovují složitějším podnikovým a provozním procesům.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření tabulek s makry**
+  Převést obsah dokumentu do formátů sešitu vhodných pro pokročilé pracovní postupy.
+
+* **Opětovné použití provozních dat**
+  Přesunout informace odvozené ze šablony do strukturovaných prostředí tabulek.
+
+* **Podpora složitého reportování**
+  Připravit výstupy tabulek pro bohatší scénáře zpracování.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná výroba sešitů**
+  Generovat soubory XLSM ze šablon DOTX v opakujících se systémech reportování.
+
+* **Pokročilé pipeline tabulek**
+  Použít převedené výstupy v pracovních postupech, které vyžadují formáty sešitů schopné automatizace.
+
+* **Škálovatelná transformace dat**
+  Programově převést opakované struktury dokumentů na obohacená aktiva v tabulkách.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

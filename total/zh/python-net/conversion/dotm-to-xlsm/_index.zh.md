@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM 到 XLSM 的转换将支持宏的 Word 模板转换为支持宏的 Excel 工作簿，以实现高级电子表格自动化和可重用的数据工作流。当文档内容必须转移到电子表格形式且仍需支持更动态的工作簿行为时，这非常有用。
+
+使用 Python API 进行 DOTM 到 XLSM 的转换可实现从结构化模板自动创建高级工作簿。这提升了一致性，支持可扩展的业务自动化，并帮助将文档驱动的流程与电子表格操作集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用工作簿创建**
+  将 DOTM 内容转换为 XLSM，以用于高级电子表格工作流。
+
+* **文档到电子表格自动化**
+  将结构化模板内容重新用于可重用的工作簿，以进行数据处理。
+
+* **运营工作流支持**
+  从基于文档的输入启用更丰富的电子表格驱动流程。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化高级工作簿生成**
+  工作流可以从 DOTM 模板创建 XLSM 文件，以进行动态电子表格处理。
+
+* **业务逻辑集成**
+  此转换支持将文档与高级工作簿使用相连接的自动化管道。
+
+* **批量工作簿生产**
+  编程处理能够一致地将 DOTM 文件大规模转换为 XLSM。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

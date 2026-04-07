@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX to Email conversion transforms document content into an email-ready format that can be embedded within email messages or email-based communication systems. This process allows text, formatting, and structured information from DOCX files to be integrated into email workflows.
+
+Using Python APIs, DOCX-to-Email conversion can be automated within communication platforms, document distribution systems, and automated notification services. This enables dynamic document delivery through email channels without manual formatting or copying.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování e‑mailu na základě dokumentu**  
+  Převádí DOCX dokumenty na obsah vhodný pro automatizované e‑mailové zprávy.
+
+* **Automatizovaná distribuce zpráv**  
+  Umožňuje distribuovat zprávy vytvořené ve formátu DOCX prostřednictvím e‑mailových pracovních postupů.
+
+* **Vytváření e‑mailů na základě šablon**  
+  Umožňuje převést šablony dokumentů na formátovaný e‑mailový obsah.
+
+* **Opětovné využití obsahu napříč komunikačními systémy**  
+  Usnadňuje opětovné využití obsahu dokumentu v automatizovaných e‑mailových komunikačních kanálech.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované systémy e‑mailových upozornění**  
+  Soubory DOCX lze automaticky převést na e‑mailový obsah a programově odeslat příjemcům.
+
+* **Automatizace pracovního postupu Dokument‑na‑e‑mail**  
+  Automatizační pipeline v Pythonu mohou převádět vygenerované dokumenty do formátů připravených pro e‑mail.
+
+* **Platformy pro dynamické doručování obsahu**  
+  Systémy mohou převádět DOCX dokumenty na e‑mailové zprávy pro automatizované komunikační procesy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

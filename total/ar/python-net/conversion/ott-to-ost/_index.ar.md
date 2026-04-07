@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل OTT إلى OST في واجهات برمجة تطبيقات بايثون يحول قوالب نصية من OpenDocument إلى هياكل بيانات صندوق بريد غير متصل تُستخدم في سيناريوهات تخزين البريد الإلكتروني المتزامن. هذا ذو صلة عندما يجب أن يتماشى محتوى التواصل المُولد مع سير عمل موجه لصناديق البريد ومتطلبات التخزين.
+
+يدعم التحويل الأتمتة من خلال ربط توليد الرسائل المستندة إلى المستندات مع الوصول غير المتصل، وإعداد الأرشفة، وعمليات إدارة التواصل التي تعتمد على بيانات صندوق بريد مُنظمة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إعداد بيانات البريد غير المتصل**  
+  يدعم سير العمل الذي يستخدم تخزينًا على نمط صندوق البريد المتزامن.
+
+* **تعبئة التواصل المُولد**  
+  يحوّل محتوى القالب إلى مخرجات موجهة لصندوق البريد.
+
+* **دعم الأرشفة والوصول**  
+  يساعد في حفظ بيانات التواصل لسيناريوهات المعالجة غير المتصلة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تجميع بيانات البريد الأوتوماتيكي**  
+  ينتج مخرجات متوافقة مع OST من قوالب المستندات.
+
+* **خطوط أنابيب الأرشفة المؤسسية**  
+  يدمج التواصل المُولد في سير عمل التخزين المُدار.
+
+* **معالجة التواصل بالجملة**  
+  يقوم بتوسيع تحويل محتوى OTT إلى هياكل جاهزة لصناديق البريد.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

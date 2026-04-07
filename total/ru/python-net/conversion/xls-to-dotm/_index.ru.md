@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS в DOTM преобразует информацию из электронных таблиц в шаблоны Word с поддержкой макросов, которые поддерживают повторяемые и продвинутые рабочие процессы генерации документов. Этот формат актуален, когда организациям нужны переиспользуемые файлы шаблонов, совместимые со средами, поддерживающими макросы.
+
+Использование Python API для преобразования XLS в DOTM повышает эффективность за счёт автоматизации производства шаблонов и позволяет создавать документы, управляемые данными таблиц, в масштабируемых системах.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Создание шаблонов с поддержкой макросов**
+  Создавайте шаблоны DOTM из данных таблицы для продвинутых рабочих процессов с документами.
+
+* **Повторяемые структуры документов**
+  Используйте содержимое XLS для определения шаблонов для последовательной бизнес-документации.
+
+* **Процессно-ориентированный дизайн документов**
+  Обеспечьте контролируемое создание шаблонов для отделов, зависящих от структурированных файлов вывода.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Программное построение шаблонов**
+  Автоматически генерируйте шаблоны DOTM из входных данных таблицы с помощью Python API.
+
+* **Корпоративные конвейеры шаблонов**
+  Преобразуйте файлы XLS в переиспользуемые шаблоны для стандартизированных операций с документами.
+
+* **Интеграция в рабочий процесс**
+  Внедрите конвертацию в DOTM в автоматизированные процессы сборки и публикации документов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

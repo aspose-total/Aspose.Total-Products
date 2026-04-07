@@ -66,7 +66,46 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+CSV to DOC 转换使用 Python API，使结构化表格数据能够转换为更易于审阅、共享和归档的传统文字处理文档，适用于业务和文档工作流。
+此转换通过将原始数据集转化为格式化输出，支持自动化，提高一致性，减少人工工作，并顺利融入文档生成流水线。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **业务报告创建**  
+  将 CSV 记录转换为 DOC 文档，以实现可读的摘要、内部报告和格式化的数据展示。
+
+* **遗留工作流支持**  
+  为仍依赖旧版文字处理格式的环境生成 DOC 文件，以确保兼容性。
+
+* **数据驱动文档**  
+  将结构化 CSV 输入转化为叙述性或表格化的 DOC 内容，用于发布和审阅。
+
+* **可重用报告输出**  
+  从重复的 CSV 数据集生成标准化的 DOC 文件，保持文档质量的一致性。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **计划文档生成**  
+  自动化定期的 CSV 到 DOC 导出，以支持按固定时间表运行的报告工作流。
+
+* **后端处理管道**  
+  将 Python 转换逻辑集成到系统中，自动将原始数据转化为 DOC 成果。
+
+* **批量转换操作**  
+  将多个 CSV 文件批量处理为 DOC 格式，几乎无需人工干预，且格式可预期。
+
+* **基于模板的输出创建**  
+  使用编程规则从动态 CSV 内容组装 DOC 文件，实现可扩展的自动化。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

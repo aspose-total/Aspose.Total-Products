@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX 到 SVG 的转换将邮箱内容转换为可伸缩矢量图形，实现视觉上一致的渲染，在不同尺寸和输出环境下仍保持清晰。这在显示系统、出版以及以图形为中心的归档工作流中尤为有用。
+
+Python API 支持自动化的 MBOX 到 SVG 转换，使生成灵活的视觉输出、与网页和设计系统集成以及管理大规模渲染任务更加便捷。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **可伸缩的视觉渲染**
+  将邮件转换为 SVG 图形，以在各种分辨率下实现清晰的显示。
+
+* **网页与设计集成**
+  在基于浏览器或对布局敏感的环境中使用来源于电子邮件的视觉元素。
+
+* **基于矢量的归档**
+  以灵活且与分辨率无关的格式保存邮箱外观。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化 SVG 生成**
+  将邮箱内容渲染为矢量输出，用于显示和出版工作流。
+
+* **动态前端集成**
+  使用 Python 从归档邮件创建 SVG 资产，以供基于网页的系统使用。
+
+* **高容量渲染流水线**
+  将大型邮箱数据集转换为可伸缩的视觉文件，保持一致的质量。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

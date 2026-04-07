@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ICS to DOC 转换使用 Python API，允许将日历事件数据转换为结构化的 Word 文档，用于文档编制和报告目的。此转换使得日程安排和事件细节能够以可读的格式呈现，适用于专业沟通或记录保存。
+
+通过自动化的 Python 工作流，ICS 文件可以被解析并转换为 DOC 文档，无需手动格式化。这支持组织在管理大量日历数据时实现可扩展的文档生成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **会议文档**  
+  将日历事件转换为格式化文档，用于会议摘要或记录。
+
+* **日程报告**  
+  生成包含事件时间线或计划日程的可读 Word 文档。
+
+* **行政归档**  
+  将事件数据以文档格式存储，以供长期参考或合规使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化报告生成**  
+  在自动化报告流水线中，从 ICS 日历生成 DOC 文件。
+
+* **事件数据处理**  
+  将调度数据转换为文档，以便与企业系统集成。
+
+* **批量日历转换**  
+  以编程方式处理大量 ICS 文件，将其转换为 Word 文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

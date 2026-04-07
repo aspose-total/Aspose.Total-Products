@@ -65,7 +65,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT 到 PPTM 的转换将文档模板转换为支持宏的演示文件，以实现可编辑的幻灯片工作流并具备高级功能。这在演示文件必须保持可编辑且支持增强行为的场景中尤为重要。
+
+借助 Python API，DOT 到 PPTM 的转换可以实现自动化，以支持从可重用的文档内容大规模创建高级演示资产。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **高级可编辑演示创建**
+  将 DOT 模板转换为 PPTM 文件，以实现具备扩展功能的演示文稿。
+
+* **文档驱动的演示创作**
+  在可编辑的幻灯片套件中重用结构化文档内容，并具备增强功能。
+
+* **面向工作流的幻灯片制作**
+  支持需要可编辑性和更丰富行为的演示流程。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化宏启用幻灯片生成**
+  Python 工作流可以从 DOT 模板创建 PPTM 文件，以用于重复使用。
+
+* **高级演示流水线**
+  转换有助于将文档库与强大的幻灯片制作系统集成。
+
+* **可扩展的可编辑输出创建**
+  编程式转换支持大规模生成高级演示文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

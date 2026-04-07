@@ -65,7 +65,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+文档转 PPSM 转换将 Word 内容转换为宏启用的幻灯片文件，以满足需要播放格式和高级自动化行为的演示工作流。它对处理结构化演示交付且需要可重用逻辑的组织非常有用。
+
+使用 Python API，DOC 到 PPSM 的转换可以在文档库中进行规模化，提升宏启用幻灯片生成和标准化演示部署的效率。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用幻灯片创建**
+  将文档内容转换为支持高级演示行为的幻灯片文件。
+
+* **自动化演示交付**
+  在演示播放和嵌入自动化同等重要的场景中使用 PPSM 输出。
+
+* **结构化沟通包装**
+  将基于文档的信息打包成受控的幻灯片格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化幻灯片生成**
+  从 DOC 输入生成 PPSM 文件，以支持高级演示工作流。
+
+* **面向播放的内容管道**
+  以编程方式将文档内容转换为宏启用的幻灯片资产。
+
+* **可重复的分发工作流**
+  使用 Python 自动化在大规模上标准化演示交付文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV 到 OTT 的转换将表格数据转换为用于标准化文本文档创建的开放文档模板文件。当结构化输入需要与可重复的基于模板的工作流在开放格式环境中保持一致时，这非常有价值。
+
+使用 Python API，TSV 到 OTT 的转换通过实现可重用的文档结构、减少重复的格式化工作，并提升可扩展出版系统的一致性，从而支持自动化。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **开放模板创建**  
+  将 TSV 内容转换为用于标准化文本文档的可重用模板。
+
+* **一致的文档生产**  
+  支持依赖固定格式结构的重复工作流。
+
+* **基于模板的内容交付**  
+  帮助组织将结构化数据集转换为可重用的文档资产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板工作流**  
+  Python API 可以从结构化 TSV 文件生成兼容 OTT 的输出。
+
+* **可重复的文档系统**  
+  自动化提升了开放格式模板生产的一致性。
+
+* **大批量模板转换**  
+  大量 TSV 文件可以高效地转换为 OTT 输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

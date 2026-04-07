@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu E
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+EMLX to FlatOPC conversion in Python converts email-derived content into a flat XML representation of Open XML documents, making it easier to inspect, process, and integrate at the markup level. This is useful for systems that require transparent document structure and XML-based handling.
+
+In automation workflows, EMLX to FlatOPC conversion supports structured transformation, system interoperability, and deeper control over generated document content. It enables scalable processing for environments that rely on XML-centric pipelines.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **XML-Based Document Processing**  
+  Convert EMLX content into FlatOPC for markup-level inspection and handling.
+
+* **Interoperable Data Exchange**  
+  Use flat XML document output in systems that require structured integration.
+
+* **Document Structure Analysis**  
+  Examine converted content in a transparent and machine-readable format.
+
+* **Custom Transformation Workflows**  
+  Prepare email-derived documents for XML-driven post-processing.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Markup Transformation Pipelines**  
+  Automate EMLX-to-FlatOPC conversion for XML-first processing environments.
+
+* **Document Validation Systems**  
+  Feed FlatOPC outputs into scripted validation or structural analysis tools.
+
+* **Interchange Workflow Automation**  
+  Use Python APIs to generate flat XML documents for system-to-system exchange.
+
+* **Programmatic Content Inspection**  
+  Support scalable review of email-derived document structures in automated pipelines.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

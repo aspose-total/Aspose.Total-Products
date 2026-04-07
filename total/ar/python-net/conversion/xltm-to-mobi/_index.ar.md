@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل XLTM إلى MOBI باستخدام بايثون يجعل من الممكن تحويل قوالب إكسل الممكّنة بالماكرو إلى ملفات متوافقة مع الكتب الإلكترونية للقراءة الرقمية والوصول إلى المحتوى المحمول. هذا مفيد عندما تحتاج المعلومات المستندة إلى جداول البيانات إلى توزيعها بصيغة صديقة للقارئ لتبادل المعرفة أو الاستهلاك عبر الهاتف المحمول.
+
+ضمن سير عمل الأتمتة، يوسع تحويل XLTM إلى MOBI خيارات تسليم المحتوى، يدعم خطوط النشر الرقمية، ويساعد على إعادة توظيف البيانات المهيكلة إلى مخرجات طويلة الشكل يمكن الوصول إليها.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تحضير محتوى الكتاب الإلكتروني**  
+  يحوّل محتوى قالب جدول البيانات المهيكل إلى صيغة محمولة مناسبة لأجهزة القراءة الرقمية.
+
+* **توزيع المعرفة**  
+  يدعم تسليم المواد المستندة إلى دفتر العمل بصيغة مصممة لتوسيع إمكانية القراءة.
+
+* **إعادة توظيف المحتوى للوصول عبر الهاتف المحمول**  
+  يتيح مشاركة المعلومات المستمدة من جداول البيانات بصيغة قراءة خفيفة الوزن ومحمولة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **النشر الرقمي الآلي**  
+  ينتج ملفات MOBI من مصادر XLTM لسير عمل نشر المحتوى المتكرر.
+
+* **تسليم الوثائق المحمولة**  
+  يدعم التحويل التلقائي لبيانات القالب المهيكلة إلى أصول قراءة صديقة للهواتف المحمولة.
+
+* **إنشاء دفاتر إلكترونية دفعةً**  
+  يتيح إنشاء ملفات قراءة رقمية على نطاق واسع من مستودعات المحتوى المدفوعة بجداول البيانات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

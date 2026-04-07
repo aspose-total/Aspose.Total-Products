@@ -65,7 +65,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM 转 PPTM 转换将启用宏的文档转换为启用宏的演示文件，结合基于幻灯片的沟通和高级自动化行为。当演示输出必须在转换内容的同时保留交互式或脚本化元素时，这非常有用。
+
+在以自动化为重点的工作流中，DOCM 转 PPTM 转换支持可重用、可编辑的演示文稿，能够参与更具动态性的报告和交付流水线。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用的演示文稿创建**
+  将文档内容转换为可编辑的演示文稿，并提供高级自动化支持。
+
+* **交互式报告资产**
+  支持需要嵌入逻辑或自动化操作的幻灯片输出。
+
+* **可重用的演示工作流**
+  帮助从正式文档来源构建动态演示材料。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化动态幻灯片生成**
+  从 DOCM 输入生成 PPTM 文件，以用于高级演示流程。
+
+* **嵌入逻辑的保留**
+  在转换输出中保持面向自动化的幻灯片功能。
+
+* **可扩展的报告流水线**
+  支持大批量转换为启用宏的演示资产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

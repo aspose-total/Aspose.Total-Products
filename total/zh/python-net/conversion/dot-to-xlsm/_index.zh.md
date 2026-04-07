@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT 到 XLSM 的转换将文档模板转换为宏启用的电子表格工作簿，以实现结构化数据处理和高级电子表格行为。当电子表格输出必须同时支持数据组织和增强功能时，这非常有价值。
+
+使用 Python API，DOT 到 XLSM 的转换可以自动化，从可重用的文档模板创建可重复的高级工作簿输出。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用工作簿生成**
+  将 DOT 文件转换为 XLSM，以实现高级电子表格工作流。
+
+* **文档到工作簿的复用**
+  将模板内容转换为可编辑、功能丰富的电子表格输出。
+
+* **运营自动化支持**
+  准备适用于更强大基于电子表格的业务流程的工作簿文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化高级工作簿创建**
+  Python 脚本可以将 DOT 模板转换为 XLSM 文件，以满足重复使用场景。
+
+* **电子表格工作流集成**
+  转换将文档库与增强的工作簿处理管道连接起来。
+
+* **可扩展的宏就绪输出生成**
+  编程系统支持一致地创建高级电子表格资产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

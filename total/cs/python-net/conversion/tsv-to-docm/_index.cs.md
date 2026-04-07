@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV na DOCM konverze umožňuje převést tabulková data na makrem povolené dokumenty pro zpracování textu, které podporují bohatší pracovní postupy dokumentů a pokročilé zpracování. To je cenné, když je strukturovaná data třeba dodat v editovatelných formátech, které odpovídají řízenému podnikovému dokumentačnímu prostředí.
+
+Pomocí Python API lze konverzi TSV na DOCM integrovat do automatizovaných systémů, které generují znovupoužitelné dokumenty ve velkém měřítku, což pomáhá zefektivnit sestavování dokumentů, orchestraci pracovních toků a doručování strukturovaného obsahu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Makro‑povolené reportování**  
+  Připravuje dokumenty řízené daty pro prostředí, kde je vyžadováno pokročilé chování dokumentu.
+
+* **Strukturovaný výstup dokumentu**  
+  Převádí obsah TSV do editovatelných souborů vhodných pro provozní a administrativní použití.
+
+* **Automatizované balení obsahu**  
+  Podporuje pracovní postupy generování dokumentů, které potřebují data v interaktivnějším formátu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Vytváření dokumentů na základě šablon**  
+  Automatizace může naplnit makro‑povolené formáty dokumentů z TSV datasetů.
+
+* **Integrace podnikových pracovních toků**  
+  Python API mohou propojit exporty dat s následnými systémy zpracování dokumentů.
+
+* **Dávkové publikování**  
+  Více TSV souborů může být převedeno do DOCM dokumentů v opakovatelných automatizovaných bězích.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

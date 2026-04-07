@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu V
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF to SVG conversion transforms contact card data into scalable vector graphics that can be resized without losing visual quality. This is ideal for systems that require crisp rendering of contact information across web, presentation, and document environments.
+
+In automated workflows, VCF to SVG conversion allows Python APIs to generate lightweight, scalable visual assets that integrate well with digital publishing, interface rendering, and structured content pipelines.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Škálovatelné kontaktní grafiky**  
+  Převést záznamy VCF do souborů SVG pro zobrazení nezávislé na rozlišení.
+
+* **Integrace webu a rozhraní**  
+  Použít vektorový výstup pro moderní digitální prostředí a vložené vizuály.
+
+* **Prezentace s vysokou ostrostí**  
+  Zachovat kontaktní informace ve formátu, který zůstává ostrý při jakékoli velikosti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované vykreslování SVG**  
+  Generovat škálovatelné kontaktní grafiky z dávky souborů VCF.
+
+* **Digitální publikovací pipeline**  
+  Automaticky vložit výstupy SVG do webových a dokumentových systémů.
+
+* **Efektivní tvorba vektorových prostředků**  
+  Použít Python API k vytvoření opakovaně použitelných a škálovatelných kontaktních vizuálů ve velkém měřítku.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT 到 XLTM 的转换将文档模板转换为宏启用的电子表格模板文件，以实现可重复的高级工作簿创建。当可重用的电子表格模板必须在兼容的工作流中支持增强功能时，这非常有用。
+
+Python API 使得可以从 DOT 源自动生成 XLTM，帮助组织高效地创建标准化的高级电子表格模板。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用的模板导出**
+  将 DOT 文件转换为 XLTM 模板，以用于高级可重用的电子表格工作流。
+
+* **可重用的高级工作簿设计**
+  将文档结构重新用于具有扩展功能的电子表格模板。
+
+* **标准化的功能模板**
+  支持从基于文档的模板来源创建可重复的工作簿。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化的高级模板生成**
+  Python 工作流可以从 DOT 模板生成 XLTM 文件，以用于重复的业务流程。
+
+* **模板库标准化**
+  转换有助于在团队之间保持一致的宏启用电子表格模板。
+
+* **可扩展的功能工作簿准备**
+  编程系统支持批量创建高级电子表格模板资产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

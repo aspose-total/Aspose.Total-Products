@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT 到 MSG 的转换将文档内容转换为电子邮件消息文件格式，适用于以消息为中心的工作流和归档过程。当需要将正式文本内容重新用作存储、传输或通信用的消息对象时，这非常有用。
+
+Python API 使 ODT 到 MSG 的转换适用于自动化消息生成、记录打包和批量文档再利用。它有助于标准化内容转换，同时支持可扩展的企业级工作流。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **消息文件创建**  
+  将文档文本转换为可重复使用的基于消息的文件格式。
+
+* **归档与保留**  
+  支持文档衍生的通信制品的存储。
+
+* **工作流消息支持**  
+  使文档内容能够进入面向电子邮件的处理流。
+
+* **结构化内容打包**  
+  以适合通信的对象格式保留文本。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **程序化消息生成**  
+  Python 自动化可以按需将已批准的文档转换为 MSG 文件。
+
+* **批量记录转换**  
+  大量文本文档可以转换为消息制品。
+
+* **通信归档准备**  
+  系统可以将内容打包为适合长期存储的消息兼容格式。
+
+* **与消息管道集成**  
+  转换后的输出可以供下游审查、路由或归档系统使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

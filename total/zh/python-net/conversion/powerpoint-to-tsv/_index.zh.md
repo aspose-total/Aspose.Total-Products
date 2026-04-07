@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python 中的 PowerPoint 到 TSV 转换将演示文稿内容转换为制表符分隔的格式，适用于结构化文本处理和电子表格导入。当需要将幻灯片内容导出为轻量级的表格形式，便于解析和在系统之间迁移时，这非常有用。
+
+在自动化工作流中，TSV 转换支持清晰的数据交换、高效的解析以及可扩展地导入到分析或内容处理系统中。当简洁性和机器可读性是首要考虑时，它尤为有价值。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **结构化文本导出**
+  将演示文稿数据转换为制表符分隔的记录，以简化处理。
+
+* **电子表格导入准备**
+  帮助将幻灯片衍生的内容准备好用于工作表应用和数据工具。
+
+* **系统间数据交换**
+  支持在平台之间便携地传输结构化的演示文稿内容。
+
+* **解析和处理工作流**
+  使转换后的输出更容易被自定义脚本和自动化工具摄取。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **管道友好导出**
+  为需要轻量结构化输入的系统自动生成 TSV。
+
+* **批量数据转换**
+  支持大规模将多个演示文稿转换为表格文本文件。
+
+* **ETL 集成**
+  使幻灯片内容更容易进入提取、转换和加载的工作流。
+
+* **内容标准化**
+  帮助在下游处理或存储之前标准化演示文稿数据。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

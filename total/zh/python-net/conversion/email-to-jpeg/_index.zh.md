@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+在 Python 中将电子邮件转换为 JPEG 可实现对邮件内容的压缩视觉快照，以便高效存储和共享。当组织需要以兼容性和文件大小均衡的通用图像格式呈现电子邮件时，这非常有用。
+
+此转换通过支持批量生成可移植的电子邮件视觉图像，惠及仪表板、归档、客户支持系统和报告流水线等自动化场景。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **压缩的电子邮件快照**
+  将电子邮件转换为 JPEG 图像，以实现高效的视觉存储。
+
+* **网页和门户预览**
+  在基于浏览器的应用程序中使用 JPEG 输出进行快速的消息预览。
+
+* **支持和审查上下文**
+  将渲染后的电子邮件作为图像证据附加到工单或审查系统中。
+
+* **可扩展的视觉分发**
+  在团队之间以广泛支持的图像格式共享消息渲染。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **大批量预览渲染**
+  自动将消息集合转换为 JPEG 文件，以用于可搜索的归档。
+
+* **客户服务文档**
+  将电子邮件图像添加到自动化的案例历史和响应工作流中。
+
+* **报告附件流水线**
+  将电子邮件的 JPEG 版本嵌入摘要和运营文档中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

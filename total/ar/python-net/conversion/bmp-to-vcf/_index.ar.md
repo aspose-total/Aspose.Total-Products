@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل BMP إلى VCF يتيح ربط صور البت ماب ببطاقات الاتصال الرقمية المخزنة بصيغة VCF. يتيح هذا النهج تضمين صور الملف الشخصي أو المعرفات البصرية داخل سجلات الاتصال.
+
+يمكن لأنظمة الأتمتة تحويل صور BMP إلى ملفات اتصال متوافقة مع VCF لإدارة جهات الاتصال بشكل قابل للتوسع ومزامنتها عبر المنصات. يحسن ذلك أتمتة إنشاء دفتر العناوين وتبادل البيانات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **صور ملف التعريف للاتصال**  
+  يمكن إرفاق صور BMP ببطاقات الاتصال الرقمية.
+
+* **إنشاء دفتر العناوين**  
+  يمكن للأنظمة إنشاء ملفات VCF تحتوي على معرفات بصرية للاتصال.
+
+* **تبادل بيانات الاتصال**  
+  يمكن مشاركة سجلات الاتصال البصرية عبر المنصات باستخدام ملفات VCF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء اتصال آلي**  
+  تُنشئ التطبيقات ملفات اتصال VCF مع صور BMP للملف الشخصي.
+
+* **معالجة دفتر العناوين بالجملة**  
+  تحوّل الأنظمة مجموعات بيانات الصور إلى سجلات بطاقات اتصال منظمة.
+
+* **مزامنة الاتصال برمجياً**  
+  تُنشئ سير العمل ملفات VCF ديناميكياً لتوزيع الاتصالات تلقائياً.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

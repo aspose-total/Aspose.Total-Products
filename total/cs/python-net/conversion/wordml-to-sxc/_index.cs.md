@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML na SXC převod převádí strukturovaný obsah založený na dokumentech do tabulkových souborů kompatibilních se staršími otevřenými tabulkovými pracovními postupy. To je užitečné pro organizace, které udržují kompatibilitu se staršími prostředími OpenOffice.
+
+Python API podporují převod WordML na SXC tím, že extrahují tabulky a automatizují transformaci do formátů orientovaných na tabulky pro potřeby migrace a interoperability.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Výstup pro starší otevřené tabulky**
+  Převádí tabulky WordML do souborů SXC pro starší tabulkové prostředí.
+
+* **Opětovné využití dat z dokumentů**
+  Umožňuje upravovat strukturovaný obsah dokumentů ve starších tabulkových nástrojích.
+
+* **Zachování kompatibility**
+  Podporuje dlouhodobé pracovní postupy, které stále závisí na starších otevřených formátech.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizace exportu pro starší verze**
+  Generuje výstupy SXC ze souborů WordML v pracovních postupech zaměřených na kompatibilitu.
+
+* **Úkoly podpory migrace**
+  Propojuje úložiště dokumentů se staršími prostředími pro zpracování tabulek.
+
+* **Hromadná konverze tabulek**
+  Automatizuje extrakci a balení dat z dokumentů do starších tabulkových souborů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PNG na MSG převod transformuje obsah založený na obrázcích do strukturovaných souborů e‑mailových zpráv, které lze uložit, zkontrolovat nebo vyměňovat v pracovních postupech zpráv. To je užitečné, když soubory PNG, jako jsou oznámení, snímky obrazovky nebo vizuální aktualizace, musí být převedeny na jednotlivé záznamy zpráv pro provozní nebo archivní použití.
+
+Python API rozšiřují tento proces tím, že umožňují opakovatelnou a škálovatelnou tvorbu MSG souborů, což aplikacím umožňuje automatizovat vytváření zpráv, snížit ruční úsilí a propojit vizuální vstupy s podnikovými komunikačními a úložnými systémy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytvoření souboru zprávy**  
+  Převádí vstupy PNG do MSG souborů pro strukturovanou tvorbu záznamů ve stylu e‑mailu.
+
+* **Archivace vizuální komunikace**  
+  Pomáhá zachovat aktualizace založené na obrázcích jako samostatné soubory zpráv pro pozdější načtení.
+
+* **Balení provozních záznamů**  
+  Podporuje pracovní postupy, které vyžadují, aby byl obrazový obsah reprezentován ve formátu orientovaném na zprávy.
+
+* **Podpora interoperability systémů**  
+  Umožňuje obsahu odvozenému z PNG zapadnout do prostředí, která spoléhají na strukturované soubory zpráv.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná tvorba MSG**  
+  Python API mohou vytvářet MSG soubory z příchozích PNG aktiv jako součást pipeline zpracování zpráv.
+
+* **Dávkové konverzní pracovní postupy**  
+  Velké sady souborů PNG lze programově převést na výstupy MSG pro provozní efektivitu.
+
+* **Dokumentace případů a tiketů**  
+  Systémy mohou balit vizuální záznamy do MSG souborů pro podporu, audit nebo dokumentační pracovní postupy.
+
+* **Tvorba zpráv na základě pravidel**  
+  Aplikace mohou dynamicky generovat MSG soubory z obsahu PNG na základě spouštěčů, kategorií nebo událostí zdroje.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

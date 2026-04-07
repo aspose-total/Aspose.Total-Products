@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+يتيح تحويل OFT إلى OTT باستخدام واجهات برمجة تطبيقات بايثون تحويل قوالب بريد Outlook إلى قوالب نصية مفتوحة المستندات لتوليد مستندات قابلة لإعادة الاستخدام ومبنية على معايير. هذا مفيد عندما ترغب المؤسسات في تحويل محتوى التواصل إلى أصول قوالب قابلة للتكرار في بيئات مفتوحة.
+
+من خلال أتمتة تحويل OFT إلى OTT، يمكن للفرق دعم إنشاء قوالب قابلة للتوسع، وتعزيز التوافقية، وتبسيط توحيد المستندات. إنه يعزز إعادة استخدام المحتوى عبر تدفقات عمل المستندات المفتوحة والمؤتمتة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء قالب مفتوح**  
+  تحويل محتوى OFT إلى ملفات OTT لإنشاء قوالب مستندات قابلة لإعادة الاستخدام في تدفقات عمل المستندات المفتوحة.
+
+* **توحيد المحتوى القائم على القوالب**  
+  بناء هياكل مستندات متسقة من مواد القوالب المستخرجة من البريد الإلكتروني.
+
+* **إعداد مستندات متوافقة**  
+  إعداد قوالب قابلة لإعادة الاستخدام يمكن مشاركتها عبر أنظمة المكاتب المتوافقة مع المعايير.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء القوالب تلقائيًا**  
+  إنتاج قوالب OTT من ملفات OFT لعمليات إنشاء مستندات قابلة للتكرار.
+
+* **دمج سير العمل المفتوح**  
+  إدراج ملفات القوالب المحولة في الأنظمة التي تعتمد على معايير المستندات المفتوحة.
+
+* **خطوط أنابيب محتوى قابلة لإعادة الاستخدام وقابلة للتوسع**  
+  إدارة وتوزيع أصول القوالب برمجيًا عبر الفرق والمشاريع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

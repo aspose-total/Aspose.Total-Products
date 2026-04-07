@@ -65,7 +65,47 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT to XLSX conversion transforms OpenDocument Text content into a modern spreadsheet format widely used for data review, reporting, and collaboration. It is ideal when document content includes tables, records, or structured lists that need to become editable and analyzable.
+
+In automation workflows, ODT to XLSX conversion enables efficient extraction of document-based data into a versatile spreadsheet format. Python APIs support scalable conversion, validation, and integration across modern data-driven systems.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Modern Spreadsheet Export**  
+  Converts document content into a widely used workbook format.
+
+* **Data Analysis Readiness**  
+  Makes extracted information easier to sort, filter, and process.
+
+* **Collaborative Review**  
+  Supports team-based editing and structured inspection of converted data.
+
+* **Workflow Interoperability**  
+  Connects document repositories with spreadsheet-driven processes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automated Table-to-Workbook Conversion**  
+  Python workflows can extract document tables and export them as XLSX files.
+
+* **Batch Reporting Pipelines**  
+  Multiple ODT files can be converted into spreadsheets for recurring analysis.
+
+* **Data Cleaning and Structuring**  
+  Automated rules can prepare extracted values before workbook generation.
+
+* **Cross-System Integration**  
+  Converted XLSX outputs can flow into storage, reporting, or business process tools.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

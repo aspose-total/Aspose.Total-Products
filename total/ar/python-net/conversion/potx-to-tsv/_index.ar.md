@@ -64,7 +64,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+يتيح تحويل ملفات POTX إلى TSV باستخدام واجهات برمجة تطبيقات بايثون تحويل محتوى قالب PowerPoint إلى قيم مفصولة بفواصل جدولة لتدفقات عمل البيانات المهيكلة. هذا مفيد عندما يحتاج محتوى العرض التقديمي إلى استخراج إلى تنسيق بسيط يعتمد على الفواصل ويعمل بشكل جيد في عمليات تبادل البيانات والاستيراد.
+
+من منظور الأتمتة، يدعم تحويل POTX إلى TSV تحويلًا فعالًا لمحتوى القالب البصري إلى مخرجات قابلة للقراءة آليًا. وهو مناسب جيدًا للتصدير على دفعات، والتكاملات الخفيفة، وأنابيب المعالجة القابلة للتوسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **استخراج البيانات المفصولة**
+  يقوم بتحويل معلومات قالب العرض التقديمي إلى سجلات مفصولة بفواصل جدولة للتعامل المهيكل.
+
+* **تحضير استيراد النظام**
+  يساعد في تحضير المحتوى المستمد من القالب للأدوات التي تقبل إدخال نص جدولي.
+
+* **تبادل بيانات خفيف الوزن**
+  يدعم نقلًا بسيطًا للمعلومات المهيكلة بين التطبيقات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **وظائف تصدير البيانات المتكررة**
+  يقوم بأتمتة تحويل ملفات POTX إلى مخرجات TSV في سير عمل مجدول.
+
+* **تحويلات صديقة للأنابيب**
+  يتيح تسليمًا بسيطًا للبيانات النصية إلى أنظمة التحقق والإدخال.
+
+* **عمليات تحويل جماعية**
+  يدعم استخراجًا واسع النطاق لمحتوى العرض التقديمي إلى ملفات مفصولة بفواصل جدولة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

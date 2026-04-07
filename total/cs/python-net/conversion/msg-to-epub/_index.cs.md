@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod MSG na EPUB mění obsah e‑mailových zpráv na digitální publikaci navrženou pro strukturované čtení napříč zařízeními. Je užitečný, když je třeba informace z e‑mailů přepakovat do přenosného, čtenářsky přívětivého formátu.
+
+V automatizačních kontextech podporují pracovní postupy MSG na EPUB publikování obsahu, distribuci a procesy dlouhodobé kompilace. Pomáhají transformovat komunikační záznamy na přístupná digitální čtecí aktiva v rozsahu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Přenosný výstup pro čtení**  
+  Převést zprávy do formátu vhodného pro digitální čtecí prostředí.
+
+* **Kompilace obsahu**  
+  Zahrnout materiál odvozený z e‑mailů do kurátorských sbírek publikací.
+
+* **Distribuce znalostí**  
+  Přepakovat obsah zpráv pro školení, referenci nebo doručování informací.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované publikační řetězce**  
+  Převést soubory MSG na obsah EPUB pro strukturovanou digitální distribuci.
+
+* **Pracovní toky archiv‑k‑čtenáři**  
+  Přeměnit uložené sbírky zpráv na přenosné referenční publikace.
+
+* **Programové balení obsahu**  
+  Sestavit více vstupů založených na e‑mailu do přístupných čtecích výstupů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

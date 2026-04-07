@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX 转 TSV 转换将演示文稿内容提取为制表符分隔的格式，便于干净的基于文本的数据交换和结构化处理。当需要将幻灯片内容，尤其是表格或重复的文本元素，导出为简单格式以进行解析、迁移或分析时，这非常有价值。
+
+使用 Python API 自动化 PPTX 转 TSV 转换支持轻量级数据工作流、可靠的解析以及高效的批处理。这使得将演示文稿衍生的数据更容易集成到自动化系统、脚本和数据转换流水线中。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **结构化文本导出**
+  将演示文稿数据转换为适合脚本处理的分隔符格式。
+
+* **表格内容提取**
+  将幻灯片表格提取为干净的结构以便进一步处理。
+
+* **系统间数据交换**
+  使用 TSV 作为在工具之间移动演示文稿衍生数据的中间格式。
+
+* **解析和验证任务**
+  使用可预测的文本结构简化对幻灯片内容的自动检查。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **轻量级数据处理**
+  自动将 PPTX 文件转换为 TSV，以适配脚本友好的工作流。
+
+* **批量提取流水线**
+  大规模处理大量演示文稿，生成结构化文本输出。
+
+* **ETL 工作流支持**
+  将提取的演示文稿数据输入到转换和加载流水线中。
+
+* **自动内容审计**
+  使用 TSV 输出进行验证、质量检查和基于规则的检查。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

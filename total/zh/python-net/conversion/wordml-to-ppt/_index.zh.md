@@ -65,7 +65,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML 到 PPT 的转换将文档内容转换为演示文件，以便在既定的基于幻灯片的工作流中进行编辑、审阅和交付。当文档信息必须重新打包成演示文稿用于沟通或培训时，这非常有价值。
+
+Python API 通过自动化幻灯片构建，使 WordML 到 PPT 的转换成为可能，并支持跨团队和系统的可重复的文档到演示的转换。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **可编辑演示文稿创建**
+  将 WordML 内容转换为 PPT 文件，以便审阅和进一步完善。
+
+* **知识转移**
+  帮助将书面文档转化为基于演示的学习材料。
+
+* **业务沟通支持**
+  使叙述性或结构化内容更容易向利益相关者展示。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **文档到幻灯片流水线**
+  自动化从 WordML 报告、简报或文档生成 PPT。
+
+* **定期演示更新**
+  支持从源文档频繁刷新演示资产。
+
+* **内容分发自动化**
+  实现大规模可编辑幻灯片套件的流畅发布。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

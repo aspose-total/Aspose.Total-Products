@@ -46,7 +46,44 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将文本转换为 VCF 可以将纯文本的联系人详细信息转换为标准化的数字联系人文件。这对于联系人共享、数据可移植性、客户记录处理以及需要从原始文本来源获取结构化联系人信息的工作流非常有用。
+
+通过将文本转换为 VCF 格式，自动化系统可以简化联系人创建、同步通讯录数据，并支持在应用程序和平台之间可扩展的结构化联系人记录交换。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **数字联系人创建**  
+  将基于文本的联系人详细信息转换为 VCF 文件，以便轻松导入和共享。
+
+* **通讯录同步**  
+  帮助标准化联系人数据，以便在系统和设备之间集成。
+
+* **潜在客户和客户记录处理**  
+  支持将原始文本条目转换为可移植的联系人资产。
+
+* **联系人交换工作流**  
+  实现平台之间人员和组织详细信息的结构化传输。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动生成的联系人文件**  
+  表单、数据库或脚本可以自动将文本输入转换为 VCF 文件。
+
+* **批量联系人处理**  
+  大量基于文本的联系人数据可以通过程序转换为标准化记录。
+
+* **CRM 与目录集成**  
+  自动化可以从文本来源准备联系人文件，用于入职、同步或导出流程。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

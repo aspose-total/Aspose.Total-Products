@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu E
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konverze EMLX na DOT v Pythonu umožňuje převést obsah e‑mailu do souborů šablon Word, které podporují opakovatelnou tvorbu dokumentů. To je užitečné, když musí být obsah založený na zprávách základem pro standardizovanou generaci dokumentů.
+
+V systémech zaměřených na automatizaci pomáhá převod EMLX na DOT vytvořit opakovaně použitelné šablony z materiálu odvozeného z e‑mailů. Zlepšuje konzistenci, snižuje ruční práci s formátováním a podporuje škálovatelnou výrobu dokumentů ve strukturovaných pracovních tocích.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření šablon z e‑mailů**  
+  Převést obsah EMLX do šablon DOT pro opakovatelnou tvorbu dokumentů.
+
+* **Standardizované formátování**  
+  Zachovat rozvržení a strukturu v opakovaně použitelné šabloně.
+
+* **Dokumentace procesů**  
+  Použít převedené šablony k formalizaci opakovaného obsahu založeného na e‑mailu.
+
+* **Opakovaně použitelné modely obsahu**  
+  Vytvořit vzory dokumentů z informací e‑mailu pro průběžné provozní využití.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované generování šablon**  
+  Vytvořit šablony DOT ze souborů EMLX pomocí dávkového zpracování v Pythonu.
+
+* **Standardizace pracovních postupů**  
+  Použít vygenerované šablony k zajištění konzistentního formátování napříč výstupy dokumentů.
+
+* **Systémy distribuce šablon**  
+  Zahrnout převedené soubory DOT do automatizovaných publikovacích nebo poskytovacích pracovních toků.
+
+* **Pipelines pro opětovné využití obsahu**  
+  Podporovat škálovatelné opětovné využití struktur odvozených z e‑mailů v opakujících se úlohách dokumentace.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod MBOX na ODT převádí obsah poštovní schránky do textových souborů otevřeného dokumentu, poskytuje editovatelný a standardizovaný formát pro archivaci a opětovné využití dokumentů. To je cenné pro prostředí, která upřednostňují otevřené formáty, interoperabilitu a dlouhodobou přístupnost dokumentů.
+
+Pomocí Python API mohou organizace automatizovat převod MBOX na ODT, aby zefektivnily tvorbu dokumentů, podpořily standardy otevřených pracovních postupů a zlepšily použitelnost archivovaného e‑mailového obsahu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Export dokumentu v otevřeném formátu**
+  Převést e‑maily do ODT souborů pro přístupné a editovatelné zachování textu.
+
+* **Archivace založená na standardech**
+  Zachovat obsah poštovní schránky ve formátu, který je v souladu s pracovními postupy otevřených dokumentů.
+
+* **Mezisystémové opětovné využití dokumentů**
+  Umožnit snadnější výměnu obsahu odvozeného z e‑mailů mezi kompatibilními platformami.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované vytváření otevřených dokumentů**
+  Přeměnit položky poštovní schránky na ODT soubory pomocí zpracování v Pythonu.
+
+* **Interoperabilní integrace pracovního postupu**
+  Zavést převedené dokumenty do systémů obsahu a archivace založených na otevřených standardech.
+
+* **Hromadná transformace e‑mailů**
+  Rozšířit převod poštovní schránky na editovatelné výstupy otevřených dokumentů s minimálním úsilím.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

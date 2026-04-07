@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PDF to VCF conversion using Python APIs makes it possible to transform contact-related information contained in PDF documents into a standard contact card format. This is especially useful when business cards, directories, or contact lists stored as PDFs need to become structured and reusable digital contact records.
+
+Automation improves this process by reducing manual data entry and enabling fast extraction of contact details into interoperable formats. It supports CRM workflows, address book management, and contact synchronization across modern systems.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Extrahování kontaktních dat**  
+  Převést kontaktní údaje založené na PDF do VCF souborů pro digitální adresáře.
+
+* **Digitalizace vizitek**  
+  Transformovat PDF verze vizitek do strukturovaných kontaktních záznamů.
+
+* **Převod adresáře**  
+  Znovu použít seznamy kontaktů uložené v PDF ve formátu vhodném pro import a synchronizaci.
+
+* **Příprava dat pro CRM**  
+  Připravit extrahované kontaktní informace pro workflow zákaznického a vztahového managementu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované importní pipeline pro kontakty**  
+  Python skripty mohou automaticky extrahovat kontaktní pole z PDF a generovat VCF soubory.
+
+* **Hromadné zpracování adresářů**  
+  Velké kolekce kontaktních PDF lze hromadně převést do strukturovaných kontaktních záznamů.
+
+* **Synchronizace adresáře**  
+  Převoděné VCF soubory mohou napájet systémy spravující sdílená nebo osobní kontaktní data.
+
+* **Dynamické workflow zachycení dat**  
+  Příchozí PDF kontaktní dokumenty lze okamžitě zpracovat do znovupoužitelných digitálních profilů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

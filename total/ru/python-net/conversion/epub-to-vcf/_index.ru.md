@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+EPUB to VCF conversion in Python allows document content to be transformed into contact-oriented data files when publication material contains directory, profile, or contact details. This is useful for workflows that need to extract and repurpose structured identity information from digital publications.
+
+In automation-focused systems, EPUB to VCF conversion improves data portability, reduces manual contact entry, and enables Python applications to integrate publication-derived contact information into modern communication and synchronization workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Извлечение контактной информации**  
+  Преобразуйте содержимое EPUB, содержащее сведения о людях или справочнике, в VCF‑файлы для использования в контактах.
+
+* **Трансформация данных справочника**  
+  Переиспользуйте структурированную информацию публикации в виде переносимых записей контактов.
+
+* **Поддержка CRM и адресных книг**  
+  Используйте вывод VCF для переноса соответствующих контактных данных в системы, управляющие коммуникационными связями.
+
+* **Обмен данными на основе профилей**  
+  Делитесь контентом публикаций, ориентированным на контакты, в формате, удобном для импорта и распространения.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Автоматическое создание контактов**  
+  Python‑рабочие процессы могут создавать VCF‑файлы из EPUB‑документов, содержащих контактный контент.
+
+* **Конвейеры синхронизации справочников**  
+  Автоматизированные системы могут извлекать и преобразовывать данные справочника из публикаций в переносимые записи контактов.
+
+* **Массовая обработка контактов**  
+  Большие объёмы EPUB‑файлов, насыщенных контактами, могут быть программно преобразованы для эффективного повторного использования.
+
+* **Динамическая интеграция данных**  
+  Преобразование EPUB в VCF поддерживает автоматизированные рабочие процессы, которые передают контактную информацию в коммуникационные платформы.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

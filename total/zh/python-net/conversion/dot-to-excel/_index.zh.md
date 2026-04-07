@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT 转 Excel 转换将可重用的文档模板转换为适用于电子表格的工作簿，以便进行计算、报告和结构化审阅。当必须对基于文本的模板内容进行分析或在基于网格的业务格式中重新使用时，这非常有价值。
+
+Python API 通过实现对 DOT 内容的自动提取和转换为 Excel 兼容的输出，使此过程高效，并支持可扩展且可重复的数据工作流。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **报告准备**
+  将 DOT 文件转换为 Excel 工作簿，以便进行审阅、计算和结构化报告。
+
+* **数据重组**
+  将文档内容移至更易于筛选和分析的电子表格布局中。
+
+* **运营交接**
+  以业务团队和系统熟悉的格式共享从模板派生的信息。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **文档到工作簿自动化**
+  Python 脚本可以将 DOT 模板转换为 Excel 输出，以实现计划的数据交付。
+
+* **基于流水线的报告**
+  自动化工作流可以将文档内容转换为工作簿，以用于商业智能流程。
+
+* **大批量电子表格生成**
+  编程转换支持在众多源文件之间一致地创建 Excel 输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

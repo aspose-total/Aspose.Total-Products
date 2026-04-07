@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod OTT na OFT v Python API převádí šablony textových dokumentů OpenDocument na soubory šablon e‑mailů, které lze znovu použít pro standardizovanou komunikaci. To je cenné, když obsah dokumentu musí sloužit jako opakovatelný základ pro tvorbu zpráv a konzistenci komunikace.
+
+Převod je zvláště užitečný pro automatizaci, protože podporuje opakovaně použitelné komunikační pracovní postupy, dynamické vkládání obsahu a efektivní generování šablonových komunikačních aktiv v rozsahu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření opakovatelných šablon e‑mailů**  
+  Přemění obsah dokumentu na šablony zpráv připravené k návrhu.
+
+* **Standardizovaná komunikace**  
+  Pomáhá udržovat konzistentní jazyk a formátování napříč zprávami.
+
+* **Opakovatelnost obsahu**  
+  Umožňuje jedné zdrojové šabloně podporovat více komunikačních toků.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná výroba návrhových šablon**  
+  Vytváří soubory OFT z opakujících se zdrojů obsahu OTT.
+
+* **Personalizace zpráv řízená pracovním postupem**  
+  Kombinuje šablony s dynamickými poli v odchozích procesech.
+
+* **Škálovatelná interní komunikace**  
+  Podporuje konzistentní přípravu e‑mailů napříč odděleními nebo systémy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

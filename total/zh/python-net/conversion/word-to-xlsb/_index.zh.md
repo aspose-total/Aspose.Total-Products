@@ -66,7 +66,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 Word 转换为 XLSB 可将文字处理文档转换为二进制电子表格文件，优化性能并在电子表格工作流中实现高效存储。当提取的文档内容必须以工作簿形式管理且需要在大小和速度之间取得平衡时，这非常有用。
+
+在自动化程度高的环境中，XLSB 转换通过生成高效的电子表格输出，支持大规模或重复数据集的可扩展处理，适用于运营和分析任务。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **高效的工作簿存储**
+  将文档衍生的数据转换为紧凑的二进制电子表格文件。
+
+* **面向性能的数据处理**
+  支持工作簿速度和尺寸效率至关重要的工作流。
+
+* **大规模报告支持**
+  帮助在实用的电子表格形式中管理大量提取的内容。
+
+* **结构化数据复用**
+  使源自文档的信息能够在优化的工作簿环境中使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **大批量电子表格生成**
+  自动将大量 Word 文件转换为 XLSB，以实现高效的下游处理。
+
+* **面向性能的流水线**
+  在处理更大提取数据集的流程中使用二进制工作簿输出。
+
+* **批量运营报告**
+  为定期审查和业务分析生成高效的电子表格资产。
+
+* **注重存储的自动化**
+  减少文档到工作簿转换工作流中的开销。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

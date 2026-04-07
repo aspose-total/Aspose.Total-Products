@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+文档到 XLAM 的转换将 Word 内容转换为与加载项相关的电子表格输出，适用于涉及高级基于 Excel 的功能和可重用自动化组件的场景。当文档衍生的逻辑或结构化内容必须支持电子表格扩展时，这非常有用。
+
+Python API 可以简化 DOC 到 XLAM 的转换工作流，帮助组织将文档转换集成到高级电子表格自动化环境中。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **电子表格加载项支持**
+  将相关文档内容转换为与 Excel 加载项部署相关的工作流。
+
+* **高级自动化打包**
+  支持结构化流程，其中文档内容为可重用的电子表格功能提供输入。
+
+* **流程标准化**
+  将正式文档重新用于与高级电子表格工作流相匹配的资产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **面向自动化的转换**
+  在受控工作流中以编程方式从 DOC 源准备与 XLAM 相关的输出。
+
+* **可重用的电子表格逻辑管道**
+  将基于文档的资产转换为适用于高级 Excel 操作的格式。
+
+* **企业工作流集成**
+  为大规模使用电子表格扩展的团队自动化文档转换。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

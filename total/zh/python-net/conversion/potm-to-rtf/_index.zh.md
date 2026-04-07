@@ -66,7 +66,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+在 Python 中将 POTM 转换为 RTF，使得可以将带宏的演示文稿内容转换为一种保留基本格式且具有广泛可移植性的文本文档格式。当需要在不同系统之间生成轻量、可读且可编辑的输出时，这非常有用。
+
+对于自动化使用场景，POTM 到 RTF 的转换支持在 Python 流程中进行简化的基于文本的文档处理，兼顾兼容性、可访问性和简化的格式化。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **轻量文档输出**
+  生成保留基本格式的文本文件，无需繁重的依赖。
+
+* **跨系统兼容性**
+  支持在依赖更简洁文档标准的环境之间进行内容交换。
+
+* **可编辑文本转换**
+  使演示文稿内容更容易在以文本为中心的工具和工作流中进行修改。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量文本文档导出**
+  自动将大量 POTM 集合转换为 RTF，以便分发或审阅。
+
+* **可移植内容处理**
+  使用 Python 为需要广泛格式兼容性的系统生成 RTF 输出。
+
+* **文档简化流水线**
+  将丰富的演示文稿内容转换为更轻量的格式，以实现简化处理。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

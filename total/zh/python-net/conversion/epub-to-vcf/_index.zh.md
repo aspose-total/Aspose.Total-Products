@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+EPUB 转换为 VCF 在 Python 中允许在出版材料包含目录、个人资料或联系详情时，将文档内容转换为面向联系人的数据文件。这对于需要从数字出版物中提取并重新利用结构化身份信息的工作流非常有用。
+
+在以自动化为重点的系统中，EPUB 转换为 VCF 提升了数据可移植性，减少了手动输入联系人信息，并使 Python 应用能够将出版物衍生的联系信息集成到现代通信和同步工作流中。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **联系信息提取**  
+  将包含人物或目录详情的 EPUB 内容转换为用于联系人的 VCF 文件。
+
+* **目录数据转换**  
+  将结构化的出版信息重新用于可移植的联系人记录。
+
+* **CRM 与通讯录支持**  
+  使用 VCF 输出将相关的联系人数据迁移到管理通信关系的系统中。
+
+* **基于个人资料的数据共享**  
+  以易于导入和分发的格式共享面向联系人的出版内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化联系人生成**  
+  Python 工作流可以从包含联系人相关内容的 EPUB 文档创建 VCF 文件。
+
+* **目录同步流水线**  
+  自动化系统可以提取并转换基于出版物的目录数据为可移植的联系人记录。
+
+* **批量联系人处理**  
+  大量包含联系人信息的 EPUB 文件可以通过编程方式转换，以实现高效重用。
+
+* **动态数据集成**  
+  EPUB 转换为 VCF 支持将联系人信息输送到通信平台的自动化工作流。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

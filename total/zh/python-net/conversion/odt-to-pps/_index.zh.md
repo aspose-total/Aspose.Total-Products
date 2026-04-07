@@ -65,7 +65,47 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT 到 PPS 的转换将文档内容转换为用于直接显示的演示幻灯片格式。当书面材料必须快速重新用于以观看而非编辑为优化的格式时，这非常有用。
+
+Python API 使得在自动化演示交付工作流中实现 ODT 到 PPS 的转换成为可能，帮助组织从源文档准备可直接显示的输出。它支持更快的沟通和标准化的幻灯片发布。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **显示就绪幻灯片创建**  
+  从书面内容生成面向幻灯片的输出。
+
+* **演示交付支持**  
+  帮助将报告转换为用于直接观看的格式。
+
+* **会议内容准备**  
+  实现文档快速转换为可共享的幻灯片。
+
+* **沟通效率**  
+  减少将书面材料重新用于演示所需的工作量。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化幻灯片发布**  
+  Python 工作流可以将 ODT 文件转换为 PPS 输出以进行分发。
+
+* **定期简报准备**  
+  计划好的报告可以自动成为显示就绪的演示文稿。
+
+* **批量转换流水线**  
+  多个文档可以大规模地处理为幻灯片格式。
+
+* **审查与交付自动化**  
+  生成的幻灯片可以直接路由到共享或演示系统。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

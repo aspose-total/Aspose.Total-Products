@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu S
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG to OFT conversion transforms vector-based content into an email template format that supports repeatable message creation and standardized communication workflows. This is valuable when graphical or layout-driven source material needs to be reused as a structured template for future email generation.
+
+Using Python APIs for SVG to OFT conversion enables automation teams to build scalable template creation pipelines from SVG assets. It improves productivity by reducing manual formatting, supporting consistent output, and enabling programmatic template generation.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření znovupoužitelných e‑mailových šablon**  
+  Převádí SVG obsah do OFT souborů pro opakované workflow zpráv.
+
+* **Konzistentní design komunikace**  
+  Pomáhá zachovat strukturovaný záměr rozvržení napříč opakujícími se e‑mailovými šablonami.
+
+* **Standardizace provozních šablon**  
+  Podporuje centralizovanou tvorbu souborů šablon z vizuálních zdrojových dokumentů.
+
+* **Opětovné použití obsahu připraveného pro workflow**  
+  Umožňuje týmům přetvořit SVG aktiva na zdroje komunikace řízené šablonami.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované publikování šablon**  
+  Python aplikace mohou převádět SVG návrhy do OFT šablon pro konzistentní opětovné použití.
+
+* **Workflow přípravy kampaní**  
+  Systémy mohou programově generovat e‑mailové šablony z schválených SVG aktiv.
+
+* **Dávková generace šablon**  
+  Více SVG souborů může být převedeno do OFT výstupů pro škálovatelné komunikační operace.
+
+* **Dynamické řízení šablon**  
+  Automatizované pipeline mohou aktualizovat a znovu generovat OFT šablony při změně SVG obsahu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

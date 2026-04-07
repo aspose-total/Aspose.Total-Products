@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX na OST převod transformuje obsah šablony Word do formátu spojeného s pracovními postupy offline úložiště poštovní schránky. Je relevantní v situacích, kdy musí generovaný komunikační obsah odpovídat synchronizovanému úložišti pošty a procesům podnikové archivace.
+
+Pomocí Python API může tento převod podpořit automatizaci přípravy dat orientovaných na poštovní schránky, zpracování ukládání zpráv a správu komunikace odvozené z dokumentů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Podpora úložiště poštovní schránky**
+  Přizpůsobte komunikaci generovanou dokumentem pro kontexty offline úložiště pošty.
+
+* **Podniková archivace**
+  Připravte obsah pro pracovní postupy, které zahrnují synchronizované úložiště zpráv.
+
+* **Operace pošty řízené šablonou**
+  Znovu použijte obsah dokumentu v prostředích zpracování souvisejících s poštovní schránkou.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná příprava úložiště pošty**
+  Převádějte šablony DOTX pro použití v procesech zpracování orientovaných na poštovní schránku.
+
+* **Pipelines uchovávání komunikace**
+  Podporujte škálovatelné archivní pracovní postupy pro generovaný obsah zpráv.
+
+* **Synchronizovaná správa obsahu**
+  Integrujte komunikaci založenou na dokumentech do systémů pošty s offline přístupem.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

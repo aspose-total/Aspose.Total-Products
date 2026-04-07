@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konverze OST do WordML převádí obsah poštovní schránky do XML‑založeného značkování pro zpracování textu, což umožňuje strukturovanou a strojově čitelnou reprezentaci dokumentů odvozených z e‑mailů. To je užitečné pro systémy, které vyžadují transparentní strukturu dokumentu a interoperabilitu na úrovni značek.
+
+Python API umožňují automatizovat konverzi OST do WordML pro pokročilé scénáře zpracování, včetně transformace, validace a integrace se systémy zaměřenými na XML. To zvyšuje flexibilitu a kontrolu ve workflow strukturovaných dokumentů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Strukturované značkování dokumentu**  
+  Převádí data poštovní schránky do WordML pro XML‑založenou reprezentaci dokumentu.
+
+* **Zpracování strojově čitelného obsahu**  
+  Podporuje workflow, které vyžadují inspektovatelné a transformovatelné značkování dokumentu.
+
+* **Interoperabilní zpracování**  
+  Pomáhá integrovat obsah odvozený z e‑mailů do systémů a nástrojů se strukturovaným obsahem.
+
+* **Pokročilá transformace dokumentu**  
+  Umožňuje detailní kontrolu nad převedeným obsahem v prostředích řízených značkováním.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizace XML pracovních toků**  
+  Python skripty převádějí OST archivy do WordML pro strukturované zpracovatelské řetězce.
+
+* **Procesy transformace obsahu**  
+  Automatizované systémy manipulují se značkováním odvozeným z poštovní schránky pro integraci a opětovné použití.
+
+* **Validace a výměnné řetězce**  
+  Programová konverze podporuje výměnu strukturovaných dokumentů ve velkém měřítku.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

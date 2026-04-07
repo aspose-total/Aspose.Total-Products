@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu B
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod BMP na OFT umožňuje začlenit bitmapové obrázky do souborů šablon e‑mailů pomocí formátu OFT. Tyto šablony se často používají k standardizaci procesů e‑mailové komunikace.
+
+Systémy automatizace těží z převodu BMP na OFT tím, že vytvářejí znovupoužitelné šablony zpráv, které obsahují vizuální obsah. To pomáhá zefektivnit pracovní postupy komunikace a udržet konzistenci napříč automatizovanými systémy zasílání zpráv.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření šablon e‑mailů**  
+  Obrázky BMP lze vložit do znovupoužitelných OFT šablon e‑mailů.
+
+* **Standardizované komunikační workflow**  
+  Organizace mohou navrhovat vizuální šablony pro automatizované zasílání zpráv.
+
+* **Znovupoužitelné rozvržení zpráv**  
+  Systémy mohou připravovat šablony obsahující obrazové prvky pro opakované použití.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované generování šablon**  
+  Skripty generují OFT šablony z BMP obrázků pro systémy zasílání zpráv.
+
+* **Šablony zpráv založené na workflow**  
+  Aplikace vytvářejí dynamické e‑mailové šablony s vloženými vizuály.
+
+* **Systémy distribuce šablon**  
+  Automatizované pipeline generují a distribuují standardizované e‑mailové šablony.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

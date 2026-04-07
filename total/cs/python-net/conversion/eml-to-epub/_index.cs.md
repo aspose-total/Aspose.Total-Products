@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu E
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+EML na EPUB konverze pomocí Python API umožňuje převést obsah e‑mailu do přizpůsobitelného digitálního publikace vhodného pro strukturované čtení a přenosnou distribuci. To je užitečné, když je materiál založený na e‑mailu třeba zabalit pro dlouhodobé prohlížení, sdílení znalostí nebo digitální dokumentaci.
+
+Z pohledu automatizace podpora konverze EML na EPUB škálovatelných publikačních pipeline tím, že promění obsah zpráv na přenosná čtecí aktiva. Umožňuje organizacím přetvořit komunikační záznamy na distribuční připravené digitální publikace se zlepšenou přístupností a kompatibilitou zařízení.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytvoření digitální publikace**  
+  Převádí obsah e‑mailu do souborů EPUB pro strukturované a přenosné čtení.
+
+* **Balíčkování znalostí**  
+  Pomáhá převádět komunikační vlákna na konzumovatelný digitální referenční materiál.
+
+* **Přenosné sdílení obsahu**  
+  Podporuje distribuci dokumentů odvozených z e‑mailu napříč více čtecími zařízeními.
+
+* **Uchování dlouhého obsahu**  
+  Umožňuje snadnější archivaci informací založených na zprávách ve formátu orientovaném na publikaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Integrace publikačního řetězce**  
+  Automatizace může převádět kurátorské sbírky e‑mailů do výstupů EPUB pro distribuci.
+
+* **Generování znalostní báze**  
+  Programové pracovní postupy mohou balit e‑mailové diskuse do čitelných digitálních zdrojů.
+
+* **Systémy přetvoření obsahu**  
+  Záznamy e‑mailů mohou být automaticky přeměněny na aktiva připravená k publikaci.
+
+* **Škálovatelné doručování dokumentace**  
+  Generování EPUB podporuje dynamické vytváření přenosných dokumentů pro uživatele a týmy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

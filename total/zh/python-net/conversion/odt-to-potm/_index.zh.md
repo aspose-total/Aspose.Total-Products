@@ -65,7 +65,47 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT 到 POTM 的转换将文档内容转换为宏启用的演示文稿模板格式，旨在实现可重复使用且适合自动化的幻灯片生成。当演示工作流需要可重复的结构和高级脚本行为时，这非常有价值。
+
+Python API 使 ODT 到 POTM 的转换在依赖编程式演示准备和模板驱动流程的环境中变得有用。它支持在高级文档到幻灯片工作流中可扩展地创建可重复使用的资产。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用的模板准备**  
+  创建支持高级功能的可重复使用的演示模板。
+
+* **自动化幻灯片框架**  
+  提供用于可重复生成演示的基础格式。
+
+* **结构化内容再利用**  
+  将正式文本转换为可重复使用的幻灯片模板资产。
+
+* **高级工作流支持**  
+  适用于演示行为和结构同等重要的场景。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **模板自动化流水线**  
+  Python 脚本可以将 ODT 文件转换为 POTM 模板，以用于重复的流程。
+
+* **大批量演示准备**  
+  多个文档可以在批处理作业中转换为支持宏的模板输出。
+
+* **文档到幻灯片标准化**  
+  自动化系统可以从文本内容生成一致的可重复使用的框架。
+
+* **动态演示组装**  
+  模板资产可以支持更广泛的自动化报告和交付工作流。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

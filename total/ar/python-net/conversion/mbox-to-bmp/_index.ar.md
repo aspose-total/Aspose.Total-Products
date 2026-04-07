@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل MBOX إلى BMP يحول أرشيفات صناديق البريد إلى صور bitmap، مما يجعل محتوى البريد الإلكتروني الفردي أسهل للمراجعة والحفظ والتوزيع بصيغة بصرية. هذا مفيد لالتقاط السجلات، والعرض الثابت، وسير العمل حيث يجب مشاركة محتوى الرسائل كصورة غير قابلة للتعديل.
+
+في البيئات الآلية، يساعد تحويل ملفات MBOX إلى BMP على توحيد تصور البريد الإلكتروني، ودعم العرض الدفعي، وتبسيط التكامل مع خطوط أنابيب الأرشفة، والتقارير، ومعالجة المستندات المبنية على واجهات برمجة تطبيقات Python.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **أرشفة لقطة البريد الإلكتروني**
+  تحويل رسائل صندوق البريد إلى صور bitmap للحفظ البصري الثابت والمرجعية.
+
+* **سير عمل المراجعة البصرية**
+  تمكين الفرق من فحص محتوى البريد الإلكتروني كصور ثابتة دون فتح عملاء البريد.
+
+* **إعداد دليل المستندات**
+  دعم عمليات الامتثال والتدقيق عن طريق تصدير الرسائل إلى سجلات صور قابلة للمشاركة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **عرض دفعة صناديق البريد**
+  تحويل مجموعات MBOX الكبيرة تلقائيًا إلى ملفات BMP لتوليد مخرجات منظمة.
+
+* **تكامل خط أنابيب الأرشفة**
+  إدخال صور البريد الإلكتروني المعروضة إلى سير عمل الاحتفاظ، والفهرسة، أو توثيق القضايا.
+
+* **تصدير الرسائل برمجيًا**
+  استخدام منطق مدفوع بـ Python لاستخراج، وعرض، وحفظ الرسائل كأصول bitmap على نطاق واسع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

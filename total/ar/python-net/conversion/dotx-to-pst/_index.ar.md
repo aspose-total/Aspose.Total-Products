@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOTX إلى PST يحول محتوى قالب Word إلى تنسيق جدول تخزين شخصي مرتبط بعمليات تدفق عمل أرشفة صناديق البريد والرسائل. يكون ذلك مفيدًا عندما يجب تعبئة محتوى الاتصالات المولدة في هياكل تخزين بريدية محمولة.
+
+باستخدام واجهات برمجة تطبيقات Python، يدعم هذا التحويل الأتمتة حول أرشفة البريد الإلكتروني، تنظيم الرسائل، والاحتفاظ بالاتصالات على نطاق واسع المستمد من قوالب المستندات المنظمة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **أرشفة البريد القابلة للنقل**
+  تجميع الاتصالات المستمدة من المستندات في تنسيق تخزين بريد منظم.
+
+* **عمليات تدفق عمل احتفاظ الرسائل**
+  حفظ الاتصالات المولدة للمراجعة والامتثال.
+
+* **تعبئة الاتصالات**
+  دمج الرسائل المستندة إلى المستندات القابلة لإعادة الاستخدام في مخرجات موجهة للأرشفة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء أرشيف بريد آلي**
+  إنشاء مخرجات PST من محتوى الاتصالات المستند إلى DOTX في خطوط احتفاظ.
+
+* **تخزين الرسائل بالجملة**
+  معالجة كميات كبيرة من المراسلات المولدة عبر أرشيفات منظمة.
+
+* **أتمتة من مستند إلى أرشيف**
+  تحويل مخرجات القوالب المتكررة إلى أصول صندوق بريد قابلة للنقل برمجياً.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

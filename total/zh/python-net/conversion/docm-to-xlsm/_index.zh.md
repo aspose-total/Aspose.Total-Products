@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM 转换为 XLSM 将宏启用的文档转换为宏启用的电子表格文件，使得能够在结构化文档数据的同时保留高级电子表格自动化。当转换后的内容必须在动态工作簿工作流中保持可用时，这非常有价值。
+
+对于现代自动化系统，DOCM 转换为 XLSM 支持可重用的电子表格流程、嵌入式逻辑以及将文档内容可扩展地转换为可操作的工作簿资产。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **宏启用工作簿创建**
+  将文档内容转换为支持高级自动化行为的电子表格。
+
+* **动态数据处理**
+  支持电子表格逻辑与结构化内容必须协同工作的工作流。
+
+* **可重用的运营资产**
+  帮助将文档转换为适用于重复业务流程的电子表格。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化高级工作簿生成**
+  从 DOCM 输入生成 XLSM 文件，用于逻辑驱动的电子表格工作流。
+
+* **嵌入式流程保留**
+  支持在基于电子表格的输出中保留自动化能力。
+
+* **可扩展的报告与计算管道**
+  实现大批量文档向宏启用工作簿的转换。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

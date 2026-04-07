@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOTX إلى FODS يحول محتوى قالب Word إلى تنسيق جدول بيانات OpenDocument مسطح مصمم لتبادل البيانات المفتوح والهيكلي. وهو مفيد لتدفقات العمل التي تعطي الأولوية للمعايير المفتوحة وتخزين جداول البيانات القابلة للقراءة المستندة إلى XML.
+
+مع واجهات برمجة تطبيقات Python، يدعم هذا التحويل الأتمتة من خلال إنتاج مستندات جدول بيانات قابلة للتشغيل البيني يمكن إنشاؤها والتحقق منها ودمجها في أنظمة معالجة بيانات قابلة للتوسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تصدير جدول بيانات مفتوح**
+  تحويل محتوى المستند إلى تنسيق جدول بيانات مفتوح لتوافق أوسع.
+
+* **تدفقات عمل XML منظمة**
+  الحفاظ على المعلومات الجدولية في تنسيق مناسب لمعالجة البيانات الشفافة.
+
+* **تبادل قائم على المعايير**
+  تمكين نقل محتوى القالب عبر الأنظمة التي تدعم تنسيقات المستند المفتوح.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تقارير تلقائية بصيغة مفتوحة**
+  إنشاء ملفات FODS من قوالب DOTX في مهام التقارير المتكررة.
+
+* **خطوط أنابيب بيانات قابلة للتشغيل البيني**
+  إدخال مخرجات جدول البيانات المفتوح إلى الأنظمة التي تعتمد على تبادل قائم على المعايير.
+
+* **تطبيع القوالب على نطاق واسع**
+  تحويل هياكل المستند المتكررة إلى أصول جدول بيانات مفتوح برمجيًا.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

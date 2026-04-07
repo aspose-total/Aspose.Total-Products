@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu E
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+EPUB na OFT konverze v Pythonu umožňuje transformovat obsah digitální publikace do souborů e‑mailových šablon, které podporují opakovatelná komunikační workflow. To je cenné, když obsah dokumentu musí sloužit jako znovupoužitelný základ pro oznámení, strukturované zprávy nebo doručování dokumentů založených na šablonách.
+
+Z pohledu automatizace pomáhá konverze EPUB na OFT systémům v Pythonu generovat znovupoužitelné šablony zpráv, snižovat duplicitu v komunikačních procesech a podporovat škálovatelný návrh workflow v dokument‑centrických prostředích.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Znovupoužitelné šablony zpráv**  
+  Převést obsah EPUB do souborů OFT pro opakované použití ve strukturovaných komunikačních scénářích.
+
+* **Upozornění založená na šablonách**  
+  Použít obsah odvozený z publikace jako základ pro standardizované šablony zpráv v automatizovaných systémech.
+
+* **Redakční a schvalovací koncepty**  
+  Vytvořit znovupoužitelné rozvržení zpráv z digitálních publikací pro interní pracovní postupy a revizní účely.
+
+* **Konzistentní design komunikace**  
+  Udržet jednotné formátování převodem zdrojových dokumentů do výstupních souborů připravených jako šablony.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná generace šablon**  
+  Python skripty mohou vytvářet soubory OFT z obsahu EPUB pro opakující se komunikační workflow.
+
+* **Dynamické vkládání obsahu**  
+  Šablonové soubory lze generovat programově a později naplnit daty specifickými pro pracovní postup.
+
+* **Standardizovaná příprava dávky**  
+  Automatizované systémy mohou s minimálním úsilím připravit více šablon OFT ze sad publikací.
+
+* **Zlepšení znovupoužitelnosti pracovních postupů**  
+  Převod EPUB na OFT podporuje škálovatelné procesy, kde jsou opakovatelné komunikační prostředky nezbytné.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

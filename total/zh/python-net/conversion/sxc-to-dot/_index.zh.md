@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC 到 DOT 的转换将电子表格内容转换为文档模板格式，可作为未来文档生成的可重用基础。当需要将来源于电子表格的信息嵌入标准化布局以进行重复的业务或运营使用时，这非常有用。
+
+通过 Python API，SXC 到 DOT 的转换支持基于模板的自动化，实现一致的文档结构、更快的输出创建以及在大批量工作流中对格式的更好控制。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **模板准备**  
+  将电子表格内容转换为可重复使用的文档模板，以满足经常性的沟通需求。
+
+* **标准化格式**  
+  帮助在生成的文档中保持一致的结构和呈现。
+
+* **流程文档**  
+  支持为表单、摘要和运营记录创建可重复使用的模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **基于模板的报告系统**  
+  自动化生成 DOT 模板，随后可生成大量统一的文档。
+
+* **批量内容结构化**  
+  使用 Python API 为可扩展的文档工作流准备多个来源于电子表格的模板。
+
+* **一致的输出管道**  
+  确保下游文档生成从受控的、可重用的结构开始。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

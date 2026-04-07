@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod DOCM na EMAIL připravuje obsah dokumentu s makry pro použití v e‑mailových pracovních postupech, což usnadňuje převod informací z dokumentu na výstup připravený k odeslání. To je užitečné pro oznámení, souhrny, schválení nebo komunikační procesy řízené obsahem dokumentu.
+
+V moderních automatizovaných systémech pomáhá převod DOCM na EMAIL propojit vytvořené dokumenty s komunikačními kanály, což umožňuje škálovatelnou distribuci, šablonované zprávy a korespondenci spouštěnou pracovním postupem.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Upozornění založená na dokumentech**
+  Převádí obsah dokumentu na materiál připravený pro e‑mailovou komunikaci v provozu.
+
+* **Schvalovací pracovní postupy**
+  Umožňuje sdílení souhrnů odvozených z dokumentu s recenzenty a zainteresovanými stranami.
+
+* **Opětovné využití obsahu v komunikaci**
+  Usnadňuje opětovné využití formálního textu dokumentu v komunikačních kanálech.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Generování zpráv na základě spouštění**
+  Automaticky vytváří e‑mailový obsah, když nové soubory DOCM vstoupí do pracovního postupu.
+
+* **Převod dokumentu do komunikačních kanálů**
+  Propojuje vytvořený obsah s automatizovanými systémy odchozí komunikace.
+
+* **Škálovatelné distribuční procesy**
+  Umožňuje hromadné vytváření výstupů připravených k odeslání z mnoha dokumentů najednou.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

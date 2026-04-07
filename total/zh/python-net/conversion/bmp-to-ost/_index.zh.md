@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+BMP 到 OST 的转换允许将位图图像文件包含在消息客户端使用的离线电子邮件存储文件中。OST 文件维护邮箱数据的同步副本，以便离线访问。
+
+自动化转换工作流帮助系统将基于图像的消息集成到离线邮箱存储中。这支持企业归档、同步以及自动化邮箱管理流程。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **离线邮箱存储**  
+  基于 BMP 的消息可以存储在离线邮箱文件中。
+
+* **企业电子邮件归档**  
+  组织可以在邮箱存储系统中保留可视化通信。
+
+* **邮箱数据同步**  
+  可视内容可以集成到同步的邮箱记录中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化邮箱填充**  
+  系统生成基于 BMP 的消息并将其存储在 OST 文件中。
+
+* **邮箱迁移工作流**  
+  在迁移过程中，可将可视化电子邮件内容转换为离线邮箱存储。
+
+* **编程式邮箱管理**  
+  应用程序动态更新包含基于图像的通信的 OST 文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu V
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF to DOT konverze mění informace z kontaktní karty na soubory šablon Word, které mohou sloužit jako znovupoužitelné základy pro standardizovanou tvorbu dokumentů. To je cenné, když je třeba vložit kontaktní data do opakovatelných rozvržení pro administrativní nebo provozní použití.
+
+V automatizačních pracovních postupech umožňuje VCF to DOT konverze systémům řízeným Pythonem připravit šablony založené na kontaktech, které podporují konzistenci, rychlejší tvorbu dokumentů a škálovatelné formátování napříč různými výstupními scénáři.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Znovupoužitelné šablony kontaktů**  
+  Převod dat VCF do souborů DOT pro opakovatelnou tvorbu dokumentů.
+
+* **Standardizované formátování**  
+  Udržujte konzistentní rozvržení dokumentů řízených kontakty napříč týmy.
+
+* **Příprava pracovního postupu**  
+  Použijte výstupy šablon jako výchozí body pro další úpravy nebo automatické naplnění.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Pipelines generování šablon**  
+  Automaticky vytvářejte šablony DOT z kontaktních záznamů pro pozdější opětovné použití.
+
+* **Konzistentní výroba dokumentů**  
+  Vkládejte vygenerované šablony do větších systémů, které vyžadují jednotné formátování kontaktů.
+
+* **Programové strukturování obsahu**  
+  Použijte Python API k vytvoření opakovatelných šablon kontaktů ve velkém měřítku.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT 到 FODS 的转换将文档模板转换为平面 OpenDocument 电子表格文件，适用于开放的结构化数据交换。这在重视透明格式和广泛互操作性的环境中非常有用。
+
+通过使用 Python API，团队可以自动化 DOT 到 FODS 的处理，以支持开放工作流、减少手动转换，并提升面向数据的文档转换的一致性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **开放电子表格导出**
+  将 DOT 文件转换为 FODS，以在开放文档生态系统中进行结构化数据处理。
+
+* **可互操作的数据共享**
+  使用平面电子表格输出在系统之间交换基于模板的信息。
+
+* **可读的结构化存储**
+  将提取的内容保存在开放的基于 XML 的电子表格格式中，以便维护和重用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **开放工作流集成**
+  Python 自动化可以从 DOT 模板生成 FODS 文件，以进行基于标准的处理。
+
+* **计划的模板转换**
+  重复的作业可以轻松地将模板内容导出为平面电子表格文件。
+
+* **可扩展的开放格式转换**
+  动态流水线有助于标准化大规模文档到 FODS 的操作。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

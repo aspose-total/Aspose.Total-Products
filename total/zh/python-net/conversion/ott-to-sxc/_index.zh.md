@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT 到 SXC 的转换在 Python API 中将 OpenDocument 文本模板转换为适用于旧版 OpenOffice 电子表格工作流的电子表格文件。当文档内容必须转换为结构化、可编辑的表格格式以兼容旧版环境时，这非常有用。
+
+该转换通过实现文档信息的标准化提取到仍然依赖于既定 OpenOffice 格式的电子表格工作流中，从而支持自动化。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **旧版电子表格支持**  
+  创建兼容旧版 OpenOffice 工作流的电子表格输出。
+
+* **文档数据结构化**  
+  将文本模板内容转换为可编辑的表格。
+
+* **运营兼容性**  
+  帮助将生成的数据与既定的电子表格生态系统集成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化旧版导出**  
+  从 OTT 源生成 SXC 文件，以满足兼容性驱动的工作流。
+
+* **批量数据转换**  
+  高效地将多个模板文件转换为表格化的旧版输出。
+
+* **系统连续性集成**  
+  支持保留旧版电子表格处理链的环境。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

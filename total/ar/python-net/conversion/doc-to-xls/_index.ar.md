@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل المستند إلى XLS يحول محتوى Word إلى تنسيق جدول بيانات يُستخدم للمراجعة الهيكلية، والحسابات، والتقارير التشغيلية. يكون ذلك ذا قيمة عندما تحتاج الجداول والسجلات المستندة إلى المستند إلى أن تصبح بيانات جدول بيانات قابلة للتحرير.
+
+استخدام واجهات برمجة تطبيقات Python لتحويل DOC إلى XLS يحسن الكفاءة، يدعم الاستخراج القابل للتكرار، ويساعد على دمج محتوى المستند في سير عمل الأعمال المرتكز على جداول البيانات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تحويل بيانات جدول البيانات**
+  تحويل جداول المستند إلى ملفات XLS للتحرير والتحليل.
+
+* **التقارير والمراجعة**
+  إعداد المحتوى المستمد من المستند لمهام التقارير القائمة على جداول البيانات.
+
+* **توافق جداول البيانات القديمة**
+  استخدام مخرجات XLS حيث لا تزال بيئات جداول البيانات القديمة قيد التشغيل.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تصدير جداول البيانات المؤتمت**
+  تحويل ملفات DOC إلى XLS كجزء من سير عمل تشغيلي متكرر.
+
+* **إعداد البيانات على دفعات**
+  استخراج البيانات المهيكلة من المستندات برمجيًا إلى شكل جدول بيانات.
+
+* **خطوط أنابيب تكامل النظام**
+  تغذية المخرجات المتوافقة مع جداول البيانات إلى أنظمة التحليل أو المالية أو التخطيط.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

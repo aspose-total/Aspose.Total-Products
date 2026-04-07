@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OFT 到 BMP 的转换使用 Python API，使电子邮件模板内容能够转换为位图图像，以用于归档、预览生成和固定布局共享。当视觉一致性重要且基于消息的内容必须以静态、广泛可读的图像格式保存时，此过程非常有价值。
+
+在现代工作流中，OFT 到 BMP 的转换通过将可重用的电子邮件模板转化为图像资产来支持自动化，这些图像资产可以被索引、审查并在无需电子邮件客户端的情况下分发。它提升了文档处理、报告流水线和可视化记录管理的运营效率。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **模板预览归档**  
+  将 OFT 文件转换为 BMP 图像，以将电子邮件模板布局保存为静态可视记录。
+
+* **可视化合规审查**  
+  使用位图输出对格式、免责声明和品牌元素进行手动或自动检查。
+
+* **离线图像分发**  
+  以简易图像格式共享渲染后的电子邮件内容，用于内部审查或文档目的。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量电子邮件模板渲染**  
+  自动将多个 OFT 模板转换为 BMP 文件，以用于目录编制和质量检查。
+
+* **文档工作流集成**  
+  将转换后的 BMP 输出路由到文档库、审计系统或审批流水线。
+
+* **预览生成流水线**  
+  从 OFT 模板动态生成可视化预览，用于仪表板、门户或内容库。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

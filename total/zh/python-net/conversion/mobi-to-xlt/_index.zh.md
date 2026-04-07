@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python 中的 MOBI 转 XLT 转换支持将电子书内容转换为用于可重复工作簿创建的电子表格模板格式。当结构化输出需要遵循固定布局、预定义公式或标准化报告设计时，这非常有用。
+
+在自动化工作流中，MOBI 转 XLT 转换帮助组织从提取的内容源创建一致的电子表格模板。它支持标准化，减少重复的格式化工作，并实现基于统一模式的结构化文档的可扩展生成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **基于模板的报告**
+  将 MOBI 内容转换为 XLT，以满足需要可重复电子表格布局的工作流。
+
+* **标准化工作簿设计**
+  使用模板输出以保留结构、格式以及一致的工作表组织。
+
+* **面向流程的文档创建**
+  支持从通用模板基础生成多个电子表格实例的团队。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **重复模板生成**
+  自动从 MOBI 派生的数据创建 XLT 文件，以用于重复的报告周期。
+
+* **格式标准化流水线**
+  使用 Python 自动化确保每个转换后的电子表格遵循相同的结构模型。
+
+* **可扩展工作簿生产**
+  将基于模板的输出输入到能够大规模生成标准化运营文档的系统中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX 转 Excel 转换将 Word 模板内容转换为可用于计算、审阅和结构化数据处理的电子表格兼容输出。当文档模板中编写的信息需要在分析或表格环境中重复使用时，这非常有用。
+
+此转换通过实现基于 Python 的文档内容提取和转换，使其进入支持规模化、验证和运营效率的电子表格工作流，从而提升自动化水平。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **数据分析准备**
+  将文档模板中的结构化内容迁移到电子表格环境中。
+
+* **运营报告**
+  在计算和审阅工作流中重复使用文档衍生的数据。
+
+* **模板内容重新格式化**
+  将叙述性或表格部分转换为电子表格就绪的结构。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **计划的电子表格生成**
+  在报告流水线中自动将 DOTX 文件转换为 Excel 输出。
+
+* **文档到分析工作流**
+  将转换后的电子表格数据输入自动化仪表板和指标系统。
+
+* **大批量数据转换**
+  以最少的人工工作将大量模板处理为电子表格资产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

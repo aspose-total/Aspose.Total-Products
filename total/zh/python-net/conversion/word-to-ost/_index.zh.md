@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 的 Word 到 OST 转换将文档内容转换为离线邮箱导向的输出，适用于同步邮件存储和消息打包的场景。当基于文档的通信制品需要与离线访问、保留或迁移相关的工作流保持一致时，这可能是相关的。
+
+在自动化环境中，此转换支持将文档内容结构化地转换为邮件存储兼容的资产，可纳入更大的企业通信和归档流程。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **离线邮件导向包装**
+  将文档内容适配用于离线邮件存储环境的工作流。
+
+* **通信记录准备**
+  支持将正式内容转换为邮件兼容的归档资产。
+
+* **迁移协助**
+  帮助为邮箱相关的转移场景准备文档衍生的内容。
+
+* **企业保留支持**
+  将文档工作流与消息保存和存储要求保持一致。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **归档转换工作流**
+  将 Word 文档处理为适用于离线邮件存储管道的输出。
+
+* **批量通信打包**
+  自动将标准化文档转换为邮件导向的资产。
+
+* **保留自动化**
+  使用转换例程大规模保留通信风格的内容。
+
+* **迁移准备管道**
+  将 Word 到 OST 的转换集成到企业内容迁移工作流中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

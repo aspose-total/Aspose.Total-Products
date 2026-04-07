@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل SXC إلى RTF يحول معلومات الجداول الإلكترونية إلى تنسيق نص غني يوازن بين القابلية للقراءة، القابلية للنقل، والتوافق الواسع عبر بيئات تحرير النص. يكون مفيدًا عندما يجب مشاركة محتوى الجداول كنص منسق مع الحفاظ على إمكانية الوصول إليه في مجموعة واسعة من الأنظمة.
+
+باستخدام واجهات برمجة تطبيقات بايثون، يساعد تحويل SXC إلى RTF على أتمتة إنشاء مستندات خفيفة الوزن للتواصل، الأرشفة، وتبادل المحتوى عبر المنصات دون الاعتماد على تبعيات مستندات معقدة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **مشاركة النص عبر المنصات**  
+  يقوم بتحويل محتوى الجداول إلى تنسيق يمكن فتحه بواسطة العديد من التطبيقات القادرة على معالجة النص.
+
+* **تصدير المحتوى المنسق**  
+  يحافظ على البنية الأساسية والقابلية للقراءة عند نقل البيانات إلى سير عمل المستندات النصية.
+
+* **توثيق خفيف الوزن**  
+  يدعم إنشاء ملفات منسقة قابلة للنقل للتلخيصات، الملاحظات، والتقارير البسيطة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إخراج مستند نصي مؤتمت**  
+  يستخدم واجهات برمجة تطبيقات بايثون لتحويل ملفات SXC إلى مستندات RTF لتدفقات عمل تقارير خفيفة الوزن.
+
+* **خطوط أنابيب توافق واسعة**  
+  تمكن من تصدير المحتوى للأنظمة التي تتطلب مستندات نصية بسيطة، منسقة، وقابلة للنقل.
+
+* **سير عمل تحويل دفعي**  
+  يدعم التحويل البرمجي لعدة ملفات جداول إلى مخرجات نصية قابلة للوصول.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

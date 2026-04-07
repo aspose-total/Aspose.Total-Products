@@ -53,7 +53,41 @@ Používáme API [Aspose.Words for Python via .NET](https://products.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod dokumentu na obrázky převádí stránky Wordu na soubory obrázků pro náhled, sdílení, publikování a vizuální archivaci. To je užitečné, když je potřeba pevné rozvržení, snadné prohlížení nebo distribuce založená na obrázcích napříč webovými a mobilními prostředími.
+
+Python API umožňují efektivní převod DOC na obrázky pro škálovatelné renderovací pipeline, generování miniatur, systémy náhledů dokumentů a automatizované pracovní postupy publikování.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování náhledů stránek**
+  Převést stránky dokumentu na obrázky pro rychlé náhledy v portálech a aplikacích.
+
+* **Vizuální archivace**
+  Zachovat vzhled dokumentu jako statické obrázky pro revizi a referenci.
+
+* **Podpora webového publikování**
+  Použít výstup obrázku, když musí být obsah dokumentu vizuálně vložen online.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Pipeline pro tvorbu miniatur**
+  Automaticky renderovat soubory DOC na obrázky stránek pro vyhledávací a náhledové rozhraní.
+
+* **Pracovní postupy doručování obsahu**
+  Generovat obrázky dokumentů pro webové stránky, dashboardy nebo komunikační systémy.
+
+* **Dávkové renderovací úlohy**
+  Programově převádět velké kolekce dokumentů na obrázky ve velkém měřítku.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

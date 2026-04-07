@@ -64,7 +64,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod DOT na PPTM transformuje šablony dokumentů do makrem povolených prezentačních souborů pro editovatelné workflow snímků s pokročilou funkčností. To je důležité v situacích, kdy prezentační soubory musí zůstat editovatelné a zároveň podporovat rozšířené chování.
+
+S Python API lze převod DOT na PPTM automatizovat a podpořit škálovatelné vytváření pokročilých prezentačních aktiv z opakovaně použitelného obsahu dokumentů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Pokročilé vytváření editovatelných prezentací**
+  Převést šablony DOT do souborů PPTM pro prezentace s rozšířenými možnostmi.
+
+* **Autorování prezentací řízené dokumentem**
+  Znovu použít strukturovaný obsah dokumentu v editovatelných sadách snímků s vylepšenou funkčností.
+
+* **Produkce snímků orientovaná na workflow**
+  Podpořit prezentační procesy, které vyžadují jak editovatelnost, tak bohatší chování.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná generace balíčků s makry**
+  Python workflow mohou vytvářet soubory PPTM ze šablon DOT pro opakované použití.
+
+* **Pokročilé prezentační pipeline**
+  Převod pomáhá integrovat repozitáře dokumentů s výkonnými systémy pro výrobu snímků.
+
+* **Škálovatelné vytváření editovatelného výstupu**
+  Programová transformace podporuje masovou tvorbu pokročilých prezentačních souborů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -66,7 +66,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 PPTM 转换为 DOT 可将带宏的演示文稿内容转换为用于标准化文本输出的文档模板格式。当演示材料需要为重复的业务或运营流程提供可重用的文档结构时，这非常有用。
+
+此类转换通过使组织能够从演示文稿衍生的内容构建可重复的文档工作流来支持自动化。它减少了工作重复，并帮助标准化转换后信息的格式化方式以及在团队之间的重用。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **基于模板的内容复用**
+  将幻灯片内容转换为可重复使用的模板基础，以便反复创建文档。
+
+* **标准化文档准备**
+  支持从演示材料生成的文档保持一致性。
+
+* **运营内容结构化**
+  帮助将转换后的内容组织到预定义的布局中，以供内部工作流使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **模板生成流水线**
+  自动化从演示资产创建 DOT 模板的过程。
+
+* **重复文档工作流**
+  支持使用标准化的转换模板反复生成文档。
+
+* **格式控制自动化**
+  实现对转换输出的布局一致性进行程序化强制。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

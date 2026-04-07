@@ -65,7 +65,47 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod ODS na DOTM umožňuje převádět soubory tabulek do šablon dokumentů s makry. Tyto šablony umožňují pokročilou automatizaci dokumentů a znovu použitelné struktury dokumentů řízené vloženými makry.
+
+Pomocí Python API mohou vývojáři automatizovat transformaci datových sad tabulek do šablon s makry. To umožňuje škálovatelné automatizační systémy, které vytvářejí dynamické dokumenty na základě dat řízených tabulkami.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření šablon s makry**  
+  Převod datových struktur tabulek do šablon podporujících automatizační makra.
+
+* **Automatizované rámce dokumentů**  
+  Použijte vstupy z tabulek k vytvoření šablon dokumentů řízených makry.
+
+* **Generování dynamických šablon**  
+  Vytvářejte znovu použitelné šablony ze strukturovaného obsahu tabulek.
+
+* **Systémy automatizace dokumentů**  
+  Umožněte pokročilé automatizované pracovní postupy dokumentů pomocí šablon s makry.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná výroba šablon**  
+  Pythonové pracovní postupy generují šablony s makry ze vstupů tabulek.
+
+* **Dávková konverze šablon**  
+  Systémy zpracovávají více souborů ODS a vytvářejí šablony s makry.
+
+* **Podniková automatizace dokumentů**  
+  Šablony odvozené z tabulek umožňují škálovatelnou automatizovanou tvorbu dokumentů.
+
+* **Dynamické sestavování dokumentů**  
+  Šablony s makry podporují programové vytváření obsahu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

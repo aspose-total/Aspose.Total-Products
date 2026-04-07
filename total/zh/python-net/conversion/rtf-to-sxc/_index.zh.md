@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF 到 SXC 的转换将富文本文档转换为符合旧版开放电子表格工作流的电子表格文件。当文档内容必须组织成表格形式以进行分析、报告或兼容旧版开放办公环境时，这非常有用。
+
+在自动化环境中，RTF 到 SXC 支持将书面信息结构化转换为电子表格资产，以便参与历史或以兼容性为重点的数据处理流水线。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **旧版开放电子表格准备**  
+  将文档内容转换为适用于旧版开放电子表格环境的表格文件。
+
+* **结构化数据重组**  
+  帮助将叙述信息重新构造成行列，以便审查和跟踪。
+
+* **以兼容性为重点的数据交换**  
+  支持依赖旧版电子表格文件支持的工作流。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化旧版电子表格输出**  
+  系统可以将 RTF 源转换为 SXC 文件，以满足以兼容性为驱动的工作流。
+
+* **批量数据结构化处理**  
+  编程转换有助于将大量文档集标准化为电子表格就绪格式。
+
+* **历史系统集成**  
+  动态工作流可以使用转换后的文档内容向旧版表格环境提供数据。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

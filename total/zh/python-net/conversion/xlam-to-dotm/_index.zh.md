@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 XLAM 转换为 DOTM 可将 Excel 加载项内容转换为宏启用的 Word 模板，这些模板结合了可重用的结构和文档自动化功能。当组织需要基于模板的 Word 输出且支持标准化和脚本化操作时，这非常有用。
+
+在现代自动化工作流中，XLAM 转换为 DOTM 有助于桥接基于电子表格的内容与宏启用的文档模板，实现交互式或面向流程的文档的可扩展生成。它支持在具有复杂文档流程的环境中高效地复用模板。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用模板创建**  
+  将 XLAM 资源转换为 DOTM 模板，以实现具有自动化行为的可重用文档。
+
+* **面向流程的文档**  
+  支持在需要结构化内容和嵌入式自动化的工作流中使用的模板文件。
+
+* **受控文档生成**  
+  帮助标准化文档，同时保持与宏驱动的 Word 操作的兼容性。
+
+* **可重用的运营表单**  
+  实现为重复使用的表单、检查清单或内部流程文档创建动态模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板部署**  
+  Python API 可以从 XLAM 源生成 DOTM 模板，以供全企业使用。
+
+* **工作流集成文档创建**  
+  生成的模板可用于宏辅助的流程，如验证、审阅或格式化自动化。
+
+* **大批量表单生成**  
+  转换流水线可以生成可重复使用的宏启用模板，以用于重复的运营任务。
+
+* **动态内容到模板映射**  
+  基于电子表格的内容可以通过编程方式转换为带有自动化支持的结构化 Word 模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

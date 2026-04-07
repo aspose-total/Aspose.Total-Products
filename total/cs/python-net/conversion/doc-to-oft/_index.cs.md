@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod dokumentu do OFT mění obsah Wordu na soubory šablon e‑mailů, které lze znovu použít v pracovních postupech zasílání zpráv a komunikace. Je to zvláště užitečné, když obsah dokumentu slouží jako základ pro opakované oslovení, oznámení nebo standardizovanou korespondenci.
+
+Python API umožňují převod DOC do OFT jako součást automatizované tvorby obsahu, pomáhají týmům vytvářet konzistentní šablony zpráv a zvyšovat efektivitu komunikace.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Opakovatelné e‑mailové šablony**
+  Převést návrhy dokumentů na OFT šablony pro opakovanou komunikaci.
+
+* **Standardizované zprávy**
+  Zajistit konzistentní strukturu a formulaci napříč opakujícími se e‑mailovými pracovními postupy.
+
+* **Oslovení založené na šablonách**
+  Přetvořit formální obsah dokumentu na znovu použitelné rámce zpráv.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná výroba šablon**
+  Generovat OFT soubory z obsahu DOC pro kampaně nebo notifikační systémy.
+
+* **Zprávové kanály řízené dokumenty**
+  Převést schválený text dokumentu na šablony připravené pro následnou personalizaci.
+
+* **Škálovatelné komunikační operace**
+  Programově udržovat velké knihovny znovu použitelných formátů zpráv.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

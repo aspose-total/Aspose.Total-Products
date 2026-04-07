@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل WordML إلى FODS يصدر المحتوى الهيكلي القائم على المستندات إلى تنسيق جدول بيانات OpenDocument المسطح، وهو مفيد لتدفقات عمل جداول البيانات المفتوحة المعيار والمعالجة القائمة على XML. يدعم البيئات التي تعطي الأولوية لتنسيقات البيانات الشفافة، القابلة للنقل، والمستندة إلى المعايير.
+
+تساعد واجهات برمجة التطبيقات بلغة Python على أتمتة تحويل WordML إلى FODS من خلال تحويل الجداول والنصوص الهيكلية إلى تمثيلات جداول بيانات مفتوحة مناسبة للتكامل القابل للتوسع وعمليات التحقق.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تحويل جدول بيانات مفتوح**
+  يقوم بتحويل جداول WordML إلى تنسيق جدول بيانات مفتوح مسطح للمعالجة المعيارية.
+
+* **معالجة صديقة للـ XML**
+  يدعم تدفقات العمل التي تستفيد من هياكل XML لجداول البيانات القابلة للقراءة والنقل.
+
+* **تبادل قائم على المعايير**
+  يُمكّن مشاركة البيانات الهيكلية في أنظمة المستندات المفتوحة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط أنابيب تصدير بصيغة مفتوحة**
+  يُؤتمت تحويل WordML إلى FODS لتدفقات عمل متوافقة مع المعايير.
+
+* **وظائف التحقق والتحويل**
+  يستخدم مخرجات جدول البيانات XML المسطحة في عمليات الفحص أو التحويل الآلية.
+
+* **تحديث المستودع**
+  يساعد على ترحيل البيانات الجدولية القائمة على المستندات إلى تنسيقات جداول بيانات مفتوحة قابلة للمعالجة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

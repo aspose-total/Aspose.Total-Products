@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod textu na EMLX pomocí Python API transformuje prostý text na soubory e‑mailových zpráv určené pro prostředí používající úložiště ve stylu EMLX. To je užitečné pro zachování zpráv, specifické e‑mailové pracovní postupy aplikací a strukturované zpracování korespondence založené na textu.
+
+Převod podporuje automatizaci tím, že umožňuje programově připravit textový obsah pro specializované ukládání e‑mailů, migrační úkoly a procesy generování zpráv řízené systémem, které vyžadují konzistenci a efektivitu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **Strukturované ukládání e‑mailů**  
+  Převádí text na soubory zpráv kompatibilní s EMLX pro organizované uchovávání a vyhledávání.
+
+* **Podpora migrace poštovní schránky**  
+  Pomáhá připravit obsah zpráv odvozený z textu pro systémy, které spoléhají na formáty ve stylu EMLX.
+
+* **Automatizované balení zpráv**  
+  Umožňuje zabalit prostý textový obsah do použitelné struktury souboru e‑mailu.
+
+* **Vytváření záznamů pracovních postupů**  
+  Podporuje zachování generované textové komunikace ve formátu souboru orientovaném na zprávy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **Příprava migrace**  
+  Automatizace může převést velké objemy textového obsahu do souborů EMLX pro migrační pracovní postupy.
+
+* **Aplikačně řízené vytváření zpráv**  
+  Systémy mohou generovat výstupy kompatibilní s EMLX přímo z dynamických textových zdrojů.
+
+* **Archivní zpracovatelské řetězce**  
+  Záznamy založené na textu mohou být transformovány do strukturovaných souborů zpráv pro automatizované procesy uchovávání.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

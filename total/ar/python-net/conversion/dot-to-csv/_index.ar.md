@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOT إلى CSV يحول قوالب معالجة النصوص المهيكلة إلى بيانات جدولة بسيطة يمكن استخدامها للتقارير وتبادل البيانات والتحليل الخفيف. يكون ذلك ذا قيمة عندما يجب استخراج المحتوى القائم على المستندات إلى تنسيق بسيط ومدعوم على نطاق واسع لتدفقات العمل التشغيلية.
+
+باستخدام واجهات برمجة تطبيقات Python، يدعم هذا التحويل خطوط أنابيب الأتمتة التي تنقل المعلومات من قوالب المستندات القابلة لإعادة الاستخدام إلى مجموعات بيانات مهيكلة، مما يحسن سرعة المعالجة والاتساق وتوافق الأنظمة اللاحقة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **استخراج بيانات القالب**
+  تحويل ملفات DOT إلى CSV لالتقاط النص المهيكل والحقول للتقارير أو الاستخدام الأرشيفي.
+
+* **قابلية تشغيل الأنظمة**
+  تصدير محتوى المستند إلى تنسيق يمكن للقاعدة البيانات والسكربتات وأدوات الأعمال استهلاكه.
+
+* **معالجة المستندات على دفعات**
+  معالجة مجموعات كبيرة من القوالب إلى مخرجات جدولة لتسهيل التعامل والمراجعة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط أنابيب المستند إلى البيانات**
+  تقوم الأتمتة بتحويل مستندات القالب إلى ملفات CSV لتضمينها في تحليلات أو تدفقات عمل ETL.
+
+* **تصدير المحتوى المجدول**
+  يمكن للوظائف القائمة على Python تحويل ملفات DOT إلى CSV بشكل متكرر لتقارير تشغيلية دورية.
+
+* **إعداد البيانات القابلة للتوسع**
+  يساعد التحويل البرمجي في توحيد إنشاء المخرجات عبر مستودعات المستندات الكبيرة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

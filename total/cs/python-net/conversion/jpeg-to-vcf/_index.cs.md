@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu J
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konverze JPEG na VCF pomocí Python API umožňuje transformovat workflow související s kontaktními informacemi ve formě obrázků do digitálních souborů vizitek. To je užitečné, když je potřeba převést vizuální záznamy kontaktů, naskenované vizitky nebo profilové údaje ve formě obrázku do standardního formátu pro sdílení a správu kontaktů.
+
+Automatizace přináší hodnotu tím, že umožňuje systémům extrahovat, strukturovat a generovat soubory kontaktů z obrazových vstupů, čímž zlepšuje přenositelnost dat, rychlost zpracování kontaktů a integraci s komunikačními platformami.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytvoření digitální vizitky**
+  Převést vizuály kontaktů ve formátu JPEG do VCF souborů pro snadné sdílení a import.
+
+* **Digitalizace vizitek**
+  Přeměnit naskenované nebo vyfocené kontaktní karty na strukturované digitální záznamy kontaktů.
+
+* **Přenositelnost kontaktních dat**
+  Použít výstup VCF k přesunu detailů kontaktů z obrazové podoby do znovupoužitelných formátů adresářů.
+
+* **Podpora CRM a adresářů**
+  Převést zdroje kontaktů založené na obrázcích do standardních souborů pro organizované workflow správy kontaktů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované pipeline pro extrakci kontaktů**
+  Python API mohou převádět JPEG obrázky kontaktů do VCF souborů pro zjednodušený sběr dat.
+
+* **Hromadné zpracování vizitek**
+  Velké množství vyfocených karet lze programově převést na přenositelné záznamy kontaktů.
+
+* **Onboarding a automatizace adresářů**
+  Systémy mohou generovat VCF soubory z obrazových dat kontaktů pro rychlejší nastavení uživatelů a partnerů.
+
+* **Mobilní a e‑mailové integrační workflow**
+  Převoděné VCF soubory mohou proudit do komunikačních nástrojů a kontaktních platforem prostřednictvím automatizovaných procesů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

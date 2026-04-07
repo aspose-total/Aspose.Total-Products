@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 XLAM 转换为 DOT 可以将 Excel 加载项内容转换为用于一致文档创建的 Word 模板文件。当需要将源自电子表格的结构或可重用内容纳入标准化的基于 Word 的文档模板时，这非常有用。
+
+从自动化的角度来看，XLAM 到 DOT 的转换通过将可重复的电子表格内容转化为可重用的文档基础，支持基于模板的系统。它提升了效率，减少了格式不一致，并帮助组织通过预定义的结构扩展文档生成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **模板创建**  
+  将 XLAM 内容转换为 DOT 模板，以实现可重复的文档生成。
+
+* **标准化文档**  
+  帮助组织维护源自电子表格资源的一致文档布局。
+
+* **可重用的业务内容**  
+  支持将重复的内容块打包成用于运营的 Word 模板。
+
+* **结构化报告基础**  
+  使需要重复报告格式的团队能够创建文档模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **模板生成流水线**  
+  Python API 可以自动从 XLAM 源创建 DOT 模板，以实现标准化报告。
+
+* **重复文档生产**  
+  自动化系统可以使用生成的模板来支持跨部门的重复文档创建。
+
+* **内容标准化工作流**  
+  转换流水线可以将基于电子表格的内容与一致的 Word 模板结构对齐。
+
+* **企业文档标准化**  
+  编程式转换帮助大型团队在规模上强制执行文档统一性。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

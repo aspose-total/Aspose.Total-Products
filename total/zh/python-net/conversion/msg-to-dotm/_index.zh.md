@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MSG 转 DOTM 转换将电子邮件消息转换为宏启用的模板文件，以实现高级文档自动化。当电子邮件内容必须成为可重复使用的模板的一部分，并且还支持脚本行为或基于规则的处理时，它非常适用。
+
+在自动化环境中，MSG 转 DOTM 工作流有助于将可重用的结构与宏启用的操作相结合。这使其在企业文档组装、受监管的工作流以及基于模板的操作中具有相关性。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **宏启用的模板开发**  
+  将电子邮件内容转换为支持自动化逻辑的可重用模板。
+
+* **受控文档工作流**  
+  在使用高级处理规则的环境中支持标准化的文档创建。
+
+* **可重复的内容结构**  
+  在重复的运营文档中重用来源于消息的布局。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **模板自动化系统**  
+  将 MSG 文件转换为用于宏辅助文档生成的 DOTM 模板。
+
+* **基于规则的文档组装**  
+  在强制执行格式或内容规则的自动化工作流中使用转换后的模板。
+
+* **可扩展的企业处理**  
+  使用兼容宏的模板标准化重复的基于电子邮件的输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

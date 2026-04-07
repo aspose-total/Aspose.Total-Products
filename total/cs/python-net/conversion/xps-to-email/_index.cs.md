@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu X
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XPS na EMAIL převod pomocí Python API umožňuje týmům transformovat obsah dokumentů s pevně daným rozložením do formátů připravených pro e‑mail, které jsou snazší k distribuci, archivaci a zpracování v komunikačních pracovních postupech. To je cenné pro organizace, které potřebují převést zprávy, faktury, oznámení nebo generované dokumenty na znovupoužitelné komunikační prostředky bez ručního kopírování či formátování.
+
+V prostředích zaměřených na automatizaci zlepšuje převod XPS do výstupů kompatibilních s e‑mailem efektivitu doručování, podporuje škálovatelnou dokumentovou komunikaci a pomáhá integrovat dokumentové pipeline s notifikačními systémy, archivními nástroji a platformami pro orchestraci pracovních postupů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Distribuce e‑mailů založených na dokumentech**  
+  Převádí XPS dokumenty do obsahu připraveného pro e‑mail pro sdílení zpráv, výpisů nebo oznámení prostřednictvím strukturovaných komunikačních pracovních postupů.
+
+* **Automatizované komunikační pipeline**  
+  Podporuje systémy, které generují dokumenty a okamžitě je připravují pro odchozí zpracování e‑mailů bez ručního zásahu.
+
+* **Archivace a sledovatelnost**  
+  Zachovává informace o dokumentu ve formátech orientovaných na e‑mail, které lze uložit, indexovat a přezkoumávat v komunikačních archivech.
+
+* **Integrace pracovních postupů**  
+  Pomáhá propojit systémy generování dokumentů s messagingem, revizí a procesy souladu v jednotné pipeline.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Plánované odesílání zpráv**  
+  Automatizace převádí opakující se XPS zprávy do výstupů připravených pro e‑mail pro rutinní interní nebo externí komunikaci.
+
+* **Upozornění spouštěná událostmi**  
+  Systémy mohou transformovat nově vytvořené XPS dokumenty do e‑mailového obsahu, když nastanou konkrétní obchodní události.
+
+* **Hromadné zpracování korespondence**  
+  Dávky dokumentů ve velkém objemu lze programově převádět pro škálovatelné připravení zpráv a směrování.
+
+* **Komunikační pracovní postupy pro soulad**  
+  Automatizované pipeline mohou generovat, převádět a uchovávat záznamy e‑mailů založené na dokumentech pro potřeby auditu a správy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

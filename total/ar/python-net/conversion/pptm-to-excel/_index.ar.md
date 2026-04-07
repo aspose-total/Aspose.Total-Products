@@ -64,7 +64,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل PPTM إلى Excel باستخدام واجهات برمجة تطبيقات Python يتيح نقل بيانات العروض التقديمية الممكّنة للماكرو إلى بيئات جداول البيانات للتحليل، المتابعة، ومعالجة الأعمال. يكون ذلك مفيدًا بشكل خاص عندما تحتاج الجداول أو المقاييس أو المحتوى المهيكل المستند إلى الشرائح إلى أن يصبح أكثر تفاعلية وإمكانية الوصول الحوسبي.
+
+يعزز هذا التحويل سير عمل الأتمتة عن طريق نقل معلومات العرض إلى تنسيق أكثر ملاءمة للصيغ، التحقق، ومعالجة الجداول. يحسن الكفاءة في الأنظمة التي يجب أن يغذي فيها محتوى العرض جداول البيانات التشغيلية أو سير عمل التقارير.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **ترحيل البيانات الجدولية**
+  ينقل المحتوى المهيكل من العروض التقديمية إلى بيئات تعتمد على جداول البيانات.
+
+* **دعم التقارير التشغيلية**
+  يحول بيانات الشرائح إلى تنسيق مناسب للحسابات وتتبع الأداء.
+
+* **تكامل سير عمل الأعمال**
+  يساعد على ربط محتوى العرض التقديمي بمهام التخطيط والتحليل المدفوعة بجداول البيانات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء جداول بيانات تلقائي**
+  يحول ملفات PPTM إلى مخرجات Excel لسير عمل الأعمال المرتكز على البيانات.
+
+* **تمكين خط أنابيب التقارير**
+  يدعم استخراج مقاييس العرض التقديمي تلقائيًا إلى تقارير جداول البيانات.
+
+* **أتمتة معالجة البيانات**
+  يتيح التحقق البرمجي، الإثراء، والتحويل بعد التحويل.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

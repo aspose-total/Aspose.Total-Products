@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS to OTT conversion converts spreadsheet data into open document text templates that can be reused for standardized document creation. It is valuable for organizations that build repeatable documentation processes using open template formats.
+
+Using Python APIs for XLS to OTT conversion makes template generation more efficient and supports automated document systems that prioritize open standards and scalable reuse.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Создание открытых шаблонов**
+  Преобразовать содержимое XLS в OTT‑шаблоны для повторяемой генерации документов.
+
+* **Повторно используемые структуры документов**
+  Создавать файлы шаблонов, сохраняющие единообразное форматирование и правила макета.
+
+* **Рабочие процессы, основанные на стандартах**
+  Поддерживать экосистемы открытых документов с генерацией шаблонов на основе таблиц.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Автоматизированное создание шаблонов**
+  Создавать файлы OTT‑шаблонов из данных таблиц без ручной настройки.
+
+* **Масштабируемые системы открытых документов**
+  Использовать Python API для генерации повторно используемых шаблонов в средах с большим объёмом документов.
+
+* **Создание библиотеки шаблонов**
+  Передавать XLS‑входы в рабочие процессы, поддерживающие структурированные коллекции повторно используемых открытых шаблонов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTM na RTF konverze v Pythonu umožňuje převádět makrem povolené šablony Excelu na dokumenty ve formátu rich text, které kombinují podporu formátování s širokou kompatibilitou. To je užitečné, když je obsah založený na sešitu potřeba sdílet v textovém formátu dokumentu, který zůstává flexibilní napříč různými aplikacemi.
+
+V automatizovaných pracovních postupech XLTM na RTF konverze podporuje přenositelnost obsahu, zjednodušuje manipulaci s dokumenty napříč platformami a pomáhá standardizovat generování formátovaného textu ze šablon tabulek.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Formátovaný výstup textu**  
+  Převádí obsah šablony tabulky do dokumentů ve formátu rich text, které zachovávají základní strukturu formátování.
+
+* **Sdílení napříč aplikacemi**  
+  Podporuje výměnu dokumentů mezi systémy, které vyžadují flexibilní a široce čitelný textový formát.
+
+* **Dokumentace založená na šablonách**  
+  Pomáhá generovat čitelné textové dokumenty ze strukturovaných šablon sešitů pro archivaci nebo úpravy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná generace rich textu**  
+  Vytváří RTF soubory ze šablon XLTM v opakovatelných pracovních postupech tvorby dokumentů.
+
+* **Legacy‑kompatibilní dokumentové pipeline**  
+  Podporuje prostředí, která se spoléhají na široce kompatibilní výstupy formátovaného textu.
+
+* **Hromadná konverze textových dokumentů**  
+  Umožňuje škálovatelnou transformaci šablon sešitů do souborů rich text pro následné použití.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

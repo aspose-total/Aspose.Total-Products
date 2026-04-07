@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT na MBOX převod transformuje obsah dokumentu do formátu ve stylu poštovní schránky, který je vhodný pro seskupené ukládání zpráv a archivní pracovní postupy. To je užitečné, když je třeba text dokumentu zabalit pro úložiště podobné e‑mailu, migraci nebo konsolidaci záznamů.
+
+Pomocí Python API lze převod ODT na MBOX integrovat do automatizovaných archivních a komunikačních pipeline. Podporuje konzistentní transformaci obsahu dokumentu do kontejnerů orientovaných na zprávy pro následné zpracování.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Příprava poštovního archivu**  
+  Převádí dokumenty do formátu vhodného pro seskupené ukládání zpráv.
+
+* **Balení komunikačních záznamů**  
+  Pomáhá organizovat obsah odvozený z dokumentů vedle archivů zaměřených na e‑mail.
+
+* **Podpora migrace**  
+  Umožňuje přesun obsahu do úložišť založených na zprávách.
+
+* **Hromadná konsolidace obsahu**  
+  Umožňuje seskupené ukládání více převedených položek.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Pracovní postupy generování archivů**  
+  Python úlohy mohou automaticky převádět více ODT souborů do výstupů ve stylu poštovní schránky.
+
+* **Podpora retenčního kanálu**  
+  Automatizované systémy mohou ukládat zprávy odvozené z dokumentů do dlouhodobých archivů.
+
+* **Operace hromadného balení**  
+  Velké dávky dokumentů lze seskupit do přenosných souborů poštovní schránky.
+
+* **Automatizace migrace obsahu**  
+  Převodní pipeline mohou připravit záznamy pro systémy, které spoléhají na kontejnery poštovní schránky.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

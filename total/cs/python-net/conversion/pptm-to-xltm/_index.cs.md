@@ -64,7 +64,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Slides for Python via 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTM na XLTM konverze pomocí Python API umožňuje převod prezentací s makry na šablony tabulek s makry, které se používají pro opakovanou tvorbu sešitů. Je užitečná, když data nebo struktury odvozené z prezentace musí sloužit jako základ pro standardizované výstupy tabulek s opakovatelnou automatizační logikou.
+
+Tato konverze podporuje automatizaci procesů propojením obsahu prezentace s workflow tabulek založených na šablonách, což zlepšuje konzistenci a snižuje nároky na nastavení. Je vhodná pro opakované reportování, operační plánování a opakovatelnou tvorbu dokumentů řízených daty.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření opakovatelných šablon tabulek**
+  Převádí obsah prezentace do šablon pro opakovanou tvorbu sešitů.
+
+* **Workflow šablon řízených makry**
+  Podporuje šablony tabulek, které zahrnují automatizovanou logiku a opakovatelná chování.
+
+* **Základy standardizovaného reportování**
+  Pomáhá vytvářet konzistentní struktury tabulek z vstupů založených na prezentacích.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizace generování šablon**
+  Vytváří soubory XLTM z obsahu PPTM pro opakovatelnou tvorbu tabulek.
+
+* **Opakující se pipeline reportování**
+  Podporuje automatizované použití šablon v naplánovaných procesech tvorby sešitů.
+
+* **Systémy standardizace workflow**
+  Umožňuje programové opakované použití šablon tabulek vytvořených z konvertovaných dat prezentace.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

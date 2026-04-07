@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu W
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod WordML na OFT transformuje obsah dokumentu do souborů šablon e‑mailů, které lze znovu použít v pracovních postupech sestavování zpráv. To je užitečné pro standardizaci opakujících se komunikací na základě strukturovaného obsahu dokumentu.
+
+Pomocí Python API podporuje převod WordML na OFT automatizovanou generaci šablon, což pomáhá týmům převádět schválený text dokumentu do znovu použitelných e‑mailových formátů pro provozní efektivitu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření e‑mailových šablon**
+  Převádí obsah WordML do znovu použitelných OFT šablon pro konzistentní komunikaci.
+
+* **Standardizovaná komunikace**
+  Pomáhá organizacím udržovat jednotnou strukturu napříč opakujícími se e‑mailovými pracovními postupy.
+
+* **Znovupoužitelnost obsahu**
+  Přeměňuje schválený obsah dokumentu na připravená komunikační aktiva.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Pipelines pro generování šablon**
+  Automatizuje tvorbu OFT souborů z politik, podpory nebo propagačních dokumentů.
+
+* **Standardizace pracovních postupů zpráv**
+  Podporuje automatizované doručovací systémy, které závisí na znovu použitelných e‑mailových šablonách.
+
+* **Automatizace správy obsahu**
+  Zajišťuje, že schválený jazyk dokumentu je převeden na provozní komunikační aktiva.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

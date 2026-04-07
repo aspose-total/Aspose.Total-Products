@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOTM إلى XLTX يحول قوالب Word الممكّنة بالماكرو إلى ملفات قالب Excel حديثة لإنشاء جداول بيانات قابلة لإعادة الاستخدام ومُعَيارَة. يكون ذلك مفيدًا عندما يحتاج محتوى المستند إلى أن يصبح بنية دفتر عمل قابلة للتكرار لجمع البيانات أو التقارير أو الاستخدام التشغيلي.
+
+استخدام واجهات برمجة تطبيقات Python لتحويل DOTM إلى XLTX يحسّن الأتمتة من خلال إنشاء قوالب جداول بيانات حديثة مباشرةً من المستندات المهيكلة. يدعم ذلك إنتاج قوالب قابلة للتوسع، ويقلل من العمل اليدوي في التصميم، ويضمن الاتساق عبر سير عمل جداول البيانات المتكررة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء قالب جدول بيانات حديث**
+  تحويل محتوى DOTM إلى XLTX لإنشاء دفاتر عمل قابلة لإعادة الاستخدام في بيئات المكتب الحالية.
+
+* **إعادة استخدام بنية المستند**
+  تحويل قوالب Word المعيارية إلى قوالب جداول بيانات متسقة للمهام المتكررة.
+
+* **التوحيد التشغيلي**
+  دعم عمليات التقارير وإدخال البيانات القابلة للتكرار باستخدام أصول جداول بيانات قائمة على القوالب.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **نشر القالب الآلي**
+  يمكن للأنظمة إنشاء ملفات XLTX من قوالب DOTM لسير عمل جداول البيانات القابلة للتكرار.
+
+* **خطوط أنابيب دفتر العمل المعيارية**
+  يدعم التحويل إنشاء قوالب جداول بيانات حديثة تلقائيًا من المستندات.
+
+* **إنشاء أصول القالب القابلة للتوسع**
+  تمكن الوظائف البرمجية من تحويل كميات كبيرة من ملفات DOTM إلى XLTX بشكل مستمر.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

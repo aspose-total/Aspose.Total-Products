@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOCM إلى ODS يحول المستندات التي تدعم الماكرو إلى ملفات جداول بيانات مفتوحة، مما يجعل البيانات المهيكلة من المستندات أسهل في التحليل، التحرير، والمشاركة في سير عمل يعتمد على الجداول. هذا يكون ذا قيمة عندما تحتاج الجداول أو السجلات المتكررة داخل ملفات DOCM إلى استخدام تشغيلي أوسع.
+
+من أجل الأتمتة والتشغيل البيني، يدعم تحويل DOCM إلى ODS خطوط بيانات مفتوحة، تصديرات روتينية، وتحويل قابل للتوسع لمحتوى المستند إلى أصول جاهزة للجداول.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تحليل جداول البيانات المفتوحة**
+  ينقل جداول المستند إلى شكل جدول بيانات للتصفية، المراجعة، والتحديثات.
+
+* **قابلية نقل البيانات**
+  يدعم تبادل المحتوى المهيكل باستخدام معيار جدول بيانات مفتوح.
+
+* **إعادة الاستخدام التشغيلي**
+  يجعل البيانات الموجودة داخل المستند أكثر قابلية للوصول لأغراض التخطيط ومهام التقارير.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تصديرات جداول البيانات المتكررة**
+  يُؤتمت تحويل ملفات DOCM إلى ODS لسير العمل المجدول.
+
+* **خطوط بيانات بصيغة مفتوحة**
+  يساعد في توجيه بيانات المستند إلى الأنظمة المبنية على معايير مفتوحة.
+
+* **تحويل عالي الحجم**
+  يعالج مجموعات مستندات كبيرة إلى ملفات جداول بيانات قابلة لإعادة الاستخدام برمجياً.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -64,7 +64,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod DOT na PPS převádí šablony dokumentů do souborů prezentací určených pro přímé zobrazení. Je to užitečné, když by měl obsah otevřít okamžitě v režimu prezentace místo prostředí pro úpravy.
+
+Python API umožňují týmům automatizovat převod DOT na PPS pro školení, kioskové doručení a řízené pracovní postupy distribuce prezentací.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Přímé doručení prezentace**
+  Převést šablony DOT do souborů PPS pro okamžité přehrávání prezentace.
+
+* **Kontrolované zážitky při prohlížení**
+  Sdílet obsah ve formátu optimalizovaném pro zobrazení místo úprav.
+
+* **Podpora akcí a školení**
+  Připravit výstupy prezentací připravené k použití z opakovaně použitelných psaných šablon.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná výroba prezentací**
+  Python pracovní postupy mohou generovat soubory PPS z dokumentů DOT pro plánované použití.
+
+* **Obsahové řetězce zaměřené na zobrazení**
+  Převod pomáhá směrovat obsah šablony přímo do výstupů v režimu prezentace.
+
+* **Hromadné nasazení prezentací**
+  Programové procesy podporují škálovatelné generování souborů prezentací z mnoha šablon.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

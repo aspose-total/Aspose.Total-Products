@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل OTT إلى TSV في واجهات برمجة تطبيقات بايثون يحول قوالب نصية من OpenDocument إلى قيم مفصولة بفواصل جدولة لتبادل بيانات نظيف وخفيف الوزن ومهيكل. هذا مفيد عندما يجب نقل المحتوى القائم على القوالب إلى أنظمة تفضّل إخراجًا جدوليًا بسيطًا قائمًا على النص.
+
+تحسين التحويل للأتمتة من خلال تمكين التحليل السهل، والتحويل، والتحميل في سير العمل الذي يقدّر الحد الأدنى من الحمل، والقابلية للنقل، والبنية الموثوقة القائمة على الفواصل.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تصدير البيانات المفصولة**  
+  يحوّل محتوى المستند إلى إخراج منظم مفصول بفواصل جدولة.
+
+* **تنسيق صديق للخط الأنابيب**  
+  يدعم الأنظمة التي تعالج جداول نصية خفيفة الوزن.
+
+* **تحضير البيانات**  
+  يجعل المحتوى المستخرج أسهل للاستيراد إلى الأدوات التحليلية أو التشغيلية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تحويل جدولي دفعي**  
+  ينتج ملفات TSV من قوالب OTT على نطاق واسع.
+
+* **تغذية سير عمل ETL**  
+  يرسل البيانات المستمدة من المستند إلى خطوط التحليل والتحويل.
+
+* **تصديرات مهيكلة مجدولة**  
+  يدعم إنشاء متكرر لمجموعات بيانات بسيطة قابلة للقراءة آليًا.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

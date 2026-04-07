@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+BMP 到 VCF 的转换使位图图像能够与存储在 VCF 格式中的数字联系人卡片关联。此方法允许在联系人记录中包含个人头像或可视标识。
+
+自动化系统可以将 BMP 图像转换为兼容 VCF 的联系人文件，以实现跨平台的可扩展联系人管理和同步。这提升了通讯录生成和数据交换的自动化程度。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **联系人头像**  
+  BMP 图像可以附加到数字联系人卡片。
+
+* **通讯录生成**  
+  系统可以创建包含可视联系人标识的 VCF 文件。
+
+* **联系人数据交换**  
+  可视联系人记录可以通过 VCF 文件在平台之间共享。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化联系人创建**  
+  应用程序生成带有 BMP 头像的 VCF 联系人文件。
+
+* **批量通讯录处理**  
+  系统将图像数据集转换为结构化的联系人卡片记录。
+
+* **编程式联系人同步**  
+  工作流动态生成 VCF 文件以实现自动化联系人分发。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

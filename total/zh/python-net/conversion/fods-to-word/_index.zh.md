@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FODS 到 Word 的转换能够将平面 OpenDocument 电子表格内容转换为可编辑的文字处理文档，以便更轻松地进行沟通、审阅和发布。它帮助组织以更适合叙述性报告、摘要和正式文档的格式呈现结构化数据。
+
+在自动化工作流中，FODS 到 Word 的转换支持简化的文档生成、运营效率和可扩展的内容转换。Python API 允许团队自动化重复性任务，将转换集成到数据管道中，并在业务流程中提供一致的输出。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **可读的业务文档**  
+  将 FODS 数据转换为 Word 文档，以便更容易地解释和沟通。
+
+* **报告和摘要创建**  
+  使用 Word 输出将结构化电子表格信息转化为正式的书面内容。
+
+* **协作编辑**  
+  将转换后的文档分享给更喜欢在文字处理器中编辑和审阅内容的团队。
+
+* **适合工作流的分发**  
+  提供符合常见业务文档实践的文档输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化数据到文档的转换**  
+  Python API 可以在无需手动格式化工作的情况下将 FODS 文件转换为 Word 文档。
+
+* **定期报告自动化**  
+  计划的工作流可以从定期更新的电子表格来源生成 Word 输出。
+
+* **大规模批处理**  
+  可以以编程方式处理大量转换任务，以提升运营效率。
+
+* **集成的企业文档流**  
+  转换可以嵌入更广泛的系统中，用于报告、审阅和分发。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

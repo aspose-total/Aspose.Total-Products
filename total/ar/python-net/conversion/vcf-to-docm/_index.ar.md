@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل VCF إلى DOCM يحول بيانات بطاقات الاتصال إلى مستندات معالجة نصية مدعومة بالماكرو، مما يتيح تسليم محتوى منظم حيث قد تكون سلوكيات المستند المتقدمة مطلوبة. هذا مفيد للمنظمات التي تعمل مع تدفقات عمل مستندات ديناميكية ومخرجات قابلة للتحرير.
+
+في الأنظمة التي تركز على الأتمتة، يتيح تحويل VCF إلى DOCM لواجهات برمجة تطبيقات Python إنشاء مستندات قائمة على جهات الاتصال تتناسب مع عمليات برمجية أكبر، خاصةً حيث تكون منطق المستند، التنسيق القابل للتكرار، أو الإجراءات المتكاملة جزءًا من العمليات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **مستندات جهات اتصال ديناميكية**  
+  تحويل سجلات VCF إلى ملفات DOCM قابلة للتحرير لتدفقات عمل مستندات متقدمة.
+
+* **معالجة داخلية منظمة**  
+  إعداد معلومات جهات الاتصال في مستندات مدعومة بالماكرو للاستخدام التجاري المنظم.
+
+* **توثيق قابل للبرمجة**  
+  دعم بيئات المستندات حيث يجب أن تتوافر الأتمتة والمحتوى القابل للتحرير معًا.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء DOCM تلقائي**  
+  إنشاء مستندات مدعومة بالماكرو من ملفات جهات الاتصال في عمليات دفعة.
+
+* **تدفقات عمل مستندات قائمة على القواعد**  
+  توجيه ملفات DOCM المحولة إلى عمليات تجارية آلية مع تنسيق ثابت.
+
+* **تعبئة جهات اتصال قابلة للتوسع**  
+  تعبئة بيانات جهات الاتصال برمجيًا في مخرجات DOCM قابلة لإعادة الاستخدام لتدفقات عمل مؤسسية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

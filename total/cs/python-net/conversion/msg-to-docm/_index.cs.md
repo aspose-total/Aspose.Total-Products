@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod MSG na DOCM převádí soubory e‑mailových zpráv do makrem podporovaných dokumentů pro zpracování textu, které podporují pokročilé chování dokumentu. To je užitečné, když je třeba zachovat obsah zprávy v editovatelném formátu a zároveň zůstat kompatibilní s prostředími založenými na makrech.
+
+Pro automatizaci jsou pracovní postupy MSG na DOCM relevantní v systémech, které se spoléhají na skriptované akce s dokumenty, validační rutiny nebo strukturované úlohy formátování. Pomáhají propojit obsah odvozený z e‑mailů s dynamickými podnikovými dokumentovými operacemi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Makro‑povolená dokumentace**  
+  Připravte převedený obsah e‑mailu pro dokumentová prostředí, která používají automatizační makra.
+
+* **Strukturované zpracování obsahu**  
+  Podporujte formátování a manipulaci řízenou pravidly po převodu.
+
+* **Operativní sestavování dokumentů**  
+  Začleňte data zprávy do řízených, připravených na automatizaci šablon dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Makrem řízené post‑zpracování**  
+  Převádějte soubory MSG na DOCM, aby následné rutiny mohly aplikovat kroky formátování nebo validace.
+
+* **Podnikové dokumentové workflow**  
+  Zavádějte převedené dokumenty do automatizovaných revizních systémů, které závisí na podpoře makr.
+
+* **Dynamické zpracování obsahu**  
+  Umožněte programové aktualizace a workflow akce na dokumentech odvozených ze zpráv.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

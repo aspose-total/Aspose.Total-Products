@@ -53,7 +53,41 @@ outformat: MHTML
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOT إلى MHTML يحول قوالب معالجة النصوص إلى ملفات أرشيف ويب تُجمع المحتوى في مورد محمول واحد. هذا مفيد للحفاظ على التخطيط، ومشاركة محتوى المستند عبر صيغ متوافقة مع الويب، وتبسيط التوزيع المستقل.
+
+تجعل واجهات برمجة التطبيقات في بايثون تحويل DOT إلى MHTML عمليًا في البيئات الآلية حيث تحتاج المستندات إلى النشر أو الأرشفة أو النقل كملفات ويب مضغوطة جاهزة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تصدير أرشيف الويب**
+  تحويل ملفات DOT إلى MHTML لمشاركة المستندات بطريقة محمولة وصديقة للمتصفح.
+
+* **حفظ ملف واحد**
+  تخزين محتوى المستند في صيغة مستقلة تُبسط النقل والوصول.
+
+* **توزيع موجه بالتخطيط**
+  الحفاظ على عرض المستند في أرشيف ويب متوافق للمراجعة أو النشر.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تعبئة ويب آلية**
+  يمكن لتدفقات عمل بايثون إنشاء ملفات MHTML من قوالب DOT لخطوط النشر.
+
+* **إنشاء محتوى أرشيفي**
+  يدعم التحويل إنشاء أرشيفات ويب محمولة من مصادر المستندات بشكل متكرر.
+
+* **نشر مستندات جماعي**
+  يمكن للعمليات البرمجية إنتاج مخرجات MHTML من العديد من القوالب بكفاءة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

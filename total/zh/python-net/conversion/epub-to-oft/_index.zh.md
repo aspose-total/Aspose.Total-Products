@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+EPUB 转 OFT 转换在 Python 中允许将数字出版内容转换为支持可重复通信工作流的电子邮件模板文件。当文档内容需要作为通知、结构化消息或基于模板的文档交付的可重用基础时，这非常有价值。
+
+从自动化的角度来看，EPUB 转 OFT 转换帮助 Python 系统生成可重用的消息模板，减少通信过程中的重复，并支持面向文档的环境中可扩展的工作流设计。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **可重用的消息模板**  
+  将 EPUB 内容转换为 OFT 文件，以在结构化通信场景中重复使用。
+
+* **基于模板的通知**  
+  使用出版物衍生的内容作为自动化系统中标准化消息模板的基础。
+
+* **编辑和批准草稿**  
+  从数字出版物创建可重用的消息布局，用于内部工作流和审查目的。
+
+* **一致的通信设计**  
+  通过将源文档转换为可用于模板的输出文件，保持统一的格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板生成**  
+  Python 脚本可以从 EPUB 内容创建 OFT 文件，以用于重复的通信工作流。
+
+* **动态内容注入**  
+  模板文件可以通过编程方式生成，随后填充工作流特定的数据。
+
+* **标准化批量准备**  
+  自动化系统可以轻松地从出版集准备多个 OFT 模板。
+
+* **工作流可重用性提升**  
+  EPUB 转 OFT 转换支持可扩展的流程，在这些流程中，可重复的通信资产至关重要。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

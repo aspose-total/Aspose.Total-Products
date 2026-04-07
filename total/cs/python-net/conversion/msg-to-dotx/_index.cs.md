@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod MSG na DOTX transformuje e‑mailové zprávy na moderní soubory šablon používané pro strukturovanou a opakovatelnou tvorbu dokumentů. Je efektivní, když je potřeba e‑mailový obsah formalizovat do opakovaně použitelných šablon bez závislosti na makrech.
+
+Pro automatizaci podporuje převod MSG na DOTX workflow řízené šablonami, jednotné formátování a škálovatelnou tvorbu dokumentů. Pomáhá převádět nestrukturovaný e‑mailový obsah na opakovatelné zdroje pro provozní efektivitu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Opakovatelné šablony dokumentů**  
+  Převést obsah zprávy na standardizované šablony pro opakované použití.
+
+* **Jednotné formátování**  
+  Udržovat jednotnou strukturu napříč dokumenty generovanými z e‑mailových vstupů.
+
+* **Opakované využití provozního obsahu**  
+  Vytvářet šablonové zdroje z opakujících se vzorů e‑mailové komunikace.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované knihovny šablon**  
+  Naplňovat repozitáře šablon soubory DOTX generovanými z obsahu MSG.
+
+* **Workflow standardizace dokumentů**  
+  Používat převedené šablony k zajištění jednotného výstupu napříč týmy a systémy.
+
+* **Škálovatelná produkce obsahu**  
+  Umožnit opakovatelnou tvorbu dokumentů ze šablonových struktur odvozených z e‑mailů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

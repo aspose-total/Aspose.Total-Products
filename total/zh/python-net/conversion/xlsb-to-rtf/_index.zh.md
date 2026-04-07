@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSB 到 RTF 转换将二进制电子表格内容转换为富文本文档，使结构化数据能够以轻量、广泛支持的文本格式共享。当电子表格衍生的内容需要在文档处理环境中实现广泛兼容性时，这非常有用。
+
+在自动化工作流中，XLSB 到 RTF 转换支持灵活的文档生成，使得从电子表格数据生成可移植的基于文本的输出更加容易，同时保持可读性、格式以及可扩展的处理能力。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **可移植的富文本输出**  
+  将电子表格内容转换为广泛支持的格式化文本文档。
+
+* **跨系统共享**  
+  帮助在各种文档环境中分发来源于电子表格的信息。
+
+* **轻量文档**  
+  支持在兼容性和简洁性重要的情况下生成文档。
+
+* **可读的数据导出**  
+  使电子表格信息能够重新用于友好的文本输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化文本文档创建**  
+  系统可以将 XLSB 文件转换为 RTF 文档，以实现可重复的工作流。
+
+* **批量兼容性处理**  
+  多个电子表格文件可以转换为可移植的富文本输出。
+
+* **数据交换管道**  
+  自动化工作流可以将电子表格内容路由到广泛可读的格式。
+
+* **归档与分发流程**  
+  结构化的电子表格数据可以准备好用于灵活的共享和存储。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

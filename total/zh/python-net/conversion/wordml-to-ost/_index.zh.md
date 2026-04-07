@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML 到 OST 的转换支持将基于文档的内容转换为可在离线邮箱数据工作流和电子邮件存储生态系统中使用的格式。这在文档信息成为面向邮箱的内容处理一部分的专门迁移或归档场景中具有相关性。
+
+Python API 可以帮助准备和构建用于 WordML 到 OST 相关自动化的内容，从而提升企业消息传递和迁移过程的可重复性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **邮箱数据准备**
+  将文档内容用作离线邮件存储和迁移工作流的输入。
+
+* **企业归档支持**
+  帮助将文档衍生的通信与以邮箱为中心的保留流程对齐。
+
+* **结构化内容打包**
+  支持将已批准的文本转换为面向消息的存储环境。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **迁移支持流水线**
+  自动化准备 WordML 内容以用于离线邮箱处理工作流。
+
+* **归档整合任务**
+  将文档衍生的记录整合到更广泛的电子邮件归档操作中。
+
+* **企业内容结构化**
+  实现大规模、可重复处理已准备好发送的文档内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

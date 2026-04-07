@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل OST إلى PS يحول محتوى صندوق البريد إلى مخرجات PostScript، داعماً سير عمل الطباعة والأنظمة التي تعتمد على صيغ وصف الصفحات للحصول على عرض دقيق. وهو مفيد للمنظمات التي تحتاج إلى تمثيل مطبوع أو جاهز للطباعة يمكن التنبؤ به لبيانات البريد الإلكتروني المؤرشفة.
+
+تتيح الأتمتة باستخدام واجهات برمجة تطبيقات Python تحويل OST إلى PS أن يتم التعامل معه بكفاءة عبر مجموعات بيانات كبيرة، مما يتيح إعداد طباعة منظم وتكامل مع أنظمة مخرجات المستندات. وهذا يدعم عرضًا متسقًا ومعالجة تشغيلية قابلة للتوسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إخراج مستند جاهز للطباعة**  
+  يقوم بتحويل محتوى صندوق البريد إلى PS لعرض صفحات موثوق به وسير عمل الطباعة.
+
+* **دعم نظام الطباعة القديم**  
+  يساعد على دمج الاتصالات المؤرشفة مع البيئات التي تستخدم معالجة PostScript.
+
+* **عرض مخرجات مُتحكم فيه**  
+  يدعم تنسيقًا متسقًا لمحتوى الرسائل للعمليات التي تركز على الطباعة.
+
+* **سير عمل إنتاج المستندات**  
+  يُمكّن التحويل المنظم لأرشيفات البريد الإلكتروني للأنظمة الموجهة للإخراج.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **أتمتة خط أنابيب الطباعة**  
+  تقوم سير عمل Python بتحويل بيانات OST إلى PS لعرض مستندات ذات حجم كبير.
+
+* **تكامل الإخراج القديم**  
+  تُعد الأنظمة المؤتمتة المحتوى المستمد من صندوق البريد للبيئات القائمة على PostScript.
+
+* **عمليات عرض الصفحات**  
+  يدعم التحويل البرمجي إعدادًا قابلاً للتوسع لسجلات الاتصالات الجاهزة للطباعة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

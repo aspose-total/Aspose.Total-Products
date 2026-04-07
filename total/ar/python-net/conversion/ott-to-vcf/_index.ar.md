@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل OTT إلى VCF في واجهات برمجة تطبيقات بايثون يحول قوالب نص OpenDocument إلى ملفات بطاقات جهات الاتصال المستخدمة لمشاركة تفاصيل الأشخاص والمؤسسات. هذا مفيد عندما يحتوي محتوى القالب على معلومات اتصال منظمة يجب أن تكون قابلة للنقل وجاهزة للاستيراد.
+
+يدعم التحويل الأتمتة عن طريق تحويل تفاصيل جهات الاتصال المدارة في المستند إلى ملفات تبادل موحدة، مما يقلل من الإدخال اليدوي ويحسن المزامنة عبر سير عمل الاتصالات والدلائل.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء ملف جهة اتصال**  
+  يحول محتوى الاتصال المنظم إلى ملفات بطاقات يمكن استيرادها.
+
+* **مشاركة بيانات الدليل**  
+  يسهل تبادل معلومات جهات الاتصال عبر الأنظمة.
+
+* **إدارة جهات الاتصال بناءً على القوالب**  
+  يعيد استخدام قوالب المستند لإنتاج مخرجات جهات اتصال موحدة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تصدير جهات الاتصال تلقائيًا**  
+  ينشئ ملفات VCF من قوالب OTT التي تحتوي على بيانات الأشخاص أو المؤسسات.
+
+* **تكامل CRM أو الدليل**  
+  يُدخل ملفات جهات الاتصال المُنشأة إلى أنظمة المعلومات اللاحقة.
+
+* **تعبئة جهات الاتصال بالجملة**  
+  ينتج مخرجات جهات اتصال موحدة لمجموعات جهات اتصال كبيرة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

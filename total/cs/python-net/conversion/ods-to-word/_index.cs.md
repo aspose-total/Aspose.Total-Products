@@ -65,7 +65,47 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS to WORD conversion enables spreadsheet files to be transformed into word-processing documents suitable for editing and documentation. This process allows spreadsheet data to be integrated into document workflows and reporting systems.
+
+Python-based APIs provide programmatic capabilities for automating spreadsheet-to-document transformations. This enables scalable document pipelines, automated reporting, and efficient document management workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Reportování tabulky do dokumentu**  
+  Převést datové sady tabulek do dokumentů pro zpracování textu určených k reportování.
+
+* **Generování dokumentace**  
+  Transformovat data z tabulek do strukturovaných dokumentů.
+
+* **Prezentace dat**  
+  Prezentovat obsah tabulek v čitelných rozvrženích dokumentů.
+
+* **Migrace obsahu**  
+  Převést archivované tabulky do editovatelných formátů dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované reportovací pipeline**  
+  Pythonové pracovní postupy automaticky převádějí data z tabulek do dokumentů.
+
+* **Dávkové zpracování dokumentů**  
+  Systémy zpracovávají více tabulek a generují výstupy dokumentů.
+
+* **Dynamické vytváření dokumentů**  
+  Vstupy z tabulek dynamicky naplňují strukturované dokumenty.
+
+* **Integrace podnikových pracovních postupů**  
+  Systémy převodu se integrují s infrastrukturou správy dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

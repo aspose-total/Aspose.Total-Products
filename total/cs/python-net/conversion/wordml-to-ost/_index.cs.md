@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu W
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod WordML na OST podporuje transformaci obsahu založeného na dokumentech do formátů použitelné v offline pracovních postupech s daty poštovní schránky a v ekosystémech úložiště e‑mailů. Je relevantní ve specializovaných scénářích migrace nebo archivace, kde se informace z dokumentů stávají součástí zpracování obsahu orientovaného na poštovní schránky.
+
+Python API mohou pomoci připravit a strukturovat obsah pro automatizaci související s převodem WordML na OST, čímž zvyšují opakovatelnost v podnikovém zasílání zpráv a migračních procesech.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Příprava dat poštovní schránky**
+  Používá obsah dokumentu jako vstup pro offline úložiště pošty a migrační pracovní postupy.
+
+* **Podpora podnikového archivování**
+  Pomáhá sladit komunikaci odvozenou z dokumentů s procesy uchovávání zaměřenými na poštovní schránky.
+
+* **Strukturované balení obsahu**
+  Podporuje transformaci schváleného textu do kontextů úložiště orientovaného na zprávy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Pipelines podpory migrace**
+  Automatizuje přípravu obsahu WordML pro offline pracovní postupy zpracování poštovní schránky.
+
+* **Úkoly konsolidace archivu**
+  Integruje záznamy odvozené z dokumentů do širších operací e‑mailového archivu.
+
+* **Strukturování podnikového obsahu**
+  Umožňuje opakovatelnou manipulaci s obsahem dokumentů připraveným pro zprávy v rozsahu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

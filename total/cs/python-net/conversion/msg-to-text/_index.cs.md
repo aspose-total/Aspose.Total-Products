@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod MSG na TEXT extrahuje obsah e‑mailové zprávy do prostého textu pro jednoduché ukládání, vyhledávání a zpracování. Je cenný, když je přístup k čistému obsahu důležitější než formátování a když je potřeba lehký výstup pro indexování nebo analýzu.
+
+Pro automatizaci podporují pracovní postupy MSG na TEXT těžbu textu, vyhledávací pipeline a normalizovaný příjem obsahu. Pomáhají převádět komunikační data do minimálního, strojově přátelského formátu vhodného pro škálovatelné zpracování.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Extrahování prostého textu**  
+  Izolujte obsah e‑mailu pro snadné čtení, ukládání nebo následnou analýzu.
+
+* **Podpora vyhledávání a indexování**  
+  Připravte text zprávy pro katalogizaci a workflow pro vyhledávání.
+
+* **Lehké zpracování dat**  
+  Použijte zjednodušený výstup v pipelinech, které nevyžadují zachování formátování.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Pipeline pro příjem obsahu**  
+  Převádějte soubory MSG do prostého textu pro indexování a klasifikační systémy.
+
+* **Workflow pro textovou analytiku**  
+  Zavádějte extrahovaný obsah zprávy do automatizovaných analytických nebo monitorovacích procesů.
+
+* **Vytváření normalizovaného archivu**  
+  Ukládejte komunikační záznamy v kompaktní textové formě pro škálovatelné uchovávání.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

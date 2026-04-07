@@ -65,7 +65,47 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FODS to RTF conversion changes flat OpenDocument spreadsheet content into Rich Text Format documents, providing a broadly compatible way to share structured information as editable text files. This is useful when organizations need a flexible document format that works across diverse systems and applications.
+
+From an automation standpoint, FODS to RTF conversion supports interoperable document generation, high-volume transformation workflows, and efficient content distribution. Python APIs help teams automate the conversion process, reduce manual handling, and integrate document output into multi-system environments.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Cross-Platform Document Sharing**  
+  Convert FODS data into RTF files for broad compatibility across editing environments.
+
+* **Editable Data Presentation**  
+  Present spreadsheet information in a text-based format that is easy to modify and review.
+
+* **Legacy Workflow Support**  
+  Use RTF output for systems or processes that still depend on widely supported text document formats.
+
+* **Interoperable Reporting**  
+  Deliver structured content in a portable format suitable for exchange between teams and tools.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automated Multi-Format Output**  
+  Python workflows can generate RTF documents from FODS files as part of larger conversion systems.
+
+* **Batch Compatibility Processing**  
+  Multiple source files can be converted into RTF format for broader downstream usability.
+
+* **Workflow Integration Across Systems**  
+  Automated RTF generation supports environments where multiple platforms consume document outputs.
+
+* **Scalable Document Exchange**  
+  Programmatic conversion enables fast and repeatable preparation of portable editable files.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

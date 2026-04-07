@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل WordML إلى XLSB يحول المحتوى المهيكل المستند إلى المستندات إلى ملفات جداول بيانات ثنائية مُحسّنة لتخزين فعال وتعامل مع دفاتر عمل كبيرة. هذا مفيد عندما تحتاج البيانات المحوّلة إلى وظائف جداول البيانات مع تحسين خصائص الأداء.
+
+تساعد واجهات برمجة التطبيقات في بايثون على أتمتة تحويل WordML إلى XLSB عن طريق استخراج وتنظيم جداول المستند إلى مخرجات دفتر عمل ثنائي مناسبة لتدفقات البيانات القابلة للتوسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تخزين دفتر العمل بكفاءة**
+  يحول محتوى WordML إلى ملفات XLSB لتعامل مدمج مع جداول البيانات.
+
+* **دعم سير عمل البيانات الكبيرة**
+  يساعد في إدارة مجموعات البيانات المحوّلة الضخمة بصيغة متوافقة مع جداول البيانات.
+
+* **تحويل الجداول المهيكلة**
+  يجعل بيانات المستند قابلة للاستخدام في بيئات دفتر عمل موجهة للأداء.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تحويل جداول البيانات ذات الحجم الكبير**
+  ي automatisates إنشاء ملفات XLSB من مجموعات كبيرة من مستندات WordML.
+
+* **خطوط أنابيب البيانات الموجهة للأداء**
+  يدعم سير العمل الذي يستفيد من مخرجات جداول البيانات الثنائية.
+
+* **إعداد تقارير قابل للتوسع**
+  يتيح التحويل المتكرر لجداول المستند إلى أصول دفتر عمل فعّالة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

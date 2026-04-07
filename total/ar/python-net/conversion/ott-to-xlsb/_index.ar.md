@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل OTT إلى XLSB في واجهات برمجة تطبيقات بايثون يحول قوالب نص OpenDocument إلى ملفات جدول بيانات ثنائية مُحسّنة للتخزين الفعال والمعالجة في سيناريوهات دفاتر العمل الكبيرة. هذا مفيد عندما يجب أن تظل البيانات المحوّلة جاهزة للاستخدام في جداول البيانات مع الاستفادة من تمثيل ملف مضغوط.
+
+يدعم التحويل الأتمتة من خلال تمكين إنشاء دفاتر عمل قابلة للتوسع للعمليات ذات البيانات الضخمة، مما يساعد على تحسين الأداء وتقليل عبء التخزين في سير عمل التصدير المتكرر.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إخراج جدول بيانات مضغوط**  
+  ينتج ملفات دفتر عمل ثنائية لتخزين فعال ومعالجة.
+
+* **دعم سير عمل البيانات الكبيرة**  
+  يتناسب مع السيناريوهات التي قد تنمو فيها جداول البيانات المُنشأة في الحجم.
+
+* **تسليم محتوى منظم**  
+  يحوّل محتوى القالب إلى أصول دفتر عمل ذات أداء عالي.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء دفاتر عمل عالية الحجم**  
+  يُؤتمت تصدير XLSB من مصادر OTT على نطاق واسع.
+
+* **تقارير كفء في التخزين**  
+  ينشئ مخرجات جدول بيانات مضغوطة للعمليات المتكررة.
+
+* **خطوط أنابيب بيانات موجهة للأداء**  
+  تدعم معالجة أسرع في سير عمل جداول البيانات المؤتمتة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

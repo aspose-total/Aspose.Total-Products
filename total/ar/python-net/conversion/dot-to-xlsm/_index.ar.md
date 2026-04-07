@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOT إلى XLSM يغيّر قوالب المستندات إلى دفاتر عمل جداول بيانات مُمكّنة بالماكرو لمعالجة البيانات المهيكلة بسلوك جداول بيانات متقدم. هذا مفيد عندما يجب أن تدعم مخرجات الجداول البيانات كلًا من تنظيم البيانات والوظائف المحسّنة.
+
+باستخدام واجهات برمجة تطبيقات بايثون، يمكن أتمتة تحويل DOT إلى XLSM لإنشاء مخرجات دفاتر عمل متقدمة قابلة للتكرار من قوالب المستندات القابلة لإعادة الاستخدام.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء دفتر عمل مُمكّن بالماكرو**
+  تحويل ملفات DOT إلى XLSM لتدفقات عمل جداول بيانات متقدمة.
+
+* **إعادة استخدام المستند إلى دفتر العمل**
+  تحويل محتوى القالب إلى مخرجات جداول بيانات قابلة للتحرير وغنية بالميزات.
+
+* **دعم أتمتة العمليات**
+  إعداد ملفات دفتر العمل المناسبة لعمليات الأعمال القائمة على جداول البيانات الأكثر قدرة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء دفتر عمل متقدم مؤتمت**
+  يمكن لسكربتات بايثون تحويل قوالب DOT إلى ملفات XLSM لحالات الاستخدام المتكررة.
+
+* **تكامل تدفق عمل جداول البيانات**
+  يربط التحويل مستودعات المستندات بأنابيب معالجة دفاتر العمل المحسّنة.
+
+* **إنشاء مخرجات جاهزة للماكرو قابلة للتوسع**
+  تدعم الأنظمة البرمجية إنشاء مستدام لأصول جداول البيانات المتقدمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

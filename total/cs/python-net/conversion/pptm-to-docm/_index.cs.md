@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Slides for Python via 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konverze PPTM na DOCM pomocí Python API umožňuje převést obsah prezentace s makry do formátu pro zpracování textu s makry, což podporuje pokročilé úpravy a automatizaci. Je to užitečné, když je nutné materiál prezentace převést do dokumentových prostředí, která spoléhají na vložené skripty nebo logiku šablon.
+
+Konverze je zvláště relevantní pro automatizované podnikové pracovní toky, kde je vyžadována generace dokumentů, jejich přizpůsobení a skriptované následné zpracování. Pomáhá sjednotit obsah prezentace se systémy automatizace dokumentů a zároveň zachovat kompatibilitu s operacemi podporujícími makra.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Příprava dokumentu s makry**
+  Přesouvá obsah prezentace do formátu dokumentu, který podporuje automatizované chování dokumentu.
+
+* **Pokročilá integrace pracovních toků**
+  Umožňuje obsahu odvozenému z prezentace podílet se na skriptovaných procesích dokumentu.
+
+* **Editovatelná konverze obchodního obsahu**
+  Podporuje převod snímků do dokumentů pro řízené úpravy a opětovné použití.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná migrace obsahu**
+  Přenáší obsah PPTM do souborů DOCM pro provádění pracovních toků zaměřených na dokumenty.
+
+* **Potrubí generování dokumentů**
+  Zasílá data prezentace do systémů výroby dokumentů s podporou maker.
+
+* **Pravidly řízené následné zpracování**
+  Umožňuje dále zpracovávat převedené dokumenty pomocí automatizovaného formátování nebo logických rutin.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

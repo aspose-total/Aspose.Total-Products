@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu E
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod e‑mailu na MD v Pythonu převádí obsah zprávy do Markdownu pro lehkou, přenosnou a verze‑přátelskou textovou dokumentaci. Je zvláště užitečný, když je potřeba informace z e‑mailu znovu použít v dokumentaci, znalostních bázích, vývojářských pracovních postupech nebo publikačních systémech.
+
+Tento převod zlepšuje automatizaci tím, že usnadňuje parsování, ukládání, transformaci a publikaci e‑mailového obsahu napříč text‑prvními pipeline s minimálním formátovacím zatížením.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Publikování znalostní báze**  
+  Převádějte e‑maily do Markdownu pro dokumentační portály a interní wiki.
+
+* **Archivace pod verzovacím řízením**  
+  Uchovávejte důležité komunikace v textovém formátu vhodném pro sledování v repozitářích.
+
+* **Zjednodušení obsahu**  
+  Snižte složité formátování e‑mailu na čistý, přenosný markup pro opětovné použití.
+
+* **Vývojářsky orientované workflow**  
+  Používejte výstupy v Markdownu tam, kde technické týmy spravují obsah v textových systémech.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizace Inbox‑to‑Wiki**  
+  Přeměňujte vybrané e‑maily na Markdownové stránky pro prohledávatelné znalostní platformy.
+
+* **Aktualizace dokumentace založené na repozitáři**  
+  Automaticky commitujte převedený obsah zprávy do verzovaných obsahových pipeline.
+
+* **Statické publikační workflow**  
+  Vkládejte výstupy e‑mailu v Markdownu do generátorů a systémů pro automatizaci obsahu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

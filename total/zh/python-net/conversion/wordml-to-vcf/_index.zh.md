@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML 到 VCF 的转换将基于文档的联系信息转换为可导入联系人管理系统的 vCard 文件。当文档中存储的姓名、电话号码、地址或相关细节需要转化为标准化的联系人记录时，这非常有用。
+
+使用 Python API，WordML 到 VCF 的转换可以自动化，以提取相关的联系人字段并生成用于 CRM、目录和同步工作流的可移植 vCard 输出。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **联系人记录提取**
+  将 WordML 文档中的联系人详细信息转换为可导入的 VCF 文件。
+
+* **目录和 CRM 支持**
+  帮助将基于文档的联系人数据迁移到结构化的联系人系统中。
+
+* **可移植联系人共享**
+  实现跨平台的标准化联系人信息交换。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量联系人生成**
+  自动化从目录、表单或存储在 WordML 中的联系人列表生成 VCF。
+
+* **CRM 数据准备**
+  支持将标准化的联系人记录导入自动化业务系统。
+
+* **同步工作流启用**
+  将文档中的联系人详细信息转换为可用于定期同步的可移植文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

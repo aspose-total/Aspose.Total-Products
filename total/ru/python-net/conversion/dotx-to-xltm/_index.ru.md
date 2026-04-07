@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование DOTX в XLTM преобразует содержимое шаблона Word в формат шаблона электронных таблиц с поддержкой макросов для повторяемого и автоматизируемого создания рабочих книг. Это ценно, когда переиспользуемые электронные таблицы должны поддерживать как структуру, так и расширенное поведение рабочих процессов.
+
+С помощью Python API это преобразование позволяет масштабировать производство шаблонов электронных таблиц, соответствующих повторяющимся операционным, аналитическим и корпоративным процессам отчетности.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **Шаблоны рабочих книг с поддержкой макросов**
+  Преобразуйте содержимое документа в переиспользуемые шаблоны электронных таблиц с расширенной поддержкой.
+
+* **Повторяемые операционные активы**
+  Стандартизируйте создание рабочих книг из структур, основанных на документах.
+
+* **Повторное использование структурированных данных**
+  Перепрофилируйте шаблоны Word в шаблоны электронных таблиц для постоянных рабочих процессов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **Автоматизированное создание шаблонов**
+  Создавайте файлы XLTM из шаблонов DOTX в контролируемых системах отчетности.
+
+* **Масштабируемая стандартизация рабочих книг**
+  Обеспечьте согласованные шаблоны электронных таблиц с возможностями, ориентированными на автоматизацию.
+
+* **Дизайн рабочего процесса, ориентированного на шаблоны**
+  Интегрируйте преобразование документов в повторяемые конвейеры подготовки рабочих книг.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

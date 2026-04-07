@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل PST إلى PS في واجهات برمجة تطبيقات بايثون يُعيد تمثيل محتوى صندوق البريد إلى PostScript لتدفقات العمل الموجهة للطباعة ووصف الصفحات. يكون ذلك مفيدًا عندما تحتاج رسائل البريد الإلكتروني المؤرشفة إلى الحفظ أو التسليم بصيغة تتماشى مع الطباعة ذات التحكم العالي وعرض الصفحات المستقل عن الجهاز.
+
+للتنفيذ الآلي، يدعم تحويل PST إلى PS الطباعة المؤسسية، وإنتاج المستندات، وأنابيب إخراج الصفحات المتحكم فيها. يساعد بيانات صندوق البريد على الاندماج مع الأنظمة التي تعتمد على أوصاف طباعة موثوقة وعمليات عرض مهيكلة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تصدير وصف الصفحة**
+  يحوّل محتوى PST إلى PS لتدفقات العمل المتحكم فيها للطباعة والعرض.
+
+* **الطباعة المستقلة عن الجهاز**
+  يساعد في إعداد المحتوى المستمد من صندوق البريد للتعامل مع الطباعة المعيارية.
+
+* **دعم إخراج الإنتاج**
+  يدعم البيئات التي تعتمد على صيغ عرض الصفحات المهيكلة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إعداد الطباعة الآلي**
+  يمكن للأنظمة تحويل بيانات PST إلى ملفات PS لعمليات الطباعة اللاحقة.
+
+* **تكامل أنابيب العرض**
+  يدعم إخراج PostScript توليد الصفحات المتحكم فيها في البيئات الآلية.
+
+* **معالجة قابلة للتوسع موجهة للطباعة**
+  يساعد التحويل البرمجي على إدارة إخراج صندوق البريد عالي الحجم بكفاءة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

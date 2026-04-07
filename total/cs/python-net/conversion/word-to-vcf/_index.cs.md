@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu W
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod Word na VCF pomocí Python API transformuje kontaktní informace z dokumentů Word do souborů vCard, což usnadňuje jejich sdílení a import do systémů pro správu kontaktů. To je užitečné, když je třeba převést adresáře, seznamy adres nebo profilové údaje uložené v dokumentech na strukturované záznamy kontaktů.
+
+V automatizačních pracovních postupech tento převod umožňuje spolehlivé získávání a balení kontaktních dat, podporuje synchronizované adresáře, onboardingové procesy a zjednodušenou správu komunikace.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytvoření záznamu kontaktu**
+  Převádí kontaktní informace z dokumentů do importovatelných souborů vCard.
+
+* **Modernizace adresáře**
+  Pomáhá převést statické seznamy založené na Wordu na strukturovaná digitální kontaktní aktiva.
+
+* **Sdílení informací**
+  Usnadňuje distribuci standardizovaných záznamů kontaktů napříč systémy.
+
+* **Příprava CRM a nástrojů pro kontakty**
+  Podporuje přesun kontaktních dat uložených v dokumentech do provozních platforem.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Hromadný extrahování kontaktů**
+  Automaticky převádí adresáře založené na Wordu do souborů VCF pro importní pracovní postupy.
+
+* **Onboarding a distribuční kanály**
+  Generuje záznamy kontaktů z schválených dokumentů pro interní nebo externí sdílení.
+
+* **Podpora synchronizace systémů**
+  Využívá výstupy VCF k udržení synchronizace systémů souvisejících s kontakty s dokumentovými zdroji.
+
+* **Opětovné využití strukturovaných dat**
+  Integruje převedené soubory kontaktů do širších procesů automatizace komunikace.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

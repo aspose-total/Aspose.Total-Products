@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PCL na konverzi do formátu ICS pomocí Python API umožňuje převést obsah založený na tisku do kalendářově kompatibilních datových formátů pro plánování a workflow související s událostmi. To je užitečné, když je časově citlivá informace původně vytvořená jako tiskové proudy potřeba přetvořit pro digitální distribuci a koordinaci kalendářů.
+
+Automatizace dělá tuto konverzi cennější tím, že statické výstupy PCL se promění ve strukturované kalendářové soubory, které lze efektivně generovat, směrovat a synchronizovat. Podporuje škálovatelné pracovní postupy plánování, kde strojově generované dokumenty musí být přeměněny na použitelné údaje o událostech.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování kalendářních událostí**  
+  Převádí informace o rozvrhu založené na PCL do souborů ICS pro interoperabilitu kalendářů.
+
+* **Distribuce schůzek**  
+  Pomáhá převádět tištěné podrobnosti událostí na digitální pozvánky nebo záznamy o plánování.
+
+* **Podpora plánování pracovních postupů**  
+  Umožňuje sdílet provozní časové osy pocházející z tisku ve formátu přátelském pro kalendáře.
+
+* **Koordinace časově založených procesů**  
+  Usnadňuje distribuci strukturovaných plánovacích dat ze starších zdrojových dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované vytváření souborů událostí**  
+  Systémy mohou generovat soubory ICS z dokumentů PCL, kdykoli jsou detekována data o plánování.
+
+* **Opakovaná konverze rozvrhu**  
+  Dávkové úlohy mohou zpracovávat opakované výstupy PCL do kalendářových souborů pro průběžné plánovací pracovní postupy.
+
+* **Integrované notifikační kanály**  
+  Převáděné soubory ICS mohou být připojeny k automatizovaným notifikacím nebo koordinačním systémům.
+
+* **Programové pracovní postupy plánování**  
+  Obchodní aplikace mohou převádět časové osy vytvořené tiskem na použitelné kalendářové artefakty ve velkém měřítku.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

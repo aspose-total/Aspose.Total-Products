@@ -53,7 +53,44 @@ Používáme API [Aspose.Words for Python via .NET](https://products.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX na obrázky převádí dokumenty pro zpracování textu do obrazových formátů, které zachycují vizuální rozvržení a formátování stránek dokumentu. Tento proces umožňuje sdílet nebo archivovat obsah dokumentu jako statické vizuální soubory.
+
+Pomocí Python API lze převod DOCX‑na‑obrázek automatizovat pro systémy náhledu dokumentů, platformy publikování obsahu a archivní procesy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování náhledu dokumentu**  
+  Převádí stránky DOCX do obrázků pro rychlé náhledy.
+
+* **Vizuelní archivace dokumentů**  
+  Zachovává vzhled dokumentu v obrazovém formátu.
+
+* **Pracovní postupy publikování obsahu**  
+  Umožňuje vložit obsah dokumentu jako obrázky.
+
+* **Vytváření snímků stránek**  
+  Generuje vizuální reprezentace stránek dokumentu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované generování miniatur dokumentů**  
+  Systémy mohou převádět soubory DOCX na náhledové obrázky.
+
+* **Dávkové exportní pipeline obrázků**  
+  Python skripty mohou generovat obrázky z velkých kolekcí dokumentů.
+
+* **Platformy distribuce obsahu**  
+  Dokumenty lze převést na obrázky pro publikování nebo sdílení v pracovních postupech.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

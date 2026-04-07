@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+文档转 XLS 转换将 Word 内容转换为用于结构化审查、计算和运营报告的电子表格格式。当基于文档的表格和记录需要变为可编辑的电子表格数据时，这非常有价值。
+
+使用 Python API 进行 DOC 转 XLS 转换可提升效率，支持可重复的提取，并帮助将文档内容集成到以电子表格为中心的业务工作流中。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **电子表格数据转换**
+  将文档表格转换为可编辑和分析的 XLS 文件。
+
+* **报告与审查**
+  准备基于文档的内容以用于电子表格报告任务。
+
+* **旧版电子表格兼容性**
+  在仍在使用旧版电子表格环境的情况下使用 XLS 输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化电子表格导出**
+  在重复的运营工作流中将 DOC 文件转换为 XLS。
+
+* **批量数据准备**
+  以编程方式将文档中的结构化数据提取为电子表格形式。
+
+* **系统集成流水线**
+  将兼容电子表格的输出输送到分析、财务或规划系统中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

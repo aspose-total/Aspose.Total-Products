@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 的 Word 转 MBOX 转换将文档内容转换为用于存储电子邮件集合的邮箱归档格式。当需要将基于文档的通信记录或类似消息的内容打包用于归档、迁移或批量邮件处理场景时，这非常有用。
+
+从自动化的角度来看，此转换通过将 Word 编写的内容转化为符合邮箱格式的资产，支持可扩展的归档和通信工作流，适用于存储、导出和传输过程。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **邮箱归档准备**
+  将文档衍生的消息内容打包为适用于电子邮件归档系统的格式。
+
+* **批量通信存储**
+  支持在统一的邮箱文件中保留多个生成的消息。
+
+* **迁移工作流支持**
+  帮助为使用基于邮箱的导入或传输方法的环境准备内容。
+
+* **记录保存**
+  将面向通信的内容存储在专为分组消息处理设计的格式中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **归档生成流水线**
+  将批量基于 Word 的通知转换为 MBOX 文件，以实现长期保留。
+
+* **批量消息打包**
+  自动化地从标准化的通信文档创建邮箱归档。
+
+* **迁移准备工作流**
+  生成用于转移到邮件存储或审查系统的 MBOX 输出。
+
+* **合规存储自动化**
+  使用邮箱文件作为文档衍生通信记录的结构化容器。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

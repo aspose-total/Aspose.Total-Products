@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 的 XPS 到 MBOX 转换可将固定布局文档转换为用于存储电子邮件集合的邮箱归档格式。当文档内容必须纳入依赖邮箱存储结构的归档、迁移或长期保留工作流时，这非常有用。
+
+对于自动化驱动的系统，XPS 到 MBOX 转换支持可扩展的内容保存，简化归档打包，并帮助将文档记录与以邮件为中心的存储和合规流程集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **邮箱归档创建**  
+  将 XPS 内容转换为兼容 MBOX 的结构，以实现统一存储和保留工作流。
+
+* **基于文档的记录保留**  
+  帮助在更易于在通信系统中管理的邮箱归档中保存文档信息。
+
+* **迁移准备**  
+  支持将文档内容转换为邮件归档格式，以便平台迁移或整合。
+
+* **批量内容打包**  
+  使多个源自文档的记录能够组织成可归档的邮箱集合。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化归档管道**  
+  系统可以在计划的保留或备份例程中将 XPS 文件转换为 MBOX 输出。
+
+* **批量记录合并**  
+  大量文档记录可以通过程序打包成邮箱归档，以实现高效处理。
+
+* **合规存储工作流**  
+  自动化流程可以在适合治理审查的归档格式中保存源自文档的通信。
+
+* **数据迁移准备**  
+  转换例程可以在将文档源转移到其他环境之前，准备兼容邮箱的输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

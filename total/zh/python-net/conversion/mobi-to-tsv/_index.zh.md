@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python 中的 MOBI 转 TSV 转换将电子书内容转换为制表符分隔的结构，简单、紧凑，且非常适合机器处理。此格式在需要在期望结构化文本且最小格式开销的系统之间干净地交换内容时非常有价值。
+
+在自动化工作流中，TSV 输出有助于简化摄取、解析和批量转换任务。将 MOBI 转换为 TSV 支持可扩展的流水线，在集成和运营效率方面，速度、可移植性和直接的数据处理尤为重要。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **结构化文本导出**
+  将 MOBI 内容转换为 TSV，以实现直接的解析和轻量级的结构化存储。
+
+* **管道友好型数据传输**
+  在将提取的信息移动到脚本、导入工具或处理引擎时使用 TSV。
+
+* **大规模内容处理**
+  生成紧凑的输出，适用于批处理和批量转换工作流。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **摄取流水线准备**
+  在将数据加载到内部处理系统之前，自动将 MOBI 文件转换为 TSV。
+
+* **批量解析自动化**
+  将 TSV 输出输入到计划脚本中，用于验证、丰富或转换任务。
+
+* **低开销数据交换**
+  使用 Python 自动化生成干净的表格输出，以实现轻量级的下游集成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to TSV 转换将启用宏的文档转换为制表符分隔值，使结构化内容更容易在数据工作流中解析、传输和重复使用。当文档表格需要一种具有清晰字段分隔的简单文本格式时，它尤其有帮助。
+
+在自动化环境中，DOCM 到 TSV 转换支持可靠的数据交换、进入处理管道的摄取，以及将文档内容可扩展地转换为轻量级结构化输出。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **用于处理的表格提取**
+  将文档表格转换为适用于数据工作流的基于文本的结构。
+
+* **轻量级数据交换**
+  在工具之间移动结构化内容时，提供最小的格式开销支持。
+
+* **导入准备**
+  帮助为接受分隔符输入的系统准备来源于文档的记录。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **定期结构化导出**
+  为持续的运营工作流自动化 DOCM 到 TSV 转换。
+
+* **管道友好型数据准备**
+  生成的输出可在脚本和集成任务中轻松解析。
+
+* **批量转换工作流**
+  以编程方式将大量 DOCM 文件转换为一致的 TSV 输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

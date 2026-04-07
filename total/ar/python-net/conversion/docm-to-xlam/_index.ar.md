@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOCM إلى XLAM يحول المستندات الممكّنة للماكرو إلى مخرجات جداول بيانات على نمط الإضافة صُممت لدعم وظائف جداول البيانات القابلة لإعادة الاستخدام. وهو مفيد عندما يحتاج المنطق القائم على المستند أو المحتوى المهيكل إلى المساهمة في توسيع سير عمل جداول البيانات القابلة للتوسيع.
+
+في الأنظمة الآلية، يساعد تحويل DOCM إلى XLAM على حزم القدرات القابلة لإعادة الاستخدام، وتوحيد وظائف جداول البيانات المتقدمة، وربط العمليات القائمة على المستند ببيئات المصنف القابلة للتوسيع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **امتدادات جداول البيانات القابلة لإعادة الاستخدام**
+  يدعم إنشاء مخرجات على نمط الإضافة من المنطق القائم على المستند أو المحتوى المهيكل.
+
+* **توحيد سير العمل**
+  يساعد على توحيد سلوك جداول البيانات القابلة لإعادة الاستخدام عبر العمليات المتكررة.
+
+* **تمكين جداول البيانات المتقدمة**
+  يجسر محتوى المستند المكتوب مع حالات استخدام جداول البيانات الأكثر قابلية للتوسيع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إعداد الإضافة الآلي**
+  يحوّل مصادر DOCM إلى مخرجات متوافقة مع XLAM لسير عمل جداول البيانات الموحد.
+
+* **توزيع المنطق القابل لإعادة الاستخدام**
+  يدعم توصيلًا قابلًا للتوسع للقدرات المتكررة لجداول البيانات عبر الفرق.
+
+* **تكامل جداول البيانات البرمجي**
+  يربط تحويل المستندات بعمليات الأتمتة المتقدمة القائمة على المصنفات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

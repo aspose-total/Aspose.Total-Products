@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOT إلى ODS يحول قوالب معالجة النصوص إلى جداول بيانات OpenDocument للتعامل مع البيانات المهيكلة وتوافق سير العمل المفتوح. هذا مهم عندما يجب نقل محتوى المستند إلى تنسيق جدول بيانات يدعم التحليل أو التتبع أو التقارير.
+
+تسمح واجهات برمجة تطبيقات بايثون بأتمتة تحويل DOT إلى ODS بحيث يمكن للفرق تحويل المستندات إلى أصول جداول بيانات مفتوحة بسرعة وبشكل متسق.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء جدول بيانات مفتوح**
+  تحويل ملفات DOT إلى ODS للمراجعة والتلاعب المرتكز على البيانات.
+
+* **هيكلة بيانات القالب**
+  نقل محتوى المستند القابل لإعادة الاستخدام إلى شكل جدول بيانات للاستخدام التشغيلي.
+
+* **تبادل عبر المنصات**
+  مشاركة المعلومات المستخرجة بتنسيق مفتوح مناسب للبيئات المتنوعة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **سير عمل جداول البيانات المؤتمتة**
+  يمكن لسكريبتات بايثون تحويل قوالب DOT إلى ملفات ODS في خطوط أنابيب مجدولة.
+
+* **تكامل البيانات المفتوحة**
+  يدعم التحويل الأنظمة التي تعتمد على تنسيقات جداول البيانات المفتوحة للمعالجة.
+
+* **تحويل المستندات بالجملة**
+  تساعد الأتمتة البرمجية على إنشاء مخرجات ODS من العديد من القوالب بكفاءة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

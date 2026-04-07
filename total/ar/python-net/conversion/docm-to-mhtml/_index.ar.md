@@ -53,7 +53,41 @@ outformat: MHTML
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOCM إلى MHTML يحول المستندات الممكّنة للماكرو إلى محتوى ويب جاهز في ملف واحد يجمع بين الترميز والموارد المرتبطة في حزمة محمولة واحدة. يكون ذلك مفيدًا عندما يجب عرض معلومات المستند أو أرشفتها أو نقلها بتنسيق صديق للمتصفح.
+
+في البيئات الآلية، يدعم تحويل DOCM إلى MHTML النشر المحمول، والعرض الآمن عبر البريد الإلكتروني، وتبسيط تخزين تمثيلات المستند ذاتية الاكتفاء.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تمثيل ويب بملف واحد**
+  يحول المستندات إلى ملفات ويب ذاتية الاكتفاء لتسهيل التوزيع.
+
+* **أرشفة محمولة**
+  يحافظ على المحتوى المنسق والموارد المرتبطة معًا في مخرج واحد.
+
+* **وصول صديق للمتصفح**
+  يجعل محتوى المستند أسهل في العرض دون الاعتماد على برنامج تحرير كامل.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **حزم ويب آلية**
+  يولد ملفات MHTML من مصادر DOCM لتدفقات عمل النشر الخفيفة.
+
+* **خطوط تسليم المستندات**
+  يدعم إرسال المحتوى المنسق بتنسيق مضغوط ومحمول.
+
+* **تحويل دفعي للأرشيفات**
+  ينشئ لقطات مستندات ذاتية الاكتفاء برمجيًا على نطاق واسع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

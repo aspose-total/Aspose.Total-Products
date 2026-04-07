@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PST na WordML konverze v Python API převádí obsah poštovní schránky do XML‑založené reprezentace Word, která podporuje strukturované zpracování a interoperabilitu dokumentů. Je užitečná v technických pracovních postupech, kde je třeba zachovat obsah odvozený z e‑mailu v markup‑orientovaném formátu pro transformaci nebo integraci.
+
+Pro automatizaci PST na WordML konverze pomáhá propojit archivy poštovních schránek se systémy dokumentů řízenými XML a s pipeline‑mi založenými na pravidlech. Podporuje škálovatelnou manipulaci, inspekci a výměnu strukturovaného dokumentového obsahu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **XML reprezentace dokumentu**
+  Převádí obsah PST do WordML pro strukturovanou manipulaci s dokumenty.
+
+* **Interoperabilní výměna obsahu**
+  Pomáhá přesouvat soubory odvozené z poštovní schránky přes systémy a pracovní postupy založené na značkování.
+
+* **Prozkoumatelná struktura dokumentu**
+  Podporuje technické procesy, které těží z čitelného značkování dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Integrace XML pracovního postupu**
+  Automatizované systémy mohou zpracovávat výstup WordML pro úkoly validace nebo transformace.
+
+* **Strukturované pipeline dokumentů**
+  Převoděná data poštovní schránky mohou proudit do podnikových procesů zaměřených na značkování.
+
+* **Programová manipulace s obsahem**
+  WordML umožňuje škálovatelnou transformaci dokumentů odvozených z e‑mailů pomocí kódu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

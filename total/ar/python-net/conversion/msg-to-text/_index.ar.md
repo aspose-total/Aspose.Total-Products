@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل MSG إلى TEXT يستخرج محتوى رسائل البريد الإلكتروني إلى نص عادي لتخزين بسيط، بحث، ومعالجة. يكون ذلك ذا قيمة عندما يكون الوصول إلى المحتوى النظيف أهم من التنسيق وعندما يكون الإخراج الخفيف الوزن مطلوبًا للفهرسة أو التحليل.
+
+للأتمتة، تدعم سير عمل MSG إلى TEXT استخراج النصوص، أنابيب البحث، وإدخال المحتوى المُنظم. تساعد على تحويل بيانات التواصل إلى تنسيق بسيط صديق للآلة مناسب للمعالجة القابلة للتوسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **استخراج النص العادي**  
+  عزل محتوى البريد الإلكتروني للقراءة السهلة أو التخزين أو التحليل اللاحق.
+
+* **دعم البحث والفهرسة**  
+  إعداد نص الرسالة للفهرسة وسير عمل الاسترجاع.
+
+* **معالجة البيانات الخفيفة الوزن**  
+  استخدام إخراج مبسط في الأنابيب التي لا تتطلب الحفاظ على التنسيق.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **أنابيب إدخال المحتوى**  
+  تحويل ملفات MSG إلى نص عادي للفهرسة وأنظمة التصنيف.
+
+* **سير عمل تحليلات النص**  
+  تغذية محتوى الرسالة المستخرج إلى عمليات التحليل أو المراقبة الآلية.
+
+* **إنشاء أرشيف مُنظم**  
+  تخزين سجلات التواصل بصيغة نصية مضغوطة للاحتفاظ القابل للتوسع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

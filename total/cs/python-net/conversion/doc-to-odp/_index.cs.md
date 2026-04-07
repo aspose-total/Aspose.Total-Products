@@ -64,7 +64,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod dokumentu do ODP mění obsah Wordu na prezentační soubory OpenDocument, které podporují komunikaci založenou na snímcích v ekosystémech otevřených kanceláří. Je užitečný, když je nutné převést narativní nebo zprávový obsah do editovatelných prezentací.
+
+Automatizace pomocí Python API pro převod DOC na ODP pomáhá zefektivnit tvorbu prezentací, snížit čas manuálního formátování a integrovat obsah řízený dokumenty do kolaborativních pracovních postupů se snímky.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření prezentací**
+  Převést obsah dokumentu na ODP snímky pro schůzky, školení nebo briefinky.
+
+* **Spolupráce s otevřenými formáty**
+  Podporovat pracovní postupy prezentací, které závisí na standardizovaných kancelářských formátech.
+
+* **Přetvoření zprávy**
+  Znovu použít existující materiál dokumentu ve struktuře připravené na snímky pro vizuální prezentaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Generování sady snímků**
+  Automaticky převádět DOC zprávy na ODP prezentace pro opakované použití.
+
+* **Křížové platformové kancelářské pracovní postupy**
+  Použít konverzi založenou na Pythonu k podpoře otevřených kancelářských prostředí ve velkém měřítku.
+
+* **Publikování řízené šablonami**
+  Programově vytvářet prezentační soubory ze strukturovaných zdrojů dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

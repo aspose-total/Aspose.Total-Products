@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF 转 DOCX 转换将联系人卡片数据转换为现代可编辑的文档文件，这些文件在文档编制、结构化沟通和数字记录管理中被广泛使用。这使得联系人信息更容易在专业工作流中呈现、审阅和重复使用。
+
+使用 Python API，VCF 转 DOCX 转换可以实现高容量操作的自动化，帮助团队创建符合可扩展内容生成和文档处理系统的标准化联系人文档。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **现代联系人文档**  
+  将 VCF 数据转换为 DOCX 文件，以实现专业且可编辑的使用。
+
+* **团队协作**  
+  在支持审阅和修订的通用文档格式中共享联系人详细信息。
+
+* **结构化内容复用**  
+  将联系人信息重新格式化为报告、目录或通信等文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量 DOCX 生成**  
+  自动将大量 VCF 文件转换为 DOCX 文档。
+
+* **文档工作流集成**  
+  将生成的 DOCX 联系人记录发送到审批、存储或发布流水线。
+
+* **可扩展内容标准化**  
+  使用 Python API 在各系统之间强制统一的联系人文档格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

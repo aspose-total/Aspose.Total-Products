@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV 转 Word 转换将制表符分隔的数据转换为可编辑的文字处理文档，使结构化信息更易于审阅、格式化和分发。它可用于将原始数据集转换为支持沟通、文档编制和业务报告的专业文档。
+
+借助 Python API，TSV 转 Word 转换可以实现自动化，以提升工作流效率、减少手动文档准备，并支持结构化数据向可读输出的可扩展转换。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **业务文档创建**  
+  将 TSV 记录转换为可编辑的 Word 文档，以用于报告和审阅。
+
+* **结构化数据呈现**  
+  帮助在基于文档的工作流中更易获取表格内容。
+
+* **运营内容交付**  
+  支持在团队和系统之间分发数据驱动的文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化文档生成**  
+  Python API 可以在可重复的工作流中将 TSV 导出转换为 Word 文件。
+
+* **工作流集成**  
+  自动化将源数据与下游文档生产步骤连接起来。
+
+* **批量报告流程**  
+  大批量的 TSV 文件可以规模化转换为 Word 输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

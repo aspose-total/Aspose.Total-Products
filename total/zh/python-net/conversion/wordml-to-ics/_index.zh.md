@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML 到 ICS 的转换将文档信息转换为日历兼容的数据，能够支持调度、提醒和基于事件的工作流。当文档中存储的会议细节、时间线或议程项目需要转换为日历条目时，这非常有价值。
+
+使用 Python API，WordML 到 ICS 的转换可以自动化，以提取事件信息并生成可重复使用的日历文件，用于调度系统和基于时间的流程自动化。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **事件提取**
+  将 WordML 文件中与日程相关的内容转换为可用于日历的 ICS 数据。
+
+* **会议工作流支持**
+  将议程或计划文档转换为可导入的事件记录。
+
+* **日历互操作性**
+  使文档内容能够使用标准格式迁移到调度平台。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化日历文件生成**
+  在重复工作流中从 WordML 会议或事件文档创建 ICS 文件。
+
+* **日程同步**
+  将基于文档的事件细节集成到日历导入管道中。
+
+* **提醒和计划自动化**
+  支持从结构化文档内容程序化创建时限记录。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

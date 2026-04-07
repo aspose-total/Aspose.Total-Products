@@ -65,7 +65,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+文档转 PPTM 转换将 Word 内容转换为宏启用的演示文件，这类文件将可编辑幻灯片与可自动化的功能相结合。在需要可重复性和嵌入式功能的高级演示工作流中，它具有重要价值。
+
+Python API 支持 DOC 到 PPTM 的转换，以实现可扩展、受控的演示生成，帮助自动化内容生产，同时保持结构化输出。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用的演示创建**
+  将文档内容转换为可编辑的演示文稿，并支持高级工作流。
+
+* **自动化幻灯片流程**
+  在需要结构化演示输出与自动化共存的场景中使用 PPTM。
+
+* **企业内容标准化**
+  从重复的文档来源生成一致的演示文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **高级演示自动化**
+  在动态报告环境中自动从 DOC 内容创建 PPTM 文件。
+
+* **可扩展的幻灯片生产**
+  以编程方式将文档库转换为宏启用的演示文稿。
+
+* **可重复的内容交付**
+  使用 Python 工作流标准化自动化演示输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

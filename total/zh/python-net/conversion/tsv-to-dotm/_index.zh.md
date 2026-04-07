@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV 到 DOTM 的转换将结构化的表格数据转换为支持可重复和高级文档工作流的宏启用文档模板格式。当组织需要具有增强文档行为的结构化输出的一致模板时，这非常有价值。
+
+使用 Python API，可以将此转换嵌入自动化流水线，从 TSV 源生成可用于模板的文件，从而帮助提升文档标准化和流程效率。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用模板**  
+  支持从 TSV 内容创建高级可重用的文档模板。
+
+* **结构化输出标准化**  
+  有助于在重复的业务用例中保持统一的文档模式。
+
+* **基于模板的数据发布**  
+  使结构化数据集能够为受控的文档生成过程提供输入。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **重复模板生成**  
+  自动化可以从计划的 TSV 导出创建 DOTM 就绪的输出。
+
+* **高级文档工作流**  
+  Python API 可以将数据转换与支持宏的模板系统集成。
+
+* **可扩展的转换任务**  
+  大批量 TSV 输入可以作为自动化操作的一部分转换为 DOTM 文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

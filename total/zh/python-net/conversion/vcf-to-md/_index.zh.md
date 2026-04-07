@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF 到 MD 的转换将联系人卡片数据转换为易于阅读、编辑并可集成到基于文本的知识系统中的 Markdown 文档。这在重视可移植性、简洁性和版本友好内容的文档环境中尤为有用。
+
+在自动化工作流中，VCF 到 MD 的转换使 Python API 能够生成轻量级的联系人文档，这些文档自然地融入内容仓库、静态站点和结构化笔记生成流水线。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **可读的文本文档**  
+  将 VCF 记录转换为 Markdown，以获得干净且可移植的文档。
+
+* **知识库集成**  
+  以适合文本为中心的系统的格式存储联系信息。
+
+* **版本友好的内容管理**  
+  以易于追踪的结构化纯文本格式管理联系数据。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自动化 Markdown 生成**  
+  从批量联系人卡片创建 MD 文件，以实现有序的文档编写。
+
+* **静态内容流水线**  
+  将转换后的联系人文件输入自动化发布和仓库工作流。
+
+* **可扩展的文本转换**  
+  使用 Python API 将联系人数据标准化为轻量级标记格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

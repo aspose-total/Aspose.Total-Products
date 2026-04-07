@@ -46,7 +46,44 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOCX إلى MBOX يتيح تحويل محتوى المستند إلى ملفات أرشيف صندوق البريد المستخدمة لتخزين مجموعات من رسائل البريد الإلكتروني. تسمح هذه العملية بدمج معلومات المستند في هياكل أرشيف البريد.
+
+تمكن واجهات برمجة تطبيقات بايثون من إنشاء ملفات صندوق البريد تلقائيًا من محتوى المستند، داعمةً أرشيفات التواصل وسير عمل المراسلة الآلية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء أرشيف البريد الإلكتروني**  
+  يحول محتوى DOCX إلى ملفات أرشيف البريد.
+
+* **سجلات التواصل الوثائقي**  
+  يخزن الرسائل المستندة إلى الوثائق داخل أرشيفات البريد.
+
+* **سير عمل ترحيل البريد الإلكتروني**  
+  يتيح تضمين محتوى الوثيقة في تصديرات البريد.
+
+* **دمج نظام المراسلة**  
+  يسمح بتعبئة معلومات الوثيقة داخل أرشيفات البريد الإلكتروني.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء صندوق بريد تلقائي**  
+  يمكن للأنظمة تحويل المستندات إلى ملفات أرشيف MBOX.
+
+* **معالجة دفعة أرشيف البريد الإلكتروني**  
+  يمكن لسكربتات بايثون إنشاء أرشيفات بريد من مجموعات المستندات.
+
+* **خطوط أنابيب المراسلة المؤسسية**  
+  يمكن تحويل بيانات الوثائق إلى صيغ البريد تلقائيًا.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

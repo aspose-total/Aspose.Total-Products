@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC 到 MOBI 的转换将源自电子表格的内容转换为适合数字阅读和便携分发的电子书友好格式。它在需要将电子表格中的结构化信息重新打包为适用于手册、指南或参考资料的可读长篇内容时非常有价值。
+
+在自动化环境中，使用 Python API 的 SXC 到 MOBI 转换有助于将源数据转化为可生成、更新并大规模高效分发的便携出版物。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **数字指南创建**  
+  将电子表格信息转换为更适合手册或手册式交付的格式。
+
+* **便携内容分发**  
+  帮助发布结构化信息，以实现离线或设备友好的阅读体验。
+
+* **参考材料打包**  
+  支持将表格内容转换为终端用户可阅读的文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化电子书出版**  
+  在重复的内容工作流中使用 Python API 从 SXC 源创建 MOBI 输出。
+
+* **知识交付管道**  
+  使结构化的电子表格数据能够自动转换为便携的阅读格式。
+
+* **动态出版更新**  
+  简化了在源电子表格数据更改时重新生成数字内容的过程。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

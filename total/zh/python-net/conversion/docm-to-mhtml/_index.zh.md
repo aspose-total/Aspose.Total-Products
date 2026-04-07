@@ -53,7 +53,41 @@ outformat: MHTML
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM 到 MHTML 的转换将启用宏的文档转换为单文件的 Web 就绪内容，将标记和链接资源合并为一个可移植的包。当需要在浏览器友好的格式中查看、归档或传输文档信息时，这非常有用。
+
+在自动化环境中，DOCM 到 MHTML 的转换支持可移植发布、电子邮件安全渲染以及自包含文档表示的简化存储。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **单文件 Web 表示**
+  将文档转换为自包含的 Web 样式文件，便于分发。
+
+* **可移植归档**
+  将格式化内容和相关资源一起保存在单个输出中。
+
+* **浏览器友好访问**
+  使文档内容更易于查看，无需依赖完整的编辑软件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化 Web 打包**
+  从 DOCM 源生成 MHTML 文件，以实现轻量级的发布工作流。
+
+* **文档交付流水线**
+  支持以紧凑、可移植的格式发送格式化内容。
+
+* **批量归档转换**
+  以规模化方式程序化创建自包含的文档快照。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

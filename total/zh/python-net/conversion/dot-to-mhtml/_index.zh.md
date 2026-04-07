@@ -53,7 +53,41 @@ outformat: MHTML
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT 到 MHTML 的转换将文字处理模板转换为网页存档文件，将内容打包为单一的可移植资源。这对于保留布局、通过网页兼容格式共享文档内容以及简化自包含的分发非常有用。
+
+Python API 使得在需要将文档发布、归档或以紧凑的网页就绪文件形式传输的自动化环境中，DOT 到 MHTML 的转换变得实用。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **网页存档导出**
+  将 DOT 文件转换为 MHTML，以实现可移植、浏览器友好的文档共享。
+
+* **单文件保存**
+  以自包含的格式存储文档内容，简化传输和访问。
+
+* **面向布局的分发**
+  在网页兼容的存档中保留文档呈现，以便审阅或发布。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化网页打包**
+  Python 工作流可以从 DOT 模板生成 MHTML 文件，用于发布流水线。
+
+* **归档内容生成**
+  转换支持从文档源可重复创建可移植的网页存档。
+
+* **批量文档发布**
+  编程过程可以高效地从大量模板生成 MHTML 输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

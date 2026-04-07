@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF 转 GIF 转换将数字联系人卡片数据转换为轻量级图像输出，适用于预览、简易共享和可视化目录。此格式在需要将联系信息以紧凑图形形式呈现用于网页或内部系统时非常有用。
+
+使用 Python API，VCF 转 GIF 转换可以实现自动化，生成一致的基于图像的联系人数据快照，适配可扩展的内容管道和轻量级分发工作流。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **轻量级可视化共享**  
+  将联系人记录转换为 GIF 图像，以便轻松分发。
+
+* **联系人预览生成**  
+  创建联系人信息的简易图像快照，以便快速查看。
+
+* **目录友好输出**  
+  在管理基于图像记录的内部系统中使用 GIF 文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量图像转换**  
+  自动从批量 VCF 文件生成 GIF 预览。
+
+* **门户和仪表板集成**  
+  在自动化界面和系统中显示转换后的联系人图像。
+
+* **简化资产交付**  
+  使用 Python API 生成紧凑的可视化输出，以适配可扩展的工作流。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

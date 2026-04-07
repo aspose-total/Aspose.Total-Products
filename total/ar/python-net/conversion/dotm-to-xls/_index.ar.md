@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOTM إلى XLS يحول قوالب Word الممكّنة بالماكرو إلى ملفات Excel الكلاسيكية لتحليل البيانات المهيكلة وتوافق جداول البيانات القديمة. يكون مفيدًا عندما يجب إعادة استخدام المعلومات المستمدة من المستند في بيئات جداول البيانات القديمة.
+
+استخدام واجهات برمجة تطبيقات Python لتحويل DOTM إلى XLS يحسن الأتمتة عن طريق استخراج المحتوى من القوالب إلى ملفات جداول البيانات دون نسخ يدوي. يدعم ذلك إعداد تقارير قابلة للتوسع، وهجرة البيانات، وسير عمل تجاري يركز على التوافق.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تصدير جداول البيانات القديمة**
+  تحويل محتوى DOTM إلى XLS للعمليات التي لا تزال تعتمد على صيغ Excel القديمة.
+
+* **تحويل الجداول المهيكلة**
+  نقل جداول المستند والقيم المتكررة إلى شكل جدول بيانات للتحليل.
+
+* **مشاركة البيانات الموجهة للتوافق**
+  تمكين تبادل البيانات المستمدة من المستند مع الأنظمة التي تتطلب ملفات جداول بيانات كلاسيكية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء دفتر عمل قديم مؤتمت**
+  يمكن للعمليات إنشاء ملفات XLS من قوالب DOTM للتوافق مع الأنظمة القائمة.
+
+* **دعم خط أنابيب التقارير**
+  يساعد التحويل على أتمتة نقل بيانات المستند المهيكلة إلى جداول البيانات للمراجعة.
+
+* **معالجة دفعة من المستند إلى دفتر العمل**
+  تدعم الوظائف البرمجية تحويلًا واسع النطاق لملفات DOTM إلى مخرجات XLS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

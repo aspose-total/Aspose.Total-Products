@@ -65,7 +65,47 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Slides for Python via 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konverze PowerPointu do DOCM v Pythonu umožňuje exportovat obsah prezentace do formátu Word dokumentu s povolenými makry. To je užitečné v prostředích, kde je po konverzi vyžadována automatizace dokumentů, vložená makra nebo pokročilé workflow založené na šablonách.
+
+Propojením konverze prezentace s programovatelnou logikou dokumentu tento formát podporuje dynamičtější a opakovatelnější obchodní procesy. Je relevantní pro systémy s vysokou mírou automatizace, které se spoléhají na skriptování ve Wordu, sestavování dokumentů nebo následnou úpravu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Příprava dokumentu s povolenými makry**
+  Převádí obsah prezentace do formátu kompatibilního s pokročilými funkcemi automatizace ve Wordu.
+
+* **Dodání obsahu založené na šablonách**
+  Podporuje workflow, kde je převedený obsah vložen do šablon dokumentů řízených makry.
+
+* **Dokumentace procesů**
+  Pomáhá převést materiál snímků do dokumentů, které vyžadují skriptované formátování nebo řízené akce.
+
+* **Provozní reportování**
+  Umožňuje editovatelné výstupy pro týmy používající automatizované Word dokumenty v rutinním reportování.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Potrubí pro sestavování dokumentů**
+  Automatizuje tvorbu souborů DOCM z prezentací pro strukturované publikační procesy.
+
+* **Workflow formátování řízené pravidly**
+  Podporuje systémy, kde převedené dokumenty spouštějí formátování nebo validaci založenou na makrech.
+
+* **Transformace podnikového obsahu**
+  Vylepšuje rozsáhlé konverzní pipeline, které vyžadují editovatelné a připravené pro automatizaci výstupy ve Wordu.
+
+* **Rozšíření workflow pomocí skriptů**
+  Umožňuje převedenému obsahu prezentace podílet se na skriptovaných operacích s dokumenty.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

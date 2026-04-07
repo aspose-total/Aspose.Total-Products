@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX na FODS převod převádí obsah šablony Word do plochého formátu tabulky OpenDocument, určeného pro otevřenou, strukturovanou výměnu dat. Je užitečný pro pracovní postupy, které upřednostňují otevřené standardy a čitelnou XML‑založenou tabulkovou úložiště.
+
+S Python API tento převod podporuje automatizaci tím, že vytváří interoperabilní tabulkové dokumenty, které lze generovat, ověřovat a integrovat do škálovatelných systémů zpracování dat.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Export otevřené tabulky**
+  Převést obsah dokumentu do otevřeného tabulkového formátu pro širší kompatibilitu.
+
+* **Strukturované XML workflow**
+  Zachovat tabulární informace ve formátu vhodném pro transparentní zpracování dat.
+
+* **Výměna založená na standardech**
+  Umožnit přenos obsahu šablony mezi systémy, které podporují otevřené formáty dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované reportování v otevřeném formátu**
+  Generovat soubory FODS ze šablon DOTX v opakovaných reportovacích úlohách.
+
+* **Interoperabilní datové pipeline**
+  Zasílat výstupy otevřených tabulek do systémů, které se spoléhají na výměnu založenou na standardech.
+
+* **Normalizace šablon ve velkém měřítku**
+  Programově převádět opakované struktury dokumentů na otevřené tabulkové zdroje.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

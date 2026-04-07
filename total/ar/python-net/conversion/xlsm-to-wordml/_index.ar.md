@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSM إلى تحويل WordML يحول محتوى جداول البيانات الممكّن للماكرو إلى تنسيق معالجة كلمات قائم على XML مصمم لتمثيل المستندات المهيكلة. يكون ذلك مفيدًا عندما تحتاج المؤسسات إلى مخرجات مستندات تتماشى مع الأنظمة التي تركز على XML، أو سير عمل تحويل المحتوى، أو بيئات موجهة للتكامل.
+
+من منظور الأتمتة، يدعم WordML المعالجة البرمجية، والتحليل المهيكل، وتكاملًا أسهل مع الأنظمة التي تعتمد على تبادل المحتوى القائم على XML. تجعل واجهات برمجة بايثون تحويل XLSM إلى WordML فعالًا لتحويل المستندات على نطاق واسع وأنابيب سير العمل القابلة للقراءة آليًا.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء مستندات مبنية على XML**
+  يقوم بتحويل بيانات الجداول إلى تنسيق معالجة كلمات منظم مناسب لتكامل الأنظمة.
+
+* **سير عمل المحتوى القابل للقراءة آليًا**
+  يساعد المؤسسات على إدارة مخرجات المستندات بتنسيق يسهل تحليله وتحويله.
+
+* **تبادل الوثائق المهيكلة**
+  يدعم نقل المحتوى المستخرج من الجداول إلى بيئات معالجة متوافقة مع XML.
+
+* **النشر الموجه للتكامل**
+  يمكن من إنشاء المستندات لسير العمل الذي يفضّل نماذج المحتوى المهيكلة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط أنابيب مستندات XML برمجية**
+  يمكن لواجهات برمجة بايثون تحويل ملفات XLSM إلى مخرجات WordML لسير عمل المستندات المدفوع بالنظام.
+
+* **تحويل محتوى مهيكل على دفعات**
+  يمكن تحويل عدة جداول برمجيًا إلى مستندات مبنية على XML على نطاق واسع.
+
+* **دعم سير عمل التكامل**
+  يمكن لمخرجات WordML تغذية الأنظمة اللاحقة التي تتطلب مستندات مهيكلة وقابلة للمعالجة آليًا.
+
+* **تبادل المحتوى الآلي**
+  يساعد التحويل على ربط مصادر الجداول مع عمليات النشر والتخزين والتحويل المبنية على XML.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

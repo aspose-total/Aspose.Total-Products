@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+文档转 XLSM 转换将 Word 内容转换为宏启用的 Excel 工作簿，这些工作簿将电子表格结构与高级自动化功能相结合。对于需要可编辑数据且具备自动化就绪工作簿行为的组织而言，这非常有价值。
+
+使用 Python API 进行 DOC 到 XLSM 的转换支持可扩展的工作簿创建，减少手动数据传输，并实现与高级电子表格驱动流程的集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用的数据工作簿**
+  将文档内容转换为旨在支持高级工作流的电子表格文件。
+
+* **自动化业务报告**
+  在需要电子表格逻辑与结构化数据协同工作的场景中使用 XLSM 输出。
+
+* **可重用的运营模型**
+  将重复的文档内容重新用于具备自动化能力的工作簿。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **高级工作簿自动化**
+  从 DOC 源生成 XLSM 文件，以满足流程密集型的电子表格工作流。
+
+* **文档到 Excel 的逻辑管道**
+  将结构化内容转换为用于自动化运营模型的工作簿。
+
+* **重复数据转换**
+  以编程方式将文档导出标准化为宏启用的电子表格资产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

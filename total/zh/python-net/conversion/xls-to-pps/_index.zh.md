@@ -65,7 +65,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS 到 PPS 的转换将电子表格内容转换为专为直接显示而设计的演示幻灯片文件。当需要将基于电子表格的洞察以可直接展示的材料而非可编辑的工作文件形式分发时，这非常有用。
+
+Python API 支持高效的 XLS 到 PPS 自动化，使组织能够以编程方式创建可直接展示的输出，并将其整合到报告或广播工作流中。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **即用幻灯片**
+  将 XLS 内容转换为直接以演示模式打开的 PPS 文件。
+
+* **会议交付资产**
+  使用电子表格数据准备用于简报和审查的幻灯片输出。
+
+* **简化的演示分发**
+  以针对直接观看优化的格式共享基于电子表格的演示文稿。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **计划的幻灯片生成**
+  自动从定期的电子表格更新中创建 PPS 文件。
+
+* **演示交付自动化**
+  使用 Python API 从 XLS 源准备可直接展示的幻灯片。
+
+* **活动和简报工作流**
+  将转换集成到分发幻灯片内容用于现场或远程会议的系统中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

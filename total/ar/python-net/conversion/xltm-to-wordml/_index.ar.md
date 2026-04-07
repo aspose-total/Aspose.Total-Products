@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+يدعم تحويل XLTM إلى WordML في بايثون تحويل قوالب إكسل الممكّنة بالماكرو إلى ترميز مستندات وورد المستند إلى XML لمعالجة المستندات المهيكلة والقابلة للقراءة آليًا. هذا مفيد عندما يجب تمثيل المحتوى المستند إلى جداول البيانات في تنسيق مناسب للتلاعب المتقدم بالمستندات وتكامل الأنظمة.
+
+في البيئات التي تركز على الأتمتة، يعزز تحويل XLTM إلى WordML التوافقية، يدعم سير عمل المستندات المهيكلة، ويتيح تحكمًا أعمق في عمليات إنشاء المستندات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء مستندات مبنية على XML**  
+  يحوّل قوالب المصنفات إلى ترميز وورد مهيكل لتعامل سهل مع المستندات من قبل الأنظمة.
+
+* **معالجة المحتوى القابلة للقراءة آليًا**  
+  يدعم سير العمل الذي يتطلب تحليل مخرجات المستند، والتحقق منها، أو تحويلها برمجيًا.
+
+* **تكامل المستندات المتقدم**  
+  يساعد في ربط البيانات المستخرجة من جداول البيانات مع أنظمة المستندات المهيكلة وأنابيب المعالجة المخصصة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **أتمتة المستندات المهيكلة**  
+  ينتج ملفات WordML من قوالب XLTM لسير عمل النشر المدفوع بـ XML.
+
+* **تبادل المحتوى بين الأنظمة**  
+  يُمكّن تطبيقات بايثون من إنتاج ترميز المستندات الذي يتكامل مع أدوات المعالجة اللاحقة.
+
+* **أنابيب التحويل البرمجية**  
+  يدعم عمليات التحويل القابلة للتوسع حيث تكون مخرجات المستند القابلة للقراءة آليًا مطلوبة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

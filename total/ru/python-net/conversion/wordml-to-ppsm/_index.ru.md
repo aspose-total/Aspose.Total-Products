@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование WordML в PPSM преобразует содержимое документа в файлы слайд‑шоу, поддерживающие макросы, для рабочих процессов презентаций, требующих прямого воспроизведения и встроенной автоматизации. Это полезно в специализированных средах со скриптованным поведением слайдов.
+
+С помощью Python API преобразование WordML в PPSM позволяет масштабно готовить ресурсы слайд‑шоу из структурированных документов, соответствуя требованиям автоматизированных презентаций.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **Создание слайд‑шоу с поддержкой макросов**
+  Преобразует содержимое WordML в файлы PPSM для продвинутых сценариев использования презентаций.
+
+* **Автоматизированные рабочие процессы воспроизведения**
+  Поддерживает доставку слайд‑шоу, где требуются встроенные действия или логика.
+
+* **Специализированная упаковка презентаций**
+  Преобразует содержимое документа в готовые к показу ресурсы с возможностью автоматизации.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **Скриптованное создание презентаций**
+  Автоматизирует создание файлов PPSM из структурированных исходных документов.
+
+* **Контролируемые конвейеры доставки**
+  Поддерживает повторяемое распространение слайд‑шоу с поддержкой макросов.
+
+* **Автоматизация от документа к показу**
+  Связывает преобразование контента с презентационными средами, использующими встроенную логику.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

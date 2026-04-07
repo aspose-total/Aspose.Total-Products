@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod OST na text extrahuje obsah poštovní schránky do prostého textu, což činí e‑mailová data lehká, prohledávatelná a snadno integrovatelná do analytických nebo dokumentačních pracovních postupů. Je praktickou volbou pro systémy, které upřednostňují jednoduchost, přenositelnost a přístupnost obsahu.
+
+V automatizačních scénářích je převod OST na text zvláště cenný, protože prostý text dobře funguje s indexací, parsováním, klasifikací a následným zpracováním. Python API umožňují efektivní dávkové extrahování a integraci do škálovatelných datových a obsahových pipeline.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vyhledávatelná extrakce obsahu**  
+  Převádí zprávy poštovní schránky do prostého textu pro indexaci a vyhledávání.
+
+* **Lehká archivace**  
+  Podporuje zachování obsahu e‑mailu v minimálním formátu pro ukládání a revizi.
+
+* **Připravenost na zpracování dat**  
+  Usnadňuje analýzu, parsování a programatickou transformaci obsahu zpráv.
+
+* **Pracovní postupy zachycení znalostí**  
+  Pomáhá převést důležité informace z poštovní schránky do jednoduchých znovupoužitelných textových aktiv.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Pipelines pro extrakci textu**  
+  Python automatizace převádí obsah OST do prostého textu pro škálovatelné zpracování.
+
+* **Pracovní postupy vyhledávání a indexace**  
+  Automatizované systémy připravují data poštovní schránky pro vyhledávací enginy a analytické nástroje.
+
+* **Procesy analýzy obsahu**  
+  Programatický převod podporuje klasifikaci, sumarizaci a text mining operace.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

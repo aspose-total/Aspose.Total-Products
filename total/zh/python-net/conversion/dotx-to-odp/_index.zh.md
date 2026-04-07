@@ -65,7 +65,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX 转 ODP 转换将 Word 模板内容转换为 OpenDocument 演示文稿格式，以用于开放标准的幻灯片工作流。当必须将基于文档的材料改编为审阅、沟通或发布的演示资产时，这非常有用。
+
+使用 Python API，此转换通过从模板生成可扩展的幻灯片就绪内容来支持自动化，同时保持与开放演示生态系统的兼容性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **开放演示文稿创建**
+  将文档内容转换为基于开放标准的幻灯片文件。
+
+* **内容再利用**
+  在演示和简报工作流中重复使用基于模板的材料。
+
+* **跨平台演示共享**
+  在偏好开放文档格式的环境中支持幻灯片交付。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化幻灯片生成**
+  在重复的报告工作流中将 DOTX 文件转换为 ODP 演示文稿。
+
+* **模板到演示管道**
+  以编程方式将可重用的文档内容输入到幻灯片创建过程。
+
+* **开放格式发布**
+  生成符合基于标准的分发系统的演示资产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

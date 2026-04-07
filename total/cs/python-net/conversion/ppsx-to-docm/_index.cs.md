@@ -65,7 +65,47 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Slides for Python via 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod PPSX na DOCM mění soubory prezentací na makrem povolené dokumenty, které podporují editovatelný obsah spolu s pokročilými možnostmi automatizace dokumentů. To je užitečné, když je třeba převést informace založené na snímcích do formátu, který umožňuje skriptované akce, opakovaně použitelné šablony nebo procesně řízené zpracování dokumentů.
+
+V moderních automatizačních prostředích podporuje převod PPSX na DOCM inteligentní pracovní postupy dokumentů kombinací extrahovaného obsahu prezentace s programovatelným chováním dokumentu prostřednictvím zpracování založeného na Python API.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření dokumentů s povolenými makry**  
+  Převádí obsah prezentace do dokumentů, které mohou podporovat automatizované akce.
+
+* **Dokumentace řízená procesy**  
+  Pomáhá připravit soubory pro prostředí, kde je vyžadována logika dokumentu nebo skriptování.
+
+* **Pokročilé opětovné využití obsahu**  
+  Umožňuje přetvořit materiál prezentace na dynamické pracovní dokumenty.
+
+* **Výstup připravený pro pracovní postupy**  
+  Podporuje převod do formátů vhodných pro řízené interní procesy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované sestavování dokumentů**  
+  Python API mohou převádět a připravovat obsah PPSX pro pracovní postupy s makrem povolenými dokumenty.
+
+* **Standardizace souborů v podniku**  
+  Automatizace může standardizovat výstupy prezentací do formátu DOCM pro interní provozní použití.
+
+* **Distribuce obsahu s povědomím o skriptech**  
+  Převáděné soubory mohou být směrovány skrze systémy, které závisí na funkcích automatizace dokumentů.
+
+* **Úlohy převodu ve velkém objemu**  
+  Programové zpracování umožňuje opakovaný převod PPSX na DOCM v rozsahu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

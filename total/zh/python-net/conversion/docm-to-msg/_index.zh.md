@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM 转换为 MSG 将启用宏的文档转换为单独的电子邮件消息文件，适用于基于消息的存储和交换工作流。当需要将文档内容保留为结构化的电子邮件工件以用于沟通、审阅或保留时，这非常有用。
+
+对于自动化，DOCM 转换为 MSG 的工作流可简化在依赖离散邮件项进行流程处理的系统中的消息生成、存储和传输。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **单个消息打包**
+  从文档内容创建独立的消息文件，以实现有序的沟通工作流。
+
+* **归档与审阅**
+  以结构化的消息格式保留源自文档的通信。
+
+* **邮件系统兼容性**
+  支持将通信处理或存储为单独消息对象的环境。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化消息文件创建**
+  直接从 DOCM 文档生成 MSG 输出，作为可重复工作流的一部分。
+
+* **基于工作流的保留**
+  将转换后的消息文件路由至合规、审计或归档系统。
+
+* **可扩展批处理**
+  以编程方式将大量 DOCM 文件转换为消息工件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX 转 PDF 转换将邮箱存档转换为固定布局的文档，便于在各平台上查看、共享和保存。它是电子邮件归档最实用的格式之一，因为它在保持可读性的同时支持长期存储和广泛的可访问性。
+
+借助 Python API，MBOX 转 PDF 转换可以实现自动化，用于合规、报告和文档保留工作流，帮助组织高效且一致地处理大规模邮箱数据集。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **长期电子邮件归档**
+  将邮箱内容转换为 PDF 文件，以实现稳定且广泛认可的保存。
+
+* **可共享记录准备**
+  以固定格式分发电子邮件内容，便于打开和审阅。
+
+* **合规文档**
+  通过从邮件存档导出的结构化文档，支持治理和审计需求。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量 PDF 生成**
+  自动将 MBOX 文件转换为 PDF，以实现有序的归档和审阅。
+
+* **合规流水线集成**
+  将转换后的电子邮件文档插入到保留、审计或法律工作流中。
+
+* **基于 Python 的文档扩展**
+  通过编程式 PDF 转换处理大批量邮箱导出任务。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF 到 PS 的转换将联系人卡片数据转换为适用于打印工作流、文档渲染和面向设备处理的 PostScript 输出。当需要为依赖页面描述格式以实现一致输出生成的系统准备联系人信息时，这非常有用。
+
+在自动化环境中，VCF 到 PS 的转换使 Python API 能够通过生成结构化输出并与可扩展渲染管道集成，支持以打印为中心的归档工作流。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **页面描述输出**  
+  将 VCF 记录转换为 PS 文件，以实现受控的渲染和打印。
+
+* **打印工作流支持**  
+  在页面级文档一致性重要的情况下使用 PostScript 输出。
+
+* **渲染管道兼容性**  
+  为围绕可打印处理构建的系统准备联系人数据。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化 PS 生成**  
+  在批处理工作流中从联系人数据创建 PostScript 文件。
+
+* **打印服务器集成**  
+  将转换后的 PS 输出路由到自动化打印环境。
+
+* **可扩展页面渲染**  
+  使用 Python API 以编程方式标准化面向打印的联系人输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

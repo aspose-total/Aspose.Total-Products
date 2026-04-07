@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PST to BMP conversion in Python APIs enables mailbox content to be rendered as bitmap images for visual archiving, review, and fixed-layout sharing. It is useful when email records, message content, or extracted items need to be preserved in a simple image format for documentation and operational workflows.
+
+In automation environments, PST to BMP conversion supports consistent output generation, easier preview handling, and integration with document pipelines that depend on static visual assets. It helps teams standardize email-derived content for scalable processing and reporting.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vizualizace archivace e‑mailů**  
+  Převádí obsah PST do bitmapových obrázků pro statické uchovávání záznamů a vizuální referenci.
+
+* **Snímky provozního přezkoumání**  
+  Pomáhá týmům prohlížet zprávy a přílohy ve fixním, snadno čitelném formátu.
+
+* **Dokumentace souladu**  
+  Podporuje workflow, které vyžadují needitovatelné vizuální reprezentace dat poštovní schránky.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Dávkové vykreslování poštovní schránky**  
+  Automatizace může zpracovat velké soubory PST a generovat BMP výstupy pro každou relevantní položku.
+
+* **Potrubí generování náhledů**  
+  Převáděné obrázky lze použít v systémech, které vyžadují vizuální náhledy archivovaných zpráv.
+
+* **Zprávy a workflow důkazů**  
+  Programová konverze pomáhá zahrnout vizuály poštovní schránky do auditních, podpůrných nebo případových záznamů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

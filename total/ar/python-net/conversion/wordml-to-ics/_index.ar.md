@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML إلى تحويل ICS يحول معلومات المستند إلى بيانات متوافقة مع التقويم يمكنها دعم الجدولة، التذكيرات، وتدفقات العمل القائمة على الأحداث. هذا ذو قيمة عندما تحتاج تفاصيل الاجتماعات، الجداول الزمنية، أو بنود الأجندة المخزنة في المستندات إلى التحويل إلى إدخالات تقويم.
+
+باستخدام واجهات برمجة تطبيقات بايثون، يمكن أتمتة تحويل WordML إلى ICS لاستخراج معلومات الحدث وإنشاء ملفات تقويم قابلة لإعادة الاستخدام لأنظمة الجدولة وأتمتة العمليات القائمة على الوقت.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **استخراج الحدث**
+  يحول المحتوى المتعلق بالجدولة من ملفات WordML إلى بيانات ICS جاهزة للتقويم.
+
+* **دعم سير عمل الاجتماع**
+  يحوّل الأجندات أو مستندات التخطيط إلى سجلات أحداث قابلة للاستيراد.
+
+* **قابلية التفاعل بين التقويمات**
+  يُمكّن محتوى المستند من الانتقال إلى منصات الجدولة باستخدام تنسيق قياسي.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء ملف تقويم آلي**
+  ينشئ ملفات ICS من مستندات اجتماعات أو أحداث WordML في تدفقات عمل متكررة.
+
+* **مزامنة الجدول**
+  يُدمج تفاصيل الأحداث المستندة إلى المستندات في خطوط استيراد التقويم.
+
+* **أتمتة التذكير والتخطيط**
+  يدعم إنشاء سجلات محددة زمنياً برمجياً من محتوى المستندات المهيكلة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,53 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu I
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod obrázků do OFT pomocí Python API umožňuje převést obsah založený na obrázcích na znovupoužitelné soubory šablon e‑mailů, které podporují tvorbu konzistentní komunikace. To je užitečné, když opakující se zprávy potřebují zahrnovat vizuální materiál, jako jsou bannery, oznámení, značkové grafiky nebo strukturované rozvržení založené na obrázcích.
+
+Pro automatizované pracovní postupy podporuje převod obrázků do OFT komunikaci řízenou šablonami, snižuje opakovanou práci s formátováním a zlepšuje konzistenci výstupů. Umožňuje škálovatelné procesy generování e‑mailů, kde je vizuální obsah znovu používán v opakujících se provozních nebo obchodních scénářích.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Šablony znovupoužitelné komunikace**  
+  Převést rozvržení založené na obrázcích do OFT šablon pro opakované komunikační pracovní postupy.
+
+* **Standardizace vizuálních oznámení**  
+  Vytvořit konzistentní e‑mailové šablony z politických oznámení, zpráv nebo propagačních grafik.
+
+* **Příprava provozních zpráv**  
+  Vytvořit šablony, které obsahují instrukce nebo referenční materiál založený na obrázcích.
+
+* **Konzistence komunikace se zákazníky**  
+  Použít vizuální e‑mailové šablony k udržení jednotné komunikace v opakovaných interakcích.
+
+* **Návrh interních oznámení**  
+  Převést formáty zpráv vedené obrázky na znovupoužitelné šablony pro komunikaci v celém týmu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizace e‑mailů založená na šablonách**  
+  Systémy mohou generovat opakující se komunikaci z OFT šablon vytvořených z obrázkového obsahu.
+
+* **Podpora pracovních postupů kampaní**  
+  Šablony bohaté na obrázky lze připravit jednou a znovu použít v naplánovaných procesech oslovování.
+
+* **Standardizace provozních upozornění**  
+  Běžné formáty aktualizací lze automatizovat pomocí znovupoužitelných OFT výstupů odvozených z vizuálních aktiv.
+
+* **Komunikace dokumentovaných procesů**  
+  Týmy mohou automatizovat instruktážní e‑maily pomocí šablon vytvořených z referenčního obsahu založeného na obrázcích.
+
+* **Škálovatelná personalizace zpráv**  
+  OFT šablony vytvořené z obrázků lze v automatizovaných pracovních postupech dynamicky naplnit daty.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX to WordML conversion transforms mailbox archives into XML-based Word document markup, enabling structured representation and machine-readable processing of email-derived content. This is valuable when workflows require transparency, customization, or programmatic interaction with document structure.
+
+Python APIs make WordML conversion practical at scale by supporting automated transformation, XML-level processing, and integration with systems that handle structured document data.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Export dokumentu Word založený na XML**
+  Převádějte e‑maily do WordML pro strukturované a strojově čitelné zpracování dokumentů.
+
+* **Vlastní zpracování dokumentů**
+  Umožněte nízkoúrovňovou manipulaci s obsahem odvozeným z e‑mailů pomocí pracovních postupů založených na značkování.
+
+* **Interoperabilní výměna dat**
+  Zachovejte data poštovní schránky ve formátu vhodném pro systémy se strukturovanými dokumenty.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná konverze XML**
+  Generujte výstupy WordML z archivů MBOX pro zpracovatelské pipeline zaměřené na dokumenty.
+
+* **Pracovní postupy se strukturovanými daty**
+  Použijte Python k programovému prohlížení, úpravě nebo validaci převedených dokumentů poštovní schránky.
+
+* **Škálovatelná integrace systému**
+  Vkládejte XML dokumenty odvozené z e‑mailů do podnikových systémů pro obsah a transformaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

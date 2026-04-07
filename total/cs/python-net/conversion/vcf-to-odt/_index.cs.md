@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu V
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF to ODT conversion převádí informace z kontaktních karet do textových souborů otevřených dokumentů, které podporují editovatelnou dokumentaci založenou na standardech. To je užitečné pro týmy, které hledají flexibilní správu záznamů kontaktů v otevřených a interoperabilních dokumentových prostředích.
+
+Pomocí Python API může převod VCF na ODT zefektivnit automatizované vytváření dokumentů generováním strukturovaných souborů kontaktů, které podporují úpravy, distribuci a archivaci v kompatibilních kancelářských systémech.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Úprava otevřených dokumentů**  
+  Převést data VCF do souborů ODT pro editovatelné a standardy založené použití.
+
+* **Interoperabilní záznamy kontaktů**  
+  Ukládat informace o kontaktech ve formátu vhodném pro pracovní postupy s otevřenými dokumenty.
+
+* **Strukturované sdílení informací**  
+  Poskytovat čitelné dokumenty kontaktů v kompatibilních kancelářských prostředích.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Hromadný převod ODT**  
+  Automaticky vytvářet ODT dokumenty z velkých kolekcí VCF.
+
+* **Integrace otevřených pracovních toků**  
+  Směrovat vygenerované soubory kontaktů do automatizovaných systémů postavených na otevřených standardech.
+
+* **Efektivní zpracování dokumentů**  
+  Použít Python API k produkci opakovaně použitelných ODT výstupů kontaktů ve velkém měřítku.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

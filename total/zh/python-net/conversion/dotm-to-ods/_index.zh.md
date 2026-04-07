@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM 到 ODS 的转换将带宏的 Word 模板转换为 OpenDocument 电子表格文件，使提取的文档数据更易于在开放的电子表格环境中进行分析和共享。它对于需要结构化数据可移植性的基于标准的工作流非常有价值。
+
+使用 Python API 进行 DOTM 到 ODS 的转换可通过将模板内容转化为可重复使用的电子表格而无需手动复制，从而提升自动化水平。它支持可扩展的文档到数据的流水线，改善互操作性，并帮助现代系统使用开放的电子表格标准。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **开放电子表格报告**
+  将 DOTM 内容转换为 ODS，以便在基于标准的工具中进行分析和协作。
+
+* **结构化数据导出**
+  将模板中的表格和重复内容移至电子表格形式以便重复使用。
+
+* **可互操作的工作流支持**
+  通过广受认可的开放电子表格格式实现更广泛的数据交换。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化电子表格创建**
+  工作流可以在报告或导入流水线中从 DOTM 模板生成 ODS 文件。
+
+* **基于标准的数据处理**
+  该转换支持自动化围绕开放文档格式进行操作的系统。
+
+* **批量模板转换**
+  编程任务可以高效且一致地将大量 DOTM 文件转换为 ODS。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

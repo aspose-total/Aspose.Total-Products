@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu X
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XPS to PST conversion using Python APIs enables fixed‑layout document content to be converted into a widely used mailbox archive format for storage, migration, and compliance workflows. This is valuable when organizations need to consolidate document‑derived communications into structured mail archives for long‑term access and system portability.
+
+Through automation, teams can convert high volumes of XPS files into archive‑ready outputs, reduce manual packaging work, and support scalable information governance processes.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytvoření poštovního archivu**
+  Převést obsah komunikace založený na XPS do souborů PST pro strukturované ukládání.
+
+* **Podpora souladu a uchovávání**
+  Zachovat zprávy odvozené z dokumentů v archivních formátech vhodných pro workflow správy.
+
+* **Příprava migrace a zálohování**
+  Použít výstupy PST k podpoře přenosu poštovní schránky, zálohování nebo obnovovacích scénářů.
+
+* **Konsolidované úložiště komunikace**
+  Organizovat více konvertovaných položek do přehledného archivního kontejneru.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Plánovaná generace archivu**
+  Automaticky vytvářet výstupy PST z opakujících se workflow výroby dokumentů.
+
+* **Dávkové konverzní řetězce**
+  Zpracovat mnoho souborů XPS do archivů PST s minimálním ručním úsilím.
+
+* **Automatizace pracovních postupů souladu**
+  Odeslat konvertované soubory PST do systémů uchovávání, revize nebo právního zadržení.
+
+* **Příprava dat napříč systémy**
+  Použít konverzní skripty k přípravě archivů komunikace během změn platformy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

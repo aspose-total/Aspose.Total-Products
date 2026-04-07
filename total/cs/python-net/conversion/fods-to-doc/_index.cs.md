@@ -65,7 +65,47 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FODS to DOC conversion enables structured spreadsheet data stored in flat OpenDocument format to be transformed into editable word processing documents for reporting, review, and documentation workflows. It helps teams present tabular content in a narrative-friendly format that is easier to share with business users, stakeholders, and non-technical audiences.
+
+In automation environments, converting FODS to DOC supports document generation pipelines, scheduled reporting, and data-driven content publishing. Using Python APIs, organizations can streamline repetitive conversion tasks, reduce manual formatting effort, and integrate document output into larger processing systems.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Příprava obchodních zpráv**  
+  Převést záznamy založené na tabulkách do editovatelných souborů DOC pro interní reportování a dokumentaci.
+
+* **Workflow revize obsahu**  
+  Umožnit snadnější revizi strukturovaných dat jejich převodem do známého formátu pro zpracování textu.
+
+* **Archivní dokumentace**  
+  Uchovat informace z tabulek v dokumentové formě pro účely shody, referencí nebo dlouhodobého ukládání.
+
+* **Týmová spolupráce**  
+  Sdílet převedené soubory DOC s odděleními, která upřednostňují editaci textových dokumentů před nástroji pro tabulky.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Plánovaná generace dokumentů**  
+  Automatizace může převádět opakující se zdroje dat FODS do souborů DOC podle časového plánu.
+
+* **Datové pipeline do dokumentu**  
+  Python workflow mohou převést strukturovaný obsah tabulek do editovatelných dokumentů pro následné využití.
+
+* **Dávkové konverzní operace**  
+  Více souborů FODS lze programově převést, aby se snížilo ruční úsilí a zvýšila propustnost.
+
+* **Integrované systémy reportování**  
+  Automatizované systémy mohou generovat výstupy DOC jako součást širší analytiky, reportování nebo procesů evidence.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

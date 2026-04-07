@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS to RTF conversion makes spreadsheet content available in a rich text format that supports broad document compatibility and editable text-based reuse. This is useful when spreadsheet information needs to be moved into a flexible document format for sharing, archiving, or further formatting.
+
+Python API-based XLS to RTF conversion improves automation by enabling consistent text document generation from spreadsheet files and supporting lightweight document exchange workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření dokumentů v bohatém textu**
+  Převést obsah XLS do souborů RTF pro editovatelné a přenosné použití dokumentů.
+
+* **Sdílení napříč platformami**
+  Použijte výstup RTF, když je potřeba široká kompatibilita napříč prostředími dokumentů.
+
+* **Transformace obsahu zaměřeného na text**
+  Přepakujte data tabulky do formátu vhodného pro smíšené formátování a narativní prezentaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Dávková tvorba bohatých textových dokumentů**
+  Použijte Python API k automatickému převodu více souborů XLS do dokumentů RTF.
+
+* **Lehké dokumentové pipeline**
+  Přidejte převod XLS na RTF do pracovních postupů, které kladou důraz na přenositelnost a kompatibilitu.
+
+* **Automatizovaná příprava archivace**
+  Přeměňte obsah tabulky na dokumenty v bohatém textu pro dlouhodobé ukládání nebo revizi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PNG 到 MSG 的转换将基于图像的内容转化为结构化的电子邮件消息文件，可在消息工作流中存储、审阅或交换。当需要将通知、截图或可视化更新等 PNG 文件转变为用于运营或归档的单独消息记录时，此功能非常有用。
+
+Python API 通过使 MSG 生成可重复且可扩展，提升了此过程的效率，允许应用程序自动化消息创建，减少人工工作，并将可视化输入与企业通信和存储系统相连接。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **消息文件创建**  
+  将 PNG 输入转换为 MSG 文件，以生成结构化的电子邮件式记录。
+
+* **可视化通信归档**  
+  帮助将基于图像的更新保存为独立的消息文件，以便后续检索。
+
+* **运营记录打包**  
+  支持需要将图像内容以消息导向格式表示的工作流。
+
+* **系统互操作性支持**  
+  使基于 PNG 的内容能够适应依赖结构化消息文件的环境。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化 MSG 生成**  
+  Python API 可以在消息处理流水线中从传入的 PNG 资产创建 MSG 文件。
+
+* **批量转换工作流**  
+  可以通过编程方式将大量 PNG 文件转换为 MSG 输出，以提升运营效率。
+
+* **案例和工单文档**  
+  系统可以将可视化记录打包成 MSG 文件，用于支持、审计或文档工作流。
+
+* **基于规则的消息创建**  
+  应用程序可以根据触发器、类别或源事件，从 PNG 内容动态生成 MSG 文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

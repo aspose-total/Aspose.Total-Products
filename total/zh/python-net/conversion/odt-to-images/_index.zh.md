@@ -53,7 +53,47 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT 转图片转换将文档页面或内容章节转换为更易于预览、共享、嵌入或归档的可视化格式。当布局保真度和视觉可访问性比可编辑文本更重要时，这尤其有用。
+
+基于 Python API 的自动化使 ODT 转图片转换在预览、内容发布和文档可视化工作流中更加高效。它支持为网页、审阅和批准流程生成可扩展的页面级资产。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **文档预览生成**  
+  创建图像表示，以便在不打开源文件的情况下快速查看。
+
+* **网页发布资产**  
+  生成适用于门户、列表或嵌入式显示的可视化内容。
+
+* **归档快照**  
+  以静态可视形式保留页面外观。
+
+* **审阅和注释支持**  
+  使文档在基于图像的工作流中更易于检查。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **缩略图创建流水线**  
+  Python 工作流可以为新上传的 ODT 文档生成预览图像。
+
+* **批量页面渲染**  
+  大量文件集合可以自动渲染为逐页的可视化图像。
+
+* **发布自动化**  
+  图像输出可以供网站、内容管理系统或审阅工具使用。
+
+* **可视化批准流程**  
+  转换后的页面可以通过编程方式在注释和签署工作流中流转。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

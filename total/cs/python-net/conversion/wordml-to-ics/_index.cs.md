@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu W
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML na převod do formátu ICS převádí informace o dokumentu do dat kompatibilních s kalendářem, která mohou podporovat plánování, připomenutí a workflow založené na událostech. To je cenné, když je třeba podrobnosti schůzek, časové osy nebo položky agendy uložené v dokumentech převést na kalendářové záznamy.
+
+Pomocí Python API lze převod WordML na ICS automatizovat tak, aby extrahoval informace o událostech a generoval znovupoužitelné kalendářové soubory pro plánovací systémy a automatizaci procesů založených na čase.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Extrahování událostí**
+  Převádí obsah související s rozvrhem z WordML souborů do kalendářových dat ve formátu ICS.
+
+* **Podpora workflow schůzek**
+  Přetváří agendy nebo plánovací dokumenty na importovatelné záznamy událostí.
+
+* **Interoperabilita kalendářů**
+  Umožňuje obsahu dokumentu přejít do plánovacích platforem pomocí standardního formátu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované generování kalendářových souborů**
+  Vytváří soubory ICS z WordML dokumentů o schůzkách nebo událostech v opakujících se workflow.
+
+* **Synchronizace rozvrhu**
+  Integruje podrobnosti událostí založené na dokumentech do importních kanálů kalendáře.
+
+* **Automatizace připomenutí a plánování**
+  Podporuje programové vytváření časově omezených záznamů ze strukturovaného obsahu dokumentu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

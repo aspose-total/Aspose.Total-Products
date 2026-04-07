@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOTX إلى XLAM يحول محتوى قالب Word إلى تنسيق متعلق بإضافة Excel يُستخدم في بيئات الجداول الإلكترونية المتقدمة. وهو ذو صلة عندما يساهم المنطق المدفوع بالمستند أو المحتوى المهيكل في تدفقات عمل أدوات الجداول الإلكترونية القابلة لإعادة الاستخدام.
+
+يدعم هذا التحويل الأتمتة من خلال مساعدة الأنظمة القائمة على Python في إعداد أصول متعلقة بالجداول الإلكترونية تتماشى مع بيئات معالجة البيانات القابلة للتوسيع وإعادة الاستخدام.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **دعم أدوات الجداول الإلكترونية**
+  تكييف محتوى المستند لتدفقات العمل المرتبطة بأصول Excel القابلة لإعادة الاستخدام.
+
+* **بيئات البيانات المتقدمة**
+  المساهمة بمعلومات القالب المهيكلة إلى عمليات الجداول الإلكترونية القابلة للتوسيع.
+
+* **قابلية التفاعل بين الصيغ**
+  دعم التحويل إلى صيغ متعلقة بالجداول الإلكترونية لحالات الاستخدام المتخصصة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إعداد أصول الجداول الإلكترونية تلقائيًا**
+  تحويل قوالب DOTX إلى مخرجات متعلقة بـ XLAM في تدفقات عمل متخصصة.
+
+* **إعداد معالجة البيانات القابلة لإعادة الاستخدام**
+  دمج المحتوى المحول في أنظمة أتمتة الجداول الإلكترونية القابلة للتكرار.
+
+* **امتدادات من القالب إلى الجداول الإلكترونية**
+  ربط تحويل المستند بعمليات متقدمة موجهة للجداول الإلكترونية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV to DOCX conversion transforms tabular text data into modern editable word processing documents that are widely used for reporting, collaboration, and formal content delivery. It helps bridge the gap between raw structured data and polished documentation needed in professional environments.
+
+Using Python APIs, TSV to DOCX conversion supports fast, repeatable automation that improves consistency, reduces manual formatting effort, and enables scalable document generation across data-driven workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření profesionálních zpráv**  
+  Převádí záznamy TSV do čistých souborů DOCX pro analýzu, souhrny nebo formální reportování.
+
+* **Spolupráce při úpravách**  
+  Umožňuje snadnější sdílení a úpravu strukturovaných dat v rámci pracovních postupů dokumentace.
+
+* **Distribuce zaměřená na dokumenty**  
+  Pomáhá prezentovat tabulkový obsah v přístupnějším a podnikatelsky přívětivém formátu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované reportovací řetězce**  
+  Python API mohou generovat DOCX zprávy z exportů TSV na vyžádání nebo podle plánu.
+
+* **Pracovní postupy Data‑to‑Document**  
+  Automatizované systémy mohou převést strukturovaný vstup do dokumentů připravených k revizi.
+
+* **Škálovatelný hromadný převod**  
+  Velké kolekce souborů TSV lze efektivně zpracovat na výstupy DOCX.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

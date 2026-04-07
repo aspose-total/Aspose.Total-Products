@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT 转 XLSB 转换将文档模板转换为二进制电子表格工作簿，能够在存储和性能方面对大量电子表格操作更高效。当需要保持大型或重复的工作簿生成紧凑且实用时，这非常有帮助。
+
+Python API 支持从 DOT 源自动创建 XLSB，实现可扩展的文档到电子表格的流水线，并高效处理输出。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **紧凑的工作簿导出**
+  将 DOT 文件转换为 XLSB，以实现高效的电子表格存储和分发。
+
+* **面向性能的数据处理**
+  在需要重复或大规模电子表格生成时使用二进制工作簿。
+
+* **模板内容结构化**
+  将文档内容重新用于优化的工作簿输出，以供运营使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化二进制工作簿生成**
+  Python 工作流可以在周期性任务中从 DOT 模板生成 XLSB 文件。
+
+* **大批量电子表格流水线**
+  转换支持为大型文档库高效生成输出。
+
+* **可扩展的数据导出自动化**
+  编程系统帮助标准化从模板交付紧凑的电子表格。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

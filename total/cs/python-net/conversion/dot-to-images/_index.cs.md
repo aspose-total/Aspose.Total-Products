@@ -53,7 +53,41 @@ Používáme API [Aspose.Words for Python via .NET](https://products.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod DOT na obrázky vykresluje šablony dokumentů do vizuálních formátů, které jsou snadno prohlížečitelné, sdílené a vkládány do digitálních pracovních postupů. To je cenné, když je nutné původní editovatelný dokument distribuovat jako statický vizuální asset.
+
+Python API umožňují automatizované vykreslování souborů DOT do obrazových výstupů, což organizacím pomáhá podporovat náhledy, archivaci, publikování obsahu a procesy revize dokumentů ve velkém měřítku.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vizualizace dokumentů**
+  Převádějte šablony DOT na obrázky pro rychlou kontrolu a prohlížení v prohlížeči.
+
+* **Sdílení statického obsahu**
+  Distribuujte obsah dokumentu jako needitovatelné soubory obrázků pro kontrolovanou prezentaci.
+
+* **Podpora publikování**
+  Používejte vykreslené výstupy v portálech, zprávách a systémech doručování obsahu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Generování miniatur a náhledů**
+  Pythonové pracovní postupy mohou automaticky vytvářet obrázky dokumentů pro indexaci a zobrazovací systémy.
+
+* **Pipeline pro publikování obsahu**
+  Konverze podporuje automatizovanou přípravu vizuálních aktiv z opakovaně použitelných šablon.
+
+* **Hromadné operace vykreslování**
+  Programové procesy mohou konzistentně generovat výstupy obrázků z velkých kolekcí šablon.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

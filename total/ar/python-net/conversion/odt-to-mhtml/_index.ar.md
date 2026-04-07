@@ -53,7 +53,47 @@ outformat: MHTML
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ODT إلى MHTML يحول ملفات نص OpenDocument إلى تنسيق أرشيف ويب يجمع المحتوى والموارد المرتبطة في ملف واحد. هذا مفيد للحفاظ على المستندات بصيغة صديقة للمتصفح وسهلة المشاركة أو المعاينة أو التخزين.
+
+في سير عمل الأتمتة، يدعم تحويل ODT إلى MHTML التوزيع عبر الويب، واكتساب المستندات، والأرشفة المحمولة. تمكّن واجهات برمجة تطبيقات Python من توليد مخرجات متكررة ذاتية الاحتواء للنشر والمراجعة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **حفظ صديق للمتصفح**  
+  يحول المستندات إلى تنسيق يمكن فتحه وعرضه كمحتوى ويب.
+
+* **مشاركة المستندات المحمولة**  
+  يعبئ المحتوى في ملف واحد لتسهيل النقل والتخزين.
+
+* **التقاط الأرشيف**  
+  يساعد على الحفاظ على مظهر المستند وبنيته في تنسيق متوافق مع الويب.
+
+* **توزيع المحتوى المدمج**  
+  يدعم سير العمل حيث تُفضَّل ملفات المحتوى ذاتية الاحتواء.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء أرشيف ويب تلقائي**  
+  يمكن لسير عمل Python تحويل ملفات ODT إلى MHTML للوصول عبر المتصفح.
+
+* **وظائف حفظ دفعات**  
+  يمكن أرشفة مجموعات المستندات الكبيرة في ملفات ويب ذاتية الاحتواء تلقائيًا.
+
+* **تحضير النشر المحتوى**  
+  يمكن للأنظمة توليد إصدارات عرض محمولة لأصحاب المصلحة أو البوابات.
+
+* **سير عمل لقطة المستند**  
+  يمكن إنشاء مخرجات MHTML برمجيًا للمراجعة أو التخزين طويل الأمد.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

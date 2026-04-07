@@ -46,7 +46,48 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu E
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Email to RTF conversion in Python transforms message content into rich text documents that balance editability with broad compatibility. It is useful when organizations need formatted email content in a lighter document format that works across many editing tools.
+
+Převod e‑mailu do RTF v Pythonu transformuje obsah zprávy do dokumentů ve formátu Rich Text, které vyvažují editovatelnost a širokou kompatibilitu. Je užitečný, když organizace potřebují formátovaný e‑mailový obsah v lehčím dokumentovém formátu, který funguje napříč mnoha editačními nástroji.
+
+This conversion improves automation by creating structured, reusable outputs that can be edited, exchanged, and stored efficiently across mixed document environments.
+
+Tento převod zlepšuje automatizaci vytvořením strukturovaných, znovupoužitelných výstupů, které lze efektivně upravovat, vyměňovat a ukládat v různorodých dokumentových prostředích.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Zachování formátovaného textu**
+  Převodem e‑mailů do RTF zachováte základní stylování v editovatelném formátu.
+
+* **Kompatibilita napříč nástroji**
+  Používejte výstupy RTF tam, kde různé editační aplikace musí mít přístup ke stejnému obsahu.
+
+* **Znovupoužitelné záznamy komunikace**
+  Uchovejte důležitý text zprávy pro další úpravy nebo zařazení do dokumentů.
+
+* **Lehká výměna dokumentů**
+  Sdílejte z e‑mailu odvozené dokumenty v relativně jednoduchém a přenosném formátu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaný export formátovaného textu**
+  Převádějte vybrané e‑maily do souborů RTF pro ukládání a spolupráci.
+
+* **Směrování dokumentů napříč systémy**
+  Přesouvejte z e‑mailu odvozený formátovaný text mezi aplikacemi s minimálními obtížemi.
+
+* **Potrubí pro opětovné použití obsahu**
+  Vkládejte výstupy RTF automaticky do souhrnů, návrhů a interní dokumentace.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

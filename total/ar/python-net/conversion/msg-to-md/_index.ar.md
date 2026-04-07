@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل MSG إلى MD يحول رسائل البريد الإلكتروني إلى Markdown لتوثيق نصي نظيف وخفيف الوزن ومحمول. وهو مفيد بشكل خاص عندما يحتاج محتوى البريد الإلكتروني إلى إعادة استخدامه في قواعد المعرفة أو توثيق المطورين أو سير عمل نشر المحتوى.
+
+في خطوط أنابيب الأتمتة، يدعم تحويل MSG إلى MD التوثيق المُتحكم فيه بالإصدارات، وتطبيع المحتوى، ومعالجة النص المبسطة. يساعد ذلك على ربط التواصل عبر البريد الإلكتروني بعمليات المحتوى الحديثة وأنظمة النشر.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تكامل قاعدة المعرفة**  
+  تحويل رسائل البريد الإلكتروني إلى Markdown لتوثيق داخلي منظم.
+
+* **إعادة استخدام المحتوى الصديق للمطور**  
+  حفظ نص الرسالة بتنسيق مناسب للمستودعات وأنظمة التوثيق.
+
+* **تحضير النشر الخفيف**  
+  تحضير المحتوى المستمد من البريد الإلكتروني للاستخدام في المواقع الثابتة أو سير عمل المحتوى.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **أتمتة خط أنابيب التوثيق**  
+  تحويل ملفات MSG إلى Markdown للنشر أو الفهرسة الآلية.
+
+* **إدارة المحتوى المستند إلى المستودعات**  
+  تخزين محتوى البريد الإلكتروني المحول في سير عمل التوثيق المُتحكم فيه بالإصدارات.
+
+* **عمليات تطبيع النص**  
+  توحيد الاتصالات الواردة إلى محتوى نصي خفيف الوزن وصديق للآلات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

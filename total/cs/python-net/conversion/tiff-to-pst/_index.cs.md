@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TIFF to PST conversion using Python APIs enables organizations to convert image-based documents into portable mailbox archive formats used for storage, transfer, and long-term communication management. This is especially useful for preserving TIFF-derived records within structured archive containers that can scale across enterprise workflows.
+
+In automation systems, TIFF to PST conversion improves archival consistency, reduces manual consolidation work, and supports reliable movement of visual records into transportable email data stores. It is a strong fit for migration, compliance, and historical recordkeeping scenarios.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytvoření přenosného archivu**
+  Převádí obsah TIFF do PST‑kompatibilních archivů pro přenosné úložiště poštovní schránky.
+
+* **Dlouhodobé uchovávání záznamů**
+  Pomáhá zachovat komunikační aktiva odvozená z obrázků ve strukturovaných archivních kontejnerech.
+
+* **Podpora migračních pracovních postupů**
+  Umožňuje připravit dokumentové záznamy k přenosu do e‑mailových prostředí založených na archivech.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Generování archivů ve velkém**
+  Automatizuje převod dávky TIFF do výstupů PST pro podnikovou archivaci.
+
+* **Pipelines pro zachování souladu**
+  Podporuje strukturovanou archivaci skenovaných dokumentů v přenosných formátech poštovní schránky.
+
+* **Zpracování migrace a zálohování**
+  Umožňuje programové balení záznamů odvozených z TIFF pro zálohování a pracovní postupy přechodu systému.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

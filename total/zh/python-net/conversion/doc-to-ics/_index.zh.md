@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+文档转ICS转换将源自文档的事件详情转换为可导入调度系统和数字计划器的日历文件。它对会议、截止日期或约会信息来源于Word文档的工作流非常有价值。
+
+使用Python API自动化DOC到ICS的转换可提升调度效率，减少手动输入错误，并支持文档库与基于日历的工作流之间的无缝集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **事件调度**
+  从文档中提取日期和事件详情并转换为日历条目。
+
+* **会议分发**
+  将议程或邀请文档转换为可供与会者导入的ICS文件。
+
+* **截止日期管理**
+  将与日程相关的文档内容转换为用于跟踪和提醒的日历项目。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **日历文件生成**
+  自动从基于DOC的日程、通知或计划创建ICS文件。
+
+* **工作流提醒自动化**
+  将文档截止日期转换为团队协作和后续跟进的日历事件。
+
+* **系统到日历的集成**
+  以编程方式将提取的文档日期路由到调度生态系统。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

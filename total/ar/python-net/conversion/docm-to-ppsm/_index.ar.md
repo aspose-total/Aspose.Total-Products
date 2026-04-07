@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOCM إلى PPSM يحول المستندات المدعومة بالماكرو إلى ملفات عرض شرائح مدعومة بالماكرو لتسليم العروض مباشرةً مع سلوك أتمتة مدمج. هذا مفيد عندما تحتاج العروض إلى تشغيل فوري ووظائف برمجية متقدمة.
+
+للتدفقات التي تركز على الأتمتة، يدعم تحويل DOCM إلى PPSM إنشاء عروض شرائح قابلة للتكرار مع الحفاظ على الإجراءات الآلية التي تعزز تجارب العرض المتحكم فيها.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **عروض شرائح ماكرو جاهزة للتشغيل**
+  ينشئ مخرجات عرض شرائح يمكن أن تشمل سلوكًا تفاعليًا أو آليًا متقدمًا.
+
+* **تسليم عرض تقديمي آلي**
+  يدعم العروض التقديمية الجاهزة للاستخدام مباشرةً والتي تم إنشاؤها من محتوى المستند المهيكل.
+
+* **تجارب عرض متحكم فيها**
+  يساعد في إعداد أصول الشرائح للبيئات التي يكون فيها سلوك التشغيل مهمًا.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء عرض شرائح برمجي**
+  يحوّل ملفات DOCM إلى مخرجات PPSM كجزء من تدفقات عمل بصرية متكررة.
+
+* **الحفاظ على الأتمتة المدمجة**
+  يحافظ على سلوك العرض المطلوب لتسليم الشرائح الموجه أو المبرمج.
+
+* **توزيع عروض تقديمية قابل للتوسع**
+  يدعم إنشاء ملفات عرض شرائح مدعومة بالماكرو جاهزة للتشغيل على نطاق واسع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOT إلى SXC يحول قوالب معالجة النصوص إلى ملفات جدولية مناسبة لمعالجة البيانات المهيكلة في سير عمل OpenOffice القديم. هذا مفيد عندما لا يزال هناك حاجة إلى التوافق مع بيئات الجداول القديمة.
+
+باستخدام واجهات برمجة تطبيقات بايثون، يمكن للفرق أتمتة تحويل DOT إلى SXC لتقليل إعادة التنسيق اليدوية والحفاظ على كفاءة وتكرار تبادل البيانات المتوافقة مع الأنظمة القديمة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **التوافق مع جداول البيانات القديمة**
+  تحويل ملفات DOT إلى SXC للبيئات التي تعتمد على معايير الجداول القديمة.
+
+* **تصدير البيانات المهيكلة**
+  نقل محتوى المستند إلى تنسيق قائم على الشبكة للتتبع والتحليل.
+
+* **دعم انتقال النظام**
+  جسر قوالب المستندات الحديثة مع سير عمل الجداول القديمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء تنسيق قديم مؤتمت**
+  يمكن لتدفقات عمل بايثون إنشاء مخرجات SXC من قوالب DOT لتلبية الاحتياجات المتكررة.
+
+* **خطوط أنابيب البيانات المتوافقة مع الإصدارات السابقة**
+  يدعم التحويل الأنظمة التي لا تزال تتطلب تبادل ملفات الجداول القديمة.
+
+* **معالجة تصدير جماعي للأنظمة القديمة**
+  تساعد الأتمتة البرمجية على إنشاء العديد من ملفات SXC بشكل ثابت من المستندات المصدر.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC 转 DOC 转换将基于电子表格的内容转换为经典文档格式，使其在以文本为中心的工作流中更易于审阅、共享和归档。当需要将结构化的表格信息呈现为可读的业务文档、摘要或报告，以实现更广泛的可访问性时，此功能非常有用。
+
+在自动化环境中，SXC 转 DOC 转换有助于标准化输出生成，减少手动文档准备，并通过 Python API 支持下游的发布、审批或合规流程。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **报告生成**  
+  将电子表格内容转换为可读文档，以用于正式报告和利益相关者沟通。
+
+* **内容分发**  
+  使以数据为驱动的内容更易于与偏好文档格式而非电子表格的用户共享。
+
+* **归档准备**  
+  帮助以常用于长期文档工作流的格式保存业务记录。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量文档创建**  
+  自动将多个 SXC 文件转换为 DOC 文档，以用于重复的报告流水线。
+
+* **数据到文档发布**  
+  使 Python 工作流能够将电子表格数据转化为适合叙述的文档，以用于发布或审阅。
+
+* **工作流集成**  
+  支持在更大的系统中生成文档，如审批、记录保存和内容交付流水线。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

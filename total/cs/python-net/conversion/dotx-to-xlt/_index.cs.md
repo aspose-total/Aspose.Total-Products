@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod DOTX na XLT transformuje obsah šablony Wordu do formátu starší šablony tabulky pro vytváření opakovaně použitelných sešitů. Je užitečný, když je potřeba, aby tabulkové struktury odvozené z dokumentu se staly opakovatelnými základy tabulek ve starších prostředích.
+
+Tento převod podporuje automatizaci tím, že pomáhá Python API generovat šablonově orientované tabulkové prostředky pro konzistentní reportování a provozní workflow.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Legacy šablony tabulek**
+  Převést obsah dokumentu do opakovaně použitelných šablon sešitů pro zavedené systémy.
+
+* **Konzistentní základy reportů**
+  Standardizovat opakované generování tabulek z schválených dokumentových struktur.
+
+* **Datové workflow založené na šablonách**
+  Přetvořit obsah řízený šablonou do úvodních souborů tabulek.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaný výstup šablon**
+  Generovat soubory XLT ze šablon DOTX pro opakovatelnou tvorbu tabulek.
+
+* **Standardizované reportovací pipeline**
+  Použít převedené šablony k vytváření konzistentních sešitů napříč týmy.
+
+* **Řetězce šablon Dokument‑na‑Sešit**
+  Propojit strukturované dokumenty s opakovaně použitelnými základy tabulek programově.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

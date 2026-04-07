@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ODS إلى WORDML يحول ملفات جداول البيانات إلى WordprocessingML، وهو تنسيق مستندات قائم على XML يُستخدم لتمثيل المستندات المهيكلة. يتيح ذلك تمثيل بيانات جداول البيانات في هياكل مستندات قابلة للقراءة آليًا.
+
+تسمح واجهات برمجة تطبيقات بايثون بإنشاء مستندات WordprocessingML تلقائيًا من مدخلات جداول البيانات. يدعم ذلك معالجة المستندات على نطاق واسع، وأنابيب تحويل البيانات، والتكامل مع سير عمل المستندات المهيكلة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء مستندات مهيكلة**  
+  تحويل بيانات جداول البيانات إلى هياكل مستندات قائمة على XML.
+
+* **قابلية تبادل البيانات**  
+  تمكين تنسيقات المستندات القابلة للقراءة آليًا المستمدة من جداول البيانات.
+
+* **أنابيب معالجة المستندات**  
+  دمج محتوى جداول البيانات في سير عمل المستندات القائمة على XML.
+
+* **تحويل المحتوى**  
+  تحويل المعلومات الجدولية لجداول البيانات إلى بيانات مستندات مهيكلة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء مستندات برمجية**  
+  أنظمة بايثون تُنشئ مستندات مهيكلة مباشرةً من مدخلات جداول البيانات.
+
+* **تحويل دفعي لمستندات XML**  
+  تقوم الأنابيب الآلية بتحويل مجموعات كبيرة من جداول البيانات إلى WordprocessingML.
+
+* **سير عمل تكامل البيانات**  
+  المستندات المهيكلة التي تم إنشاؤها من جداول البيانات تتكامل مع أنظمة المؤسسات.
+
+* **تحويل المحتوى الديناميكي**  
+  تقوم الأنابيب البرمجية بتحويل مجموعات بيانات جداول البيانات إلى تنسيقات مستندات قائمة على XML.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

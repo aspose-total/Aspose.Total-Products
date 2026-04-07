@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod OTT na XLSX v Python API převádí šablony textových dokumentů OpenDocument do moderních sešitů tabulek pro analýzu, reportování a strukturované opětovné využití dat. Jedná se o jeden z nejužitečnějších převodů, když musí být obsah dokumentu široce přístupný a editovatelný v tabulární podobě.
+
+Převod podporuje automatizaci tím, že umožňuje opakovatelnou tvorbu výstupů sešitů ze šablon, což usnadňuje integraci obsahu odvozeného z dokumentů do datových pipeline, auditů a reportovacích operací.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Moderní generování tabulek**  
+  Vytváří aktuální soubory sešitů z textových šablon.
+
+* **Připravenost pro obchodní analýzu**  
+  Umožňuje snadnější řazení, filtrování, výpočty a revizi informací.
+
+* **Široká kompatibilita pracovních postupů**  
+  Podporuje spolupráci a výměnu dat řízenou tabulkami.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Plánovaná výroba sešitů**  
+  Převádí soubory OTT na výstupy XLSX v pravidelných cyklech.
+
+* **Pipeline šablona‑k‑reportu**  
+  Zahrnuje vygenerované tabulky do reportovacích a analytických pracovních postupů.
+
+* **Programové balení dat**  
+  Vytváří strukturované výstupy sešitů pro týmy nebo systémy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

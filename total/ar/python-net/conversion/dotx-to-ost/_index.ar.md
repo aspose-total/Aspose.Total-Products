@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOTX إلى OST يحول محتوى قالب Word إلى تنسيق مرتبط بعمليات تخزين البريد الإلكتروني غير المتصلة بالإنترنت. وهو ذو صلة في السيناريوهات التي يجب أن يتماشى فيها محتوى التواصل المُنشأ مع تخزين البريد المتزامن وعمليات أرشفة المؤسسات.
+
+باستخدام واجهات برمجة تطبيقات Python، يمكن لهذا التحويل دعم الأتمتة حول إعداد البيانات الموجهة للبريد الإلكتروني، ومعالجة تخزين الرسائل، وإدارة التواصل المستند إلى المستندات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **دعم تخزين البريد الإلكتروني**
+  تكييف التواصل المُنشأ من المستندات لبيئات تخزين البريد غير المتصلة.
+
+* **أرشفة المؤسسات**
+  إعداد المحتوى لعمليات تدفق العمل التي تشمل مستودعات الرسائل المتزامنة.
+
+* **عمليات البريد المدفوعة بالقوالب**
+  إعادة استخدام محتوى المستند في بيئات المعالجة المتعلقة بالبريد.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إعداد تخزين البريد الآلي**
+  تحويل قوالب DOTX للاستخدام في عمليات المعالجة الموجهة للبريد.
+
+* **خطوط أنابيب الاحتفاظ بالتواصل**
+  دعم عمليات تدفق العمل الأرشيفية القابلة للتوسع لمحتوى الرسائل المُنشأ.
+
+* **إدارة المحتوى المتزامن**
+  دمج التواصل المستند إلى المستندات في أنظمة البريد التي يمكن الوصول إليها دون اتصال.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -66,7 +66,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT 到 TSV 的转换将文档内容转换为制表符分隔的文本格式，适用于结构化数据交换和轻量级处理。当必须将基于文档的表格或记录移动到简单的机器可读结构时，这非常有价值。
+
+使用 Python API，ODT 到 TSV 的转换支持可扩展的数据提取、摄取管道和互操作的文档处理。它简化了结构化内容向分析、存储和转换工作流的迁移。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **简单结构化导出**  
+  将文档表格转换为轻量级的制表符分隔格式。
+
+* **数据管道准备**  
+  支持轻松摄入到处理和分析系统中。
+
+* **记录规范化**  
+  帮助标准化提取的内容以供下游使用。
+
+* **互操作的基于文本的交换**  
+  使结构化文档内容更容易在平台之间移动。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化表格提取**  
+  Python 工作流可以将 ODT 内容转换为 TSV，以生成可用于管道的输出。
+
+* **批量转换用于分析**  
+  大型文档集可以自动导出为简单的结构化文本。
+
+* **数据清洗和导出工作流**  
+  提取的值可以在写入 TSV 文件之前进行验证。
+
+* **系统集成管道**  
+  转换后的 TSV 输出可以供数据库、脚本或报告流程使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSM 到 WordML 的转换将启用宏的电子表格内容转换为基于 XML 的文字处理格式，旨在实现结构化文档表示。当组织需要与以 XML 为中心的系统、内容转换工作流或以集成为重点的环境相匹配的文档输出时，这非常有用。
+
+从自动化的角度来看，WordML 支持编程处理、结构化解析，并且更容易与依赖基于 XML 内容交换的系统集成。Python API 使 XLSM 到 WordML 的转换在可扩展的文档转换和机器可读的工作流管道中变得高效。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **基于 XML 的文档生成**
+  将电子表格数据转换为适合系统集成的结构化文字处理格式。
+
+* **机器可读的内容工作流**
+  帮助组织以更易于解析和转换的格式管理文档输出。
+
+* **结构化文档交换**
+  支持将来源于电子表格的内容迁移到兼容 XML 的处理环境中。
+
+* **面向集成的发布**
+  为优先考虑结构化内容模型的工作流提供文档生成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **编程式 XML 文档管道**
+  Python API 可以将 XLSM 文件转换为 WordML 输出，以用于系统驱动的文档工作流。
+
+* **批量结构化内容转换**
+  多个电子表格可以通过编程方式大规模转换为基于 XML 的文档。
+
+* **集成工作流支持**
+  WordML 输出可以供需要结构化且机器可处理文档的下游系统使用。
+
+* **自动化内容交换**
+  转换有助于将电子表格来源与基于 XML 的发布、存储和转换过程衔接。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل Word إلى XLT باستخدام واجهات برمجة تطبيقات Python يتيح تحويل محتوى معالجة النصوص إلى ملفات قوالب جداول بيانات كلاسيكية لإنشاء دفاتر عمل متكررة. هذا مفيد عندما تحتاج الهياكل المستندة إلى المستندات أو تخطيطات البيانات المتكررة إلى أن تصبح قوالب جداول بيانات قابلة لإعادة الاستخدام في بيئات قديمة.
+
+في إعدادات الأتمتة، يدعم هذا التحويل الاتساق والقدرة على التوسع من خلال تحويل المحتوى المكتوب في المستندات إلى أطر دفاتر عمل قابلة للتكرار للاستخدام التشغيلي المستمر.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء قالب قديم**
+  يحوّل محتوى المستند إلى قوالب جداول بيانات كلاسيكية للاستخدام المتكرر.
+
+* **أطر دفاتر عمل موحدة**
+  يساعد على الحفاظ على الاتساق عبر مخرجات جداول البيانات المتكررة.
+
+* **تخطيطات تقارير قابلة لإعادة الاستخدام**
+  يدعم إنشاء أوراق عمل متكررة من هياكل المحتوى المعتمدة.
+
+* **التوافق مع الأنظمة القديمة**
+  يتيح سير عمل قائم على القوالب في بيئات جداول البيانات التقليدية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **سير عمل توفير القوالب**
+  ينشئ ملفات XLT تلقائيًا من مستندات Word للاستخدام التشغيلي المنتظم.
+
+* **أتمتة جداول البيانات المتكررة**
+  يستخدم القوالب المستمدة من المستندات لتوحيد إنشاء دفاتر العمل.
+
+* **دعم العمليات القديمة**
+  يدمج مخرجات القوالب في الأنظمة القائمة التي تعتمد على معايير جداول البيانات القديمة.
+
+* **إنشاء أصول قابلة لإعادة الاستخدام على دفعات**
+  ينتج ملفات قوالب متعددة من المستندات المصدرية المعيارية بكفاءة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

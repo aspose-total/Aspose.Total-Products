@@ -53,7 +53,41 @@ outformat: MHTML
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل OTT إلى MHTML في واجهات برمجة تطبيقات بايثون يحول قوالب نصية من OpenDocument إلى ملفات أرشيف ويب تجمع المحتوى في تنسيق صفحة محمولة واحد. هذا مفيد عندما يجب عرض مخرجات المستند في المتصفحات أو حفظها كمحتوى ويب مستقل.
+
+يعزز التحويل الأتمتة من خلال تمكين إنشاء ثابت لملفات خفيفة الوزن جاهزة للويب وقابلة للمشاركة من القوالب، والتي يمكن تخزينها أو نقلها أو تضمينها في سير عمل رقمي أوسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء أرشيف ويب**  
+  ينشئ مخرجات صفحات مستقلة ذاتيًا من قوالب المستند.
+
+* **العرض القابل للنقل**  
+  يسهل فتح المحتوى في بيئات صديقة للمتصفح.
+
+* **حفظ ملف واحد**  
+  يعبئ مخرجات المستند المنسقة في ملف واحد قابل للنقل.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء لقطة ويب تلقائية**  
+  يقوم بتحويل ملفات OTT إلى مستندات ويب مؤرشفة على نطاق واسع.
+
+* **توزيع قائم على المتصفح**  
+  يدعم سير العمل الذي يشارك مخرجات القالب كملفات قابلة للعرض على الويب.
+
+* **سلاسل حفظ المحتوى**  
+  يخزن حالات المستند المنسقة في تنسيق محمول مدمج.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

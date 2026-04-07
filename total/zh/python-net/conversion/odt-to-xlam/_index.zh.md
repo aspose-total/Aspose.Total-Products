@@ -66,7 +66,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT 到 XLAM 的转换将文档内容转换为在高级电子表格环境中使用的 Excel 加载项相关格式。当文档派生的逻辑、模板或结构化信息必须支持扩展的基于电子表格的工作流时，这一点尤为重要。
+
+在自动化场景中，ODT 到 XLAM 的转换可以帮助从源文档准备可重用的以电子表格为中心的资产。Python API 支持可扩展的转换并与高级运营流程集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **电子表格扩展支持**  
+  将结构化文档内容转换为高级电子表格工作流环境。
+
+* **可重用逻辑准备**  
+  帮助将文档驱动的内容重新用于可重用的电子表格资产。
+
+* **运营工具对齐**  
+  支持依赖扩展电子表格功能的环境。
+
+* **结构化工作流集成**  
+  将文本文档与高级数据处理生态系统连接。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **编程资产准备**  
+  Python 工作流可以将 ODT 派生的内容转换用于电子表格扩展场景。
+
+* **批量工作流标准化**  
+  多个源文档可以被处理为高级电子表格相关的输出。
+
+* **文档到电子表格的工具链**  
+  转换后的资产可以支持结构化的运营自动化。
+
+* **模板和逻辑分发**  
+  系统可以准备可重用的输出，以用于更广泛的基于电子表格的流程。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

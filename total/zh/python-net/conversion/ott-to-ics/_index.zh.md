@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT 到 ICS 的转换在 Python API 中将 OpenDocument 文本模板转换为用于调度和事件交换的日历数据文件。当文档内容包含约会、截止日期或必须转化为日历的结构化日期驱动信息时，这非常有价值。
+
+此转换友好于自动化，因为它允许从模板生成事件信息，并将其推送到调度工作流、提醒和同步过程，而无需手动输入日历。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **事件文件创建**  
+  将与日程相关的文档内容转换为兼容日历的文件。
+
+* **截止日期分发**  
+  以标准日历格式共享重要日期和里程碑。
+
+* **规划工作流支持**  
+  将结构化事件数据转换为可移植的调度资产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自动化日历生成**  
+  从重复的基于 OTT 的事件模板创建 ICS 文件。
+
+* **提醒工作流集成**  
+  将生成的事件输入触发通知的系统。
+
+* **日程同步**  
+  支持在团队或工具之间以编程方式共享日历数据。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

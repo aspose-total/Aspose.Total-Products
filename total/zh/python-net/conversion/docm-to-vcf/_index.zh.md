@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM 到 VCF 的转换将启用宏的文档内容转换为联系人卡片文件，使姓名、地址和通信详情在联系人管理工作流中更易于重复使用。当文档包含结构化的个人或组织联系信息时，这一功能非常有价值。
+
+为了实现自动化和可扩展性，DOCM 到 VCF 的转换支持联系人提取、同步地址簿更新，以及将文档中保存的详细信息可重复地转换为可移植的联系人记录。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **联系人信息提取**
+  将文档中的结构化联系人详细信息转换为可移植的卡片文件。
+
+* **地址簿更新**
+  帮助将基于文档的联系人记录迁移到联系人管理环境中。
+
+* **可移植联系人共享**
+  支持个人或商务联系信息的标准化交换。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化联系人生成**
+  从包含联系人数据的 DOCM 文档创建 VCF 文件。
+
+* **CRM 与目录集成**
+  支持基于工作流的文档衍生联系人记录导入。
+
+* **批量联系人转换**
+  高效地将多个文档处理为标准化的联系人文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

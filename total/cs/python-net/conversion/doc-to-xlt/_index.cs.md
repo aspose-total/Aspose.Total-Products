@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod dokumentu do XLT mění obsah Wordu na soubory šablon tabulek, které podporují opakovatelnou tvorbu sešitů a standardizaci. Je užitečný, když je potřeba, aby struktury odvozené z dokumentu se staly znovupoužitelnými základy tabulek.
+
+S Python API lze převod DOC do XLT automatizovat pro konzistentní generování šablon, provozní opětovné využití a zefektivněnou výrobu tabulek.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření šablon tabulek**
+  Převést strukturovaný obsah dokumentu na znovupoužitelné šablony tabulek.
+
+* **Standardizovaný návrh sešitu**
+  Použít výstup XLT k udržení konzistentních rozvržení a datových struktur.
+
+* **Znovupoužitelné obchodní formuláře**
+  Přetvořit dokumenty na šablony sešitů pro opakované použití.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizace knihovny šablon**
+  Automaticky generovat soubory XLT ze zdrojového materiálu založeného na DOC.
+
+* **Opakovatelná konfigurace tabulek**
+  Programově vytvářet šablony sešitů ze standardizovaných dokumentů.
+
+* **Provozní opětovné využití obsahu**
+  Převést opakující se formuláře a zprávy na šablonou řízené tabulkové zdroje.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

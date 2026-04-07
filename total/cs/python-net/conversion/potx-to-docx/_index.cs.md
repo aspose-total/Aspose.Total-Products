@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Slides for Python via 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+POTX to DOCX conversion with Python APIs converts PowerPoint template content into modern Word documents that are easy to edit, share, and manage. This is important for teams that need to repurpose structured presentation material into document-centric formats for communication, compliance, or documentation.
+
+From an automation perspective, POTX to DOCX conversion improves efficiency by enabling repeatable, programmatic creation of editable documents from template-driven sources. It supports scalable workflows for content publishing, reporting, and document lifecycle management.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování editovatelných dokumentů**
+  Produces modern text documents from presentation templates for easy revision and collaboration.
+
+* **Opětovné použití obsahu napříč formáty**
+  Allows teams to repurpose template material without rebuilding content manually.
+
+* **Pracovní postupy dokumentace**
+  Supports converting slide-based structures into formal document outputs.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Úlohy konverze ve velkém objemu**
+  Automates the creation of DOCX files from multiple POTX templates in batch operations.
+
+* **Publikování založené na šablonách**
+  Supports systems that generate polished document outputs from presentation sources.
+
+* **Integrované obsahové pipeline**
+  Connects conversion steps with storage, validation, and distribution workflows.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

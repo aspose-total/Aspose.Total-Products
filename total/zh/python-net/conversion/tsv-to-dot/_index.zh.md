@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV 到 DOT 的转换将制表符分隔的数据转换为可支持标准化文档创建的文字处理模板文件。当结构化数据必须用于可重复的文档模式和基于模板的发布工作流时，这非常有用。
+
+借助 Python API，TSV 到 DOT 的转换可以实现自动化，生成可重用的基于模板的输出，从而提升文档生成过程的可扩展性、一致性和效率。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **模板准备**  
+  将 TSV 内容转换为与可重用文档结构相匹配的格式。
+
+* **标准化文档**  
+  支持对重复的报告或记录生成任务进行统一格式化。
+
+* **内容分发工作流**  
+  帮助为以模板为中心的文档系统准备结构化数据。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **可重用文档框架**  
+  自动化可以将 TSV 数据转换为面向模板的输出，以供重复使用。
+
+* **运营文档流水线**  
+  Python API 可以将数据导出连接到标准化的模板生成步骤。
+
+* **大批量处理**  
+  多个 TSV 数据集可以使用一致的逻辑转换为 DOT 文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT 到 ICS 的转换将文档内容转换为日历兼容的数据，使其能够将日程、事件描述或基于时间的信息转化为可重复使用的日历条目。当文本文件包含日期、会议或结构化时间线时，这非常有价值。
+
+在自动化环境中，ODT 到 ICS 的转换可实现调度流水线、事件发布和日历同步。Python API 能够提取相关的日期驱动内容，并高效生成机器可读的日历文件。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **日程提取**  
+  将文档中的日期和事件细节转换为可用于日历的数据。
+
+* **会议分发**  
+  帮助以适用于日历工具的格式共享事件信息。
+
+* **时间线数字化**  
+  将书面的日程转化为可操作的日历制品。
+
+* **规划工作流支持**  
+  使基于文档的规划内容在运营中更易于重复使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化事件生成**  
+  Python 脚本可以检测 ODT 文件中的事件细节并生成 ICS 输出。
+
+* **日历发布流水线**  
+  文档更新可以触发共享日程文件的自动重新生成。
+
+* **批量日程转换**  
+  多个规划文档可以大规模转换为日历资产。
+
+* **工作流提醒创建**  
+  编程提取可以自动向提醒和调度系统提供数据。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 XLAM 转换为 MOBI，可帮助将 Excel 加载项内容转换为适合便携阅读和数字内容分发的电子书友好格式。当需要以针对数字阅读设备优化的格式交付源自电子表格的文档、指南或结构化参考资料时，这非常有用。
+
+在自动化工作流中，XLAM 到 MOBI 的转换通过将技术或运营内容转化为可便携阅读的资产，支持可扩展的发布，几乎不需要人工操作。它对以编程方式分发生成的手册、指南或信息资源的组织非常有价值。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **数字指南出版**  
+  将基于 XLAM 的内容转换为 MOBI 文件，以便用于可便携的教学或参考材料。
+
+* **移动知识分发**  
+  使结构化内容以阅读友好的格式供随时随地的用户使用。
+
+* **培训材料交付**  
+  支持从电子表格资源衍生的流程指南和学习文档的出版。
+
+* **紧凑内容打包**  
+  帮助将业务文档转化为轻量级的数字阅读格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化电子书生成**  
+  Python API 可以将 XLAM 内容转换为 MOBI 文件，用于数字出版流水线。
+
+* **计划内容发布**  
+  定期工作流可以从基于电子表格的源材料生成更新的电子书输出。
+
+* **文档分发系统**  
+  自动转换实现了在设备和团队之间可扩展地共享指南和手册。
+
+* **动态学习内容交付**  
+  编程流程可以将结构化的业务知识打包成可便携的阅读格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

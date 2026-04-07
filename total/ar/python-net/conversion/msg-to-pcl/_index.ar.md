@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل MSG إلى PCL يحول ملفات رسائل البريد الإلكتروني إلى مخرجات بلغة أوامر الطابعة لتدفقات عمل الطباعة الموجهة للأجهزة. يكون مفيدًا عندما يجب توجيه محتوى الرسالة إلى خطوط طباعة، أو بيئات تعتمد على الأجهزة، أو عمليات إخراج تعتمد على تنسيقات جاهزة للطباعة.
+
+للتنفيذ الآلي، يدعم تحويل MSG إلى PCL الطباعة عالية الحجم، والإرسال التشغيلي، وإخراج المستندات تحت سيطرة النظام. يساعد على دمج المحتوى المستند إلى البريد الإلكتروني في تدفقات عمل الطباعة الإنتاجية وإدارة الأجهزة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إخراج البريد الإلكتروني جاهز للطباعة**  
+  تحضير محتوى الرسالة للاستخدام المباشر في بيئات موجهة للطباعة.
+
+* **خطوط طباعة تشغيلية**  
+  دعم تدفقات العمل التي توجه المحتوى المحول إلى أنظمة الطباعة.
+
+* **عرض متوافق مع الأجهزة**  
+  تمكين إخراج الرسائل بتنسيقات مصممة لمعالجة أوامر الطابعة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **أتمتة طباعة عالية الحجم**  
+  تحويل ملفات MSG إلى PCL للطباعة الدفعية عبر الأنظمة التشغيلية.
+
+* **تدفقات عمل توجيه الأجهزة**  
+  إرسال وظائف الطباعة المستمدة من الرسائل عبر خطوط إخراج الأجهزة الآلية.
+
+* **توحيد طابور الطباعة**  
+  تطبيع محتوى البريد الإلكتروني إلى مخرجات متوافقة مع الطابعة لضمان معالجة متسقة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

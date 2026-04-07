@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل SXC إلى WordML يحول محتوى جداول البيانات إلى تنسيق معالجة كلمات قائم على XML مفيد لتوليد المستندات المهيكلة، والتحويل، والتشغيل البيني على مستوى النظام. وهو ذو صلة خاصة عندما يجب أن يبقى محتوى المستند قابلاً للقراءة آليًا وسهل التكامل في سير عمل واعٍ بـ XML.
+
+مع واجهات برمجة تطبيقات بايثون، يدعم تحويل SXC إلى WordML الأتمتة القابلة للتوسع من خلال تمكين إنشاء المستندات برمجيًا، والتحقق، والتحويل داخل أنظمة النشر المدفوعة بالبيانات أو أنظمة معالجة المؤسسات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **توليد مستندات قائم على XML**  
+  يحول بيانات جداول البيانات إلى تنسيق مهيكل مناسب لسير عمل المستندات القابلة للقراءة آليًا.
+
+* **التشغيل البيني للنظام**  
+  يساعد على دمج محتوى المستند في المنصات التي تعالج أو تتبادل الأصول القائمة على XML.
+
+* **إدارة المحتوى المهيكل**  
+  يدعم التحكم الدقيق في تكوين المستند لبيئات التحويل المكثفة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تجميع المستندات برمجيًا**  
+  يستخدم واجهات برمجة تطبيقات بايثون لتوليد مخرجات WordML تتناسب مع خطوط الأتمتة المهيكلة.
+
+* **تكامل سير عمل XML**  
+  يتيح نقل المحتوى المستمد من جداول البيانات إلى أنظمة التحقق أو التحويل أو النشر.
+
+* **معالجة البيانات إلى المستند القابلة للتوسع**  
+  يدعم التوليد الديناميكي للمستندات القابلة للقراءة آليًا من مدخلات جداول البيانات المتغيرة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,44 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将文本转换为 ICS 可以将纯文本信息转换为兼容日历的事件文件。这与调度系统、约会生成以及需要将文本事件细节转化为可共享日历条目的工作流高度相关。
+
+此转换通过允许应用程序直接从文本输入生成会议邀请、提醒和事件日程，提升了自动化水平，支持在规划系统之间实现高效协作和集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **日历事件创建**  
+  将文本形式的事件细节转换为用于调度和共享的 ICS 文件。
+
+* **会议邀请生成**  
+  帮助从纯文本内容创建标准化的日历邀请。
+
+* **提醒调度**  
+  支持将基于文本的提醒转化为兼容日历的事件文件。
+
+* **约会工作流集成**  
+  使业务系统能够自动生成可预订或可追踪的事件资产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动安排的约会**  
+  在表单或系统中输入的文本可以转换为即时可用于日历的 ICS 文件。
+
+* **事件分发工作流**  
+  自动化可以根据文本定义的时间表生成并发送日历文件。
+
+* **循环计划流水线**  
+  编程过程可以大规模地将结构化文本转换为日历事件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

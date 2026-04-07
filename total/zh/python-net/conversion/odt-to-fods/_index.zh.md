@@ -66,7 +66,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT 到 FODS 转换将 OpenDocument Text 内容转换为一种平面 XML 电子表格格式，旨在用于结构化数据交换和处理。当需要将基于文档的表格或记录迁移到开放的机器可读电子表格工作流时，这非常有用。
+
+借助 Python API，ODT 到 FODS 转换支持自动化友好的处理、互操作性和批量转换。它非常适合那些优先考虑透明格式和结构化文档提取的系统。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **开放电子表格转换**  
+  将文档内容转换为可访问的面向电子表格的 XML 格式。
+
+* **结构化数据交换**  
+  支持在系统之间移动提取的文档记录。
+
+* **机器可读归档**  
+  以易于检查和处理的格式保存数据。
+
+* **工作流互操作性**  
+  帮助将文档库与开放数据管道连接。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **基于 XML 的数据管道**  
+  Python 自动化可以将 ODT 文件转换为 FODS，以实现透明的数据处理。
+
+* **批量开放格式转换**  
+  大量文档可以标准化为开放的电子表格输出。
+
+* **数据验证工作流**  
+  提取的内容可以在导出为 FODS 之前进行检查和规范化。
+
+* **互操作存储自动化**  
+  系统可以将转换后的输出以开放格式存储，以便长期重复使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

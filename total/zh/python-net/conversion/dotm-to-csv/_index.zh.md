@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM 转 CSV 转换将带宏的 Word 模板转换为逗号分隔的结构化数据，使其更易于在业务系统之间进行处理、分析和交换。当组织需要从文档模板中提取表格内容、重复字段或类似报告的章节并转化为轻量级数据格式时，这一转换非常有价值。
+
+使用 Python API 进行 DOTM 转 CSV 转换通过减少手动数据输入、提升一致性，并支持文档驱动的工作流，以规模化方式为分析、导入和下游处理流水线提供数据，从而实现自动化。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **从模板中提取数据**
+  将 DOTM 文件中的结构化内容转换为 CSV，以便在报告和数据操作中更轻松地重复使用。
+
+* **系统互操作性**
+  将基于文档的信息导出为数据库、电子表格和 ETL 工具广泛接受的格式。
+
+* **批量文档处理**
+  在需要将重复使用的模板转换为机器可读行时，高效处理多个 DOTM 文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **模板到数据的流水线**
+  自动化可以从标准化的 DOTM 文件中提取值，并直接发布到基于 CSV 的工作流中。
+
+* **报告数据生成**
+  该转换帮助自动化报告系统将文档内容转化为用于仪表板和审计的数据集。
+
+* **批量转换任务**
+  编程式处理使得大量 DOTM 模板能够在无需人工干预的情况下转换为 CSV。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 OFT 转换为 RTF，可将 Outlook 电子邮件模板转换为兼具格式支持和广泛兼容性的富文本文档。当内容必须保持可编辑且在各种文档工具中保留核心样式时，这非常有用。
+
+从自动化的角度来看，OFT 到 RTF 的转换支持灵活的内容复用、系统间的简化交换以及高效的文档准备。它是实现互操作性和以文本为中心的工作流的实用选择。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **可编辑的格式化内容**  
+  将 OFT 模板转换为 RTF 文件，以在可编辑的文档格式中保留样式。
+
+* **广泛兼容的共享**  
+  在需要在众多文档编辑器中获得支持的工作流中使用 RTF 输出。
+
+* **模板内容复用**  
+  将电子邮件信息重新用于报告、记录或文档的富文本文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化文本文档流水线**  
+  自动将 OFT 文件转换为 RTF，以用于后续的编辑和分发流程。
+
+* **跨平台内容交换**  
+  在具有不同文档支持需求的系统之间传递 RTF 输出。
+
+* **可扩展的格式保留**  
+  使用 Python API 在大批量模板转换中保持结构化的文本输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

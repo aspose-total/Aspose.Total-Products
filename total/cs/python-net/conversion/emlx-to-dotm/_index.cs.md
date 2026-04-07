@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu E
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod EMLX na DOTM v Pythonu převádí e‑mailové zprávy na makrem povolené šablony Wordu, které mohou podporovat pokročilé opakovaně použitelné pracovní postupy dokumentů. To je cenné tam, kde je potřeba vložit obsah založený na e‑mailu do systémů šablon s programovatelným chováním.
+
+Pro případy použití automatizace pomáhá převod EMLX na DOTM týmům standardizovat generování dokumentů při zachování flexibility pro složité zpracování. Podporuje škálovatelné vytváření šablon, opakovatelné pracovní postupy a lepší integraci s automatizovanými kancelářskými systémy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Návrh šablon s povolenými makry**  
+  Převést soubory EMLX na šablony DOTM pro dynamické generování dokumentů.
+
+* **Opakovaně použitelné automatizované rozvržení**  
+  Vytvářejte šablony, které kombinují obsah odvozený z e‑mailu s programovatelnou strukturou.
+
+* **Standardizované vstupy pracovních postupů**  
+  Používejte převedené šablony v opakované obchodní a provozní dokumentaci.
+
+* **Kontrolovaná výroba dokumentů**  
+  Připravte šablony s povolenými makry pro konzistentní, pravidly řízené generování výstupů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizační pipeline šablon**  
+  Generujte soubory DOTM z dat EMLX ve skriptovaných tocích přípravy obsahu.
+
+* **Pokročilé pracovní postupy dokumentů**  
+  Vkládejte převedené šablony do systémů, které spoléhají na formáty dokumentů s podporou maker.
+
+* **Škálovatelné knihovny šablon**  
+  Automatizujte vytváření opakovaně použitelných aktiv DOTM z archivovaného e‑mailového obsahu.
+
+* **Programatické strukturování obsahu**  
+  Používejte Python API k převodu dat zprávy na strukturované komponenty šablony.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

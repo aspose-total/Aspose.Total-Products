@@ -65,7 +65,46 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod CSV do RTF pomocí Python API umožňuje strukturovaná tabulková data převést do dokumentů ve formátu Rich Text, které zachovávají formátování a jsou široce kompatibilní napříč platformami.  
+Tento převod podporuje automatizaci tím, že převádí surové datové sady do čitelného formátovaného výstupu, který lze rychle vygenerovat, snadno sdílet a integrovat do pracovních postupů s dokumenty.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Formátovaný textový výstup**  
+  Převést data CSV do RTF dokumentů pro čitelné zprávy, souhrny a strukturované doručování textu.
+
+* **Meziplatformní výměna dokumentů**  
+  Generovat RTF soubory, když pracovní postupy vyžadují formátovaný obsah, který zůstává přístupný v různých prostředích.
+
+* **Publikování textu řízeného daty**  
+  Transformovat záznamy CSV do formátovaných textových dokumentů, které jsou snazší k revizi a distribuci.
+
+* **Standardizovaná výroba zpráv**  
+  Vytvářet konzistentní RTF výstupy z opakujících se datových sad pro úkoly dokumentace a komunikace.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná tvorba formátovaného textu**  
+  Použít Python API k převodu vstupních CSV do RTF souborů pro opakovatelný reporting a publikační pracovní postupy.
+
+* **Transformace dokumentů na úrovni systému**  
+  Integrovat převod CSV do RTF do datových pipeline, které automaticky vytvářejí formátované dokumenty.
+
+* **Hromadný export formátovaného textu**  
+  Zpracovat více CSV souborů do RTF výstupu ve velkém měřítku při zachování konzistence formátování.
+
+* **Dynamické sestavování textu**  
+  Programově vytvářet RTF dokumenty z měnících se CSV polí, aby se podpořilo flexibilní automatizované vytváření obsahu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

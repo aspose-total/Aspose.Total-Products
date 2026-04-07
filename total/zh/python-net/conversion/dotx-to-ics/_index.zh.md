@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX 转换为 ICS 将 Word 模板内容转换为日历兼容的数据，用于事件调度和基于时间的工作流。当结构化文档内容包含必须在日历系统中重复使用的会议、截止日期或日程信息时，这非常有价值。
+
+使用 Python API，此转换可实现从模板自动生成日历条目，帮助团队简化调度、提醒以及跨集成系统的事件分发。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **事件提取**
+  将与日程相关的文档内容转换为可用于日历的文件。
+
+* **会议分发**
+  将结构化模板转化为可供参与者重复使用的日历项目。
+
+* **截止日期管理**
+  将文档中的重要日期重新格式化为可跟踪的调度资产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动日历生成**
+  在事件驱动的工作流中，从 DOTX 模板生成 ICS 文件。
+
+* **提醒和调度流水线**
+  使用转换后的输出填充自动化计划和警报系统。
+
+* **基于模板的事件发布**
+  大规模地从重复的文档格式创建一致的日历文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

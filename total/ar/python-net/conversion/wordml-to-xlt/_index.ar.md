@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل WordML إلى XLT يحول محتوى المستند المُنظم إلى ملفات قالب جدول بيانات تُستخدم كنقاط بداية قابلة لإعادة الاستخدام للدفاتر. هذا مفيد عندما تتطلب تخطيطات البيانات المستندة إلى المستند أو التقارير المتكررة قوالب جدول بيانات موحدة.
+
+تدعم واجهات برمجة تطبيقات بايثون تحويل WordML إلى XLT من خلال أتمتة إنشاء القوالب وتمكين توليد جداول البيانات المتكررة من المستندات المصدرية المُنظمة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء قالب دفتر العمل**
+  يحوّل محتوى WordML إلى ملفات XLT لهياكل جدول بيانات قابلة لإعادة الاستخدام.
+
+* **توحيد التقارير المتكررة**
+  يساعد في تحديد تخطيطات دفتر عمل متسقة بناءً على أنماط المستند.
+
+* **اتساق العملية**
+  يدعم تأليف جداول البيانات المتكررة من محتوى المصدر المعتمد.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **سير عمل توليد القوالب**
+  يُؤتمت إنشاء ملفات XLT من تقارير WordML أو النماذج أو الجداول المُنظمة.
+
+* **توحيد إنتاج جداول البيانات**
+  يدعم الفرق التي تنشئ دفاتر عمل متكررة من القوالب المشتركة.
+
+* **أتمتة تخطيط المستندات**
+  يحوّل محتوى المستند المُنظم إلى أسس جداول بيانات قابلة لإعادة الاستخدام.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

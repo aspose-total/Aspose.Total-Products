@@ -46,7 +46,48 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu E
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Email to text conversion in Python extracts message content into plain text for lightweight processing, indexing, and analysis. It is useful when formatting is less important than readability, searchability, interoperability, or integration with text-driven systems.
+
+Převod e‑mailu na text v Pythonu extrahuje obsah zprávy do prostého textu pro lehké zpracování, indexování a analýzu. Je užitečný, když je formátování méně důležité než čitelnost, prohledatelnost, interoperabilita nebo integrace s textově orientovanými systémy.
+
+This conversion is highly automation-friendly because plain text outputs are easy to parse, transform, classify, and route through data, search, and content pipelines.
+
+Tento převod je vysoce přátelský k automatizaci, protože výstupy v prostém textu jsou snadno parsovatelné, transformovatelné, klasifikovatelné a směrovatelné skrze datové, vyhledávací a obsahové pipeline.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vyhledávatelná extrakce zprávy**
+  Převádějte e‑maily do prostého textu pro indexování a full‑textové vyhledávání.
+
+* **Jednoduché archivní úložiště**
+  Uchovávejte podstatný obsah zprávy v kompaktním a čitelném formátu.
+
+* **Příprava pro zpracování dat**
+  Používejte textové výstupy jako vstupy pro analytiku, klasifikaci nebo jazykové workflowy.
+
+* **Interoperabilita systému**
+  Snadno vyměňujte obsah e‑mailů mezi nástroji, které spoléhají na data v prostém textu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Pipelines pro těžbu textu**
+  Převádějte e‑mailové proudy do prostého textu pro automatické označování a analýzu.
+
+* **Workflowy pro extrakci znalostí**
+  Vkládejte vyčištěný obsah e‑mailů do systémů pro sumarizaci, vyhledávání nebo reportování.
+
+* **Nízká režijní archivní automatizace**
+  Ukládejte textové verze zpráv pro lehké uchovávání a vyhledávání.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

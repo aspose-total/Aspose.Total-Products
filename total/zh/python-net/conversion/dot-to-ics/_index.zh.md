@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT 到 ICS 的转换将文档模板转换为可用于日程安排和事件交换的日历兼容数据。 当模板内容包含必须通过日历工作流共享的基于日期的信息时，这一点尤为重要。
+
+借助 Python API，DOT 到 ICS 的转换可以实现自动化，以可靠且可重复的方式支持事件生成、预约分发以及与调度系统的集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **从模板创建事件**
+  将基于 DOT 的日程信息转换为可用于日历的 ICS 文件。
+
+* **会议和时间线分发**
+  以标准的调度格式共享文档派生的日期和事件。
+
+* **工作流调度集成**
+  将结构化的模板内容转化为用于运营规划的日历制品。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化日历生成**
+  Python 脚本可以将面向日期的 DOT 模板转换为用于分发的 ICS 文件。
+
+* **调度流水线支持**
+  转换使系统能够将文档定义的事件推送到日历工作流中。
+
+* **批量事件发布**
+  编程处理可实现从多个模板批量创建大量的 ICS 文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

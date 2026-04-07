@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOCM إلى PPSX يحول المستندات الممكّنة بالماكرو إلى ملفات عرض شرائح حديثة مخصصة للعرض المباشر وتقديم العروض بشكل مبسط. يكون ذلك مفيدًا عندما يجب تقديم محتوى المستند بصريًا في تنسيق محمول وموجه للتشغيل.
+
+في بيئات الأتمتة، يدعم تحويل DOCM إلى PPSX توزيعًا قابلًا للتوسع للمخرجات الجاهزة للعرض دون الحاجة إلى تنسيق أو تحرير يدوي قبل العرض.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تسليم عرض الشرائح الحديث**
+  يحوّل مادة المستند إلى ملفات عرض شرائح للعرض المباشر للاستخدام في العروض.
+
+* **الاتصال البصري المحمول**
+  يساعد على مشاركة الأفكار المستندة إلى المستندات في تنسيق عرض خفيف الوزن.
+
+* **مخرجات موجهة للتشغيل**
+  يدعم سيناريوهات العرض حيث يكون التحرير ثانويًا مقارنة بالعرض.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء عرض شرائح تلقائي**
+  ينتج ملفات PPSX من مصادر DOCM لعمليات سير العمل المجدولة للعرض.
+
+* **نشر المحتوى المدفوع بسير العمل**
+  يربط تأليف المستندات بأنظمة تسليم العروض.
+
+* **تصدير عروض جماعي**
+  يحوّل كميات كبيرة من ملفات DOCM إلى أصول جاهزة للعرض برمجيًا.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

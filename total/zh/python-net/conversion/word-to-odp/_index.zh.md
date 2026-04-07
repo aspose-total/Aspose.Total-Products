@@ -65,7 +65,47 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 Word 转换为 ODP 可将文字处理内容转换为 OpenDocument 演示文稿文件，以在面向标准的环境中进行基于幻灯片的交流。当需要将叙述性文档改编为结构化的视觉演示用于会议、培训或信息共享时，这非常有用。
+
+在自动化工作流中，此转换通过将现有文档资产转换为可直接用于演示的格式，支持可扩展的内容再利用，便于在团队之间分发、编辑和重复使用。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **从文档创建演示文稿**
+  将书面内容转换为适合幻灯片的文件，以实现视觉交流。
+
+* **开放标准协作**
+  支持使用基于 OpenDocument 的演示环境的团队。
+
+* **培训和简报准备**
+  将报告和摘要重新用于可重复使用的演示材料。
+
+* **内容重新格式化效率**
+  在从文档撰写转向幻灯片交付时减少手动工作量。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化幻灯片生成**
+  将周期性的 Word 报告转换为 ODP 演示文稿，以供内部分发。
+
+* **批量演示工作流**
+  从标准化文档模板大规模生成幻灯片文件。
+
+* **跨平台发布**
+  为混合生产力环境提供开放格式的演示输出。
+
+* **会议准备流水线**
+  将已完成的文档转化为用于审阅和简报的演示资产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

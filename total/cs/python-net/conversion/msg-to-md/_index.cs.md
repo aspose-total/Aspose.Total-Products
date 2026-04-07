@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod MSG na MD převádí e‑mailové zprávy do Markdownu pro čistou, lehkou a přenosnou textovou dokumentaci. Je zvláště užitečný, když je potřeba obsah e‑mailu znovu použít v znalostních bázích, vývojářské dokumentaci nebo pracovních postupech publikování obsahu.
+
+V automatizačních pipelinech podporuje převod MSG na MD verzovanou dokumentaci, normalizaci obsahu a zjednodušené zpracování textu. Pomáhá propojit e‑mailovou komunikaci s moderními operacemi a systémy publikování obsahu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Integrace znalostní báze**  
+  Převádějte e‑maily do Markdownu pro strukturovanou interní dokumentaci.
+
+* **Vývojářsky přívětivé opětovné použití obsahu**  
+  Zachovejte text zprávy ve formátu vhodném pro repozitáře a dokumentační systémy.
+
+* **Lehká příprava publikování**  
+  Připravte obsah odvozený z e‑mailu pro použití ve statických webech nebo pracovních postupech obsahu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizace dokumentačního kanálu**  
+  Přeměňte soubory MSG na Markdown pro automatizované publikování nebo indexování.
+
+* **Repozitářová správa obsahu**  
+  Ukládejte převedený e‑mailový obsah do verzovaně řízených dokumentačních pracovních postupů.
+
+* **Procesy normalizace textu**  
+  Standardizujte příchozí komunikaci do lehkého, strojově přívětivého textového obsahu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

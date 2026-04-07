@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل OTT إلى ICS في واجهات برمجة تطبيقات بايثون يحول قوالب نصية من OpenDocument إلى ملفات بيانات تقويم تُستخدم للجدولة وتبادل الأحداث. هذا مفيد عندما يتضمن محتوى المستند مواعيد، مهل زمنية، أو معلومات منظمة تعتمد على التاريخ يجب أن تصبح جاهزة للتقويم.
+
+هذا التحويل صديق للأتمتة لأنه يتيح توليد معلومات الأحداث من القوالب ودفعها إلى سير عمل الجدولة، التذكيرات، وعمليات المزامنة دون إدخال يدوي إلى التقويم.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء ملف الحدث**  
+  يحوّل محتوى المستند المتعلق بالجدولة إلى ملفات متوافقة مع التقويم.
+
+* **توزيع المواعيد النهائية**  
+  يشارك التواريخ المهمة والمعالم في تنسيق تقويم قياسي.
+
+* **دعم سير عمل التخطيط**  
+  يحوّل بيانات الأحداث المنظمة إلى أصول جدولة محمولة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء تقويم تلقائي**  
+  ينشئ ملفات ICS من قوالب الأحداث المستندة إلى OTT المتكررة.
+
+* **دمج سير عمل التذكير**  
+  يُدخل الأحداث المُولدة إلى الأنظمة التي تُطلق الإشعارات.
+
+* **مزامنة الجدول**  
+  يدعم مشاركة بيانات التقويم برمجيًا عبر الفرق أو الأدوات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod OFT na PDF pomocí Python API převádí šablony e‑mailů Outlooku do dokumentů s pevně daným rozložením, které jsou snadno sdíletelné, archivovatelné a konzistentně zobrazitelné. Jedná se o jeden z nejužitečnějších převodů, když obsah šablony musí zůstat vizuálně stabilní napříč zařízeními a platformami.
+
+Pro automatizaci je převod OFT na PDF vysoce efektivní v dokumentových pipelinech, které vyžadují bezpečné sdílení, dlouhodobé ukládání a spolehlivé vykreslování. Zvyšuje efektivitu, standardizaci a kompatibilitu v moderních systémech správy dokumentů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Archivace s pevně daným rozložením**  
+  Převést šablony OFT do PDF souborů, aby se zachovalo rozložení a vzhled pro správu záznamů.
+
+* **Universální sdílení obsahu**  
+  Distribuovat převedené šablony ve formátu, který je široce čitelný napříč platformami.
+
+* **Distribuce pro revizi a schválení**  
+  Použít PDF výstupy pro revizi zainteresovaných stran, když nejsou vyžadovány editovatelné změny.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Dávkový export dokumentů**  
+  Automaticky převádět soubory OFT do PDF dokumentů pro archivaci a provozní workflow.
+
+* **Pipeline pro soulad a audit**  
+  Směrovat PDF výstupy do zabezpečených úložišť pro sledování, uchovávání a validaci.
+
+* **Dynamické šíření obsahu**  
+  Programově generovat PDF pro portály, reportingové systémy nebo kanály doručování zákazníkům.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

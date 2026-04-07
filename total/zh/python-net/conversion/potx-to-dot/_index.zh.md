@@ -66,7 +66,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 的 POTX 转 DOT 转换使得能够将 PowerPoint 模板转换为 Word 模板文件，以实现可重复使用的文档创建。当演示文稿内容需要在结构化业务环境中作为可重复的基于文本的模板基础时，这非常有用。
+
+自动化通过使组织能够在无需手动格式化的情况下生成可直接使用的模板输出，提升了此过程。POTX 转 DOT 转换支持可扩展的模板管理以及在重复工作流中实现标准化的文档创建。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **模板再利用**
+  将演示文稿模板转换为可重复使用的文档模板，以实现标准化输出。
+
+* **一致的文档设计**
+  帮助在后续使用转换后模板创建的文档中保持统一的格式。
+
+* **流程文档设置**
+  支持从基于演示文稿的资产构建可重复的文档结构。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板生成**
+  在模板供应工作流中，从 POTX 源创建 DOT 文件。
+
+* **可重复使用的文档流水线**
+  支持持续从标准化模板生成新文档的系统。
+
+* **集中式格式管理**
+  实现对源自演示文稿资产的文档模板库的自动化处理。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

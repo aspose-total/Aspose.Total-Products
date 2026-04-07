@@ -65,7 +65,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT 到 PPSX 的转换将文字处理模板转换为现代幻灯片文件，旨在直接进行演示播放。当文档内容需要以精美的展示格式共享且无需编辑权限时，这非常有用。
+
+使用 Python API，团队可以自动化从 DOT 模板生成 PPSX，以实现高效的演示发布和可重复的内容交付。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **现代幻灯片导出**
+  将 DOT 模板转换为 PPSX，以实现以演示为首的交付。
+
+* **不可编辑内容共享**
+  提供基于幻灯片的输出，直接以幻灯片模式打开。
+
+* **基于模板的演示发布**
+  重复使用结构化文档内容，以实现受控的视觉传达。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化幻灯片发布**
+  Python 工作流可以从 DOT 模板生成 PPSX 文件，以进行内容分发。
+
+* **演示交付流水线**
+  转换将文档来源连接到面向展示的幻灯片发布系统。
+
+* **批量视觉输出创建**
+  编程流程支持可扩展的幻灯片就绪文件批量生产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

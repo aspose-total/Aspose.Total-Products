@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل المستند إلى ODP يغيّر محتوى Word إلى ملفات عرض OpenDocument التي تدعم التواصل القائم على الشرائح في بيئات المكتب المفتوح. يكون ذلك ذا قيمة عندما يجب تحويل المحتوى السردي أو التقارير إلى عروض تقديمية قابلة للتحرير.
+
+تساعد أتمتة واجهة برمجة التطبيقات Python لتحويل DOC إلى ODP في تبسيط إنتاج العروض التقديمية، وتقليل وقت التنسيق اليدوي، ودمج المحتوى المستند إلى المستندات في سير عمل الشرائح التعاوني.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء العرض التقديمي**
+  تحويل محتوى المستند إلى شرائح ODP للاجتماعات أو التدريب أو الإحاطات.
+
+* **التعاون بصيغة مفتوحة**
+  دعم سير عمل العروض التقديمية التي تعتمد على صيغ المكتب المستندة إلى المعايير.
+
+* **إعادة توظيف التقرير**
+  إعادة استخدام مادة المستند الحالية في هيكل جاهز للشرائح لتقديم بصري.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء مجموعة الشرائح**
+  تحويل تقارير DOC تلقائيًا إلى عروض ODP للاستخدام المتكرر.
+
+* **سير عمل المكتب متعدد المنصات**
+  استخدام التحويل القائم على Python لدعم بيئات المكتب المفتوح على نطاق واسع.
+
+* **النشر القائم على القوالب**
+  إنشاء ملفات العروض التقديمية برمجيًا من مصادر المستندات المهيكلة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

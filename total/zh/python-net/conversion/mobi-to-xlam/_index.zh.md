@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MOBI 到 XLAM 的 Python 转换使得从电子书提取的内容能够为依赖插件功能的电子表格环境做好准备。这在需要将提取的数据与高级电子表格自动化或可重用业务逻辑一起交付的专门工作流中非常有用。
+
+对于自动化的相关性，MOBI 到 XLAM 的转换支持将结构化内容交付到宏启用的插件生态系统中，允许将重复的电子表格任务打包并重复使用。它将内容提取与可扩展的电子表格自动化策略相连接。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **电子表格插件集成**
+  为使用基于插件的电子表格扩展的工作流准备提取的 MOBI 内容。
+
+* **可重用自动化交付**
+  支持处理后数据与预定义电子表格自动化逻辑交互的环境。
+
+* **高级运营工作簿**
+  为使用专用电子表格工具和自定义自动化层的团队提供结构化输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **宏驱动的处理链**
+  将 MOBI 内容转换为可在通过插件组件自动化任务的电子表格生态系统中使用。
+
+* **可重用的数据自动化包**
+  支持需要将提取的内容供标准化电子表格插件使用的重复工作流。
+
+* **企业级电子表格集成**
+  使用基于 Python 的转换步骤将文档提取与高级办公自动化流程相连接。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS 到 WORDML 的转换将电子表格文件转换为 WordprocessingML，这是一种基于 XML 的文档格式，用于结构化文档表示。此功能使电子表格数据能够以机器可读的文档结构呈现。
+
+Python API 允许从电子表格输入自动生成 WordprocessingML 文档。这支持可扩展的文档处理、数据转换流水线以及与结构化文档工作流的集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **结构化文档生成**  
+  将电子表格数据转换为基于 XML 的文档结构。
+
+* **数据互操作性**  
+  实现从电子表格派生的机器可读文档格式。
+
+* **文档处理流水线**  
+  将电子表格内容集成到基于 XML 的文档工作流中。
+
+* **内容转换**  
+  将表格化的电子表格信息转换为结构化文档数据。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **编程式文档生成**  
+  Python 系统直接从电子表格输入生成结构化文档。
+
+* **批量 XML 文档转换**  
+  自动化流水线将大量电子表格转换为 WordprocessingML。
+
+* **数据集成工作流**  
+  从电子表格生成的结构化文档与企业系统集成。
+
+* **动态内容转换**  
+  编程式流水线将电子表格数据集转换为基于 XML 的文档格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

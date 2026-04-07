@@ -64,7 +64,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod DOT na PPSX mění šablony pro zpracování textu na moderní soubory prezentací určené pro přímé přehrávání prezentace. To je užitečné, když je potřeba sdílet obsah dokumentu jako vylepšený zobrazovací formát bez nutnosti přístupu k úpravám.
+
+Pomocí Python API mohou týmy automatizovat generování PPSX ze šablon DOT pro efektivní publikování prezentací a opakovatelnou distribuci obsahu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Export moderní prezentace**
+  Převést šablony DOT na PPSX pro doručení zaměřené na prezentaci.
+
+* **Sdílení needitovatelného obsahu**
+  Poskytnout výstupy založené na slidech, které se otevřou přímo v režimu prezentace.
+
+* **Publikování prezentací založené na šablonách**
+  Znovu použít strukturovaný obsah dokumentu pro řízenou vizuální komunikaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované publikování prezentací**
+  Python pracovní postupy mohou generovat soubory PPSX ze šablon DOT pro distribuci obsahu.
+
+* **Potrubí pro doručení prezentací**
+  Převod spojuje zdroje dokumentů se systémy publikování slidů zaměřenými na zobrazování.
+
+* **Hromadná tvorba vizuálních výstupů**
+  Programové procesy podporují škálovatelnou výrobu souborů připravených pro prezentaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

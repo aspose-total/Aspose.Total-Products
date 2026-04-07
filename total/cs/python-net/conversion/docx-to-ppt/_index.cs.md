@@ -64,7 +64,44 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX to PPT conversion transforms word processing documents into presentation files for visual storytelling, reporting, and collaborative communication. This conversion helps reuse textual content in a format designed for slide-based delivery.
+
+Through Python APIs, DOCX-to-PPT conversion can be integrated into automated content pipelines, enterprise presentation systems, and educational publishing workflows. It enables consistent and scalable presentation creation from written sources.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Presentation Development from Documents**  
+  Converts DOCX files into slide decks for business, training, or educational use.
+
+* **Content Repurposing for Visual Communication**  
+  Helps transform written material into audience-friendly presentations.
+
+* **Report-to-Slides Workflows**  
+  Enables document-based reports to be reused in presentation environments.
+
+* **Legacy Presentation Compatibility**  
+  Supports workflows that require classic presentation formats.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automated Slide Deck Export**  
+  Systems can convert DOCX reports into PPT files automatically.
+
+* **Batch Presentation Creation**  
+  Python scripts can generate presentation files from large document collections.
+
+* **Enterprise Content Transformation**  
+  Document content can be programmatically repurposed into presentation materials.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DIF إلى WordML في بايثون يحول بيانات DIF المهيكلة إلى مستندات معالجة كلمات مبنية على XML مناسبة للأنظمة التي تتطلب صيغ مستندات موجهة للترميز. هذا مفيد للتشغيل البيني، ومعالجة المستندات المهيكلة، وسير العمل الذي يستفيد من تمثيل XML.
+
+تجعل واجهات برمجة التطبيقات في بايثون تحويل DIF إلى WordML فعالًا للأنظمة الآلية التي تعالج أو تتحقق أو تحول المستندات برمجيًا. يدعم خطوط أنابيب قابلة للتوسع حيث يجب أن تتحول البيانات المصدر المهيكلة إلى مخرجات مستندات مهيكلة ذات قابلية قراءة عالية للآلات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء مستندات مبنية على XML**
+  تحويل ملفات DIF إلى WordML لسير العمل الذي يعتمد على صيغ مستندات XML مهيكلة.
+
+* **تكامل النظام وتبادل البيانات**
+  استخدام WordML عندما تحتاج المستندات المحوّلة إلى التفاعل مع أنظمة أخرى تدعم XML.
+
+* **أرشفة موجهة للترميز**
+  الحفاظ على محتوى المستند بصيغة مناسبة للتخزين المهيكل والمعالجة.
+
+* **معالجة المستندات برمجيًا**
+  إنشاء مخرجات يسهل فحصها أو تحويلها أو التحقق منها في سير عمل تقني.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط أنابيب مستندات قابلة للقراءة آليًا**
+  أتمتة تحويل DIF إلى WordML للأنظمة التي تعطي أولوية لتبادل المستندات المهيكلة.
+
+* **تكامل سير عمل XML**
+  دمج التحويل في خدمات بايثون التي تعالج وتحول الأصول القائمة على الترميز.
+
+* **إخراج مهيكل عالي الحجم**
+  إنشاء مستندات WordML بالجملة من مصادر DIF مع تحكم برمجي ثابت.
+
+* **سلاسل التحقق والتحويل**
+  استخدام التحويل الآلي كخطوة في سير عمل معالجة المستندات المدفوع بـ XML الأكبر.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,41 @@ Používáme API [Aspose.Words for Python via .NET](https://products.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to Images conversion in Python APIs renders OpenDocument text templates into image outputs for visual sharing, preview generation, and static publishing. This is useful when document content must be displayed consistently across platforms without relying on editable source formats.
+
+The conversion benefits automation by enabling scalable rendering pipelines for previews, thumbnails, web assets, and document snapshots that can be generated programmatically and distributed widely.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování vizuálního náhledu**  
+  Vytváří statické reprezentace obsahu dokumentu pro rychlé prohlížení.
+
+* **Sdílení napříč platformami**  
+  Usnadňuje zobrazování obsahu tam, kde je podpora dokumentů omezená.
+
+* **Podpora publikování**  
+  Vytváří obrazová aktiva pro web, reportování nebo archivaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Pipeline pro tvorbu miniatur**  
+  Hromadně generuje náhledové obrázky z OTT souborů.
+
+* **Pracovní postupy publikování obsahu**  
+  Převádí šablony na vizuální aktiva pro portály nebo dokumentační stránky.
+
+* **Automatizované archivování snímků**  
+  Uchovává stavy dokumentu jako needitovatelné obrazové výstupy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

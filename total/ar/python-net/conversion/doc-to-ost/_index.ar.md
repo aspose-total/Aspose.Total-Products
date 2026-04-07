@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل المستند إلى OST يُعد المحتوى المستمد من المستندات لتدفقات العمل المرتبطة ببيانات صندوق البريد غير المتصل وبيئات البريد المتزامنة. وهو مفيد في السيناريوهات التي يجب فيها توافق معلومات المستند مع هياكل تخزين رسائل المؤسسة.
+
+استخدام واجهات برمجة تطبيقات بايثون لمعالجة DOC إلى OST يعزز جاهزية الأتمتة، يدعم المعالجة المعيارية، ويقلل من العمل اليدوي في عمليات المؤسسة المتعلقة بالبريد.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تحضير بيانات صندوق البريد**
+  تحويل المحتوى المستند إلى المستندات لتدفقات العمل التي تتفاعل مع تخزين البريد غير المتصل.
+
+* **دعم التواصل المؤسسي**
+  مزامنة مخرجات المستند مع بيئات الرسائل المستخدمة في أنظمة البريد المتزامنة.
+
+* **دمج تدفق عمل الاحتفاظ**
+  حفظ أو معالجة المحتوى المستمد من المستندات ضمن عمليات موجهة لصناديق البريد.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **أتمتة تخزين البريد**
+  إعداد محتوى المستند برمجيًا لتدفقات عمل المؤسسة المتعلقة بـ OST.
+
+* **وظائف تحويل واسعة النطاق**
+  أتمتة معالجة المستندات حيث يتطلب معالجة متوافقة مع صناديق البريد.
+
+* **خطوط الامتثال والاحتفاظ**
+  استخدام خطوات تحويل مكتوبة لدعم بيئات رسائل البيانات المتحكم فيها.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

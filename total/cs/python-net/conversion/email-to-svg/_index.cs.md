@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu E
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod e‑mailu na SVG v Pythonu umožňuje vykreslit obsah zprávy do škálovatelných vektorových grafiky pro vizuální použití ve vysokém rozlišení. To je cenné, když snímky e‑mailů musí zůstat ostré napříč velikostmi obrazovek, vloženou grafikou nebo generovanými designovými aktivy.
+
+Zvyšuje automatizaci tím, že vytváří škálovatelné vizuální výstupy, které lze programově vložit do dashboardů, reportů, rozhraní a publikovacích pracovních postupů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Škálovatelná vizualizace e‑mailu**  
+  Převádějte e‑maily do SVG souborů pro ostré vykreslení v různých velikostech.
+
+* **Vkládání do dashboardů a webu**  
+  Používejte vektorové výstupy v prohlížečových systémech, které zobrazují náhledy zpráv.
+
+* **Opětovné použití grafiky ve vysokém rozlišení**  
+  Zachovejte vizuály e‑mailů pro reporty, designová aktiva nebo prezentační materiály.
+
+* **Flexibilní pracovní postupy vykreslování**  
+  Podporujte systémy, které potřebují kompaktní a škálovatelné vizuální reprezentace.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizace webových náhledů**  
+  Generujte SVG náhledy e‑mailů pro rozhraní, která vyžadují responzivní grafiku.
+
+* **Programové vkládání grafiky**  
+  Vkládejte vektorové verze e‑mailů do automatizovaných reportů a souhrnů.
+
+* **Škálovatelná prezentace archivů**  
+  Vykreslujte vizuály zpráv konzistentně napříč zařízeními a kontexty zobrazení.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

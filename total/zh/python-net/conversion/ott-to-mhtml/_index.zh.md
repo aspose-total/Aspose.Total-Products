@@ -53,7 +53,41 @@ outformat: MHTML
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT 到 MHTML 的转换在 Python API 中将 OpenDocument 文本模板转换为网络存档文件，这些文件将内容打包为单一的可移植页面式格式。当文档输出必须在浏览器中查看或作为自包含的网络内容保存时，这非常有价值。
+
+该转换通过从模板一致地生成可共享、轻量级的 Web 就绪制品来提升自动化，这些制品可以存储、传输或嵌入更广泛的数字工作流中。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **网页存档生成**  
+  从文档模板创建自包含的页面输出。
+
+* **可移植查看**  
+  使内容更容易在友好的浏览器环境中打开。
+
+* **单文件保存**  
+  将格式化的文档输出打包为一个可传输的文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化网页快照创建**  
+  批量将 OTT 文件渲染为归档的网页文档。
+
+* **基于浏览器的分发**  
+  支持将模板输出作为网页可查看文件共享的工作流。
+
+* **内容保存流水线**  
+  以紧凑的可移植格式存储格式化的文档状态。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

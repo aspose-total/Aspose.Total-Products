@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu F
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FlatOPC to MSG conversion using Python APIs allows XML-based document package content to be transformed into a structured message file format commonly used for individual email items and related data. This is useful for workflows that require standalone message objects for storage, review, transfer, or downstream processing.
+
+This conversion strengthens automation strategies by enabling direct transformation of document content into reusable message assets that fit operational pipelines, communication archives, and record-handling systems.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Standalone Message File Creation**  
+  Convert FlatOPC documents into MSG files for independent storage and handling of message content.
+
+* **Document-to-Message Repurposing**  
+  Reuse structured document information in a message format suitable for communication-based workflows.
+
+* **Case and Record Management**  
+  Store individual converted messages for organized review, indexing, or retrieval.
+
+* **Interoperable Content Exchange**  
+  Use MSG output to move document-derived message content between systems and teams efficiently.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Event-Driven Message Conversion**  
+  Automation improves this scenario by generating MSG files whenever new FlatOPC content is produced.
+
+* **Workflow Record Packaging**  
+  The topic enhances automated workflows by converting documents into message files for traceable operational records.
+
+* **Bulk Communication Asset Creation**  
+  Programmatic processes can create MSG outputs in batches for notifications, approvals, or archiving.
+
+* **Repository Integration**  
+  Automated pipelines can send converted MSG files into content management and retention systems.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

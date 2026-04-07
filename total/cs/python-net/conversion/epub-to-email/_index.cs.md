@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu E
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+EPUB to EMAIL conversion in Python enables teams to transform digital publication content into email-ready formats for communication, review, and distribution workflows. It is useful when structured book or document content must be repurposed for messaging systems, archival processes, or content delivery pipelines.
+
+In automation-focused environments, EPUB to EMAIL conversion supports scalable content transformation, faster document sharing, and seamless integration with notification systems, document platforms, and workflow engines built with Python.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Distribuce obsahu**  
+  Convert EPUB files into email-compatible content for direct sharing across internal or external communication workflows.
+
+* **Integrace publikování do workflow**  
+  Use converted email output to move publication content into approval, review, or editorial pipelines.
+
+* **Automatizovaná oznámení**  
+  Transform digital documents into email-based messages that can be triggered programmatically in business systems.
+
+* **Příprava archivace obsahu**  
+  Prepare EPUB content for environments where email-style packaging is used for retention or audit purposes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Plánované doručování dokumentů**  
+  Automation can convert EPUB files into EMAIL output at defined intervals for recurring content distribution.
+
+* **Routing obsahu založený na workflow**  
+  Python-driven processes can convert and route publication content into messaging pipelines without manual handling.
+
+* **Dynamické publikovací pipeline**  
+  EPUB to EMAIL conversion supports systems that generate communication-ready outputs from evolving content sources.
+
+* **Operace hromadného zpracování**  
+  Large EPUB collections can be programmatically converted to streamline enterprise-scale document transformation tasks.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

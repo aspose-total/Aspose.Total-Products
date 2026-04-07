@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu I
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ICS na DOT převod pomocí Python API umožňuje transformovat kalendářová data do souborů šablon Word. Tento přístup umožňuje začlenit informace o plánování do opakovaně použitelných šablon dokumentů pro strukturované reportování.
+
+Automatizované Python workflow umožňují převádět soubory ICS do formátů šablon, které lze znovu použít v různých procesech generování dokumentů, čímž se zvyšuje konzistence a efektivita.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Opakovaně použitelné šablony plánování**  
+  Převést kalendářová data do šablon dokumentů pro konzistentní reportování.
+
+* **Dokumentace řízená šablonami**  
+  Vložit struktury událostí do opakovaně použitelných formátů šablon Word.
+
+* **Strukturovaný návrh workflow**  
+  Vytvořit šablony, které podporují standardizovanou tvorbu dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Pipelines generování šablon**  
+  Automaticky vytvářet DOT šablony ze souborů ICS.
+
+* **Systémy automatizace dokumentů**  
+  Používat kalendářové šablony v automatizovaném generování dokumentů.
+
+* **Škálovatelná infrastruktura reportování**  
+  Převádět velké objemy kalendářových dat do opakovaně použitelných šablon.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

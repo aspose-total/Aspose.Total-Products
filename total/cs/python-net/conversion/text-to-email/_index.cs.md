@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod textu na e‑mail pomocí Python API umožňuje převést prostý textový obsah na strukturované e‑mailové zprávy pro komunikaci, archivaci a doručování v rámci pracovních postupů. Je užitečný pro systémy, které potřebují generovat odchozí zprávy, opakovaně použitelné šablony nebo obsah připravený k odeslání z dynamických textových zdrojů.
+
+Tento převodní přístup podporuje automatizaci tím, že surový text přemění na e‑mailové komponenty, které lze směrovat přes notifikační systémy, zákaznickou komunikaci, reportingové kanály nebo integrované obchodní pracovní postupy s vyšší konzistencí a rychlostí.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Automatizovaná generace zpráv**  
+  Převádí prostý text na obsah připravený k odeslání e‑mailem pro upozornění, aktualizace a transakční komunikaci.
+
+* **Komunikace založená na šablonách**  
+  Pomáhá standardizovat text do strukturovaných e‑mailových formátů pro opakovatelnou obchodní komunikaci.
+
+* **Upozornění v pracovních postupech**  
+  Podporuje odesílání provozních aktualizací z automatizovaných systémů interním nebo externím příjemcům.
+
+* **Kanály distribuce obsahu**  
+  Umožňuje balení textových informací pro publikaci a oslovování prostřednictvím e‑mailu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Plánované doručování upozornění**  
+  Automatizace může převést vygenerovaný text na e‑mailové zprávy pro časově naplánovaná stavová oznámení a připomenutí.
+
+* **Komunikace systém‑uživatel**  
+  Text vytvořený aplikacemi nebo skripty lze převést na e‑mailové zprávy pro automatizovanou interakci s uživateli.
+
+* **Dávkové pracovní postupy zasílání zpráv**  
+  Velké množství textového obsahu lze programově převést na e‑mailové výstupy pro škálovatelnou distribuci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

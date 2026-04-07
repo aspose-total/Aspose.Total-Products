@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MSG 到 DOT 的转换将电子邮件消息转换为文字处理模板文件，可用作可重复使用的文档基础。当需要将来源于电子邮件的结构或布局转化为可重复的文档模式时，这非常有帮助。
+
+在自动化使用场景中，MSG 到 DOT 的转换支持基于模板的文档创建和标准化的报告流程。它使组织能够从重复出现的电子邮件内容来源构建可重复的输出。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **从电子邮件内容创建模板**  
+  使用转换后的消息作为可重复文档结构的基础。
+
+* **标准化文档**  
+  为重复的运营或行政使用创建统一的模板。
+
+* **可重复使用的内容框架**  
+  保留消息布局和内容模式，以便将来生成文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **模板生成流水线**  
+  将 MSG 文件转换为 DOT 模板，用于重复的文档创建任务。
+
+* **可重复的报告工作流**  
+  在自动化报告或案例文档系统中使用来源于电子邮件的模板。
+
+* **格式标准化**  
+  从入站通信内容构建受控的文档结构。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

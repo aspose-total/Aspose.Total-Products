@@ -65,7 +65,47 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod Wordu do TSV pomocí Python API převádí obsah zpracování textu do hodnot oddělených tabulátory pro strukturovanou výměnu textových dat. To je užitečné, když je třeba exportovat informace odvozené z dokumentu v jednoduchém, přenosném formátu, který zachovává oddělení bez použití čárek.
+
+V automatizačních scénářích podporuje převod do TSV škálovatelné zpracování dat, zejména tam, kde jsou výstupy oddělené tabulátory preferovány pro importy, skriptování nebo interoperabilitu se systémy, které zpracovávají strukturovaný prostý text.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Export strukturovaného textu**
+  Převádí obsah dokumentu do výstupu odděleného tabulátory pro čistou výměnu dat.
+
+* **Příprava importu dat**
+  Umožňuje snadnější načtení extrahovaných informací do nástrojů, které podporují vstup TSV.
+
+* **Zpracování přátelské ke skriptům**
+  Podporuje lehké textové pracovní postupy pro parsování a transformaci.
+
+* **Alternativa k oddělování čárkami**
+  Pomáhá zachovat přehlednost, když exportované hodnoty mohou obsahovat čárky.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované vytváření souborů s oddělovači**
+  Generuje výstupy TSV ze souborů Word pro rutinní import a zpracování úloh.
+
+* **Dávková extrakce dat**
+  Převádí kolekce dokumentů do strukturovaných souborů oddělených tabulátory ve velkém měřítku.
+
+* **Výměna vhodná pro pipeline**
+  Používá výstupy TSV ve skriptech, validačních rutinách a následné automatizaci.
+
+* **Pracovní postupy modernizace archivů**
+  Převádí obsah starých dokumentů na přístupný strukturovaný text pro širší opětovné využití.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

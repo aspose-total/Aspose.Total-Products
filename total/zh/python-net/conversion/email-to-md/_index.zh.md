@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python 中的 Email 到 MD 转换将邮件内容转换为 Markdown，以实现轻量、可移植且版本友好的文本文档。它在需要将电子邮件信息重新用于文档、知识库、开发者工作流或发布系统时尤为有价值。
+
+此转换通过使电子邮件内容更易于解析、存储、转换和发布，从而提升自动化水平，在以文本为主的流水线中以最小的格式开销实现跨平台使用。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **知识库发布**
+  将电子邮件转换为 Markdown，用于文档门户和内部维基。
+
+* **版本控制归档**
+  将重要沟通内容保存在适合仓库追踪的文本格式中。
+
+* **内容简化**
+  将复杂的电子邮件格式简化为干净、可移植的标记，以便重复使用。
+
+* **面向开发者的工作流**
+  在技术团队使用基于文本的系统管理内容时，使用 Markdown 输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **收件箱到维基自动化**
+  将选定的电子邮件转换为 Markdown 页面，以供可搜索的知识平台使用。
+
+* **基于仓库的文档更新**
+  自动将转换后的消息内容提交到版本化的内容流水线中。
+
+* **静态发布工作流**
+  将 Markdown 邮件输出导入生成器和内容自动化系统。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

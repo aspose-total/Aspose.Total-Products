@@ -65,7 +65,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX в Excel преобразование позволяет трансформировать документы обработки текста в форматы таблиц, подходящие для численного анализа и структурированной обработки данных. Этот процесс извлекает табличную или структурированную информацию из файлов DOCX и конвертирует её в форматы, совместимые с электронными таблицами.
+
+Python API позволяют интегрировать преобразование DOCX‑в‑Excel в автоматизированные системы обработки данных, обеспечивая масштабируемые конвейеры трансформации документов для отчётности, аналитики и корпоративных рабочих процессов с данными.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Извлечение таблиц из документа**  
+  Преобразует таблицы DOCX в листы электронных таблиц для анализа данных.
+
+* **Трансформация структурированных данных**  
+  Извлекает данные из документов в форматы, совместимые с электронными таблицами.
+
+* **Обработка данных отчётов**  
+  Обеспечивает преобразование документальных отчётов в наборы данных таблиц.
+
+* **Миграция контента в системы таблиц**  
+  Способствует переносу структурированного содержимого документов в инструменты электронных таблиц.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Автоматизированные конвейеры отчётности данных**  
+  Отчёты DOCX могут автоматически преобразовываться в таблицы для аналитики.
+
+* **Пакетное преобразование документов в таблицы**  
+  Автоматизация на Python может преобразовать большие объёмы файлов DOCX в файлы Excel.
+
+* **Корпоративная интеграция данных**  
+  Данные из документов могут динамически экспортироваться в таблицы для систем бизнес‑аналитики.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
@@ -114,7 +151,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
       </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل XLTM إلى RTF في بايثون يتيح تحويل قوالب إكسل الممكّنة بالماكرو إلى مستندات نصية غنية تتوازن بين دعم التنسيق والتوافق الواسع. هذا مفيد عندما يجب مشاركة المحتوى المستند إلى المصنفات بصيغة مستند نصي تظل مرنة عبر تطبيقات مختلفة.
+
+في سير العمل الآلي، يدعم تحويل XLTM إلى RTF قابلية نقل المحتوى، يبسط معالجة المستندات عبر الأنظمة، ويساعد على توحيد إنشاء النص المنسق من قوالب جداول البيانات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إخراج نص منسق**  
+  يحوّل محتوى قالب جدول البيانات إلى مستندات نصية غنية تحافظ على بنية التنسيق الأساسية.
+
+* **مشاركة عبر التطبيقات**  
+  يدعم تبادل المستندات عبر الأنظمة التي تتطلب صيغة نصية مرنة وقابلة للقراءة على نطاق واسع.
+
+* **توثيق قائم على القوالب**  
+  يساعد على إنشاء مستندات نصية قابلة للقراءة من قوالب المصنفات المهيكلة لأغراض الأرشفة أو التحرير.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء نص غني تلقائيًا**  
+  ينتج ملفات RTF من قوالب XLTM في سير عمل إنشاء المستندات القابلة للتكرار.
+
+* **خطوط أنابيب المستندات المتوافقة مع الأنظمة القديمة**  
+  يدعم البيئات التي تعتمد على مخرجات نصية منسقة متوافقة على نطاق واسع.
+
+* **تحويل جماعي للمستندات النصية**  
+  يتيح تحويلًا قابلًا للتوسع لقوالب المصنفات إلى ملفات نصية غنية للاستخدام اللاحق.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

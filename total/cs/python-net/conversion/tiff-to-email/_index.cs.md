@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TIFF to Email conversion using Python APIs enables teams to transform high-resolution image documents into email-ready content that can be reviewed, shared, or archived within communication workflows. This is valuable for organizations that need to move scanned forms, visual reports, or document images into accessible messaging formats without manual recreation.
+
+In automation environments, TIFF to Email conversion supports faster document distribution, streamlined communication handling, and better workflow continuity. It helps connect image-based records with notification systems, approval processes, and digital correspondence pipelines.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Sdílení naskenovaných dokumentů**
+  Převádí skeny založené na TIFF do výstupu kompatibilního s e‑mailem pro rychlé interní nebo externí šíření.
+
+* **Upozornění workflow**
+  Umožňuje připojit nebo vložit vizuální obsah dokumentu do komunikačních pracovních postupů používaných pro aktualizace stavu nebo upozornění.
+
+* **Doručování provozních záznamů**
+  Podporuje odesílání dokumentů odvozených z obrázků prostřednictvím standardizovaných e‑mailových kanálů pro sledovatelnost a konzistenci komunikace.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizace odesílání dokumentů**
+  Automaticky převádí příchozí soubory TIFF do formátů připravených pro e‑mail, aby je bylo možné směrovat týmům nebo zainteresovaným stranám.
+
+* **Integrace schvalovacího workflow**
+  Umožňuje naskenované formuláře a vizuální záznamy přejít přímo do automatizovaných procesů revize a schvalování e‑mailů.
+
+* **Zprávy řízené událostmi**
+  Podporuje programové spouštěče, které generují e‑mailové výstupy z TIFF dokumentů při výskytu obchodních událostí.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

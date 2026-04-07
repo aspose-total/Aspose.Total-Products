@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل OTT إلى CSV في واجهات برمجة تطبيقات بايثون يحول قوالب النصوص OpenDocument إلى بيانات مُنظمة ومفصولة تكون أسهل في المعالجة والتبادل والتحليل عبر أنظمة الأعمال الحديثة. يكون ذلك مفيدًا عندما يجب تطبيع المحتوى النصي للتقارير أو الهجرة أو معالجة البيانات اللاحقة.
+
+يدعم هذا التحويل الأتمتة من خلال تحويل محتوى المستند إلى مخرجات جدولة خفيفة الوزن تتناسب مع خطوط أنابيب البيانات، والوظائف المجدولة، وتدفقات العمل المتكاملة حيث تكون الثباتية، والقابلية للنقل، والتحليل السريع أمرًا مهمًا.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **استخراج البيانات المهيكلة**  
+  يحول محتوى النص القائم على القوالب إلى صفوف وأعمدة لتسهيل المعالجة.
+
+* **تحضير التقارير**  
+  يجعل المعلومات المستندة إلى المستندات مناسبة للوحة المعلومات وتحليل الجداول.
+
+* **قابلية التفاعل بين الأنظمة**  
+  يُمكّن تبادل البيانات البسيط مع الأدوات التي تدعم استيراد النصوص المفصولة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تصدير المحتوى على دفعات**  
+  يُؤتمت تحويل ملفات OTT المتعددة إلى CSV للمعالجة الجماعية.
+
+* **تكامل خط أنابيب البيانات**  
+  يُغذي البيانات المستخرجة من المستند إلى عمليات ETL أو تدفقات التحقق.
+
+* **تحليل المستندات المجدول**  
+  يدعم الوظائف المتكررة التي تحول القوالب إلى مجموعات بيانات قابلة للقراءة آليًا.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

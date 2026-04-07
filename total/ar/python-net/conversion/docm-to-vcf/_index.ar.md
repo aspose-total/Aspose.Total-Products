@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOCM إلى VCF يحول محتوى المستندات المدعومة بالماكرو إلى ملفات بطاقات جهات الاتصال، مما يجعل الأسماء والعناوين وتفاصيل التواصل أسهل في إعادة الاستخدام ضمن سير عمل إدارة جهات الاتصال. يكون ذلك ذا قيمة عندما تحتوي المستندات على معلومات اتصال شخصية أو تنظيمية مُهيكلة.
+
+من أجل الأتمتة والقابلية للتوسع، يدعم تحويل DOCM إلى VCF استخراج جهات الاتصال، وتحديثات دفتر العناوين المتزامنة، والتحويل القابل للتكرار لتفاصيل المستند إلى سجلات اتصال محمولة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **استخراج معلومات الاتصال**
+  يحول تفاصيل الاتصال المُهيكلة من المستندات إلى ملفات بطاقات محمولة.
+
+* **تحديثات دفتر العناوين**
+  يساعد على نقل سجلات جهات الاتصال المستندة إلى المستندات إلى بيئات إدارة جهات الاتصال.
+
+* **مشاركة جهات الاتصال المحمولة**
+  يدعم تبادل موحد لمعلومات الاتصال الشخصية أو التجارية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء جهات اتصال تلقائي**
+  ينشئ ملفات VCF من مستندات DOCM التي تحتوي على بيانات الاتصال.
+
+* **تكامل CRM والدليل**
+  يدعم استيراد سجلات جهات الاتصال المستخرجة من المستندات بناءً على سير العمل.
+
+* **تحويل جهات الاتصال بالجملة**
+  يعالج عدة مستندات إلى ملفات اتصال موحدة بكفاءة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

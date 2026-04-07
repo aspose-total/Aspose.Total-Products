@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu E
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+EMLX to Word conversion in Python helps transform email messages into word processing documents suitable for editing, review, and structured reuse. This is useful when email content needs to move from communication records into document-centric business workflows.
+
+In automation pipelines, EMLX to Word conversion improves efficiency by creating editable outputs that integrate easily with review systems, repositories, and document generation processes. It supports scalable content migration from email to formal documentation.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Editable Document Creation**  
+  Convert EMLX files into Word-compatible documents for revision and reuse.
+
+* **Business Workflow Integration**  
+  Move message-based content into document processes used for reporting and collaboration.
+
+* **Formal Documentation**  
+  Turn email communication into structured files suitable for internal records.
+
+* **Content Reuse and Editing**  
+  Prepare converted outputs for refinement, annotation, and distribution.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Email-to-Document Automation**  
+  Batch-convert EMLX files into Word outputs through Python-based workflows.
+
+* **Collaborative Review Pipelines**  
+  Route generated Word documents into editing and approval systems automatically.
+
+* **Repository Population**  
+  Use conversion scripts to populate document libraries with email-derived content.
+
+* **Scalable Content Structuring**  
+  Standardize message transformation into editable documents for downstream operations.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

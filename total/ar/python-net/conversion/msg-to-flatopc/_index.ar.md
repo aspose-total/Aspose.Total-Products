@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحول عملية تحويل MSG إلى FlatOPC محتوى رسائل البريد الإلكتروني إلى تمثيل مستند مبني على XML مسطح للمعالجة المهيكلة والتشغيل البيني. يكون ذلك مفيدًا عندما يجب الحفاظ على بيانات الرسالة في تنسيق مفصل وقابل للقراءة آليًا يتناسب مع سير عمل المستندات المتقدم.
+
+للتشغيل الآلي، تدعم عملية تحويل MSG إلى FlatOPC التحقق، والتحويل، والفحص، وتبادل النظام إلى نظام. وهي ذات صلة خاصة في خطوط الأنابيب التي تعطي أولوية للمعالجة المهيكلة للمستندات ومعالجة XML الشفافة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **معالجة المستندات القائمة على XML**  
+  تمثيل محتوى البريد الإلكتروني المحول في تنسيق مناسب للتحليل المهيكل.
+
+* **تبادل البيانات القابل للتشغيل البيني**  
+  تمكين نقل أكثر سلاسة لبيانات المستند عبر الأنظمة المتكاملة.
+
+* **فحص المستند المتقدم**  
+  دعم مراجعة مفصلة لبنية المستند في بيئات ذات أتمتة عالية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **سير عمل التحويل**  
+  تحويل ملفات MSG إلى FlatOPC للمعالجة القائمة على XML وخطوات التحويل اللاحقة.
+
+* **خطوط أنابيب التحقق**  
+  استخدام المخرجات المهيكلة للفحوصات الآلية، والمقارنات، وسير العمل القائم على المخططات.
+
+* **مهام تكامل الأنظمة**  
+  تبادل محتوى المستند المستمد من الرسائل بين الأدوات باستخدام تنسيقات XML قابلة للقراءة آليًا.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

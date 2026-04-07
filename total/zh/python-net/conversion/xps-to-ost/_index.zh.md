@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 XPS 转换为 OST 有助于将固定布局文档内容转换为与同步电子邮件存储工作流关联的邮箱数据格式。这在需要将文档衍生的通信内容准备为结构化邮箱处理、迁移支持或与企业消息环境集成的场景中非常有用。
+
+自动化通过实现可重复的转换、减少手动邮箱准备任务，并支持更大规模的文档到邮件数据工作流来提升该过程。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **邮箱数据准备**
+  将 XPS 衍生的通信内容转换为面向 OST 的结构，以供工作流使用。
+
+* **企业消息支持**
+  将文档转换与同步的邮箱环境和存储流程对齐。
+
+* **迁移就绪**
+  为涉及邮箱迁移或合并的工作流准备基于文档的通信数据。
+
+* **结构化通信保留**
+  在以消息为中心的存储策略中保留文档来源的内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化邮件数据转换**
+  当 XPS 文档进入消息工作流时触发 OST 相关的转换步骤。
+
+* **批量处理操作**
+  以编程方式转换大量 XPS 文件，以供企业处理。
+
+* **归档管道集成**
+  将转换后的输出路由至受管存储和同步过程。
+
+* **系统迁移工作流**
+  支持为基础设施变更自动准备通信数据。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

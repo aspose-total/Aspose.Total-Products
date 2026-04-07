@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOT إلى PST يحول قوالب المستندات إلى تدفقات عمل جدول التخزين الشخصي لأرشيفات البريد الإلكتروني والرسائل. هذا مفيد عندما يجب أن يصبح المحتوى المستمد من القوالب جزءًا من تخزين الاتصالات الأوسع أو عمليات الترحيل.
+
+يمكن لواجهات برمجة تطبيقات بايثون أتمتة المعالجة المتعلقة بتحويل DOT إلى PST بحيث تتمكن المؤسسات من تبسيط إعداد الأرشفة ودمج الاتصالات المستندة إلى المستندات في تدفقات بيانات صندوق البريد.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إعداد حزمة الأرشيف**
+  تحويل محتوى الرسائل المستند إلى DOT إلى تدفقات عمل موجهة إلى PST للتخزين أو الترحيل.
+
+* **دمج بيانات صندوق البريد**
+  دمج مادة التواصل المستندة إلى القوالب في هياكل الأرشيف الشخصية.
+
+* **دعم الاحتفاظ بالاتصالات**
+  الحفاظ على المحتوى القابل لإعادة الاستخدام ضمن عمليات إدارة بيانات البريد الإلكتروني الأوسع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **دعم تدفق عمل الأرشفة الآلي**
+  يمكن لسكريبتات بايثون إعداد المحتوى المستمد من DOT للتعامل مع PST ومهام الاحتفاظ.
+
+* **دمج عملية الترحيل**
+  يساعد التحويل قوالب المستندات على الاندماج في تدفقات عمل انتقال صندوق البريد.
+
+* **أرشفة الاتصالات القابلة للتوسع**
+  يمكن للأنظمة البرمجية توحيد إعداد الأرشفة لأحجام كبيرة من محتوى القوالب.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

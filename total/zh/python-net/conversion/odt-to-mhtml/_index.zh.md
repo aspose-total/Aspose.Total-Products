@@ -53,7 +53,47 @@ outformat: MHTML
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT 到 MHTML 的转换将 OpenDocument 文本文件转换为一种网页存档格式，该格式将内容及相关资源合并为单个文件。这对于以易于共享、预览或存储的浏览器友好形式保存文档非常有价值。
+
+在自动化工作流中，ODT 到 MHTML 的转换支持基于网页的分发、文档捕获和便携式归档。Python API 使得可重复生成自包含的输出，以用于内容发布和审阅系统。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **浏览器友好型保存**  
+  将文档转换为可作为网页内容打开和查看的格式。
+
+* **便携式文档共享**  
+  将内容打包成单个文件，便于传输和存储。
+
+* **档案捕获**  
+  有助于在网页兼容的格式中保留文档的外观和结构。
+
+* **嵌入式内容分发**  
+  支持偏好自包含内容文件的工作流。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化网页档案生成**  
+  Python 工作流可以将 ODT 文件转换为 MHTML，以实现基于浏览器的访问。
+
+* **批量保存任务**  
+  大量文档集可以自动归档为自包含的网页文件。
+
+* **内容发布准备**  
+  系统可以为利益相关者或门户生成便携式查看版本。
+
+* **文档快照工作流**  
+  可以以编程方式创建 MHTML 输出，用于审阅或长期存储。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

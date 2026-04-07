@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование документа в SXC изменяет содержимое Word в формат таблицы, связанный со старыми рабочими процессами OpenOffice, делая его полезным для наследуемой совместимости и извлечения структурированных данных. Это поддерживает организации, поддерживающие совместимость с более ранними экосистемами таблиц.
+
+С помощью Python API преобразование DOC в SXC можно автоматизировать, чтобы сократить ручной ввод и поддерживать повторяемые наследуемые потоки данных.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Совместимость со старыми таблицами**
+  Преобразуйте таблицы документа в SXC для старых сред OpenOffice.
+
+* **Сохранение структурированных данных**
+  Сохраняйте значения из документа в наследуемом формате, ориентированном на таблицы.
+
+* **Поддержка миграции**
+  Связывайте документы Word с системами, которые всё ещё используют исторические стандарты таблиц.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Автоматизация наследуемых рабочих процессов**
+  Автоматически генерируйте файлы SXC из источников DOC, где продолжают использоваться старые инструменты.
+
+* **Конвейеры пакетного преобразования**
+  Преобразуйте несколько документов в структурированные файлы таблиц без ручного вмешательства.
+
+* **Задачи системной совместимости**
+  Программно соединяйте современные источники документов с наследуемыми рабочими процессами таблиц.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

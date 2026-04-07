@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MSG 到 WordML 的转换将电子邮件消息转换为基于 XML 的文字处理标记，以实现结构化文档表示和转换。当文档内容必须保持机器可读并适用于高级解析或互操作性任务时，这非常有价值。
+
+对于自动化，MSG 到 WordML 的工作流支持 XML 处理、转换管道和系统集成场景。它们帮助将电子邮件衍生的内容与结构化文档工程和编程式操作相连接。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **结构化 XML 文档输出**  
+  以基于标记的文字处理格式表示消息内容。
+
+* **可互操作的内容交换**  
+  支持依赖机器可读文档结构的工作流。
+
+* **高级转换支持**  
+  实现对转换后电子邮件内容的详细解析和修改。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **XML 处理管道**  
+  将 MSG 文件转换为 WordML，以用于结构化转换和验证任务。
+
+* **系统集成工作流**  
+  使用基于标记的格式在自动化工具之间交换文档内容。
+
+* **编程式文档工程**  
+  在基于 XML 的环境中对邮件衍生的内容应用脚本逻辑。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

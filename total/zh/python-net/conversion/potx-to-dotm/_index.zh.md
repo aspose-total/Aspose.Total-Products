@@ -66,7 +66,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+POTX 到 DOTM 的转换使用 Python API 将 PowerPoint 模板转换为支持宏的 Word 模板，以实现高级、可重复使用的文档工作流。当基于模板的文档除了标准化格式外，还必须包含自动化逻辑或交互行为时，这非常有价值。
+
+在现代自动化流水线中，POTX 到 DOTM 的转换支持为依赖可重复、规则驱动文档的部门提供可扩展的模板生成。它帮助将结构化内容复用与可编程文档行为相结合。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **支持宏的模板创建**
+  将演示文稿模板转换为带有自动化支持的可重复使用的文档模板。
+
+* **高级模板工作流**
+  帮助为需要嵌入操作或脚本逻辑的流程准备模板。
+
+* **标准化的动态文档**
+  支持创建一致且功能增强的文档模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **可编程模板交付**
+  自动将 POTX 源文件生成 DOTM 文件，用于内部文档系统。
+
+* **可重复的文档自动化**
+  支持每个生成的文档都继承结构和自动化行为的工作流。
+
+* **模板库现代化**
+  实现将演示资产自动转换为功能性宏启用模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

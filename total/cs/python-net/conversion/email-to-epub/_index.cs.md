@@ -46,7 +46,48 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu E
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Email to EPUB conversion in Python converts message content into reflowable digital publications that are easier to consume across reading devices and long-form content systems. It is valuable when email collections, newsletters, or serialized communications need to become portable reading materials.
+
+Převod e‑mailů do EPUB v Pythonu převádí obsah zpráv na přizpůsobitelné digitální publikace, které jsou snazší k čtení na různých čtecích zařízeních a v systémech pro dlouhé texty. Je užitečný, když je potřeba, aby sbírky e‑mailů, zpravodaje nebo sériové komunikace byly přenosné čtecí materiály.
+
+This conversion supports automation by enabling message-based content to be packaged, distributed, and repurposed in scalable digital publishing workflows.
+
+Tento převod podporuje automatizaci tím, že umožňuje balení, distribuci a opětovné využití obsahu založeného na zprávách v škálovatelných pracovních postupech digitálního publikování.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Balíčkování zpravodaje**
+  Převést sérii e‑mailů do souborů EPUB pro strukturované digitální čtení.
+
+* **Přenosná distribuce znalostí**
+  Přeměnit vybrané e‑mailové obsahy na přenosné publikace pro interní i externí publikum.
+
+* **Uchování dlouhých textů**
+  Uchovat důležité komunikace v čtenářsky přívětivém formátu pro budoucí odkaz.
+
+* **Opětovné využití obsahu**
+  Znovu použít archivy zpráv jako zdroje ve stylu e‑knih pro školení nebo dokumentaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované sestavení publikace**
+  Kombinovat vybrané e‑maily do výstupů EPUB pro plánovanou distribuci obsahu.
+
+* **Balíčkování znalostní báze**
+  Přeměnit e‑mailové vlákna na čitelné digitální příručky pomocí automatizovaných pipeline.
+
+* **Víceplatformní doručování obsahu**
+  Generovat soubory EPUB z kanálů zpráv pro škálovatelné sdílení napříč zařízeními.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

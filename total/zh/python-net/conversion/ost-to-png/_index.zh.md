@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OST 转 PNG 转换将邮箱内容转换为高质量的光栅图像格式，非常适合截图、视觉记录和网页兼容的输出。当需要将电子邮件数据以清晰的静态图像形式保存时，这非常有用。
+
+Python API 有助于自动化 OST 转 PNG 转换，以实现可扩展的视觉归档和内容交付。这提升了在需要将邮箱信息作为图像资产用于报告、合规或审查系统的工作流中的运营效率。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **高质量视觉记录**  
+  将邮箱内容转换为 PNG，以实现清晰且详细的基于图像的保存。
+
+* **网页和门户兼容性**  
+  支持在内部仪表板和界面中使用渲染的电子邮件视觉效果。
+
+* **审计和证据快照**  
+  帮助以静态且便于审查的图像形式保留通信记录。
+
+* **内容共享工作流**  
+  使消息视觉内容更易于分发，无需邮箱访问。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **图像导出自动化**  
+  Python 脚本将 OST 项目转换为 PNG，以实现可扩展的渲染工作流。
+
+* **合规快照生成**  
+  自动化流程从邮箱归档中创建清晰的图像证据。
+
+* **视觉交付流水线**  
+  编程转换支持在数字运营和报告中使用电子邮件图像。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

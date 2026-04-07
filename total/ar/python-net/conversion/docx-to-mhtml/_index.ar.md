@@ -53,7 +53,44 @@ outformat: MHTML
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOCX إلى MHTML يحول مستندات معالجة النصوص إلى ملفات أرشيف ويب تجمع محتوى HTML والموارد المرتبطة في ملف واحد. يحافظ هذا التنسيق على بنية المستند مع تمكين العرض عبر الويب.
+
+تسمح واجهات برمجة التطبيقات بلغة بايثون بدمج تحويل DOCX إلى MHTML في أنظمة النشر الآلية، وسير عمل أرشفة الويب، ومنصات مشاركة المستندات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء أرشيف ويب**  
+  يقوم بتحويل مستندات DOCX إلى أرشيفات ويب بملف واحد.
+
+* **نشر المستند على الويب**  
+  يتيح مشاركة محتوى المستند كملفات متوافقة مع الويب.
+
+* **عرض المستند دون اتصال**  
+  يسمح بعرض المستندات دون الاعتماد على موارد خارجية.
+
+* **حفظ المحتوى**  
+  يحافظ على التنسيق والموارد داخل ملف أرشيف واحد.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تصدير أرشيف ويب تلقائي**  
+  يمكن للأنظمة تحويل ملفات DOCX إلى أرشيفات MHTML تلقائيًا.
+
+* **خطوط أنابيب نشر المستندات الدفعي**  
+  يمكن لسكربتات بايثون إنشاء ملفات أرشيف ويب من المستندات.
+
+* **أنظمة توزيع المحتوى**  
+  يمكن تحويل المستندات ديناميكيًا إلى تنسيقات أرشيف متوافقة مع الويب.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

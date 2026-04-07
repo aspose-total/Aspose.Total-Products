@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX na ODS konverze převádí obsah šablony Word do formátu tabulky OpenDocument pro strukturovanou manipulaci s daty a pracovní postupy založené na otevřených standardech. Je užitečná, když je potřeba představit informace z dokumentu v editovatelném tabulkovém formátu bez spoléhání se na proprietární formáty.
+
+Tato konverze zlepšuje automatizaci tím, že umožňuje produkci otevřených tabulkových souborů pomocí Pythonu, které lze v rozsahu integrovat do systémů pro reportování, revize a zpracování dat.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Otevřené pracovní postupy s tabulkami**
+  Převádějte obsah dokumentu do editovatelných souborů tabulek pomocí otevřených standardů.
+
+* **Opětovné použití dat**
+  Přeneste strukturované informace ze šablon do tabulkových obchodních procesů.
+
+* **Interoperabilní reportování**
+  Podporujte spolupráci napříč systémy, které používají otevřené formáty tabulek.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Opakované exporty tabulek**
+  Automaticky generujte ODS soubory z DOTX šablon pro reportovací cykly.
+
+* **Otevřené datové kanály**
+  Směřujte převedený výstup tabulek do systémů postavených na formátech založených na standardech.
+
+* **Automatizace dokument‑na‑tabulku**
+  Rozšiřujte transformaci opakovaného obsahu šablon do tabulkových aktiv.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod OFT na EPUB pomocí Python API převádí šablony e‑mailů Outlooku do přizpůsobitelných digitálních publikací vhodných pro strukturované čtení a distribuci. To je cenné, když je obsah založený na e‑mailu třeba přetvořit do dlouhých, přenosných a čtenářsky přívětivých digitálních dokumentů.
+
+V automatizovaných prostředích podporuje převod OFT na EPUB transformační pipeline obsahu, které přesouvají informace ze šablon zpráv do publikačních pracovních postupů. Zlepšuje opětovné využití obsahu, přístupnost a škálovatelnou digitální distribuci.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Přetvoření digitálního publikování**  
+  Převést obsah OFT do souborů EPUB pro přenosnou a čtenářsky přívětivou elektronickou distribuci.
+
+* **Strukturované doručování obsahu**  
+  Použít výstup EPUB, když je třeba informace ze šablony e‑mailu konzumovat jako digitální publikaci.
+
+* **Balení znalostního obsahu**  
+  Zabalit opakovaně použitelné komunikační materiály do formátu vhodného pro příručky nebo návody.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované publikační pipeline**  
+  Transformovat šablony OFT na soubory EPUB jako součást pracovních postupů výroby digitálního obsahu.
+
+* **Vícekanálová distribuce obsahu**  
+  Přetvořit šablony zpráv na publikovatelná aktiva pro širší distribuční kanály.
+
+* **Programová konverze archivů**  
+  Převést komunikační šablony do strukturovaných digitálních knih pro prohledávatelné repozitáře.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

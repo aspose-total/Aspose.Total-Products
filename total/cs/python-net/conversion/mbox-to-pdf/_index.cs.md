@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod MBOX do PDF transformuje archiv poštovních schránek na dokumenty s pevnou rozlohou, které jsou snadno prohlížitelné, sdílené a uchovatelné napříč platformami. Jedná se o jeden z nejužitečnějších formátů pro archivaci e‑mailů, protože zachovává čitelnost a zároveň podporuje dlouhodobé ukládání a širokou dostupnost.
+
+S Python API lze převod MBOX do PDF automatizovat pro účely shody, reportování a workflow uchovávání dokumentů, což organizacím pomáhá efektivně a konzistentně zpracovávat velké datové sady poštovních schránek.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Dlouhodobá archivace e‑mailů**
+  Převést obsah poštovní schránky do PDF souborů pro stabilní a široce akceptované uchování.
+
+* **Příprava sdílených záznamů**
+  Distribuovat obsah e‑mailu v pevně daném formátu, který je snadno otevřitelný a přehledný.
+
+* **Dokumentace pro shodu**
+  Podpořit potřeby správy a auditu pomocí strukturovaných exportů dokumentů z poštovních archivů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Hromadná generace PDF**
+  Automaticky převádět soubory MBOX do PDF pro uspořádanou archivaci a revizi.
+
+* **Integrace do pipeline shody**
+  Vložit převedené e‑mailové dokumenty do workflow uchovávání, auditu nebo právních procesů.
+
+* **Škálování dokumentů na bázi Pythonu**
+  Zvládat úlohy exportu poštovních schránek ve velkém objemu pomocí programového převodu do PDF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

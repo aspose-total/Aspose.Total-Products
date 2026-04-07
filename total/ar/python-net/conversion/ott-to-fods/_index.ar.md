@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل OTT إلى FODS في واجهات برمجة تطبيقات بايثون يحول قوالب النصوص OpenDocument إلى مستندات جدول بيانات XML مسطحة قابلة للقراءة، منظمة، ومناسبة للمعالجة على مستوى النظام. هذا مفيد لسير العمل الذي يفضّل تمثيلات جدول بيانات مفتوحة ومبنية على النص.
+
+يدعم التحويل الأتمتة من خلال جعل محتوى المستند أسهل في التحكم بالإصدارات، الفحص، والدمج في عمليات صديقة لـ XML حيث الشفافية، الهيكلية، والتشغيل البيني مهمة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء جدول بيانات مفتوح**  
+  يحول قوالب النص إلى مستندات جدول بيانات مسطحة منظمة.
+
+* **تسلسل البيانات القابلة للقراءة**  
+  ينتج محتوى جدول بيانات مبني على النص سهل الفحص برمجياً.
+
+* **تشغيل البيني لسير العمل**  
+  يتناسب مع الأنظمة التي تعتمد على معايير المستند المفتوح ومعالجة XML.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط أنابيب البيانات القائمة على XML**  
+  يدفع المحتوى المستمد من القوالب إلى سير عمل جدول بيانات مسطح ومنظم.
+
+* **تصديرات صديقة للتحكم بالإصدارات**  
+  يدعم إنشاء تلقائي لمستندات جدول بيانات سهلة المقارنة.
+
+* **معالجة قائمة على المعايير**  
+  تمكّن التحويلات القابلة للتكرار في بيئات ذات تنسيق مفتوح.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

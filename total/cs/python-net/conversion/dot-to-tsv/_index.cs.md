@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod DOT na TSV mění šablony dokumentů na tabulkově oddělené datové soubory, které jsou jednoduché, přenosné a snadno zpracovatelné. To je cenné, když je strukturovaný obsah šablon třeba exportovat do formátu založeného na oddělovačích, který podporuje spolehlivou výměnu dat.
+
+Pomocí Python API lze workflowy převodu DOT na TSV automatizovat, aby podporovaly čisté extrahování dat, interoperabilitu systémů a škálovatelné zpracování dokumentů na data.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Export strukturovaného textu**
+  Převést soubory DOT na TSV pro čisté zpracování dat založených na oddělovačích.
+
+* **Systémově přátelská výměna dat**
+  Použijte výstup TSV, kde jsou tabulátory preferovány pro předvídatelné oddělení polí.
+
+* **Extrahování obsahu šablony**
+  Přetvořte informace o dokumentu do jednoduchého formátu pro skripty a provozní nástroje.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované extrahování dat**
+  Python skripty mohou převádět šablony DOT na TSV soubory pro opakované zpracovatelské úlohy.
+
+* **Podpora ETL workflow**
+  Převod pomáhá nasazovat data odvozená ze šablon do pipeline a integračních systémů.
+
+* **Škálovatelné textové exporty**
+  Programová transformace umožňuje generování TSV ve velkém objemu z repozitářů dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

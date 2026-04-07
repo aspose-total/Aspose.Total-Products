@@ -66,7 +66,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PowerPoint 到 RTF 的转换在 Python 中将演示文稿内容转换为一种兼具可编辑性和广泛兼容性的富文本格式。当需要在可能不需要完整 Word 文档功能的系统之间以格式化文本共享幻灯片材料时，这非常有用。
+
+对于自动化使用场景，RTF 转换支持轻量级文档交换、文本保留以及灵活地集成到内容工作流中。当兼容性和可读的格式化同等重要时，它是一种实用的格式。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **格式化文本导出**
+  将演示文稿内容转换为可编辑的文本，同时保留基本样式。
+
+* **跨系统文档共享**
+  支持在具有不同文字处理能力的平台之间进行内容交换。
+
+* **演示文稿归档**
+  帮助以简单且可移植的文本格式保存基于幻灯片的信息。
+
+* **编辑审阅工作流**
+  使幻灯片内容在轻量级文档环境中更易于修订。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **轻量级文档转换**
+  自动生成 RTF 文件，以便于分发和编辑。
+
+* **内容交换管道**
+  支持需要在文本处理系统之间具备广泛兼容性的工作流。
+
+* **批量文本转换**
+  实现大量演示文稿转换为可管理的文档输出。
+
+* **互操作出版流程**
+  帮助组织在混合格式环境中使用演示文稿内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

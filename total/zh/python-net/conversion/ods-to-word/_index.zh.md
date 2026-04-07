@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS 到 WORD 的转换使电子表格文件能够转换为适合编辑和文档编写的文字处理文档。此过程允许将电子表格数据集成到文档工作流和报告系统中。
+
+基于 Python 的 API 提供了自动化电子表格到文档转换的编程能力。这使得可扩展的文档流水线、自动化报告以及高效的文档管理工作流成为可能。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **电子表格到文档报告**  
+  将电子表格数据集转换为用于报告的文字处理文档。
+
+* **文档生成**  
+  将电子表格数据转换为结构化文档。
+
+* **数据呈现**  
+  在可读的文档布局中呈现电子表格内容。
+
+* **内容迁移**  
+  将电子表格存档转换为可编辑的文档格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化报告流水线**  
+  Python 工作流自动将电子表格数据转换为文档。
+
+* **批量文档处理**  
+  系统处理多个电子表格并生成文档输出。
+
+* **动态文档创建**  
+  电子表格输入动态填充结构化文档。
+
+* **企业工作流集成**  
+  转换系统与文档管理基础设施集成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

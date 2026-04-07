@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Конвертация WordML в FODS экспортирует документно‑ориентированный структурированный контент в формат Flat OpenDocument Spreadsheet, что полезно для рабочих процессов со спредшитами открытого стандарта и обработки на основе XML. Он поддерживает среды, которые отдают приоритет прозрачным, переносимым и ориентированным на стандарты форматам данных.
+
+API на Python помогают автоматизировать конвертацию WordML в FODS, преобразуя таблицы и структурированный текст в открытые представления электронных таблиц, подходящие для масштабируемой интеграции и процессов валидации.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Открытая конверсия электронных таблиц**
+  Преобразует таблицы WordML в плоский открытый формат электронных таблиц для стандартизированной обработки.
+
+* **Обработка данных, совместимая с XML**
+  Поддерживает рабочие процессы, которым выгодны читаемые и переносимые XML‑структуры электронных таблиц.
+
+* **Обмен на основе стандартов**
+  Обеспечивает обмен структурированными данными в экосистемах открытых документов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Конвейеры экспорта в открытом формате**
+  Автоматизирует конвертацию из WordML в FODS для рабочих процессов, соответствующих стандартам.
+
+* **Задачи валидации и трансформации**
+  Использует плоский XML‑вывод электронных таблиц в автоматизированных процедурах инспекции или трансформации.
+
+* **Модернизация репозитория**
+  Помогает мигрировать табличные данные, основанные на документах, в открытые, обрабатываемые форматы электронных таблиц.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

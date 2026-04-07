@@ -65,7 +65,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM 到 PPSM 的转换将启用宏的文档转换为启用宏的幻灯片文件，以实现直接的演示交付并嵌入自动化行为。当演示需要即时播放和高级脚本功能时，这非常有用。
+
+对于以自动化为重点的工作流，DOCM 到 PPSM 的转换支持可重复的幻灯片生成，同时保留可提升受控演示体验的自动化操作。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **可播放的宏幻灯片**
+  创建可包含高级交互或自动化行为的幻灯片输出。
+
+* **自动化演示交付**
+  支持从结构化文档内容生成的可直接使用的演示。
+
+* **受控显示体验**
+  帮助为播放行为重要的环境准备幻灯片资源。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **程序化幻灯片生成**
+  将 DOCM 文件转换为 PPSM 输出，作为重复视觉工作流的一部分。
+
+* **嵌入式自动化保留**
+  保持引导式或脚本化幻灯片交付所需的演示行为。
+
+* **可扩展的演示分发**
+  支持批量创建可直接运行的启用宏的幻灯片文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

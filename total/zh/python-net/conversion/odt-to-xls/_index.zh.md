@@ -66,7 +66,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT 转 XLS 转换将 OpenDocument 文本内容转换为传统的电子表格格式，便于表格编辑、审阅和报告。 当结构化文档内容必须转移到广泛认可的电子表格工作流中时，它尤其有价值。
+
+Python API 使 ODT 转 XLS 转换在涉及遗留系统兼容性、报告准备和批量文档处理的自动化场景中变得高效。 它通过将文档内容转化为可编辑、可分析的表格，提高了效率。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **遗留电子表格转换**  
+  将文档表格移动到传统的电子表格格式。
+
+* **业务数据审阅**  
+  使提取的信息更易于排序、过滤和检查。
+
+* **报告工作流支持**  
+  帮助准备来自文档的数据，以便进行分析和展示。
+
+* **系统兼容性**  
+  支持仍需使用旧电子表格格式的环境。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化文档表格导出**  
+  Python 作业可以将 ODT 内容转换为 XLS 文件，以供下游使用。
+
+* **批量遗留格式处理**  
+  大量文档集合可以自动转换为电子表格。
+
+* **数据结构化流水线**  
+  提取的值可以在写入 XLS 输出之前进行标准化。
+
+* **运营报告集成**  
+  转换后的电子表格可以为遗留的审阅和规划工作流提供数据。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل MBOX إلى OTT يحول أرشيفات صناديق البريد إلى قوالب مستندات مفتوحة، مما يسمح بإعادة استخدام هياكل المحتوى المستمدة من البريد الإلكتروني في سير عمل إنشاء المستندات المعياري. هذا مفيد عندما ترغب المؤسسات في بناء صيغ محتوى قابلة للتكرار بناءً على الاتصالات المؤرشفة.
+
+تجعل واجهات برمجة التطبيقات في بايثون من الممكن أتمتة إنشاء OTT من ملفات MBOX، مما يحسن الاتساق، يقلل من الإعداد اليدوي، ويدعم عمليات موجهة بالقوالب قابلة للتوسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء القالب المفتوح**
+  تحويل محتوى صندوق البريد إلى قوالب OTT قابلة لإعادة الاستخدام لإنشاء مستندات متسقة.
+
+* **تخطيطات محتوى موحدة**
+  الحفاظ على بنية مستندة إلى البريد الإلكتروني في تنسيق مصمم للتنسيق القابل للتكرار.
+
+* **توثيق مدفوع بالقوالب**
+  استخدام محتوى صندوق البريد المحول لدعم سير عمل المستندات المفتوحة المستقبلية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **بناء القالب الآلي**
+  إنشاء ملفات OTT من رسائل البريد الإلكتروني المختارة كجزء من خطوط أنابيب المحتوى القابلة للتكرار.
+
+* **توحيد سير العمل المفتوح**
+  استخدام أتمتة بايثون للحفاظ على هياكل القوالب المتسقة من أرشيفات صناديق البريد.
+
+* **إعداد مستندات قابل للتوسع**
+  دمج القوالب المحولة في أنظمة إنشاء المستندات الأوسع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

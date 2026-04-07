@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM 转 Excel 转换将启用宏的文档转换为可直接使用的电子表格工作簿，使得文档内容（如表格、列表和记录）能够更高效地进行分析、编辑和重复使用。当必须将 DOCM 格式捕获的业务数据迁移到适合计算的环境中时，这非常有价值。
+
+为了实现自动化和可扩展性，DOCM 转 Excel 工作流支持结构化提取、报告管道以及将文档内容可重复转换为业务电子表格。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **基于电子表格的分析**
+  将文档数据移动到工作簿形式，以便进行排序、过滤和审阅。
+
+* **运营报告**
+  将结构化内容转换为用于定期报告流程的电子表格。
+
+* **数据可重用性**
+  使文档中包含的信息更易于编辑并在团队之间集成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **批量工作簿创建**
+  自动将多个 DOCM 文件转换为电子表格输出，以实现大规模处理。
+
+* **分析准备**
+  将文档衍生的数据输入自动化的电子表格和报告工作流。
+
+* **结构化数据交换**
+  支持文档系统与基于电子表格的工具之间的程序化交接。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

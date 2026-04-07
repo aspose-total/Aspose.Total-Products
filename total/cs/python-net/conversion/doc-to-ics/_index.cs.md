@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod dokumentu do formátu ICS transformuje z dokumentu odvozené podrobnosti událostí do kalendářových souborů, které lze importovat do plánovacích systémů a digitálních plánovačů. Je cenný pro pracovní postupy, kde informace o schůzkách, termínech nebo schůzkových událostech pocházejí z dokumentů Word.
+
+Použití Python API k automatizaci převodu DOC na ICS zvyšuje efektivitu plánování, snižuje chyby při ručním zadávání a podporuje bezproblémovou integraci mezi úložišti dokumentů a workflow řízenými kalendářem.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Plánování událostí**
+  Extrahujte data a podrobnosti událostí z dokumentů a převádějte je na kalendářové položky.
+
+* **Distribuce schůzek**
+  Přeměňte agendy nebo pozvánky na importovatelné soubory ICS pro účastníky.
+
+* **Správa termínů**
+  Převádějte obsah dokumentů související s plánem na kalendářové položky pro sledování a připomenutí.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Generování kalendářových souborů**
+  Automaticky vytvářejte soubory ICS z DOC‑založených rozvrhů, oznámení nebo plánů.
+
+* **Automatizace připomínek pracovního postupu**
+  Převádějte termíny v dokumentech na kalendářové události pro koordinaci týmu a následné kroky.
+
+* **Integrace systému do kalendáře**
+  Programově směrujte extrahovaná data z dokumentů do plánovacích ekosystémů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

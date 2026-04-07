@@ -46,7 +46,41 @@ Wer versucht für einen Python-Entwickler, eine OTT-zu-MBOX-Konvertierungsfunkti
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Die OTT‑zu‑MBOX‑Konvertierung in Python‑APIs wandelt OpenDocument‑Textvorlagen in das Mailbox‑Archivformat um, um Sammlungen von e‑Mail‑ähnlichen Nachrichten zu speichern. Dies ist nützlich, wenn generierte Kommunikationen gruppiert, übertragen oder in einer mailbox‑kompatiblen Struktur aufbewahrt werden müssen.
+
+Die Konvertierung unterstützt die Automatisierung, indem sie die dokumentbasierte Nachrichtengenerierung ermöglicht, direkt in Archivierungs‑ und Migrationspipelines zu fließen, die auf mailbox‑basierte Speicherung für Skalierbarkeit und Organisation angewiesen sind.
+
+{{% blocks/products/pf/agp/feature-section-col title="Wichtige Anwendungsfälle" %}}
+
+* **Mailbox‑Archivvorbereitung**  
+  Erzeugt Nachrichteninhalte, die für gruppierte E‑Mail‑Speicherung geeignet sind.
+
+* **Kommunikationsdokumentation**  
+  Bewahrt generierte Inhalte in einem portablen Mailbox‑Format.
+
+* **Massen‑Nachrichtenpaketierung**  
+  Hilft, mehrere generierte Nachrichten für Transfer oder Aufnahme zu organisieren.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* **Automatisierte Mail‑Archivgenerierung**  
+  Wandelt vorlagenbasierte Kommunikationen in MBOX‑Container um.
+
+* **Unterstützung von Migrations‑Workflows**  
+  Bereitet aus Dokumenten abgeleitete Nachrichten für Mailbox‑Importprozesse vor.
+
+* **Batch‑Aufbewahrungspipelines**  
+  Speichert wiederkehrende generierte Nachrichten für Compliance‑ oder Prüfungszwecke.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

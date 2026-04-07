@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to PST conversion in Python APIs converts OpenDocument text templates into personal storage mailbox structures for email-oriented archiving and transport workflows. This is useful when document-generated communications must be preserved in a mailbox-centric format.
+
+The conversion supports automation by helping organizations move template-based message content into storage workflows that support archival, migration, and large-scale communication management.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Mailbox Archive Creation**  
+  Packages generated communication content into a storage-oriented mail format.
+
+* **Retention and Transfer Support**  
+  Helps preserve and move message-based content efficiently.
+
+* **Template-Driven Communication Storage**  
+  Reuses document templates for mailbox-compatible output.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automated Archive Generation**  
+  Converts OTT-based message content into PST outputs in bulk.
+
+* **Compliance-Oriented Workflows**  
+  Supports record retention and structured mail storage processes.
+
+* **Communication Migration Pipelines**  
+  Feeds generated content into enterprise mail transfer workflows.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,44 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将文本转换为 OST 指的是将纯文本内容转换为适用于离线邮箱式存储工作流的数据。这在涉及同步通信环境、归档准备或系统生成的消息数据集（旨在结构化邮箱访问）的场景中相关。
+
+在自动化环境中，此转换有助于为有组织的存储模型准备基于文本的通信数据，支持大规模处理、运营连续性以及与受管消息生态系统的集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **离线邮件数据准备**  
+  将文本内容转换为适用于离线邮箱工作流的结构化形式。
+
+* **消息存储支持**  
+  帮助组织通信数据，以供围绕同步邮箱访问设计的系统使用。
+
+* **归档数据结构化**  
+  支持为受管存储环境准备基于文本的记录。
+
+* **企业通信处理**  
+  实现将文本内容大规模处理为面向邮箱的格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **邮箱数据生成**  
+  自动化可以将基于文本的通信数据结构化，以用于离线访问工作流。
+
+* **批量处理管道**  
+  大型文本数据集可以通过编程方式准备用于邮箱式存储操作。
+
+* **运营连续性系统**  
+  自动化转换支持在受管环境中一致地处理通信记录。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu V
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod VCF na DOTM převádí data kontaktních karet do šablonových souborů Word s makry, což umožňuje kombinovat znovupoužitelné rozvržení s pokročilým chováním dokumentů. To je užitečné pro organizace, které potřebují strukturované šablony s editovatelnými a programovatelnými vlastnostmi.
+
+Při automatizaci pomocí Python API podporuje převod VCF na DOTM škálovatelné generování šablon, což pomáhá pracovním postupům vytvářet konzistentní dokumenty založené na kontaktech, které odpovídají dynamickým provozním požadavkům.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Šablony s makry**  
+  Převést data VCF kontaktů do souborů DOTM pro pokročilé znovupoužitelné struktury dokumentů.
+
+* **Opakovatelný formát kontaktů**  
+  Standardizovat, jak se informace o kontaktu zobrazují v generovaných šablonách.
+
+* **Řízení operačních dokumentů**  
+  Podporovat prostředí, která se spoléhají na logiku šablon a strukturované výstupy dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované vytváření šablon**  
+  Generovat šablony DOTM z více záznamů kontaktů pomocí dávkového zpracování.
+
+* **Kontaktní aktiva připravená pro workflow**  
+  Připravit znovupoužitelné soubory šablon pro automatizované interní systémy dokumentace.
+
+* **Škálovatelné doručování šablon**  
+  Použít Python API k efektivnímu vytváření a správě šablon kontaktů s makry.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

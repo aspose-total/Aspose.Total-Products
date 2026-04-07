@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu X
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XPS to ICS conversion with Python APIs enables information from fixed-layout documents to be transformed into calendar-compatible files that support scheduling and event distribution. This is valuable when XPS documents contain meeting details, appointment data, event schedules, or deadline-related information that must be shared in a structured calendar format.
+
+In automated environments, this conversion improves scheduling efficiency, reduces manual event creation, and allows document-driven processes to connect directly with calendar workflows, reminders, and planning systems.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Extrahování a sdílení rozvrhu**  
+  Převádí časově orientované informace z XPS souborů do záznamů ICS, které lze distribuovat jako kalendářní události.
+
+* **Automatizace schůzek a termínů**  
+  Podporuje vytváření souborů připravených pro kalendář z dokumentových oznámení o schůzkách nebo potvrzení rezervací.
+
+* **Koordinace termínů**  
+  Pomáhá převádět milníky nebo termíny uložené v dokumentech na akční kalendářní záznamy.
+
+* **Podpora plánování napříč systémy**  
+  Umožňuje, aby data z dokumentů proudila do kalendářně kompatibilních pracovních postupů pro širší koordinaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatické generování souborů událostí**  
+  Systémy mohou převádět XPS rozvrhy do souborů ICS vždy, když jsou vytvořeny nové dokumenty událostí.
+
+* **Integrace pracovního postupu připomínek**  
+  Převoděné kalendářní soubory lze použít v automatizovaných pipelinech připomínek a oznámení.
+
+* **Zpracování opakujících se rozvrhů**  
+  Dávkové úlohy mohou extrahovat a převádět více XPS souborů řízených daty do výstupů připravených pro kalendář.
+
+* **Převod dokumentů do plánovacích řetězců**  
+  Provozní pracovní postupy mohou propojit tvorbu dokumentů přímo se systémy plánování prostřednictvím programové generace souborů ICS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

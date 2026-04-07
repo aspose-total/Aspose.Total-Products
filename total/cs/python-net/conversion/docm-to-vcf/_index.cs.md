@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod DOCM na VCF transformuje obsah dokumentu s makry do souborů vizitek, což usnadňuje opětovné využití jmen, adres a komunikačních údajů v pracovních postupech správy kontaktů. Je užitečný, když dokumenty obsahují strukturované osobní nebo organizační kontaktní informace.
+
+Pro automatizaci a škálovatelnost podporuje převod DOCM na VCF extrakci kontaktů, synchronizované aktualizace adresářů a opakovatelnou transformaci detailů obsažených v dokumentech do přenosných kontaktních záznamů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Extrahování kontaktních informací**
+  Převádí strukturované kontaktní údaje z dokumentů do přenosných souborů vizitek.
+
+* **Aktualizace adresáře**
+  Pomáhá přesunout kontaktní záznamy založené na dokumentech do prostředí správy kontaktů.
+
+* **Přenosné sdílení kontaktů**
+  Podporuje standardizovanou výměnu osobních nebo firemních kontaktních informací.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované generování kontaktů**
+  Vytváří VCF soubory z DOCM dokumentů obsahujících kontaktní data.
+
+* **Integrace s CRM a adresářem**
+  Podporuje import kontaktních záznamů odvozených z dokumentů na základě pracovních postupů.
+
+* **Hromadná konverze kontaktů**
+  Efektivně zpracovává více dokumentů do standardizovaných souborů kontaktů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

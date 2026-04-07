@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod SXC na DOT transformuje obsah tabulky do formátu šablony dokumentu, který může sloužit jako znovupoužitelný základ pro budoucí generování dokumentů. To je užitečné, když je třeba vložit informace odvozené z tabulky do standardizovaných rozvržení pro opakované obchodní nebo provozní použití.
+
+Prostřednictvím Python API podporuje převod SXC na DOT automatizaci řízenou šablonami tím, že umožňuje konzistentní strukturu dokumentu, rychlejší tvorbu výstupů a lepší kontrolu nad formátováním v rámci vysokokapacitních pracovních toků.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Příprava šablony**  
+  Převádí obsah tabulky do znovupoužitelných šablon dokumentů pro opakující se komunikační potřeby.
+
+* **Standardizované formátování**  
+  Pomáhá udržovat konzistentní strukturu a prezentaci napříč generovanými dokumenty.
+
+* **Dokumentace procesů**  
+  Podporuje tvorbu opakovatelných šablon pro formuláře, souhrny a provozní záznamy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Systémy zpráv založené na šablonách**  
+  Automatizuje tvorbu DOT šablon, které mohou později generovat mnoho jednotných dokumentů.
+
+* **Hromadná strukturalizace obsahu**  
+  Využívá Python API k přípravě více šablon odvozených z tabulek pro škálovatelné pracovní toky dokumentů.
+
+* **Konzistentní výstupní pipeline**  
+  Zajišťuje, že následná generace dokumentů začíná od řízené, znovupoužitelné struktury.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,9 +46,46 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX в ICS преобразует информацию, основанную на документах, в файлы событий календаря, соответствующие стандарту iCalendar. Эта трансформация позволяет преобразовать информацию о расписании, хранящуюся в документах, в форматы, совместимые с календарем.
+
+Python API позволяют автоматизировать извлечение данных о событиях из документов и создание файлов ICS, поддерживая системы автоматического планирования и интеграцию с календарями.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **Извлечение расписания событий**  
+  Преобразует детали событий, основанные на документах, в события календаря.
+
+* **Рабочие процессы интеграции календаря**  
+  Позволяет импортировать расписания из документов в системы календаря.
+
+* **Автоматизация встреч и событий**  
+  Обеспечивает автоматическое создание событий календаря из документов.
+
+* **Системы распределения расписаний**  
+  Позволяет документам, содержащим информацию о событиях, генерировать файлы календаря.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **Автоматическое создание файлов событий**  
+  Системы могут автоматически преобразовывать расписания событий в DOCX в файлы ICS.
+
+* **Конвейеры планирования на основе документов**  
+  Автоматизация на Python может генерировать записи календаря из документов.
+
+* **Корпоративная интеграция календаря**  
+  Данные документов могут быть преобразованы в файлы ICS для автоматического планирования.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

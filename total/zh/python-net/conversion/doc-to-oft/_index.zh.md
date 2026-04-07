@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+文档到OFT的转换将Word内容转换为可在消息和通信工作流中重复使用的电子邮件模板文件。 当文档内容作为可重复外联、通知或标准化通信的基础时，这尤其有用。
+
+Python API使DOC到OFT的转换成为自动化内容生成的一部分，帮助团队创建一致的消息模板并提升通信效率。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **可重用的电子邮件模板**
+  将文档草稿转换为可重复使用的OFT模板，以实现可重复的通信。
+
+* **标准化消息**
+  确保在重复的电子邮件工作流中结构和措辞保持一致。
+
+* **基于模板的外联**
+  将正式文档内容重新用于可重用的消息框架。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板生成**
+  从DOC内容生成OFT文件，用于活动或通知系统。
+
+* **文档驱动的消息管道**
+  将已批准的文档文本转换为可用于下游个性化的模板。
+
+* **可扩展的通信运营**
+  以编程方式维护大量可重用的消息格式库。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

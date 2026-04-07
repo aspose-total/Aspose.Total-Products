@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF to CSV conversion transforms rich text documents into structured, delimiter-based data that is easier to sort, filter, import, and analyze across business and operational systems. It is valuable when text-heavy content needs to be normalized into rows and columns for reporting, migration, or downstream processing.
+
+In automation workflows, RTF to CSV supports efficient data extraction from legacy documents, enabling faster ingestion into analytics pipelines, databases, and integration layers that depend on lightweight tabular formats.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Data Extraction from Reports**  
+  Converts formatted document content into structured records for easier analysis and reuse.
+
+* **System Migration Support**  
+  Helps move legacy text-based information into modern applications that rely on CSV inputs.
+
+* **Bulk Record Processing**  
+  Enables large sets of RTF files to be transformed into machine-readable datasets for operations teams.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Document-to-Database Pipelines**  
+  Automation can extract fields from RTF documents and convert them into CSV for direct import into data systems.
+
+* **Batch Content Normalization**  
+  Repetitive document collections can be standardized into a consistent tabular structure without manual editing.
+
+* **Scheduled Reporting Workflows**  
+  Programmatic conversion allows recurring document exports to feed dashboards, audits, and business intelligence processes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

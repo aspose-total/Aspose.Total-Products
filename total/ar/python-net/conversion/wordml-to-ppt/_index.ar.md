@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML إلى PPT يحول محتوى المستند إلى ملفات عرض تقديمي للتحرير والمراجعة والتسليم في سير عمل الشرائح المعتمد. وهو ذو قيمة عندما يجب إعادة تعبئة معلومات المستند في عروض تقديمية للتواصل أو لأغراض التدريب.
+
+تمكن واجهات برمجة التطبيقات Python من تحويل WordML إلى PPT عن طريق أتمتة بناء الشرائح ودعم التحويلات القابلة للتكرار من مستند إلى عرض تقديمي عبر الفرق والأنظمة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء عرض تقديمي قابل للتحرير**
+  يحوّل محتوى WordML إلى ملفات PPT للمراجعة ومزيد من التحسين.
+
+* **نقل المعرفة**
+  يساعد على تحويل المستندات المكتوبة إلى مواد تعليمية قائمة على العروض التقديمية.
+
+* **دعم التواصل التجاري**
+  يجعل المحتوى السردي أو المنظم أسهل في تقديمه لأصحاب المصلحة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط أنابيب من مستند إلى شريحة**
+  يُؤتمت إنشاء ملفات PPT من تقارير WordML أو الملخصات أو الوثائق.
+
+* **تحديثات عرض تقديمي متكررة**
+  يدعم التحديث المتكرر لأصول العروض التقديمية من المستندات المصدر.
+
+* **أتمتة توزيع المحتوى**
+  يُمكّن من نشر مجموعات الشرائح القابلة للتحرير بشكل مبسط وعلى نطاق واسع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

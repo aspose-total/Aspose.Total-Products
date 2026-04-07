@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل OTT إلى EML في واجهات برمجة تطبيقات بايثون يحول قوالب نص OpenDocument إلى ملفات رسائل بريد إلكتروني قياسية تحافظ على بنية الرسالة للتخزين والنقل والمعالجة اللاحقة. هذا مفيد عندما يجب أن يصبح محتوى المستند قطعًا محمولة من البريد الإلكتروني.
+
+يدعم التحويل الأتمتة من خلال تمكين إنشاء ملفات البريد الإلكتروني المدفوعة بالمستندات التي يمكن أرشفتها أو مراجعتها أو استيرادها أو معالجتها بواسطة الأنظمة المتوافقة مع البريد الإلكتروني في سير عمل قابل للتكرار.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء ملف البريد الإلكتروني**  
+  ينتج ملفات رسائل قياسية من قوالب المستند القابلة لإعادة الاستخدام.
+
+* **تحضير الأرشفة**  
+  ينشئ قطع بريد إلكتروني مناسبة لحفظ السجلات والنقل.
+
+* **تسليم النظام**  
+  يدعم سير العمل الذي يتطلب ملفات رسائل بدلاً من إرسال البريد الإلكتروني مباشرة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء مسودات بريد إلكتروني دفعي**  
+  يحول العديد من قوالب OTT إلى ملفات EML للمراجعة أو خطوط تسليم.
+
+* **إنشاء سجلات تلقائي**  
+  يخزن المخرجات الجاهزة للاتصال كملفات بريد إلكتروني قياسية.
+
+* **التكامل مع أنظمة معالجة البريد**  
+  يمد ملفات EML المُنشأة إلى عمليات الاستيعاب أو الأرشفة أو سير عمل الامتثال.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

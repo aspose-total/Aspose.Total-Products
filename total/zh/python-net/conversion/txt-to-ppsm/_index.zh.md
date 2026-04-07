@@ -65,7 +65,47 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 的 TXT 转 PPSM 转换将纯文本转换为宏启用的幻灯片文件，适用于需要直接显示和嵌入自动化功能的演示工作流。在演示交付和可编程行为需要协同工作的环境中，它具有重要价值。
+
+此转换通过允许基于文本的内容源输入到具有可重用逻辑和结构化演示流程的幻灯片输出中，提高了自动化准备度。它支持可扩展的生成、简化的交付，以及内容自动化与演示操作之间更好的对齐。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用的幻灯片生成**  
+  将文本内容转换为支持自动化演示行为的 PPSM 文件。
+
+* **自动化显示准备**  
+  直接从 TXT 源构建幻灯片输出，以实现受控的演示工作流。
+
+* **结构化内容交付**  
+  将书面材料转化为旨在可重复操作使用的幻灯片资产。
+
+* **高级演示打包**  
+  从简单的文本输入准备支持宏的幻灯片文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化幻灯片工作流**  
+  使用 Python API 从重复的基于文本的输入创建 PPSM 输出。
+
+* **流程控制的演示交付**  
+  生成与自动化内部演示例程保持一致的幻灯片文件。
+
+* **大批量转换流水线**  
+  高效批量将 TXT 文档转换为宏启用的幻灯片输出。
+
+* **编程化演示准备**  
+  将文本生成系统与幻灯片创建相连接，以实现可扩展的交付流程。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

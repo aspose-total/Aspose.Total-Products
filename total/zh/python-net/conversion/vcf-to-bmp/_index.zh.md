@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF 到 BMP 的转换将数字联系人卡数据转换为位图图像输出，可用于可视化归档、可打印预览和静态记录共享。当需要以通用可查看的图像形式保存联系信息以用于文档和报告工作流时，这种格式转换非常有用。
+
+在自动化环境中，VCF 到 BMP 的转换支持批量渲染联系人记录为一致的可视化资产，这些资产可以使用 Python API 进行索引、导出，并集成到文档管理或合规流水线中。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **可视化联系人归档**  
+  将联系人卡数据转换为位图图像，以实现长期的可视化记录保存。
+
+* **打印准备**  
+  生成联系信息的静态图像版本，用于打印表单或报告。
+
+* **系统兼容共享**  
+  在需要跨旧系统的简单光栅图像兼容性的情况下使用 BMP 输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量联系人渲染**  
+  自动处理多个 VCF 文件为 BMP 图像，以用于批量归档工作流。
+
+* **文档附件流水线**  
+  将渲染的 BMP 联系人快照插入自动化记录或案例文件中。
+
+* **旧系统输出交付**  
+  通过编程转换例程支持需要基于位图资产的系统。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

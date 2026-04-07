@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FODS 到 WordML 转换将平面 OpenDocument 电子表格文件转换为基于 XML 的文字处理文档，使结构化内容更容易集成到受标记驱动文档处理惠益的系统中。此格式适用于需要结构化互操作性、文档处理或面向 XML 的转换管道的工作流。
+
+对于自动化和系统集成，FODS 到 WordML 转换支持编程式文档生成、结构化内容交换以及可扩展的转换工作流。Python API 有助于自动化生成基于 XML 的文档输出，同时提升一致性并减少人工干预。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **基于 XML 的文档处理**  
+  将 FODS 内容转换为 WordML，以支持依赖结构化标记的工作流。
+
+* **系统集成支持**  
+  在文档内容必须在处理系统之间交换的场景中使用 WordML 输出。
+
+* **结构化内容转换**  
+  准备来自电子表格的信息，以供下游了解 XML 的文档处理任务使用。
+
+* **可互操作的工作流设计**  
+  支持受益于机器可读文档表示的环境。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **基于标记的转换管道**  
+  Python 工作流可以从 FODS 输入生成 WordML 文件，以进行结构化处理。
+
+* **自动化内容交换**  
+  系统可以在应用之间转换并传递基于 XML 的文档，几乎无需人工处理。
+
+* **批量 XML 文档生成**  
+  大量的 FODS 文件可以通过编程方式转换为 WordML 格式。
+
+* **可扩展的集成工作流**  
+  自动化转换支持需要结构化文档输出的高容量场景。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

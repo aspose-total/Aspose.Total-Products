@@ -53,7 +53,41 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+将文档转换为图像可将 Word 页面转换为图像文件，以便预览、共享、发布和可视化归档。当需要在 Web 和移动环境中实现固定布局渲染、轻松查看或基于图像的分发时，这非常有用。
+
+Python API 使 DOC 转图像转换高效，适用于可扩展的渲染流水线、缩略图生成、文档预览系统和自动化发布工作流。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **页面预览生成**
+  将文档页面转换为图像，以便在门户和应用中快速预览。
+
+* **可视化归档**
+  将文档外观保存为静态图像，以供审阅和参考。
+
+* **网页发布支持**
+  当文档内容必须以可视化方式嵌入在线时，使用图像输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **缩略图创建流水线**
+  自动将 DOC 文件渲染为页面图像，以供搜索和预览界面使用。
+
+* **内容分发工作流**
+  为网站、仪表板或消息系统生成文档图像。
+
+* **批量渲染任务**
+  程序化地将大规模文档集合转换为图像。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

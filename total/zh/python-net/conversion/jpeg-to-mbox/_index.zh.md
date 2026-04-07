@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 JPEG 转换为 MBOX 支持将图像内容转换为邮箱归档格式，以实现分组消息存储和迁移。当需要以常用于电子邮件收集和传输的格式批量保存视觉记录时，这非常有用。
+
+自动化通过实现图像驱动通信的系统化转换为邮箱归档，提升了该过程，从而帮助扩展归档、传输和历史记录管理工作流的规模。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **邮箱归档创建**
+  将 JPEG 文件转换为兼容 MBOX 的消息集合，以实现有序的归档存储。
+
+* **批量通信保存**
+  将基于图像的记录分组到邮箱归档中，以实现长期保留和审查。
+
+* **迁移准备**
+  准备视觉通信内容，以便转移到支持 MBOX 导入工作流的系统中。
+
+* **历史记录管理**
+  以归档形式存储图像衍生的消息，用于审计、参考和业务连续性目的。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量归档生成**
+  Python API 可以自动化将大量 JPEG 文件转换为基于 MBOX 的消息归档。
+
+* **保留工作流支持**
+  系统可以持续将基于图像的记录打包到邮箱归档中，以满足治理需求。
+
+* **跨平台传输自动化**
+  自动化流水线可以生成 MBOX 输出，以简化在支持电子邮件的环境之间的迁移。
+
+* **证据收集流程**
+  可将视觉文件以编程方式归档到邮箱结构中，以用于审查和文档工作流。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

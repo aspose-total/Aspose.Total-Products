@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM 到 XLTM 的转换将启用宏的文档转换为启用宏的电子表格模板，结合可重用的工作簿结构和高级自动化行为。这对于需要在模板中保持一致性并嵌入电子表格逻辑的组织非常有价值。
+
+为了实现自动化和规模化，DOCM 到 XLTM 的转换支持可重复的基于模板的工作簿创建，同时保留复杂电子表格工作流所需的动态功能。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **宏启用模板创建**
+  生成包含可自动化行为的可重用电子表格模板。
+
+* **高级可重用工作流**
+  支持使用内置逻辑或脚本操作的重复工作簿创建。
+
+* **标准化与灵活性**
+  帮助保持模板的一致性，同时不失去高级电子表格功能。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板流水线支持**
+  将 DOCM 文件转换为 XLTM 输出，以实现重复的工作簿生成。
+
+* **嵌入式逻辑复用**
+  使下游工作流能够使用具有高级行为的一致模板。
+
+* **可扩展的电子表格供应**
+  支持在运营中大规模分发启用宏的模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

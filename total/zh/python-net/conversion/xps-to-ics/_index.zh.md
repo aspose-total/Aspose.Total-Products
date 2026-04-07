@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 XPS 转换为 ICS，可将固定布局文档中的信息转换为支持日程安排和事件分发的日历兼容文件。当 XPS 文档包含会议细节、预约数据、事件日程或与截止日期相关的信息且必须以结构化日历格式共享时，这非常有价值。
+
+在自动化环境中，此转换提升了日程安排效率，减少了手动创建事件的工作量，并使基于文档的流程能够直接与日历工作流、提醒和计划系统相连接。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **日程提取与共享**  
+  将 XPS 文件中的基于时间的信息转换为可作为日历事件分发的 ICS 条目。
+
+* **会议和预约自动化**  
+  支持从基于文档的会议通知或预订确认中创建可用于日历的文件。
+
+* **截止日期协调**  
+  帮助将文档中存储的里程碑或截止日期转换为可操作的日历记录。
+
+* **跨系统日程支持**  
+  使文档数据能够流入日历兼容的工作流，以实现更广泛的协调。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动事件文件生成**  
+  系统可以在生成新事件文档时将 XPS 日程转换为 ICS 文件。
+
+* **提醒工作流集成**  
+  转换后的日历文件可用于自动化的提醒和通知流水线。
+
+* **循环日程处理**  
+  批处理作业可以提取并转换多个基于日期的 XPS 文件为可用于日历的输出。
+
+* **文档到计划的流水线**  
+  运营工作流可以通过编程生成的 ICS 将文档创建直接连接到日程安排系统。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

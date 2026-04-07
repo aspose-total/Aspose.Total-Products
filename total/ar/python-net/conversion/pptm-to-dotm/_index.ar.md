@@ -65,7 +65,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل PPTM إلى DOTM باستخدام واجهات برمجة بايثون يحول العروض التقديمية الممكّنة بالماكرو إلى قوالب مستندات ممكّنة بالماكرو لتدفقات العمل التي تتطلب كلًا من الهيكل القابل لإعادة الاستخدام والمنطق المدمج للأتمتة. وهو ذو صلة في البيئات التي يجب أن يدعم فيها المحتوى المحوَّل سلوك المستند المتقدم بعد التحويل.
+
+يعزز هذا التحويل القابلية للتوسع من خلال ربط المحتوى المستمد من العروض التقديمية بأنظمة القوالب الديناميكية التي يمكن إعادة استخدامها برمجيًا. وهو مناسب جيدًا لأطر أتمتة المستندات حيث تعمل المعايير والأتمتة معًا.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء قالب ممكّن بالماكرو**
+  ينتج قوالب قابلة لإعادة الاستخدام يمكنها دعم إجراءات المستند الآلية والمنطق.
+
+* **معيارية المحتوى المنظم**
+  يساعد على تحويل مواد العرض التقديمي إلى صيغ مستندات محكومة وقابلة للتكرار.
+
+* **أسس المستند الجاهزة للأتمتة**
+  يدعم إنشاء المستندات اللاحقة بناءً على أصول القالب المحوَّلة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تدفقات عمل أتمتة القوالب**
+  ينتج ملفات DOTM من محتوى PPTM لإنتاج المستندات الآلي.
+
+* **تجميع المستندات القائم على القواعد**
+  يدعم تدفقات العمل التي تقود فيها القوالب المحوَّلة توليد مخرجات قابلة للتكرار.
+
+* **توزيع المحتوى القابل للتوسع**
+  يتيح إعادة استخدام ديناميكية للقوالب المستمدة من العروض التقديمية عبر مستندات متعددة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

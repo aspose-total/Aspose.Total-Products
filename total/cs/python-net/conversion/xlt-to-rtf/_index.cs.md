@@ -65,7 +65,47 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLT na RTF konverze v Pythonu umožňuje převést soubory šablon Excelu na dokumenty ve formátu rich text, které jsou široce kompatibilní a snadno vyměnitelné napříč různými dokumentačními prostředími. To je užitečné, když je potřeba převést obsah založený na tabulkách do lehkého textového formátu, který zachovává základní formátování a zároveň zůstává vysoce přenosný.
+
+Pro automatizační scénáře XLT na RTF konverze podporuje efektivní generování dokumentů a širokou interoperabilitu. Pomáhá systémům založeným na Pythonu převádět strukturované šablony tabulek na formátovaný text, který lze sdílet, archivovat nebo zpracovávat různými následnými aplikacemi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření přenosných formátovaných dokumentů**  
+  Převádějte XLT šablony na RTF soubory pro snadné sdílení a zachování základního formátování.
+
+* **Lehká výměna obsahu**  
+  Používejte RTF výstupy, když je důležitá kompatibilita napříč různými nástroji pro dokumenty.
+
+* **Transformace strukturovaných informací**  
+  Převádějte obsah šablon tabulek na čitelné dokumenty ve formátu rich text pro provozní využití.
+
+* **Podpora archivace a revize**  
+  Připravujte formátované textové soubory vhodné pro revizi, ukládání a výměnu dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná normalizace formátu**  
+  Používejte Python API k převodu XLT souborů na RTF pro standardizované následné zpracování.
+
+* **Přenos dokumentů mezi systémy**  
+  Generujte RTF výstupy pro pracovní postupy, které přesouvají dokumenty mezi různými softwarovými prostředími.
+
+* **Dávkové konverzní operace**  
+  Zpracovávejte více XLT šablon do souborů rich text bez ručního formátování.
+
+* **Pipelines pro výměnu dokumentů**  
+  Integrujte RTF konverzi do automatizovaných systémů pro revizi, export nebo archivaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

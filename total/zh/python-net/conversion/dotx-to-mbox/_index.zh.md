@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX 到 MBOX 的转换将 Word 模板内容转换为用于存储消息集合的邮箱式电子邮件归档格式。当需要批量保留模板生成的通信以满足保留或迁移工作流时，这非常有用。
+
+使用 Python API，此转换有助于自动化消息打包、归档操作以及长期存储过程，使结构化文档内容成为基于电子邮件的记录的一部分。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **批量消息归档**
+  将基于模板的通信转换为邮箱式存储格式。
+
+* **电子邮件集合管理**
+  在单一归档结构中保留多个生成的消息。
+
+* **迁移准备**
+  支持将文档衍生的通信迁移到邮件归档的工作流。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动归档创建**
+  在计划任务中从基于 DOTX 的电子邮件内容生成 MBOX 输出。
+
+* **保留工作流**
+  将转换后的通信存储在集中归档中以满足治理需求。
+
+* **文档到邮件的整合**
+  以编程方式将重复的模板输出打包成邮箱集合。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

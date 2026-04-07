@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PST na DOT konverze v Python API převádí obsah poštovní schránky do souborů šablon Word pro opakovaně použitelné generování dokumentů. To je užitečné, když je potřeba standardizovat obsah založený na e‑mailu do opakovatelných rozvržení, která podporují konzistentní formátování a strukturovaný následný výstup.
+
+V automatizačních scénářích pomáhá PST na DOT konverze organizacím vytvářet workflow řízené šablonami z archivované komunikace. Zvyšuje efektivitu tím, že promění data poštovní schránky na opakovaně použitelné základy pro opakující se zprávy, spisové složky nebo provozní dokumenty.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření opakovaně použitelných šablon**
+  Převádí obsah odvozený z PST do souborů DOT pro opakovatelnou strukturu dokumentů.
+
+* **Standardizované rozvržení zpráv**
+  Pomáhá udržovat konzistentní formátování napříč výstupy dokumentů generovanými z e‑mailů.
+
+* **Příprava pracovního postupu dokumentů**
+  Podporuje scénáře, kde data poštovní schránky slouží jako základ pro opakující se šablony.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Generování záznamů na základě šablon**
+  Automatizované systémy mohou použít výstupy DOT k vytvoření opakovatelných toků dokumentace.
+
+* **Konzistentní formátovací pipeline**
+  Konverze zajišťuje, že archivovaný e‑mailový obsah odpovídá předdefinovaným pravidlům rozvržení.
+
+* **Škálovatelná sestava dokumentů**
+  Programové zpracování zrychluje a zjednodušuje vytváření šablon z dat poštovní schránky.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

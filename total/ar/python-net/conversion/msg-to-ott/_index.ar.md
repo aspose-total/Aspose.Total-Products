@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل MSG إلى OTT يحول محتوى رسائل البريد الإلكتروني إلى قوالب نصية لمستندات مفتوحة لإنشاء مستندات قابلة لإعادة الاستخدام وموحدة. يكون ذلك ذا قيمة عندما تحتاج الوثائق المتكررة إلى البناء من هياكل مستمدة من البريد الإلكتروني بصيغة قالب مفتوح.
+
+في بيئات الأتمتة، تدعم سير عمل MSG إلى OTT تجميع المستندات القابل للتكرار، وتنسيقًا متسقًا، وإدارة قوالب قابلة للتوسع. تساعد على تحويل أنماط التواصل إلى أصول تشغيلية قابلة لإعادة الاستخدام.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء قالب مفتوح**  
+  تحويل محتوى الرسالة إلى قوالب قابلة لإعادة الاستخدام لتوليد مستندات متكررة.
+
+* **تخطيطات مستندات متسقة**  
+  توحيد التنسيق بناءً على هياكل محتوى البريد الإلكتروني المتكررة.
+
+* **عمليات قائمة على القوالب**  
+  دعم سير عمل قابل للتكرار يبدأ بقوالب مستمدة من التواصل.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **أتمتة مكتبة القوالب**  
+  إنشاء قوالب OTT من ملفات MSG لتلبية احتياجات الوثائق المتكررة.
+
+* **توحيد سير العمل المفتوح**  
+  استخدام القوالب المحولة في الأنظمة المبنية على معالجة المستندات المفتوحة.
+
+* **تجميع مستندات قابل للتوسع**  
+  إدخال القوالب القابلة لإعادة الاستخدام في خطوط إنتاج المحتوى المؤتمتة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

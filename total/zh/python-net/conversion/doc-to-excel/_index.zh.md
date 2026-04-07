@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+文档转 Excel 转换将 Word 内容转换为支持计算、分析、排序和报告的电子表格友好输出。当文档中存储的业务信息必须变得结构化且可操作时，这非常有价值。
+
+使用 Python API 将 DOC 转换为 Excel 可实现表格和记录的自动提取，帮助组织简化报告流程、提升数据准确性，并扩展文档到电子表格的工作流。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **业务数据分析**
+  将文档表格转换为 Excel 兼容的工作表，以便进行筛选、公式运算和审阅。
+
+* **运营报告**
+  将 DOC 文件中的结构化内容迁移到用于定期报告周期的电子表格中。
+
+* **流程现代化**
+  用一致的自动化转换取代手动的文档到电子表格的复制操作。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动生成电子表格**
+  将传入的 DOC 文件转换为 Excel 输出，供数据团队和运营用户使用。
+
+* **ETL 与报告管道**
+  将可直接用于电子表格的文档内容输送到分析和报告系统中。
+
+* **定期批量转换**
+  为持续的业务工作流安排基于 Python 的文档到 Excel 导出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

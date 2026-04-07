@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+在 Python 中将 PPSM 转换为 TSV 能够将演示内容提取为制表符分隔的纯文本格式，适用于结构化数据处理和系统互操作性。当需要将基于幻灯片的信息导出为简单的分隔符记录以进行数据交换或处理时，这非常有价值。
+
+对于自动化而言，PPSM 转 TSV 转换支持高效解析、可扩展的摄取以及与依赖轻量表格格式和最小格式开销的数据工作流的流畅集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **分隔数据导出**  
+  将演示内容转换为用于解析和传输的简单结构化格式。
+
+* **系统互换支持**  
+  帮助在依赖纯文本表格格式的应用之间移动幻灯片衍生的信息。
+
+* **数据清理准备**  
+  使演示内容在结构化工作流中更易于规范化和验证。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化数据管道输入**  
+  Python 工作流可以生成 TSV 文件，以供下游系统和脚本摄取。
+
+* **批量内容提取**  
+  转换使得对多个 PPSM 文件进行可重复的处理，生成结构化文本输出。
+
+* **轻量集成工作流**  
+  编程式转换支持演示源与表格处理工具之间的快速交换。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

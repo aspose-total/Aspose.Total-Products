@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu V
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod VCF na XPS transformuje data kontaktních karet do výstupu dokumentu s pevnou rozlohou, navrženého pro konzistentní prezentaci a spolehlivé prohlížení. To je užitečné, když je třeba vizuálně zachovat kontaktní informace a distribuovat je ve stabilním formátu dokumentu.
+
+Pomocí automatizace Python API podporuje převod VCF na XPS škálovatelné generování dokumentů pro archivaci, směrování pracovních toků a strukturované doručování výstupů, kde je prioritou konzistence rozložení.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Dokumenty kontaktů s pevnou rozlohou**  
+  Převést záznamy VCF do souborů XPS pro stabilní a konzistentní prezentaci.
+
+* **Spolehlivé vizuální zachování**  
+  Udržet vzhled kontaktních informací napříč různými prostředími pro prohlížení.
+
+* **Podpora distribuce dokumentů**  
+  Použít výstup XPS pro strukturované sdílení a kontrolované doručování záznamů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Dávková generace XPS**  
+  Automaticky vytvořit soubory XPS z více VCF kontaktů.
+
+* **Archivní dokumentové řetězce**  
+  Směrovat výstupy s pevnou rozlohou do automatizovaných úložišť a systémů souladu.
+
+* **Automatizace konzistentního výstupu**  
+  Použít Python API k efektivnímu doručování standardizovaných XPS dokumentů kontaktů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

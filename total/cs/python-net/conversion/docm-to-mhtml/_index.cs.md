@@ -53,7 +53,41 @@ K přidání funkce převodu DOCM na MHTML používáme API [Aspose.Words for Py
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to MHTML conversion transforms macro-enabled documents into single-file web-ready content that combines markup and linked resources in one portable package. It is useful when document information must be viewed, archived, or transmitted in a browser-friendly format.
+
+In automated environments, DOCM to MHTML conversion supports portable publishing, email-safe rendering, and simplified storage of self-contained document representations.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Jednosouborová webová reprezentace**
+  Převádí dokumenty do samostatných webových souborů pro snadnou distribuci.
+
+* **Přenosná archivace**
+  Udržuje formátovaný obsah a související zdroje pohromadě v jednom výstupu.
+
+* **Přístup přátelský k prohlížeči**
+  Usnadňuje prohlížení obsahu dokumentu bez nutnosti plnohodnotného editačního softwaru.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované webové balení**
+  Generuje MHTML soubory ze zdrojů DOCM pro lehké publikovací workflow.
+
+* **Převodní řetězce dokumentů**
+  Podporuje odesílání formátovaného obsahu v kompaktním, přenosném formátu.
+
+* **Dávkový převod pro archivy**
+  Programově vytváří samostatné snímky dokumentů ve velkém měřítku.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

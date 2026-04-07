@@ -64,7 +64,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV na PPSM převod transformuje strukturovaná tabulková data do souborů prezentací s makry, které se používají pro přehrávání prezentací s pokročilým chováním. Je užitečný v pracovních postupech, kde je třeba, aby výstupy připravené k prezentaci byly v souladu s řízenými, na datech založenými prezentačními systémy.
+
+S Python API lze převod TSV na PPSM automatizovat, aby se zjednodušila výroba prezentací, podpořily pokročilé prezentační pracovní postupy a zlepšila škálovatelnost v opakujících se pipelinech převodu dat na prezentaci.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Prezentace s makry**  
+  Převádí sady dat TSV do souborů prezentací vhodných pro pokročilé prezentační prostředí.
+
+* **Doručování přehrávání prezentací**  
+  Podporuje výstupy prezentací pro přímý pohled vytvořené ze strukturovaných zdrojových dat.
+
+* **Automatizované zprávové snímky**  
+  Pomáhá zabalit opakující se data do prezentačních aktiv pro provozní použití.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizace převodu dat na prezentaci**  
+  Python API mohou převádět soubory TSV na výstupy PPSM s opakovatelnou logikou.
+
+* **Pokročilé prezentační pracovní postupy**  
+  Automatizace podporuje generování prezentací pro prostředí vyžadující bohatší funkčnost.
+
+* **Škálovatelná dávková transformace**  
+  Velké kolekce TSV lze efektivně zpracovat do souborů PPSM.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

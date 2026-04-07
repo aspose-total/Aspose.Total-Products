@@ -53,7 +53,41 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM 转图像转换将启用宏的文档转换为可视化文件输出，使页面更易于预览、共享、归档或嵌入其他系统。当需要在不原生支持可编辑文档格式的平台上保持文档的视觉完整性时，这非常有用。
+
+在自动化驱动的工作流中，DOCM 转图像转换支持文档渲染管道、缩略图生成、可视化审阅系统以及可扩展的发布流程。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **可视化文档预览**
+  将页面转换为易于在浏览器和应用程序中显示的图像文件。
+
+* **内容共享**
+  在不需要可编辑性的情况下，快速分发文档快照。
+
+* **归档完整性**
+  保留原始文档的视觉外观，以供参考和合规使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **缩略图和预览生成**
+  自动为文档库、列表或门户创建图像。
+
+* **发布管道**
+  支持网站、知识库和文档查看器的可视化导出。
+
+* **批量渲染工作流**
+  在无需人工干预的情况下，将大量 DOCM 文件处理为图像输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

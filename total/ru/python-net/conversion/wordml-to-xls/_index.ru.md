@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML to XLS conversion преобразует структурированный контент на основе документов в файлы электронных таблиц, подходящие для редактирования, отчетности и устаревших рабочих процессов с книгами. Это полезно, когда таблицы из документов необходимо повторно использовать в инструментах электронных таблиц с широкой совместимостью.
+
+Python API позволяют выполнять преобразование WordML в XLS, извлекая табличный контент и автоматизируя его размещение в структурах книг для масштабируемой обработки.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Создание наследуемых книг**
+  Преобразует таблицы WordML в файлы XLS для установленных рабочих процессов с электронными таблицами.
+
+* **Повторное использование структурированных данных**
+  Делает данные таблиц, хранящиеся в документе, редактируемыми и анализируемыми в виде книги.
+
+* **Поддержка оперативной отчетности**
+  Помогает перенести содержимое документа в процессы обзора, основанные на электронных таблицах.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Автоматический экспорт книг**
+  Создает файлы XLS из пакетов документов WordML в повторяющихся заданиях.
+
+* **Интеграция со старыми системами**
+  Поддерживает среды, которые всё ещё зависят от совместимости со старыми электронными таблицами.
+
+* **Конвейеры «Документ‑в‑Электронную таблицу»**
+  Преобразует структурированный контент в выходные книги для последующих операций.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

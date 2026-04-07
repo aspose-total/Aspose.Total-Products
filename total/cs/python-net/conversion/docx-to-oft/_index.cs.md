@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX to OFT conversion converts word processing documents into email template files used for repeatable communication workflows. This process allows document-based content to be reused as structured templates for consistent outbound messaging.
+
+Python APIs make DOCX-to-OFT conversion suitable for automated email generation systems, notification platforms, and template-driven communication pipelines. It supports scalable messaging operations where content must be standardized and reused.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Reusable Email Template Creation**  
+  Converts DOCX content into template files for repeated communication tasks.
+
+* **Standardized Messaging Workflows**  
+  Helps maintain consistent formatting and messaging across teams and systems.
+
+* **Document-Based Template Management**  
+  Allows formal documents to serve as the basis for communication templates.
+
+* **Automated Notification Preparation**  
+  Supports creation of reusable templates for scheduled or event-driven emails.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Template Generation Pipelines**  
+  Systems can automatically convert DOCX files into OFT templates for communication workflows.
+
+* **Batch Template Production**  
+  Python scripts can transform multiple documents into reusable email templates.
+
+* **Enterprise Messaging Automation**  
+  Document content can be dynamically converted into OFT files for standardized outreach.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

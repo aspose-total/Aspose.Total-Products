@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+在 Python 中将 XLT 转换为 DOCX，使得能够将 Excel 模板文件转换为现代 Word 文档，这类文档在专业文档、协作和内容交换中被广泛使用。当基于电子表格的模板包含需要以更清晰、更适合文档的格式呈现的信息时，此转换非常有用。
+
+对于自动化系统而言，XLT 转换为 DOCX 提升了内容可移植性和工作流兼容性。它支持可扩展的文档生成，简化了与现代文档平台的集成，并帮助组织从以电子表格为中心的资产转向结构化、可重用的 Word 输出。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **专业文档生成**  
+  将 XLT 模板转换为 DOCX 文件，以生成精美的报告、表单和业务文档。
+
+* **跨团队协作**  
+  使源自电子表格的内容更容易在标准的现代 Word 格式中进行审阅和编辑。
+
+* **跨系统模板复用**  
+  将 Excel 模板重新用于 DOCX 文档，以满足更广泛的运营和沟通需求。
+
+* **内容呈现改进**  
+  将表格或结构化的电子表格内容转化为更易读且正式的文档布局。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **计划文档生成**  
+  使用 Python API 在定义的间隔内自动从 XLT 模板生成 DOCX 文件。
+
+* **数据到文档工作流**  
+  将模板内容输入自动化流水线，生成用于下游使用的现代 Word 文档。
+
+* **可扩展的报告自动化**  
+  将大量电子表格模板转换为 DOCX 文件，以用于企业报告和文档编制。
+
+* **文档交付集成**  
+  将转换后的 DOCX 输出附加到自动化的审批、存储或通知工作流中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

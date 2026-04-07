@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ODT إلى TSV يحول محتوى المستند إلى تنسيق نصي مفصول بعلامات جدولة مناسب لتبادل البيانات المهيكلة ومعالجة خفيفة الوزن. وهو ذو قيمة عندما يجب نقل الجداول أو السجلات المستندة إلى المستند إلى بنية بسيطة قابلة للقراءة آليًا.
+
+باستخدام واجهات برمجة تطبيقات بايثون، يدعم تحويل ODT إلى TSV استخراج البيانات القابلة للتوسع، خطوط أنابيب الإدخال، ومعالجة المستندات القابلة للتشغيل البيني. يبسط نقل المحتوى المهيكل إلى تحليلات، تخزين، وتدفقات عمل التحويل.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تصدير مهيكل بسيط**  
+  يقوم بتحويل جداول المستند إلى تنسيق نصي مفصول بعلامات جدولة خفيف الوزن.
+
+* **تحضير خط أنابيب البيانات**  
+  يدعم الإدخال السهل إلى أنظمة المعالجة والتحليل.
+
+* **تطبيع السجلات**  
+  يساعد على توحيد المحتوى المستخرج للاستخدام اللاحق.
+
+* **تبادل نصي قابل للتشغيل البيني**  
+  يجعل محتوى المستند المهيكل أسهل في النقل عبر المنصات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **استخراج الجداول تلقائيًا**  
+  يمكن لتدفقات عمل بايثون تحويل محتوى ODT إلى TSV للحصول على مخرجات جاهزة للخط الأنابيب.
+
+* **تحويل دفعي للتحليل**  
+  يمكن تصدير مجموعات المستندات الكبيرة إلى نص مهيكل بسيط تلقائيًا.
+
+* **تنظيف البيانات وتدفقات التصدير**  
+  يمكن التحقق من القيم المستخرجة قبل كتابتها إلى ملفات TSV.
+
+* **خطوط أنابيب تكامل النظام**  
+  يمكن لمخرجات TSV المحولة تغذية قواعد البيانات أو السكريبتات أو عمليات إعداد التقارير.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 XLAM 转换为 Word 有助于将 Excel 加载项内容转换为适用于业务沟通、文档编写和报告的 Word 兼容文档。当需要以更易于审阅和共享的文档为中心的格式呈现基于电子表格的逻辑、参考内容或结构化信息时，此转换非常有价值。
+
+从自动化的角度来看，XLAM 到 Word 的转换简化了内容生产，支持可扩展的报告，并改进了结构化数据在文档工作流中的流转方式。它有助于减少人工工作量，同时实现跨团队的一致且可重复的文档交付。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **业务文档创建**  
+  将 XLAM 内容转换为可读写的 Word 兼容文件，以便进行可阅读和可编辑的文档编写。
+
+* **运营报告**  
+  支持将基于电子表格的信息转化为供管理层和团队使用的文档输出。
+
+* **知识转移**  
+  帮助将结构化的加载项内容打包成可共享的 Word 文档，以供更广泛的受众使用。
+
+* **工作流文档**  
+  实现将技术或流程内容转换为适合记录和参考的文档友好格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化文档发布**  
+  Python API 可以在重复的工作流中从 XLAM 源生成 Word 兼容文件。
+
+* **可扩展报告系统**  
+  大批量自动化可以从基于电子表格的输入创建标准化的文档输出。
+
+* **文档交付流水线**  
+  转换后的 Word 文件可以自动路由到审阅、批准和存储系统。
+
+* **动态内容生成**  
+  编程逻辑可以组装并导出相关的 XLAM 内容到结构化的 Word 文档中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

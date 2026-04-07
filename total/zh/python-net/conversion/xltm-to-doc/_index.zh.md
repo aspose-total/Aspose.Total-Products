@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTM 转 DOC 转换在 Python 中实现了将带宏的 Excel 模板文件转换为可编辑的 Word 文档，用于报告、文档编制和内容复用。这帮助团队将结构化的基于电子表格的信息转换为更易于审阅、共享和归档的文本友好格式。
+
+在自动化环境中，XLTM 转 DOC 转换支持可扩展的文档生成，减少手动格式化工作，并提升基于电子表格的流程与基于文档的工作流之间的互操作性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **报告草稿创建**  
+  将基于模板的电子表格内容转换为可编辑的 Word 草稿，用于业务和运营报告。
+
+* **内容再利用**  
+  帮助在叙事文档格式中重新使用结构化的 Excel 模板数据，以满足更广泛的沟通需求。
+
+* **文档工作流**  
+  支持从基于电子表格的记录和格式化的模板内容创建参考文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **计划文档生成**  
+  自动化从内部报告周期中使用的重复 XLTM 模板生成 DOC 文件的过程。
+
+* **模板到文档的流水线**  
+  将电子表格模板与文档工作流连接，以简化多格式发布流程。
+
+* **批量文件处理**  
+  实现将大量 XLTM 文件转换为 DOC 格式，以用于归档、审阅或后续编辑。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

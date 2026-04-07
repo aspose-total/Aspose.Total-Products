@@ -46,7 +46,47 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+EMLX 转 MD 的 Python 转换将电子邮件内容转换为易于阅读、编辑、版本控制和发布的 Markdown 文件。当需要将基于消息的信息重新用于文档或内容工作流的轻量文本文件时，这非常有用。
+
+在自动化场景中，将 EMLX 转换为 MD 支持干净的文本提取、简化的发布以及与开发者友好系统的高效集成。它在可扩展的知识管理和内容转换流水线中尤为有效。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **轻量文档**  
+  将 EMLX 文件转换为 Markdown，以获得简单、可读的基于文本的文档。
+
+* **版本控制内容**  
+  将来源于电子邮件的信息存储为适合跟踪更新的格式。
+
+* **知识库准备**  
+  在结构化文档系统中重复使用消息内容。
+
+* **发布就绪**  
+  为静态站点或文本优先的内容平台准备转换后的内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化文档流水线**  
+  批量将 EMLX 文件转换为 Markdown，以实现可扩展的内容复用。
+
+* **静态发布工作流**  
+  将 MD 输出输入到自动化站点生成和发布系统中。
+
+* **文本标准化过程**  
+  使用 Python 脚本将消息内容标准化为 Markdown 结构。
+
+* **基于仓库的内容管理**  
+  将转换后的 Markdown 文件集成到版本化的自动化流水线中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

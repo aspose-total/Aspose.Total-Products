@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod DOCM na MSG převádí makrem povolené dokumenty do samostatných souborů e‑mailových zpráv, které jsou vhodné pro úložiště a výměnu založenou na zprávách. Je užitečný, když je třeba zachovat obsah dokumentu jako strukturovaný e‑mailový artefakt pro komunikaci, revizi nebo archivaci.
+
+Pro automatizaci zjednodušují pracovní postupy DOCM na MSG generování, ukládání a přenos zpráv v systémech, které se při zpracování spoléhají na samostatné e‑mailové položky.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Balíčkování jedné zprávy**
+  Vytváří samostatné soubory zpráv z obsahu dokumentu pro organizované komunikační pracovní postupy.
+
+* **Archivace a revize**
+  Zachovává z dokumentu odvozenou korespondenci ve strukturovaném formátu zprávy.
+
+* **Kompatibilita poštovního systému**
+  Podporuje prostředí, která zpracovávají nebo ukládají komunikaci jako samostatné objekty zpráv.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované vytváření souborů zpráv**
+  Generuje výstupy MSG přímo z dokumentů DOCM jako součást opakovatelných pracovních postupů.
+
+* **Retence založená na pracovním postupu**
+  Směruje převedené soubory zpráv do systémů pro soulad, audit nebo archivaci.
+
+* **Škálovatelné dávkové zpracování**
+  Programově převádí velké sady souborů DOCM na artefakty zpráv.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

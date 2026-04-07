@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+在 Python 中的 XLT 到 WordML 转换能够将 Excel 模板文件转换为基于 XML 的 Word 文档，这些文档对于结构化处理、互操作性以及系统级文档处理非常有用。当文档输出必须既能被机器读取，又能适用于基于文本的工作流时，这一点尤为重要。
+
+在自动化场景中，XLT 到 WordML 的转换支持可扩展且可编程的文档转换。它帮助系统生成结构化的兼容 Word 内容，可进行验证、修改或集成到支持 XML 的处理流水线中，从而实现更高的控制力和灵活性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **结构化文档输出**  
+  将 XLT 模板转换为 WordML 文件，以便在受益于 XML 结构的文档工作流中使用。
+
+* **系统集成支持**  
+  在需要机器可读文档表示的环境中使用 WordML 输出。
+
+* **模板内容序列化**  
+  将基于电子表格的布局转换为结构化文档标记，以实现受控处理。
+
+* **可互操作的工作流设计**  
+  在文档交换场景中启用 XML 基础的格式化，以提升一致性和处理能力。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **XML 感知转换流水线**  
+  使用 Python API 从 XLT 模板生成 WordML 文件，以用于结构化的自动化工作流。
+
+* **编程式文档操作**  
+  将 WordML 输出输入到检查、转换或动态丰富文档内容的系统中。
+
+* **可扩展的结构化发布**  
+  将电子表格模板转换为基于 XML 的 Word 文档，以用于自动化发布或交付系统。
+
+* **内容验证工作流**  
+  在需要一致格式和机器级处理的流水线中使用结构化的 WordML 输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

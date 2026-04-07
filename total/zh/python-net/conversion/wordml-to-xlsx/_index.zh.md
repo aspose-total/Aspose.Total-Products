@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML 到 XLSX 的转换将基于文档的结构化内容转换为现代电子表格文件，这些文件广泛用于分析、报告和数据共享。当文档表格需要变为可编辑、可使用公式并且易于集成的工作簿数据时，这尤其有价值。
+
+Python API 使 WordML 到 XLSX 的转换具有可扩展性，能够准确提取内容并将文档到电子表格的转换集成到自动化流水线中。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **现代电子表格导出**
+  将 WordML 表格转换为 XLSX 文件，以便进行编辑、分析和报告。
+
+* **业务数据准备**
+  使结构化文档内容适用于运营和分析工作流。
+
+* **跨系统数据交换**
+  支持文档数据可靠地迁移到基于电子表格的平台。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量工作簿生成**
+  自动将 WordML 文档转换为 XLSX 文件，以用于大规模工作流。
+
+* **报告与分析自动化**
+  将转换后的电子表格输出导入仪表板和审查流程。
+
+* **数据提取流水线**
+  将文档表格标准化为工作簿形式，以供下游自动化使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

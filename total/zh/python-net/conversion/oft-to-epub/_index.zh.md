@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 OFT 转换为 EPUB 可将 Outlook 电子邮件模板转换为可重排的数字出版文件，适合结构化阅读和分发。当需要将基于电子邮件的内容重新用于长篇、便携且友好的数字文档时，这非常有价值。
+
+在自动化环境中，OFT 转换为 EPUB 支持内容转换流水线，将信息从消息模板转移到出版工作流。它提升了内容复用、可访问性以及可扩展的数字分发。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **数字出版再利用**  
+  将 OFT 内容转换为 EPUB 文件，以实现便携且友好的电子分发。
+
+* **结构化内容交付**  
+  当需要将电子邮件模板信息作为数字出版物进行消费时，使用 EPUB 输出。
+
+* **知识内容打包**  
+  将可复用的沟通内容打包成适用于手册或指南的格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化出版流水线**  
+  将 OFT 模板转换为 EPUB 文件，作为数字内容生产工作流的一部分。
+
+* **跨渠道内容分发**  
+  将消息模板重新用于出版就绪的资产，以实现更广泛的分发渠道。
+
+* **程序化归档转换**  
+  将沟通模板转换为结构化的数字书籍，以用于可搜索的存储库。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

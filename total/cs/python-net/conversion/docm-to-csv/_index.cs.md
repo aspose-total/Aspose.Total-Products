@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to CSV conversion turns macro-enabled word processing documents into plain, structured comma-separated data that is easier to extract, analyze, and reuse across reporting and operational systems. It is valuable when text, tables, or repeated content from DOCM files needs to be standardized for downstream processing.
+
+In automation-focused environments, DOCM to CSV workflows help convert semi-structured document content into lightweight datasets that support ingestion, validation, synchronization, and scalable data exchange between business tools.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Extrahování tabulkových dat**
+  Converts tables inside DOCM files into structured rows and columns for easier analysis and reuse.
+
+* **Reportingové pipeline**
+  Prepares document-based data for business reports, dashboards, and scheduled exports.
+
+* **Interoperabilita systémů**
+  Enables simple transfer of document content into tools that accept delimited text inputs.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Dávkové zpracování dokumentů**
+  Automates conversion of large DOCM collections into CSV outputs for recurring data workflows.
+
+* **Příprava ETL**
+  Supports extract-transform-load pipelines by turning document content into machine-readable records.
+
+* **Validace a archivace**
+  Helps create normalized exports that can be checked, indexed, and stored programmatically.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

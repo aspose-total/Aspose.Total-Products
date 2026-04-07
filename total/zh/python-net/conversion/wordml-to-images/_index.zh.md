@@ -53,7 +53,41 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML 转图片转换将文档内容渲染为图像格式，以便预览、共享、发布和可视化归档。当文档页面需要在不同平台上保持一致显示且无需可编辑文档软件时，此功能非常有用。
+
+Python API 通过编程方式渲染页面，简化 WordML 转图片转换，实现大规模缩略图生成、页面预览以及可视化文档分发工作流。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **文档预览生成**
+  将 WordML 页面转换为图像，以实现快速查看和索引。
+
+* **可视化共享**
+  使文档内容更易在支持图像的渠道和界面中分发。
+
+* **不可变展示**
+  保留页面外观，用于审阅、发布或参考目的。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **缩略图创建流水线**
+  自动从批量 WordML 文档生成预览图像。
+
+* **发布工作流支持**
+  将页面转换为图像，用于网站、知识系统或审阅工具。
+
+* **归档可视化**
+  实现基于图像的存储文档访问，无需打开原始文件格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

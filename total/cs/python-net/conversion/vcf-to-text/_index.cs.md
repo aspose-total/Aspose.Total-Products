@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu V
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF to text conversion changes structured contact card data into plain text output for simple storage, easy parsing, and broad system compatibility. This is useful when contact information needs to be extracted into a lightweight and universally accessible format.
+
+Using Python APIs, VCF to text conversion supports automation by simplifying downstream processing, indexing, and transformation workflows where plain-text data is easier to validate and integrate.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Jednoduchý extrakt kontaktů**  
+  Převést soubory VCF do textu pro jednoduché čtení a zpracování.
+
+* **Univerzální přístup k datům**  
+  Použít výstup v prostém textu napříč systémy s minimálními závislostmi na formátu.
+
+* **Lehká archivace záznamů**  
+  Uchovat kontaktní informace v kompaktní a přenosné podobě.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaný export textu**  
+  Transformovat dávky záznamů VCF do textových souborů pro zjednodušené zpracování.
+
+* **Vyhledávací a indexové pipeline**  
+  Zasílat data kontaktů v prostém textu do automatizovaných vyhledávacích nebo klasifikačních systémů.
+
+* **Flexibilní integrační pracovní toky**  
+  Použít Python API k standardizaci lehkého výstupu kontaktů pro následné úkoly.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

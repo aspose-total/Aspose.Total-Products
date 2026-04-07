@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX to MBOX conversion transforms Word template content into a mailbox-oriented email archive format used for storing collections of messages. It is useful when generated communication from templates must be preserved in bulk for retention or migration workflows.
+
+Using Python APIs, this conversion helps automate message packaging, archival operations, and long-term storage processes where structured document content becomes part of email-based records.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Hromadné archivování zpráv**
+  Convert template-driven communications into mailbox-style storage formats.
+
+* **Správa sběru e‑mailů**
+  Preserve multiple generated messages in a single archival structure.
+
+* **Příprava migrace**
+  Support workflows that move document-derived communication into mail archives.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované vytváření archivu**
+  Generate MBOX outputs from DOTX-based email content in scheduled jobs.
+
+* **Pracovní postupy uchovávání**
+  Store converted communications in centralized archives for governance purposes.
+
+* **Konsolidace dokumentu do e‑mailu**
+  Package repeated template outputs into mailbox collections programmatically.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

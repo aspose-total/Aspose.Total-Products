@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF to Excel conversion transforms rich text documents into spreadsheet-compatible workbooks, making unstructured or semi-structured information easier to organize, analyze, and report on. This is valuable when document content needs to support calculations, tabular review, or operational tracking.
+
+For automation, RTF to Excel enables scalable conversion of document-based information into structured spreadsheets that can feed dashboards, planning tools, and business workflows without repeated manual formatting.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Strukturování provozních dat**  
+  Převádí textově náročné dokumenty do formátů sešitů vhodných pro revizi a analýzu.
+
+* **Příprava reportování**  
+  Pomáhá připravit extrahovaný obsah dokumentu pro reportování a rozhodování založené na tabulkách.
+
+* **Opětovné využití starého obsahu**  
+  Zpřístupňuje archivované informace ve formátu RTF pro moderní workflow s tabulkami.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Dávkový převod dokumentu do sešitu**  
+  Automatizované úlohy mohou převést velké kolekce RTF do souborů připravených pro Excel pro provozní týmy.
+
+* **Vstup do analytického pipeline**  
+  Systémy mohou převést formátovaný text do strukturovaných tabulek pro následné výpočty a reportování.
+
+* **Podpora opakujících se obchodních procesů**  
+  Programový převod zjednodušuje plánované importy, smírování a úkoly přípravy dat.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

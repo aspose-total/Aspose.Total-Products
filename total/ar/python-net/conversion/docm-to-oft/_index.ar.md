@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOCM إلى OFT يحول المستندات التي تدعم الماكرو إلى ملفات قوالب بريد إلكتروني قابلة لإعادة الاستخدام، مما يجعل محتوى المستندات أسهل في التوحيد للمهام المتكررة في التواصل. وهو مفيد عندما يجب إنشاء رسائل متسقة من مصادر المستندات المكتوبة.
+
+في سير عمل الأتمتة، يتيح تحويل DOCM إلى OFT التواصل القائم على القوالب، والاتصالات المدفوعة بالعملية، وإعادة استخدام محتوى المستندات بشكل قابل للتوسع عبر سيناريوهات الرسائل المتكررة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **التواصل القائم على القوالب**
+  يحول محتوى المستند إلى قوالب بريد إلكتروني قابلة لإعادة الاستخدام لتواصل موحد.
+
+* **اتساق العملية**
+  يساعد الفرق على الحفاظ على بنية موحدة عبر الرسائل الصادرة المتكررة.
+
+* **إعادة توظيف المحتوى**
+  يعيد استخدام نص المستند الرسمي في قوالب التواصل دون إعادة تنسيق يدوية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء القوالب تلقائيًا**
+  ينتج ملفات OFT من مستندات DOCM لسير عمل الرسائل القابلة للتكرار.
+
+* **الاتصالات المفعلة بسير العمل**
+  يستخدم القوالب المحولة في عمليات الموافقة أو الإشعار أو الدعم.
+
+* **إعداد الرسائل القابل للتوسع**
+  يتيح ملءً ديناميكيًا وتوزيعًا لمحتوى القوالب على نطاق واسع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT to XLTM conversion converts text document content into a macro-enabled spreadsheet template format designed for reusable and automation-rich workbook creation. This is valuable when standardized workbook generation requires advanced spreadsheet functionality.
+
+Python APIs make ODT to XLTM conversion effective for scalable reporting, template standardization, and advanced operational workflows. It enables repeatable conversion of document-derived structures into reusable automation-friendly spreadsheet templates.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Создание шаблонов с поддержкой макросов**  
+  Преобразует содержимое документа в переиспользуемые шаблоны книг с расширенной поддержкой.
+
+* **Стандартизированная расширенная отчетность**  
+  Помогает подготовить повторяемые структуры книг для повторяющихся задач.
+
+* **Переиспользуемые активы автоматизации электронных таблиц**  
+  Поддерживает многократное создание выводов книг из общих шаблонов.
+
+* **Перепрофилирование структурированного контента**  
+  Преобразует данные, полученные из документов, в расширяемые структуры электронных таблиц.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Продвинутые конвейеры шаблонов**  
+  Рабочие процессы на Python могут генерировать шаблоны XLTM из структурированного содержимого ODT.
+
+* **Подготовка пакетных фреймворков книг**  
+  Несколько документов могут быть обработаны в переиспользуемые шаблоны с поддержкой макросов.
+
+* **Повторяющаяся автоматизация электронных таблиц**  
+  Преобразованные шаблоны могут поддерживать текущие процессы операционной отчетности.
+
+* **Стандартизация электронных таблиц, управляемая документами**  
+  Системы могут автоматически создавать согласованные продвинутые фреймворки книг.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

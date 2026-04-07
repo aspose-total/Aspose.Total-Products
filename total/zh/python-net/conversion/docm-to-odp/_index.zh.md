@@ -65,7 +65,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM 到 ODP 的转换将启用宏的文档转换为开放的演示文件，使结构化内容能够在幻灯片和演示工作流中重复使用。当文档叙述、摘要或大纲信息必须转换为可移植的演示资产时，这非常有用。
+
+在以自动化为中心的系统中，DOCM 到 ODP 的转换有助于生成用于报告、培训以及跨演示平台的可扩展内容发布的开放演示输出。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **演示文稿创建**
+  将文档内容转换为可用于会议和审查的幻灯片准备材料。
+
+* **开放格式分发**
+  支持依赖开放且可移植文件标准的演示工作流。
+
+* **结构化内容复用**
+  将基于文档的信息转化为用于更广泛传播的可视化演示资产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化幻灯片生成**
+  从 DOCM 源生成 ODP 文件，以用于重复的演示工作流。
+
+* **培训与报告流水线**
+  将编写的文档转换为跨团队使用的演示输出。
+
+* **批量内容发布**
+  支持在无需手动格式化的情况下大规模生成开放演示文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

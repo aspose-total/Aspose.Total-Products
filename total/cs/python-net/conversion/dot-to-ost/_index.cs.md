@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod DOT na OST převádí šablony dokumentů do offline formátu orientovaného na poštovní schránky pro pracovní postupy zpráv a archivaci. To je relevantní v situacích, kdy je obsah odvozený ze šablon začleněn do procesů offline ukládání komunikace.
+
+S Python API lze tento převod začlenit do automatizovaných systémů, které připravují komunikační prostředky založené na dokumentech pro synchronizaci poštovních schránek nebo archivaci.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Příprava offline pošty**
+  Převést obsah založený na DOT do pracovních postupů kompatibilních s OST pro zpracování související s poštovní schránkou.
+
+* **Podpora archivace a synchronizace**
+  Použít data komunikace odvozená ze šablon v prostředích, která vyžadují offline úložné struktury.
+
+* **Balíčkování pracovních postupů zpráv**
+  Připravit strukturované výstupy ze šablon dokumentů pro operace zaměřené na poštovní schránky.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná příprava úložiště pošty**
+  Python skripty mohou podporovat opakovaný převod souborů DOT pro offline pracovní postupy pošty.
+
+* **Integrace pošty řízená dokumenty**
+  Převod pomáhá propojit repozitáře šablon se synchronizovanými komunikačními procesy.
+
+* **Hromadná správa poštovních aktiv**
+  Programové pipeline zefektivňují přípravu výstupů orientovaných na poštovní schránky ve velkém objemu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

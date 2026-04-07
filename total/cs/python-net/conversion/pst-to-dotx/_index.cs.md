@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod PST na DOTX v Python API převádí obsah poštovní schránky do moderních šablon Wordu určených pro opakovaně použitelné, strukturované vytváření dokumentů. Je užitečný, když archivovaná komunikace potřebuje podporovat standardizovaná rozvržení bez závislosti na makrech.
+
+V automatizačních pracovních postupech umožňuje převod PST na DOTX čistou tvorbu šablon pro škálovatelné procesy dokumentace. Pomáhá transformovat e‑mailové archivy na opakovaně použitelné zdroje, které zapadají do moderních ekosystémů dokumentů a řízených publikovacích kanálů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Moderní generování šablon**
+  Převádí data poštovní schránky do souborů DOTX pro opakovaně použitelné struktury dokumentů.
+
+* **Správa konzistentních rozvržení**
+  Pomáhá standardizovat prezentaci obsahu odvozeného z e‑mailů napříč výstupy.
+
+* **Kontrolovaná příprava dokumentů**
+  Podporuje čisté workflow založené na šablonách bez spoléhání se na makra.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Opakovaně použitelné šablony obsahu**
+  Automatizované systémy mohou vytvářet šablony DOTX z archivů PST pro opakovatelný reporting.
+
+* **Pipelines pro standardizaci dokumentů**
+  Převod zajišťuje, že obsah poštovní schránky dodržuje moderní konvence formátování.
+
+* **Škálovatelná příprava publikování**
+  Programová tvorba podporuje rozsáhlé workflow řízené šablonami dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

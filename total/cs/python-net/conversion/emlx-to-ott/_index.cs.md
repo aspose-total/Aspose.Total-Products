@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu E
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+EMLX to OTT conversion in Python převádí obsah e‑mailu do šablon otevřených dokumentů, které lze znovu použít pro konzistentní generování dokumentů. To je cenné, když je třeba informace založené na zprávách transformovat do standardizovaných šablonových aktiv místo samostatných souborů.
+
+Pro případy použití automatizace podporuje převod EMLX na OTT workflow řízené šablonami, efektivní opětovné využití obsahu a škálovatelnou standardizaci výstupů. Pomáhá týmům vytvářet opakovatelné systémy dokumentů z dříve nestrukturovaných komunikačních dat.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytvoření otevřené šablony**  
+  Převést soubory EMLX na OTT šablony pro opakovatelnou tvorbu dokumentů.
+
+* **Znovu použitelné struktury dokumentů**  
+  Vytvořit rozvržení šablon z obsahu a formátování založeného na zprávách.
+
+* **Standardizované modely výstupu**  
+  Použít převedené šablony k zajištění konzistence napříč generovanými dokumenty.
+
+* **Příprava otevřeného workflow**  
+  Podporovat procesy založené na šablonách v prostředích používajících otevřené standardy dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizace generování šablon**  
+  Vytvořit OTT šablony ze souborů EMLX jako součást škálovatelných Python workflow.
+
+* **Konzistentní výroba dokumentů**  
+  Zasílat výstupy OTT do systémů, které generují dokumenty ze znovu použitelných šablon.
+
+* **Integrace workflow s otevřenými standardy**  
+  Použít převedené šablony v automatizovaných prostředích, která upřednostňují kompatibilitu.
+
+* **Pipelines pro strukturování obsahu**  
+  Transformovat e‑mailová data na znovu použitelné šablonové aktiva pomocí skriptovaného zpracování.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

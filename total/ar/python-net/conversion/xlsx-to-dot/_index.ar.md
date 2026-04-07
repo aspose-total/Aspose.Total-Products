@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSX إلى DOT يتيح تحويل معلومات جداول البيانات إلى ملفات قالب Word لتوليد مستندات قابلة للتكرار. هذا مفيد عندما تكون بيانات جداول البيانات هي الأساس للنماذج القياسية أو الرسائل أو قوالب التقارير.
+
+في بيئات الأتمتة، يدعم تحويل XLSX إلى DOT الأنظمة القائمة على القوالب عن طريق تحويل البيانات المهيكلة إلى مخططات مستندات قابلة لإعادة الاستخدام تُحسّن الاتساق، وتقلل العمل اليدوي، وتبسط توليد المخرجات على نطاق واسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء القالب للمستندات المتكررة**  
+  يقوم بتحويل محتوى جداول البيانات إلى قوالب مستندات قابلة لإعادة الاستخدام لتدفقات العمل التجارية المتكررة.
+
+* **إعداد النماذج المعيارية**  
+  يساعد في بناء تخطيطات مستندات متسقة بناءً على الهيكل والمحتوى المحددين في جداول البيانات.
+
+* **قوالب توثيق العمليات**  
+  يدعم إنشاء أطر المستندات التي يمكن إعادة استخدامها عبر الفرق والأقسام.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء القوالب تلقائيًا**  
+  يمكن للأنظمة إنشاء قوالب DOT من مصادر جداول البيانات المُحافظة عليها لإدارة المستندات المركزية.
+
+* **أصول سير العمل القابلة لإعادة الاستخدام**  
+  يدعم التحويل إنشاء قوالب Word تلقائيًا التي تغذي عمليات المحتوى اللاحقة.
+
+* **توحيد المستندات القابل للتوسع**  
+  يضمن التحويل البرمجي إنتاج قوالب متسقة عبر وحدات الأعمال أو المشاريع المتعددة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

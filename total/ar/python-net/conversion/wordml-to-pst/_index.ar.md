@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+يدعم تحويل WordML إلى PST تحويل المحتوى المستمد من المستندات إلى سير عمل جداول التخزين الشخصية المستخدمة في تنظيم بيانات صندوق البريد والهجرة. وهو ذو صلة عندما تحتاج معلومات المستند إلى دمجها في عمليات تخزين البريد الإلكتروني أو الأرشفة الأكبر.
+
+يمكن لواجهات برمجة التطبيقات (APIs) الخاصة بـ Python أن تساعد في معالجة WordML إلى PST من خلال هيكلة المحتوى لإعداد رسائل وأرشفة قابلة للتوسع في بيئات الاتصالات المؤسسية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إعداد أرشيف صندوق البريد**
+  يستخدم محتوى المستند كمادة مصدر لسير عمل تخزين البريد الشخصي.
+
+* **دعم الهجرة والاحتفاظ**
+  يساعد على دمج النص المنظم في أنظمة الاتصالات الموجهة للأرشفة.
+
+* **توحيد محتوى المؤسسة**
+  يدعم تجميع السجلات المستمدة من المستندات في عمليات تركّز على صناديق البريد.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط أنابيب إعداد الأرشيف**
+  يُؤتمت تحويل محتوى WordML لسير عمل تخزين واسع النطاق.
+
+* **توحيد بيانات البريد**
+  يدعم دمجًا متكررًا للاتصالات المستندة إلى المستندات في عمليات الأرشفة.
+
+* **أتمتة عملية الاحتفاظ**
+  يساعد على توحيد إعداد المحتوى من المستند إلى صندوق البريد عبر الأنظمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل TSV إلى RTF يحول المحتوى الجدولي المنظم إلى مستندات نصية غنية توازن بين القابلية للنقل، والقراءة، وتنسيق قابل للتحرير. يكون مفيدًا عندما تحتاج بيانات TSV إلى المشاركة في تنسيق مستند نصي خفيف الوزن لا يزال يحافظ على بنية المستند وقيمة العرض.
+
+باستخدام واجهات برمجة تطبيقات بايثون، يمكن أتمتة تحويل TSV إلى RTF لدعم تقارير نصية فعّالة، وسير عمل تصدير قابل للتوسع، وحركة سلسة للبيانات المنظمة إلى الأنظمة التي تركز على المستندات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تصدير مستند خفيف الوزن**  
+  يقوم بتحويل بيانات TSV إلى مستندات نصية منسقة يسهل مشاركتها وتحريرها.
+
+* **محتوى منظم قابل للقراءة**  
+  يساعد على عرض السجلات الجدولية الخام في شكل مستند أكثر صداقة للمستخدم.
+
+* **توافق عبر البيئات**  
+  يدعم سير عمل المستندات الذي يستفيد من تنسيقات النص المدعومة على نطاق واسع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء تقارير نصية مؤتمتة**  
+  يمكن لواجهات برمجة تطبيقات بايثون إنشاء ملفات RTF من مدخلات TSV لمهام التوثيق المتكررة.
+
+* **تحويل البيانات إلى مستند**  
+  تساعد الأتمتة على تحويل الصادرات المنظمة الخام إلى مخرجات نصية منسقة.
+
+* **عمليات تحويل دفعية**  
+  يمكن تحويل ملفات TSV ذات الحجم الكبير إلى تنسيق RTF بكفاءة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

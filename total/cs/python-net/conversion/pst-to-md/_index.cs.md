@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod PST na MD v Python API převádí obsah poštovní schránky do Markdownu, což usnadňuje strukturování, publikování a opětovné využití archivované komunikace v textově orientovaných pracovních postupech. Je užitečný, když je třeba e‑mailové záznamy převést na lehký, čitelný obsah pro dokumentaci nebo sdílení znalostí.
+
+V automatizačních scénářích podporuje převod PST na MD obsahové pipeline, vývojářsky přívětivé repozitáře a statické publikační systémy. Pomáhá, aby data poštovní schránky byly snáze verzovatelné, transformovatelné a integrovány do moderních obsahových operací.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Lehký export obsahu**
+  Převádí obsah PST do Markdownu pro čitelné a přenosné textové pracovní postupy.
+
+* **Příprava znalostní báze**
+  Pomáhá přetvořit materiál odvozený z e‑mailů do strukturované dokumentace.
+
+* **Archivace přátelská k verzování**
+  Podporuje ukládání obsahu poštovní schránky v textových formátech vhodných pro sledování změn.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Statické obsahové pipeline**
+  Automatizované systémy mohou převést data poštovní schránky do Markdownu pro publikování nebo indexování.
+
+* **Dokumentace založená na repozitáři**
+  Převedený obsah může proudit do textově orientovaných prostředí pro spolupráci a opětovné využití.
+
+* **Programatická transformace obsahu**
+  Výstup v Markdownu usnadňuje zpracování, šablonování a distribuci archivovaných e‑mailů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS 到 RTF 的转换将电子表格文件转换为富文本文档格式。这使得电子表格数据能够以广泛支持的文档格式共享，并保留格式和文本结构。
+
+通过 Python API，ODS 到 RTF 的转换可以集成到自动化数据处理工作流中。这实现了可扩展的文档转换、批量处理以及与各种系统的灵活集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **格式化文档共享**  
+  将电子表格信息转换为富格式的文本文档。
+
+* **跨平台兼容性**  
+  以在多个平台上受支持的格式共享电子表格内容。
+
+* **报告文档化**  
+  将电子表格数据转换为可读的基于文本的报告。
+
+* **内容迁移**  
+  将电子表格存档转换为富文本文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化文档转换流水线**  
+  Python 工作流将电子表格数据集转换为富文本文档。
+
+* **批量数据处理**  
+  系统自动将多个电子表格转换为 RTF 格式。
+
+* **动态报告生成**  
+  电子表格输入以编程方式生成格式化的文本报告。
+
+* **企业文档集成**  
+  转换服务与文档处理系统集成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

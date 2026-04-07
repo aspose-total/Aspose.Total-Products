@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOTM إلى FODS يحول قوالب Word الممكّنة بالماكرو إلى ملفات جدول بيانات OpenDocument مسطحة، مما يجعل المحتوى المنظم أسهل في التخزين بصيغة جدول بيانات مفتوحة تعتمد على XML. هذا ذو قيمة للتشغيل البيني، التخزين الشفاف، وسير العمل الذي يفضّل معايير المستند المفتوح.
+
+استخدام واجهات برمجة تطبيقات Python لتحويل DOTM إلى FODS يدعم الأتمتة من خلال تحويل القوالب القابلة لإعادة الاستخدام إلى مخرجات جدول بيانات مفتوحة مع الحد الأدنى من التعامل اليدوي. يساعد ذلك على تحسين القابلية للنقل، تبسيط التكامل مع الأنظمة القائمة على المعايير، ودعم خطوط أنابيب تحويل المستندات القابلة للتوسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **تصدير جدول بيانات مفتوح**
+  تحويل محتوى DOTM إلى FODS لسير العمل الذي يعتمد على صيغ جدول بيانات مفتوحة وقابلة للفحص.
+
+* **مشاركة بيانات قابلة للتشغيل البيني**
+  تمكين تبادل أسهل للمحتوى المستند المنظم عبر الأدوات التي تدعم معايير OpenDocument.
+
+* **تخزين بيانات شفاف**
+  الحفاظ على بيانات القالب المستخرجة بصيغة جدول بيانات XML مسطحة مناسبة للمعالجة المُتحكم فيها.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **أتمتة سير عمل بصيغة مفتوحة**
+  يتيح التحويل الآلي لقوالب DOTM تغذية الأنظمة التي تتطلب مخرجات جدول بيانات قائمة على المعايير.
+
+* **خطوط أنابيب بيانات متمركزة على XML**
+  يدعم التحويل المعالجة الآلية حيث يجب أن يبقى محتوى جدول البيانات نصيًا وقابلًا للقراءة آليًا.
+
+* **معالجة جماعية متوافقة مع المعايير**
+  يمكن للوظائف البرمجية تحويل العديد من ملفات DOTM إلى FODS بشكل ثابت لتكامل قابل للتوسع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

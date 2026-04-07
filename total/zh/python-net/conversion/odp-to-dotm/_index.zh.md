@@ -66,7 +66,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODP 转 DOTM 转换（使用 Python）支持将演示文稿内容转换为宏启用的 Word 模板，以实现高级文档自动化。当基于模板的输出需要在正式文档工作流中同时具备可重用结构和宏功能时，这非常有用。
+
+对于以自动化为重点的操作，ODP 转 DOTM 转换使得源自演示文稿的模板能够参与动态的基于规则的系统。它提升了在标准化内容与宏启用逻辑大规模协同的环境中的效率。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用模板生成**  
+  将 ODP 演示文稿转换为 DOTM 模板，以用于高级文档准备过程。
+
+* **可重用的自动化文档结构**  
+  创建基于演示文稿的模板，以支持重复的内容生成任务。
+
+* **面向工作流的模板设计**  
+  为依赖宏启用自动化和结构化格式的系统准备模板。
+
+* **运营文档标准化**  
+  通过源自演示资产的模板支持可重复的文档创建。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **动态模板管道**  
+  将转换后的 DOTM 文件输入自动化文档组装和增强工作流。
+
+* **企业文档自动化**  
+  在大规模运营系统中使用从演示文稿生成的宏启用模板。
+
+* **基于规则的模板分发**  
+  自动创建并将 DOTM 输出路由到有特定文档需求的部门。
+
+* **可扩展的内容到模板转换**  
+  将演示库转换为可重用的宏功能模板，几乎无需人工操作。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

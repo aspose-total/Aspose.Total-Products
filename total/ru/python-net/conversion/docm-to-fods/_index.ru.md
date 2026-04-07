@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to FODS conversion converts macro-enabled documents into flat open spreadsheet files, enabling structured document data to be reused in open and XML-based spreadsheet workflows. It is useful where transparency, portability, and standardized data representation are important.
+
+In automated systems, DOCM to FODS conversion supports repeatable data extraction and integration into open document pipelines that favor readable, structured spreadsheet formats.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Преобразование в открытые электронные таблицы**
+  Переносит данные документа в плоский формат электронных таблиц, подходящий для открытых экосистем.
+
+* **Портативность данных на основе XML**
+  Помогает сохранять структурированный контент в формате, который легко просматривать и обмениваться.
+
+* **Стандартизация рабочих процессов**
+  Поддерживает организации, использующие открытые стандарты документов для операций с электронными таблицами.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Автоматизированный экспорт в открытый формат**
+  Преобразует файлы DOCM в выводы FODS для стандартизированной обработки.
+
+* **Интеграция с XML‑конвейерами**
+  Позволяет данным документа поступать в системы, работающие со структурированными электронными таблицами на основе разметки.
+
+* **Массовые задачи стандартизации**
+  Нормализует таблицы документов в плоские файлы электронных таблиц в больших партиях.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX 转换为 VCF 将 Word 模板内容转换为用于存储和共享个人或组织联系信息的联系人卡片格式。当模板包含需要在通信系统中重复使用的结构化联系详情时，这非常有用。
+
+使用 Python API，此转换通过实现联系人提取、数字地址簿生成以及文档式联系人记录的可扩展同步来支持自动化。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **联系人信息提取**
+  将模板中的结构化联系详情转换为可重复使用的数字卡片。
+
+* **目录准备**
+  从基于文档的信息构建可移植的联系人记录。
+
+* **通信系统集成**
+  在地址簿和联系人共享工作流中重复使用模板内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化联系人生成**
+  从 DOTX 模板创建 VCF 文件，用于入职或目录流程。
+
+* **批量联系人导出**
+  将重复的基于文档的记录转换为可共享的联系人卡片。
+
+* **同步联系人工作流**
+  将转换后的联系人数据输入到通信和 CRM 相关系统中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

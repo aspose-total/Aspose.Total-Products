@@ -66,7 +66,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT 转 CSV 转换将来自 OpenDocument 文本文件的结构化或半结构化文本内容转换为平面、分隔格式，便于在以数据为中心的系统中进行分析、导入和处理。当需要提取基于文档的信息用于报告、审查或下游集成时，这尤其有用。
+
+在自动化工作流中，ODT 转 CSV 转换支持可重复的数据提取、批量标准化以及可扩展的摄取到分析或处理管道中。通过使用 Python API，团队可以简化文档处理，减少手动重新格式化并提升一致性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **表格数据提取**  
+  将基于文档的表格转换为 CSV，以便更容易进行处理和存储。
+
+* **报告准备**  
+  为分析、仪表板和结构化审查工作流准备文档内容。
+
+* **批量数据迁移**  
+  帮助将大量基于文本的记录迁移到可互操作的数据格式中。
+
+* **系统集成支持**  
+  实现与接受 CSV 作为输入格式的工具和服务的兼容性。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **计划文档解析**  
+  自动化可以在定期间隔内将传入的 ODT 文件转换为 CSV，以供报告管道使用。
+
+* **数据摄取工作流**  
+  基于 Python 的流程可以在将文档内容加载到数据库之前提取并标准化文档内容。
+
+* **批量转换操作**  
+  可以对大量 ODT 文档集合进行程序化转换，无需人工干预。
+
+* **合规记录结构化**  
+  自动化转换有助于以机器可读的格式准备可审计的内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

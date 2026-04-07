@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF to Email 转换将格式化的文本文档转换为可嵌入外发通信、通知或消息模板的电子邮件就绪内容。它对于将报告文本、通知、摘要或面向客户的内容重新用于通信友好格式非常有用。
+
+在自动化环境中，RTF to Email 通过将编写的文档内容转换为可重复使用的电子邮件正文，以支持可扩展的消息工作流，用于警报、活动、审批和事务性通信。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **基于文档的电子邮件草稿**  
+  将富文本内容转换为可重复使用的电子邮件消息，用于内部或外部通信。
+
+* **通知和更新分发**  
+  支持发送来自已准备文档的公告或摘要。
+
+* **模板驱动的消息**  
+  帮助将标准文档内容转换为跨团队一致的电子邮件输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化通知生成**  
+  系统可以将 RTF 文件转换为电子邮件内容，以进行计划或事件驱动的发送。
+
+* **工作流审批消息**  
+  文档摘要可以通过编程方式转换为审批请求和状态电子邮件。
+
+* **批量外联流程**  
+  大容量通信管道可通过将已准备的文本资产转换为可扩展的电子邮件就绪内容受益。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

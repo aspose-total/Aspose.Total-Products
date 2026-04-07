@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+在 Python 中将电子邮件转换为 DOCM 使得可以将消息转换为支持宏的 Word 文档，以用于高级文档工作流。当转换后的电子邮件内容必须进入依赖嵌入式自动化或文档脚本的环境时，此格式非常有用。
+
+它通过允许源自电子邮件的文档与企业系统中基于宏的审阅、增强和文档处理流程集成，强化了自动化。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **宏启用文档处理**
+  将电子邮件转换为 DOCM 文件，以用于依赖自动化文档操作的工作流。
+
+* **结构化审阅操作**
+  在受控环境中使用转换后的消息，模板和宏支持验证或格式化。
+
+* **企业文档流水线**
+  将电子邮件内容插入触发下游脚本行为的运营文件中。
+
+* **流程标准化**
+  在源自电子邮件的文档必须与宏启用的办公工作流保持一致时，保持一致性。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **脚本化文档增强**
+  将电子邮件转换为 DOCM 并应用宏自动添加元数据、标题或分类。
+
+* **基于工作流的文件准备**
+  将电子邮件内容输入宏启用的模板，以进行内部处理和路由。
+
+* **自动化记录格式化**
+  使用文档脚本在大型存储库中标准化源自电子邮件的内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

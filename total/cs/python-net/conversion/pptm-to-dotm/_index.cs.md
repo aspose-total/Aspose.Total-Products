@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Slides for Python via 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konverze PPTM na DOTM pomocí Python API převádí prezentace s makry na dokumentové šablony s makry pro pracovní postupy, které vyžadují jak opakovaně použitelné struktury, tak vloženou automatizační logiku. Je relevantní v prostředích, kde musí převedený obsah po transformaci podporovat pokročilé chování dokumentu.
+
+Tato konverze zlepšuje škálovatelnost propojením obsahu odvozeného z prezentací s dynamickými šablonovými systémy, které lze programově znovu použít. Je dobře vhodná pro rámce automatizace dokumentů, kde standardizace a automatizace spolupracují.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření šablon s makry**
+  Vytváří opakovaně použitelné šablony, které mohou podporovat automatizované akce a logiku dokumentu.
+
+* **Standardizace strukturovaného obsahu**
+  Pomáhá převádět materiál prezentace do kontrolovaných, opakovatelných formátů dokumentů.
+
+* **Základy dokumentů připravených na automatizaci**
+  Podporuje následnou generaci dokumentů založenou na převedených šablonových aktivech.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Pracovní postupy automatizace šablon**
+  Generuje soubory DOTM z obsahu PPTM pro automatizovanou výrobu dokumentů.
+
+* **Sestavování dokumentů na základě pravidel**
+  Podporuje pracovní postupy, kde převedené šablony řídí opakovatelnou tvorbu výstupů.
+
+* **Škálovatelná distribuce obsahu**
+  Umožňuje dynamické opakované použití šablon odvozených z prezentací napříč více dokumenty.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

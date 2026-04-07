@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOT إلى ICS يحول قوالب المستندات إلى بيانات متوافقة مع التقويم يمكن استخدامها للجدولة وتبادل الأحداث. هذا مهم عندما يحتوي محتوى القالب على معلومات مدفوعة بالتواريخ يجب مشاركتها عبر سير عمل التقويم.
+
+باستخدام واجهات برمجة تطبيقات بايثون، يمكن أتمتة تحويل DOT إلى ICS لدعم إنشاء الأحداث، توزيع المواعيد، والتكامل مع أنظمة الجدولة بطريقة موثوقة وقابلة للتكرار.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء حدث من القوالب**
+  تحويل معلومات الجدول المستندة إلى DOT إلى ملفات ICS للاستخدام في التقويم.
+
+* **توزيع الاجتماعات والجدول الزمني**
+  مشاركة التواريخ والأحداث المستخرجة من المستند بتنسيق جدولة قياسي.
+
+* **تكامل جدولة سير العمل**
+  تحويل محتوى القالب المهيكل إلى عناصر تقويم لتخطيط العمليات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء تقويم تلقائي**
+  يمكن لسكريبتات بايثون تحويل قوالب DOT الموجهة بالتواريخ إلى ملفات ICS للتوزيع.
+
+* **دعم خط أنابيب الجدولة**
+  يتيح التحويل للأنظمة دفع الأحداث المعرفة بالمستند إلى سير عمل التقويم.
+
+* **نشر الأحداث على دفعات**
+  يسمح المعالجة البرمجية بإنشاء ملفات ICS بحجم كبير من قوالب متعددة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

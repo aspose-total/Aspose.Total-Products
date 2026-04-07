@@ -66,7 +66,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 Word 转换为 ODS，可将文字处理文档转换为 OpenDocument 电子表格文件，以便在开放的生产力环境中进行结构化数据处理。当需要将文档内容重新组织到工作表中进行分析、审查或业务处理时，这非常有价值。
+
+从自动化的角度来看，此转换能够高效地将信息从以文档为中心的工作流迁移到以电子表格为驱动的系统，同时支持开放标准和可扩展的批处理。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **打开电子表格转换**
+  将源自 Word 的数据移动到 ODS，以便进行结构化审查和操作。
+
+* **跨平台数据处理**
+  支持优先使用开放文档电子表格格式的环境。
+
+* **运营跟踪**
+  将文档内容重新组织到工作表中，以便进行监控和记录保存。
+
+* **结构化数据复用**
+  使叙述性或表格内容在电子表格工作流中更易于使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **文档到电子表格自动化**
+  将传入的 Word 文件转换为 ODS，以用于日常业务流程。
+
+* **批量开放格式生成**
+  从多个源文档生成标准化的电子表格输出。
+
+* **工作流数据准备**
+  将 ODS 输出供开放办公生态系统和自动化处理工具使用。
+
+* **结构化归档管道**
+  将提取的文档数据保存在有序的电子表格文件中，以备后续使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

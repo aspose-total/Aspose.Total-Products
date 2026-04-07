@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLT 到 RTF 的 Python 转换使得能够将 Excel 模板文件转换为兼容性广泛且易于在不同文档环境中交换的富文本文档。当需要将基于电子表格的内容转换为轻量级文本格式，同时保留基本格式并保持高度可移植性时，这非常有用。
+
+对于自动化使用场景，XLT 到 RTF 的转换支持高效的文档生成和广泛的互操作性。它帮助基于 Python 的系统将结构化的电子表格模板转换为可共享、可归档或可被各种下游应用处理的格式化文本输出。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **可移植的格式化文档创建**  
+  将 XLT 模板转换为 RTF 文件，以便轻松共享并保留基本格式。
+
+* **轻量级内容交换**  
+  当跨多个文档工具的兼容性重要时，使用 RTF 输出。
+
+* **结构化信息转换**  
+  将电子表格模板内容转换为可读的富文本文档，以供业务使用。
+
+* **归档与审阅支持**  
+  准备适用于审阅、存储和文档交换的格式化文本文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自动化格式标准化**  
+  使用 Python API 将 XLT 文件转换为 RTF，以实现标准化的下游处理。
+
+* **跨系统文档交付**  
+  为在不同软件环境之间传递文档的工作流生成 RTF 输出。
+
+* **批量转换操作**  
+  在无需手动格式化的情况下，将多个 XLT 模板处理为富文本文件。
+
+* **文档交换流水线**  
+  将 RTF 转换集成到自动化系统中，以用于审阅、导出或归档处理。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

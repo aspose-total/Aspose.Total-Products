@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 PDF 转换为 MBOX 可以将 PDF 内容转换为用于存储电子邮件集合的邮箱存档格式。当需要将文档信息纳入电子邮件存档工作流或在批量消息库中保存时，这非常有用。
+
+自动化此转换支持可扩展的归档操作、迁移流程和结构化通信存储。通过使 PDF 文档能够以编程方式为依赖统一邮箱数据格式的系统做好准备，它降低了人工工作量。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **邮箱存档创建**  
+  将 PDF 内容转换为兼容 MBOX 的记录，以用于归档和存储目的。
+
+* **批量通信打包**  
+  将文档衍生的消息组织成邮箱集合，以实现系统可移植性。
+
+* **电子邮件存档集成**  
+  在通过 MBOX 容器管理数据的环境中使用转换后的输出。
+
+* **记录保存**  
+  在消息存档工作流中保留基于 PDF 的信息。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量存档生成**  
+  Python 工作流可以自动处理大量 PDF，生成兼容 MBOX 的输出。
+
+* **合规保留管道**  
+  转换后的内容可以插入归档库中，以实现长期存储。
+
+* **迁移准备**  
+  系统可以将 PDF 衍生的内容打包，以转移到基于邮箱的平台。
+
+* **自动化仓库更新**  
+  传入的 PDF 文档可以持续转换并追加到归档工作流中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

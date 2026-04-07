@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT 到电子邮件的转换在 Python API 中将 OpenDocument 文本模板转换为可用于消息生成、通知工作流和通信自动化的电子邮件就绪内容。它帮助组织将文档内容重新用于结构化的外发消息。
+
+此转换与自动化高度相关，因为它能够从模板动态生成电子邮件正文，提升通信的一致性、可扩展性，并与事务性或事件驱动系统集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **基于模板的消息**  
+  将文档模板转换为可重复使用的电子邮件内容，用于外联或更新。
+
+* **通知生成**  
+  将格式化文本转换为可用于警报和确认的电子邮件就绪消息。
+
+* **内容复用**  
+  允许相同的源文档同时支持文档编写和通信需求。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自动化客户更新**  
+  根据工作流触发器从 OTT 模板生成电子邮件。
+
+* **事务性消息流水线**  
+  在发送确认或提醒的系统中使用文档内容。
+
+* **动态个性化**  
+  为大规模收件人群体以编程方式填充基于模板的电子邮件内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

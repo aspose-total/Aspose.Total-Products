@@ -65,7 +65,47 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Slides for Python via 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX to DOCX conversion turns presentation-based material into a modern editable document format that supports rich text, structured layouts, and broad compatibility. It is valuable when slide content needs to be expanded into reports, proposals, documentation, or collaborative written assets.
+
+Automating PPTX to DOCX conversion with Python APIs improves content reuse and supports scalable document workflows. It enables organizations to transform visual presentations into structured documents that can be edited, reviewed, indexed, and distributed across modern digital environments.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Business Report Creation**
+  Convert slide decks into editable reports for formal communication and recordkeeping.
+
+* **Collaborative Editing**
+  Move presentation content into a document format better suited for team revisions.
+
+* **Proposal Development**
+  Reuse presentation material as the foundation for client‑ready written documents.
+
+* **Content Archiving**
+  Preserve presentation information in a widely supported and searchable document format.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Document Generation Pipelines**
+  Automatically convert presentation assets into DOCX files for downstream review.
+
+* **Content Repurposing at Scale**
+  Batch‑transform multiple slide decks into editable documents across large repositories.
+
+* **Workflow Integration**
+  Feed converted DOCX files into approval, publishing, or compliance systems.
+
+* **Structured Knowledge Capture**
+  Programmatically turn presentation content into searchable and reusable documentation.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

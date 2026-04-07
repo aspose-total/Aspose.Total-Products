@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod MSG na OTT transformuje obsah e‑mailových zpráv do otevřených textových šablon dokumentů pro opakovaně použitelné a standardizované vytváření dokumentů. Je užitečný, když je potřeba opakovaně vytvářet dokumentaci z e‑mailových struktur v otevřeném formátu šablony.
+
+V automatizačních prostředích podporují pracovní postupy MSG na OTT opakovatelný sestavování dokumentů, konzistentní formátování a škálovatelné řízení šablon. Pomáhají převádět komunikační vzorce na opakovaně použitelné provozní prostředky.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření otevřených šablon**  
+  Převést obsah zprávy na opakovaně použitelné šablony pro opakovanou tvorbu dokumentů.
+
+* **Konzistentní rozvržení dokumentů**  
+  Standardizovat formátování na základě opakujících se struktur obsahu e‑mailů.
+
+* **Operace založené na šablonách**  
+  Podporovat opakovatelná workflow, která začínají šablonami odvozenými z komunikace.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizace knihovny šablon**  
+  Generovat OTT šablony ze souborů MSG pro opakující se potřeby dokumentace.
+
+* **Standardizace otevřených workflow**  
+  Používat převedené šablony v systémech postavených na zpracování otevřených dokumentů.
+
+* **Škálovatelné sestavování dokumentů**  
+  Vkládat opakovaně použitelné šablony do automatizovaných pipeline pro tvorbu obsahu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

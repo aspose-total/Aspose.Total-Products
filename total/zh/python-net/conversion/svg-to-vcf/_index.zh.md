@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG 转 VCF 转换能够将基于矢量的源内容转换为用于共享和存储个人或组织联系信息的联系人数据格式。当需要将可视化呈现的联系详情转换为可导入地址簿工作流的机器可读记录时，这一点尤为重要。
+
+使用 Python API 进行 SVG 转 VCF 转换通过将结构化的可视化联系信息转化为可重复使用的数字联系人文件来支持自动化。它提高了准确性，减少了手动数据输入，并实现了与联系人管理系统的无缝集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **数字联系人创建**  
+  将基于 SVG 的联系人布局转换为 VCF 文件，便于共享和导入。
+
+* **地址簿集成**  
+  帮助将可视化格式的联系信息迁移到结构化的联系人系统中。
+
+* **减少数据录入**  
+  通过将图形化的联系详情转化为可重复使用的文件，最小化手动转录。
+
+* **联系人分发工作流**  
+  支持对从可视化来源生成的联系人记录进行标准化共享。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化联系人提取流水线**  
+  Python 应用程序可以将 SVG 联系卡转换为 VCF 文件，立即使用。
+
+* **批量联系人生成**  
+  多个 SVG 文件可以通过编程方式转换为结构化的联系人记录。
+
+* **CRM 与目录支持**  
+  自动化系统可以从可视化联系资产生成 VCF 输出，以供下游集成。
+
+* **动态联系人发布**  
+  当基于 SVG 的联系内容更改时，编程工作流可以创建更新的 VCF 文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

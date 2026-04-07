@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT to EML conversion převádí soubory OpenDocument Text do standardního formátu e‑mailové zprávy, který zachovává strukturu zprávy pro ukládání, přenos nebo archivaci. To je užitečné, když je třeba obsah dokumentu zabalit jako e‑mailový artefakt pro komunikaci nebo správu záznamů.
+
+V automatizačních prostředích podporuje převod ODT na EML pracovní toky od dokumentu k zprávě, procesy archivace e‑mailů a hromadnou transformaci obsahu. Python API umožňují tyto úkoly spouštět programově a konzistentně napříč velkými sadami dokumentů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytvoření e‑mailové zprávy**  
+  Převádí obsah dokumentu do přenosného formátu e‑mailové zprávy.
+
+* **Archivní balení**  
+  Pomáhá zachovat obsah připravený ke komunikaci ve standardizované struktuře.
+
+* **Předání pracovního toku**  
+  Připravuje dokumenty pro systémy, které používají výměnu založenou na zprávách.
+
+* **Připravenost na distribuci obsahu**  
+  Umožňuje následné doručení nebo revizi jako e‑mailové objekty.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované balení zpráv**  
+  Pythonové pracovní toky mohou převádět dokumenty do souborů EML pro ukládání nebo přenos.
+
+* **Archivní pipeline**  
+  Obsah ODT lze automaticky převést pro dlouhodobé záznamy komunikace.
+
+* **Hromadné vytváření e‑mailových artefaktů**  
+  Velké sbírky dokumentů lze zpracovat do formátu EML v dávkových úlohách.
+
+* **Výmena systém‑na‑systém**  
+  Automatizované procesy mohou využívat výstupy EML v integracích zaměřených na zprávy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

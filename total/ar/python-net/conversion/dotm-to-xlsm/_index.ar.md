@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOTM إلى XLSM يحول قوالب Word المدعومة بالماكرو إلى دفاتر عمل Excel مدعومة بالماكرو لأتمتة جداول البيانات المتقدمة وتدفقات البيانات القابلة لإعادة الاستخدام. يكون ذلك مفيدًا عندما يجب نقل محتوى المستند إلى شكل جدول بيانات مع الحفاظ على دعم سلوك دفتر العمل الديناميكي.
+
+استخدام واجهات برمجة تطبيقات Python لتحويل DOTM إلى XLSM يتيح إنشاء دفاتر عمل متقدمة تلقائيًا من القوالب المهيكلة. هذا يحسن الاتساق، يدعم أتمتة الأعمال القابلة للتوسع، ويساعد على دمج العمليات المدفوعة بالمستندات مع عمليات جداول البيانات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء دفتر عمل مدعوم بالماكرو**
+  تحويل محتوى DOTM إلى XLSM لتدفقات عمل جداول البيانات المتقدمة.
+
+* **أتمتة من المستند إلى جدول البيانات**
+  إعادة توظيف محتوى القالب المهيكل إلى دفاتر عمل قابلة لإعادة الاستخدام لمعالجة البيانات.
+
+* **دعم سير العمل التشغيلي**
+  تمكين عمليات مدفوعة بجداول البيانات أكثر غنىً من مدخلات المستندات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء دفتر عمل متقدم مؤتمت**
+  يمكن لسير العمل إنشاء ملفات XLSM من قوالب DOTM لمعالجة جداول البيانات الديناميكية.
+
+* **تكامل منطق الأعمال**
+  يدعم التحويل خطوط أنابيب مؤتمتة تربط المستندات باستخدام دفاتر العمل المتقدمة.
+
+* **إنتاج دفاتر عمل دفعي**
+  تمكن المعالجة البرمجية من تحويل ملفات DOTM إلى XLSM بشكل قابل للتوسع وبشكل ثابت.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

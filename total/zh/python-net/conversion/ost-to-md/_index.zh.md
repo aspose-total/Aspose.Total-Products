@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OST 到 MD 转换将邮箱数据转换为 Markdown 格式，创建轻量、可读且可移植的文本内容，适用于文档和知识工作流。对于希望将邮件衍生的内容以结构化纯文本格式在各平台上良好运行的团队而言，这非常有价值。
+
+自动化收益显著，因为 OST 到 MD 转换自然融入内容流水线、开发者工作流和文档系统。Python API 使得将邮箱归档快速、可扩展地转换为 Markdown 文件，以便索引、发布和复用。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **轻量文档**  
+  将电子邮件内容转换为 Markdown，以实现简洁、结构化的基于文本的记录。
+
+* **知识库准备**  
+  帮助在内部文档系统中复用重要的邮箱信息。
+
+* **开发者友好内容导出**  
+  支持偏好可移植纯文本格式的工作流。
+
+* **版本控制记录**  
+  使得邮件衍生的内容在面向文本的环境中更易追踪和管理。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **文档流水线自动化**  
+  Python 脚本将 OST 内容转换为 Markdown，以用于发布和索引工作流。
+
+* **内容提取工作流**  
+  自动化系统准备邮箱文本，以供可搜索的仓库和结构化笔记使用。
+
+* **可移植归档生成**  
+  编程式转换从存储的电子邮件数据中创建可复用的文本资产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

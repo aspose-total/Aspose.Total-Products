@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل OFT إلى نص باستخدام واجهات برمجة تطبيقات بايثون يستخرج محتوى قالب بريد Outlook إلى نص عادي للمعالجة البسيطة، الفهرسة، والأرشفة. هذا مفيد عندما تكون التنسيقات أقل أهمية من إمكانية الوصول إلى المحتوى، قابلية البحث، ومعالجة البيانات الخفيفة.
+
+في سير عمل الأتمتة، يدعم تحويل OFT إلى نص التحليل، الفحص، والتكامل مع الأنظمة التي تعتمد على المحتوى النصي الخام. إنه يحسن الكفاءة في استخراج المحتوى، تحسين البحث، والعمليات اللاحقة للبيانات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **استخراج المحتوى العادي**  
+  تحويل ملفات OFT إلى نص للوصول المباشر إلى محتوى الرسالة دون تعقيد التنسيق.
+
+* **تحضير البحث والفهرسة**  
+  استخدام مخرجات النص العادي لتحسين الفهرسة، الاسترجاع، وسير عمل التحليلات القائمة على النص.
+
+* **تخزين أرشيفي خفيف الوزن**  
+  حفظ المحتوى الأساسي للقوالب في تنسيق مدمج وبسيط.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط أنابيب استخراج النص**  
+  إدخال محتوى OFT المستخرج في عمليات التصنيف الآلي، الوسم، أو التحليل.
+
+* **إنشاء أرشيف قابل للبحث**  
+  تحويل القوالب إلى نص عادي لفهرسة المستودع وسير عمل الاسترجاع السريع.
+
+* **تطبيع المحتوى برمجياً**  
+  استخدام واجهات برمجة تطبيقات بايثون لتوحيد نص القالب للتكاملات اللاحقة ومعالجة البيانات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

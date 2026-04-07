@@ -66,7 +66,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX 转 XLS 转换将文字处理文档转换为用于表格分析、报告和结构化数据管理的电子表格文件。此过程允许文档中的表格和有组织的信息在基于电子表格的工作流中重复使用。
+
+Python API 使 DOCX 转 XLS 转换能够在报告系统、迁移项目和企业数据管道中实现自动化。它支持将文档中的结构化内容一致地提取到传统电子表格环境中。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **电子表格数据提取**  
+  将 DOCX 表格和结构化文本转换为可用于电子表格的工作表。
+
+* **传统报告支持**  
+  使基于文档的数据能够在已建立的电子表格工作流中重复使用。
+
+* **从文档进行数据迁移**  
+  帮助将结构化信息转移到电子表格环境中进行分析。
+
+* **运营数据处理**  
+  支持在表格审查和报告系统中使用文档内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化电子表格导出**  
+  系统可以将 DOCX 文件转换为 XLS 格式，以用于下游业务工作流。
+
+* **批量传统电子表格转换**  
+  Python 脚本可以以编程方式处理文档集合并生成电子表格输出。
+
+* **企业数据转换**  
+  文档内容可以导出为 XLS 文件，用于报告和归档系统。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

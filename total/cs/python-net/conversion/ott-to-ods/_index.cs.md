@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to ODS conversion in Python APIs transforms OpenDocument text templates into spreadsheet documents, helping convert textual source material into structured tabular assets for calculation, review, and exchange. It is useful when document content must become editable spreadsheet data.
+
+This conversion improves automation by connecting template-based content generation with spreadsheet workflows, enabling scalable reporting, processing, and reuse across systems that depend on structured data.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytvoření tabulky**  
+  Converts template content into editable open spreadsheet documents.
+
+* **Příprava tabulkových dat**  
+  Organizes document information for sorting, filtering, and analysis.
+
+* **Kompatibilita otevřených pracovních postupů**  
+  Supports environments built on open office document standards.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Opakované exporty tabulek**  
+  Generates ODS files from OTT templates on demand or schedule.
+
+* **Datové kanály dokument‑na‑data**  
+  Feeds converted content into spreadsheet-based processing flows.
+
+* **Automatizované provozní reportování**  
+  Produces consistent workbook outputs from standardized text sources.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

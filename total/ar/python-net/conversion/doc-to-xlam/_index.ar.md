@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل المستند إلى XLAM يحول محتوى Word إلى مخرجات جداول بيانات مرتبطة بالإضافة لسيناريوهات تتضمن وظائف إكسل المتقدمة ومكونات الأتمتة القابلة لإعادة الاستخدام. يكون ذلك مفيدًا عندما يجب أن يدعم المنطق المستمد من المستند أو المحتوى المهيكل امتدادات جداول البيانات.
+
+يمكن لواجهات برمجة تطبيقات Python تبسيط سير عمل تحويل DOC إلى XLAM، مما يساعد المؤسسات على دمج تحويل المستندات في بيئات أتمتة جداول البيانات المتقدمة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **دعم إضافة جداول البيانات**
+  تحويل محتوى المستند ذي الصلة لتدفقات العمل المرتبطة بنشر إضافة إكسل.
+
+* **حزم الأتمتة المتقدمة**
+  دعم العمليات المهيكلة حيث يغذي محتوى المستند وظائف جداول البيانات القابلة لإعادة الاستخدام.
+
+* **توحيد العملية**
+  إعادة توجيه الوثائق الرسمية إلى أصول متوافقة مع تدفقات عمل جداول البيانات المتقدمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تحويل موجه للأتمتة**
+  إعداد مخرجات متعلقة بـ XLAM من مصادر DOC برمجياً في تدفقات عمل مُتحكم فيها.
+
+* **خطوط أنابيب منطق جداول البيانات القابلة لإعادة الاستخدام**
+  تحويل الأصول المستندة إلى المستندات إلى صيغ مناسبة للعمليات المتقدمة في إكسل.
+
+* **تكامل تدفق العمل المؤسسي**
+  أتمتة تحويل المستندات للفرق التي تستخدم امتدادات جداول البيانات على نطاق واسع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

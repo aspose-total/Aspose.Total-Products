@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование WordML в PPTM преобразует содержимое документа в презентационные файлы с поддержкой макросов для рабочих процессов, которые объединяют редактируемые слайды с встроенной логикой автоматизации. Это полезно, когда файлы презентаций требуют как структурированного контента, так и программируемого поведения.
+
+С помощью Python API преобразование WordML в PPTM поддерживает масштабируемое создание презентаций, соответствуя требованиям продвинутой автоматизации слайдов.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Создание колоды с поддержкой макросов**
+  Преобразует содержимое WordML в файлы PPTM для презентаций, способных к автоматизации.
+
+* **Поддержка продвинутых рабочих процессов**
+  Позволяет создавать презентации, зависящие как от редактируемого контента, так и от встроенной логики.
+
+* **Повторно используемый оперативный контент**
+  Преобразует материал документа в программируемые презентационные активы.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Автоматизированная сборка колоды**
+  Создаёт PPTM‑презентации из структурированных документов в повторяемых рабочих процессах.
+
+* **Интеграция логики презентации**
+  Поддерживает сценарии, в которых преобразованные слайды должны работать с встроенной автоматизацией.
+
+* **Корпоративная упаковка контента**
+  Связывает преобразование документов с продвинутыми системами доставки презентаций.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

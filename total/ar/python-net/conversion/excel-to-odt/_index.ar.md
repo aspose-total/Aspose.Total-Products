@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تمكن تحويل Excel إلى ODT في بايثون من تحويل بيانات الجداول إلى ملفات نصية بصيغة المستند المفتوح لتكون قابلة للتحرير ومعتمدة على معايير معالجة النصوص. وهو ذو قيمة في البيئات التي تعطي الأولوية للتشغيل البيني، وإمكانية الوصول، وسير عمل المستندات المفتوحة.
+
+يدعم هذا التحويل الأتمتة من خلال السماح لتطبيقات بايثون بإنشاء مستندات بصيغة مفتوحة قابلة للتحرير من مصادر الجداول في خطوط محتوى قابلة للتوسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تقارير المستند المفتوح**  
+  تحويل ملفات Excel إلى مستندات ODT لإنشاء وتحرير تقارير معتمدة على المعايير.
+
+* **توثيق متعدد المنصات**  
+  استخدام صيغ النص المفتوح لدعم توافق أوسع عبر بيئات المكاتب.
+
+* **عرض البيانات القابلة للتحرير**  
+  تحويل محتوى الجداول إلى مستندات نصية قابلة للقراءة والتعديل.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تصدير بصيغة مفتوحة مؤتمت**  
+  إنشاء ملفات ODT من بيانات Excel كجزء من سير عمل المستندات القائم على بايثون.
+
+* **خطوط محتوى قابلة للتشغيل البيني**  
+  دعم الأنظمة التي تتطلب معايير المستند المفتوح للتبادل أو الأرشفة.
+
+* **تحويل المستندات بالجملة**  
+  تحويل ملفات جداول متعددة إلى مخرجات ODT قابلة للتحرير برمجيًا.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

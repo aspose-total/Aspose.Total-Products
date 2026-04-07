@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM 到 XLAM 的转换将启用宏的文档转换为插件式电子表格输出，旨在支持可重用的电子表格功能。当文档驱动的逻辑或结构化内容需要贡献于可扩展的电子表格工作流时，这非常有用。
+
+在自动化系统中，DOCM 到 XLAM 的转换有助于打包可重用的功能，标准化高级电子表格函数，并将基于文档的流程与可扩展的工作簿环境连接起来。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **可重用的电子表格扩展**
+  支持从基于文档的逻辑或结构化内容创建插件式输出。
+
+* **工作流标准化**
+  帮助在重复操作中集中可重用的电子表格行为。
+
+* **高级电子表格启用**
+  将编写的文档内容与更具可扩展性的电子表格使用案例相连接。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化插件准备**
+  将 DOCM 源转换为兼容 XLAM 的输出，以实现标准化的电子表格工作流。
+
+* **可重用逻辑分发**
+  支持在团队之间可扩展地交付重复的电子表格功能。
+
+* **编程式电子表格集成**
+  将文档转换与基于工作簿的高级自动化流程相连接。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

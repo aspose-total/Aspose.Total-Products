@@ -65,7 +65,47 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS to MOBI conversion transforms spreadsheet files into a format optimized for digital reading devices. This allows structured spreadsheet information to be distributed as readable documents suitable for portable viewing.
+
+Python APIs enable automated transformation of spreadsheet content into ebook-ready formats. This supports scalable publishing workflows, automated document generation, and digital content distribution systems.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Data Publishing for Digital Reading**  
+  Convert spreadsheet-based information into portable digital documents.
+
+* **Structured Content Distribution**  
+  Transform spreadsheet datasets into readable formats for digital consumption.
+
+* **Report Publishing**  
+  Convert analytical spreadsheets into formatted digital documents.
+
+* **Content Repurposing**  
+  Adapt spreadsheet content for ebook-style documentation.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automated Publishing Pipelines**  
+  Python workflows convert spreadsheets into digital reading formats automatically.
+
+* **Bulk Digital Document Generation**  
+  Systems process multiple spreadsheets into portable reading documents.
+
+* **Dynamic Content Publishing**  
+  Programmatic workflows generate reader-friendly documents from spreadsheet inputs.
+
+* **Digital Content Distribution Systems**  
+  Conversion pipelines support automated publishing infrastructures.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

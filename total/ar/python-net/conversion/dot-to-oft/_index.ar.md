@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOT إلى OFT يحول قوالب المستندات إلى ملفات قوالب بريد إلكتروني تُستخدم في سير عمل الرسائل القابلة للتكرار. هذا مفيد عندما ترغب المؤسسات في تحويل القوالب المكتوبة إلى أصول اتصال قابلة لإعادة الاستخدام.
+
+باستخدام واجهات برمجة تطبيقات بايثون، يدعم تحويل DOT إلى OFT إنشاء قوالب رسائل تلقائيًا تُحسّن الاتساق، وتقلل العمل المتكرر، وتُسهل إعداد الاتصالات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء قالب بريد إلكتروني قابل لإعادة الاستخدام**
+  تحويل ملفات DOT إلى OFT لصياغة رسائل موحدة.
+
+* **توحيد الاتصالات**
+  إعادة استخدام تخطيطات المستندات كقوالب بريد إلكتروني قابلة للتكرار للفرق أو الأنظمة.
+
+* **أصول رسائل جاهزة لسير العمل**
+  إعداد قوالب اتصال منظمة لإعادة الاستخدام عبر العمليات المتكررة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء قالب تلقائي**
+  يمكن لتدفقات عمل بايثون إنشاء ملفات OFT من مستندات DOT لأنظمة إعداد الرسائل.
+
+* **خطوط أنابيب اتصال قابلة للتكرار**
+  يتيح التحويل إخراج قوالب بريد إلكتروني متسقة من مصادر المستندات المركزية.
+
+* **نشر القوالب القابلة للتوسع**
+  يمكن للعمليات البرمجية إنشاء وإدارة أعداد كبيرة من قوالب البريد الإلكتروني القابلة لإعادة الاستخدام.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSB 到 MOBI 的转换将二进制电子表格内容转换为适合电子书的格式，使结构化数据和生成的文本内容能够以便携的阅读体验进行分发。当需要将基于电子表格的信息重新用于可阅读的数字出版物时，这非常有用。
+
+在自动化工作流中，XLSB 到 MOBI 的转换支持可扩展的内容发布，使系统能够将以数据为中心的电子表格源转换为适合数字分发、知识共享和自动化出版管道的便携文档。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **数字出版**  
+  将来源于电子表格的内容转换为适合电子书式阅读的便携格式。
+
+* **知识分发**  
+  帮助将结构化信息打包，以便在移动端和离线环境中使用。
+
+* **内容再利用**  
+  将电子表格数据转化为更易获取的长篇数字内容。
+
+* **便携文档**  
+  支持以读者友好的格式交付生成的文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化电子书创建**  
+  系统可以将 XLSB 内容转换为 MOBI 文件，以用于数字出版工作流。
+
+* **批量内容发布**  
+  大量基于电子表格的材料可以转换为便携的阅读格式。
+
+* **文档分发管道**  
+  自动化工作流可以准备来源于电子表格的参考内容，以实现更广泛的交付。
+
+* **数据到出版的转换**  
+  结构化的电子表格输入可以供程序化出版系统使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

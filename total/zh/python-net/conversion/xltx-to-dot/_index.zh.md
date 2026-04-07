@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTX 到 DOT 的转换将电子表格模板内容转换为可重复使用的文字处理模板格式，从而能够创建多个标准化文档。当结构化的电子表格布局需要转化为可重复使用的文档模板，以用于正式沟通、报告或运营文书时，这非常有价值。
+
+在自动化环境中，XLTX 到 DOT 的转换帮助团队从基于电子表格的来源生成可重复使用的文档基础，提升一致性，减少重复的设置工作，并支持可扩展的文档创建流程。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **可重复使用的文档模板创建**  
+  将电子表格模板转换为文档模板，可在类似输出中重复使用。
+
+* **标准化业务格式化**  
+  帮助在生成的文档集合中保持一致的结构和布局。
+
+* **面向流程的文档编制**  
+  支持需要从受控模板开始的重复表单或报告的环境。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **模板库生成**  
+  自动化可以从 XLTX 输入构建文档模板库，以供组织重复使用。
+
+* **文档标准化流水线**  
+  该转换支持需要在各部门之间使用一致起始模板的工作流。
+
+* **批量模板部署**  
+  编程处理使得能够从结构化的电子表格设计大规模创建 DOT 模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

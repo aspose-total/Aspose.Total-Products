@@ -65,7 +65,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOCX إلى ODS يحول مستندات معالجة النصوص إلى ملفات جدول بيانات OpenDocument، مما يسمح بإعادة استخدام المحتوى الهيكلي أو الجدولي في سير عمل الجداول. يدعم هذا التحويل استخراج البيانات والتوافق مع أنظمة المكتب المفتوح.
+
+باستخدام واجهات برمجة تطبيقات بايثون، يمكن دمج تحويل DOCX إلى ODS في تقارير آلية، تحليلات، وأنابيب تحويل المستندات. يساعد ذلك المؤسسات على نقل البيانات الهيكلية من المستندات السردية إلى عمليات تعتمد على الجداول.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تصدير جدول بيانات مفتوح**  
+  يحول المحتوى الهيكلي لـ DOCX إلى ملفات جدول بيانات بناءً على معايير مفتوحة.
+
+* **استخراج البيانات الجدولية**  
+  يتيح جداول المستندات والمحتوى المنظم إعادة استخدامها للتحليل.
+
+* **التوافقية عبر المنصات للبيانات**  
+  يدعم التوافق مع حزم المكتب التي تستخدم صيغ جداول بيانات مفتوحة.
+
+* **سير عمل من المستند إلى البيانات**  
+  يسهل نقل المعلومات الهيكلية إلى أنظمة الجداول.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **أنابيب استخراج البيانات الآلية**  
+  يمكن تحويل ملفات DOCX إلى جداول ODS لتدفقات عمل التحليل اللاحقة.
+
+* **إنشاء جداول مفتوحة دفعيًا**  
+  يمكن لسكربتات بايثون معالجة مستندات متعددة وتصدير ملفات جدول بيانات برمجيًا.
+
+* **أنظمة تقارير متوافقة**  
+  يمكن لسير عمل المؤسسات تحويل محتوى المستند إلى صيغة ODS لتوسيع إمكانية الوصول.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

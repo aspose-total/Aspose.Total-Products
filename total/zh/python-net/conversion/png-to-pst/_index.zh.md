@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PNG 到 PST 的转换允许基于图像的通信内容被打包成结构化的个人存储文件，用于大规模的电子邮件归档、备份和迁移。这对需要在面向邮箱的容器中保存可长期存储和便携的视觉记录的组织非常有价值。
+
+使用 Python API，可以在高容量环境中自动化转换过程，提升归档一致性，减少人工处理，并实现与企业消息、合规性和备份工作流的集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **电子邮件归档创建**  
+  将基于 PNG 的内容转换为 PST 兼容的消息存储，以实现长期保存。
+
+* **备份和保留支持**  
+  帮助在结构化的邮箱备份工作流中包含视觉通信记录。
+
+* **迁移就绪打包**  
+  支持需要从基于图像的输入生成可移植个人存储文件的项目。
+
+* **集中式数据整合**  
+  使团队能够在统一的邮箱归档中存储由 PNG 派生的通信记录。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **大批量归档自动化**  
+  Python API 可以在大规模归档工作流中从批量 PNG 文件生成 PST 输出。
+
+* **合规处理管道**  
+  系统可以自动将视觉记录打包成 PST 文件，以满足治理和保留的需求。
+
+* **计划备份工作流**  
+  组织可以在定期计划中将传入的基于 PNG 的通信转换为 PST 归档。
+
+* **迁移准备系统**  
+  自动化例程可以在数据传输前从 PNG 派生的消息内容创建 PST 容器。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ICS to DOT 转换使用 Python API，使日历数据能够转换为 Word 模板文件。此方法允许将调度信息合并到可重用的文档模板中，以实现结构化报告。
+
+自动化的 Python 工作流使得将 ICS 文件转换为可在多个文档生成过程中重复使用的模板格式成为可能，从而提升一致性和效率。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **可重用的调度模板**  
+  将日历数据转换为文档模板，以实现一致的报告。
+
+* **模板驱动的文档**  
+  将事件结构嵌入可重用的 Word 模板格式中。
+
+* **结构化工作流设计**  
+  创建支持标准化文档创建的模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **模板生成流水线**  
+  自动从 ICS 文件创建 DOT 模板。
+
+* **文档自动化系统**  
+  在自动化文档生成中使用日历模板。
+
+* **可扩展的报告基础设施**  
+  将大量日历数据转换为可重用的模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

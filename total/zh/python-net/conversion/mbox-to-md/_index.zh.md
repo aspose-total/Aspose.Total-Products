@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX 到 MD 的转换将邮箱存档转换为 Markdown 文件，使电子邮件内容更易于阅读、版本管理，并在轻量级基于文本的文档系统中重复使用。此格式非常适合内容可移植性、开发者工作流和知识管理环境。
+
+借助 Python API，MBOX 到 Markdown 的转换可以实现自动化，以支持可扩展的内容提取、静态发布以及与现代文档流水线的高效集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **轻量级文本文档**
+  将电子邮件转换为 Markdown，以获得简洁、可读且可移植的文档。
+
+* **知识库集成**
+  在维基、代码库或静态内容工作流中重复使用邮箱内容。
+
+* **友好版本的归档**
+  将转换后的电子邮件内容存储为适合跟踪和更新的格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **静态内容生成**
+  自动将邮箱数据转换为 Markdown，以用于发布或索引。
+
+* **基于仓库的工作流**
+  使用 Python 将电子邮件存档迁移到以文本为主的内容管理系统。
+
+* **可扩展的文档流水线**
+  批量将 MBOX 文件转换为结构化的 Markdown 资产以供重复使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

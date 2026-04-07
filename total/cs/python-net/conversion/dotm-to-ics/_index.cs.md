@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod DOTM na ICS transformuje makrem povolené šablony Wordu do souborů kompatibilních s kalendářem, které představují události, rozvrhy nebo připomenutí ve standardizovaném formátu. Je užitečný, když šablony dokumentů obsahují informace podobné schůzkám, které je třeba sdílet napříč plánovacími systémy.
+
+Použití Python API pro převod DOTM na ICS zlepšuje automatizaci tím, že umožňuje přímé vytváření kalendářových položek ze šablonových dokumentů. To snižuje ruční úsilí při plánování, podporuje generování událostí řízené procesy a pomáhá integrovat pracovní postupy dokumentů s kalendářovými platformami.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Extrahování rozvrhu**
+  Převést podrobnosti událostí z DOTM souborů do formátu ICS pro import do kalendáře a sdílení.
+
+* **Opětovné použití šablony schůzky**
+  Přetvořit agendy nebo oznámení založené na dokumentech do strukturovaných kalendářových položek.
+
+* **Plánování napříč platformami**
+  Vytvořit standardní kalendářový formát, který funguje napříč mnoha plánovacími nástroji a prostředími.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatické generování kalendářních souborů**
+  Pracovní postupy mohou automaticky extrahovat data a podrobnosti schůzek ze šablon DOTM a vytvářet soubory ICS.
+
+* **Distribuce událostí řízená procesem**
+  Převod umožňuje systémům publikovat informace o plánování přímo z obsahu dokumentu.
+
+* **Dávkové operace plánování**
+  Programové zpracování podporuje hromadné vytváření kalendářových souborů z opakujících se šablon.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

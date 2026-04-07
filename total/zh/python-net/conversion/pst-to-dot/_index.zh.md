@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API 中的 PST 转 DOT 转换将邮箱内容转换为 Word 模板文件，以实现可重用的文档生成。当基于电子邮件的内容需要标准化为可重复的布局，并支持一致的格式和结构化的下游输出时，这非常有用。
+
+在自动化场景中，PST 转 DOT 转换帮助组织从归档通信中创建基于模板的工作流。它通过将邮箱数据转化为可重复使用的基础，支持定期报告、案例文件或运营文档的高效生成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **可重用模板创建**
+  将 PST 派生的内容转换为 DOT 文件，以实现可重复的文档结构。
+
+* **标准化报告布局**
+  帮助在从电子邮件生成的文档输出中保持一致的格式。
+
+* **文档工作流准备**
+  支持以邮箱数据为基础的重复模板场景。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **基于模板的记录生成**
+  自动化系统可以使用 DOT 输出构建可重复的文档流程。
+
+* **一致的格式化流水线**
+  转换确保归档的电子邮件内容符合预定义的布局规则。
+
+* **可扩展的文档组装**
+  编程处理使得从邮箱数据创建模板更快且更统一。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

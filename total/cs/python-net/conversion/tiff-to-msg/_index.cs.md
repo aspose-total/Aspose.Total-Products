@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TIFF to MSG conversion using Python APIs allows scanned or image-based documents to be converted into structured email message files suitable for desktop email workflows and message-based processing. This is useful when TIFF content must be packaged as an individual email item for review, storage, or exchange.
+
+From an automation standpoint, TIFF to MSG conversion supports standardized message generation, improved operational consistency, and easier integration with email-centric business systems. It helps convert static visual inputs into actionable digital communication objects.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Individuální balení zpráv**
+  Converts TIFF files into standalone MSG outputs for message-level handling.
+
+* **Příprava pracovního postupu e‑mailu**
+  Helps prepare image-based documents for desktop email review and management processes.
+
+* **Strukturované doručení obsahu**
+  Supports converting scanned records into reusable message artifacts for communication systems.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná tvorba zpráv**
+  Creates MSG files from TIFF documents as part of programmatic communication workflows.
+
+* **Zpracování spisů**
+  Enables scanned evidence, forms, or records to be converted into structured message items automatically.
+
+* **Automatizace předání pracovního postupu**
+  Supports message-based routing of TIFF-derived content between systems and teams.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

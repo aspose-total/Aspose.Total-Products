@@ -64,7 +64,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل PPTM إلى XLS باستخدام واجهات برمجة تطبيقات بايثون يتيح تحويل العروض التقديمية الممكّنة بالماكرو إلى تنسيق جدول بيانات قديم يُستخدم على نطاق واسع لمعالجة البيانات الجدولية والتوافق العكسي. وهو مفيد في البيئات التي لا تزال الأنظمة القديمة للجدوليات أو سير العمل المستقر يتطلب تنسيقات دفاتر العمل التقليدية.
+
+يدعم هذا التحويل الأتمتة من خلال ربط أصول العروض التقديمية الحديثة بعمليات تعتمد على الجداول التي تحتاج إلى التوافق القديم. يساعد المؤسسات على الحفاظ على الوصول، وتبسيط الهجرة، ودمج بيانات الشرائح المستخرجة في الأنظمة التشغيلية القائمة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **التوافق مع جداول البيانات القديمة**
+  يقوم بتحويل بيانات العرض التقديمي إلى تنسيق مناسب لسير عمل جداول البيانات القديمة.
+
+* **استخراج المحتوى الجدولي**
+  يجعل الجداول المستندة إلى الشرائح متاحة للفرز والحساب والمراجعة.
+
+* **إعادة استخدام البيانات التشغيلية**
+  يدعم نقل معلومات العرض التقديمي إلى عمليات تعتمد على جداول البيانات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط تصدير متوافقة مع الإصدارات السابقة**
+  يُؤتمت تحويل PPTM إلى XLS للأنظمة التي تعتمد على تنسيقات جداول البيانات القديمة.
+
+* **معالجة متمركزة حول جداول البيانات**
+  يُغذي بيانات العرض المستخرجة إلى سير عمل تشغيلية وإبلاغية مُستقرة.
+
+* **أتمتة دعم الهجرة**
+  يساعد على ربط مستودعات العروض التقديمية ببيئات جداول البيانات القديمة برمجيًا.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

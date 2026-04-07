@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOTX إلى XLSM يحول محتوى قالب Word إلى تنسيق جدول بيانات مدعوم بالماكرو لتدفقات عمل متقدمة للدفاتر. يكون ذلك ذا قيمة عندما يجب إعادة استخدام بيانات المستند المهيكلة في جداول البيانات التي تدعم سلوكًا واعيًا بالأتمتة.
+
+مع واجهات برمجة تطبيقات Python، يتيح هذا التحويل إنشاء مخرجات جداول بيانات قابلة للتوسع تتناسب مع عمليات الشركات والعمليات التشغيلية الأكثر تعقيدًا.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء جدول بيانات مدعوم بالماكرو**
+  تحويل محتوى المستند إلى تنسيقات دفتر عمل مناسبة لتدفقات العمل المتقدمة.
+
+* **إعادة استخدام البيانات التشغيلية**
+  نقل المعلومات المستمدة من القالب إلى بيئات جداول بيانات مهيكلة.
+
+* **دعم التقارير المعقدة**
+  إعداد مخرجات جداول البيانات لسيناريوهات معالجة أكثر ثراءً.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنتاج دفتر عمل مؤتمت**
+  إنشاء ملفات XLSM من قوالب DOTX في أنظمة التقارير المتكررة.
+
+* **خطوط أنابيب جداول البيانات المتقدمة**
+  استخدام المخرجات المحولة في تدفقات العمل التي تتطلب تنسيقات دفتر عمل قابلة للأتمتة.
+
+* **تحويل البيانات القابل للتوسع**
+  تحويل هياكل المستند المتكررة برمجيًا إلى أصول جداول بيانات مُعززة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

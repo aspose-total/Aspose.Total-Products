@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu W
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML na e‑mailovou konverzi transformuje obsah dokumentu na výstup připravený pro e‑mail, který lze použít v komunikačních pracovních postupech, šablonovaných zprávách a opětovném využití obsahu. Je užitečná, když je potřeba, aby text dokumentu se stal distribuovatelným e‑mailovým obsahem bez ručního přepisování.
+
+S Python API lze konverzi WordML na e‑mail automatizovat, aby se extrahoval tělo textu, zachovala se struktura tam, kde je to relevantní, a zjednodušily se pracovní postupy převodu dokumentu na zprávu pro oznámení, kampaně a provozní komunikaci.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Opětovné využití obsahu**
+  Převádí text dokumentu na e‑mailový obsah připravený pro komunikační použití.
+
+* **Generování šablon**
+  Používá dokumenty WordML jako zdrojový materiál pro konzistentní odchozí zprávy.
+
+* **Provozní zprávy**
+  Pomáhá převést interní nebo generované dokumenty na strukturovanou e‑mailovou komunikaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Potrubí dokument‑na‑zprávu**
+  Automaticky převádí soubory WordML na e‑mailový obsah pro odchozí systémy.
+
+* **Podpora pracovního postupu oznámení**
+  Umožňuje dynamické generování těla e‑mailu ze standardizovaných zdrojových dokumentů.
+
+* **Automatizace komunikace ve velkém objemu**
+  Škáluje tvorbu zpráv pro opakované zprávy, aktualizace nebo upozornění řízená dokumenty.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

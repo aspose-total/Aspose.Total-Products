@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT 到 MBOX 的转换将文档内容转换为邮箱式格式，适用于分组消息存储和归档工作流。当需要将文档文本打包用于类似电子邮件的存储、迁移或记录合并时，这非常有用。
+
+使用 Python API，ODT 到 MBOX 的转换可以集成到自动化的归档和通信流水线中。它支持将文档内容一致地转换为面向消息的容器，以供后续处理。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **邮箱归档准备**  
+  将文档转换为适合捆绑消息存储的格式。
+
+* **通信记录打包**  
+  帮助将文档衍生的内容与面向电子邮件的归档一起组织。
+
+* **迁移支持**  
+  促进内容向基于消息的存储库迁移。
+
+* **批量内容合并**  
+  实现对多个转换项的分组存储。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **归档生成工作流**  
+  Python 作业可以自动将多个 ODT 文件转换为邮箱式输出。
+
+* **保留流水线支持**  
+  自动化系统可以将文档衍生的消息存储在长期归档中。
+
+* **批量打包操作**  
+  大量文档批次可以被分组为可转移的邮箱文件。
+
+* **内容迁移自动化**  
+  转换流水线可以为依赖邮箱容器的系统准备记录。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

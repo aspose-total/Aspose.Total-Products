@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod MBOX na TIFF převádí obsah poštovní schránky do vysoce kvalitních souborů TIFF vhodných pro obrazování dokumentů, archivní ukládání a podrobnou vizuální archivaci. To je cenné ve workflow, kde je důležitá vícestránková digitalizace, vysoká věrnost a stabilní zachycení dokumentů.
+
+S Python API lze převod MBOX na TIFF automatizovat pro archivy typu skenování, úložiště pro soulad s předpisy a podnikové obrazové pipeline, které zpracovávají velké objemy e‑mailových záznamů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Archivace obrazových souborů**
+  Převést obsah e‑mailu do souborů TIFF pro spolehlivé dlouhodobé vizuální ukládání.
+
+* **Pracovní postupy pro obrazování dokumentů**
+  Použít z poštovní schránky odvozené obrázky v systémech určených pro skenované nebo zachycené záznamy.
+
+* **Export zpráv ve vysoké věrnosti**
+  Zachovat vzhled e‑mailu v obrazovém formátu zaměřeném na kvalitu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Dávkové vykreslování TIFF**
+  Automaticky převádět položky poštovní schránky do obrázků TIFF pro výstup připravený k archivaci.
+
+* **Systémy obrazování pro soulad**
+  Směrovat převedené e‑mailové obrázky do systémů správy záznamů a zachytávání dokumentů.
+
+* **Škálovatelná vizuální archivace**
+  Použít automatizaci v Pythonu ke zpracování velkých poštovních archivů do podrobných obrazových souborů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

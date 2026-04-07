@@ -65,7 +65,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX إلى DIF يحول المعلومات المهيكلة الموجودة في مستندات معالجة النصوص إلى تنسيق تبادل البيانات (DIF)، وهو نوع ملف يُستخدم لتبادل بيانات الجداول بين التطبيقات. تسمح هذه العملية بتمثيل المعلومات المخزنة في جداول DOCX أو المحتوى المهيكل في تنسيق متوافق مع أنظمة الجداول والأنظمة القديمة.
+
+من خلال واجهات برمجة تطبيقات بايثون، يمكن دمج تحويل DOCX إلى DIF في سير عمل تحويل البيانات الآلي. يدعم ذلك بيئات معالجة المستندات على نطاق واسع حيث يكون التوافق بين أنظمة إدارة المستندات وأدوات الجداول مطلوبًا.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تبادل بيانات الجداول**  
+  يحول جداول DOCX إلى تنسيق DIF للتوافق مع تطبيقات الجداول والأنظمة القديمة.
+
+* **تكامل الأنظمة القديمة**  
+  يتيح استيراد بيانات المستند إلى الأنظمة القديمة التي تعتمد على DIF لتبادل البيانات المهيكلة.
+
+* **سير عمل ترحيل البيانات**  
+  يسهل تحويل البيانات المستندة إلى المستندات إلى تنسيق مناسب لترحيل الأنظمة.
+
+* **نقل البيانات عبر المنصات**  
+  يدعم نقل البيانات المستندة إلى المستندات المهيكلة بين بيئات برمجية مختلفة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تصدير بيانات الجداول تلقائيًا**  
+  يمكن للأنظمة تحويل مستندات DOCX التي تحتوي على جداول إلى ملفات DIF تلقائيًا للمعالجة اللاحقة.
+
+* **خطوط تحويل دفعية**  
+  يمكن لأتمتة بايثون معالجة مجموعات كبيرة من ملفات DOCX وتحويلها إلى تنسيق DIF لمهام التكامل.
+
+* **تحويل بيانات المؤسسة**  
+  يمكن تحويل بيانات المستند تلقائيًا إلى ملفات DIF لتغذية التطبيقات القديمة أو أنظمة الجداول.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

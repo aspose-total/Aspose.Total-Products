@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTX 转换为 DOTM 将电子表格模板内容转换为宏启用的 Word 文档模板格式，旨在实现可重复使用且支持自动化的文档创建。当组织希望将基于电子表格定义的结构转变为用于重复文档生成的智能模板时，这非常有帮助。
+
+在自动化工作流中，XLTX 转换为 DOTM 支持可扩展的模板生成，提升一致性，并实现可重复使用的文档资产交付，使其能够参与更高级的基于文件的业务流程。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **智能模板生成**  
+  将电子表格模板转换为可重复使用的文档模板，且可包含高级行为。
+
+* **可重复的运营文档**  
+  帮助为重复的内部或外部文档需求创建标准化模板。
+
+* **面向自动化的文件设计**  
+  支持生成的模板用于进一步脚本化或引导使用的工作流。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板供应**  
+  系统可以从 XLTX 文件生成 DOTM 模板，以满足需要可重复使用智能文档的团队。
+
+* **动态文档框架**  
+  该转换实现了基于电子表格的模板生产，以用于结构化的数字工作流。
+
+* **大规模模板管理**  
+  编程化转换简化了大量宏启用模板的创建和维护。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

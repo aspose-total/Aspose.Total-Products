@@ -64,7 +64,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل PPTM إلى XLSM باستخدام واجهات برمجة تطبيقات بايثون يحول العروض التقديمية المدعومة بالماكرو إلى ملفات جداول بيانات مدعومة بالماكرو لتدفقات العمل التي تجمع بين البيانات المهيكلة ومنطق أتمتة الجداول. يكون ذلك ذا قيمة عندما يجب أن يدعم المحتوى المحول الحسابات أو الإجراءات البرمجية أو العمليات المتقدمة القائمة على جداول البيانات.
+
+يتماشى هذا التحويل جيدًا مع أهداف الأتمتة لأنه يتيح للبيانات المستخرجة من العروض التقديمية المشاركة في تدفقات عمل جداول البيانات التي تشمل الماكرو، وقواعد الأعمال، وخطوات المعالجة المتكررة. يساعد ذلك على توسيع فائدة محتوى العرض التقديمي إلى ما وراء التقارير الثابتة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء جداول بيانات مدعومة بالماكرو**
+  يحول بيانات العرض التقديمي إلى جداول بيانات تدعم سلوك دفتر العمل الآلي.
+
+* **دعم معالجة البيانات المتقدمة**
+  يتيح إعادة استخدام محتوى الشرائح المهيكلة في تدفقات عمل جداول بيانات مدفوعة بالمنطق.
+
+* **تقارير موجهة للأتمتة**
+  يساعد على دمج معلومات العرض التقديمي مع مهام وروتينات جداول البيانات المتكررة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط أنابيب أتمتة جداول البيانات**
+  يولد مخرجات XLSM من مصادر PPTM للمعالجة المدفوعة بالماكرو.
+
+* **دمج منطق الأعمال**
+  يدعم تدفقات العمل حيث تُ triggers البيانات المحولة إجراءات جداول بيانات آلية.
+
+* **أنظمة التقارير البرمجية**
+  يتيح تدفق محتوى العرض التقديمي إلى بيئات دفتر عمل ديناميكية قائمة على القواعد.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

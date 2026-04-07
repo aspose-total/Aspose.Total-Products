@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 TIFF 转换为 OFT 有助于将图像文档转换为可重复使用的电子邮件模板格式，从而支持可重复的通信流程。当需要将基于 TIFF 的内容或布局转化为结构化模板，以实现一致的外发消息工作流时，这非常有价值。
+
+在自动化场景中，TIFF 转 OFT 转换提升了模板标准化，减少了重复的内容准备工作，并支持可扩展的通信设计。它在重复通知、表单驱动的外联以及运营消息框架中尤为有用。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **可重用的消息模板**
+  将基于 TIFF 的内容转换为 OFT 文件，以实现可重复的电子邮件撰写工作流。
+
+* **标准化的通信资产**
+  有助于在重复的消息流程中保持一致的格式和结构。
+
+* **基于模板的操作**
+  支持将图像文档转化为未来通信的结构化起点。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **重复通知工作流**
+  自动化从 TIFF 源创建 OFT 模板的过程，以用于重复的运营消息。
+
+* **表单驱动的电子邮件准备**
+  支持将可视化表单内容转换为可重用的电子邮件模板，以进行结构化外联。
+
+* **模板分发管道**
+  实现基于 TIFF 输入的电子邮件模板资产的动态生成和交付。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

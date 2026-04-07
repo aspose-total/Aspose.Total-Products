@@ -53,7 +53,41 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل OTT إلى صور في واجهات برمجة تطبيقات Python يقوم بتحويل قوالب نصية OpenDocument إلى مخرجات صورة للمشاركة البصرية، وإنشاء معاينات، والنشر الثابت. هذا مفيد عندما يجب عرض محتوى المستند بشكل متسق عبر المنصات دون الاعتماد على صيغ المصدر القابلة للتحرير.
+
+تستفيد الأتمتة من التحويل من خلال تمكين خطوط أنابيب عرض قابلة للتوسع لإنشاء المعاينات، والصور المصغرة، وأصول الويب، ولقطات المستند التي يمكن توليدها برمجياً وتوزيعها على نطاق واسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء معاينة بصرية**  
+  ينشئ تمثيلات ثابتة لمحتوى المستند لعرض سريع.
+
+* **مشاركة عبر المنصات**  
+  يسهل عرض المحتوى حيث يكون دعم المستندات محدودًا.
+
+* **دعم النشر**  
+  ينتج أصول صورة للويب أو التقارير أو الاستخدام الأرشيفي.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط أنابيب إنشاء الصور المصغرة**  
+  ينتج صور معاينة من ملفات OTT بشكل جماعي.
+
+* **سير عمل نشر المحتوى**  
+  يحول القوالب إلى أصول بصرية للبوابات أو مواقع الوثائق.
+
+* **أرشفة اللقطات تلقائيًا**  
+  يحافظ على حالات المستند كملفات صورة غير قابلة للتحرير.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

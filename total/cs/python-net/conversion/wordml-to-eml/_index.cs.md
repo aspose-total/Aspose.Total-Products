@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu W
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konverze WordML na EML převádí obsah dokumentu do standardního formátu souboru e‑mailové zprávy, který lze uložit, přenést nebo otevřít v kompatibilních e‑mailových klientech. To je užitečné pro archivaci, generování e‑mailů a automatizaci pracovních postupů založených na zprávách.
+
+Python API podporují konverzi WordML na EML programatickým mapováním textu dokumentu do e‑mailových struktur, což umožňuje škálovatelnou transformaci obsahu pro archivní a komunikační systémy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování souboru EML**
+  Převádí obsah dokumentu do přenosných souborů EML pro ukládání a výměnu zpráv.
+
+* **Archivní pracovní postupy**
+  Uchovává komunikaci odvozenou z dokumentu ve standardním formátu souboru e‑mail.
+
+* **Kompatibilita klienta**
+  Podporuje e‑mailové pracovní postupy, které závisí na široce uznávaných standardech souborů zpráv.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované vytváření souborů zpráv**
+  Generuje výstupy EML z dokumentů WordML v procesích hromadné konverze.
+
+* **Archivace pro soulad**
+  Ukládá komunikaci odvozenou z dokumentu jako soubory EML pro uchovávání a auditní pracovní postupy.
+
+* **Distribuční kanály obsahu**
+  Zpřístupňuje převedené e‑mailové soubory do systémů zpracování, ukládání nebo revize pošty.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

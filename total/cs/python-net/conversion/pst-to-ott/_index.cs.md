@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod PST na OTT v Python API převádí obsah poštovní schránky do otevřených šablon dokumentů, které podporují opakované formátování a strukturovanou tvorbu dokumentů. Je užitečný, když je archivovaná komunikace potřeba převést na opakovatelná šablonová aktiva pro provozní nebo reportovací pracovní postupy.
+
+V automatizačních prostředích umožňuje převod PST na OTT generování výstupu řízeného šablonami pomocí otevřených standardů. Pomáhá transformovat e‑mailové archivy do opakovatelných rozvržení, která podporují konzistenci, efektivitu a škálovatelnou tvorbu dokumentů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření otevřených šablon**
+  Převádí obsah odvozený z poštovní schránky do souborů OTT pro opakovatelnou strukturu dokumentů.
+
+* **Standardizovaný návrh výstupu**
+  Pomáhá udržovat konzistentní rozvržení dokumentů založených na archivované komunikaci.
+
+* **Dokumentace řízená šablonami**
+  Podporuje opakující se pracovní postupy, které vyžadují opakovatelné formátování.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Opakovatelná pracovní postupy v otevřeném formátu**
+  Automatizované systémy mohou generovat šablony OTT z obsahu PST pro opakované použití.
+
+* **Konzistentní sestavování dokumentů**
+  Výstup založený na šablonách pomáhá standardizovat dokumentaci odvozenou z poštovní schránky.
+
+* **Škálovatelná automatizace rozvržení**
+  Programový převod podporuje efektivní tvorbu opakovatelných otevřených šablon.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV 到 DOTX 的转换将 TSV 数据集转换为用于标准化和可重复内容生成的现代文档模板格式。它对需要结构化信息来填充文档框架而非独立文件的团队非常有用。
+
+借助 Python API，TSV 到 DOTX 的转换可以实现自动化，以支持可扩展的模板工作流，提高报告准备、内容复用和结构化文档交付的效率。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **现代模板创建**  
+  将表格数据转换为可重用的文档模板结构。
+
+* **一致的文档设计**  
+  帮助在生成的输出中保持统一的布局和格式。
+
+* **基于模板的发布**  
+  支持结构化输入转化为可重复文档资产的工作流。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板填充**  
+  Python API 可以以编程方式从 TSV 记录生成基于 DOTX 的资产。
+
+* **标准化报告系统**  
+  自动化在生成重复的基于模板的输出时提升一致性。
+
+* **批量模板转换**  
+  大量 TSV 文件可以在最少人工操作下转换为 DOTX 文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

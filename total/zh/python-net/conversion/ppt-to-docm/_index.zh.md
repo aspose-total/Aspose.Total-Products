@@ -66,7 +66,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT 转 DOCM 转换将演示文稿内容转换为支持高级文档工作流和可编程行为的宏启用文档格式。当需要将演示材料迁移到可编辑文档，并参与受控、逻辑驱动的文档环境时，这非常有用。
+
+对于自动化而言，PPT 转 DOCM 转换在将内容转换与文档脚本、结构化工作流以及跨企业文档操作的可重用处理逻辑相结合的系统中具有重要意义。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用文档**  
+  将演示文稿内容移动到能够支持自动化操作和嵌入式逻辑的文档中。
+
+* **流程驱动的内容处理**  
+  为具有脚本化验证或格式化步骤的环境准备转换后的文档。
+
+* **高级编辑工作流**  
+  支持内容与自动化逻辑必须共存的文档场景。
+
+* **运营文档转换**  
+  帮助将演示材料转换为内部流程中使用的动态文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **基于规则的文档处理**  
+  将 PPT 文件转换为适合宏辅助审查或批准工作流的 DOCM 文档。
+
+* **自动化内容丰富**  
+  使转换后的文档能够通过可编程逻辑进行扩展。
+
+* **文档组装流水线**  
+  将 PPT 转 DOCM 转换用作更广泛企业文档生成系统中的一步。
+
+* **可重复的内部工作流**  
+  支持将演示内容一致地转换为可直接使用的文档资产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

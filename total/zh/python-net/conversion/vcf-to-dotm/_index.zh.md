@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF 到 DOTM 的转换将联系人卡片数据转换为宏启用的 Word 模板文件，使得能够将可重用的布局与高级文档行为相结合。这对于需要具有可编辑和可编程特性的结构化模板的组织非常有用。
+
+通过 Python API 自动化后，VCF 到 DOTM 的转换支持可扩展的模板生成，帮助工作流生成与动态运营需求相匹配的一致性基于联系人的文档。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用的模板**  
+  将 VCF 联系人数据转换为 DOTM 文件，以实现高级可重用的文档结构。
+
+* **可重复的联系人格式化**  
+  标准化生成的模板中联系人信息的显示方式。
+
+* **运营文档控制**  
+  支持依赖模板逻辑和结构化文档输出的环境。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板创建**  
+  通过批处理从多个联系人记录生成 DOTM 模板。
+
+* **工作流就绪的联系人资产**  
+  为自动化内部文档系统准备可重用的模板文件。
+
+* **可扩展的模板交付**  
+  使用 Python API 高效创建和管理宏启用的联系人模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to PST conversion převádí dokumenty s makry do výstupů osobního úložiště, které se používají k organizaci obsahu založeného na zprávách v konsolidovaných souborech pošty. Je užitečný, když je potřeba strukturované úložiště pro archivaci nebo migraci komunikačních artefaktů odvozených z dokumentů.
+
+V automatizovaných systémech podporuje převod DOCM na PST balení poštovních schránek, workflow pro soulad a škálovatelné přesouvání převedeného obsahu dokumentů do organizovaných komunikačních úložišť.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Konsolidované úložiště pošty**
+  Pomáhá zachovat převedený obsah dokumentu ve strukturovaném kontejneru osobního úložiště.
+
+* **Příprava archivace**
+  Podporuje dlouhodobé uchovávání komunikačních záznamů odvozených z dokumentů.
+
+* **Migrační workflow**
+  Umožňuje převod výstupů zaměřených na zprávy do organizovaných sad úložišť.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované balení poštovní schránky**
+  Převádí soubory DOCM na výstupy kompatibilní s PST pro workflow uchovávání.
+
+* **Zpracování orientované na soulad**
+  Podporuje pipeline převodu dokumentu na poštovní úložiště používané v regulovaných prostředích.
+
+* **Vysokokapacitní převod a úložiště**
+  Programově zpracovává hromadný převod dokumentů do strukturovaných poštovních úložišť.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

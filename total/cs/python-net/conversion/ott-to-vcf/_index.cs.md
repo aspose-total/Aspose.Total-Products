@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT na VCF převod v Python API transformuje šablony textových dokumentů OpenDocument na soubory vizitek, které se používají pro sdílení údajů o osobách a organizacích. To je užitečné, když obsah šablony obsahuje strukturované kontaktní informace, které musí být přenositelné a připravené k importu.
+
+Převod podporuje automatizaci tím, že promění spravované kontaktní údaje v dokumentu na standardizované výměnné soubory, čímž snižuje ruční zadávání a zlepšuje synchronizaci napříč komunikačními a adresářovými pracovními postupy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování souborů kontaktů**  
+  Převádí strukturovaný obsah kontaktu na importovatelné soubory vizitek.
+
+* **Sdílení dat adresáře**  
+  Usnadňuje výměnu kontaktních informací mezi systémy.
+
+* **Správa kontaktů založená na šablonách**  
+  Znovu využívá šablony dokumentů pro standardizovaný výstup kontaktů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaný export kontaktů**  
+  Vytváří VCF soubory z OTT šablon obsahujících údaje o osobách nebo organizacích.
+
+* **Integrace CRM nebo adresáře**  
+  Vkládá vygenerované soubory kontaktů do následných informačních systémů.
+
+* **Dávkové balení kontaktů**  
+  Produkuje standardizované výstupy kontaktů pro velké sady kontaktů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

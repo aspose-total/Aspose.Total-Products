@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование OTT в FODS в Python API преобразует текстовые шаблоны OpenDocument в плоские XML‑документы таблиц, которые являются читаемыми, структурированными и подходят для системного уровня обработки. Это полезно для рабочих процессов, предпочитающих открытые текстовые представления таблиц.
+
+Преобразование поддерживает автоматизацию, делая содержание документа более удобным для версионирования, проверки и интеграции в процессы, дружелюбные к XML, где важны прозрачность, структура и совместимость.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Создание открытых таблиц**  
+  Преобразует текстовые шаблоны в структурированные плоские документы таблиц.
+
+* **Читаемая сериализация данных**  
+  Создаёт текстовое содержание таблицы, которое легко проверять программно.
+
+* **Совместимость рабочих процессов**  
+  Подходит для систем, использующих открытые стандарты документов и обработку XML.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Конвейеры данных на основе XML**  
+  Переносит содержимое, полученное из шаблонов, в плоские структурированные рабочие процессы таблиц.
+
+* **Экспорты, удобные для систем контроля версий**  
+  Поддерживает автоматическое создание таблиц, удобных для сравнения различий.
+
+* **Обработка, основанная на стандартах**  
+  Обеспечивает повторяемые преобразования в средах открытых форматов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

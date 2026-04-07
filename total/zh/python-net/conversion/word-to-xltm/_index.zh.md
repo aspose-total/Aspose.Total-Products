@@ -66,7 +66,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 的 Word 到 XLTM 转换将文字处理文档转换为宏启用的电子表格模板文件，以实现高级、可重复的工作簿生成。当文档内容必须作为电子表格工作流的模板基础并包含自动化行为时，这非常有价值。
+
+对于自动化和规模化，此转换帮助组织从书面源材料创建可重用、具备逻辑能力的工作簿模板，减少在重复流程中的手动设置。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **宏启用模板生成**
+  将文档转换为支持高级自动化的电子表格模板。
+
+* **可重用的逻辑驱动工作簿**
+  支持带有嵌入式操作行为的工作簿的可重复创建。
+
+* **高级报告框架**
+  帮助从文档内容出发标准化复杂的电子表格流程。
+
+* **高一致性流程设计**
+  在已批准的书面结构与可重复的工作簿自动化资产之间搭建桥梁。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板库创建**
+  从 Word 文档生成 XLTM 文件，用于重复的业务工作流。
+
+* **基于逻辑的工作簿供应**
+  使用宏启用模板简化重复的电子表格生成。
+
+* **可扩展的流程标准化**
+  将书面源材料转换为高级可重用的工作簿资产。
+
+* **工作流加速**
+  将模板转换集成到更广泛的电子表格自动化流水线中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu F
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FlatOPC to ICS conversion using Python APIs makes it possible to transform structured document content into calendar-compatible data for scheduling and event distribution. This is especially useful when date-driven information in documents needs to be turned into interoperable calendar entries for planning, coordination, or reminders.
+
+Automation adds significant value by enabling systems to generate ICS files from document sources dynamically, improving scheduling accuracy, reducing manual calendar entry, and supporting time-sensitive workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování kalendářních událostí**  
+  Převést obsah FlatOPC do souborů ICS za účelem vytvoření strukturovaných dat událostí pro plánování.
+
+* **Distribuce schůzek a připomínek**  
+  Použít konverzi k sdílení časových a událostních informací založených na dokumentech napříč systémy podporujícími kalendář.
+
+* **Koordinace časové osy projektu**  
+  Převést podrobnosti o milnících nebo termínech z dokumentů do kalendářových položek pro lepší sledování.
+
+* **Přenositelnost rozvrhu**  
+  Vytvořit soubory kompatibilní s kalendářem, které lze importovat do různých platforem a plánovacích nástrojů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatické publikování událostí**  
+  Automatizace vylepšuje tento scénář generováním souborů ICS z dokumentů FlatOPC obsahujících plánovací data.
+
+* **Pracovní postupy upozornění na termíny**  
+  Téma zlepšuje automatizované pracovní postupy převodem datumově orientovaného obsahu dokumentů na akční kalendářové položky.
+
+* **Opakující se plánovací kanály**  
+  Programové procesy mohou opakovaně vytvářet a distribuovat výstupy ICS z dokumentů řízených šablonami.
+
+* **Integrace plánování napříč systémy**  
+  Automatizovaná konverze propojuje procesy správy dokumentů s kalendářními a koordinačními prostředími.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

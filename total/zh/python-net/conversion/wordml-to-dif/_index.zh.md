@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML 到 DIF 的转换使结构化文档数据能够导出为数据交换格式，以兼容旧版电子表格和数据处理系统。当组织需要在仍受支持的旧交换格式中保留结构化内容时，这非常有用。
+
+Python API 通过提取表格、保留逻辑数据关系并自动化文档转换，使 WordML 到 DIF 的转换高效，适用于迁移和互操作性项目。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **旧版电子表格交换**
+  将 WordML 表格内容转换为 DIF，以兼容旧版电子表格环境。
+
+* **数据迁移项目**
+  帮助将文档中的结构化信息迁移到可互操作的归档或传输格式。
+
+* **结构化记录保存**
+  支持以专为数据交换设计的格式长期保留表格内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量旧版导出**
+  自动将基于文档的表格转换为 DIF，以处理大型历史数据集。
+
+* **迁移工作流支持**
+  与需要旧交换格式的自动化现代化项目集成。
+
+* **数据标准化任务**
+  实现结构化内容在各仓库之间的可重复转换例程，以进行标准化。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

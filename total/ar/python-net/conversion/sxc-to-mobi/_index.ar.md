@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل SXC إلى MOBI يحول المحتوى المستخرج من جداول البيانات إلى تنسيق صديق للكتب الإلكترونية مناسب للقراءة الرقمية والتوزيع المحمول. يكون ذلك ذا قيمة عندما تحتاج المعلومات المهيكلة من جداول البيانات إلى إعادة تعبئتها كقُرْءَة طويلة قابلة للقراءة للأدلة أو الكتيبات أو المواد المرجعية.
+
+في البيئات الآلية، يساعد تحويل SXC إلى MOBI باستخدام واجهات برمجة تطبيقات بايثون على تحويل البيانات المصدرية إلى منشورات محمولة يمكن توليدها وتحديثها وتوزيعها بكفاءة على نطاق واسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء دليل رقمي**  
+  يحوّل معلومات جداول البيانات إلى تنسيق أكثر ملاءمة لتسليمها على شكل دليل أو كتيب.
+
+* **توزيع المحتوى المحمول**  
+  يساعد في نشر المعلومات المهيكلة لتجارب قراءة غير متصلة أو صديقة للأجهزة.
+
+* **تعبئة المواد المرجعية**  
+  يدعم تحويل المحتوى الجدولي إلى وثائق قابلة للقراءة للمستخدمين النهائيين.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **نشر الكتب الإلكترونية الآلي**  
+  يستخدم واجهات برمجة تطبيقات بايثون لإنشاء مخرجات MOBI من مصادر SXC في سير عمل المحتوى المتكرر.
+
+* **خطوط توصيل المعرفة**  
+  يُمكّن البيانات المهيكلة في جداول البيانات من التحول إلى تنسيقات قراءة محمولة تلقائيًا.
+
+* **تحديثات النشر الديناميكية**  
+  يبسّط تجديد المحتوى الرقمي كلما تغيرت بيانات جداول البيانات المصدرية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

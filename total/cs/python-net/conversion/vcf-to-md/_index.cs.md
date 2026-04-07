@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu V
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod VCF na MD transformuje data kontaktních karet do dokumentů ve formátu Markdown, které jsou snadno čitelné, upravitelné a lze je integrovat do textových znalostních systémů. To je zvláště užitečné pro dokumentační prostředí, která oceňují přenositelnost, jednoduchost a verze‑přátelský obsah.
+
+V automatizačních pracovních postupech umožňuje převod VCF na MD Python API vytvářet odlehčené kontaktní dokumenty, které se přirozeně hodí do repozitářů obsahu, statických webů a strukturovaných pipeline pro generování poznámek.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Dokumentace čitelného textu**  
+  Převést záznamy VCF do Markdownu pro čistou a přenosnou dokumentaci.
+
+* **Integrace do znalostní báze**  
+  Ukládat kontaktní informace ve formátu vhodném pro textově orientované systémy.
+
+* **Verze‑přátelská správa obsahu**  
+  Spravovat kontaktní data ve strukturovaném formátu prostého textu, který je snadno sledovatelný.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná generace Markdownu**  
+  Vytvářet soubory MD z dávky kontaktních karet pro uspořádanou dokumentaci.
+
+* **Statické obsahové pipeline**  
+  Vkládat převedené kontaktní soubory do automatizovaných publikovacích a repozitářových pracovních postupů.
+
+* **Škálovatelná transformace textu**  
+  Používat Python API k standardizaci kontaktních dat v odlehčeném značkovacím formátu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

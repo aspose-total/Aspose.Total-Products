@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование DOT в SXC преобразует шаблоны обработки текста в файлы электронных таблиц, подходящие для работы со структурированными данными в старых рабочих процессах OpenOffice. Это полезно там, где всё ещё требуется совместимость со старыми средами электронных таблиц.
+
+С помощью Python API команды могут автоматизировать преобразование DOT в SXC, чтобы сократить ручное переоформление и обеспечить эффективный и повторяемый обмен данными, совместимыми с наследием.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Совместимость со старыми электронными таблицами**
+  Преобразуйте файлы DOT в SXC для сред, использующих старые стандарты электронных таблиц.
+
+* **Экспорт структурированных данных**
+  Перенесите содержимое документа в табличный формат для отслеживания и анализа.
+
+* **Поддержка перехода системы**
+  Свяжите современные шаблоны документов со старыми рабочими процессами, основанными на электронных таблицах.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Автоматическое создание наследуемого формата**
+  Рабочие процессы на Python могут создавать выводы SXC из шаблонов DOT для повторяющихся потребностей.
+
+* **Обратные совместимые конвейеры данных**
+  Преобразование поддерживает системы, которые всё ещё требуют обмена файлами старых электронных таблиц.
+
+* **Массовая обработка экспорта наследуемых данных**
+  Программная автоматизация помогает последовательно генерировать множество файлов SXC из исходных документов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

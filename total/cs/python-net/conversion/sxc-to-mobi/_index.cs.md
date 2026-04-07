@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC to MOBI conversion převádí obsah odvozený z tabulek do formátu přátelského k e‑knihám, vhodného pro digitální čtení a přenosnou distribuci. Je užitečný, když je třeba strukturované informace z tabulek přebalit do čitelného dlouhého formátu pro příručky, návody nebo referenční materiály.
+
+V automatizovaných prostředích pomáhá převod SXC na MOBI s Python API proměnit zdrojová data na přenosné publikace, které lze efektivně generovat, aktualizovat a distribuovat ve velkém měřítku.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření digitálních příruček**  
+  Převádí informace z tabulek do formátu lépe vhodného pro dodání ve stylu příručky nebo manuálu.
+
+* **Distribuce přenosného obsahu**  
+  Pomáhá publikovat strukturované informace pro offline nebo zařízení‑přátelské čtení.
+
+* **Balíčkování referenčních materiálů**  
+  Podporuje transformaci tabulkového obsahu do čitelné dokumentace pro koncové uživatele.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované publikování e‑knih**  
+  Používá Python API k vytvoření výstupů MOBI ze zdrojů SXC v opakujících se pracovních postupech.
+
+* **Pipelines pro doručování znalostí**  
+  Umožňuje automatickou transformaci strukturovaných dat z tabulek do přenosných formátů pro čtení.
+
+* **Dynamické aktualizace publikací**  
+  Zjednodušuje regeneraci digitálního obsahu při každé změně zdrojových dat v tabulce.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

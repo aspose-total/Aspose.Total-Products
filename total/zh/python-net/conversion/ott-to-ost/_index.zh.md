@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT 到 OST 的转换在 Python API 中将 OpenDocument 文本模板转换为用于同步电子邮件存储场景的离线邮箱数据结构。这在生成的通信内容必须与面向邮箱的工作流和存储要求保持一致时尤为重要。
+
+该转换通过将基于文档的消息生成与离线访问、归档准备以及依赖结构化邮箱数据的通信管理流程相连接，支持自动化。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **离线邮件数据准备**  
+  支持使用同步邮箱式存储的工作流。
+
+* **生成的通信打包**  
+  将模板内容转换为面向邮箱的输出。
+
+* **归档和访问支持**  
+  帮助在离线处理场景中保留通信数据。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化邮件数据组装**  
+  从文档模板生成兼容 OST 的输出。
+
+* **企业归档管道**  
+  将生成的通信集成到受管存储工作流中。
+
+* **批量通信处理**  
+  扩展 OTT 内容向邮箱就绪结构的转换。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

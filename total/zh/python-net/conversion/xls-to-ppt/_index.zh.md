@@ -65,7 +65,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS 转 PPT 转换将电子表格数据转换为可编辑的演示文件，支持可视化沟通、分析共享和会议准备。当业务数据需要从表格形式转为基于幻灯片的格式以获得更广泛的理解时，这非常有用。
+
+通过使用 Python API，XLS 转 PPT 转换可以在周期性报告中实现自动化，从而加快内容创建并实现更具可扩展性的演示工作流。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **可编辑幻灯片套件创建**
+  将 XLS 内容转换为 PPT 文件，用于可能需要进一步完善的演示。
+
+* **数据驱动的沟通**
+  以幻灯片形式呈现电子表格信息，提升受众的理解。
+
+* **会议准备**
+  使用电子表格数据构建用于审查、规划会议和更新的演示材料。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化套件生成**
+  在计划的报告流水线中，从 XLS 数据集创建 PPT 文件。
+
+* **基于工作流的演示构建**
+  当电子表格源更新时自动触发幻灯片创建。
+
+* **可扩展的数据叙事**
+  使用 Python API 将结构化的电子表格数据大规模转换为演示内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

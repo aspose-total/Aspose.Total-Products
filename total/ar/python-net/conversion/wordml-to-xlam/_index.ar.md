@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML إلى XLAM يحول المنطق أو البيانات المهيكلة المستمدة من المستند إلى سير عمل جداول بيانات مرتبط بالملحقات حيث تكون الوظائف القابلة لإعادة الاستخدام والموارد المعبأة مطلوبة. وهو ذو قيمة في أنظمة جداول البيانات المتقدمة التي تعتمد على الامتدادات النمطية والأصول الآلية القابلة للتكرار.
+
+تدعم واجهات برمجة تطبيقات Python سير عمل مرتبط بـ WordML إلى XLAM من خلال إعداد المحتوى المهيكل لحلول جداول البيانات الموجهة للأتمتة ومعالجة المستندات القابلة للتوسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إعداد ملحق جداول البيانات**
+  يستخدم محتوى المستند كمدخل لسير عمل ملحق جداول البيانات القابل لإعادة الاستخدام.
+
+* **دعم الأتمتة المتقدمة**
+  يساعد في هيكلة الأصول المستمدة من المستند لبيئات جداول البيانات المدفوعة بالوظائف.
+
+* **حزم المنطق القابلة لإعادة الاستخدام**
+  يدعم تحويل المحتوى المتكرر إلى موارد متوافقة مع الملحق.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء أصول الأتمتة**
+  يدمج المحتوى المستمد من WordML في خطوط إعداد الملحق.
+
+* **حزم سير العمل القابلة لإعادة الاستخدام**
+  يدعم عمليات التحويل المتكررة لمكونات أتمتة جداول البيانات المهيكلة.
+
+* **تمكين جداول البيانات المؤسسية**
+  يربط مستودعات المستندات بسير عمل ملحقات جداول البيانات المتقدمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

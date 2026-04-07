@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM 到 XLTX 的转换将启用宏的文档转换为现代电子表格模板，使得在标准化的电子表格工作流中更容易复用结构化的工作簿布局。当组织需要基于文档内容的干净、可重复使用的模板时，这非常有用。
+
+在自动化驱动的环境中，DOCM 到 XLTX 的转换支持高效的工作簿供应、集中式模板管理以及文档向现代电子表格资产的可扩展转换。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **现代电子表格模板输出**
+  将文档内容转换为可复用的工作簿模板，以实现一致的操作。
+
+* **模板标准化**
+  帮助在重复的流程中保持统一的电子表格结构。
+
+* **可复用的数据布局**
+  将文档表格和模式适配为可直接使用的工作簿模板设计。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板创建**
+  从 DOCM 源生成 XLTX 文件，以实现可重复的电子表格工作流。
+
+* **集中式工作簿管理**
+  支持在团队之间可扩展地分发标准化模板。
+
+* **动态电子表格供应**
+  使系统能够以编程方式将更新的数据填充到可复用的工作簿模板中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

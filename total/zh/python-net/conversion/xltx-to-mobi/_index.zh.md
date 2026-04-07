@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTX 转换为 MOBI 将电子表格模板内容转换为适合轻量阅读体验和便携数字分发的电子书友好格式。当需要将结构化的基于模板的材料重新用于可阅读、紧凑的内容，以进行知识共享、指南或参考文档时，这非常有用。
+
+在以自动化为重点的系统中，XLTX 转换为 MOBI 通过将结构化的电子表格模板转化为可编程生成并通过数字分发渠道交付的便携阅读资产，支持可扩展的内容发布。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **便携指南创建**  
+  将结构化的电子表格模板内容转换为移动友好的阅读格式。
+
+* **参考材料发布**  
+  帮助以针对数字阅读优化的格式分发表格或结构化知识。
+
+* **内容再利用工作流**  
+  支持将运营模板内容转化为可重复使用的电子书式资源。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自动化电子书生成**  
+  系统可以将 XLTX 模板转换为 MOBI 文件，以用于重复的数字出版任务。
+
+* **知识分发管道**  
+  该主题支持将结构化内容自动打包，以实现轻量阅读器交付。
+
+* **批量出版操作**  
+  编程转换使得大批量基于电子表格的内容能够以便携文档的形式发布。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

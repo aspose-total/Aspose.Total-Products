@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod MBOX na XPS převádí archivní soubory poštovních schránek do dokumentů s pevně daným rozvržením, určených pro spolehlivé prohlížení a konzistentní prezentaci. To je užitečné, když je třeba zachovat obsah e‑mailu v digitálním formátu podobném tisku se stabilním rozvržením napříč zařízeními a pracovními postupy.
+
+Pomocí Python API lze převod MBOX na XPS automatizovat tak, aby podporoval uchovávání dokumentů, řízenou distribuci a zpracování velkého objemu archivů poštovních schránek ve strukturovaných prostředích.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Zachování e‑mailu s pevně daným rozvržením**
+  Převést zprávy do souborů XPS pro konzistentní vizuální prezentaci a ukládání.
+
+* **Řízená digitální distribuce**
+  Sdílet obsah poštovní schránky ve stabilním formátu, který zachovává věrnost rozvržení.
+
+* **Strukturovaný výstup archivu**
+  Použít XPS pro organizované uchovávání dokumentů a revizní pracovní postupy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná tvorba pevného formátu**
+  Převést soubory MBOX do dokumentů XPS pomocí opakovatelných procesů v Pythonu.
+
+* **Integrace do workflow uchovávání**
+  Přesunout převedené e‑mailové záznamy do archivních a správcovských systémů.
+
+* **Zpracování poštovních schránek ve velkém měřítku**
+  Dávkově transformovat archivované zprávy do konzistentních výstupů s pevně daným rozvržením.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

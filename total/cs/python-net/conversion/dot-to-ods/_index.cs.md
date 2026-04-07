@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod DOT na ODS převádí šablony pro zpracování textu do tabulek OpenDocument pro strukturovanou manipulaci s daty a kompatibilitu otevřených pracovních postupů. To je důležité, když je třeba obsah dokumentu přesunout do formátu tabulky, který podporuje analýzu, sledování nebo reportování.
+
+Python API umožňují automatizovat převod DOT na ODS, takže týmy mohou rychle a konzistentně transformovat dokumenty do otevřených tabulkových aktiv.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování otevřené tabulky**
+  Převést soubory DOT do ODS pro datově orientovanou revizi a manipulaci.
+
+* **Strukturování dat šablony**
+  Přesunout znovupoužitelný obsah dokumentu do tabulkové formy pro provozní využití.
+
+* **Meziplatformní výměna**
+  Sdílet extrahované informace v otevřeném formátu vhodném pro různé prostředí.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované pracovní postupy s tabulkami**
+  Python skripty mohou převádět šablony DOT do souborů ODS v naplánovaných pipelinech.
+
+* **Integrace otevřených dat**
+  Převod podporuje systémy, které se spoléhají na otevřené formáty tabulek pro zpracování.
+
+* **Hromadná transformace dokumentů**
+  Programová automatizace pomáhá efektivně generovat výstupy ODS z mnoha šablon.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

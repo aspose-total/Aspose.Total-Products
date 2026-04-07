@@ -66,7 +66,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 POTX 转换为 RTF 可将 PowerPoint 模板内容转换为富文本文档，保留基本格式并保持广泛兼容性。 当内容需要在要求可编辑文本且具轻量样式的系统之间共享时，这非常有用。
+
+自动化使 POTX 到 RTF 的转换在兼容性和可移植性至关重要的可扩展文档流水线中尤为有用。 它支持高效的内容复用、归档准备以及跨混合软件环境的文档交换。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **格式化文本导出**
+  将演示文稿模板转换为可编辑的富文本文件，并保留结构。
+
+* **跨平台文档共享**
+  支持偏好轻量、广泛可读文本格式的环境。
+
+* **适合归档的转换**
+  帮助将模板内容准备为可长期存储的可访问文本格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **兼容性导向的工作流**
+  为需要可移植格式化文本输出的系统自动生成 RTF。
+
+* **批量文档转换**
+  在无需人工干预的情况下将多个 POTX 模板处理为 RTF 文件。
+
+* **内容分发流水线**
+  支持已转换富文本内容的自动化发布和共享。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

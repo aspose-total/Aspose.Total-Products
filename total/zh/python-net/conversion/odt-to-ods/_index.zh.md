@@ -66,7 +66,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT 到 ODS 的转换将文本文档内容转换为 OpenDocument 电子表格格式，以便进行结构化分析、表格编辑和数据管理。当需要将文档信息提取为行、列以及可重复使用的电子表格结构时，这尤其有用。
+
+借助 Python API，ODT 到 ODS 的转换支持可扩展的文档解析、开放格式处理以及与分析或运营工作流的集成。它实现了在自动化系统中高效处理表格内容。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **电子表格提取**  
+  将基于文档的表格转换为可用于电子表格的格式。
+
+* **数据审查与编辑**  
+  使提取的内容更易于检查和完善。
+
+* **结构化记录处理**  
+  支持依赖行列数据的运营工作流。
+
+* **互操作数据处理**  
+  帮助将文档库与开放的电子表格生态系统连接起来。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化表格转换**  
+  Python 工作流可以将 ODT 文件中的结构化部分提取为 ODS 输出。
+
+* **批量开放格式处理**  
+  多个文档可以在一次自动化运行中转换为电子表格。
+
+* **数据准备流水线**  
+  提取的内容可以在导出电子表格之前进行验证和组织。
+
+* **运营报告工作流**  
+  转换后的 ODS 文件可以自动供审查、规划或审计系统使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

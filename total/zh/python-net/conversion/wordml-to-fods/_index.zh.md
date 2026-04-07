@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML 到 FODS 转换将基于文档的结构化内容导出为平面 OpenDocument 电子表格格式，这对于开放标准的电子表格工作流和基于 XML 的处理非常有用。它支持优先考虑透明、可移植和面向标准的数据格式的环境。
+
+Python API 帮助自动化 WordML 到 FODS 的转换，通过将表格和结构化文本转换为适合可扩展集成和验证过程的开放电子表格表示。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **开放电子表格转换**
+  将 WordML 表格转换为平面开放电子表格格式，以实现标准化处理。
+
+* **XML 友好数据处理**
+  支持受益于可读且可移植的电子表格 XML 结构的工作流。
+
+* **基于标准的交换**
+  实现开放文档生态系统中的结构化数据共享。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **开放格式导出流水线**
+  自动化将 WordML 转换为 FODS，以满足符合标准的工作流。
+
+* **验证与转换任务**
+  在自动化检查或转换例程中使用平面 XML 电子表格输出。
+
+* **仓库现代化**
+  帮助将基于文档的表格数据迁移到开放、可处理的电子表格格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

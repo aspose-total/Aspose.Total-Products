@@ -64,7 +64,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod dokumentu do formátu PPS mění obsah Wordu na soubory prezentace určené pro přehrávání a doručení. Je užitečný, když je třeba informace z dokumentu předložit přímo ve formátu připraveném k zobrazení, místo editovatelného pracovního souboru.
+
+Automatizace pomocí Python API pro převod DOC do PPS zvyšuje rychlost publikování, podporuje opakovatelná workflow prezentací a snižuje ruční úsilí při přípravě snímků.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Výstup prezentace připravený k zobrazení**
+  Převést dokumenty na soubory prezentace určené k přímému použití v prezentaci.
+
+* **Příprava doručení na schůzku**
+  Připravit obsah odvozený z dokumentu pro jednoduché scénáře přehrávání prezentace.
+
+* **Balení obsahu**
+  Distribuovat informace v prezentačním formátu, který je snadno otevřitelný a zobrazitelný.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizace publikování prezentací**
+  Automaticky vytvářet soubory PPS z reportů nebo souhrnů ve formátu DOC.
+
+* **Potrubí doručení prezentací**
+  Převést schválený obsah dokumentu na výstupy snímků určené k přehrávání.
+
+* **Standardizace hromadného výstupu**
+  Programově vytvářet konzistentní soubory prezentací z velkých sad dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

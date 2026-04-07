@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT 到电子邮件的转换将文档内容转换为可直接发送的电子邮件输出，使得通过消息工作流共享报告、通知、摘要或格式化文本更加便捷。当需要将正式文档重新用于直接沟通时，这非常有用。
+
+借助 Python API，ODT 到电子邮件的转换可以集成到自动化通知系统、审批流程和文档驱动的通信管道中。它通过将静态文件转化为可操作的外发内容，提高了效率。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **基于文档的通知**  
+  将书面内容转换为电子邮件友好的通信。
+
+* **报告分发**  
+  实现快速共享来自源文档的摘要、更新或公告。
+
+* **工作流通信**  
+  支持审批、警报和状态消息场景。
+
+* **内容再利用**  
+  将文档文本重新用于外部或内部通信。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **触发式电子邮件生成**  
+  系统可以在新文档到达时自动将 ODT 文件转换为电子邮件内容。
+
+* **审批工作流消息**  
+  Python 自动化可以将文档摘要转化为供审阅者或利益相关者使用的消息。
+
+* **批量外联准备**  
+  多个文档可以批量转换为可外发的电子邮件内容。
+
+* **事件驱动的通知**  
+  文档库的更改可以触发自动转换和分发。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

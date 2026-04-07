@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل WordML إلى TSV يحول محتوى المستند المهيكل إلى ملفات نصية مفصولة بفواصل جدولة تكون بسيطة، محمولة، وسهلة الاستيعاب في سير عمل البيانات. يكون ذلك مفيدًا عندما تكون الحاجة إلى فصل أعمدة نظيف دون تنسيق خاص بجداول البيانات.
+
+تجعل واجهات برمجة التطبيقات Python تحويل WordML إلى TSV فعالًا من خلال استخراج هياكل الجداول وتحويلها إلى مخرجات خفيفة الوزن وصديقة للأتمتة لمعالجة البيانات وتبادلها.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تصدير البيانات المفصولة**
+  يقوم بتحويل جداول WordML إلى ملفات TSV لتبادل بيانات نظيف قائم على النص.
+
+* **إخراج صديق للخط الأنابيب**
+  ينتج ملفات مهيكلة بسيطة مناسبة للتحليل ومهام التحقق.
+
+* **استخراج جدول المستند**
+  يجعل المحتوى الجدولي من المستندات أسهل للمعالجة برمجيًا.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تحويل الجداول على دفعات**
+  يقوم تلقائيًا بتحويل جداول المستند إلى ملفات TSV لسير العمل اللاحق.
+
+* **دعم سير عمل ETL**
+  يُدخل مخرجات TSV في عمليات الاستيعاب، والربط، وتحويل البيانات.
+
+* **وظائف مزامنة البيانات**
+  يُمكّن من تصدير متكرر للبيانات المحدثة للمستند إلى ملفات مهيكلة قائمة على النص.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

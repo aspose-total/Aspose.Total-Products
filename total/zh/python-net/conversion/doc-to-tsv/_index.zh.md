@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+文档转 TSV 转换将 Word 内容转换为制表符分隔值，这是一种简单的结构化格式，适用于干净的基于文本的数据交换和导入工作流。当文档表格或重复字段需要轻量级结构化输出时，它非常有用。
+
+Python API 有助于自动化 DOC 到 TSV 的转换，以实现可扩展的提取、数据准备和集成任务，在这些任务中更倾向于使用纯文本表格格式。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **轻量级数据导出**
+  将文档表格转换为 TSV，以实现简单的结构化交换。
+
+* **导入友好输出**
+  为接受分隔文本的工具和系统准备 Word 派生的数据。
+
+* **数据清洗工作流**
+  使用 TSV 输出进行预处理、验证和管道摄取。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **大批量数据提取**
+  自动将 DOC 文件转换为 TSV，以用于下游处理。
+
+* **管道就绪文本导出**
+  在 ETL 或导入工作流中，从文档生成分隔文件。
+
+* **计划转换任务**
+  以编程方式定期将基于文档的记录标准化为 TSV。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

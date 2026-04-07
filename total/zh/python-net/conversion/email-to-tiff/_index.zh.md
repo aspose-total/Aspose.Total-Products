@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python 中的 Email 转 TIFF 转换将邮件内容渲染为高质量的图像文件，常用于档案、扫描和文档保存场景。它在组织需要以适合成像工作流的格式保存持久的视觉记录时非常有价值。
+
+此转换通过使邮件内容适配基于图像的保留、合规和企业内容管理流水线，支持自动化。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **档案成像**
+  将电子邮件转换为 TIFF 文件，以实现长期的视觉保存。
+
+* **合规记录存储**
+  在偏好基于图像记录的受监管工作流中使用 TIFF 输出。
+
+* **文档成像集成**
+  将渲染的邮件页面插入扫描和成像库中。
+
+* **高质量多页处理**
+  在强大的成像格式中保留详细的邮件视觉信息。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **企业档案自动化**
+  将消息转换为 TIFF，以用于结构化的记录管理系统。
+
+* **成像工作流集成**
+  将邮件渲染结果输入文档捕获和保留平台。
+
+* **批量保存流水线**
+  以编程方式从消息存储中生成大量 TIFF 记录。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

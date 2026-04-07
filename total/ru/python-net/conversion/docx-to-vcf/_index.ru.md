@@ -46,7 +46,44 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX to VCF conversion transforms document-based contact information into digital contact card files used for address book and contact management systems. This process enables names, phone numbers, email addresses, and related contact fields to be extracted from documents into a portable standard format.
+
+Using Python APIs, DOCX-to-VCF conversion can be integrated into customer data workflows, contact migration pipelines, and automated communication systems. It supports scalable transformation of structured contact data from documents into reusable contact records.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Извлечение контактных данных**  
+  Преобразует контактную информацию, хранящуюся в файлах DOCX, в переносимые цифровые визитные карточки.
+
+* **Миграция адресной книги**  
+  Позволяет импортировать списки контактов, основанные на документах, в системы управления контактами.
+
+* **Повторное использование информации о клиентах**  
+  Поддерживает преобразование структурированных записей контактов для рабочих процессов коммуникации.
+
+* **Создание переносимых файлов контактов**  
+  Помогает распространять и хранить контактные данные в широко принятом формате.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Автоматическое создание файлов контактов**  
+  Системы могут автоматически извлекать поля контактов из файлов DOCX и генерировать записи VCF.
+
+* **Конвейеры пакетной миграции контактов**  
+  Скрипты на Python могут обрабатывать несколько документов, преобразуя их в цифровые визитные карточки.
+
+* **CRM и автоматизация коммуникаций**  
+  Контактные данные, полученные из документов, могут быть преобразованы в файлы VCF для синхронных процессов взаимодействия.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

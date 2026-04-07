@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu F
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FlatOPC to Email conversion using Python APIs helps transform XML-based word processing package content into email-friendly formats that support communication, archiving, and workflow portability. This is valuable for organizations that need to repurpose structured document data into message-based assets for review, distribution, or downstream processing.
+
+By automating FlatOPC to Email conversion, teams can streamline document-driven notifications, reduce manual formatting work, and connect content pipelines with messaging, compliance, and digital record systems at scale.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování e‑mailu na základě dokumentu**  
+  Převést strukturovaný obsah FlatOPC do standardního e‑mailového výstupu pro přímou komunikaci nebo revizní pracovní postupy.
+
+* **Kanály distribuce obsahu**  
+  Použít převod k doručení informací o dokumentu prostřednictvím e‑mailových kanálů v obchodních a provozních procesech.
+
+* **Archivní komunikační záznamy**  
+  Uchovat zprávy odvozené z dokumentu ve formátu vhodném pro sledování, uchovávání a pozdější přístup.
+
+* **Upozornění pracovních postupů**  
+  Přeměnit zdrojové dokumenty na odchozí e‑mailový obsah pro automatizovaná upozornění, schválení nebo aktualizace stavu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované doručování reportů**  
+  Automatizace může převést vygenerované dokumenty FlatOPC do e‑mailových výstupů pro plánované nebo událostmi řízené reportování.
+
+* **Zprávy pracovních postupů schvalování**  
+  Téma vylepšuje automatizované pracovní postupy transformací obsahu dokumentu do e‑mailů pro akce recenzentů a zúčastněných stran.
+
+* **Dynamické odesílání obsahu**  
+  Programové procesy mohou naplňovat a převádět zdroje FlatOPC do e‑mailových zpráv na základě pravidel nebo spouštěčů.
+
+* **Integrované komunikační systémy**  
+  Automatizované systémy mohou propojit tvorbu dokumentů, převod a doručování zpráv v jediném škálovatelném kanálu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

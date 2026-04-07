@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل XLS إلى MOBI يجعل المحتوى المستمد من جداول البيانات متاحًا بتنسيق صديق للكتب الإلكترونية ومناسب للقراءة المنظمة والتوزيع الرقمي. هذا يكون ذا قيمة عندما تحتاج المعلومات الجدولية إلى إعادة تعبئتها في مواد قراءة محمولة، أو أدلة، أو محتوى مرجعي.
+
+باستخدام واجهات برمجة تطبيقات Python، يمكن أتمتة تحويل XLS إلى MOBI داخل أنظمة نشر المحتوى، مما يحسن الكفاءة للمنظمات التي تعيد توظيف بيانات جداول البيانات في أصول رقمية طويلة الشكل.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء دليل رقمي**
+  تحويل بيانات جداول البيانات إلى ملفات MOBI للأدلة المحمولة، الكتالوجات، أو المستندات المرجعية.
+
+* **إعادة توظيف المحتوى**
+  تحويل معلومات XLS إلى تنسيقات رقمية موجهة للقراءة لزيادة إمكانية الوصول.
+
+* **تسليم المعلومات المنظمة**
+  عرض المحتوى المستند إلى جداول البيانات بتنسيق مناسب لتدفقات العمل المتوافقة مع القارئات الإلكترونية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **نشر الكتب الإلكترونية الآلي**
+  إنشاء ملفات MOBI من مصادر XLS كجزء من خطوط أنابيب النشر الرقمي.
+
+* **تحويل المحتوى على دفعات**
+  استخدام واجهات برمجة تطبيقات Python لتحويل عدة جداول بيانات إلى أصول قراءة محمولة.
+
+* **التوزيع عبر القنوات المتعددة**
+  إدخال محتوى جداول البيانات إلى الأنظمة الآلية التي تُعد الملفات للاستهلاك الرقمي.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

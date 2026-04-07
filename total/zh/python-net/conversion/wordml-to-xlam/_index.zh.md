@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML 到 XLAM 的转换将文档派生的结构化逻辑或数据转换为需要可重用功能和打包资源的插件相关电子表格工作流。它在依赖模块化扩展和可重复自动化资产的高级电子表格生态系统中具有价值。
+
+Python API 通过为面向自动化的电子表格解决方案和可扩展的文档驱动处理准备结构化内容，支持 WordML 到 XLAM 相关的工作流。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **电子表格插件准备**
+  使用文档内容作为可重用电子表格扩展工作流的输入。
+
+* **高级自动化支持**
+  帮助构建文档派生的资产，以用于函数驱动的电子表格环境。
+
+* **可重用逻辑打包**
+  支持将重复内容转换为与插件对齐的资源。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化资产生成**
+  将 WordML 派生的内容集成到插件准备管道中。
+
+* **可重用工作流打包**
+  支持结构化电子表格自动化组件的重复转换过程。
+
+* **企业电子表格赋能**
+  将文档库与高级电子表格扩展工作流连接起来。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

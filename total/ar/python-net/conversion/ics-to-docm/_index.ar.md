@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ملفات ICS إلى DOCM باستخدام واجهات برمجة تطبيقات بايثون يحول بيانات أحداث التقويم إلى مستندات Word مدعومة بالماكرو. يتيح ذلك دمج معلومات الجدولة في مستندات تدعم الأتمتة المتقدمة عبر الماكرو المدمج.
+
+تساعد أتمتة هذا التحويل باستخدام بايثون المؤسسات على دمج بيانات التقويم في سير عمل مدفوع بالماكرو، مما يسمح لجداول الأحداث بتشغيل أتمتة المستندات أو عمليات التقارير.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **قوالب المستندات المؤتمتة**  
+  دمج بيانات التقويم في مستندات مدعومة بالماكرو للتقارير المؤتمتة.
+
+* **تكامل سير العمل**  
+  استخدام معلومات الحدث داخل المستندات التي تُطلق عمليات مؤتمتة.
+
+* **تقارير متقدمة**  
+  دمج جداول التقويم مع التحليل أو التنسيق المدفوع بالماكرو.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **أنظمة التقارير المدفوعة بالماكرو**  
+  إنشاء ملفات DOCM تلقائيًا من جداول ICS.
+
+* **خطوط أنابيب أتمتة المستندات**  
+  دمج بيانات الحدث مع سير عمل الماكرو لتحديثات المستندات المؤتمتة.
+
+* **أدوات جدولة المؤسسات**  
+  تحويل بيانات التقويم إلى تقارير مدعومة بالماكرو على نطاق واسع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

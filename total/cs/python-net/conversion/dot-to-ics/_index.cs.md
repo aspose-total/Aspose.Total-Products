@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod DOT na ICS transformuje šablony dokumentů na data kompatibilní s kalendářem, která lze použít pro plánování a výměnu událostí. Je to důležité, když obsah šablony obsahuje informace řízené daty, které je třeba sdílet prostřednictvím kalendářových pracovních postupů.
+
+S Python API lze převod DOT na ICS automatizovat tak, aby podporoval generování událostí, distribuci schůzek a integraci se systémy plánování spolehlivým a opakovatelným způsobem.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření událostí ze šablon**
+  Převést plánovací informace založené na DOT do souborů ICS pro použití v kalendáři.
+
+* **Distribuce schůzek a časových os**
+  Sdílet data a události odvozené z dokumentu ve standardním formátu plánování.
+
+* **Integrace plánování pracovních postupů**
+  Přeměnit strukturovaný obsah šablony na kalendářové artefakty pro operační plánování.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované generování kalendáře**
+  Python skripty mohou převádět datově orientované šablony DOT do souborů ICS pro distribuci.
+
+* **Podpora plánovacího řetězce**
+  Převod umožňuje systémům vložit události definované v dokumentu do kalendářových pracovních postupů.
+
+* **Hromadné publikování událostí**
+  Programové zpracování umožňuje tvorbu velkého množství souborů ICS z více šablon.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod SXC na OTT převádí obsah založený na tabulkách do formátu šablony otevřeného dokumentu určeného pro opakovatelnou a strukturovanou tvorbu textových dokumentů. To je užitečné, když je třeba naplnit opakovaně použitelné šablony informacemi z tabulek pro zprávy, oznámení, souhrny nebo standardizované interní dokumenty.
+
+S Python API podporuje převod SXC na OTT efektivní automatizaci tím, že umožňuje workflow zaměřené na šablony, které zlepšují konzistenci, snižují ruční formátování a zjednodušují tvorbu dokumentů ve velkém měřítku.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření otevřených šablon**  
+  Převádí data z tabulek do opakovaně použitelných šablon pro budoucí generování dokumentů.
+
+* **Konzistentní rozvržení dokumentů**  
+  Pomáhá udržovat jednotné formátování napříč opakovanými úkoly tvorby obchodní dokumentace.
+
+* **Opakovaně použitelné procesní prostředky**  
+  Podporuje tvorbu souborů šablon, které zjednodušují přípravu provozních dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizační pipeline šablon**  
+  Generuje OTT šablony ze souborů SXC pomocí workflow založených na Pythonu.
+
+* **Standardizovaná tvorba výstupů**  
+  Umožňuje opakovanou tvorbu dokumentů z jediné opakovaně použitelné šablony otevřeného formátu.
+
+* **Zlepšení efektivity procesů**  
+  Snižuje čas ručního nastavení tím, že programově připravuje strukturované šablony.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

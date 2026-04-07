@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOT إلى EML يحول قوالب معالجة النصوص إلى تنسيق ملف رسالة بريد إلكتروني قياسي يُستخدم على نطاق واسع لتخزين البريد الإلكتروني ونقله وأرشفته. يكون مفيدًا عندما يجب الحفاظ على المحتوى القائم على المستندات أو مشاركته كقطعة بريد إلكتروني كاملة.
+
+باستخدام واجهات برمجة تطبيقات بايثون، يمكن دمج هذا التحويل في أنظمة آلية تُنشئ ملفات بريد إلكتروني محمولة من القوالب القابلة لإعادة الاستخدام مع الحفاظ على التناسق وتقليل وقت الإعداد اليدوي.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء ملف بريد إلكتروني**
+  تحويل قوالب DOT إلى ملفات EML للتخزين أو المراجعة أو التوزيع.
+
+* **أرشفة الاتصالات**
+  الحفاظ على المراسلات المستندة إلى القوالب كملفات رسائل بريد إلكتروني مستقلة.
+
+* **نقل عبر الأنظمة**
+  إنتاج مخرجات بريد إلكتروني محمولة يمكنها الانتقال بين بيئات البريد المتوافقة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تعبئة بريد إلكتروني آلية**
+  يمكن لتدفقات عمل بايثون تحويل مستندات DOT إلى EML للاتصالات التي تُنشئها الأنظمة.
+
+* **سير عمل الأرشفة**
+  يدعم التحويل الحفاظ التلقائي على الرسائل المستندة إلى المستندات بصيغة ملف بريد إلكتروني.
+
+* **إعداد رسائل جماعية**
+  تمكن المعالجة البرمجية من تحويل القوالب إلى EML بحجم كبير للعمليات القابلة للتوسع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu E
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod EPUB do MBOX v Pythonu umožňuje transformaci obsahu digitální publikace do formátu poštovní schránky, který se používá pro ukládání kolekcí zpráv. To je cenné, když organizace potřebují seskupit převedený obsah pro archivaci, migraci nebo úložiště orientované na komunikaci.
+
+Pro operace řízené automatizací poskytuje převod EPUB do MBOX efektivní způsob, jak zabalit více položek obsahu do strukturovaných poštovních archivů, což činí aplikace v Pythonu účinnějšími pro škálovatelné zachování a přenos dokumentů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytvoření poštovního archivu**  
+  Převést obsah EPUB do formátu MBOX pro ukládání v systémech poštovních archivů a repozitářích.
+
+* **Hromadné balení obsahu**  
+  Seskupit obsah odvozený z publikace do konsolidované archivační struktury pro snadnější správu.
+
+* **Podpora migrace**  
+  Použít výstup MBOX při přesunu obsahu do systémů, které přijímají archivovaná data ve stylu poštovní schránky.
+
+* **Umožnění workflow uchování**  
+  Zachovat transformovaný obsah publikace v kolekcích zpráv přátelských k archivaci pro auditní nebo referenční účely.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Pipelines generování archivů**  
+  Aplikace v Pythonu mohou automaticky vytvářet soubory MBOX ze zdrojů EPUB během ingestních workflow.
+
+* **Dávkové konverzní procesy**  
+  Automatizované úlohy mohou převádět mnoho dokumentů EPUB do poštovních archivů s konzistentním formátováním.
+
+* **Synchronizace repozitářů**  
+  Konverze může být spuštěna jako součást synchronizace obsahu mezi úložišti dokumentů a archivními platformami.
+
+* **Škálovatelné úkoly zachování**  
+  Programové zpracování podporuje operace archivace ve velkém objemu bez opakované ruční intervence.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konverze MBOX na PCL převádí archivy poštovních schránek do výstupu v jazyce pro řízení tiskáren, což činí obsah e‑mailů vhodným pro systémy zaměřené na tisk a pracovní postupy orientované na zařízení. To je užitečné, když je potřeba archivované zprávy doručit přímo do řízených tiskových prostředí.
+
+Pomocí Python API mohou týmy automatizovat konverzi poštovní schránky na PCL, aby podpořily tiskové fronty, zpracování dokumentů ve velkém objemu a integraci s podnikovými výstupními systémy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Export e‑mailů orientovaný na tisk**
+  Převést zprávy do souborů PCL pro zpracování připravené k tisku.
+
+* **Kompatibilita pracovních postupů zařízení**
+  Připravit obsah poštovní schránky pro systémy postavené na řízeném výstupu tisku.
+
+* **Provozní archivace tisku**
+  Uchovat e‑mailové záznamy ve formátech sladěných s výrobními tiskovými workflow.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná generace tiskové fronty**
+  Přeměnit archivy poštovní schránky na výstupy PCL pro naplánované tiskové workflow.
+
+* **Integrace podnikových výstupů**
+  Směrovat převedené e‑mailové soubory do systémů správy zařízení a zpracování tisku.
+
+* **Vysokokapacitní renderování dokumentů**
+  Použít Python k rozšíření konverze poštovní schránky pro prostředí s vysokým objemem tisku.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

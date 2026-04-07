@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF 到 VCF 的转换将富文本文档转换为联系人卡片文件，可存储姓名、电话号码、地址以及相关的联系信息，且为可移植的格式。当联系信息嵌入文档中且需要转化为结构化、可共享的记录时，这非常有用。
+
+在自动化工作流中，RTF 到 VCF 通过将基于文本的目录或列表转换为系统和团队可使用的标准化联系人资产，支持高效的联系人提取、同步和分发。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **联系人记录创建**  
+  将基于文档的联系详情转换为可移植的数字联系人卡片。
+
+* **目录现代化**  
+  帮助将书面的联系人列表转化为适合导入和共享的结构化记录。
+
+* **可移植的联系人交换**  
+  支持在系统和设备之间移动联系信息。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化联系人提取流水线**  
+  系统可以解析 RTF 文档并从识别出的联系详情生成 VCF 文件。
+
+* **批量通讯录准备**  
+  编程式转换支持从文本源文件大规模创建联系人记录。
+
+* **CRM 与目录集成**  
+  动态工作流可以将文档中存储的联系信息转化为可重复使用的联系人资产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

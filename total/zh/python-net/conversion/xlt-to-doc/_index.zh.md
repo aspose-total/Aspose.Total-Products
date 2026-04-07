@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python 中的 XLT 转 DOC 转换能够将传统的 Excel 模板文件转换为标准的 Word 文档，以便更轻松地共享、审阅和进行业务文档编写。对于需要将基于电子表格的布局、表格数据或结构化模板转化为可读的文本文件，以支持正式报告和文档工作流的组织而言，这非常有价值。
+
+在现代自动化环境中，XLT 转 DOC 有助于将电子表格驱动的流程与文档中心系统衔接。通过允许模板内容流入可编辑的 Word 文件并可生成、分发、归档或集成到更大的文档自动化流水线中，它提升了运营效率。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **基于模板的报告生成**  
+  将电子表格模板转换为 Word 文档，用于业务报告、摘要和内部记录。
+
+* **文档标准化**  
+  将 XLT 文件转换为 DOC 格式，以使电子表格内容符合传统的文档管理实践。
+
+* **可编辑内容共享**  
+  让团队能够在广泛使用的文字处理格式中审阅和编辑转换后的内容。
+
+* **遗留工作流支持**  
+  通过将旧的电子表格模板重新用于基于文本的文档，保持其使用价值。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量文档转换**  
+  自动化大批量将 XLT 模板转换为 DOC 文件，以满足重复的文档需求。
+
+* **报告流水线**  
+  使用 Python API 从电子表格模板生成 DOC 输出，作为计划报告工作流的一部分。
+
+* **内容分发系统**  
+  自动将文档转换并路由至下游的审批、存储或通信系统。
+
+* **归档处理**  
+  将旧的基于 XLT 的内容标准化为 DOC 格式，以实现长期的记录保存和可访问性。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

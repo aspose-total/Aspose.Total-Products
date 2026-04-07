@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC 到 RTF 的转换将电子表格信息转换为富文本格式，兼顾可读性、可移植性以及在文本编辑环境中的广泛兼容性。当需要以格式化文本共享电子表格内容并在各种系统中保持可访问时，这非常有用。
+
+使用 Python API，SXC 到 RTF 的转换有助于自动化轻量级文档生成，用于沟通、归档和跨平台内容交换，而无需依赖复杂的文档依赖。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **跨平台文本共享**  
+  将电子表格内容转换为可被众多文本应用程序打开的格式。
+
+* **格式化内容导出**  
+  在将数据迁移到文本文档工作流时，保留基本结构和可读性。
+
+* **轻量文档**  
+  支持创建用于摘要、笔记和简易报告的可移植格式化文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化文本文档输出**  
+  使用 Python API 将 SXC 文件转换为 RTF 文档，以用于轻量级报告工作流。
+
+* **广泛兼容性流水线**  
+  为需要简洁、格式化且可移植文本文件的系统提供内容导出。
+
+* **批量转换工作流**  
+  支持对多个电子表格文件进行程序化转换，生成可访问的基于文本的输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu E
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod e‑mailů do formátu DOTM v Pythonu převádí zprávy na šablony Wordu s povolenými makry, které kombinují znovupoužitelnou strukturu s pokročilou podporou automatizace. To je cenné, když je třeba, aby vzory obsahu založené na e‑mailu se staly součástí skriptovaných pracovních postupů generování dokumentů.
+
+Formát zlepšuje automatizaci tím, že umožňuje organizacím standardizovat šablony řízené zprávami a zároveň podporuje logiku založenou na makrech pro formátování, směrování a vylepšování obsahu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Návrh šablony s povolenými makry**  
+  Převádějte e‑maily do souborů DOTM pro opakovatelná workflow šablon s vestavěnou automatizací.
+
+* **Automatizované generování formulářů**  
+  Používejte šablony odvozené z e‑mailů v prostředích, kde makra pomáhají vyplňovat nebo ověřovat obsah.
+
+* **Procesně orientovaná dokumentace**  
+  Přetvořte strukturované zprávy na znovupoužitelné šablony pro interní operace.
+
+* **Pokročilá standardizace**  
+  Kombinujte konzistentní rozvržení s chováním automatizace dokumentů v jednom formátu šablony.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizace workflow založená na šablonách**  
+  Generujte soubory DOTM z e‑mailů a použijte makra k automatickému připravení finálních dokumentů.
+
+* **Kontrolované naplňování obsahu**  
+  Naplněte šablony odvozené z e‑mailů systémovými daty během automatizovaného vytváření dokumentů.
+
+* **Škálovatelné zpracování v kanceláři**  
+  Standardizujte opakující se dokumenty založené na komunikaci s pomocí makrů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

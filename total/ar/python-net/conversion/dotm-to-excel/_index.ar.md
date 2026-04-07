@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOTM إلى Excel يحول قوالب Word الممكّنة بالماكرو إلى دفاتر عمل صديقة للجداول الإلكترونية للتحليل وإعداد التقارير ومعالجة البيانات المهيكلة. يكون مفيدًا عندما تحتوي قوالب المستندات على جداول أو أقسام مكررة أو بيانات يجب نقلها إلى تنسيق مُحسّن للحساب والمراجعة.
+
+استخدام واجهات برمجة تطبيقات Python لتحويل DOTM إلى Excel يتيح استخراجًا آليًا للمحتوى المهيكل من المستندات إلى سير عمل الجداول الإلكترونية. هذا يحسن كفاءة العمليات، يدعم إعداد تقارير قابل للتوسع، ويربط العمليات المدفوعة بالمستندات بأنظمة الأعمال التي تركز على البيانات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تقارير من مستند إلى جدول إلكتروني**
+  تحويل المحتوى القائم على القوالب إلى دفاتر عمل Excel للتحليل والعرض.
+
+* **تصدير جدول منظم**
+  نقل المعلومات الجدولية من ملفات DOTM إلى تنسيق أكثر ملاءمة للفرز والحسابات.
+
+* **نقل البيانات التشغيلية**
+  نقل المعلومات المجمعة في المستندات إلى سير عمل الجداول الإلكترونية المستخدمة من قبل الفرق والأنظمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء تقارير آلي**
+  يمكن معالجة ملفات DOTM إلى مخرجات Excel كجزء من خطوط أنابيب التقارير المجدولة.
+
+* **سير عمل دمج البيانات**
+  يتيح التحويل جمعًا آليًا للقيم المستندة إلى المستندات في أصول جداول إلكترونية مركزية.
+
+* **خدمات تحويل عالية الحجم**
+  يسمح المعالجة المبرمجة بتحويل قوالب DOTM متعددة إلى ملفات Excel بشكل ثابت وسريع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

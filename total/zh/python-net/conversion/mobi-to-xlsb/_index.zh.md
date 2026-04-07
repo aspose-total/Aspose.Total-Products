@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python 中的 MOBI 转 XLSB 转换将基于电子书的内容转换为二进制电子表格格式，旨在实现高效存储和性能。这在处理更大规模的结构化输出时尤其有用，因为它们受益于紧凑的工作簿表示以及在电子表格环境中更快的加载速度。
+
+对于自动化而言，MOBI 转 XLSB 转换支持大批量处理、高效的文件操作以及可扩展的电子表格生成。它非常适合需要面向性能的输出，同时保留电子表格结构以供分析和运营使用的文档流水线。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **高效工作簿存储**
+  将 MOBI 内容转换为 XLSB，以降低大型电子表格工作流中的开销。
+
+* **大批量数据处理**
+  使用二进制工作簿输出，以满足需要更好性能特性的结构化数据导出。
+
+* **基于电子表格的分发**
+  以适合更重运营电子表格使用的格式交付提取的信息。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **面向性能的导出任务**
+  当工作流处理大量电子书衍生数据时，自动生成 XLSB 文件。
+
+* **可扩展的电子表格流水线**
+  使用 Python 转换逻辑为重复的批处理任务生成紧凑的工作簿输出。
+
+* **运营数据交付**
+  将结构化内容路由到高效的电子表格文件，以供下游团队和系统使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

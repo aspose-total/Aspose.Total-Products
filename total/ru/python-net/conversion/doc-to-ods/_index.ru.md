@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование документа в ODS преобразует содержимое Word в файлы электронных таблиц OpenDocument, упрощая просмотр, вычисление и совместное использование структурированных данных в рабочих процессах открытого офиса. Это полезно, когда таблицы или записи документа требуют функциональности таблиц в открытом формате.
+
+С помощью Python API преобразование DOC в ODS становится быстрее и надёжнее, поддерживая повторяемое извлечение данных и интеграцию в системах отчётности, аналитики и эксплуатации.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **Преобразование в открытые таблицы**
+  Переместите таблицы документа в ODS для сортировки, вычислений и структурированного обзора.
+
+* **Обмен совместимыми данными**
+  Используйте вывод ODS, когда предпочтителен обмен электронными таблицами в открытом формате.
+
+* **Оперативное извлечение данных**
+  Преобразуйте повторяющееся содержимое документа в переиспользуемые активы таблиц.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **Автоматизированный экспорт данных**
+  Создавайте ODS‑файлы из DOC‑входов для конвейеров отчётности в открытом офисе.
+
+* **Массовая обработка таблиц**
+  Преобразуйте записи, основанные на документах, в табличные выводы в масштабе.
+
+* **Рабочие процессы интеграции систем**
+  Программно соединяйте извлечение документов с обработкой данных в открытом формате.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

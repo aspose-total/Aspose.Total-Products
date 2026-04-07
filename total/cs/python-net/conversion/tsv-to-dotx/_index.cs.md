@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV to DOTX conversion transforms TSV datasets into modern document template formats used for standardized and repeatable content generation. It is useful for teams that need structured information to feed document frameworks rather than stand-alone files.
+
+S Python API lze převod TSV na DOTX automatizovat a podpořit škálovatelné pracovní postupy šablon, čímž se zvyšuje efektivita při přípravě zpráv, opětovném využití obsahu a doručování strukturovaných dokumentů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Moderní tvorba šablon**  
+  Převádí tabulková data do opakovaně použitelných struktur šablon dokumentů.
+
+* **Konzistentní návrh dokumentů**  
+  Pomáhá udržovat jednotné rozvržení a formátování napříč generovanými výstupy.
+
+* **Publikování řízené šablonami**  
+  Podporuje pracovní postupy, kde strukturované vstupy se stávají opakovatelnými dokumentovými aktivy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované naplňování šablon**  
+  Python API mohou programově generovat aktiva založená na DOTX z TSV záznamů.
+
+* **Standardizované systémy reportování**  
+  Automatizace zlepšuje konzistenci při tvorbě opakujících se výstupů řízených šablonami.
+
+* **Dávkový převod šablon**  
+  Velké objemy TSV souborů lze převést na DOTX soubory s minimální manuální prací.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OFT to DOCX conversion using Python APIs converts Outlook email templates into modern editable word processing documents that are widely supported across platforms. This makes it easier to reuse email content in structured documentation, collaboration, and publishing workflows.
+
+From an automation perspective, OFT to DOCX conversion improves content portability and supports scalable document generation pipelines. It helps modern systems unify messaging content with document-centric processes for faster handling and better interoperability.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Moderní úprava dokumentů**  
+  Převést soubory OFT na dokumenty DOCX pro snadnou revizi a formátování v současných kancelářských pracovních postupech.
+
+* **Opětovné použití obsahu napříč systémy**  
+  Přetvořit šablony e‑mailů na editovatelné dokumenty pro zprávy, návrhy nebo interní záznamy.
+
+* **Standardizovaný archivní výstup**  
+  Uložit obsah šablon e‑mailů v široce kompatibilním formátu dokumentu pro dlouhodobý přístup.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Hromadná konverze šablon**  
+  Automaticky převést knihovny OFT na soubory DOCX pro podnikové úložiště dokumentů.
+
+* **Publikování obsahu založené na pracovních postupech**  
+  Odeslat převedené výstupy DOCX do schvalovacích, editačních nebo publikačních systémů bez ručního zásahu.
+
+* **Dynamické sestavování dokumentů**  
+  Použít Python API k integraci souborů DOCX odvozených z OFT do rozsáhlejších automatizovaných procesů generování dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

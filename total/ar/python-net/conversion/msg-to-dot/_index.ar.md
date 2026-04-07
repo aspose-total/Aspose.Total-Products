@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل MSG إلى DOT يحول رسائل البريد الإلكتروني إلى ملفات قوالب معالجة النصوص التي يمكن أن تُستخدم كأسس مستندات قابلة لإعادة الاستخدام. هذا مفيد عندما يجب تحويل الهياكل أو التخطيطات المستمدة من البريد الإلكتروني إلى أنماط مستندات قابلة للتكرار.
+
+في حالات الاستخدام الأوتوماتيكي، يدعم تحويل MSG إلى DOT إنشاء المستندات القائمة على القوالب وعمليات التقارير المعيارية. يتيح ذلك للمنظمات بناء مخرجات قابلة للتكرار من مصادر محتوى البريد الإلكتروني المتكررة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء قالب من محتوى البريد الإلكتروني**  
+  استخدم الرسائل المحوّلة كأساس لهياكل المستندات القابلة للتكرار.
+
+* **توثيق موحد**  
+  أنشئ قوالب موحدة للاستخدام المتكرر التشغيلي أو الإداري.
+
+* **أطر محتوى قابلة لإعادة الاستخدام**  
+  احفظ تخطيطات الرسائل وأنماط المحتوى لتوليد المستندات المستقبلية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط أنابيب توليد القوالب**  
+  حوّل ملفات MSG إلى قوالب DOT لمهام إنشاء المستندات المتكررة.
+
+* **سير عمل تقارير قابل للتكرار**  
+  استخدم القوالب المستمدة من البريد الإلكتروني في أنظمة التقارير الأوتوماتيكية أو توثيق الحالات.
+
+* **توحيد الصيغ**  
+  أنشئ هياكل مستندات مُتحكم فيها من محتوى الاتصالات الواردة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

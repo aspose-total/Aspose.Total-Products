@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل MBOX إلى RTF يحول أرشيفات صناديق البريد إلى مستندات نصية غنية، مع الحفاظ على محتوى البريد الإلكتروني المنسق في صيغة قابلة للتحرير وقابلة للقراءة على نطاق واسع. هذا مفيد عندما تحتاج المؤسسات إلى توازن بين الحفاظ على التنسيق، والقابلية للنقل، ومرونة المستند.
+
+باستخدام واجهات برمجة تطبيقات بايثون، يمكن أتمتة تحويل MBOX إلى RTF لتبسيط إعادة استخدام المحتوى، ودعم سير عمل التقارير، وإنشاء مخرجات مستندات قابلة للوصول من بيانات البريد الإلكتروني المؤرشفة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **حفظ البريد الإلكتروني المنسق**
+  تحويل الرسائل إلى ملفات RTF مع الحفاظ على بنية النص الغني القابلة للقراءة.
+
+* **تصدير المستند القابل للتحرير**
+  جعل محتوى صندوق البريد أسهل للتعديل، أو التعليق، أو إعادة الاستخدام في سير عمل المستندات.
+
+* **مشاركة النص القابلة للنقل**
+  استخدام صيغة مدعومة على نطاق واسع لتبادل محتوى البريد الإلكتروني المحول.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إخراج نص غني مؤتمت**
+  تحويل ملفات MBOX إلى مستندات RTF في خطوط أنابيب مدفوعة بالدفعات.
+
+* **سير عمل إعادة استخدام المحتوى**
+  إدخال ملفات النص الغني المحولة في عمليات التقارير أو التحرير أو المراجعة.
+
+* **خطوط أنابيب التنسيق البرمجية**
+  استخدام بايثون لتوسيع تحويل البريد الإلكتروني إلى مستند بشكل منظم بكفاءة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل المستند إلى XLTM يحول محتوى Word إلى قوالب جداول بيانات مُمكّنة بالماكرو ومناسبة لإنشاء دفاتر عمل قابلة لإعادة الاستخدام مع سلوك أتمتة متقدم. وهو ذو قيمة في البيئات التي تعتمد على العمليات حيث يجب أن تدعم القوالب أكثر من البنية الثابتة.
+
+تساعد واجهات برمجة التطبيقات بلغة Python على أتمتة تحويل DOC إلى XLTM، مما يتيح إدارة قوالب قابلة للتوسع، واتساق سير العمل، وعمليات جداول بيانات متقدمة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء قالب مُمكّن بالماكرو**
+  تحويل محتوى المستند إلى قوالب جداول بيانات قابلة لإعادة الاستخدام مع دعم الأتمتة.
+
+* **توحيد العملية**
+  استخدام مخرجات XLTM حيث تحتاج دفاتر العمل المتكررة إلى كل من البنية والقدرات المتقدمة.
+
+* **إعادة استخدام القالب التشغيلي**
+  إعادة توجيه المستندات الرسمية إلى أطر جداول بيانات قابلة للتكرار.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنتاج القالب الآلي**
+  إنشاء ملفات XLTM من مصادر DOC لتدفقات عمل جداول بيانات متقدمة.
+
+* **خطوط أنابيب دفاتر العمل القابلة لإعادة الاستخدام**
+  تحويل هياكل المستند برمجيًا إلى قوالب مُمكّنة بالماكرو.
+
+* **حوكمة جداول البيانات المؤسسية**
+  توحيد إنشاء القوالب عبر الفرق من خلال التحويل المبرمج.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

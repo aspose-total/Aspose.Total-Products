@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod OFT na BMP pomocí Python API umožňuje převést obsah e‑mailových šablon na bitmapové obrázky pro archivaci, generování náhledů a sdílení s pevně daným rozvržením. Tento proces je cenný, když záleží na vizuální konzistenci a když je nutné zachovat obsah založený na zprávách jako statický, široce čitelný formát obrázku.
+
+V moderních pracovních postupech podporuje převod OFT na BMP automatizaci tím, že přemění opakovaně použitelné e‑mailové šablony na obrazová aktiva, která lze indexovat, kontrolovat a distribuovat bez nutnosti e‑mailových klientů. Zvyšuje provozní efektivitu při zpracování dokumentů, v reportovacích řetězcích a ve správě vizuálních záznamů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Archivace náhledů šablon**  
+  Převést soubory OFT na BMP obrázky, aby se zachovaly rozvržení e‑mailových šablon jako statické vizuální záznamy.
+
+* **Kontrola vizuální shody**  
+  Použít bitmapové výstupy pro ruční nebo automatickou kontrolu formátování, upozornění a prvků značky.
+
+* **Distribuce obrázků offline**  
+  Sdílet vykreslený obsah e‑mailu v jednoduchém formátu obrázku pro interní revizi nebo dokumentační účely.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Dávkové renderování e‑mailových šablon**  
+  Automatizovat převod více OFT šablon na BMP soubory pro katalogizaci a kontrolu kvality.
+
+* **Integrace do pracovního postupu dokumentů**  
+  Směrovat převedené BMP výstupy do úložišť dokumentů, auditních systémů nebo schvalovacích řetězců.
+
+* **Řetězce generování náhledů**  
+  Dynamicky generovat vizuální náhledy z OFT šablon pro dashboardy, portály nebo knihovny obsahu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

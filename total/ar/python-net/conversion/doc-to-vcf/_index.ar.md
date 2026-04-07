@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل المستند إلى VCF يحول معلومات الاتصال المخزنة في مستندات Word إلى تنسيق vCard موحد لدفاتر العناوين وأنظمة الاتصال. وهو مفيد عندما تحتاج بطاقات الأعمال أو الدلائل أو قوائم الاتصال إلى الانتقال من المستندات إلى سير عمل الاتصال الرقمي.
+
+استخدام واجهات برمجة تطبيقات Python لتحويل DOC إلى VCF يحسن الدقة، يقلل من إدخال الاتصالات يدويًا، ويدعم المزامنة القابلة للتوسع بين مصادر المستندات وأنظمة إدارة الاتصالات.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **استخراج بيانات الاتصال**
+  تحويل تفاصيل الاتصال من المستندات إلى ملفات vCard لإعادة الاستخدام.
+
+* **استيراد دفتر العناوين**
+  تحضير معلومات الاتصال المستندة إلى المستندات للاستيراد المباشر إلى أنظمة الاتصال.
+
+* **تحديث الدليل**
+  تحويل قوائم الاتصال الثابتة إلى سجلات اتصال رقمية محمولة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **إنشاء جهات اتصال آلية**
+  إنشاء ملفات VCF من دلائل DOC أو القوائم أو النماذج برمجيًا.
+
+* **دعم مزامنة CRM والاتصالات**
+  توجيه جهات الاتصال المستخرجة من المستندات إلى سير عمل إدارة الاتصالات.
+
+* **معالجة جهات الاتصال على دفعات**
+  تحويل العديد من المستندات الموجهة للاتصال إلى أصول vCard قابلة لإعادة الاستخدام على نطاق واسع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

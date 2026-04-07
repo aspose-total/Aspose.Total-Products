@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование WordML в ODS преобразует структурированное содержимое на основе документов в файлы OpenDocument Spreadsheet для обработки данных по открытым стандартам и редактирования таблиц. Это ценно, когда организациям нужны редактируемые таблицы без зависимости от проприетарных форматов.
+
+Python API помогают автоматизировать преобразование WordML в ODS, извлекая таблицы и сопоставляя их с листами электронных таблиц, подходящими для совместных, переносимых и масштабируемых рабочих процессов.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **Открытый вывод электронных таблиц**
+  Преобразует таблицы WordML в редактируемые ODS‑файлы для рабочих процессов с электронными таблицами на основе открытых стандартов.
+
+* **Переносимый обмен данными**
+  Поддерживает перемещение структурированного содержимого в совместимые среды электронных таблиц.
+
+* **Повторное использование таблиц документа**
+  Облегчает анализ и поддержку данных, находящихся в документе.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **Пакетное преобразование электронных таблиц**
+  Автоматически создает ODS‑файлы из нескольких документов WordML.
+
+* **Интеграция открытых рабочих процессов**
+  Передаёт преобразованные таблицы в среды обработки, основанные на стандартах.
+
+* **Масштабируемое извлечение данных**
+  Поддерживает масштабную трансформацию таблиц документов в повторно используемые активы электронных таблиц.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

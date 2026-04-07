@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to SXC conversion transformuje dokumenty s makry na soubory tabulek kompatibilní se staršími otevřenými tabulkovými pracovními postupy, což umožňuje strukturovaný obsah znovu použít v tabulární formě. Je užitečný, když je třeba vyměňovat data založená na dokumentech s legacy systémy, které stále spoléhají na starší tabulkové standardy.
+
+Pro automatizaci podporuje převod DOCM na SXC rutinní extrakci dat, zpětnou kompatibilitu a škálovatelný převod tabulek z dokumentů do výstupů tabulek přátelských k legacy systémům.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Kompatibilita se staršími tabulkovými formáty**
+  Převádí obsah dokumentu do staršího tabulkového formátu používaného v zavedených prostředích.
+
+* **Opětovné použití strukturovaných tabulek**
+  Pomáhá přesunout tabulková data z dokumentů DOCM do tabulkových pracovních postupů.
+
+* **Zpětně kompatibilní výměna dat**
+  Podporuje systémy, které se plně nepřesunuly na novější tabulkové formáty.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované exporty pro starší systémy**
+  Vytváří soubory SXC ze zdrojů DOCM pro požadavky starších pracovních postupů.
+
+* **Hromadná transformace dat**
+  Efektivně převádí velké sady tabulek z dokumentů do výstupů připravených pro tabulky.
+
+* **Podpora kompatibility v pipeline**
+  Propojuje moderní zdroje dokumentů se staršími systémy pro zpracování tabulek.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

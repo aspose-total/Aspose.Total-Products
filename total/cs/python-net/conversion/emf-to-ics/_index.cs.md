@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu E
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+EMF to ICS conversion in Python enables the transformation of Enhanced Metafile graphics into calendar-compatible ICS files that can support scheduling, event distribution, and structured planning workflows. This type of conversion is relevant when visual content must be associated with event data or included in systems that generate calendar-based outputs.
+
+In automation environments, EMF to ICS conversion helps connect graphical information with scheduling processes, improving consistency and reducing manual formatting work. It supports scalable calendar generation, event notifications, and integration between document assets and time-based workflow systems.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Příprava obsahu události**  
+  Convert EMF-based visuals into ICS-compatible outputs for workflows that distribute event-related information.
+
+* **Komunikace řízená plánováním**  
+  Use converted files in systems where visual data accompanies appointment or calendar records.
+
+* **Systémy plánování a koordinace**  
+  Enable integration between diagram-based assets and calendar workflows used for operational planning.
+
+* **Strukturovaná distribuce událostí**  
+  Support automated sharing of event information in a widely recognized calendar format.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná generace kalendářových souborů**  
+  Python workflows can create ICS outputs from EMF-based source content as part of scheduling pipelines.
+
+* **Připomenutí a doručení události**  
+  Systems can generate calendar-ready files automatically when visual event materials are prepared.
+
+* **Dávkové plánovací procesy**  
+  Multiple EMF assets can be converted programmatically into ICS files for recurring or large-scale event workflows.
+
+* **Integrované koordinační pipeline**  
+  Applications can connect document generation, visual preparation, and calendar distribution in one automated process.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

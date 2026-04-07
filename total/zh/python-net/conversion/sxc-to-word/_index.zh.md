@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC 转 Word 转换将基于电子表格的内容转换为适合可读文档、报告和正式沟通的文字处理格式。当需要将结构化的电子表格数据改编为更易于审阅和分发的文本优先文档时，这一功能非常有价值。
+
+在以自动化为重点的系统中，使用 Python API 的 SXC 转 Word 转换有助于简化内容转换流程、提升输出一致性，并将电子表格来源与更广泛的文档管理工作流相连接。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **业务文档创建**  
+  将电子表格数据转换为用于报告、摘要和正式沟通的文字处理文档。
+
+* **可读内容交付**  
+  使结构化数据更易于非技术受众以文档形式阅读和使用。
+
+* **工作流兼容性**  
+  支持依赖文字处理格式进行协作和审阅的文档中心环境。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化报告流水线**  
+  使用 Python API 定期或基于事件地从 SXC 数据创建 Word 文档。
+
+* **文档管理集成**  
+  将转换后的输出直接输送至审阅、批准或归档系统，无需人工重新处理。
+
+* **可扩展内容转换**  
+  实现从电子表格输入程序化生成大量兼容 Word 的文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python 中的 Email 转 PNG 转换将邮件内容转换为高质量的光栅图像，适用于预览、透明度支持和可视化归档。当需要在广泛支持的图像格式中清晰保留邮件布局时，这非常有用。
+
+此转换通过实现可扩展的邮件视觉生成，提升了自动化水平，可用于网页界面、记录系统和报告工作流，而无需可编辑的文档格式。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **高质量消息预览**
+  将电子邮件转换为 PNG 文件，以在门户和仪表板中实现清晰显示。
+
+* **可视化归档记录**
+  将邮件外观保存为图像文件，以便快速参考。
+
+* **工作流附件**
+  在支持系统、审计或审查流程中使用 PNG 输出。
+
+* **网页友好渲染**
+  为基于浏览器的应用程序和内容系统生成邮件视觉。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **预览生成服务**
+  自动从入站或存储的邮件创建 PNG 渲染。
+
+* **运营文档流水线**
+  将邮件图像附加到工单、报告和自动化日志中。
+
+* **网页分发自动化**
+  将邮件预览发布到内容管理或监控系统中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

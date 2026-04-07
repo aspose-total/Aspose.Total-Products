@@ -46,7 +46,47 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 的 EML 转 ODT 转换将电子邮件消息转换为可编辑且符合标准的文档工作流的开放文本文档文件。当组织需要在开放文档结构中获取可移植、可编辑的邮件衍生内容时，此格式非常有用。
+
+在自动化和集成场景中，EML 转 ODT 转换支持可扩展的文档转换，同时保持开放性和兼容性。它有助于简化以可编辑内容交换和标准化办公文档处理为优先的工作流。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **开放文档编辑**  
+  将电子邮件内容转换为 ODT 文件，以便编辑和结构化重用。
+
+* **面向标准的归档**  
+  支持以开放且可移植的文本格式进行文档保存。
+
+* **跨平台协作**  
+  使基于电子邮件的文档更容易在不同的文档环境中共享。
+
+* **业务内容再利用**  
+  帮助将邮件内容整合到可编辑的业务文件和记录中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **开放格式转换流水线**  
+  自动化可以将 EML 文件转换为 ODT 文档，以实现互操作的工作流。
+
+* **仓库摄取工作流**  
+  编程转换支持在文档系统中存储可编辑的邮件衍生文件。
+
+* **协作编辑链**  
+  转换后的文件可以自动进入审阅和修订流程。
+
+* **基于标准的内容处理**  
+  ODT 输出支持在以开放文档为中心的环境中实现可扩展的自动化。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

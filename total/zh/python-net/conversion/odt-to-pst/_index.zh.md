@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT 到 PST 的转换将文档内容转换为用于捆绑通信和归档场景的邮箱式存储格式。当需要将源文本重新用于迁移、存储或记录管理的消息相关容器时，这非常有用。
+
+借助 Python API，ODT 到 PST 的转换可以集成到自动化归档和内容打包工作流中。它支持对文档衍生资产进行可重复的准备，以用于以通信为中心的存储库。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **归档容器准备**  
+  将文档内容转换为可用于邮箱式归档工作流的形式。
+
+* **内容迁移支持**  
+  帮助将文档衍生的材料迁移到面向消息的存储环境中。
+
+* **记录合并**  
+  支持将转换后的内容合并到结构化的归档容器中。
+
+* **保留工作流启用**  
+  准备适用于长期保存过程的输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化归档打包**  
+  Python 作业可以将 ODT 文件转换为用于存储工作流的 PST 导向输出。
+
+* **批量转换以进行保留**  
+  大型文档库可以自动处理以进行归档准备。
+
+* **迁移管道集成**  
+  转换后的输出可以作为更广泛的通信系统迁移的一部分生成。
+
+* **编程式记录处理**  
+  文档衍生的内容可以在大规模下通过可重复的归档流程进行处理。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

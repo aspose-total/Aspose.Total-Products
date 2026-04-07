@@ -66,7 +66,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX 转 DOCM 转换将演示文稿内容转换为支持可编辑文本以及高级文档自动化功能的宏启用文档格式。当演示材料必须在依赖脚本化文档行为、模板或受控处理的工作流中重复使用时，这一转换非常适用。
+
+借助 Python API，PPTX 转 DOCM 转换可以嵌入需要内容转换和宏启用文档处理的自动化企业工作流中。这支持在大批量内容环境下实现可扩展的文档组装、基于表单的处理以及运营自动化。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用文档**
+  将幻灯片内容转换为专为自动化操作和脚本化处理而设计的文档。
+
+* **基于模板的工作流**
+  在支持重复业务任务的结构化文档中重复使用演示材料。
+
+* **运营表单生成**
+  为涉及文档逻辑或嵌入式自动化的工作流准备来源于演示的内容。
+
+* **流程驱动的报告**
+  将演示转换为适用于高级文档生命周期管理的可编辑文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化文档组装**
+  将 PPTX 文件转换为 DOCM 输出，以用于结合内容和宏逻辑的工作流。
+
+* **基于规则的内容处理**
+  将转换后的文档通过应用脚本化验证或更新的系统进行路由。
+
+* **业务表单的批量处理**
+  从演示文稿生成宏启用文件，以用于可重复的运营流程。
+
+* **企业文档自动化**
+  将程序化转换集成到更广泛的系统中，以实现受控的文档执行。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

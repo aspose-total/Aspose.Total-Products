@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل TSV إلى DOT يحول البيانات المفصولة بعلامات جدولة إلى ملفات قوالب معالجة النصوص التي يمكنها دعم إنشاء مستندات موحدة. هذا مفيد عندما يجب أن تغذي البيانات المهيكلة أنماط توثيق قابلة للتكرار وتدفقات عمل النشر المدفوعة بالقوالب.
+
+باستخدام واجهات برمجة تطبيقات بايثون، يمكن أتمتة تحويل TSV إلى DOT لإنتاج مخرجات قائمة على القوالب قابلة لإعادة الاستخدام، مما يحسن القابلية للتوسع والاتساق والكفاءة عبر عمليات توليد المستندات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إعداد القالب**  
+  يحوّل محتوى TSV إلى صيغ متوافقة مع هياكل المستندات القابلة لإعادة الاستخدام.
+
+* **توثيق موحد**  
+  يدعم تنسيقًا موحدًا للتقارير المتكررة أو مهام إنشاء السجلات.
+
+* **سير عمل توزيع المحتوى**  
+  يساعد في إعداد البيانات المهيكلة لأنظمة المستندات المرتكزة على القوالب.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **أطر مستندات قابلة لإعادة الاستخدام**  
+  يمكن للأتمتة تحويل بيانات TSV إلى مخرجات موجهة بالقوالب للاستخدام المتكرر.
+
+* **خطوط أنابيب المستندات التشغيلية**  
+  يمكن لواجهات برمجة تطبيقات بايثون ربط تصديرات البيانات بخطوات توليد القوالب الموحدة.
+
+* **معالجة عالية الحجم**  
+  يمكن تحويل مجموعات بيانات TSV المتعددة إلى ملفات DOT بمنطق ثابت.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML to TSV conversion преобразует структурированное содержимое документов в таблично‑разделённые текстовые файлы, которые просты, портативны и легко интегрируются в рабочие процессы с данными. Это ценно, когда требуется чистое разделение столбцов без форматирования, специфичного для электронных таблиц.
+
+Python API делают преобразование WordML в TSV эффективным, извлекая структуры таблиц и преобразуя их в лёгкие, удобные для автоматизации результаты для обработки и обмена данными.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Экспорт данных с разделителями**
+  Преобразует таблицы WordML в TSV‑файлы для чистого обмена данными в текстовом виде.
+
+* **Вывод, удобный для конвейеров**
+  Создаёт простые структурированные файлы, подходящие для задач парсинга и валидации.
+
+* **Извлечение таблиц из документов**
+  Облегчает программную обработку табличного содержимого из документов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Пакетное преобразование таблиц**
+  Автоматически преобразует таблицы документов в TSV‑файлы для последующих рабочих процессов.
+
+* **Поддержка ETL‑конвейеров**
+  Передаёт TSV‑результаты в конвейеры загрузки, сопоставления и трансформации.
+
+* **Задачи синхронизации данных**
+  Обеспечивает повторяемый экспорт обновлённых данных документов в текстовые структурированные файлы.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

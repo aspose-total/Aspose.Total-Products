@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF 到 XLTM 的转换将格式化的文本文档转换为宏启用的电子表格模板文件，这些文件结合了可重用的工作簿结构和高级功能。当标准化的电子表格输出在重复的运营流程中也需要支持扩展的工作簿行为时，这非常有用。
+
+在自动化工作流中，RTF 到 XLTM 帮助组织从源文档创建高级电子表格模板，实现可重复、受管控且更具动态性的工作簿大规模生成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **高级电子表格模板创建**  
+  将文档内容转换为可重用的模板，并支持扩展的工作簿功能。
+
+* **可重复的运营工作簿设计**  
+  帮助在重复的使用场景中标准化复杂的电子表格工作流。
+
+* **模板中的结构化内容复用**  
+  支持将叙述性源材料转化为受管控的电子表格起始点。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **宏启用的模板流水线**  
+  系统可以将 RTF 文件转换为 XLTM 模板，以用于高级电子表格工作流。
+
+* **受控工作簿自动化**  
+  编程式转换支持依赖标准化模板逻辑的重复流程。
+
+* **可扩展的运营模板分发**  
+  动态工作流可以从源文档准备丰富的电子表格模板，以供广泛复用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

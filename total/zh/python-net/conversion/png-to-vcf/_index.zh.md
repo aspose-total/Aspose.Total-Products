@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PNG 转 VCF 转换能够将基于图像的联系信息（如扫描的名片或可视化联系表）转换为结构化的联系人文件，以便更轻松地存储、共享和同步。这对于数字化联系数据并使其在现代通讯录和 CRM 工作流中可用至关重要。
+
+Python API 使该过程具备可扩展性和自动化友好性，允许系统从 PNG 文件中提取并转换联系人详细信息为 VCF 输出，减少手动数据录入并提升联系人管理效率。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **名片数字化**  
+  将联系卡的 PNG 图像转换为可重复使用的 VCF 联系人文件。
+
+* **联系数据提取**  
+  帮助将可视化的联系信息转化为结构化的数字通讯录条目。
+
+* **CRM 数据准备**  
+  支持需要将基于图像的联系详情转换为可导入联系人记录的工作流。
+
+* **目录现代化**  
+  使组织能够将扫描的或可视化的联系资产迁移到标准化的联系人文件格式中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化联系人捕获**  
+  Python API 可以将收到的 PNG 名片转换为 VCF 文件，以实现即时创建联系人。
+
+* **批量联系人导入工作流**  
+  大量的可视化联系人记录可以转换为 VCF 输出，以便导入数据库或通讯录。
+
+* **潜在客户收集管道**  
+  系统可以以编程方式将基于图像的联系提交转换为结构化的联系人文件。
+
+* **移动端和云同步准备**  
+  自动化转换有助于准备基于 PNG 的联系数据，以便在各平台和应用之间同步。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

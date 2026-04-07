@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование WordML в VCF преобразует контактную информацию, хранящуюся в документах, в файлы vCard, которые можно импортировать в системы управления контактами. Это полезно, когда имена, номера телефонов, адреса или связанные детали, хранящиеся в документах, необходимо превратить в стандартизированные записи контактов.
+
+С помощью Python API процесс преобразования WordML в VCF можно автоматизировать, извлекая соответствующие поля контактов и генерируя переносимые vCard‑файлы для CRM, каталогов и процессов синхронизации.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **Извлечение записей контактов**
+  Преобразует детали контактов из документов WordML в импортируемые VCF‑файлы.
+
+* **Поддержка каталогов и CRM**
+  Помогает перенести контактные данные из документов в структурированные системы контактов.
+
+* **Переносное совместное использование контактов**
+  Обеспечивает стандартизированный обмен контактной информацией между платформами.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **Массовая генерация контактов**
+  Автоматизирует создание VCF из каталогов, форм или списков контактов, хранящихся в WordML.
+
+* **Подготовка данных CRM**
+  Поддерживает импорт стандартизированных записей контактов в автоматизированные бизнес‑системы.
+
+* **Включение процессов синхронизации**
+  Преобразует контактные данные, хранящиеся в документах, в переносимые файлы для регулярной синхронизации.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

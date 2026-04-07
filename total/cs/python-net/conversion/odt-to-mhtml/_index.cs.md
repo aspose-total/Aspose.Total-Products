@@ -53,7 +53,47 @@ K přidání funkce převodu ODT na MHTML používáme API [Aspose.Words for Pyt
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod ODT na MHTML převádí soubory OpenDocument Text do formátu webového archivu, který kombinuje obsah a související zdroje do jediného souboru. To je cenné pro zachování dokumentů v prohlížečem přátelské podobě, která je snadno sdíletelná, prohlížitelná nebo uložitelná.
+
+V automatizačních pracovních postupech podporuje převod ODT na MHTML webové šíření, zachycení dokumentů a přenosné archivování. Python API umožňují opakovatelnou tvorbu samostatných výstupů pro publikování obsahu a revizní systémy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Prohlížečem přátelská archivace**  
+  Převádí dokumenty do formátu, který lze otevřít a zobrazit jako webový obsah.
+
+* **Přenosné sdílení dokumentů**  
+  Zabaluje obsah do jediného souboru pro snadnější přenos a ukládání.
+
+* **Zachycení archivu**  
+  Pomáhá zachovat vzhled a strukturu dokumentu ve webově kompatibilním formátu.
+
+* **Distribuce vloženého obsahu**  
+  Podporuje pracovní postupy, kde jsou preferovány samostatné soubory s obsahem.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná tvorba webového archivu**  
+  Pythonové pracovní postupy mohou převádět ODT soubory do MHTML pro přístup přes prohlížeč.
+
+* **Dávkové úlohy archivace**  
+  Velké sady dokumentů mohou být automaticky archivovány do samostatných webových souborů.
+
+* **Příprava publikování obsahu**  
+  Systémy mohou generovat přenosné verze pro prohlížení pro zainteresované strany nebo portály.
+
+* **Pracovní postupy snímků dokumentu**  
+  MHTML výstupy mohou být programově vytvořeny pro revizi nebo dlouhodobé ukládání.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

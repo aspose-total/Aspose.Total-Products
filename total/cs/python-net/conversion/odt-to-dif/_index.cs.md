@@ -65,7 +65,47 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod ODT na DIF převádí obsah OpenDocument Text do formátu pro výměnu dat určeného pro výměnu dat ve stylu tabulek. To je užitečné, když je nutné přesunout informace vložené v textových dokumentech do systémů, které spoléhají na strukturované číselné nebo tabulkové reprezentace.
+
+Z pohledu automatizace pomáhá převod ODT na DIF propojit obsah založený na dokumentech s legacy nebo specializovanými prostředími pro zpracování dat. Python API umožňují automatizovat extrakci, formátování a doručení v rozsahu s minimálním ručním úsilím.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Přenos tabulkových dat**  
+  Přesouvá tabulky z dokumentů do výměnného formátu vhodného pro strukturované datové workflow.
+
+* **Kompatibilita se staršími systémy**  
+  Podporuje prostředí, která stále používají DIF pro výměnu dat.
+
+* **Migrace strukturovaného obsahu**  
+  Převádí záznamy založené na dokumentech na znovupoužitelné datové zdroje.
+
+* **Interoperabilní zpracování dat**  
+  Zlepšuje přenos tabulkových informací napříč heterogenními platformami.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaný export tabulek**  
+  Python skripty mohou detekovat a exportovat tabulkové sekce z ODT souborů do formátu DIF.
+
+* **Zásobování starých pipeline**  
+  Automatizované pracovní toky mohou připravit data pro starší tabulkové nebo analytické systémy.
+
+* **Dávková normalizace dokumentů**  
+  Více ODT souborů může být zpracováno do konzistentních DIF výstupů v hromadných úlohách.
+
+* **Plánování výměny dat**  
+  Opakované převody mohou podpořit rutinní přenos strukturovaného obsahu dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

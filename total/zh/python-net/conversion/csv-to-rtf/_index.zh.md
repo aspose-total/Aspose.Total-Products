@@ -66,7 +66,46 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 CSV 转换为 RTF，可将结构化表格数据转换为富文本文档，保持格式的同时在各平台上具有广泛的兼容性。  
+此转换通过将原始数据集转换为可快速生成、易于共享并可集成到文档工作流中的可读格式化输出，支持自动化。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **格式化文本输出**  
+  将 CSV 数据转换为 RTF 文档，以生成可读的报告、摘要和结构化文本。
+
+* **跨平台文档交换**  
+  在工作流需要格式化内容且在各种环境中保持可访问时，生成 RTF 文件。
+
+* **数据驱动的文本发布**  
+  将 CSV 记录转换为格式化的文本文件，便于审阅和分发。
+
+* **标准化报告生成**  
+  从重复的数据集生成一致的 RTF 输出，用于文档和沟通任务。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化富文本生成**  
+  使用 Python API 将 CSV 输入转换为 RTF 文件，以实现可重复的报告和发布工作流。
+
+* **系统级文档转换**  
+  将 CSV 到 RTF 的转换集成到数据管道中，自动生成格式化文档。
+
+* **批量富文本导出**  
+  大规模处理多个 CSV 文件为 RTF 输出，同时保持格式一致性。
+
+* **动态文本组装**  
+  通过编程方式从变化的 CSV 字段构建 RTF 文档，以支持灵活的自动化内容创建。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

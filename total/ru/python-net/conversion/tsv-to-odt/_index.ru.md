@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование TSV в ODT преобразует данные, разделённые табуляцией, в текстовые файлы открытого документа, поддерживающие редактируемую, переносимую и основанную на стандартах документацию. Это полезно для организаций, ищущих гибкие выводы документов из структурированных источников данных без привязки рабочих процессов к единой экосистеме.
+
+С помощью Python API преобразование TSV в ODT можно автоматизировать, чтобы улучшить совместимость, сократить ручную обработку и поддержать масштабируемое создание документов в рамках рабочих процессов с открытыми форматами.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **Отчётность в открытом документе**  
+  Преобразует содержимое TSV в редактируемые текстовые документы на основе открытых стандартов.
+
+* **Кроссплатформенная документация**  
+  Облегчает обмен структурированными данными между различными документными средами.
+
+* **Доступные бизнес‑записи**  
+  Обеспечивает создание читаемых выводов из исходных табличных источников.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **Взаимодействующие конвейеры документов**  
+  Python API могут автоматизировать генерацию ODT из периодических экспортов TSV.
+
+* **Поддержка рабочих процессов с открытыми форматами**  
+  Автоматизация позволяет масштабировать создание документных выводов, основанных на стандартах.
+
+* **Пакетное преобразование данных**  
+  Несколько файлов TSV могут быть преобразованы в формат ODT в упрощённых заданиях обработки.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

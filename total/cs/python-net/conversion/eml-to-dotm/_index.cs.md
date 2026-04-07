@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu E
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod EML na DOTM pomocí Python API převádí e‑mailové zprávy na makrem povolené šablony dokumentů pro pokročilé workflow založené na šablonách. Tento formát je užitečný, když je třeba začlenit obsah odvozený z komunikace do opakovaně použitelných šablon, které podporují další automatizované chování.
+
+Pro automatizační systémy pomáhá převod EML na DOTM propojit příchozí komunikaci s opakovatelnými procesy generování dokumentů. Podporuje škálovatelné operace, kde jsou makrem povolené šablony používány k vytváření strukturované, akčně orientované dokumentace.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření šablon s povolenými makry**  
+  Převádí obsah e‑mailu do opakovaně použitelných DOTM šablon pro pokročilé dokumentové procesy.
+
+* **Procesně orientovaný návrh dokumentů**  
+  Pomáhá zachytit struktury komunikace v šablonách, které podporují automatizované akce.
+
+* **Knihovny podnikových šablon**  
+  Podporuje vytváření strukturovaných šablonových aktiv z opakujících se e‑mailových vzorů.
+
+* **Balíčkování obsahu připraveného pro workflow**  
+  Připravuje materiál odvozený z e‑mailu pro použití v prostředích dokumentů s podporou maker.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované poskytování šablon**  
+  Pipelines mohou převádět EML zprávy na DOTM šablony pro standardizovaný obchodní výstup.
+
+* **Škálovatelné sestavování dokumentů**  
+  Šablony odvozené z e‑mailu lze programově znovu použít ve workflow s vysokým objemem dokumentů.
+
+* **Strukturované opětovné využití obsahu**  
+  Automatizace pomáhá transformovat rozvržení zpráv do rámců šablon s povolenými makry.
+
+* **Integrace operačního workflow**  
+  Převedené soubory DOTM mohou napájet dokumentové systémy, které závisí na opakovaně použitelných inteligentních šablonách.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

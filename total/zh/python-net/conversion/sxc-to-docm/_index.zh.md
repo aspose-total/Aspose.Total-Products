@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC 到 DOCM 转换将源自电子表格的内容转换为宏启用的文档格式，适用于需要嵌入自动化功能的高级文档工作流。当必须将电子表格数据转移到支持脚本化格式、逻辑或重复操作的文档时，这非常有价值。
+
+使用 Python API，SXC 到 DOCM 转换通过在结构化企业工作流中允许自动生成交互式或宏就绪的文档，提高了运营效率。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏就绪报告**  
+  将电子表格内容转换为为宏基格式化或处理任务准备的文档。
+
+* **可重用文档模板**  
+  支持工作流在需要将电子表格数据填充到为重复自动化使用而设计的文档时的场景。
+
+* **运营文档**  
+  帮助创建将导入内容与嵌入逻辑相结合的文档，以用于内部流程执行。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板填充**  
+  使用 Python API 将电子表格数据注入宏启用的文档工作流，几乎无需人工操作。
+
+* **文档处理流水线**  
+  实现端到端自动化，将生成的 DOCM 文件传递到审批或转换系统中。
+
+* **基于规则的内容组装**  
+  支持在转换后需要脚本化行为的场景下进行动态文档创建。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

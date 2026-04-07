@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX 转 TSV 转换将 Word 模板内容转换为制表符分隔值，以实现结构化数据共享并简化导入到电子表格或处理工具中。当需要以干净的基于文本的格式导出表格文档内容时，这非常有用。
+
+使用 Python API，此转换通过实现可靠的基于文本的数据交换、轻量级处理以及大规模的模板驱动内容转换，提升了自动化水平。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **纯文本数据导出**
+  将结构化文档内容转换为轻量级表格格式。
+
+* **电子表格导入工作流**
+  准备模板衍生的信息，以便快速加载到数据工具中。
+
+* **系统友好型数据交换**
+  支持在自动化流水线之间传输结构化内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **计划数据提取**
+  自动将 DOTX 模板转换为 TSV 文件，以支持重复的工作流。
+
+* **ETL 准备**
+  将 TSV 输出用作自动化转换流水线的输入层。
+
+* **大批量基于文本的转换**
+  将大量模板处理为紧凑的结构化输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

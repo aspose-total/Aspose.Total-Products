@@ -65,7 +65,47 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod Wordu do XLS pomocí Python API umožňuje transformaci obsahu z textových procesorů do klasických tabulkových souborů pro strukturované využití dat ve starších (legacy) tabulkových prostředích. To je cenné, když je třeba informace z dokumentů uspořádat do listů pro analýzu, reportování nebo operativní sledování.
+
+Z pohledu automatizace tento převod podporuje pracovní postup zaměřený na kompatibilitu tím, že převádí obsah pocházející z dokumentů na tabulkové zdroje, které zůstávají použitelné i v starších systémech.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Export starých tabulek**
+  Převádí obsah Wordu do XLS pro tradiční pracovní postup založený na listech.
+
+* **Strukturování provozních dat**
+  Přeskupuje informace z dokumentů do listů pro snazší sledování a analýzu.
+
+* **Zachování kompatibility**
+  Podporuje prostředí, kde jsou stále vyžadovány klasické formáty tabulek.
+
+* **Podpora pracovního postupu pro reportování**
+  Umožňuje snadnější správu dat odvozených z dokumentů v zavedených tabulkových nástrojích.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Dávková generace XLS**
+  Automaticky převádí soubory Word do klasických tabulek pro průběžné operace.
+
+* **Zastaralé integrační kanály**
+  Zasílá data listů odvozená z dokumentů do starších podnikových systémů.
+
+* **Pracovní postup archivního převodu**
+  Uchovává strukturované výstupy ve formě tabulek pro pozdější vyhledání a revizi.
+
+* **Automatizace dokument‑na‑list**
+  Propojuje procesy extrakce dokumentů s reportovacími rutinami založenými na tabulkách.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

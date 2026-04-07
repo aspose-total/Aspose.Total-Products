@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 ICS 转换为 DOCM 可将日历事件数据转换为支持宏的 Word 文档。这使得调度信息能够嵌入支持通过嵌入宏进行高级自动化的文档中。
+
+使用 Python 自动化此转换可帮助组织将日历数据集成到宏驱动的工作流中，从而让事件日程触发文档自动化或报告流程。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **自动化文档模板**  
+  将日历数据嵌入支持宏的文档，以实现自动化报告。
+
+* **工作流集成**  
+  在触发自动化流程的文档中使用事件信息。
+
+* **高级报告**  
+  将日历日程与宏驱动的分析或格式化相结合。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **宏驱动的报告系统**  
+  从 ICS 日程自动生成 DOCM 文件。
+
+* **文档自动化流水线**  
+  将事件数据与宏工作流集成，实现文档的自动更新。
+
+* **企业级调度工具**  
+  大规模将日历数据转换为支持宏的报告。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

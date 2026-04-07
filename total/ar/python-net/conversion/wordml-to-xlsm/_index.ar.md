@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل WordML إلى XLSM يحول محتوى المستند المهيكل إلى ملفات جداول بيانات مدعومة بالماكرو تجمع بين بيانات دفتر العمل وقدرات الأتمتة. يكون ذلك مفيدًا عندما يجب أن يدعم البيانات المحوّلة منطقًا قائمًا على جداول البيانات أو البرمجة النصية أو مهامًا قابلة للتكرار.
+
+باستخدام واجهات برمجة التطبيقات في بايثون، يتيح تحويل WordML إلى XLSM تدفق بيانات المستند إلى سير عمل جداول بيانات متقدم مع أتمتة قابلة للتوسع ومنطق معالجة قابل لإعادة الاستخدام.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء دفتر عمل مدعوم بالماكرو**
+  يقوم بتحويل جداول WordML إلى ملفات XLSM لتدفقات عمل جداول البيانات الموجهة للأتمتة.
+
+* **معالجة بيانات متقدمة**
+  يدعم مخرجات جداول البيانات التي تعتمد على إجراءات أو منطق مدمج.
+
+* **تمكين المهام التشغيلية**
+  يساعد في نقل بيانات المستند إلى دفاتر عمل مصممة للمعالجة المتكررة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء دفتر عمل ماكرو تلقائي**
+  ينشئ ملفات XLSM من مصادر WordML في تدفقات عمل تجارية متكررة.
+
+* **تكامل منطق جداول البيانات**
+  يربط بيانات المستند المستخرجة ببيئات معالجة مدفوعة بالماكرو.
+
+* **حزم البيانات جاهزة للمعالجة**
+  يُمكّن من إعداد موارد دفتر العمل بشكل قابل للتوسع للعمليات الآلية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

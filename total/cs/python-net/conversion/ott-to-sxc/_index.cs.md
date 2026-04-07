@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod OTT na SXC v Python API transformuje šablony textových dokumentů OpenDocument do tabulkových souborů vhodných pro starší pracovní postupy v OpenOffice. To je užitečné, když je třeba obsah dokumentu převést do strukturovaného, editovatelného tabulkového formátu pro prostředí kompatibilní se staršími verzemi.
+
+Převod podporuje automatizaci tím, že umožňuje standardizovanou extrakci informací z dokumentu do tabulkových pracovních postupů, které nadále závisí na zavedených formátech OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Podpora starých tabulek**  
+  Vytváří výstupy tabulek kompatibilní se staršími pracovními postupy OpenOffice.
+
+* **Strukturování dat dokumentu**  
+  Převádí textový obsah šablony do editovatelných tabulek.
+
+* **Provozní kompatibilita**  
+  Pomáhá integrovat vygenerovaná data do zavedených tabulkových ekosystémů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaný export pro starší verze**  
+  Vytváří soubory SXC ze zdrojů OTT pro pracovní postupy zaměřené na kompatibilitu.
+
+* **Dávková transformace dat**  
+  Efektivně převádí mnoho souborů šablon do tabulkových výstupů pro starší verze.
+
+* **Integrace systémové kontinuity**  
+  Podporuje prostředí, která zachovávají starší řetězce zpracování tabulek.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

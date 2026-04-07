@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu E
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod e‑mailů do PCL v Pythonu transformuje obsah zprávy na výstup v jazyce tiskových příkazů, který je vhodný pro zařízení orientované tiskové workflow. To je užitečné, když je třeba e‑maily přímo vykreslit pro konzistentní tisk v provozních nebo starších tiskových prostředích.
+
+Podporuje automatizaci tím, že umožňuje obsahu zprávy přejít přímo do tiskových pipeline, čímž snižuje kroky přípravy a zjednodušuje tvorbu výstupů ve velkém měřítku.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Podpora přímého tiskového workflow**
+  Převádějte e‑maily do PCL pro systémy, které spoléhají na výstup připravený k tisku.
+
+* **Tisk provozních zpráv**
+  Používejte výstupy PCL tam, kde je nutné komunikaci tisknout ve standardizovaných formátech.
+
+* **Kompatibilita se staršími prostředími**
+  Podporujte starší tiskové infrastruktury přímým vykreslením e‑mailů.
+
+* **Centralizované tiskové fronty**
+  Vkládejte převedené soubory e‑mailů do procesů vysokokapacitního tisku.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované odesílání tisku**
+  Převádějte příchozí e‑maily do PCL a odesílejte je do naplánovaných tiskových front.
+
+* **Dávkový provozní výstup**
+  Vytvářejte e‑mailové záznamy připravené k tisku pro logistiku, administraci nebo revizi.
+
+* **Zařízeními řízené doručování dokumentů**
+  Integrujte převod e‑mailů s automatizovanými systémy správy tisku.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

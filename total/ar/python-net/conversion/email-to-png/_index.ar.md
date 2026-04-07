@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل البريد الإلكتروني إلى PNG في بايثون يحول محتوى الرسالة إلى صور نقطية عالية الجودة مناسبة للمعاينات، ودعم الشفافية، والأرشفة البصرية. وهو مفيد عندما تحتاج تخطيطات البريد الإلكتروني إلى الحفاظ عليها بوضوح في تنسيق صورة مدعوم على نطاق واسع.
+
+يعزز هذا التحويل الأتمتة من خلال تمكين إنشاء بصري للبريد الإلكتروني بشكل قابل للتوسع لواجهات الويب، وأنظمة السجلات، وتدفقات عمل التقارير دون الحاجة إلى تنسيقات مستندات قابلة للتحرير.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **معاينات رسائل عالية الجودة**
+  تحويل رسائل البريد الإلكتروني إلى ملفات PNG لعرض واضح في البوابات ولوحات التحكم.
+
+* **سجلات أرشفة بصرية**
+  الحفاظ على مظهر الرسالة كملفات صورة للرجوع السريع.
+
+* **مرفقات سير العمل**
+  استخدام مخرجات PNG في أنظمة الدعم، أو عمليات التدقيق، أو خطوط مراجعة.
+
+* **عرض صديق للويب**
+  إنشاء صور بصرية للبريد الإلكتروني لتطبيقات المتصفح وأنظمة المحتوى.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خدمات إنشاء المعاينات**
+  إنشاء عروض PNG تلقائيًا من رسائل البريد الواردة أو المخزنة.
+
+* **خطوط أنابيب الوثائق التشغيلية**
+  إرفاق صور الرسائل بالتذاكر، والتقارير، والسجلات الآلية.
+
+* **أتمتة توزيع الويب**
+  نشر معاينات البريد الإلكتروني في أنظمة إدارة المحتوى أو المراقبة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

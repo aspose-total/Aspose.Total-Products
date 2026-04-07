@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل OTT إلى PST في واجهات برمجة تطبيقات بايثون يحول قوالب نص OpenDocument إلى هياكل صندوق بريد للتخزين الشخصي من أجل أرشفة ونقل موجهة للبريد الإلكتروني. هذا مفيد عندما يجب حفظ الاتصالات التي تم إنشاؤها من المستندات بتنسيق يركز على صندوق البريد.
+
+يدعم التحويل الأتمتة من خلال مساعدة المؤسسات على نقل محتوى الرسائل المستند إلى القوالب إلى سير عمل التخزين الذي يدعم الأرشفة والهجرة وإدارة الاتصالات على نطاق واسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء أرشيف صندوق البريد**  
+  يُعبئ محتوى الاتصالات المُولَّد في تنسيق بريد موجه للتخزين.
+
+* **دعم الاحتفاظ والنقل**  
+  يساعد على حفظ ونقل محتوى الرسائل بكفاءة.
+
+* **تخزين الاتصالات المستند إلى القوالب**  
+  يعيد استخدام قوالب المستندات لإنتاج متوافق مع صندوق البريد.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء أرشيف تلقائي**  
+  يحوِّل محتوى الرسائل المستند إلى OTT إلى مخرجات PST بالجملة.
+
+* **سير عمل موجه للامتثال**  
+  يدعم احتفاظ السجلات وعمليات تخزين البريد المهيكلة.
+
+* **خطوط أنابيب ترحيل الاتصالات**  
+  يُغذي المحتوى المُولَّد إلى سير عمل نقل البريد المؤسسي.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

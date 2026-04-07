@@ -65,7 +65,45 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV to DOC conversion transforms tab-separated data into editable word processing documents that are easier to review, share, and format for business or operational use. It is useful when structured dataset output needs to become readable narrative-style documentation for reporting, communication, or archival workflows.
+
+Převod TSV na DOC transformuje data oddělená tabulátory do editovatelných dokumentů pro zpracování textu, které jsou snazší k revizi, sdílení a formátování pro obchodní nebo provozní použití. Je užitečný, když je potřeba, aby výstup strukturovaných datových sad se stal čitelnou dokumentací ve stylu narativu pro reportování, komunikaci nebo archivaci.
+
+Using Python APIs, this conversion can be automated to generate consistent DOC files from raw tabular inputs, improving efficiency in document production pipelines and supporting scalable reporting, export, and publishing tasks.
+
+Pomocí Python API lze tento převod automatizovat a generovat konzistentní DOC soubory z neformátovaných tabulkových vstupů, což zvyšuje efektivitu v pipelinech výroby dokumentů a podporuje škálovatelné reportování, export a publikování.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Čitelné datové zprávy**  
+  Převádí surové TSV tabulky na obsah vhodný pro dokumenty, usnadňující čtení a prezentaci.
+
+* **Interní dokumentace**  
+  Podporuje tvorbu provozních nebo analytických dokumentů ze strukturovaných zdrojových souborů.
+
+* **Exporty přátelské k pracovním postupům**  
+  Pomáhá týmům přesouvat data z backendových systémů do editovatelných formátů dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Plánovaná generace zpráv**  
+  Automatizace může převádět opakované TSV exporty do DOC souborů pro rutinní dokumentaci.
+
+* **Dokumentace obchodních procesů**  
+  Python API mohou převést strukturované záznamy do formátovaných dokumentů používaných při schvalování nebo revizích.
+
+* **Hromadná transformace souborů**  
+  Velké objemy TSV souborů lze programově převést do DOC výstupů s minimálním ručním úsilím.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

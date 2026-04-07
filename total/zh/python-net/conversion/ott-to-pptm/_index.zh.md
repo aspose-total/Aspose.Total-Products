@@ -65,7 +65,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT 到 PPTM 的转换在 Python API 中将 OpenDocument 文本模板转换为宏启用的演示文件，这些文件支持在基于幻灯片的工作流中进行高级自动化。当生成的演示文稿必须包含可重用的逻辑或脚本化操作时，这一点尤为重要。
+
+该转换通过将文档驱动的内容生成与能够参与更动态、功能更丰富的报告或交付场景的演示文件相结合，提升了自动化水平。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用的演示文稿创建**  
+  生成适用于高级自动化行为的演示文稿。
+
+* **动态报告支持**  
+  帮助构建超越静态幻灯片内容的演示文稿。
+
+* **模板内容复用**  
+  将文本模板转换为更丰富的演示输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **脚本感知的幻灯片生成**  
+  在可重复的工作流中从 OTT 模板创建 PPTM 文件。
+
+* **高级演示流水线**  
+  支持需要丰富幻灯片功能的报告系统。
+
+* **可扩展的自动化简报**  
+  在各种用例中提供一致且具备宏功能的演示文稿。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

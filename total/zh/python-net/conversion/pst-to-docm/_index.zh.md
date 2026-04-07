@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+在 Python API 中，PST 转 DOCM 的转换允许将邮箱数据导出为宏启用的 Word 文档，以支持高级文档工作流。当需要将归档的电子邮件内容与自动化文档行为、结构化格式或受控模板逻辑相结合时，这非常有用。
+
+在现代自动化系统中，PST 转 DOCM 的转换支持依赖动态操作、可重用表单或预构建宏启用模板的文档生成过程。它有助于将通信归档与基于规则的业务文档操作相连接。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用文档输出**
+  将邮箱内容导出为 DOCM，以用于依赖嵌入式文档自动化的工作流。
+
+* **结构化记录组装**
+  帮助将消息数据与高级基于 Word 的模板和逻辑相结合。
+
+* **运营文档标准化**
+  支持在受控业务文件中对来源于电子邮件的内容进行一致的格式化。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **模板自动化流水线**
+  PST 数据可以路由到 DOCM 模板，以实现可重复的文档创建。
+
+* **规则驱动的内容插入**
+  自动化系统可以使用选定的邮箱内容填充宏启用文件。
+
+* **企业文档流**
+  编程转换使归档通信能够为高级文档流程提供输入。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

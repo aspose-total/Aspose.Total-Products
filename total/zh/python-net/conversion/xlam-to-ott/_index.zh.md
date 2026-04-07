@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 XLAM 转换为 OTT 可将 Excel 加载项内容转换为支持可重复文档生成的开放文档文本模板。这对于希望在开放标准格式中拥有可重用文档结构并在文档创建工作流中保持一致性的组织非常有用。
+
+在自动化系统中，XLAM 转 OTT 转换有助于构建基于模板的流程，以高效且大规模地生成标准化文档。它支持开放格式操作，减少手动格式化工作，并提升文档流水线的可维护性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **开放模板创建**  
+  将 XLAM 内容转换为 OTT 模板，以在开放格式环境中实现可重用的文档生成。
+
+* **标准化文档设计**  
+  帮助团队为重复的报告和表单创建一致的开放文档模板。
+
+* **可重用内容框架**  
+  支持将结构化的电子表格来源内容转化为可重复的文档蓝图。
+
+* **基于模板的发布**  
+  为需要一致性的文档工作流提供开放格式模板的准备。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **模板自动化工作流**  
+  Python API 可以从 XLAM 源生成 OTT 模板，以实现标准化的文档创建。
+
+* **开放生态系统集成**  
+  自动化转换支持在使用开放文档标准的平台之间进行基于模板的操作。
+
+* **可扩展的表单和报告生成**  
+  生成的 OTT 模板可作为大批量文档生成过程的基础。
+
+* **内容结构化流水线**  
+  编程式转换有助于将电子表格衍生的内容组织成可重用的开放格式模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

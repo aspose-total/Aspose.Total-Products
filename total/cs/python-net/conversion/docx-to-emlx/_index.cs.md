@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX to EMLX conversion transforms word processing documents into an email message format used by certain email clients for storing and managing email data. This process enables document content to be packaged as a structured email message file while preserving formatting and textual information.
+
+Using Python APIs, DOCX-to-EMLX conversion can be integrated into automated communication systems, archival workflows, and document distribution platforms where document content must be delivered or stored in an email-compatible format.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytvoření souboru e‑mailové zprávy**  
+  Převádí dokumenty DOCX do e‑mailových souborů EMLX vhodných pro ukládání v e‑mailovém klientovi.
+
+* **Záznamy komunikace založené na dokumentech**  
+  Umožňuje archivovat obsah dokumentu jako e‑mailové zprávy.
+
+* **Balení obsahu kompatibilního s e‑mailem**  
+  Baluje informace o dokumentu do standardizovaných struktur e‑mailových souborů.
+
+* **Automatizované zasílání dokumentů**  
+  Podporuje odesílání obsahu dokumentu prostřednictvím pracovních postupů založených na e‑mailu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované systémy archivace e‑mailů**  
+  Dokumenty DOCX lze automaticky převést do souborů EMLX pro archivaci e‑mailů.
+
+* **Hromadná generace e‑mailových zpráv**  
+  Python skripty mohou zpracovávat kolekce dokumentů a programově vytvářet soubory EMLX.
+
+* **Automatizace distribuce dokumentů**  
+  Systémy mohou dynamicky převádět vygenerované dokumenty do souborů e‑mailových zpráv.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

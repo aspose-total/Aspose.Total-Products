@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to OST conversion převádí dokumenty s makry na data vhodná pro offline workflow ve stylu poštovní schránky, kde je důležité synchronizované úložiště komunikace. Je užitečný v situacích, kdy musí obsah odvozený z dokumentů odpovídat uloženým komunikačním prostředím a strukturovaným procesům ukládání pošty.
+
+Z pohledu automatizace podporuje převod DOCM na OST přípravu archivace, řízené synchronizační workflow a škálovatelnou transformaci obsahu dokumentů do poštou orientovaných struktur.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Podpora offline úložiště pošty**
+  Pomáhá přizpůsobit obsah dokumentu pro workflow zahrnující synchronizovaná data poštovní schránky.
+
+* **Zachování záznamů komunikace**
+  Podporuje uchování informací odvozených z dokumentů v kontextech úložiště orientovaného na poštu.
+
+* **Zarovnání podnikových workflow**
+  Propojuje dokumentové zdroje s prostředími postavenými kolem uložených komunikačních repozitářů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná příprava poštovních dat**
+  Převádí soubory DOCM na výstupy vhodné pro strukturované workflow poštovní schránky.
+
+* **Uchovávání a synchronizační pipeline**
+  Podporuje procesně řízenou archivaci a zpracování synchronizace.
+
+* **Hromadné konverzní operace**
+  Efektivně zpracovává kolekce dokumentů na výstupy kompatibilní s úložištěm pošty.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

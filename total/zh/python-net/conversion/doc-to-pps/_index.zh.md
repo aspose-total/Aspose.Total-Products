@@ -65,7 +65,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+将文档转换为 PPS 会将 Word 内容更改为用于演示播放和交付的幻灯片文件。当文档信息必须以即视即用的格式直接呈现，而不是作为可编辑的工作文件时，这非常有帮助。
+
+针对 DOC 到 PPS 转换的 Python API 自动化可提升发布速度，支持可重复的演示工作流，并减少手动幻灯片准备工作。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **即视即用的演示输出**
+  将文档转换为旨在直接演示使用的幻灯片文件。
+
+* **会议交付准备**
+  为简单的演示播放场景准备来源于文档的内容。
+
+* **内容打包**
+  以易于打开和显示的演示格式分发信息。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **幻灯片发布自动化**
+  自动从 DOC 报告或摘要生成 PPS 文件。
+
+* **演示交付流水线**
+  将已批准的文档内容转换为面向播放的幻灯片输出。
+
+* **批量输出标准化**
+  通过编程方式从大型文档集合创建一致的幻灯片文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

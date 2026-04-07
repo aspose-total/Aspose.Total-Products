@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT 转 VCF 转换将基于文档的联系人或个人资料信息转换为适用于通讯录和联系人管理系统的标准联系人卡片格式。当文档包含结构化的个人或组织联系详情时，这非常有用。
+
+Python API 使 ODT 转 VCF 转换能够在自动化的联系人提取、迁移和同步工作流中使用。它帮助组织将静态文本记录转化为可重复使用的联系人数据，从而提升速度和准确性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **联系人信息提取**  
+  将文档中的姓名、号码和地址转换为联系人卡片。
+
+* **目录迁移支持**  
+  帮助将联系人数据从文本文件迁移到结构化的通讯录中。
+
+* **个人资料标准化**  
+  将非正式的联系人列表转化为可重复使用的数字联系人记录。
+
+* **CRM 准备**  
+  支持更清晰地将联系人数据导入业务系统。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化联系人解析**  
+  Python 脚本可以识别 ODT 文件中的联系人字段并生成 VCF 输出。
+
+* **批量目录转换**  
+  大量联系人列表可以在批处理作业中转换为可重复使用的卡片。
+
+* **同步工作流**  
+  转换后的联系人可以供通讯录及相关系统的导入管道使用。
+
+* **数据丰富准备**  
+  结构化的 VCV 输出可以支持下游的验证和集成过程。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

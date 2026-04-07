@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+يتيح تحويل XLSM إلى DOT تحويل محتوى جداول البيانات المدعومة بالماكرو إلى تنسيق قالب Word يُستخدم لإنشاء مستندات موحدة. وهذا يكون ذا قيمة عندما تكون بيانات جداول البيانات هي الأساس لإنشاء مستندات قابلة للتكرار عبر الأقسام أو سير العمل المتكرر.
+
+في البيئات التي تركز على الأتمتة، يدعم تحويل XLSM إلى DOT هياكل المستندات القابلة لإعادة الاستخدام، وتنسيقًا متسقًا، وتوليد قوالب قابل للتوسع. تجعل واجهات برمجة التطبيقات Python من الممكن أتمتة هذه العملية لأنظمة تجميع المستندات، وأطر التقارير، وأنابيب محتوى العمليات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء القالب**
+  يحوّل المحتوى المستند إلى جداول البيانات إلى قوالب معالجة نصية قابلة لإعادة الاستخدام.
+
+* **مخرجات موحدة**
+  يدعم تنسيق المستند المتسق عبر عمليات الأعمال المتكررة.
+
+* **تصميم المستندات التشغيلية**
+  يساعد الفرق على بناء مستندات مدفوعة بالقوالب من مدخلات جداول البيانات المهيكلة.
+
+* **أطر محتوى قابلة لإعادة الاستخدام**
+  يُمكّن نماذج المستندات التي يمكن ملؤها أو تعديلها في سير العمل اللاحق.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط أنابيب توليد القوالب**
+  يمكن لواجهات برمجة التطبيقات Python تحويل ملفات XLSM إلى قوالب DOT لتلبية احتياجات التوثيق المتكررة.
+
+* **التوحيد الآلي**
+  يمكن لسير عمل التحويل أن يضمن بقاء هياكل المستند موحدة عبر مخرجات متعددة.
+
+* **إعداد القوالب على دفعات**
+  يمكن تحويل مجموعات كبيرة من جداول البيانات إلى قوالب قابلة لإعادة الاستخدام برمجيًا.
+
+* **تكامل تجميع المستندات**
+  يمكن لمخرجات DOT أن تغذي الأنظمة الآلية التي تُنشئ مستندات أعمال موحدة على نطاق واسع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

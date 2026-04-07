@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование WordML в XLTX преобразует структурированное содержимое документов в современные файлы шаблонов электронных таблиц для создания переиспользуемых книг. Это полезно, когда макеты, формы или структуры отчетов, основанные на документах, необходимо превратить в стандартизированные шаблоны электронных таблиц.
+
+Python API делают преобразование WordML в XLTX эффективным, программно извлекая структуру и генерируя готовые к использованию шаблоны электронных таблиц для масштабируемых бизнес‑процессов.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Создание современных шаблонов электронных таблиц**
+  Преобразует содержимое WordML в файлы XLTX для разработки переиспользуемых книг.
+
+* **Стандартизация повторяющихся макетов данных**
+  Помогает поддерживать согласованную структуру электронных таблиц в повторяющихся процессах.
+
+* **База для переиспользуемой отчетности**
+  Преобразует макеты документов в надежные шаблоны электронных таблиц.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Автоматизация книг на основе шаблонов**
+  Автоматически генерирует шаблоны XLTX из структурированных документов WordML.
+
+* **Рабочие процессы операционной стандартизации**
+  Поддерживает повторяемое создание электронных таблиц из утвержденных исходных макетов.
+
+* **Конвейеры «Документ‑в‑шаблон»**
+  Обеспечивает масштабируемое преобразование структур документов в современные шаблоны книг.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

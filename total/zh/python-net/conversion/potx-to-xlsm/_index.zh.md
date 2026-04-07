@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 的 POTX 转 XLSM 转换将 PowerPoint 模板内容转换为宏启用的电子表格文件，以支持高级数据处理工作流。当转换后的电子表格输出需要支持嵌入式自动化、公式或自定义工作簿行为时，这非常有用。
+
+在自动化环境中，POTX 转 XLSM 转换有助于将演示文稿模板与智能电子表格流程连接。它支持可扩展的工作簿输出生成，将结构化数据与高级功能相结合。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **宏启用的电子表格创建**
+  生成能够支持自动化工作簿逻辑和操作的电子表格输出。
+
+* **高级数据工作流支持**
+  帮助将演示文稿衍生的内容扩展到可编程的电子表格环境中。
+
+* **可重用的运营文件**
+  支持依赖智能工作簿行为的重复业务流程。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **编程式工作簿生成**
+  自动化从 POTX 模板生成 XLSM 文件，以用于高级电子表格任务。
+
+* **集成自动化流水线**
+  将转换工作流与宏启用的电子表格处理步骤连接起来。
+
+* **可重复的业务操作**
+  支持从基于演示的来源重复生成功能性电子表格。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

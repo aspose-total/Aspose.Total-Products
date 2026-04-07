@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ODS إلى DOCM يحول ملفات جداول البيانات إلى مستندات معالجة نصية تدعم الماكرو. يتيح ذلك تضمين بيانات جداول البيانات داخل مستندات تدعم السكريبتات الآلية وسلوكيات المستند المتقدمة.
+
+مع واجهات برمجة تطبيقات بايثون، يمكن دمج تحويل ODS إلى DOCM في أنظمة آلية تُنشئ وثائق تدعم الماكرو. يتيح ذلك معالجة مستندات ديناميكية، تحويلات على نطاق واسع، وتكامل مع بيئات أتمتة المؤسسات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء مستندات مدعومة بالماكرو**  
+  تحويل محتوى جداول البيانات إلى مستندات قادرة على دعم ماكرو الأتمتة.
+
+* **قوالب مستندات آلية**  
+  تحويل البيانات المستندة إلى جداول البيانات إلى تدفقات عمل مستندية مدفوعة بالماكرو.
+
+* **توثيق قائم على البيانات**  
+  دمج مجموعات بيانات جداول البيانات في تقارير مدعومة بالماكرو.
+
+* **معالجة مستندات متقدمة**  
+  دعم المهام الآلية المدمجة في المستندات المولدة من مصادر جداول البيانات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **مستندات سير عمل آلية**  
+  تُنشئ الأنظمة ملفات DOCM من جداول البيانات لمعالجة مدفوعة بالماكرو.
+
+* **أتمتة تقارير المؤسسات**  
+  يتم تحويل بيانات جداول البيانات إلى مستندات مدعومة بالماكرو للتحليل الآلي.
+
+* **إنشاء مستندات ديناميكي**  
+  تُنشئ خطوط أنابيب بايثون وثائق مدعومة بالماكرو بناءً على مدخلات جداول البيانات.
+
+* **معالجة مستندات ماكرو دفعية**  
+  تحول الخدمات الآلية مجموعات كبيرة من ملفات ODS إلى مستندات DOCM.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

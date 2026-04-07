@@ -65,7 +65,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM 转 PPT 转换将启用宏的文档转换为适合编辑、审阅和在基于幻灯片的工作流中交付的演示文件。当必须将文档中的结构化内容重新组织为可视化沟通材料时，它非常有用。
+
+为了实现自动化和规模化，DOCM 转 PPT 转换支持可重复的演示创建、报告生成以及将文档信息转化为可编辑幻灯片资产的运营转换。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **可编辑幻灯片创建**
+  将文档内容转换为可进一步完善或扩展的演示文件。
+
+* **业务报告**
+  帮助将正式文档材料转化为面向团队和利益相关者的基于幻灯片的摘要。
+
+* **培训材料开发**
+  支持在教学演示格式中复用文档叙述。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化演示组装**
+  为重复的沟通工作流从 DOCM 文档生成 PPT 文件。
+
+* **内容再利用流水线**
+  以编程方式将创作的文档转化为可编辑的演示资产。
+
+* **批量报告工作流**
+  实现从文档源大规模生成演示文稿。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

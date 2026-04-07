@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل MOBI إلى SXC في بايثون يدعم تحويل محتوى الكتاب الإلكتروني إلى تنسيق جدول بيانات مفتوح قديم يُستخدم في بيئات المكاتب القديمة. هذا مهم عندما تحتاج المؤسسات إلى الحفاظ على التوافق مع الأنظمة التاريخية أو الحفاظ على استمرارية عمليات المستندات الطويلة الأمد.
+
+لحالات الاستخدام الأوتوماتيكية، يتيح تحويل MOBI إلى SXC دعمًا برمجيًا للبيئات القديمة، وتحويلًا منهجيًا للتنسيقات، وتدفقات عمل أرشيفية مُتحكم فيها. يساعد ذلك في ربط منطق الاستخراج الحديث مع أنظمة جداول البيانات القديمة التي لا تزال تعمل.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **توافق OpenOffice القديم**
+  تحويل محتوى MOBI إلى SXC للبيئات التي لا تزال تعتمد على معايير جداول البيانات القديمة.
+
+* **دعم سير العمل التاريخي**
+  الحفاظ على مخرجات جداول بيانات قابلة للاستخدام للأنظمة طويلة الأمد التي تتطلب تنسيقات قديمة.
+
+* **الحفظ والهجرة**
+  استخراج محتوى الكتاب الإلكتروني إلى SXC كخطوة وسيطة في مشاريع الأرشفة أو الهجرة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **أتمتة تصدير قديم**
+  إنشاء ملفات SXC تلقائيًا من مصادر MOBI لسير عمل المكاتب القديمة.
+
+* **خطوط معالجة متوافقة مع الإصدارات السابقة**
+  تضمين تحويل SXC في أتمتة المستندات حيث يكون التوافق أكثر أهمية من الميزات الحديثة.
+
+* **دعم تحديث الأرشيف**
+  استخدام روتينات بايثون لإعداد مخرجات صديقة للأنظمة القديمة مع تحديث عمليات الاستخراج الأساسية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل OTT إلى XLAM في واجهات برمجة تطبيقات بايثون يحول قوالب النصوص OpenDocument إلى مخرجات جداول بيانات موجهة للإضافات تُستخدم لتوسيع وظائف دفتر العمل. هذا مفيد في سير عمل متخصص حيث يساهم المحتوى المحول في أصول أتمتة قائمة على جداول البيانات قابلة لإعادة الاستخدام.
+
+يدعم التحويل الأتمتة من خلال مواءمة المنطق المستمد من المستند أو المحتوى المهيكل مع سير عمل توسيع جداول البيانات، مما يساعد على توحيد العمليات القابلة للتكرار عبر بيئات دفاتر العمل المتقدمة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **دعم توسيع جداول البيانات**  
+  يربط محتوى المستند بسير عمل جداول البيانات الموجهة للإضافات.
+
+* **إعداد أصول الأتمتة القابلة لإعادة الاستخدام**  
+  يساعد في تجميع المحتوى المهيكل للاستخدام المتكرر لدفتر العمل.
+
+* **تكامل سير العمل المتقدم**  
+  يجسر بين قوالب النصوص وسيناريوهات وظائف جداول البيانات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إعداد محتوى الإضافة الآلي**  
+  ينتج مخرجات متعلقة بـ XLAM من قوالب OTT برمجيًا.
+
+* **خطوط تحسين دفتر العمل**  
+  يدعم سير العمل الذي يجمع بين تحويل المحتوى وأتمتة جداول البيانات.
+
+* **توزيع منطق الأعمال القابل لإعادة الاستخدام**  
+  يساعد على توسيع حلول جداول البيانات المهيكلة عبر الفرق.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,41 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM 到图像的转换将带宏的 Word 模板转换为易于预览、共享和嵌入到数字渠道的可视化格式。当文档内容必须以固定的视觉输出形式进行审阅、发布或演示时，这非常有价值。
+
+使用 Python API 进行 DOTM 到图像的转换通过将模板文档转化为一致渲染的视觉资产来支持自动化。这提升了预览生成、文档发布以及偏好不可编辑视觉表示的工作流的可扩展性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **文档预览创建**
+  将 DOTM 文件转换为图像，以便在网页、移动端或仪表板界面中快速查看。
+
+* **可视化归档**
+  以静态图像形式保留模板文档的外观，以供参考和共享。
+
+* **内容嵌入**
+  在门户、演示文稿或自动化报告系统中使用来自 DOTM 文件的图像输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **缩略图和预览自动化**
+  系统可以自动从 DOTM 模板生成图像预览，以便浏览和索引。
+
+* **发布工作流支持**
+  该转换实现了文档页面自动渲染为图像，以用于内容分发。
+
+* **大批量可视化输出**
+  编程处理可高效地将大量模板文件转换为图像集。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

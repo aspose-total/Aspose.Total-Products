@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM 到 MBOX 的转换将启用宏的文档转换为邮箱式存储输出，使基于文档的通信更容易在面向邮件的系统中进行分组、归档或迁移。当必须在捆绑的消息存储库中保留文档内容时，这一点尤为重要。
+
+为了实现自动化和规模化，DOCM 到 MBOX 的工作流支持批量归档、通信打包以及将文档衍生内容转移到以邮箱为中心的保留系统中。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **邮箱归档**
+  在邮箱容器文件中保留文档衍生的内容，以实现长期存储。
+
+* **消息集合打包**
+  支持将相关的转换通信分组到一个合并文件中。
+
+* **迁移支持**
+  帮助将基于文档的通信内容迁移到电子邮件归档环境中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化归档生成**
+  将 DOCM 文件转换为 MBOX 输出，以用于计划的保留工作流。
+
+* **批量邮件存储库准备**
+  在大型数据集上将文档衍生内容打包成邮箱文件。
+
+* **编程存储管道**
+  将文档转换与归档和合规导向的系统集成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

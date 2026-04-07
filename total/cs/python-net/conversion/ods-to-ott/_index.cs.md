@@ -65,7 +65,47 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS to OTT conversion converts spreadsheet files into OpenDocument text templates. These templates enable reusable document structures that can be used for consistent document generation.
+
+Python APIs allow developers to automate the creation of template documents from spreadsheet content. This supports scalable document workflows and efficient template management across systems.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření opakovatelných šablon**  
+  Převod struktur tabulek do opakovatelných dokumentových šablon.
+
+* **Standardizace dokumentů**  
+  Zajištění konzistentního formátování dokumentů pomocí workflow založených na šablonách.
+
+* **Strukturování obsahu**  
+  Přeměna tabulkových informací z tabulek na dokumenty připravené pro šablony.
+
+* **Správa šablon Open Document**  
+  Udržování standardizovaných šablon odvozených z dat tabulek.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná tvorba šablon**  
+  Python workflowy vytvářejí dokumentové šablony ze vstupů tabulek.
+
+* **Dávkové zpracování šablon**  
+  Systémy převádějí více ODS souborů na opakovatelně použitelné dokumentové šablony.
+
+* **Dynamické dokumentové systémy**  
+  Workflowy založené na šablonách generují dokumenty programově.
+
+* **Integrace šablon do workflow**  
+  Šablony odvozené z tabulek podporují automatizovanou tvorbu dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

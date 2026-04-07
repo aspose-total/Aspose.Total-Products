@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+在 Python 中将电子邮件转换为 PDF 可以将消息保留为固定布局文档，具有广泛的兼容性和可靠的视觉一致性。这是归档、共享、合规和专业文档处理的最实用选项之一。
+
+此转换通过将电子邮件流量转化为可移植、安全且标准化的文件，支持自动化，能够自然地融入存储、审批和分发流程。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **固定布局归档**
+  将电子邮件转换为 PDF 文件，以实现稳定的长期存储和审阅。
+
+* **合规与法律记录**
+  将消息保存在广泛接受的文档格式中，用作证据和审计。
+
+* **专业共享**
+  以简洁的格式分发电子邮件内容，便于在各系统上打开。
+
+* **文档合并**
+  将转换后的电子邮件与其他文件合并，用于正式报告或案件文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化电子邮件归档**
+  在保留和记录管理工作流中将消息转换为 PDF。
+
+* **案件和审计文件组装**
+  自动将电子邮件的 PDF 版本插入生成的文档包中。
+
+* **跨系统分发**
+  通过审批、存储和共享管道路由可移植的 PDF 输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX إلى XLTX يتيح تحويل مستندات معالجة النصوص إلى ملفات قوالب جداول بيانات حديثة تُستخدم لإنشاء أوراق عمل موحدة. تدعم هذه العملية تنسيق جداول البيانات المتسق وإعادة استخدام محتوى المستند المهيكل.
+
+باستخدام واجهات برمجة تطبيقات بايثون، يمكن دمج تحويل DOCX إلى XLTX في منصات التقارير، أنظمة توزيع القوالب، وأنابيب إنشاء جداول البيانات الآلية. يساعد المنظمات على إنشاء أصول جداول بيانات قابلة للتكرار من مصادر مستندات بكفاءة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء قالب جدول بيانات حديث**  
+  يحوّل محتوى DOCX إلى قوالب قابلة لإعادة الاستخدام لبيئات جداول البيانات الحالية.
+
+* **توحيد ورقة العمل بشكل متسق**  
+  يدعم إنشاء جداول بيانات قابلة للتكرار بهيكل وتنسيق موحد.
+
+* **إعادة استخدام المستند إلى قالب**  
+  يساعد على تحويل المحتوى المكتوب والمهيكل إلى أصول جداول بيانات مدفوعة بالقوالب.
+
+* **إعداد أصول التقارير القابلة للتوسع**  
+  يُمكّن من إنتاج القوالب لمهام التحليل والتقارير المتكررة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تصدير XLTX تلقائي**  
+  يمكن للأنظمة تحويل ملفات DOCX إلى قوالب جداول بيانات حديثة برمجيًا.
+
+* **تدفقات عمل توليد القوالب الدفعية**  
+  يمكن لسكريبتات بايثون إنتاج قوالب جداول بيانات قابلة لإعادة الاستخدام من مجموعات مستندات كبيرة.
+
+* **توحيد تقارير المؤسسات**  
+  يمكن تحويل محتوى المستند إلى ملفات XLTX لتشغيل جداول بيانات متسقة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

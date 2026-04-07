@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API 中的 PST 转 RTF 转换将邮箱内容转换为富文本格式，以实现可编辑、可移植的文档工作流。当需要在保持基本格式的同时，使电子邮件衍生的文本在多数文字处理环境中保持广泛兼容性时，这非常有用。
+
+在自动化环境中，PST 转 RTF 转换支持轻量级文档交换和高效地将邮箱归档转换为可编辑的输出。它实现了在不同系统之间对格式化通信内容的可扩展复用。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **格式化文本导出**
+  在保留基本文档样式的同时，将 PST 内容转换为 RTF。
+
+* **广泛兼容工作流**
+  帮助使来源于邮箱的文件在各种编辑环境中可用。
+
+* **可编辑归档准备**
+  支持将通信记录转换为可修订的文档形式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化文本转换流水线**
+  系统可以将 PST 内容导出为 RTF，以供后续编辑和复用。
+
+* **可移植文档工作流**
+  转换后的文件可以在办公应用和归档系统之间轻松移动。
+
+* **可扩展内容重新格式化**
+  编程式转换简化了将邮箱文本批量转换为可编辑文件的过程。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

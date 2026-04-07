@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MSG to MD 转换将电子邮件消息转换为 Markdown，以实现干净、轻量且可移植的基于文本的文档。当需要在知识库、开发者文档或内容发布工作流中重复使用电子邮件内容时，它尤其有用。
+
+在自动化流水线中，MSG to MD 转换支持版本控制的文档、内容标准化和简化的文本处理。它有助于将电子邮件通信与现代内容运营和发布系统衔接。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **知识库集成**  
+  将电子邮件转换为 Markdown，以实现结构化的内部文档。
+
+* **面向开发者的内容复用**  
+  以适用于代码仓库和文档系统的格式保留消息文本。
+
+* **轻量化发布准备**  
+  为静态站点或内容工作流使用准备来源于电子邮件的内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **文档流水线自动化**  
+  将 MSG 文件转换为 Markdown，以实现自动化发布或索引。
+
+* **基于仓库的内容管理**  
+  在版本控制的文档工作流中存储转换后的电子邮件内容。
+
+* **文本标准化流程**  
+  将入站通信标准化为轻量、机器友好的文本内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

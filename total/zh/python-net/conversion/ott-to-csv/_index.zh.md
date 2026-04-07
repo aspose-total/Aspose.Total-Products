@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT 转 CSV 的转换在 Python API 中将 OpenDocument 文本模板转换为结构化、分隔的数据，这些数据更易于在现代业务系统中进行处理、交换和分析。当需要对基于文本的内容进行标准化以用于报告、迁移或下游数据处理时，此转换非常有用。
+
+此转换通过将文档内容转化为轻量级的表格输出，支持自动化，适用于数据管道、计划任务和集成工作流，在这些场景中一致性、可移植性和快速解析至关重要。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **结构化数据提取**  
+  将基于模板的文本内容转换为行和列，以便更容易处理。
+
+* **报告准备**  
+  使基于文档的信息适用于仪表板和电子表格分析。
+
+* **系统互操作性**  
+  使能够与支持分隔文本导入的工具进行简单的数据交换。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量内容导出**  
+  自动将多个 OTT 文件转换为 CSV，以进行批量处理。
+
+* **数据管道集成**  
+  将提取的文档数据输入 ETL 或验证工作流。
+
+* **计划文档解析**  
+  支持定期任务，将模板转换为机器可读的数据集。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

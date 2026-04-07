@@ -53,7 +53,44 @@ K přidání funkce převodu DOCX na MHTML používáme API [Aspose.Words for Py
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX to MHTML conversion transforms word processing documents into web archive files that bundle HTML content and related resources into a single file. This format preserves document structure while enabling web-based viewing.
+
+Python APIs allow DOCX-to-MHTML conversion to be integrated into automated publishing systems, web archiving workflows, and document sharing platforms.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování webových archivů**  
+  Převádí dokumenty DOCX do jednosouborových webových archivů.
+
+* **Webové publikování dokumentů**  
+  Umožňuje sdílet obsah dokumentu jako soubory kompatibilní s webem.
+
+* **Offline prohlížení dokumentů**  
+  Umožňuje prohlížet dokumenty bez externích závislostí.
+
+* **Zachování obsahu**  
+  Udržuje formátování a zdroje v jediném archivním souboru.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaný export webových archivů**  
+  Systémy mohou automaticky převádět soubory DOCX do archivů MHTML.
+
+* **Dávkové publikační pipeline dokumentů**  
+  Python skripty mohou generovat soubory webových archivů z dokumentů.
+
+* **Systémy distribuce obsahu**  
+  Dokumenty mohou být dynamicky převáděny do formátů webových archivů kompatibilních s webem.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

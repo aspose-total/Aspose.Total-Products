@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование OTT в XLTM в Python API переводит шаблоны текста OpenDocument в шаблоны электронных таблиц с поддержкой макросов для продвинутых сценариев повторного использования книг. Это полезно, когда будущие экземпляры таблиц должны сочетать стандартную структуру со встроенными возможностями автоматизации.
+
+Преобразование поддерживает автоматизацию, создавая шаблонные ресурсы, которые могут масштабировать генерацию книг, сохраняя логику, согласованность и эффективность при повторяющихся операционных задачах.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Создание шаблонов с поддержкой макросов**  
+  Создаёт повторно используемые шаблоны книг с поддержкой расширенного поведения.
+
+* **Повторяемые операционные книги**  
+  Стандартизирует электронные таблицы, использующие встроенную логику автоматизации.
+
+* **Структурированное повторное использование шаблонов**  
+  Преобразует текстовые шаблоны в масштабируемые чертежи электронных таблиц.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Автоматизированное производство шаблонов**  
+  Генерирует файлы XLTM из источников OTT для повторяющихся процессов.
+
+* **Продвинутый дизайн рабочих процессов в таблицах**  
+  Поддерживает повторно используемые структуры книг с более богатой функциональностью.
+
+* **Стандартизация корпоративных процессов**  
+  Помогает широко распространять согласованные автоматизированные шаблоны книг.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

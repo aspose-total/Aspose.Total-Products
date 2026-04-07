@@ -65,7 +65,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML 到 POTM 的转换将文档内容转换为宏启用的演示模板，适用于需要可重复使用的幻灯片并嵌入自动化功能的环境。当模板化演示同样需要可编程行为时，它非常有价值。
+
+使用 Python API，WordML 到 POTM 的转换支持可扩展的模板驱动演示资产生成，使内容复用与面向自动化的演示工作流保持一致。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用模板创建**
+  将 WordML 内容转换为可重复使用的 POTM 文件，以支持高级演示工作流。
+
+* **自动化演示基础**
+  支持将结构化内容与嵌入的自动化逻辑相结合的模板。
+
+* **可重复的幻灯片制作**
+  帮助在支持宏的环境中标准化演示生成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板部署**
+  从 WordML 源生成 POTM 模板，以用于重复的演示流程。
+
+* **工作流驱动的幻灯片创作**
+  将可重复使用的文档内容与演示自动化需求相连接。
+
+* **可扩展的内容打包**
+  实现从结构化文档一致创建支持宏的模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

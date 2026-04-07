@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+在 Python API 中，OTT 到 ODS 的转换将 OpenDocument 文本模板转换为电子表格文档，帮助将文本源材料转换为用于计算、审阅和交换的结构化表格资产。当文档内容必须成为可编辑的电子表格数据时，这非常有用。
+
+此转换通过将基于模板的内容生成与电子表格工作流相连接，提升了自动化水平，使得依赖结构化数据的系统能够实现可扩展的报告、处理和重用。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **电子表格创建**  
+  将模板内容转换为可编辑的开放电子表格文档。
+
+* **表格数据准备**  
+  组织文档信息，以便进行排序、过滤和分析。
+
+* **开放工作流兼容性**  
+  支持基于开放办公文档标准构建的环境。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **定期电子表格导出**  
+  根据需求或计划从 OTT 模板生成 ODS 文件。
+
+* **文档到数据管道**  
+  将转换后的内容输送到基于电子表格的处理流程中。
+
+* **自动化运营报告**  
+  从标准化文本来源生成一致的工作簿输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

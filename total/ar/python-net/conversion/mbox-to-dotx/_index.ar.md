@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل MBOX إلى DOTX يحول أرشيفات صناديق البريد إلى ملفات قالب Word الحديثة، مما يساعد المؤسسات على تحويل محتوى البريد الإلكتروني إلى أنماط مستندات قابلة لإعادة الاستخدام. هذا مفيد لتوحيد التخطيطات، والحفاظ على البنية، ودعم سير عمل إنشاء المستندات الذي يبدأ بالاتصالات المؤرشفة.
+
+تجعل واجهات برمجة التطبيقات Python هذه العملية قابلة للتوسع من خلال تمكين إنشاء القوالب تلقائيًا، وتحويل صناديق البريد دفعةً، والتكامل مع أنظمة إدارة المحتوى الأوسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تصميم قالب قابل لإعادة الاستخدام**
+  تحويل محتوى الرسائل إلى قوالب DOTX لإنشاء مستندات قابلة للتكرار.
+
+* **توحيد المستندات**
+  استخدام بيانات صندوق البريد لإنشاء تخطيطات وهياكل تنسيق متسقة.
+
+* **إعادة توظيف المحتوى المهيكل**
+  تحويل مواد البريد الإلكتروني المؤرشفة إلى أصول قوالب جاهزة للاستخدام.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تحويل القوالب دفعةً**
+  إنشاء ملفات DOTX تلقائيًا من محتوى صندوق البريد المحدد.
+
+* **سير عمل يركز على القوالب**
+  إدخال القوالب البريدية المحولة إلى أنظمة التقارير أو السياسات أو المستندات التشغيلية.
+
+* **توسيع المستندات باستخدام Python**
+  أتمتة إنشاء القوالب ذات الحجم الكبير من أرشيفات MBOX بأقل جهد يدوي.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

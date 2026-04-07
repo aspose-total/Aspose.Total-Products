@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل PST إلى ODT في واجهات برمجة تطبيقات بايثون يحول محتوى صندوق البريد إلى تنسيق مستند مفتوح مناسب للتحرير والمشاركة والوصول طويل الأمد. يكون ذلك مفيدًا عندما يجب حفظ المواد المستخرجة من البريد الإلكتروني في شكل مستند قائم على المعايير يدعم سير عمل مكتبي مرن.
+
+من منظور الأتمتة، يحسن تحويل PST إلى ODT التوافقية ويساعد على دمج أرشيفات صناديق البريد مع أنظمة المستندات المفتوحة. يدعم معالجة قابلة للتوسع حيث تكون المخرجات القابلة للتحرير والتخزين القائم على المعايير مهمة.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **تصدير المستند المفتوح**
+  يقوم بتحويل محتوى PST إلى ODT للاستخدام في مستندات قابلة للتحرير ومتوافقة مع المعايير.
+
+* **إدارة السجلات القابلة للتشغيل البيني**
+  يساعد على نقل بيانات صندوق البريد إلى سير عمل مكتبي مفتوح بأقل قدر من الاحتكاك.
+
+* **إنتاج وثائق يمكن الوصول إليها**
+  يدعم إنشاء ملفات منظمة للاستخدام التشغيلي طويل الأمد.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **معالجة تلقائية بصيغة مفتوحة**
+  يمكن للأنظمة تصدير أرشيفات PST إلى ODT لتحقيق توافق واسع.
+
+* **سير عمل المستندات عبر المنصات**
+  يمكن للملفات المحوّلة الدخول إلى خطوط تحرير ومراجعة عبر بيئات مختلفة.
+
+* **أرشفة قابلة للتوسع قائمة على المعايير**
+  يساعد التحويل البرمجي على حفظ محتوى صندوق البريد في تنسيقات مفتوحة وقابلة لإعادة الاستخدام.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT 到 XLAM 的转换将文档模板转换为用于扩展电子表格工作流的插件式电子表格文件。当基于模板的内容有助于在受支持的环境中实现可重用的电子表格功能或打包逻辑时，这一点尤为重要。
+
+借助 Python API，DOT 到 XLAM 的转换可以集成到自动化系统中，以标准化从基于文档的来源创建高级电子表格资产的过程。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **电子表格插件资产准备**
+  将 DOT 内容转换为面向 XLAM 的输出，以实现可重用的电子表格扩展。
+
+* **可重用工作流打包**
+  支持文档定义的结构为高级电子表格解决方案提供输入的场景。
+
+* **基于模板的功能资产**
+  将文档内容重新用于打包的电子表格资源，以便重复使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化插件准备**
+  Python 工作流可以在需要时将 DOT 模板转换为兼容 XLAM 的输出。
+
+* **高级电子表格管道支持**
+  转换帮助文档库为可重用的电子表格资产做出贡献。
+
+* **可扩展的功能输出生成**
+  编程系统简化了大批量创建高级电子表格打包文件的过程。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

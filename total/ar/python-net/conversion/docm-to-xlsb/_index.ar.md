@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOCM إلى XLSB يحول المستندات الممكّنة للماكرو إلى ملفات جدول بيانات ثنائية مصممة لتخزين البيانات ومعالجتها بكفاءة. يكون ذلك مفيدًا عندما يجب نقل المحتوى المستمد من المستند إلى مخرجات جدول بيانات مضغوطة لتدفقات عمل حساسة للأداء.
+
+في بيئات الأتمتة، يدعم تحويل DOCM إلى XLSB إنشاء جداول بيانات على نطاق واسع، وتعبئة البيانات بكفاءة، وتحريك محتوى المستند المهيكل إلى خطوط أنابيب دفاتر العمل بسلاسة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إخراج جدول بيانات مضغوط**
+  يقوم بتحويل بيانات المستند إلى ملفات دفتر عمل ثنائية مُحسّنة لكفاءة التخزين.
+
+* **معالجة البيانات ذات الحجم الكبير**
+  يدعم السيناريوهات التي تستفيد فيها المخرجات المهيكلة الكبيرة من تنسيقات جداول البيانات المضغوطة.
+
+* **إعادة استخدام دفتر العمل التشغيلي**
+  يساعد على نقل جداول المستند إلى بيئات جداول بيانات ذات أداء عالي.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء دفاتر عمل دفعي فعال**
+  ينتج ملفات XLSB من مصادر DOCM لمعالجة قابلة للتوسع.
+
+* **تحسين خط أنابيب البيانات**
+  يدعم سير العمل الذي يعطي أولوية لتخزين ونقل جداول البيانات المضغوطة.
+
+* **تصدير مهيكل مؤتمت**
+  يقوم بتحويل محتوى المستند المتكرر إلى مخرجات دفتر عمل ثنائية برمجيًا.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+文档到 SXC 的转换将 Word 内容转换为与旧版 OpenOffice 工作流相关的电子表格格式，使其在遗留互操作性和结构化数据提取方面非常有用。它支持组织保持与早期电子表格生态系统的兼容性。
+
+使用 Python API，DOC 到 SXC 的转换可以实现自动化，以减少手动重新输入并支持可重复的遗留数据工作流。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **旧版电子表格兼容性**
+  将文档表格转换为 SXC，以适用于旧版 OpenOffice 环境。
+
+* **结构化数据保留**
+  在面向电子表格的遗留格式中保留基于文档的数值。
+
+* **迁移支持**
+  将 Word 文档与仍依赖历史电子表格标准的系统进行桥接。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **遗留工作流自动化**
+  在仍使用旧工具的情况下，自动从 DOC 源生成 SXC 文件。
+
+* **批量转换流水线**
+  将多个文档转换为结构化电子表格文件，无需手动处理。
+
+* **系统互操作性任务**
+  以编程方式将现代文档源与遗留电子表格工作流连接。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

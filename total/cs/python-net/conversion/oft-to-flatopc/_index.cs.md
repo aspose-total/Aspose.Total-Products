@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OFT na FlatOPC konverze pomocí Python API transformuje šablony e‑mailů Outlooku do ploché XML balíčkové reprezentace obsahu dokumentu. To je užitečné pro systémy, které vyžadují strukturovaný, strojově čitelný výstup pro validaci, zpracování nebo hlubokou integraci s workflow založenými na XML.
+
+Tento převod je zvláště relevantní pro automatizaci, protože FlatOPC podporuje programovou inspekci, transformaci a výměnu systém‑na‑systém. Pomáhá moderním workflow dosáhnout transparentnosti, přenositelnosti a detailní manipulace s dokumenty.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Zpracování obsahu založeného na XML**  
+  Převést soubory OFT na FlatOPC pro workflow, které závisí na strukturovaných XML datech dokumentu.
+
+* **Interoperabilita a validace**  
+  Použít výstup plochého balíčku pro analýzu dokumentů, validaci a úkoly systémové integrace.
+
+* **Strojově čitelná archivace**  
+  Zachovat obsah ve formátu, který lze parsovat a transformovat automatizovanými nástroji.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Potrubí pro transformaci dokumentů**  
+  Vkládat výstupy FlatOPC do XML zpracovatelských systémů pro automatizované restrukturalizace nebo extrakci.
+
+* **Integrace s datovými workflow**  
+  Použít programový převod k propojení obsahu šablon e‑mailů s podnikovými datovými platformami.
+
+* **Automatické kontroly souladu**  
+  Prozkoumat výstup FlatOPC pomocí skriptů k validaci struktury, pravidel obsahu nebo požadavků na metadata.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

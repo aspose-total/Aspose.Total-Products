@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PNG na OFT převod umožňuje transformovat obsah založený na obrázcích do opakovaně použitelných souborů šablon e‑mailů, což organizacím pomáhá standardizovat komunikaci postavenou na vizuálních vstupech. To je cenné, když opakující se zprávy vyžadují konzistentní strukturu a zároveň zahrnují grafiku, oznámení nebo informace založené na PNG.
+
+Pomocí Python API lze generování OFT automatizovat, aby podpořilo tvorbu šablon ve velkém měřítku, zlepšilo konzistenci napříč workflow komunikace a zefektivnilo systémy, které se spoléhají na opakovatelná komunikační formáty.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření opakovaně použitelných e‑mailových šablon**  
+  Převádí obsah PNG do OFT‑šablon pro opakující se komunikaci.
+
+* **Standardizovaná vizuální komunikace**  
+  Pomáhá týmům vytvářet opakovatelná e‑mailová formáty, které zahrnují informace založené na obrázcích.
+
+* **Návrh operační komunikace**  
+  Podporuje workflow, které potřebují strukturované šablony generované z PNG aktiv.
+
+* **Komunikace řízená šablonami**  
+  Umožňuje připravit vizuálně podložené e‑mailové šablony pro budoucí odeslání nebo úpravy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Dynamické generování šablon**  
+  Python API mohou vytvářet OFT šablony z PNG vstupů pro automatizované komunikační systémy.
+
+* **Hromadná příprava šablon**  
+  Více rozvržení zpráv založených na PNG lze převést do OFT souborů pro operace ve velkém měřítku.
+
+* **Standardizace workflow**  
+  Systémy mohou automaticky vytvářet konzistentní vizuální e‑mailové šablony napříč odděleními nebo procesy.
+
+* **Spouštěné komunikační kanály**  
+  Aplikace mohou na vyžádání generovat OFT šablony, když do workflow vstoupí nové PNG aktiva.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

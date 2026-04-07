@@ -64,7 +64,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML to PPT conversion transforms document content into presentation files for editing, review, and delivery in established slide-based workflows. It is valuable when document information must be repackaged into presentations for communication or training purposes.
+
+Python APIs enable WordML to PPT conversion by automating slide construction and supporting repeatable document-to-presentation transformations across teams and systems.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytvoření editovatelné prezentace**
+  Převádí obsah WordML do souborů PPT pro revizi a další vylepšování.
+
+* **Přenos znalostí**
+  Pomáhá převádět psané dokumenty na výukové materiály založené na prezentacích.
+
+* **Podpora obchodní komunikace**
+  Usnadňuje prezentaci narativního nebo strukturovaného obsahu stakeholderům.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Pipelines převodu dokumentu na snímky**
+  Automatizuje generování PPT z WordML zpráv, briefů nebo dokumentace.
+
+* **Opakované aktualizace prezentací**
+  Podporuje časté obnovování prezentačních materiálů ze zdrojových dokumentů.
+
+* **Automatizace distribuce obsahu**
+  Umožňuje efektivní publikaci editovatelných sad snímků v rozsahu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

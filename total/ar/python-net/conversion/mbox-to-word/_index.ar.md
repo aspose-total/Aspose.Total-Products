@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل MBOX إلى Word يحول أرشيفات صناديق البريد إلى مستندات معالجة نصية قابلة للتحرير، مما يجعل محتوى البريد الإلكتروني أسهل في التنظيم، والمراجعة، والمشاركة في سير عمل قائم على المستندات. هذا مفيد عندما تحتاج الاتصالات المؤرشفة إلى إعادة توظيفها في تقارير أو سجلات أو محتوى تجاري منظم.
+
+باستخدام واجهات برمجة تطبيقات Python، يمكن أتمتة هذا التحويل لتقليل الجهد اليدوي، وتحسين الاتساق، ودعم تحويل البريد الإلكتروني إلى مستندات على نطاق واسع عبر الأنظمة الحديثة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تصدير محتوى البريد القابل للتحرير**
+  تحويل رسائل البريد الإلكتروني إلى مستندات معالجة نصية للمراجعة وإعادة الاستخدام.
+
+* **دعم توثيق الأعمال**
+  استخدام محتوى صندوق البريد المؤرشف في التقارير والملخصات والسجلات الداخلية.
+
+* **معالجة المحتوى التعاونية**
+  مشاركة مستندات الرسائل المحوّلة في سير عمل المكتب الشائع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء مستندات مؤتمتة**
+  تحويل مدخلات صندوق البريد إلى ملفات متوافقة مع Word عبر سير عمل Python.
+
+* **إعادة استخدام المحتوى التشغيلي**
+  إدخال مستندات البريد الإلكتروني المحوّلة في خطوط الأنابيب الإدارية وتقاريرها.
+
+* **تكامل مكتب قابل للتوسع**
+  توحيد تحويل صناديق البريد لإدارة عمليات المستندات ذات الحجم الكبير.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

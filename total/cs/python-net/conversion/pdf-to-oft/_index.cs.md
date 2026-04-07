@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PDF to OFT conversion using Python APIs allows PDF documents to be converted into email template files that can be reused for repeated communication scenarios. This is especially valuable when document content serves as the basis for standardized outbound messages.
+
+Automation strengthens this use case by enabling template generation from source documents at scale. It supports repeatable workflows, improves formatting consistency, and helps organizations create reusable communication assets from existing PDF materials.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření opakovatelných e‑mailových šablon**  
+  Převést obsah PDF do OFT šablon pro opakující se komunikační potřeby.
+
+* **Standardizované zprávy**  
+  Vytvářet konzistentní struktury zpráv ze zdrojového materiálu založeného na dokumentech.
+
+* **Podpora provozní komunikace**  
+  Používat převedené šablony pro oznámení, odpovědi nebo komunikaci řízenou službami.
+
+* **Vývoj knihovny šablon**  
+  Vytvářet a udržovat znovu použitelné komunikační prostředky z PDF dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná tvorba šablon**  
+  Python pracovní postupy mohou automaticky převádět standardizované PDF na znovu použitelné OFT soubory.
+
+* **Hromadná příprava komunikace**  
+  Systémy mohou vytvářet výstupy připravené jako šablony pro týmy, které zpracovávají opakované e‑mailové úkoly.
+
+* **Zprávové pipeline řízené dokumenty**  
+  PDF zdrojové soubory mohou napájet procesy tvorby šablon bez ručního přetváření.
+
+* **Škálovatelné komunikační workflow**  
+  Automatizovaný převod pomáhá udržovat konzistentní zprávy napříč rozsáhlými operacemi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT 转 TSV 转换在 Python API 中将 OpenDocument 文本模板转换为制表符分隔值，以实现干净、轻量、结构化的数据交换。当基于模板的内容必须迁移到偏好简单文本表格输出的系统时，这非常有用。
+
+该转换通过实现轻松的解析、转换和加载，提升了自动化水平，适用于重视最小开销、可移植性以及可靠分隔符结构的工作流。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **分隔数据导出**  
+  将文档内容转换为结构化的制表符分隔输出。
+
+* **管道友好格式**  
+  支持处理轻量文本表格的系统。
+
+* **数据准备**  
+  使提取的内容更容易导入分析或运营工具。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **批量表格转换**  
+  大规模从 OTT 模板生成 TSV 文件。
+
+* **ETL 工作流供给**  
+  将文档衍生的数据发送到解析和转换管道。
+
+* **计划结构化导出**  
+  支持定期生成简单的机器可读数据集。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

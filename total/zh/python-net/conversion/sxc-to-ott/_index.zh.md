@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC 到 OTT 的转换将基于电子表格的内容转换为一种开放文档模板格式，旨在用于可重复且结构化的文本文档创建。当需要将电子表格信息填充到可重复使用的报告、通知、摘要或标准化内部文档模板时，这非常有用。
+
+借助 Python API，SXC 到 OTT 的转换通过支持以模板为中心的工作流，实现高效自动化，提升一致性，减少手动格式化，并简化大规模文档生成。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **打开模板创建**  
+  将电子表格数据转换为可重复使用的模板，以用于未来的文档生成。
+
+* **一致的文档布局**  
+  帮助在重复的业务文档任务中保持统一的格式。
+
+* **可重复使用的流程资产**  
+  支持创建模板文件，以简化运营文档的准备工作。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **模板自动化流水线**  
+  通过基于 Python 的转换工作流，从 SXC 文件生成 OTT 模板。
+
+* **标准化输出生成**  
+  从单一可重复使用的开放格式模板实现重复的文档创建。
+
+* **流程效率提升**  
+  通过以编程方式准备结构化模板，减少手动设置时间。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

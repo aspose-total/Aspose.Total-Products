@@ -66,7 +66,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 的 Word 转 Excel 转换可以将文档内容转移到基于工作簿的格式，以便进行计算、分析和结构化审查。当需要将叙述性或半结构化文档中捕获的信息组织到工作表中用于运营或分析时，这尤其有价值。
+
+从自动化的角度来看，此转换简化了文档数据向电子表格工作流的迁移，实现了可扩展的处理、验证以及与报告和决策支持系统的集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **结构化数据准备**
+  将基于 Word 的内容转换为适合排序、过滤和分析的工作簿布局。
+
+* **运营报告**
+  将文档信息转移到电子表格中，以便进行审查、跟踪和指标生成。
+
+* **数据清理与标准化**
+  帮助将非结构化或半结构化内容重新格式化为可用的电子表格结构。
+
+* **业务工作流赋能**
+  支持需要将文档来源信息以适合计算的格式使用的团队。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **文档到工作簿的流水线**
+  自动将重复的 Word 文件转换为可用于业务的 Excel 兼容输出。
+
+* **批量提取任务**
+  将大量文档处理为电子表格，以便进行集中分析。
+
+* **验证与对账**
+  在自动检查、比较和审计例程中使用转换后的工作簿数据。
+
+* **分析集成**
+  将电子表格输出馈送到仪表板、脚本和下游处理系统。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,41 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT 转图像转换将文档模板渲染为易于预览、共享和嵌入数字工作流的可视化格式。当必须将原始可编辑文档以静态视觉资产的形式分发时，这非常有价值。
+
+Python API 使 DOT 文件的自动渲染为图像输出成为可能，帮助组织在大规模下支持预览、归档、内容发布和文档审阅流程。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **可视化文档预览**
+  将 DOT 模板转换为图像，以便快速检查和基于浏览器的查看。
+
+* **静态内容共享**
+  将文档内容以不可编辑的图像文件形式分发，以实现受控展示。
+
+* **发布支持**
+  在门户、报告和内容交付系统中使用渲染输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **缩略图和预览生成**
+  Python 工作流可以自动生成文档图像，用于索引和显示系统。
+
+* **内容发布流水线**
+  转换支持从可重用模板自动准备视觉资产。
+
+* **批量渲染操作**
+  编程过程可以一致地从大型模板集合生成图像输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

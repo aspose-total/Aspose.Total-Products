@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOTM إلى XLAM يحول قوالب Word الممكّنة بالماكرو إلى ملفات إضافات Excel لأتمتة الجداول الإلكترونية وتوزيع الوظائف القابلة لإعادة الاستخدام. يكون ذلك ذا قيمة عندما تحتاج المنطق أو المحتوى القائم على القوالب إلى دعم سير عمل يركز على Excel في شكل امتداد قابل لإعادة الاستخدام.
+
+استخدام واجهات برمجة تطبيقات Python لتحويل DOTM إلى XLAM يدعم الأتمتة من خلال تمكين المحتوى والوظائف المهيكلة للانتقال من قوالب المستندات إلى سير عمل إضافات الجداول الإلكترونية. يساعد ذلك في توحيد العمليات القابلة لإعادة الاستخدام ويدعم تكامل عمليات الأعمال القابلة للتوسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تحضير إضافة الجداول الإلكترونية**
+  تحويل مصادر DOTM إلى مخرجات XLAM لدعم سير عمل موجه إلى Excel قابل لإعادة الاستخدام.
+
+* **إنشاء أصول أتمتة قابلة لإعادة الاستخدام**
+  إعادة توجيه المحتوى القائم على القوالب إلى ملفات مناسبة للاستخدام المتكرر للجداول الإلكترونية.
+
+* **توحيد العمليات**
+  دعم توزيع مُتحكم به للوظائف القابلة لإعادة الاستخدام للجداول الإلكترونية المستمدة من قوالب المستندات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء إضافة تلقائي**
+  يمكن للأنظمة إنشاء مخرجات متوافقة مع XLAM من قوالب DOTM كجزء من سير عمل جداول إلكترونية متقدم.
+
+* **توزيع منطق الأعمال القابل لإعادة الاستخدام**
+  يدعم التحويل الإعداد البرمجي لأصول دعم الجداول الإلكترونية القابلة للتكرار.
+
+* **حزم الأتمتة الدفعية**
+  تمكن المعالجة البرمجية من تحويل ملفات القوالب على نطاق واسع إلى مخرجات XLAM.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

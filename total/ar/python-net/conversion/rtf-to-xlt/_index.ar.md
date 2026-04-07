@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل RTF إلى XLT يغيّر مستندات النص الغني إلى ملفات قالب جدول بيانات تُستخدم كنقاط انطلاق قابلة لإعادة الاستخدام لإنشاء دفاتر العمل. هذا مفيد عندما يحتاج محتوى المستند إلى أن يصبح أساسًا موحدًا للتقارير أو النماذج أو أدوات المتابعة القائمة على جداول البيانات المتكررة.
+
+من منظور الأتمتة، يدعم تحويل RTF إلى XLT إنشاء جداول بيانات مدفوعة بالقوالب، مما يساعد الفرق على إنشاء هياكل دفاتر عمل متسقة من المستندات المصدر مع تقليل العمل المتكرر في الإعداد.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء قالب جدول بيانات قابل لإعادة الاستخدام**  
+  يحوّل محتوى المستند إلى قوالب دفاتر عمل للتقارير وإدخال البيانات المتكررة.
+
+* **نماذج تشغيلية موحدة**  
+  يساعد على إنشاء هياكل جدول بيانات متسقة من المواد المصدر المعتمدة.
+
+* **إعداد سير عمل بيانات متكرر**  
+  يدعم إعداد القوالب للعمليات التجارية المتكررة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء قالب مؤتمت**  
+  يمكن للأنظمة تحويل مستندات RTF إلى ملفات XLT لسير عمل جداول البيانات المتكرر.
+
+* **خطوط تقارير قائمة على القوالب**  
+  يساعد التحويل البرمجي على فرض الاتساق عبر مهام إنشاء دفاتر العمل المتكررة.
+
+* **إعداد دفاتر عمل قابل للتوسع**  
+  يمكن للعمليات الديناميكية إنشاء قوالب جداول بيانات من المستندات السردية أو المهيكلة لاستخدام أوسع من قبل الفريق.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

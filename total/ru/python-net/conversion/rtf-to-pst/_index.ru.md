@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF to PST conversion changes rich text documents into mailbox data files used for storing larger collections of email content and related communication records. This is useful when document-based communications need to be consolidated into archive-oriented mail storage for retention or migration.
+
+В рамках стратегий автоматизации RTF в PST поддерживает масштабируемую упаковку коммуникаций, готовность к архивированию и преобразование данных в почтовый формат для предприятий, обрабатывающих большие объёмы сообщений, полученных из документов.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Консолидация почтового архива**  
+  Преобразует содержимое документов в структуры хранения почтового ящика для централизованного сохранения.
+
+* **Миграция данных коммуникаций**  
+  Помогает подготовить текстовый материал для переноса в архивно-ориентированные почтовые среды.
+
+* **Долгосрочное управление записями**  
+  Обеспечивает структурированное хранение контента, похожего на сообщения, полученного из документов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Автоматизированная упаковка почтовых данных**  
+  Системы могут преобразовывать файлы RTF в совместимые с PST результаты для архивных рабочих процессов.
+
+* **Конвейеры соответствия и удержания**  
+  Программная конверсия помогает организовать коммуникации на основе документов для аудита и требований управления.
+
+* **Подготовка к масштабной миграции**  
+  Динамические процессы могут консолидировать повторяющийся документный контент в почтово-ориентированные форматы хранения.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

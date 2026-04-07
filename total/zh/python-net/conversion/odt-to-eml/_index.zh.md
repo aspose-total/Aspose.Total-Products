@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT 到 EML 转换将 OpenDocument 文本文件转换为标准的电子邮件消息格式，保留消息结构以便存储、传输或归档。这在需要将文档内容打包为电子邮件制品用于沟通或记录管理时非常有用。
+
+在自动化环境中，ODT 到 EML 转换支持文档到消息的工作流、电子邮件归档过程以及批量内容转换。Python API 允许这些任务以编程方式在大规模文档集上运行并保持一致性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **电子邮件消息创建**  
+  将文档内容转换为可移植的电子邮件消息格式。
+
+* **归档打包**  
+  有助于在标准化结构中保留可用于通信的内容。
+
+* **工作流交接**  
+  为使用基于消息交换的系统准备文档。
+
+* **内容分发准备**  
+  使下游交付或审阅能够以电子邮件对象的形式进行。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化消息打包**  
+  Python 工作流可以将文档转换为 EML 文件以进行存储或传输。
+
+* **归档管道**  
+  ODT 内容可以自动转换为长期通信记录。
+
+* **批量电子邮件制品创建**  
+  大型文档集合可以在批处理作业中转换为 EML 格式。
+
+* **系统间交换**  
+  自动化过程可以在面向消息的集成中使用 EML 输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

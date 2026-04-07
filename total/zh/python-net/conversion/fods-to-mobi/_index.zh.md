@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FODS 到 MOBI 的转换允许将平面 OpenDocument 电子表格内容重新用于适合便携阅读和数字分发的电子书友好格式。 当结构化信息必须以可访问的参考资料、指南或以文本为主的出版物形式在阅读设备间共享时，这非常有用。
+
+在自动化工作流中，将 FODS 转换为 MOBI 支持大规模内容转换、数字出版流水线以及高效的多格式分发。 Python API 使可重复的电子书生成过程成为可能，同时减少了为阅读平台重新格式化结构化数据所需的人工工作量。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **数字参考出版**  
+  将基于电子表格的信息转换为 MOBI 文件，以便便携阅读和参考使用。
+
+* **知识分发**  
+  在适合更广泛可访问性的电子书格式中共享结构化的业务或技术数据。
+
+* **内容再利用**  
+  将数据密集的源文件转换为可阅读的长篇数字文档。
+
+* **移动友好文档**  
+  以便于基于设备的阅读环境的格式交付转换后的内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化电子书生成**  
+  Python 工作流可以将 FODS 文件转换为 MOBI 输出，以进行数字内容交付。
+
+* **批量出版流水线**  
+  多个结构化文件可以大规模转换为电子书格式。
+
+* **跨格式分发系统**  
+  自动化流程可以在其他输出格式的同时生成 MOBI，以实现更广泛的覆盖。
+
+* **内容出版自动化**  
+  编程式转换支持更快地从源数据准备数字阅读材料。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

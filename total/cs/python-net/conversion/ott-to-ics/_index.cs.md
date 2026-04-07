@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod OTT na ICS v Python API převádí šablony textových dokumentů OpenDocument do souborů kalendářových dat používaných pro plánování a výměnu událostí. To je užitečné, když obsah dokumentu zahrnuje schůzky, termíny nebo strukturované informace řízené daty, které musí být připraveny pro kalendář.
+
+Tento převod je vhodný pro automatizaci, protože umožňuje generovat informace o událostech ze šablon a zasílat je do pracovních postupů plánování, připomínek a synchronizačních procesů bez ručního zadávání do kalendáře.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytvoření souboru události**  
+  Převádí obsah dokumentu souvisejícího s rozvrhem do kalendářově kompatibilních souborů.
+
+* **Distribuce termínů**  
+  Sdílí důležité data a milníky ve standardním kalendářovém formátu.
+
+* **Podpora plánovacího pracovního postupu**  
+  Převádí strukturovaná data událostí do přenosných plánovacích aktiv.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované generování kalendáře**  
+  Vytváří soubory ICS z opakujících se šablon událostí založených na OTT.
+
+* **Integrace pracovního postupu připomínek**  
+  Zasílá vygenerované události do systémů, které spouštějí upozornění.
+
+* **Synchronizace rozvrhu**  
+  Podporuje programové sdílení kalendářových dat mezi týmy nebo nástroji.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

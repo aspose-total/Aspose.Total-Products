@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование документа в XLT меняет содержимое Word в файлы шаблонов электронных таблиц, поддерживающие повторяемое создание рабочих книг и стандартизацию. Это полезно, когда структуры, полученные из документов, необходимо превратить в повторно используемые основы электронных таблиц.
+
+С помощью Python API преобразование DOC в XLT может быть автоматизировано для последовательного создания шаблонов, операционного повторного использования и упрощённого производства электронных таблиц.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Создание шаблонов электронных таблиц**
+  Преобразуйте структурированное содержимое документа в повторно используемые шаблоны электронных таблиц.
+
+* **Стандартизированный дизайн рабочей книги**
+  Используйте вывод XLT для поддержания согласованных макетов и структур данных.
+
+* **Повторно используемые бизнес-формы**
+  Перепрофилируйте документы в шаблоны рабочих книг для многократного использования.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Автоматизация библиотеки шаблонов**
+  Автоматически генерируйте файлы XLT из исходного материала на основе DOC.
+
+* **Повторяемая настройка электронных таблиц**
+  Программно создавайте шаблоны рабочих книг из стандартизированных документов.
+
+* **Повторное использование контента**
+  Преобразуйте повторяющиеся формы и отчёты в активы электронных таблиц, управляемые шаблонами.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

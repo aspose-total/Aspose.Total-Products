@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование DOT в TSV меняет шаблоны документов в табличные файлы с разделителями‑табуляции, которые просты, портативны и легко обрабатываются. Это ценно, когда структурированное содержимое шаблона должно быть экспортировано в формат на основе разделителей, поддерживающий надёжный обмен данными.
+
+С помощью API Python рабочие процессы преобразования DOT в TSV можно автоматизировать для обеспечения чистого извлечения данных, взаимосовместимости систем и масштабируемой обработки документов в данные.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Экспорт структурированного текста**
+  Преобразуйте файлы DOT в TSV для чистой обработки данных на основе разделителей.
+
+* **Обмен данными, удобный для систем**
+  Используйте вывод TSV, где предпочтительны табуляции для предсказуемого разделения полей.
+
+* **Извлечение содержимого шаблона**
+  Перепрофилируйте информацию документа в простой формат для скриптов и операционных инструментов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Автоматизированное извлечение данных**
+  Скрипты Python могут преобразовывать шаблоны DOT в файлы TSV для повторяющихся задач обработки.
+
+* **Поддержка ETL‑рабочих процессов**
+  Преобразование помогает передавать данные, полученные из шаблонов, в конвейеры и интеграционные системы.
+
+* **Масштабируемый экспорт на основе текста**
+  Программное преобразование позволяет генерировать TSV в больших объёмах из репозиториев документов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

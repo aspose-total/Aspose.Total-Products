@@ -65,7 +65,46 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+CSV to ODT conversion using Python APIs enables structured tabular data to be transformed into open document text files that support editable and interoperable documentation workflows.
+This conversion is useful for automation because it produces standardized open-format output that improves flexibility, integration, and long-term accessibility.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Zprávy v otevřeném dokumentu**  
+  Převést záznamy CSV do souborů ODT pro editovatelné zprávy, souhrny a profesionální dokumentaci.
+
+* **Interoperabilní výměna obsahu**  
+  Generovat ODT dokumenty, když pracovní postupy vyžadují otevřené standardy a multiplatformní použitelnost.
+
+* **Strukturovaný výstup dokumentace**  
+  Převést vstup CSV na čitelný obsah ODT s uspořádanými sekcemi, tabulkami a formátovaným textem.
+
+* **Znovupoužitelné výstupy v otevřeném formátu**  
+  Vytvářet konzistentní ODT dokumenty z opakujících se datových sad CSV pro provozní nebo publikační potřeby.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Opakovaná generace v otevřeném formátu**  
+  Automatizovat převod CSV do ODT pro naplánované pracovní postupy, které vyžadují editovatelné dokumenty s otevřeným standardem.
+
+* **Integrace systémových pipeline**  
+  Integrovat Python API do backendových procesů, které automaticky převádějí data do souborů ODT.
+
+* **Hromadné vytváření dokumentů**  
+  Převést mnoho zdrojů CSV do výstupu ODT ve velkém měřítku při zachování konzistence a struktury.
+
+* **Sestavování dokumentů na základě pravidel**  
+  Dynamicky vytvářet soubory ODT z polí CSV a logiky pro podporu automatizovaných publikačních systémů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

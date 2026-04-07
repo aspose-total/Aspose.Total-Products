@@ -53,7 +53,53 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}}
+
+HTML 到图像的转换使用 Python API，使开发者能够将网页内容渲染为静态视觉格式，以便共享、存储、生成预览和发布。它在现代系统中非常有价值，因为它在保持布局、样式和视觉结构的同时，使 HTML 内容更容易在不需要浏览器的平台上分发。
+
+在以自动化为重点的工作流中，将 HTML 转换为图像支持报告、仪表板、缩略图、通知和内容管道的可扩展资产生成。通过将动态 HTML 模板转化为可重复使用的视觉输出，并与监控系统、发布流程和文档驱动的应用程序平滑集成，从而提升效率。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **预览图像生成**
+  将 HTML 页面转换为图像预览，用于列表、搜索结果和内容库。
+
+* **报告可视化**
+  将基于 HTML 的报告和摘要渲染为图像，以便共享、归档或演示。
+
+* **基于模板的资产创建**
+  将 HTML 模板转换为横幅、卡片和内容组件的视觉资产。
+
+* **仪表板快照导出**
+  将 HTML 仪表板捕获为图像，用于状态报告和高层沟通。
+
+* **文档支持**
+  将 HTML 视图导出为图像，用于手册、帮助指南和技术参考。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **计划的可视化报告生成**
+  自动化系统可以将周期性 HTML 报告渲染为图像文件，以便定期交付和审阅。
+
+* **动态内容渲染**
+  基于数据的 HTML 模板可以以编程方式转换为图像，以实现可扩展的内容生产。
+
+* **通知图像创建**
+  用于警报和摘要的 HTML 布局可以自动转换为图像，以在各渠道分发。
+
+* **批量转换流水线**
+  大量 HTML 文件可以通过批处理工作流转换为图像，无需人工干预。
+
+* **渲染内容归档**
+  自动化可以通过将动态 HTML 页面转换为静态图像输出来保留其视觉状态。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

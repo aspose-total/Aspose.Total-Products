@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 OFT 转换为 TEXT 可将 Outlook 电子邮件模板内容提取为纯文本，以便进行简单的处理、索引和归档。当格式不如内容可访问性、可搜索性和轻量级数据处理重要时，这非常有用。
+
+在自动化工作流中，OFT 转 TEXT 转换支持解析、分析以及与依赖原始文本内容的系统集成。它提升了内容提取、搜索优化和下游数据操作的效率。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **纯内容提取**  
+  将 OFT 文件转换为文本，以直接访问邮件内容，而无需处理格式复杂性。
+
+* **搜索和索引准备**  
+  使用纯文本输出以提升索引、检索以及基于文本的分析工作流。
+
+* **轻量级归档存储**  
+  以紧凑简洁的格式保存模板的核心内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **文本挖掘流水线**  
+  将提取的 OFT 内容输入自动化的分类、标记或分析过程。
+
+* **可搜索归档创建**  
+  将模板转换为纯文本，以便进行仓库索引和快速检索工作流。
+
+* **程序化内容标准化**  
+  使用 Python API 将模板文本标准化，以供下游集成和数据处理使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

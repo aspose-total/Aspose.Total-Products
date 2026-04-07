@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل SXC إلى OTT يحول المحتوى القائم على جداول البيانات إلى تنسيق قالب مستند مفتوح مصمم لإنشاء مستندات نصية قابلة للتكرار ومهيكلة. هذا مفيد عندما تحتاج معلومات جداول البيانات إلى تعبئة قوالب قابلة لإعادة الاستخدام للتقارير أو الإشعارات أو الملخصات أو المستندات الداخلية المعيارية.
+
+مع واجهات برمجة تطبيقات بايثون، يدعم تحويل SXC إلى OTT الأتمتة الفعّالة من خلال تمكين سير عمل يركز على القوالب يحسن الاتساق، يقلل من التنسيق اليدوي، ويسهل إنشاء المستندات على نطاق واسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء قالب مفتوح**  
+  يحوّل بيانات جداول البيانات إلى قوالب قابلة لإعادة الاستخدام لتوليد المستندات المستقبلية.
+
+* **تخطيطات مستندات متسقة**  
+  يساعد على الحفاظ على تنسيق موحد عبر مهام توثيق الأعمال المتكررة.
+
+* **أصول عملية قابلة لإعادة الاستخدام**  
+  يدعم إنشاء ملفات القوالب التي تُبسّط إعداد المستندات التشغيلية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط أنابيب أتمتة القوالب**  
+  ينتج قوالب OTT من ملفات SXC عبر سير عمل تحويل قائم على بايثون.
+
+* **إنشاء مخرجات موحدة**  
+  يُمكّن إنشاء مستندات متكررة من قالب مفتوح بصيغة واحدة قابل لإعادة الاستخدام.
+
+* **تحسين كفاءة العملية**  
+  يقلل من وقت الإعداد اليدوي من خلال إعداد القوالب المهيكلة برمجيًا.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

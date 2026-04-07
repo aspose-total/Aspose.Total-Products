@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu V
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod VCF na RTF převádí data kontaktních karet do dokumentů ve formátu Rich Text, které zachovávají formátování a zároveň zůstávají široce editovatelné v různých nástrojích pro práci s dokumenty. To je užitečné pro pracovní postupy dokumentace kontaktů, které vyžadují flexibilitu, čitelnost a kompatibilitu.
+
+S automatizací pomocí Python API pomáhá převod VCF na RTF organizacím generovat dokumenty založené na kontaktech, které se mohou snadno pohybovat skrze editaci, revizi a distribuční řetězce, aniž by ztratily strukturu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Formátovaný editovatelný výstup**  
+  Převést data VCF do souborů RTF pro čitelné a editovatelné použití dokumentů.
+
+* **Kompatibilita napříč nástroji**  
+  Sdílet kontaktní informace ve formátu podporovaném mnoha textovými editory a systémy.
+
+* **Flexibilní příprava záznamů**  
+  Používejte RTF dokumenty pro interní komunikaci a strukturovanou dokumentaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Dávková generace RTF**  
+  Automaticky vytvářet soubory Rich Text z velkých sad VCF záznamů.
+
+* **Pracovní postupy revize dokumentů**  
+  Vkládat převedené RTF kontaktní dokumenty do procesů editace a schvalování.
+
+* **Škálovatelná automatizace formátování**  
+  Používejte Python API k efektivnímu dodávání konzistentních výstupů Rich Text.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

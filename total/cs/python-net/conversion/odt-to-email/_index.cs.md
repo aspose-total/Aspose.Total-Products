@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT na Email konverze transformuje obsah dokumentu do výstupu připraveného pro e‑mail, což usnadňuje sdílení zpráv, oznámení, souhrnů nebo formátovaného textu prostřednictvím komunikačních pracovních toků. To je užitečné, když je potřeba formální dokumenty přetvořit pro přímou komunikaci.
+
+Pomocí Python API lze ODT na Email konverzi integrovat do automatizovaných notifikačních systémů, schvalovacích toků a komunikačních pipeline založených na dokumentech. Zvyšuje efektivitu tím, že statické soubory převádí na akční odchozí obsah.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Upozornění založená na dokumentech**  
+  Převádí psaný obsah na komunikaci vhodnou pro e‑mail.
+
+* **Distribuce zpráv**  
+  Umožňuje rychlé sdílení souhrnů, aktualizací nebo oznámení ze zdrojových dokumentů.
+
+* **Komunikace v pracovním toku**  
+  Podporuje scénáře schvalování, upozorňování a zasílání stavových zpráv.
+
+* **Opětovné využití obsahu**  
+  Znovu využívá text dokumentu pro externí nebo interní korespondenci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Generování e‑mailů na základě události**  
+  Systémy mohou automaticky převádět ODT soubory na e‑mailový obsah, když přijdou nové dokumenty.
+
+* **Zprávy ve schvalovacím pracovním toku**  
+  Python automatizace může převést souhrny dokumentů na zprávy pro recenzenty nebo zainteresované strany.
+
+* **Příprava hromadného oslovení**  
+  Více dokumentů lze hromadně převést na odchozí obsah připravený pro e‑mail.
+
+* **Upozornění řízená událostmi**  
+  Změny v úložištích dokumentů mohou spustit automatizovaný převod a distribuci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

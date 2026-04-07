@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOCM إلى XLS يحول المستندات التي تدعم الماكرو إلى ملفات جدولية تدعم معالجة البيانات المهيكلة، والمراجعة، وإعداد التقارير. يكون مفيدًا عندما تحتاج الجداول والسجلات داخل ملفات DOCM إلى نقلها إلى سير عمل جدول بيانات مألوف للاستخدام اللاحق.
+
+من منظور الأتمتة، يدعم تحويل DOCM إلى XLS استخراج بيانات المستند بشكل متكرر، وتوافق جداول البيانات القديمة، وأنابيب إعداد التقارير القابلة للتوسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إعادة استخدام بيانات الجدول**
+  يحول جداول المستند إلى شكل جدول بيانات للتحليل والتحرير.
+
+* **توافق دفتر العمل القديم**
+  يدعم البيئات التي لا تزال تعتمد على صيغ جداول البيانات القديمة.
+
+* **التقارير التشغيلية**
+  يساعد على إعادة توظيف البيانات المستندة إلى المستندات للمهام المتكررة المدفوعة بجدول البيانات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تصدير دفتر العمل تلقائيًا**
+  ينتج ملفات XLS من مصادر DOCM في وظائف المعالجة الروتينية.
+
+* **تحويل الجداول بالجملة**
+  يحول مجموعات المستندات الكبيرة إلى مخرجات جدولية للعمليات اللاحقة.
+
+* **تكامل الأنظمة القديمة**
+  يُغذي البيانات المهيكلة إلى سير العمل الذي يعتمد على صيغ دفاتر العمل القديمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

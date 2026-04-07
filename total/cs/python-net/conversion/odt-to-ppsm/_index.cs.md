@@ -64,7 +64,47 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod ODT na PPSM transformuje soubory OpenDocument Text do formátu prezentace s povolenými makry, určeného pro přímé použití při prezentaci. To je cenné, když výstupy prezentací vyžadují jak chování prezentace, tak pokročilou automatizovanou funkčnost.
+
+S Python API podporuje převod ODT na PPSM škálovatelné generování výstupů připravených k prezentaci pro specializované reportovací a doručovací pracovní postupy. Pomáhá zefektivnit pokročilé procesy automatizace převodu dokumentu na prezentaci.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytvoření prezentace s makry**  
+  Převádí psané dokumenty na výstupy prezentací s pokročilými funkcemi.
+
+* **Automatizace doručení prezentace**  
+  Podporuje pracovní postupy, které generují soubory prezentací pro přímé zobrazení.
+
+* **Strukturovaný výstup komunikace**  
+  Přetváří zdrojový obsah na prezentace zaměřené na zobrazování.
+
+* **Pokročilá integrace pracovních postupů**  
+  Vhodné pro scénáře, kde je potřeba skriptované nebo rozšířené chování prezentace.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Specializované pipeline prezentací**  
+  Python skripty mohou převádět ODT obsah do formátu PPSM pro automatizované doručovací procesy.
+
+* **Dávkové publikování prezentací**  
+  Více souborů lze převést na výstupy prezentací s minimální manuální prací.
+
+* **Generování výstupu řízené šablonou**  
+  Strukturované dokumenty mohou automaticky napájet pokročilé pracovní postupy tvorby snímků.
+
+* **Doručování provozních zpráv**  
+  Soubory prezentací lze programově vytvářet pro opakující se cykly prezentací.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

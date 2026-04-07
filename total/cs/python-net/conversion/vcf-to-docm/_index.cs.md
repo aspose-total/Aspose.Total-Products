@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu V
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod VCF na DOCM transformuje data kontaktních karet do makrem podporovaných dokumentů pro zpracování textu, což umožňuje strukturované doručování obsahu tam, kde může být vyžadováno pokročilé chování dokumentu. To je užitečné pro organizace, které pracují s dynamickými workflow dokumentů a editovatelnými výstupy.
+
+V systémech zaměřených na automatizaci umožňuje převod VCF na DOCM Python API generovat dokumenty založené na kontaktech, které zapadají do větších programovatelných procesů, zejména tam, kde je součástí operací logika dokumentu, opakovatelný formát nebo integrované akce.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Dynamické kontaktní dokumenty**  
+  Převést záznamy VCF do editovatelných souborů DOCM pro pokročilé workflow dokumentů.
+
+* **Strukturované interní zpracování**  
+  Připravit informace o kontaktech v makrem podporovaných dokumentech pro řízené obchodní využití.
+
+* **Programovatelná dokumentace**  
+  Podporovat prostředí dokumentů, kde musí koexistovat automatizace a editovatelný obsah.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované vytváření DOCM**  
+  Generovat makrem podporované dokumenty ze souborů kontaktů ve hromadných operacích.
+
+* **Pracovní postupy dokumentů založené na pravidlech**  
+  Směrovat převedené soubory DOCM do automatizovaných obchodních procesů s konzistentním formátováním.
+
+* **Škálovatelné balení kontaktů**  
+  Programově balit data kontaktů do znovupoužitelných výstupů DOCM pro podnikové workflow.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

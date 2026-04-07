@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM 到 XLSB 的转换将带宏的 Word 模板转换为二进制 Excel 工作簿文件，这些文件在以电子表格为主的工作流中具有高效的存储和性能。当需要以紧凑、可直接用于电子表格的格式保留提取的文档数据时，这一转换非常有价值。
+
+使用 Python API 进行 DOTM 到 XLSB 的转换可通过从重复使用的文档模板生成高效的工作簿输出来支持自动化。这提升了大规模处理能力，降低了文件开销，并支持稳健的文档到数据的流水线。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **紧凑的工作簿生成**
+  将 DOTM 内容转换为 XLSB，以实现高效的存储和电子表格处理。
+
+* **大批量数据导出**
+  在处理大量文档衍生的数据集时使用二进制工作簿输出。
+
+* **面向性能的电子表格工作流**
+  以适合大规模运营电子表格使用场景的格式保留提取的内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化二进制工作簿创建**
+  系统可以将 DOTM 模板转换为 XLSB 文件，以实现存储高效的工作流。
+
+* **可扩展的电子表格流水线**
+  该转换支持从结构化文档大规模生成工作簿资产。
+
+* **批量效率处理**
+  编程作业能够快速将多个 DOTM 文件转换为 XLSB 输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

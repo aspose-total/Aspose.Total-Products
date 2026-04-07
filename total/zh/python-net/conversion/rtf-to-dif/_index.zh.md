@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF 到 DIF 的转换将格式化的文本文档转换为一种为电子表格和表格数据交换而设计的数据互换格式。当组织需要以兼容旧的分析和财务系统的格式保留结构化内容时，这非常有用。
+
+从自动化的角度来看，RTF 到 DIF 支持将基于文档的信息可靠地转换为结构化数据集，使其能够在报告、会计和电子表格工作流之间以最少的人工操作进行传递。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **电子表格数据交换**  
+  将文档内容转换为一种支持在兼容的表格系统之间传输的格式。
+
+* **遗留工作流集成**  
+  帮助旧的分析环境使用最初存储在富文本文档中的信息。
+
+* **结构化记录准备**  
+  将提取的文本组织成可用于审查、导入或归档的数据就绪布局。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化遗留数据馈送**  
+  转换例程可以将传入的 RTF 文件转换为 DIF，以用于旧的基于电子表格的工作流。
+
+* **周期性财务数据准备**  
+  自动化管道可以将基于文本的报告标准化为适用于会计系统的数据格式。
+
+* **跨系统数据移动**  
+  编程转换有助于在计划的流程中桥接文档库和结构化分析工具。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

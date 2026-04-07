@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod TSV na RTF transformuje strukturovaný tabulkový obsah do dokumentů bohatého textu, které vyvažují přenositelnost, čitelnost a editovatelné formátování. Je užitečný, když je třeba sdílet data TSV v lehkém textovém formátu dokumentu, který stále zachovává strukturu dokumentu a hodnotu prezentace.
+
+Pomocí Python API lze převod TSV na RTF automatizovat, aby podporoval efektivní textové reportování, škálovatelné exportní workflow a plynulý přesun strukturovaných dat do systémů zaměřených na dokumenty.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Lehký export dokumentu**  
+  Převádí data TSV do formátovaných textových dokumentů, které jsou snadno sdílené a editovatelné.
+
+* **Čitelný strukturovaný obsah**  
+  Pomáhá prezentovat surové tabulkové záznamy v uživatelsky přívětivější formě dokumentu.
+
+* **Kompatibilita napříč prostředími**  
+  Podporuje pracovní postupy s dokumenty, které těží z široce podporovaných textových formátů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná tvorba textových reportů**  
+  Python API mohou vytvářet RTF soubory z TSV vstupů pro opakující se úkoly dokumentace.
+
+* **Transformace dat do dokumentu**  
+  Automatizace pomáhá převádět surové strukturované exporty do formátovaných textových výstupů.
+
+* **Dávkové konverzní operace**  
+  Vysokobjemové TSV soubory lze efektivně převést do formátu RTF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

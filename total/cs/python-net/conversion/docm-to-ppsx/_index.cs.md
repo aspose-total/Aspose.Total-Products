@@ -64,7 +64,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to PPSX conversion převádí dokumenty s makry do moderních souborů prezentací určených pro přímé prohlížení a zjednodušené doručení prezentace. Je užitečný, když má být obsah dokumentu prezentován vizuálně v přenosném, přehrávacím formátu.
+
+V automatizačních prostředích podporuje převod DOCM na PPSX škálovatelné šíření výstupů připravených k prezentaci, aniž by bylo nutné ruční formátování nebo úpravy před zobrazením.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Moderní doručení prezentace**  
+  Převádí materiál dokumentu do souborů prezentace pro přímé prohlížení k použití v prezentacích.
+
+* **Přenosná vizuální komunikace**  
+  Pomáhá sdílet poznatky založené na dokumentech v lehkém formátu prezentace.
+
+* **Výstup orientovaný na přehrávání**  
+  Podporuje scénáře prezentace, kde je úprava sekundární vůči prohlížení.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované vytváření prezentací**  
+  Generuje soubory PPSX ze zdrojů DOCM pro naplánované pracovní postupy prezentací.
+
+* **Publikování obsahu řízené pracovním tokem**  
+  Propojuje tvorbu dokumentů se systémy doručování prezentací.
+
+* **Hromadný export prezentací**  
+  Programově převádí velké objemy souborů DOCM do aktiv připravených pro prezentaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

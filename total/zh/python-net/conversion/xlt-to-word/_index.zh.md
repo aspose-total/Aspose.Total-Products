@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python 中的 XLT 转 Word 转换可以将 Excel 模板文件转换为 Word 兼容的文档，用于业务沟通、报告和结构化文档编写。当电子表格模板包含必须以更叙事、可打印或文档导向的形式呈现的信息时，此转换非常有用。
+
+在自动化工作流中，XLT 转 Word 转换通过将基于电子表格的源文件与广泛接受的文档输出相连接，提升了流程连续性。它实现了可扩展的内容转换、更顺畅的协作以及更容易与文档生成和管理系统集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **业务文档准备**  
+  将 XLT 模板转换为 Word 兼容文件，用于报告、摘要和正式记录。
+
+* **可读内容转换**  
+  将来源于电子表格的数据以更易于审阅和分发的文档格式呈现。
+
+* **工作流兼容性扩展**  
+  支持依赖 Word 文档而非电子表格的业务流程。
+
+* **模板内容复用**  
+  将现有 Excel 模板重新用于结构化文档输出，提高运营效率。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化文档创建**  
+  使用 Python API 在循环工作流中从 XLT 模板生成 Word 兼容的输出。
+
+* **集成报告系统**  
+  将模板数据转换为 Word 文档，作为更大报告和文档流水线的一部分。
+
+* **可扩展文件转换**  
+  批量将多个电子表格模板转换为文档输出，几乎无需人工操作。
+
+* **编程内容发布**  
+  自动将生成的 Word 文档发送至存储、审批或通信系统。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

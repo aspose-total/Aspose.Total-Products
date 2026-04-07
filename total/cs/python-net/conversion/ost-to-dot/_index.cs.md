@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod OST na DOT převádí obsah poštovní schránky do formátu šablony dokumentu, což organizacím umožňuje standardizovat, jak jsou informace odvozené z e‑mailů strukturovány v opakovaně použitelných šablonách. To je užitečné, když je archivovaná komunikace potřeba převést na opakovatelná dokumentační aktiva.
+
+V automatizačních pracovních postupech pomáhá převod OST na DOT vytvářet konzistentní výstupní vzory pro reportování, záznamy a formální dokumentaci. Python API podporují škálovatelný převod orientovaný na šablony, což usnadňuje začlenění obsahu poštovní schránky do opakovatelných podnikových dokumentačních procesů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření šablon z obsahu pošty**  
+  Převádí data e‑mailu do souborů DOT pro opakovaně použitelné struktury dokumentů.
+
+* **Standardizované rozvržení reportů**  
+  Podporuje organizace, které potřebují jednotné formátování dokumentů odvozených z e‑mailů.
+
+* **Rámce dokumentace**  
+  Pomáhá připravovat materiály založené na šablonách z archivovaných informací poštovní schránky.
+
+* **Konzistence procesů**  
+  Zajišťuje, že opakované výstupy převodu dodržují předdefinovaný vzor dokumentu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Opakovaně použitelné šablonové pipeline**  
+  Python automatizace převádí obsah OST do šablon DOT pro opakovatelná pracovní postupy.
+
+* **Strukturovaná distribuce obsahu**  
+  Automatizované systémy používají výstupy šablon k udržení konzistentního formátování dokumentů.
+
+* **Škálovatelná standardizace dokumentů**  
+  Programový převod podporuje generování šablon ve velkém objemu z archivů poštovní schránky.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

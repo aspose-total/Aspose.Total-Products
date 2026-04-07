@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPSM 到 XLTM 转换在 Python 中支持将启用宏的演示文稿内容转换为启用宏的电子表格模板格式，以实现可重复的工作簿生成。当需要将幻灯片衍生的数据嵌入支持自动化逻辑和可重用结构的标准化电子表格模板时，这非常有用。
+
+从自动化的角度来看，PPSM 到 XLTM 的转换提升了一致性，支持基于模板的电子表格生产，并且支持从演示文稿来源可扩展地生成具备宏功能的工作簿资产。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **宏启用模板创建**  
+  将演示文稿信息转换为具有自动化潜力的可重用电子表格模板。
+
+* **标准化工作簿设计**  
+  帮助为经常性的业务和技术工作流创建可重复的电子表格结构。
+
+* **可重用数据打包**  
+  通过基于模板的电子表格支持演示文稿衍生内容的一致交付。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自动化模板分发**  
+  Python API 可以生成 XLTM 文件，用于集中式电子表格模板工作流。
+
+* **可重复的工作簿生成**  
+  转换支持从演示文稿衍生输入创建结构化电子表格的系统。
+
+* **可扩展的基于模板的处理**  
+  编程管道可以使用 XLTM 输出，在团队之间标准化电子表格自动化。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

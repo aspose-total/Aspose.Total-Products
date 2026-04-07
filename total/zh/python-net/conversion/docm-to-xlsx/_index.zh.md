@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM 转 XLSX 转换将启用宏的文档转换为现代电子表格文件，使结构化内容更易于分析、编辑，并在业务系统之间集成。这是将文档表格和记录转化为可重复使用的运营数据的最实用路径之一。
+
+在以自动化为重点的环境中，DOCM 转 XLSX 转换支持可扩展的报告、分析准备，以及将文档衍生信息无缝迁移到现代工作簿工作流中。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **现代电子表格分析**
+  将基于文档的数据转移到工作簿形式，以便进行筛选、计算和审阅。
+
+* **业务流程集成**
+  支持在报告和运营工具之间重复使用结构化内容。
+
+* **数据转换工作流**
+  帮助将 DOCM 内容重新用于基于电子表格的任务和决策。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化工作簿创建**
+  从 DOCM 源生成 XLSX 文件，用于计划的可重复工作流。
+
+* **分析和报告管道**
+  将转换后的数据输入仪表板、审阅和运营报告流程。
+
+* **大批量文档转换**
+  支持将大量 DOCM 文件批量转换为现代电子表格输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

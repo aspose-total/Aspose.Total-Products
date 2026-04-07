@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM 到 OFT 的转换将启用宏的文档转换为可重复使用的电子邮件模板文件，使基于文档的内容更容易在重复的沟通任务中实现标准化。当需要从已编写的文档源生成一致的消息时，这非常有帮助。
+
+在自动化工作流中，DOCM 到 OFT 的转换实现了模板化外联、流程驱动的沟通以及在重复的消息场景中对文档内容的可扩展复用。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **基于模板的消息传递**
+  将文档内容转换为可重复使用的电子邮件模板，以实现标准化沟通。
+
+* **流程一致性**
+  帮助团队在重复的外发消息中保持统一的结构。
+
+* **内容再利用**
+  在沟通模板中复用正式文档文本，无需手动重新格式化。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板生成**
+  从 DOCM 文档生成 OFT 文件，以支持可重复的消息工作流。
+
+* **工作流触发的沟通**
+  在审批、通知或支持流程中使用转换后的模板。
+
+* **可扩展的消息准备**
+  实现大规模动态填充和分发基于模板的内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

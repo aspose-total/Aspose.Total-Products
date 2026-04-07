@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python 中的 Email 到 RTF 转换将邮件内容转换为富文本文档，兼顾可编辑性和广泛的兼容性。当组织需要以更轻量的文档格式呈现格式化的邮件内容，并且能够在多种编辑工具中使用时，这非常有用。
+
+此转换通过生成结构化、可重用的输出，提高了自动化水平，这些输出可以在混合文档环境中高效地编辑、交换和存储。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **格式化文本保留**
+  将电子邮件转换为 RTF，以在可编辑的格式中保留基本样式。
+
+* **跨工具兼容性**
+  在需要不同编辑应用程序访问相同内容的情况下使用 RTF 输出。
+
+* **可重用的通信记录**
+  保留重要的邮件文本，以便进一步编辑或嵌入文档中。
+
+* **轻量级文档交换**
+  以相对简单且便携的格式共享源自电子邮件的文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化富文本导出**
+  将选定的电子邮件转换为 RTF 文件，以用于存储和协作工作流。
+
+* **多系统文档路由**
+  在应用程序之间以最小摩擦移动源自电子邮件的富文本。
+
+* **内容重用流水线**
+  自动将 RTF 输出插入摘要、草稿和内部文档中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM 到 EML 转换将启用宏的文档转换为标准电子邮件消息文件，使文档内容更容易在兼容电子邮件的环境中存储、发送或处理。当文档必须作为独立的消息工件保存时，这尤其有用。
+
+对于自动化和集成，DOCM 到 EML 工作流支持可重复的消息生成、归档和在依赖开放电子邮件文件结构的通信系统之间的路由。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **消息文件创建**
+  将文档内容转换为可便携的电子邮件消息文件，以便存储或分发。
+
+* **通信归档**
+  支持需要以电子邮件格式保留文档衍生通信的环境。
+
+* **跨系统可移植性**
+  帮助在兼容的邮件平台之间移动基于文档的通信。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化电子邮件打包**
+  从 DOCM 文档生成 EML 文件，无需手动组装消息。
+
+* **工作流驱动的归档**
+  将文档衍生的通信存储为消息文件，以供记录保存系统使用。
+
+* **批量导出操作**
+  在可扩展的处理管道中将多个 DOCM 文件转换为 EML 输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

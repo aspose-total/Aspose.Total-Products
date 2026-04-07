@@ -66,7 +66,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT 到 XLTX 的转换将文档内容转换为一种现代的电子表格模板格式，用于可重复使用的工作簿生成和标准化的数据工作流。当需要从源文档派生出一致结构的重复性电子表格输出时，这非常有帮助。
+
+借助 Python API，ODT 到 XLTX 的转换支持高效的模板创建、文档再利用以及可扩展的电子表格自动化。它帮助团队从结构化文本内容构建可重复的工作簿流程。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **可重复使用的工作簿模板生成**  
+  将源自文档的内容转换为可重复的电子表格布局。
+
+* **一致的数据呈现**  
+  在重复输出中支持标准化的工作簿格式。
+
+* **结构化内容复用**  
+  将源文档信息转化为未来使用的电子表格模板。
+
+* **工作流效率**  
+  减少工作簿准备中的重复格式化和设置任务。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板转换**  
+  Python 脚本可以以编程方式从 ODT 文件生成 XLTX 模板。
+
+* **重复性报告框架**  
+  可以从重复的文档输入生成标准化的工作簿模板。
+
+* **批量模板创建**  
+  大量源文件可以批量转换为电子表格模板。
+
+* **基于模板的数据管道**  
+  转换后的输出可以支持更广泛的工作簿生成和报告工作流。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

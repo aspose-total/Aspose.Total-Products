@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل MBOX إلى WordML يحول أرشيفات صناديق البريد إلى تنسيق مستند Word قائم على XML، مما يتيح تمثيلًا منظمًا ومعالجة قابلة للقراءة آليًا للمحتوى المستمد من البريد الإلكتروني. هذا مفيد عندما تتطلب سير العمل الشفافية أو التخصيص أو التفاعل البرمجي مع بنية المستند.
+
+تجعل واجهات برمجة التطبيقات Python تحويل WordML عمليًا على نطاق واسع من خلال دعم التحويل الآلي، ومعالجة مستوى XML، والتكامل مع الأنظمة التي تتعامل مع بيانات المستندات المهيكلة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تصدير مستند Word القائم على XML**
+  تحويل رسائل البريد الإلكتروني إلى WordML لمعالجة المستندات بشكل منظم وقابل للقراءة آليًا.
+
+* **معالجة المستند المخصصة**
+  تمكين التلاعب منخفض المستوى بالمحتوى المستمد من البريد الإلكتروني باستخدام سير عمل قائم على العلامات.
+
+* **تبادل البيانات القابل للتشغيل البيني**
+  الحفاظ على بيانات صندوق البريد في تنسيق مناسب لأنظمة المستندات المهيكلة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تحويل XML تلقائي**
+  إنشاء مخرجات WordML من أرشيفات MBOX لتدفقات معالجة واعية بالمستندات.
+
+* **سير عمل البيانات المهيكلة**
+  استخدام Python لتفقد أو تعديل أو التحقق من صحة المستندات المحوَّلة من صناديق البريد برمجيًا.
+
+* **تكامل نظام قابل للتوسع**
+  إمداد المستندات XML المستمدة من البريد الإلكتروني إلى أنظمة المحتوى المؤسسية والتحويل.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

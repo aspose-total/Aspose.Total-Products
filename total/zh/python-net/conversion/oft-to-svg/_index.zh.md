@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 OFT 转换为 SVG，可将 Outlook 电子邮件模板转换为可缩放矢量图形，以实现任何尺寸下的清晰视觉渲染。当需要在网页、设计或文档环境中锐利显示模板内容且不失真时，这非常有价值。
+
+此转换尤其适用于自动化系统，这些系统动态生成、显示或嵌入图形。它提升了可移植性、可扩展性，并与现代数字呈现工作流的集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **可扩展的视觉导出**  
+  将 OFT 模板转换为 SVG 文件，以实现跨屏幕和尺寸的分辨率无关渲染。
+
+* **网页和界面嵌入**  
+  在需要灵活视觉资产的门户、仪表板或内容系统中使用 SVG 输出。
+
+* **清晰的图示保留**  
+  以适合现代数字文档的矢量格式呈现模板布局。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **动态图形生成**  
+  自动从 OFT 模板创建 SVG 资产，用于基于网页的呈现系统。
+
+* **可扩展的内容交付**  
+  使用 Python API 在响应式数字环境中分发矢量输出。
+
+* **编程化资产重用**  
+  将生成的 SVG 文件导入文档、出版或界面工作流，而无需手动重新设计。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

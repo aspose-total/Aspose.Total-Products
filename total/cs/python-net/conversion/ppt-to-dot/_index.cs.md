@@ -65,7 +65,47 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Slides for Python via 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT to DOT conversion converts presentations into document template format, making it possible to reuse presentation-derived structure or content in standardized document creation processes. This is helpful when presentation content needs to become part of repeatable document templates for internal or operational use.
+
+Within automation systems, PPT to DOT conversion supports consistency, template reuse, and efficient document generation across departments that rely on structured formatting and repeatable output patterns.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Template Preparation**  
+  Converts presentation material into reusable document templates for recurring content needs.
+
+* **Standardized Formatting**  
+  Helps preserve consistent layout and structure across generated documents.
+
+* **Process Documentation Support**  
+  Uses slide-derived content as the basis for repeatable document frameworks.
+
+* **Legacy Template Workflows**  
+  Supports environments that still depend on older template-based document standards.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Template Generation Pipelines**  
+  Automates conversion from PPT to DOT for standardized document creation workflows.
+
+* **Departmental Document Reuse**  
+  Enables recurring business documents to start from converted template assets.
+
+* **Content-to-Template Transformation**  
+  Uses presentations as input for structured document frameworks in automated systems.
+
+* **Batch Template Creation**  
+  Converts multiple presentations into reusable templates for scaled document operations.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

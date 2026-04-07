@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX to TEXT conversion transformuje archivy poštovních schránek do prostých textových souborů, čímž je obsah e‑mailů lehký, prohledávatelný a snadno zpracovatelný na mnoha systémech. To je ideální pro pracovní postupy zaměřené na extrakci surového obsahu, indexování nebo jednoduché dlouhodobé ukládání.
+
+Pomocí Python API mohou organizace automatizovat převod textu z MBOX souborů a podpořit tak analýzu, vyhledávací pipeline a procesy hromadné normalizace obsahu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Extrahování čistého obsahu**
+  Převádějte e‑maily do textových souborů pro jednoduché čtení a následné zpracování.
+
+* **Připravenost pro vyhledávání a indexování**
+  Připravte data poštovní schránky pro indexování, parsování a workflow textové analytiky.
+
+* **Lehká archivace**
+  Uchovejte obsah zprávy v minimálním formátu, který je snadno uložitelný a přenositelný.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná normalizace textu**
+  Transformujte archivy poštovních schránek do prostého textu pro konzistentní zpracování dat.
+
+* **Integrace vyhledávací pipeline**
+  Zavádějte převedené textové soubory do systémů indexování, vyhledávání nebo klasifikace.
+
+* **Hromadná extrakce obsahu**
+  Použijte Python k zpracování velkých kolekcí MBOX do strukturovaných textových výstupů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل البريد الإلكتروني إلى MD في بايثون يحول محتوى الرسالة إلى Markdown لتوثيق نصي خفيف الوزن، محمول، وصديق للإصدار. وهو ذو قيمة خاصة عندما تحتاج معلومات البريد الإلكتروني إلى إعادة استخدامها في التوثيق، قواعد المعرفة، سير عمل المطورين، أو أنظمة النشر.
+
+هذا التحويل يحسن الأتمتة بجعل محتوى البريد الإلكتروني أسهل في التحليل، التخزين، التحويل، والنشر عبر خطوط أنابيب تركز على النص مع حد أدنى من عبء التنسيق.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **نشر قاعدة المعرفة**
+  تحويل رسائل البريد الإلكتروني إلى Markdown للبوابات الوثائقية والويكيات الداخلية.
+
+* **أرشيفات مُتحكم فيها بالإصدار**
+  حفظ الاتصالات الهامة بصيغة نصية مناسبة لتتبع المستودعات.
+
+* **تبسيط المحتوى**
+  تقليل تنسيق البريد الإلكتروني المعقد إلى ترميز نظيف ومحمول لإعادة الاستخدام.
+
+* **سير عمل يركز على المطورين**
+  استخدام مخرجات Markdown حيث تدير الفرق التقنية المحتوى في أنظمة قائمة على النص.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **أتمتة من البريد إلى الويكي**
+  تحويل رسائل البريد المختارة إلى صفحات Markdown لمنصات المعرفة القابلة للبحث.
+
+* **تحديثات الوثائق المستندة إلى المستودع**
+  إيداع محتوى الرسائل المحوَّل في خطوط أنابيب المحتوى المُصدَّرة بالإصدار تلقائيًا.
+
+* **سير عمل النشر الثابت**
+  إدخال مخرجات بريد Markdown إلى المولدات وأنظمة أتمتة المحتوى.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

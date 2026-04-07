@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование OTT в PPT с помощью Python API преобразует шаблоны текста OpenDocument в файлы презентаций для обмена и коммуникации в виде слайдов. Это полезно, когда тяжёлый по объёму текстовый контент необходимо переупаковать в формат презентации для более широкой доступности и визуального повествования.
+
+Преобразование поддерживает автоматизацию, позволяя многократно создавать презентационные материалы из стандартизированных шаблонов документов, повышая эффективность в отчётности, образовании и рабочих процессах организационной коммуникации.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Создание наборов слайдов**  
+  Преобразует исходные документы в файлы презентаций для обмена.
+
+* **Повторное использование контента**  
+  Повторно использует повествовательный или структурированный текст в визуальных форматах коммуникации.
+
+* **Готовность к встречам**  
+  Помогает быстро превратить содержимое документа в материалы презентации.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Автоматизированные сборки презентаций**  
+  Генерирует PPT‑выводы из повторяющихся OTT‑ориентированных рабочих процессов.
+
+* **Массовая конверсия отчётных документов**  
+  Преобразует наборы документов в формат наборов слайдов для регулярных обновлений.
+
+* **Программная доставка контента**  
+  Поддерживает масштабируемое создание презентаций из шаблонов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

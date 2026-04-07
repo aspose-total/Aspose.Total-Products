@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOTX إلى VCF يحول محتوى قالب Word إلى تنسيق بطاقة اتصال يُستخدم لتخزين ومشاركة معلومات الاتصال الشخصية أو التنظيمية. يكون مفيدًا عندما تحتوي القوالب على تفاصيل اتصال منظمة تحتاج إلى إعادة استخدامها في أنظمة الاتصالات.
+
+باستخدام واجهات برمجة تطبيقات Python، يدعم هذا التحويل الأتمتة من خلال تمكين استخراج جهات الاتصال، وإنشاء دفتر عناوين رقمي، ومزامنة قابلة للتوسع لسجلات جهات الاتصال المستندة إلى المستندات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **استخراج معلومات الاتصال**
+  تحويل تفاصيل الاتصال المنظمة من القوالب إلى بطاقات رقمية قابلة لإعادة الاستخدام.
+
+* **إعداد الدليل**
+  إنشاء سجلات اتصال محمولة من المعلومات المستندة إلى المستندات.
+
+* **تكامل نظام الاتصالات**
+  إعادة استخدام محتوى القالب في دفاتر العناوين وتدفقات مشاركة جهات الاتصال.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء جهات اتصال آلية**
+  إنشاء ملفات VCF من قوالب DOTX لعمليات الانضمام أو إعداد الدليل.
+
+* **تصدير جهات اتصال جماعي**
+  تحويل السجلات المستندة إلى المستندات المتكررة إلى بطاقات اتصال قابلة للمشاركة.
+
+* **تدفقات عمل جهات اتصال متزامنة**
+  إدخال بيانات جهات الاتصال المحولة إلى أنظمة الاتصالات وأنظمة إدارة علاقات العملاء.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

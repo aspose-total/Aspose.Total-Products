@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS 到 WordML 的转换将电子表格内容转换为基于 XML 的文字处理格式，支持结构化文档表示和互操作性。当组织需要与基于 XML 的系统或归档工作流相匹配的文档输出时，这非常有用。
+
+Python API 通过以可重复、系统友好的方式从电子表格输入程序化生成结构化文档文件，使 XLS 到 WordML 的转换在自动化中变得实用。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **基于 XML 的文档输出**
+  将 XLS 数据转换为 WordML 文件，以实现结构化且系统可读的文档工作流。
+
+* **可互操作的内容交换**
+  当文档内容必须与支持 XML 的系统集成时，使用 WordML。
+
+* **结构化归档准备**
+  将电子表格信息转换为适合受控文档存储和转换的格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **程序化 XML 文档生成**
+  使用 Python API 自动从电子表格源创建 WordML 文件。
+
+* **系统集成流水线**
+  将 XLS 到 WordML 的转换添加到需要结构化文档交换的工作流中。
+
+* **可扩展的格式转换**
+  为大型文档集自动化转换，以确保基于 XML 的一致性。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

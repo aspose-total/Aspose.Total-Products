@@ -65,7 +65,46 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+يتيح تحويل CSV إلى DOCM باستخدام واجهات برمجة تطبيقات بايثون تحويل البيانات الجدولية المهيكلة إلى مستندات معالجة نصية مدعومة بالماكرو تدعم تنسيقًا متقدمًا وسلوكًا آليًا مدمجًا.  
+يُعد هذا التحويل ذا قيمة للأنظمة الآلية لأنه يجمع بين تحويل البيانات ومنطق المستند، مما يساعد سير العمل على التوسع مع تقليل التحرير اليدوي وزيادة اتساق العملية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **التقارير المدعومة بالماكرو**  
+  تحويل بيانات CSV إلى ملفات DOCM عندما تتطلب المستندات المُنشأة ميزات أتمتة مدمجة أو إجراءات مُبرمجة.
+
+* **توثيق موجه للعمليات**  
+  إنتاج مستندات DOCM تجمع بين المحتوى المهيكل وسلوك المستند القابل للتكرار.
+
+* **تعبئة البيانات التشغيلية**  
+  تحويل مجموعات بيانات CSV إلى ملفات مدعومة بالماكرو مناسبة لسير عمل الأعمال المُتحكم فيه والمعالجة الداخلية.
+
+* **مستندات أتمتة قابلة لإعادة الاستخدام**  
+  إنشاء مخرجات DOCM قابلة للتكرار من مدخلات مهيكلة للفرق التي تعتمد على روتينات مستندات موحدة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **ملء النماذج تلقائيًا**  
+  استخدام واجهات برمجة تطبيقات بايثون لتحويل بيانات CSV إلى ملفات DOCM تدعم إجراءات المستند المسبقة والمنطق القابل لإعادة الاستخدام.
+
+* **إنتاج المستندات المتكامل مع سير العمل**  
+  إنشاء مخرجات DOCM تلقائيًا كجزء من وظائف المؤسسة، أنظمة التقارير، أو عمليات إدارة المستندات.
+
+* **إنشاء مستندات ماكرو دفعيًا**  
+  تحويل مجموعات كبيرة من ملفات CSV إلى صيغة DOCM لتسليم آلي قابل للتوسع ومتسق.
+
+* **تجميع المحتوى القائم على القواعد**  
+  بناء مستندات DOCM ديناميكيًا من مدخلات CSV مع الحفاظ على بنية جاهزة للأتمتة للمهام اللاحقة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

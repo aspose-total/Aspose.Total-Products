@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل WordML إلى PPSM يحول محتوى المستند إلى ملفات عرض تقديمي مدعومة بالماكرو لتدفقات عمل العروض التي تتطلب تشغيلًا مباشرًا ودعمًا للتشغيل الآلي المدمج. هذا مفيد في البيئات المتخصصة التي تتضمن سلوكًا مبرمجًا للشرائح.
+
+باستخدام واجهات برمجة تطبيقات Python، يتيح تحويل WordML إلى PPSM إعدادًا قابلًا للتوسع لأصول العروض التقديمية من المستندات المهيكلة مع التوافق مع متطلبات العرض التلقائي.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء عرض تقديمي مدعوم بالماكرو**
+  يحوّل محتوى WordML إلى ملفات PPSM لحالات الاستخدام المتقدمة للعرض التقديمي.
+
+* **تدفقات تشغيل تلقائي**
+  يدعم تسليم العروض التقديمية حيث تكون الإجراءات أو المنطق المدمج مطلوبًا.
+
+* **حزم عرض تقديمي متخصصة**
+  يحوّل محتوى المستند إلى أصول جاهزة للعرض مع قدرة على التشغيل الآلي.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل الآلي" %}}
+
+* **إنشاء عرض تقديمي مبرمج**
+  يُؤتمت إنشاء ملفات PPSM من المستندات المصدر المهيكلة.
+
+* **خطوط تسليم مُتحكم فيها**
+  يدعم توزيعًا متكررًا للعروض التقديمية المدعومة بالماكرو.
+
+* **تشغيل آلي من المستند إلى العرض**
+  يربط تحويل المحتوى ببيئات العرض التي تستخدم المنطق المدمج.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -64,7 +64,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML to PPSM conversion transforms document content into macro-enabled slideshow files for presentation workflows that require direct playback and embedded automation support. This is useful in specialized environments with scripted slide behavior.
+
+Using Python APIs, WordML to PPSM conversion enables scalable preparation of slideshow assets from structured documents while aligning with automated presentation requirements.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytvoření prezentace s povolenými makry**
+  Převádí obsah WordML do souborů PPSM pro pokročilé případy použití prezentací.
+
+* **Automatizované pracovní postupy přehrávání**
+  Podporuje doručení prezentace, kde jsou vyžadovány vestavěné akce nebo logika.
+
+* **Specializované balení prezentací**
+  Přeměňuje obsah dokumentu na připravená aktiva s možností automatizace.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Skriptované generování prezentací**
+  Automatizuje vytváření souborů PPSM ze strukturovaných zdrojových dokumentů.
+
+* **Kontrolované distribuční řetězce**
+  Podporuje opakovatelnou distribuci prezentací s povolenými makry.
+
+* **Automatizace převodu dokumentu na prezentaci**
+  Propojuje konverzi obsahu s prostředími prezentací, která používají vestavěnou logiku.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

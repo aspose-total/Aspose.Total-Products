@@ -65,7 +65,44 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX 到 PPSX 的转换能够将文字处理文档转换为针对直接观看进行优化的现代幻灯片演示文件。此过程有助于将叙述性或结构化的文档内容转换为可立即展示的视觉资产。
+
+Python API 使 DOCX 到 PPSX 的转换适用于自动化幻灯片发布、报告系统和会议准备工作流。它支持在无需手动创建幻灯片的情况下进行可扩展的演示生成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **现代幻灯片生成**  
+  将 DOCX 文件转换为可直接观看的幻灯片演示。
+
+* **可直接用于演示的文档转换**  
+  帮助将报告和摘要重新用于视觉沟通资产。
+
+* **会议和简报支持**  
+  实现快速准备以播放为中心的演示材料。
+
+* **跨显示平台的文档复用**  
+  支持将书面内容转换为现代幻灯片格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化演示发布**  
+  系统可以从 DOCX 源创建 PPSX 文件用于展示工作流。
+
+* **批量幻灯片转换**  
+  Python 自动化可以将多个文档转换为可用于幻灯片的文件。
+
+* **可扩展的会议内容准备**  
+  企业团队可以以编程方式将文档内容转换为演示输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

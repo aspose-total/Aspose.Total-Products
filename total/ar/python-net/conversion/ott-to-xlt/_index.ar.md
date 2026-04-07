@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل OTT إلى XLT في واجهات برمجة تطبيقات بايثون يحول قوالب نص OpenDocument إلى ملفات قوالب جداول بيانات تُستخدم لتوحيد إنشاء دفاتر العمل المستقبلية. هذا مفيد عندما يجب أن يصبح محتوى المستند مخططًا جدوليًا قابلًا لإعادة الاستخدام بدلاً من ملف إخراج واحد.
+
+يضيف التحويل قيمة أتمتة من خلال تمكين إنشاء جداول بيانات متسقة من هياكل مدفوعة بالقوالب، مما يقلل من الإعداد المتكرر ويحسن توحيد العمليات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء قالب جدول بيانات**  
+  يحوّل المستندات المصدرية إلى قوالب دفاتر عمل قابلة لإعادة الاستخدام.
+
+* **أطر إدخال بيانات موحدة**  
+  يساعد في تعريف هياكل جداول بيانات قابلة للتكرار للاستخدام المستقبلي.
+
+* **اتساق العملية**  
+  يدعم إنشاء دفاتر عمل موحدة عبر الفرق وسير العمل.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء مكتبة القوالب**  
+  ينتج ملفات XLT من مستندات OTT المعيارية.
+
+* **إعداد دفتر عمل متكرر**  
+  يُؤتمت إعداد أسس جداول البيانات القابلة لإعادة الاستخدام.
+
+* **سير عمل جمع بيانات قابل للتوسع**  
+  يدعم إنشاء دفاتر عمل قابلة للتكرار بهيكل محدد مسبقًا.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

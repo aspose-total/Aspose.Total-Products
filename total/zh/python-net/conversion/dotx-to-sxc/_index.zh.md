@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX 到 SXC 的转换将 Word 模板内容转换为在较旧的开放办公环境中使用的传统电子表格格式。当需要将结构化文档数据导出以兼容早期电子表格生态系统时，这一点尤为重要。
+
+此转换通过提供 Python API，支持自动化，以准备从文档派生的电子表格输出，用于归档、互操作性和系统兼容性工作流。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **传统电子表格兼容性**
+  将文档内容导出为适用于较旧电子表格工具的格式。
+
+* **结构化数据重用**
+  将模板信息转移到需要传统支持的表格工作流中。
+
+* **历史系统集成**
+  支持与仍依赖旧开放格式的环境进行数据交换。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化传统导出**
+  在注重兼容性的流程中，从 DOTX 模板生成 SXC 文件。
+
+* **数据迁移管道**
+  使用转换后的输出，将文档内容桥接到旧的电子表格系统中。
+
+* **归档格式处理**
+  在兼容传统的电子表格资产中保留模板的结构化数据。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

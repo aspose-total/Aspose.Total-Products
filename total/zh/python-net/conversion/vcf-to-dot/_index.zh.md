@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF 到 DOT 的转换将联系人卡信息转换为 Word 模板文件，可作为标准化文档生成的可重复使用的基础。当需要在行政或运营使用中将联系人数据插入可重复的布局时，这非常有价值。
+
+在自动化工作流中，VCF 到 DOT 的转换使基于 Python 的系统能够准备基于联系人的模板，支持一致性、更快的文档创建以及在多种输出场景下的可扩展格式化。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **可重复使用的联系人模板**  
+  将 VCF 数据转换为 DOT 文件，以实现可重复的文档创建。
+
+* **标准化格式**  
+  在团队之间保持联系人驱动文档的一致布局。
+
+* **工作流准备**  
+  将模板输出用作进一步编辑或自动填充的起点。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **模板生成流水线**  
+  自动从联系人记录创建 DOT 模板，以便后续重复使用。
+
+* **一致的文档生成**  
+  将生成的模板输入需要统一联系人格式的更大系统。
+
+* **程序化内容结构化**  
+  使用 Python API 大规模创建可重复的联系人模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

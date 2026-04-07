@@ -65,7 +65,44 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX na FODS konverze převádí dokumenty pro zpracování textu do formátu Flat OpenDocument Spreadsheet, což umožňuje, aby strukturovaná data dokumentu byla reprezentována v otevřeném formátu tabulky. Tento formát je vhodný pro výměnu dat a pracovní postupy s otevřenými dokumenty.
+
+Pomocí Python API lze konverzi DOCX‑to‑FODS automatizovat v systémech, které vyžadují otevřené standardy pro zpracování dokumentů, interoperabilitu a výměnu dat.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Export dat do otevřené tabulky**  
+  Převádí data DOCX dokumentu do otevřených formátů tabulek.
+
+* **Interoperabilní zpracování dokumentů**  
+  Umožňuje kompatibilitu s ekosystémy otevřených dokumentů.
+
+* **Transformace strukturovaných dat**  
+  Umožňuje extrakci informací z dokumentu do souborů tabulek.
+
+* **Migrace dat do otevřených formátů**  
+  Podporuje migraci z proprietárních formátů dokumentů na otevřené standardy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Otevřené datové zpracovatelské řetězce**  
+  DOCX dokumenty mohou být automaticky převáděny do FODS tabulek.
+
+* **Dávková konverze do otevřených formátů**  
+  Python skripty mohou převádět kolekce dokumentů do otevřených souborů tabulek.
+
+* **Interoperabilní podnikové pracovní postupy**  
+  Automatizované systémy mohou exportovat strukturovaná data dokumentů do otevřených formátů tabulek.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

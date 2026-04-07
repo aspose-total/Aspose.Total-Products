@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Excel 到 MOBI 的 Python 转换使得将电子表格内容转换为适合数字阅读环境的电子书友好格式成为可能。当需要将结构化数据重新用于可携带、可阅读的文档以供分发或参考时，这非常有用。
+
+此转换通过启用 Python 工作流将电子表格内容转换为移动友好的出版资产而无需手动重新格式化，从而支持自动化。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **数字出版**  
+  将基于 Excel 的内容转换为 MOBI 文件，以便便携阅读和参考使用。
+
+* **参考材料创建**  
+  将结构化的电子表格信息转换为可阅读的电子书式文档。
+
+* **内容再利用**  
+  在长篇数字分发格式中重新使用业务或教育类电子表格内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化电子书生成**  
+  在出版流水线中使用 Python API 从 Excel 数据生成 MOBI 文件。
+
+* **内容分发工作流**  
+  将基于电子表格的材料转换为移动可读文档，以实现广泛访问。
+
+* **可扩展的格式转换**  
+  以编程方式将结构化数据再利用于数字阅读平台和档案。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

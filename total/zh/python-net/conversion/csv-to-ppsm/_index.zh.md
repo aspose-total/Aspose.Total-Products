@@ -65,7 +65,46 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 CSV 转换为 PPSM，可将结构化表格数据转换为宏启用的幻灯片文件，结合演示交付与自动化导向的行为。  
+此转换对现代工作流非常有价值，因为它支持自动化演示生成，同时保留了交互式或流程驱动用例所需的高级幻灯片功能。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用的幻灯片生成**  
+  将 CSV 数据转换为 PPSM 文件，以满足需要嵌入式自动化支持的幻灯片。
+
+* **交互式演示工作流**  
+  生成将结构化数据与高级行为相结合的幻灯片输出，以适用于受控环境。
+
+* **自动化交付资产**  
+  将 CSV 内容转换为 PPSM 文件，以实现可重复的幻灯片生成和分发。
+
+* **高级数据演示**  
+  使用 CSV 输入构建适用于依赖自动化就绪演示格式的工作流的幻灯片文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化交互式幻灯片**  
+  使用 Python API 从 CSV 数据集生成 PPSM 文件，以支持自动化感知的演示工作流。
+
+* **系统集成的幻灯片制作**  
+  将 CSV 到 PPSM 的转换嵌入报告系统，实现自动生成幻灯片输出。
+
+* **批量宏幻灯片创建**  
+  将大量 CSV 文件转换为 PPSM 格式，保持一致的布局并支持嵌入式功能。
+
+* **规则驱动的演示组装**  
+  通过编程方式根据结构化 CSV 内容和工作流逻辑组合 PPSM 幻灯片。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

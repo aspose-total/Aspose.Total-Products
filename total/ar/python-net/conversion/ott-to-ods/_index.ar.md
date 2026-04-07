@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل OTT إلى ODS في واجهات برمجة تطبيقات بايثون يحول قوالب النصوص OpenDocument إلى مستندات جدولية، مما يساعد على تحويل المواد النصية المصدرية إلى أصول جدولة منظمة للحساب والمراجعة والتبادل. يكون ذلك مفيدًا عندما يجب أن يصبح محتوى المستند بيانات جدولية قابلة للتحرير.
+
+يعزز هذا التحويل الأتمتة من خلال ربط توليد المحتوى القائم على القوالب بسير عمل الجداول، مما يتيح تقارير قابلة للتوسع، ومعالجة، وإعادة استخدام عبر الأنظمة التي تعتمد على البيانات المنظمة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء جدول بيانات**  
+  يحول محتوى القالب إلى مستندات جدول بيانات مفتوحة قابلة للتحرير.
+
+* **إعداد البيانات الجدولية**  
+  ينظم معلومات المستند للفرز والتصفية والتحليل.
+
+* **توافق سير العمل المفتوح**  
+  يدعم البيئات المبنية على معايير مستندات المكتب المفتوح.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تصدير جداول البيانات المتكرر**  
+  ينشئ ملفات ODS من قوالب OTT حسب الطلب أو وفق جدول زمني.
+
+* **خطوط أنابيب من المستند إلى البيانات**  
+  يُغذي المحتوى المحول إلى تدفقات معالجة قائمة على الجداول.
+
+* **تقارير تشغيلية مؤتمتة**  
+  ينتج مخرجات دفتر عمل متسقة من مصادر نصية موحدة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

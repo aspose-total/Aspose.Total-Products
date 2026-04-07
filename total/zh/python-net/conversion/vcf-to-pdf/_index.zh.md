@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF 转 PDF 转换将联系人卡片数据转换为固定布局文档，适合共享、归档，并在各种设备上保持格式。这是以可靠且专业的呈现格式分发联系信息的最实用方式之一。
+
+在自动化工作流中，VCF 转 PDF 转换使 Python API 能够生成安全、一致且可扩展的文档输出，用于报告、合规、数字存储和业务流程集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **便携式联系人文档**  
+  将 VCF 记录转换为 PDF 文件，以实现可靠的查看和共享。
+
+* **归档保存**  
+  以稳定的固定布局格式存储联系信息，以供长期使用。
+
+* **专业分发**  
+  以可直接呈现的文档形式交付格式化的联系数据。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量 PDF 创建**  
+  自动从大量 VCF 文件生成 PDF 文档。
+
+* **合规与存储流水线**  
+  将转换后的 PDF 插入归档、审计或记录保存系统。
+
+* **可扩展的文档交付**  
+  使用 Python API 在自动化工作流中生成标准化的联系人 PDF。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

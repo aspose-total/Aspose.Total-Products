@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOTX إلى MBOX يحول محتوى قالب Word إلى تنسيق أرشيف بريد إلكتروني موجه لصناديق البريد يُستخدم لتخزين مجموعات من الرسائل. يكون مفيدًا عندما يجب حفظ الاتصالات المولدة من القوالب بشكل جماعي لأغراض الاحتفاظ أو عمليات الترحيل.
+
+باستخدام واجهات برمجة تطبيقات Python، يساعد هذا التحويل على أتمتة تعبئة الرسائل، عمليات الأرشفة، وعمليات التخزين طويلة الأمد حيث يصبح محتوى المستندات المهيكلة جزءًا من السجلات القائمة على البريد الإلكتروني.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **أرشفة الرسائل بالجملة**
+  تحويل الاتصالات المدفوعة بالقوالب إلى تنسيقات تخزين على نمط صناديق البريد.
+
+* **إدارة مجموعة البريد الإلكتروني**
+  حفظ رسائل متعددة مُولدة في بنية أرشيفية واحدة.
+
+* **تحضير الترحيل**
+  دعم سير العمل الذي ينقل الاتصالات المستمدة من المستندات إلى أرشيفات البريد.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء أرشيف تلقائي**
+  إنشاء مخرجات MBOX من محتوى البريد الإلكتروني المستند إلى DOTX في وظائف مجدولة.
+
+* **سير عمل الاحتفاظ**
+  تخزين الاتصالات المحولة في أرشيفات مركزية لأغراض الحوكمة.
+
+* **دمج المستند إلى البريد**
+  تجميع مخرجات القوالب المتكررة في مجموعات صناديق بريد برمجيًا.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF 转 EPUB 转换将联系人卡信息转换为可重排的数字出版格式，使内容在以阅读为导向的环境和便携文档工作流中可访问。当需要将联系人数据打包成结构化的数字参考资料时，这非常有用。
+
+使用 Python API，VCF 转 EPUB 转换可以通过将联系人记录转化为便携、组织良好的内容，支持自动化出版流水线，使其易于在各设备上分发和查看。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **数字参考出版**  
+  将联系人数据转换为 EPUB 文件，以实现便携阅读和分发。
+
+* **结构化信息打包**  
+  将联系人记录组织成适合出版的数字内容。
+
+* **跨设备可访问性**  
+  以适用于多种阅读环境的格式提供联系人信息。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化通讯录创建**  
+  从批量 VCF 记录生成 EPUB 文件，以创建便携目录。
+
+* **出版工作流集成**  
+  将转换后的联系人内容输入数字出版流程。
+
+* **可扩展分发流水线**  
+  使用 Python API 高效生成并交付结构化的 EPUB 输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

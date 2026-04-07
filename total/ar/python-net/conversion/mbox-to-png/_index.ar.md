@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل MBOX إلى PNG يحول محتوى صندوق البريد إلى ملفات صور غير مضغوطة، مع الحفاظ على مظهر الرسائل بوضوح قوي واتساق بصري. هذا مفيد للعمليات التي تحتاج إلى رسومات نظيفة للأرشفة أو العرض أو عرض الواجهة.
+
+تمكن واجهات برمجة تطبيقات بايثون من تحويل صندوق البريد إلى PNG تلقائيًا لتقديم عرض عالي الجودة، ومعالجة دفعات منظمة، وتكامل مع الأنظمة التي تستهلك مخرجات مبنية على الصور.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تصوير البريد الإلكتروني بوضوح عالي**
+  تصدير الرسائل كملفات PNG للحصول على عرض بصري دقيق وغير مضغوط.
+
+* **استخدام الواجهة ولوحات التحكم**
+  استخدام صور البريد الإلكتروني المحوّلة في البوابات، وعروض المراقبة، أو أنظمة المراجعة.
+
+* **حفظ الأرشيف الثابت**
+  الحفاظ على تخطيط الرسائل البصري في تنسيق صورة موثوق.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تصدير PNG تلقائي**
+  تحويل مدخلات صندوق البريد إلى صور PNG في عمليات معالجة دفعات.
+
+* **خطوط أنابيب العرض الموجهة للجودة**
+  استخدام بايثون لإنشاء مخرجات بصرية غير مضغوطة من محتوى البريد الإلكتروني المؤرشف.
+
+* **إعداد مراجعة قابل للتوسع**
+  إدخال صور البريد الإلكتروني المحوّلة إلى أنظمة الامتثال أو الدعم أو التوثيق.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

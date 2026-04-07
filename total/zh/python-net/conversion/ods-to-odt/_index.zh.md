@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS 到 ODT 的转换将电子表格文件转换为 OpenDocument 文本文件。这使得结构化的电子表格数据能够以文档格式呈现，同时保持与开放文档标准的兼容性。
+
+使用 Python API，ODS 到 ODT 的转换可以作为数据处理工作流的一部分实现自动化。这实现了可扩展的文档生成、结构化报告以及与开放文档生态系统的集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **开放文档报告**  
+  将电子表格数据集转换为开放标准的文档报告。
+
+* **内容转换**  
+  在文档结构中表示表格化的电子表格数据。
+
+* **数据文档化**  
+  从电子表格信息生成可读的文档。
+
+* **开放格式归档**  
+  将电子表格内容存储在开放文档文本格式中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化开放文档流水线**  
+  Python 脚本自动将电子表格文件转换为 ODT 文档。
+
+* **批量文档生成**  
+  系统将多个电子表格处理为开放文档报告。
+
+* **动态文档系统**  
+  编程工作流从电子表格数据生成文档。
+
+* **与开放文档系统的集成**  
+  自动化流水线保持与开放文档标准的兼容性。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

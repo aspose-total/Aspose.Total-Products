@@ -66,7 +66,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 PPTM 转换为 RTF，可将带宏的演示文稿内容转换为富文本格式，在可移植性与基本文本样式支持之间取得平衡。它适用于需要在系统之间实现广泛兼容性并保持可读文档结构的工作流。
+
+此转换支持自动化，能够将幻灯片内容重新用于轻量级文本文档，便于共享、归档和以编程方式处理。对于寻求最小格式复杂度的互操作输出的组织而言，这是一个实用的选择。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **跨平台文档共享**
+  将演示文稿内容转换为许多文档编辑器支持的文本格式。
+
+* **可读内容归档**
+  将幻灯片信息保存在适合长期存储的轻量级格式中。
+
+* **基本样式文本转换**
+  在简化文档可移植性的同时保留基本格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化文本导出工作流**
+  在可扩展的转换流水线中从演示文稿生成 RTF 文件。
+
+* **文档互操作处理**
+  帮助将转换后的内容在不同编辑环境的系统之间进行传递。
+
+* **归档自动化**
+  支持从演示文稿资产以编程方式生成可移植的文本记录。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -44,7 +44,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci konverze M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod MHTML na DOT v Pythonu umožňuje převést archivovaný webový obsah na soubory šablon Wordu pro opakované vytváření dokumentů. To je užitečné, když je potřeba jednotné rozvržení a převedený obsah bude sloužit jako výchozí bod pro více podobných dokumentů.
+
+Z pohledu automatizace výstup DOT podporuje standardizované workflow založené na šablonách, které snižují ruční formátování a zvyšují konzistenci. Je to výhodné pro organizace, které vytvářejí opakující se dokumenty z materiálu zachyceného z webu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Opakovatelné šablony dokumentů**  
+  Převést obsah MHTML na DOT šablony, které lze znovu použít k vytvoření více konzistentních dokumentů.
+
+* **Standardizované formátování**  
+  Zachovat základní strukturu dokumentů, které vyžadují jednotný styl napříč odděleními nebo týmy.
+
+* **Vytváření záznamů na základě šablon**  
+  Použít převedený webový obsah jako základ pro opakovatelná formuláře, oznámení nebo sady dokumentů.
+
+* **Nastavení provozní dokumentace**  
+  Připravit starší Word šablony z archivovaných webových stránek pro strukturovanou generaci obsahu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Pipelines pro generování šablon**  
+  Automaticky převádět soubory MHTML na DOT šablony pro opakované použití v pracovních postupech dokumentace.
+
+* **Produkce opakujících se dokumentů**  
+  Vytvořit automatizované systémy, které generují nové soubory ze zdrojů webového obsahu založených na šablonách.
+
+* **Procesy konzistence formátování**  
+  Použít Python API k zajištění, že každý vygenerovaný dokument začíná jednotnou strukturou šablony.
+
+* **Integrace starých workflow**  
+  Převést archivovaný webový materiál na DOT soubory pro systémy, které stále závisí na klasických Word šablonách.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

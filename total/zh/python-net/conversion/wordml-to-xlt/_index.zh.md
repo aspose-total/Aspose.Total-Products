@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML 到 XLT 的转换将结构化文档内容转换为电子表格模板文件，这些文件可作为可重复使用的工作簿起始点。当需要基于文档驱动的数据布局或定期报告的标准化电子表格模板时，这非常有用。
+
+Python API 通过自动化模板创建并从结构化源文档生成可重复的电子表格，支持 WordML 到 XLT 的转换。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **工作簿模板创建**
+  将 WordML 内容转换为 XLT 文件，以实现可重复使用的电子表格结构。
+
+* **定期报告标准化**
+  帮助根据文档模式定义一致的工作簿布局。
+
+* **流程一致性**
+  支持从已批准的源内容进行可重复的电子表格编写。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **模板生成工作流**
+  自动化从 WordML 报告、表单或结构化表格创建 XLT。
+
+* **电子表格生产标准化**
+  支持团队使用通用模板创建定期工作簿。
+
+* **文档驱动布局自动化**
+  将结构化文档内容转换为可重复使用的电子表格基础。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

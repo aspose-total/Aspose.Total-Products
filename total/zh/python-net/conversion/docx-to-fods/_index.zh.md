@@ -66,7 +66,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX 到 FODS 的转换将文字处理文档转换为平面 OpenDocument 电子表格格式，使结构化文档数据能够以开放的电子表格格式呈现。该格式适用于数据交换和开放文档工作流。
+
+通过 Python API，DOCX 到 FODS 的转换可以在需要开放标准进行文档处理、互操作性和数据交换的系统中实现自动化。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **开放电子表格数据导出**  
+  将 DOCX 文档数据转换为开放的电子表格格式。
+
+* **可互操作的文档处理**  
+  促进与开放文档生态系统的兼容性。
+
+* **结构化数据转换**  
+  实现将基于文档的信息提取到电子表格文件中。
+
+* **数据迁移到开放格式**  
+  支持将专有文档格式迁移到开放标准。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **开放数据处理流水线**  
+  DOCX 文档可以自动转换为 FODS 电子表格。
+
+* **批量开放格式转换**  
+  Python 脚本可以将文档集合转换为开放的电子表格文件。
+
+* **可互操作的企业工作流**  
+  自动化系统可以将结构化文档数据导出为开放的电子表格格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

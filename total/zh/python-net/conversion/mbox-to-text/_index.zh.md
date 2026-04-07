@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX 转 TEXT 转换将邮箱归档转换为纯文本文件，使电子邮件内容轻量、可搜索，并且易于在多种系统上处理。这非常适合专注于原始内容提取、索引或简单长期存储的工作流。
+
+通过使用 Python API，组织可以自动化将 MBOX 文件转换为文本，以支持分析、搜索流水线和大规模内容规范化过程。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **纯内容提取**
+  将电子邮件转换为文本文件，以便简单阅读和下游处理。
+
+* **搜索和索引准备**
+  准备邮箱数据以进行索引、解析和文本分析工作流。
+
+* **轻量归档**
+  以易于存储和传输的最小格式保留消息内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化文本规范化**
+  将邮箱归档转换为纯文本，以实现一致的数据处理。
+
+* **搜索流水线集成**
+  将转换后的文本文件输入索引、检索或分类系统。
+
+* **批量内容提取**
+  使用 Python 处理大型 MBOX 集合，生成结构化的文本输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

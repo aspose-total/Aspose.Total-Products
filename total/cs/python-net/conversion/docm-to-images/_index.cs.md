@@ -53,7 +53,41 @@ Používáme API [Aspose.Words for Python via .NET](https://products.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to Images conversion převádí makrem povolené dokumenty na vizuální soubory, což usnadňuje náhled, sdílení, archivaci nebo vložení stránek do jiných systémů. Je užitečný, když je nutné zachovat vizuální věrnost dokumentu napříč platformami, které nativně nepodporují editovatelné formáty dokumentů.
+
+V automatizovaných pracovních postupech podporuje převod DOCM na obrázky pipeline pro vykreslování dokumentů, generování miniatur, vizuální revizní systémy a škálovatelné publikační procesy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vizuální náhled dokumentu**
+  Převádí stránky na soubory obrázků, které lze snadno zobrazit v prohlížečích a aplikacích.
+
+* **Sdílení obsahu**
+  Umožňuje rychlé šíření snímků dokumentu, kde editovatelnost není vyžadována.
+
+* **Archivní věrnost**
+  Zachovává vizuální vzhled původního dokumentu pro referenci a soulad s předpisy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Generování miniatur a náhledů**
+  Automaticky vytváří obrázky pro galerie dokumentů, výpisy nebo portály.
+
+* **Publikační pipeline**
+  Podporuje vizuální export pro webové stránky, znalostní báze a prohlížeče dokumentů.
+
+* **Dávkové vykreslovací pracovní postupy**
+  Zpracovává velké množství souborů DOCM na výstupy obrázků bez ručního zásahu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

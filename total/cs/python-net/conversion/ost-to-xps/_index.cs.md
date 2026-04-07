@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod OST na XPS transformuje obsah poštovní schránky do formátu dokumentu s pevně daným rozložením, určeného pro konzistentní prohlížení a tisk. Je užitečný pro zachování e‑mailových záznamů ve stabilní vizuální struktuře, která zůstává beze změny napříč zařízeními a pracovními postupy.
+
+S pomocí Python API lze převod OST na XPS automatizovat a podpořit tak podnikové archivování, přípravu tisku a standardizovanou distribuci dokumentů. To pomáhá zlepšit opakovatelnost, konzistenci výstupu a kompatibilitu se systémy zpracování pevně daných rozložení.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Zachování záznamů s pevně daným rozložením**  
+  Převádí obsah poštovní schránky do XPS pro konzistentní vykreslování a archivaci.
+
+* **Stabilní distribuce dokumentů**  
+  Umožňuje sdílení souborů odvozených z e‑mailů bez změn rozložení napříč prostředími.
+
+* **Podpora pracovních postupů orientovaných na tisk**  
+  Pomáhá připravit záznamy poštovní schránky pro spolehlivé prohlížení a výstup.
+
+* **Strukturovaná vizuální dokumentace**  
+  Zachovává obsah komunikace v kontrolovaném formátu prezentace dokumentu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Převodní pipeline s pevně daným rozložením**  
+  Python automatizace převádí data OST do XPS pro škálovatelné archivní pracovní postupy.
+
+* **Standardizovaná generace výstupu**  
+  Automatizované systémy vytvářejí konzistentní dokumenty odvozené z poštovní schránky pro revizi a tisk.
+
+* **Podnikové distribuční procesy**  
+  Programový převod podporuje spolehlivé doručování záznamů komunikace ve fixním formátu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

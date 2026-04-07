@@ -46,7 +46,44 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将文本转换为 MSG 的过程会将纯文本转化为结构化的消息文件，这类文件常用于电子邮件存储和桌面消息工作流。对于需要可移植消息对象以进行归档、处理或与以电子邮件为中心的系统集成的组织而言，这一点尤为重要。
+
+从自动化的角度来看，将文本转换为 MSG 格式有助于标准化通信资产、简化基于文件的消息生成，并支持用于报告、通知和数字记录保存的可重复工作流。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **结构化消息文件创建**  
+  将纯文本转换为 MSG 文件，以实现有序的电子邮件式存储。
+
+* **通信记录管理**  
+  帮助将文本通信保存为独立的消息文档。
+
+* **基于工作流的消息输出**  
+  支持从系统生成的文本自动创建消息文件。
+
+* **运营报告分发**  
+  使报告和更新能够打包为结构化的消息资产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **系统生成的消息文件**  
+  应用程序可以将文本输出转换为 MSG 文件，以供下游处理。
+
+* **自动化归档工作流**  
+  文本记录可以保存为消息文件，以便索引和保留。
+
+* **基于文件的通知管道**  
+  编程工作流可以大规模地从动态文本内容生成 MSG 资产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

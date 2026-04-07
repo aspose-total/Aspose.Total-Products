@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu E
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod e‑mailu do DOC v Pythonu umožňuje převést obsah zprávy na editovatelné dokumenty kompatibilní s Wordem pro revizi, formátování a opětovné využití. To je cenné, když je potřeba, aby e‑mailová komunikace byla součástí zpráv, návrhů nebo provozní dokumentace.
+
+Proces zlepšuje automatizaci tím, že transformuje data z doručené pošty do strukturovaných dokumentů, které lze upravovat, verzovat a směrovat skrze systémy správy obsahu nebo schvalování v rozsahu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Editovatelné záznamy komunikace**  
+  Převádějte e‑maily do souborů DOC, aby týmy mohly upravovat a znovu využívat obsah zpráv.
+
+* **Příprava obchodní dokumentace**  
+  Vkládejte obsah e‑mailů do formálních dokumentů pro projektové, právní nebo administrativní účely.
+
+* **Zachycení znalostí**  
+  Uchovávejte důležité e‑mailové diskuse ve formátu vhodném pro úložiště dokumentů.
+
+* **Spolupráce při úpravách**  
+  Umožněte týmům anotovat a aktualizovat převedený e‑mailový obsah v dobře známých textových editorech.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Pipelines z doručené pošty do dokumentu**  
+  Automaticky převádějte vybrané e‑maily do souborů DOC pro následné pracovní postupy úprav.
+
+* **Sestavování spisových souborů**  
+  Sloučte převedené e‑mailové dokumenty do širších souborů případové nebo projektové dokumentace.
+
+* **Automatizace opětovného využití obsahu**  
+  Extrahujte a přetvořte e‑mailové příběhy do šablon, souhrnů nebo interních záznamů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

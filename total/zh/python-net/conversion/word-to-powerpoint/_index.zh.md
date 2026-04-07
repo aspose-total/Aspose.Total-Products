@@ -65,7 +65,47 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 的 Word 转 PowerPoint 转换将文字处理文档转换为适用于会议、摘要和可视化沟通的演示文件。当需要将详细的书面材料改编为基于幻灯片的格式，以实现更清晰的呈现和利益相关者参与时，这非常有价值。
+
+在以自动化为重点的环境中，此转换通过实现从文档程序化生成演示文稿，简化内容再利用，提高报告和沟通工作流的速度、一致性和可扩展性。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **文档转幻灯片转换**
+  将叙事内容转换为可视化交付的演示就绪结构。
+
+* **会议和简报准备**
+  帮助将报告和笔记转化为可共享的幻灯片演示文稿。
+
+* **执行摘要生成**
+  支持对关键文档洞察进行简明呈现，以辅助决策。
+
+* **跨渠道内容复用**
+  通过将现有文档改编为演示用途，提升其价值。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自动化幻灯片创建**
+  在常规报告流程中，从 Word 文档生成演示文件。
+
+* **批量简报制作**
+  将多个源文件转换为演示输出，以用于定期会议。
+
+* **工作流触发的演示输出**
+  当文档达到批准或发布阶段时，自动创建幻灯片。
+
+* **跨团队内容分发**
+  使用演示输出支持跨部门的一致沟通。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

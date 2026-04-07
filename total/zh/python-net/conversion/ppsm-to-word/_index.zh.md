@@ -66,7 +66,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python 中的 PPSM 到 Word 转换可以将启用宏的幻灯片内容转换为适合编辑、协作和长篇复用的文字处理文档格式。当演示内容需要超越幻灯片，进入文档驱动的沟通和文档工作流时，这非常有用。
+
+在自动化环境中，PPSM 到 Word 的转换提升了内容可访问性，支持可重复的发布流程，并实现了大规模将演示材料转化为可编辑文本资产。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **叙事内容转换**  
+  将幻灯片内容转换为更适合细致阅读和编辑的文档格式。
+
+* **协作支持**  
+  使基于演示的材料在面向文本的工作流中更易于审阅和修改。
+
+* **文档复用**  
+  支持将幻灯片套件转化为知识资产、摘要或正式文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化文档生成**  
+  Python API 可以将 PPSM 文件转换为兼容 Word 的输出，以实现一致的工作流执行。
+
+* **内容发布流水线**  
+  转换支持将演示资产自动化地迁移到文档审阅和发布阶段。
+
+* **企业内容重构**  
+  编程处理能够大规模地将幻灯片库重新利用为可编辑文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

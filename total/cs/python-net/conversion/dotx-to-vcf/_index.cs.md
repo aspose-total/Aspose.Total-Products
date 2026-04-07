@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX na VCF převod transformuje obsah šablony Wordu do formátu vizitky, který se používá pro ukládání a sdílení osobních nebo organizačních kontaktních informací. Je užitečný, když šablony obsahují strukturované kontaktní údaje, které je třeba znovu použít v komunikačních systémech.
+
+Pomocí Python API tento převod podporuje automatizaci tím, že umožňuje extrakci kontaktů, generování digitálního adresáře a škálovatelnou synchronizaci kontaktních záznamů založených na dokumentech.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Extrahování kontaktních informací**
+  Převést strukturované kontaktní údaje ze šablon do znovu použitelných digitálních karet.
+
+* **Příprava adresáře**
+  Vytvořit přenosné kontaktní záznamy z informací založených na dokumentech.
+
+* **Integrace komunikačních systémů**
+  Znovu použít obsah šablony v adresářích a pracovních postupech sdílení kontaktů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované generování kontaktů**
+  Vytvořit VCF soubory ze šablon DOTX pro onboarding nebo procesy adresáře.
+
+* **Hromadný export kontaktů**
+  Převést opakované záznamy založené na dokumentech do sdílených kontaktních karet.
+
+* **Synchronizované pracovní postupy kontaktů**
+  Zavést převedená kontaktní data do komunikačních a CRM souvisejících systémů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

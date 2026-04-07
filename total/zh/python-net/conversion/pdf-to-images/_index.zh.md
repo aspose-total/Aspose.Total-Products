@@ -53,7 +53,47 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 PDF 转换为图像，使得可以将文档页面渲染为图像文件，以便预览、共享、可视化归档以及后续基于图像的处理。当文档内容必须在图像格式更易于分发或嵌入的环境中显示时，这非常有用。
+
+自动化通过实现快速页面渲染、批量转换以及与缩略图、预览或文档审阅系统等可视化工作流的集成，提升了此过程的效率。它支持在数字平台上可扩展地处理文档内容。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **页面预览生成**  
+  将 PDF 页面转换为图像，以在 Web 和移动应用中提供可视化预览。
+
+* **文档归档**  
+  将文档页面存储为图像资产，以实现快速访问和可视化参考。
+
+* **内容共享**  
+  使用图像输出进行演示、沟通或嵌入式文档快照。
+
+* **可视化处理工作流**  
+  将 PDF 页面准备为图像输入，用于分析、标注或识别系统。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **缩略图创建流水线**  
+  Python 自动化可以实时从上传的 PDF 生成图像预览。
+
+* **批量页面渲染**  
+  大型 PDF 集合可通过计划工作流转换为图像集。
+
+* **文档查看器集成**  
+  系统可以为文档浏览界面按需生成图像输出。
+
+* **动态媒体分发**  
+  自动化服务能够高效地在内容平台之间分发 PDF 派生的图像。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 的 PDF 转 Email 转换使组织能够将静态 PDF 文档转换为可用于通信、归档和工作流交付的邮件就绪内容。此过程帮助团队在对可访问性、可读性和分发速度有高要求的消息环境中重复使用基于文档的信息。
+
+通过自动化 PDF 转 Email 转换，企业可以简化通知、报告、客户外联以及基于文档的通信流水线。它通过减少手动格式化工作并使文档内容高效进入现代自动化系统，支持可扩展的工作流。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **基于文档的通知**  
+  将 PDF 内容转换为电子邮件，以快速发送报告、警报或摘要。
+
+* **工作流通信**  
+  在审批链、内部更新和服务通信中使用转换后的电子邮件内容。
+
+* **数字内容再利用**  
+  在电子邮件渠道中重复使用基于 PDF 的信息，而无需手动重新创建内容。
+
+* **客户文档交付**  
+  以更易访问的电子邮件格式发送发票、对账单和信息文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化报告分发**  
+  计划系统可以将 PDF 报告转换为电子邮件，并自动发送给相关方。
+
+* **触发式通知流水线**  
+  业务事件可以触发 PDF 转 Email 转换，实现即时的外发通信。
+
+* **文档路由工作流**  
+  转换后的电子邮件内容可以动态路由到团队、部门或客户。
+
+* **大规模消息运营**  
+  基于 Python 的自动化可以高效处理大量 PDF 文件，生成邮件就绪的输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

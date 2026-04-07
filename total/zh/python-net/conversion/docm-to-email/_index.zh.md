@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM 转 EMAIL 转换为宏启用的文档内容在面向电子邮件的工作流中使用做好准备，使将文档信息转换为可直接发送的邮件输出更加简便。这对于通知、摘要、审批或由文档内容驱动的沟通流程非常有用。
+
+在现代自动化系统中，DOCM 转 EMAIL 转换帮助将已编写的文档与通信管道衔接，实现可扩展的分发、模板化消息以及工作流触发的通信。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **基于文档的通知**
+  将文档内容转换为可直接发送的邮件材料，用于运营沟通。
+
+* **审批工作流**
+  支持与审阅者和利益相关者共享文档衍生的摘要。
+
+* **在消息中的内容复用**
+  使在通信渠道中重新利用正式文档文本更加简便。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **触发的消息生成**
+  当新 DOCM 文件进入工作流时，自动生成邮件内容。
+
+* **文档到通信管道**
+  将已编写的内容与自动化的外发消息系统连接。
+
+* **可扩展的分发流程**
+  实现一次性批量创建来自大量文档的可发送输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

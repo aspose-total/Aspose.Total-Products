@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل OTT إلى MBOX في واجهات برمجة تطبيقات بايثون يحول قوالب نص OpenDocument إلى تنسيق أرشيف صندوق البريد لتخزين مجموعات من الرسائل على نمط البريد الإلكتروني. هذا مفيد عندما تحتاج الاتصالات المولدة إلى التجميع أو النقل أو الاحتفاظ بها في بنية متوافقة مع صندوق البريد.
+
+يدعم التحويل الأتمتة من خلال تمكين توليد الرسائل المستندة إلى المستندات للانتقال مباشرةً إلى خطوط الأرشفة والهجرة التي تعتمد على تخزين على نمط صندوق البريد للتوسع والتنظيم.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إعداد أرشيف صندوق البريد**  
+  ينتج محتوى الرسائل المناسب لتخزين البريد الإلكتروني المجمع.
+
+* **حفظ سجلات التواصل**  
+  يحافظ على المحتوى المولد في تنسيق صندوق بريد قابل للنقل.
+
+* **تعبئة الرسائل بالجملة**  
+  يساعد في تنظيم رسائل متعددة مُولدة للنقل أو الاستيعاب.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء أرشيف بريد آلي**  
+  يحول الاتصالات المدفوعة بالقوالب إلى حاويات MBOX.
+
+* **دعم سير عمل الهجرة**  
+  يجهز الرسائل المستمدة من المستندات لعمليات استيراد صندوق البريد.
+
+* **خطوط احتفاظ الدُفعات**  
+  يخزن الرسائل المولدة المتكررة للاستخدام في الامتثال أو التدقيق.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

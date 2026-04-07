@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OST 到 WordML 的转换将邮箱内容转换为基于 XML 的文字处理标记，实现对邮件衍生文档的结构化和机器可读表示。这对于需要透明文档结构和标记层级互操作性的系统非常有用。
+
+Python API 允许将 OST 到 WordML 的转换自动化，以满足高级处理场景，包括转换、验证以及与以 XML 为中心的系统集成。这提升了结构化文档工作流的灵活性和可控性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **结构化文档标记**  
+  将邮箱数据转换为 WordML，以实现基于 XML 的文档表示。
+
+* **机器可读内容处理**  
+  支持需要可检查和可转换文档标记的工作流。
+
+* **可互操作处理**  
+  帮助将邮件衍生内容与结构化内容系统和工具集成。
+
+* **高级文档转换**  
+  在标记驱动的环境中实现对转换内容的细粒度控制。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **XML 工作流自动化**  
+  Python 脚本将 OST 档案转换为 WordML，以用于结构化处理管道。
+
+* **内容转换流程**  
+  自动化系统操作邮箱衍生的标记，以实现集成和重用。
+
+* **验证与交换管道**  
+  编程式转换支持大规模的结构化文档交换。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

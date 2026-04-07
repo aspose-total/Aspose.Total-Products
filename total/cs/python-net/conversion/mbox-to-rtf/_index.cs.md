@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod MBOX na RTF převádí archivy poštovních schránek do dokumentů ve formátu rich text, zachovává formátovaný e‑mailový obsah v editovatelném a široce čitelném formátu. To je užitečné, když organizace potřebují rovnováhu mezi zachováním stylování, přenositelností a flexibilitou dokumentu.
+
+S Python API lze převod MBOX na RTF automatizovat, aby se zjednodušilo opětovné využití obsahu, podpořily pracovní postupy reportování a vytvořily přístupné výstupy dokumentů z archivovaných e‑mailových dat.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Zachování formátovaného e‑mailu**
+  Převádějte zprávy do souborů RTF a zachovávejte čitelnou strukturu formátovaného textu.
+
+* **Export editovatelného dokumentu**
+  Umožněte snadnější úpravy, anotace nebo opětovné využití obsahu poštovní schránky v pracovních postupech s dokumenty.
+
+* **Přenosné sdílení textu**
+  Použijte široce podporovaný formát pro výměnu převedeného e‑mailového obsahu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaný výstup formátovaného textu**
+  Přeměňujte soubory MBOX na dokumenty RTF v dávkových pipelinech.
+
+* **Pracovní postupy opětovného využití obsahu**
+  Zahrňte převedené soubory formátovaného textu do procesů reportování, editace nebo revize.
+
+* **Programové formátovací pipeline**
+  Použijte Python k efektivnímu škálování strukturované konverze e‑mailu na dokument.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

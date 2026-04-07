@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOT إلى XLT يحول قوالب المستندات إلى ملفات قوالب جداول بيانات يمكن إعادة استخدامها لإنشاء دفاتر عمل متسقة. هذا مفيد عندما يجب أن يكون محتوى المستند المهيكل أساسًا قابلاً للتكرار لتدفقات عمل جداول البيانات.
+
+باستخدام واجهات برمجة تطبيقات بايثون، يمكن أتمتة إنشاء قوالب XLT من مصادر DOT لتحسين التوحيد وتقليل الجهد المتكرر في تصميم دفاتر العمل.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء قالب جدول بيانات قابل لإعادة الاستخدام**
+  تحويل ملفات DOT إلى قوالب XLT لتوليد دفاتر عمل متكررة.
+
+* **تخطيطات بيانات متسقة**
+  تحويل هياكل المستندات إلى قوالب جداول بيانات تحافظ على التنسيق والتنظيم.
+
+* **توحيد العمليات**
+  دعم إنشاء جداول بيانات قابل للتكرار من قوالب المستندات المدارة مركزيًا.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **نشر القوالب المؤتمت**
+  يمكن لسكربتات بايثون إنشاء ملفات XLT من مستندات DOT للاستخدام التشغيلي المتكرر.
+
+* **خطوط أنابيب دفاتر العمل القياسية**
+  يدعم التحويل الأنظمة التي تحتاج إلى قوالب جداول بيانات متسقة على نطاق واسع.
+
+* **إنشاء قوالب بالجملة**
+  تساعد العمليات البرمجية في بناء مكتبات كبيرة من قوالب دفاتر العمل القابلة لإعادة الاستخدام.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

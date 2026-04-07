@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT to PST conversion transforms document content into a mailbox-oriented storage format used for bundled communication and archival scenarios. This is helpful when source text needs to be repurposed into message-related containers for migration, storage, or records management.
+
+S Python API lze převod ODT do PST integrovat do automatizovaných archivních a balicích pracovních postupů. Podporuje opakovatelnou přípravu aktiv odvozených z dokumentů pro repozitáře zaměřené na komunikaci.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Příprava archivního kontejneru**  
+  Převádí obsah dokumentu pro použití v archivních pracovních postupech ve stylu poštovní schránky.
+
+* **Podpora migrace obsahu**  
+  Pomáhá přesunout materiál odvozený z dokumentu do úložišť orientovaných na zprávy.
+
+* **Konsolidace záznamů**  
+  Podporuje sloučení převedeného obsahu do strukturovaných archivních kontejnerů.
+
+* **Umožnění pracovního postupu uchovávání**  
+  Připravuje výstupy vhodné pro procesy dlouhodobé archivace.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované balení archivu**  
+  Python úlohy mohou převádět soubory ODT na výstupy orientované na PST pro úložné pracovní postupy.
+
+* **Hromadný převod pro uchovávání**  
+  Velké knihovny dokumentů lze automaticky zpracovat pro archivní přípravu.
+
+* **Integrace migračního potrubí**  
+  Převedené výstupy lze generovat jako součást širších přechodů komunikačních systémů.
+
+* **Programové zpracování záznamů**  
+  Obsah odvozený z dokumentu může být v rozsahu zpracováván opakovatelnými archivními procesy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

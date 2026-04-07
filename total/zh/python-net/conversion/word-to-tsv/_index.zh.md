@@ -66,7 +66,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 的 Word 转 TSV 转换将文字处理内容转换为制表符分隔值，以实现结构化文本数据交换。当需要以简单、可移植的格式导出文档衍生信息且不依赖逗号来保持分隔时，这非常有用。
+
+在自动化场景中，TSV 转换支持可扩展的数据处理，尤其是在导入、脚本编写或与处理结构化纯文本的系统进行互操作时，制表符分隔的输出更受青睐。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **结构化文本导出**
+  将文档内容转换为制表符分隔的输出，以实现清晰的数据交换。
+
+* **数据导入准备**
+  使提取的信息更容易加载到支持 TSV 输入的工具中。
+
+* **脚本友好处理**
+  支持轻量级的基于文本的工作流，用于解析和转换。
+
+* **逗号分隔的替代方案**
+  当导出的值可能包含逗号时，有助于保持清晰度。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化分隔文件创建**
+  从 Word 文件生成 TSV 输出，用于日常的导入和处理任务。
+
+* **批量数据提取**
+  将文档集合批量转换为结构化的制表符分隔文件。
+
+* **管道友好交换**
+  在脚本、验证例程和下游自动化中使用 TSV 输出。
+
+* **档案现代化工作流**
+  将旧版文档内容转化为可访问的结构化文本，以便更广泛的再利用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

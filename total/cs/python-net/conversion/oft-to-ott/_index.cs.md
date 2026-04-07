@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OFT na OTT konverze pomocí Python API umožňuje převádět šablony e‑mailů Outlook na otevřené textové šablony dokumentů pro opakovaně použitelné a standardně založené generování dokumentů. To je užitečné, když organizace chtějí proměnit komunikační obsah na opakovatelná šablonová aktiva v otevřených ekosystémech.
+
+Automatizací konverze OFT na OTT mohou týmy podpořit škálovatelné vytváření šablon, podpořit interoperabilitu a zjednodušit standardizaci dokumentů. Posiluje opětovné využití obsahu napříč otevřenými a automatizovanými pracovními postupy dokumentů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření otevřených šablon**  
+  Převést obsah OFT na soubory OTT pro opakovaně použitelné šablony dokumentů v otevřených pracovních postupech.
+
+* **Standardizace obsahu založená na šablonách**  
+  Vytvářet konzistentní struktury dokumentů z materiálu šablon pocházejícího z e‑mailu.
+
+* **Interoperabilní příprava dokumentů**  
+  Připravit opakovaně použitelné šablony, které lze sdílet napříč systémy podporujícími otevřené standardy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované generování šablon**  
+  Vytvářet OTT šablony ze souborů OFT pro opakované procesy tvorby dokumentů.
+
+* **Integrace do otevřených pracovních postupů**  
+  Vkládat převedené soubory šablon do systémů, které se spoléhají na otevřené standardy dokumentů.
+
+* **Škálovatelné pipeline pro opakovaně použitelný obsah**  
+  Programově spravovat a distribuovat šablonová aktiva napříč týmy a projekty.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

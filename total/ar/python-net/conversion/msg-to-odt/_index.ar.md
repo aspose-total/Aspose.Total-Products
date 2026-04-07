@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل MSG إلى ODT يغيّر ملفات رسائل البريد الإلكتروني إلى تنسيق نص مستند مفتوح لتعامل مستندات قابل للتحرير ومعتمد على المعايير. وهو مفيد عندما تحتاج المؤسسات إلى وصول مرن للمستندات وتوافق عبر بيئات الإنتاجية المفتوحة.
+
+في سياق سير عمل الأتمتة، يدعم تحويل MSG إلى ODT توحيد المستندات، إنشاء أرشيف قابل للتحرير، والتكامل مع أنظمة معالجة المستندات المفتوحة. يتيح إدارة مستندات قابلة للتوسع والنقل من مصادر البريد الإلكتروني.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **توثيق معيار مفتوح**  
+  احفظ محتوى البريد الإلكتروني بتنسيق قابل للتحرير يعتمد على معايير المستند المفتوح.
+
+* **تحرير عبر المنصات**  
+  شارك الملفات المحوّلة عبر الأنظمة التي تدعم المستندات النصية المفتوحة.
+
+* **إدارة سجلات قابلة للوصول**  
+  خزن المحتوى المستمد من الرسائل بصيغة مستند مرنة ومحمولة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تحويل تلقائي إلى تنسيق مفتوح**  
+  حوّل ملفات MSG إلى مستندات ODT للمعالجة المعيارية.
+
+* **سير عمل أرشيف قابل للتحرير**  
+  أنشئ مستودعات قابلة للبحث والتحرير من اتصالات البريد الإلكتروني.
+
+* **خطوط أنابيب التفاعل بين المستندات**  
+  انقل الملفات المحوّلة عبر الأنظمة التي تعطي الأولوية للتنسيقات المفتوحة والقابلية للنقل.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

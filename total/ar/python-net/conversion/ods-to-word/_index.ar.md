@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ODS إلى WORD يتيح تحويل ملفات الجداول إلى مستندات معالجة نصية مناسبة للتحرير والتوثيق. يسمح هذا العملية بدمج بيانات الجداول في سير عمل المستندات وأنظمة التقارير.
+
+توفر واجهات برمجة التطبيقات المستندة إلى Python قدرات برمجية لأتمتة تحويل الجداول إلى مستندات. يتيح ذلك خطوط أنابيب مستندات قابلة للتوسع، وتقارير آلية، وسير عمل إدارة مستندات فعال.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تقارير تحويل الجداول إلى مستند**  
+  تحويل مجموعات بيانات الجداول إلى مستندات معالجة نصية للتقارير.
+
+* **إنشاء الوثائق**  
+  تحويل بيانات الجداول إلى مستندات منظمة.
+
+* **عرض البيانات**  
+  عرض محتوى الجداول في تنسيقات مستندات قابلة للقراءة.
+
+* **ترحيل المحتوى**  
+  تحويل أرشيف الجداول إلى صيغ مستندات قابلة للتحرير.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط تقارير آلية**  
+  تقوم سير عمل Python بتحويل بيانات الجداول إلى مستندات تلقائيًا.
+
+* **معالجة مستندات دفعة**  
+  تقوم الأنظمة بمعالجة جداول متعددة وتوليد مخرجات مستندات.
+
+* **إنشاء مستندات ديناميكي**  
+  تملأ مدخلات الجداول المستندات المنظمة بشكل ديناميكي.
+
+* **تكامل سير عمل المؤسسة**  
+  تدمج أنظمة التحويل مع بنى تحتية لإدارة المستندات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

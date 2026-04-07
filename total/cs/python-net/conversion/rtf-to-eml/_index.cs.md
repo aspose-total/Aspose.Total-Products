@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu R
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF na EML převod transformuje dokumenty ve formátu Rich Text do standardních souborů e‑mailových zpráv, které lze uložit, sdílet, importovat nebo archivovat v kompatibilních poštovních systémech. To je užitečné, když je potřeba, aby obsah dokumentu se stal přenosným e‑mailovým artefaktem se strukturou zprávy.
+
+Pro automatizaci umožňuje RTF na EML generování e‑mailů řízených dokumenty, archivaci zpráv a opakovatelné komunikační pracovní toky, kde jsou pro výměnu nebo dlouhodobé uchování vyžadovány strukturované soubory e‑mailů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření přenosných e‑mailů**  
+  Převádí obsah dokumentu na samostatné e‑mailové soubory pro sdílení nebo import.
+
+* **Archivace komunikace**  
+  Podporuje zachování zpráv založených na dokumentech v rozpoznávaném e‑mailovém formátu.
+
+* **Standardizace pracovních toků zpráv**  
+  Pomáhá týmům generovat konzistentní e‑mailové výstupy z připraveného RTF obsahu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná generace souborů zpráv**  
+  Systémy mohou převádět RTF dokumenty na EML soubory jako součást komunikačních pipeline.
+
+* **Příprava archivace e‑mailů**  
+  Dávkové procesy mohou transformovat textový obsah na soubory zpráv pro uchování a soulad s předpisy.
+
+* **Mezi‑platformní výměna zpráv**  
+  Programatický převod pomáhá přesunout komunikaci založenou na dokumentech do e‑mailových ekosystémů bez ručního přetvoření.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

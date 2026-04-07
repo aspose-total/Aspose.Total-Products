@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل MBOX إلى GIF يحول محتوى صندوق البريد إلى ملفات صور خفيفة الوزن يسهل معاينتها ومشاركتها وتضمينها في سير العمل البصري. هذا مفيد عندما تحتاج رسائل البريد الإلكتروني إلى تمثيلها كرسومات مدمجة للتقارير أو الأرشفة أو الرجوع السريع.
+
+من خلال واجهات برمجة تطبيقات Python، يمكن للمؤسسات أتمتة تحويل GIF لتصوير صناديق البريد على دفعات، تحسين قابلية نقل المخرجات، وتبسيط التكامل مع الأنظمة التي تتعامل مع سجلات مبنية على الصور.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تصدير البريد الإلكتروني بصريًا مدمج**  
+  تحويل الرسائل إلى ملفات GIF خفيفة الوزن للعرض والمشاركة السهلة.
+
+* **معاينة وأصول التقارير**  
+  استخدام مخرجات الصور في لوحات التحكم، الملخصات، أو الوثائق البصرية الداخلية.
+
+* **حفظ الرسائل الثابتة**  
+  الحفاظ على مظهر محتوى البريد الإلكتروني في تنسيق رسومي غير قابل للتحرير.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تصيير الصور على دفعات**  
+  تحويل رسائل صندوق البريد تلقائيًا إلى ملفات GIF لتوليد مخرجات بصرية سريعة.
+
+* **دعم سير العمل المدمج**  
+  إدراج الرسوم البيانية للبريد الإلكتروني المحوَّلة في التقارير أو البوابات أو أنظمة المراقبة.
+
+* **تصدير الأرشيف المدفوع بـ Python**  
+  توسيع تحويل صندوق البريد القائم على الصور باستخدام قواعد معالجة برمجية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

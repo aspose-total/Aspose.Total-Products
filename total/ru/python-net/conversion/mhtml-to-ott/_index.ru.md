@@ -44,7 +44,47 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF WORDML Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MHTML to OTT conversion in Python converts archived web content into OpenDocument text templates for repeatable and standardized document creation. It is a practical choice when organizations want reusable template files based on web-captured content while keeping compatibility with open document standards.
+
+Для автоматизации OTT поддерживает масштабируемые рабочие процессы, основанные на шаблонах, которые снижают повторяющиеся настройки и повышают согласованность. Это помогает преобразовать статические веб‑архивы в переиспользуемые ресурсы для регулярного создания документов в открытых экосистемах.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Создание открытых шаблонов**  
+  Преобразуйте файлы MHTML в OTT‑шаблоны для повторного создания документов с согласованной структурой.
+
+* **Переиспользуемые макеты контента**  
+  Создавайте стандартизированные шаблонные структуры из сохранённых веб‑страниц для будущего производства документов.
+
+* **Рабочие процессы открытых стандартов**  
+  Поддерживайте среды, требующие повторного использования шаблонов без зависимости от закрытых форматов документов.
+
+* **Структурированное распределение контента**  
+  Подготовьте ресурсы на основе шаблонов для отделов, создающих повторяющиеся документы открытого формата.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Конвейеры предоставления шаблонов**  
+  Автоматически генерируйте OTT‑шаблоны из источников MHTML для повторного использования в системах документации.
+
+* **Масштабируемое создание открытых документов**  
+  Используйте преобразованные шаблоны для упрощения регулярного создания документов в нейтральных к платформе инструментах.
+
+* **Пакетная структуризация контента**  
+  Преобразуйте несколько архивированных веб‑файлов в переиспользуемые открытые шаблоны с помощью автоматизации на Python.
+
+* **Последовательные рабочие процессы публикации**  
+  Интегрируйте выводы OTT в системы, требующие стандартизированных макетов для автоматической доставки документов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

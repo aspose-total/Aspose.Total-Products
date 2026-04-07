@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+文档转 XLT 转换将 Word 内容转换为支持可重复工作簿创建和标准化的电子表格模板文件。当需要将文档派生的结构转化为可重用的电子表格基础时，这非常有用。
+
+使用 Python API，DOC 到 XLT 的转换可以实现自动化，以便一致的模板生成、运营复用以及简化的电子表格生产。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **电子表格模板创建**
+  将结构化文档内容转换为可重用的电子表格模板。
+
+* **标准化工作簿设计**
+  使用 XLT 输出保持一致的布局和数据结构。
+
+* **可重用业务表单**
+  将文档重新用于工作簿模板，以便重复使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **模板库自动化**
+  自动从基于 DOC 的源材料生成 XLT 文件。
+
+* **可重复的电子表格设置**
+  通过编程方式从标准化文档生成工作簿模板。
+
+* **运营内容复用**
+  将经常使用的表单和报告转换为基于模板的电子表格资产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

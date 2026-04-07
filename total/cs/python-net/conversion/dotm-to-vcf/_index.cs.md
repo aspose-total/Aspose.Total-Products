@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod DOTM na VCF transformuje makrem povolené šablony Wordu na soubory vCard kontaktů, což usnadňuje sdílení a import informací o kontaktech založených na dokumentech do adresářových systémů. Je užitečný, když šablony obsahují údaje o osobě, organizaci nebo komunikaci, které musí být převedeny na strukturované záznamy kontaktů.
+
+Použití Python API pro převod DOTM na VCF pomáhá automatizovat generování kontaktů ze zdrojových dokumentů, snižuje ruční zadávání a zlepšuje konzistenci dat. To podporuje škálovatelné zapojení nových uživatelů, správu adresářů a workflow související s CRM.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytvoření záznamu kontaktu**
+  Převést podrobnosti kontaktu ze šablon DOTM do souborů VCF pro snadné sdílení a import.
+
+* **Opětovné využití dat adresáře**
+  Přetvořit strukturované informace z dokumentu do standardizovaných digitálních vizitek.
+
+* **Workflow-přátelská výměna kontaktů**
+  Umožnit jednoduchý přesun dat kontaktů mezi dokumenty a systémy adresářů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaný extrah kontaktů**
+  Workflow může generovat soubory VCF ze šablon DOTM obsahujících osobní nebo organizační údaje.
+
+* **Podpora synchronizace adresáře**
+  Převod pomáhá automatizovaným systémům vytvářet připravené k importu záznamy kontaktů z dokumentů.
+
+* **Hromadné generování kontaktů**
+  Programové zpracování podporuje vysokokapacitní transformaci souborů DOTM na soubory VCF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

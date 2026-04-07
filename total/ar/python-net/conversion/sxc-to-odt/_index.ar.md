@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل SXC إلى ODT يحول محتوى جداول البيانات إلى تنسيق نصي مستند مفتوح مناسب جدًا للتوثيق القابل للتحرير، وإعداد التقارير، وتدفقات العمل النصية القابلة للتشغيل البيني. إنه خيار عملي عندما ترغب المؤسسات في مخرجات مستندات مرنة مع الحفاظ على التوافق مع المعايير المفتوحة.
+
+باستخدام واجهات برمجة تطبيقات بايثون، يحسن تحويل SXC إلى ODT كفاءة سير العمل من خلال تمكين إنشاء مستندات قابلة للتحرير تلقائيًا من مصادر جداول البيانات لأغراض التقارير وحفظ السجلات وإعداد المحتوى.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تقارير المستند المفتوح**  
+  يحوّل بيانات جداول البيانات إلى تقارير قابلة للتحرير تتماشى مع تدفقات عمل المستند المفتوح.
+
+* **توثيق قابل للتشغيل البيني**  
+  يساعد المؤسسات على مشاركة مخرجات المستندات عبر الأنظمة التي تدعم المعايير المفتوحة.
+
+* **إنشاء سجلات قابلة للتحرير**  
+  يدعم إعداد المستندات التي يمكن مراجعتها وتعديلها وأرشفتها بسهولة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **أتمتة سير العمل المفتوح**  
+  يستخدم واجهات برمجة تطبيقات بايثون لإنشاء ملفات ODT تلقائيًا من مصادر SXC في خطوط أنابيب موحدة.
+
+* **أنظمة تحويل المحتوى**  
+  يمكن المحتوى المدفوع بجداول البيانات من الانتقال إلى تدفقات عمل مراجعة وتحرير مركزة على المستند.
+
+* **إنتاج توثيق قابل للتوسع**  
+  يدعم إنشاء عالي الحجم للمستندات القابلة للتحرير ذات التنسيق المفتوح بأقل تدخل يدوي.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

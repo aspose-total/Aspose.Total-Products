@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu I
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ICS na DOC převod pomocí Python API umožňuje transformovat data kalendářních událostí do strukturovaných dokumentů Word pro dokumentaci a reportování. Tento převod umožňuje prezentovat rozvrhy a podrobnosti událostí v čitelném formátu vhodném pro profesionální komunikaci nebo archivaci.
+
+Prostřednictvím automatizovaných Python pracovních postupů lze soubory ICS parsovat a převádět do dokumentů DOC bez ručního formátování. To podporuje škálovatelné generování dokumentů pro organizace spravující velké objemy kalendářových dat.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Dokumentace schůzek**  
+  Převést kalendářní události do formátovaných dokumentů pro souhrny nebo záznamy ze schůzek.
+
+* **Reportování rozvrhu**  
+  Vytvořit čitelné dokumenty Word obsahující časové osy událostí nebo plány rozvrhů.
+
+* **Administrativní archivace**  
+  Uložit data událostí ve formátu dokumentu pro dlouhodobou referenci nebo soulad s předpisy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná tvorba reportů**  
+  Generovat soubory DOC z kalendářů ICS v rámci automatizovaných reportovacích pipeline.
+
+* **Zpracování dat událostí**  
+  Převést data plánování do dokumentů pro integraci s podnikovými systémy.
+
+* **Hromadný převod kalendářů**  
+  Zpracovat velké dávky souborů ICS do dokumentů Word programově.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

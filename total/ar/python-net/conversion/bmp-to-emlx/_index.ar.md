@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل BMP إلى EMLX يتيح دمج ملفات صور البت ماب في تنسيق البريد الإلكتروني EMLX الذي يُستخدم عادةً في بعض أنظمة تخزين البريد. يتيح هذا التنسيق تخزينًا منظمًا لرسائل البريد الإلكتروني التي تتضمن محتوىً قائمًا على الصور.
+
+تساعد سير عمل التحويل الآلي الأنظمة على إنشاء ملفات EMLX من صور BMP لأغراض الأرشفة والفهرسة والتكامل مع منصات تخزين البريد الإلكتروني. يدعم ذلك إدارة رسائل قابلة للتوسع عبر البنية التحتية الآلية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **توافق تخزين البريد الإلكتروني**  
+  يمكن تخزين صور BMP كرسائل EMLX لتوافق مع أنظمة تخزين البريد المحددة.
+
+* **أنظمة الأرشفة الآلية**  
+  يمكن لأنظمة إدارة الوثائق تحويل الصور إلى تنسيق EMLX للاحتفاظ المنظم.
+
+* **سجلات الرسائل البصرية**  
+  يمكن للمنظمات حفظ الاتصالات البصرية في تنسيقات تخزين تعتمد على البريد الإلكتروني.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء صندوق بريد آلي**  
+  تقوم الأنظمة بإنشاء ملفات EMLX من صور BMP لإنشاء صناديق بريد آلية.
+
+* **معالجة سجلات البريد الإلكتروني بالجملة**  
+  تحول سير العمل مجموعات كبيرة من مستندات BMP إلى ملفات EMLX للفهرسة والتخزين.
+
+* **إنشاء ملفات بريد إلكتروني برمجية**  
+  تُنشئ التطبيقات رسائل EMLX ديناميكيًا تحتوي على مرفقات صور.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

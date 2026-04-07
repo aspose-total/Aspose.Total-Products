@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV 到 MOBI 的转换将结构化的表格数据转换为支持数字阅读和便携内容分发的电子书就绪格式。当需要将基于 TSV 的信息重新用于长篇、可阅读的内容以进行知识传递或文档打包时，这非常有用。
+
+使用 Python API，TSV 到 MOBI 的转换可以实现自动化，以简化数字出版工作流，使大规模将原始数据转化为便携的阅读体验更加容易。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **便携知识出版**  
+  将结构化数据转换为可用于分发的电子书兼容内容。
+
+* **可读的参考资料**  
+  帮助以更易于阅读的格式呈现表格信息。
+
+* **数字内容打包**  
+  支持将 TSV 数据重新用于可下载的文档资产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化电子书生成**  
+  Python API 可以将重复的 TSV 输入转换为用于数字交付的 MOBI 文件。
+
+* **内容再利用流水线**  
+  自动化有助于将后端数据转化为读者友好的出版输出。
+
+* **批量出版工作流**  
+  多个 TSV 数据集可以通过编程方式高效转换为 MOBI 格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

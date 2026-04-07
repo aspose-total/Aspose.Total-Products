@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX to PST conversion převádí obsah šablony Word do formátu osobní úložné tabulky, který je spojen s pracovními postupy archivace poštovních schránek a zpráv. Je užitečný, když je třeba zabalit vygenerovaný komunikační obsah do přenosných poštovních úložných struktur.
+
+Pomocí Python API tento převod podporuje automatizaci archivace e‑mailů, organizace zpráv a rozsáhlého uchovávání komunikace vycházející ze strukturovaných šablon dokumentů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Přenosná archivace pošty**
+  Zabalte komunikaci odvozenou z dokumentu do strukturovaného formátu poštovního úložiště.
+
+* **Pracovní postupy uchovávání zpráv**
+  Uchovejte vygenerovanou komunikaci pro revizi a soulad s předpisy.
+
+* **Balení komunikace**
+  Konsolidujte znovupoužitelné zprávy založené na dokumentech do výstupů orientovaných na archiv.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované generování poštovního archivu**
+  Vytvořte výstupy PST z komunikace založené na DOTX v retenčních pipelinech.
+
+* **Hromadné ukládání zpráv**
+  Zpracovávejte velké objemy vygenerované korespondence pomocí strukturovaných archivů.
+
+* **Automatizace dokument‑do‑archiv**
+  Programově převádějte opakující se výstupy šablon do přenosných aktiv poštovní schránky.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

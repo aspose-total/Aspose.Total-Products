@@ -53,7 +53,47 @@ outformat: MHTML
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 Word 转换为 MHTML 可将文字处理文档转换为单文件网页存档格式，保留文本、样式和嵌入资源于一个自包含的包中。这对于以浏览器友好的格式共享文档内容并保持呈现一致性非常有价值。
+
+在自动化工作流中，MHTML 转换支持便携式发布、存档生成以及网页兼容的内容交付，无需收件人依赖原始创作环境。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **单文件网页归档**
+  将文档内容及相关资源保存在一个浏览器可读取的文件中。
+
+* **一致的视觉共享**
+  在跨系统分发内容时帮助保持布局和格式。
+
+* **便携式文档发布**
+  更容易在网页兼容的环境中展示 Word 编写的内容。
+
+* **离线审阅支持**
+  在本地查看完整文档内容，无需单独的资源文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化网页存档创建**
+  将重复的 Word 文件转换为 MHTML，以便分发、保存或审阅。
+
+* **内容发布流水线**
+  在文档到网页的工作流中将 MHTML 输出用作中间资产。
+
+* **自包含交付自动化**
+  将文本和资源打包在一起，实现跨系统的可靠交换。
+
+* **存档一致性工作流**
+  大规模生成浏览器友好的业务文档保存版本。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

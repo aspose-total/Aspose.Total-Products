@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل WordML إلى POTM يحول محتوى المستند إلى قوالب عروض تقديمية مُمكّنة بالماكرو للبيئات التي تتطلب شرائح قابلة لإعادة الاستخدام مع إمكانات أتمتة مدمجة. يكون ذلك ذا قيمة عندما تحتاج العروض التقديمية القابلة للقالب أيضًا إلى سلوكيات قابلة للبرمجة.
+
+باستخدام واجهات برمجة تطبيقات Python، يدعم تحويل WordML إلى POTM إنشاءً قابلاً للتوسع لأصول العروض التقديمية المدفوعة بالقوالب التي تتماشى مع إعادة استخدام المحتوى في سير عمل العروض التقديمية الموجهة للأتمتة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء قالب مُمكّن بالماكرو**
+  يحول محتوى WordML إلى ملفات POTM قابلة لإعادة الاستخدام لعمليات سير عمل العروض التقديمية المتقدمة.
+
+* **أسس العرض التقديمي المؤتمت**
+  يدعم القوالب التي تجمع بين المحتوى المنظم ومنطق الأتمتة المدمج.
+
+* **إنتاج شرائح قابل للتكرار**
+  يساعد على توحيد إنشاء العروض التقديمية في البيئات المدعومة بالماكرو.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **نشر القالب المؤتمت**
+  يولد قوالب POTM من مصادر WordML لعمليات العروض التقديمية المتكررة.
+
+* **إنشاء الشرائح المدفوع بسير العمل**
+  يربط محتوى المستند القابل لإعادة الاستخدام بمتطلبات أتمتة العروض التقديمية.
+
+* **حزم المحتوى القابلة للتوسع**
+  يتيح إنشاءً متسقًا لقوالب تدعم الماكرو من المستندات المنظمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

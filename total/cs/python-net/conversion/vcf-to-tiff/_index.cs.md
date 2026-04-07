@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu V
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF to TIFF conversion převádí data kontaktních karet do vysoce kvalitního rastrového obrázku vhodného pro archivaci, přípravu tisku a workflow zaměřené na obrázky. To je zvláště užitečné tam, kde jsou důležité podrobné vizuální zachování a spolehlivé vykreslování.
+
+V automatizovaných systémech umožňuje převod VCF na TIFF Python API vytvářet odolné obrazové záznamy kontaktů, které podporují hromadné zpracování, úložiště pro soulad a workflow s vysokou věrností dokumentů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vysokokvalitní zobrazování kontaktů**  
+  Převést data VCF do souborů TIFF pro podrobnou vizuální archivaci.
+
+* **Archivní ukládání obrázků**  
+  Použít výstup TIFF, když je důležitá dlouhodobá kvalita a stabilita obrazu.
+
+* **Příprava orientovaná na tisk**  
+  Připravit vizuály kontaktů pro workflow s vysokým rozlišením dokumentů a tisku.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Hromadné vykreslování TIFF**  
+  Automaticky generovat TIFF obrázky z více VCF záznamů.
+
+* **Integrace archivního workflow**  
+  Vložit TIFF soubory kontaktů do automatizovaných úložných a zachovávacích systémů.
+
+* **Zpracování obrázků s vysokou věrností**  
+  Použít Python API k vytvoření spolehlivých výstupů obrázků pro náročné workflow.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

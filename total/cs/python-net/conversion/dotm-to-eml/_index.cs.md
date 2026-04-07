@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM na EML převod transformuje makrem povolené šablony Wordu na standardní soubory e‑mailových zpráv, které zachovávají strukturu zprávy a přenositelnost. To je cenné pro archivaci, generování e‑mailů a převod komunikace založené na dokumentech do interoperabilních formátů pošty.
+
+Použití Python API pro převod DOTM na EML podporuje automatizaci tím, že převádí obsah šablony na znovupoužitelné e‑mailové soubory s minimální manuální námahou. Pomáhá organizacím standardizovat odchozí komunikaci, archivovat vygenerované zprávy a integrovat dokumentové pracovní toky se systémy založenými na e‑mailu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytvoření e‑mailového souboru**
+  Převést obsah DOTM do formátu EML pro přenosné ukládání a přenos e‑mailů.
+
+* **Archivace zpráv**
+  Zachovat korespondenci odvozenou z dokumentů ve formátu vhodném pro audit a vyhledávání.
+
+* **Komunikace řízená šablonou**
+  Generovat standardizované e‑mailové soubory z opakovaně použitelných šablon Word.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Programatické sestavení e‑mailu**
+  Automatizované pracovní toky mohou převést šablony DOTM na e‑mailové zprávy EML připravené k dalšímu doručení nebo uložení.
+
+* **Automatizace archivace**
+  Převod pomáhá systémům generovat souladné e‑mailové záznamy z obsahu založeného na dokumentech.
+
+* **Hromadné zpracování komunikace**
+  Velké dávky šablonových dokumentů lze efektivně převést do souborů EML pomocí skriptovaných úloh.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

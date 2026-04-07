@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOT إلى XLTM يحول قوالب المستندات إلى ملفات قوالب جداول بيانات مفعّلة بالماكرو لإنشاء دفاتر عمل متقدمة قابلة للتكرار. هذا مفيد عندما يجب أن تدعم قوالب جداول البيانات القابلة لإعادة الاستخدام وظائف محسّنة في سير العمل المتوافق.
+
+تمكن واجهات برمجة التطبيقات Python من توليد ملفات XLTM تلقائيًا من مصادر DOT، مما يساعد المؤسسات على إنشاء قوالب جداول بيانات متقدمة موحدة بكفاءة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تصدير القالب المفعّل بالماكرو**
+  تحويل ملفات DOT إلى قوالب XLTM لتدفقات عمل جداول بيانات متقدمة قابلة لإعادة الاستخدام.
+
+* **تصميم دفتر عمل متقدم قابل لإعادة الاستخدام**
+  إعادة توظيف هياكل المستندات كقوالب جداول بيانات بقدرات موسّعة.
+
+* **قوالب وظيفية موحدة**
+  دعم إنشاء دفاتر عمل قابلة للتكرار من مصادر القوالب المستندة إلى المستندات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **توليد القالب المتقدم تلقائيًا**
+  يمكن لتدفقات عمل Python إنتاج ملفات XLTM من قوالب DOT للعمليات التجارية المتكررة.
+
+* **توحيد مكتبة القوالب**
+  يساعد التحويل في الحفاظ على قوالب جداول بيانات مفعّلة بالماكرو متسقة عبر الفرق.
+
+* **إعداد دفتر عمل وظيفي قابل للتوسع**
+  تدعم الأنظمة البرمجية إنشاء جماعي لأصول قوالب جداول البيانات المتقدمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

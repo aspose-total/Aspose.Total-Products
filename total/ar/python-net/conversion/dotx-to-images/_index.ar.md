@@ -53,7 +53,41 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOTX إلى صور يحول محتوى قالب Word إلى مخرجات بصرية لأغراض المعاينة والمشاركة والنشر والأرشفة. يكون مفيدًا عندما يجب الحفاظ على تخطيطات المستند كأصول صور لتسهيل الوصول عبر المنصات.
+
+يدعم هذا التحويل الأتمتة من خلال السماح لواجهات برمجة تطبيقات Python بإنشاء إصدارات مستندة إلى الصور من القوالب لتسليم المحتوى ومعاينات المستندات وسير العمل البصري الذي لا يعتمد على الصيغ القابلة للتحرير.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء معاينة المستند**
+  عرض محتوى القالب كصور للعرض السريع والتوزيع.
+
+* **الأرشفة البصرية**
+  الحفاظ على مظهر المستند بصيغة سهلة التخزين والرجوع إليها.
+
+* **المشاركة عبر المنصات**
+  مشاركة محتوى المستند بصريًا دون الحاجة إلى برنامج تحرير.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط أنابيب الصور المصغرة والمعاينات**
+  إنشاء معاينات صور تلقائيًا من ملفات DOTX للبوابات والمستودعات.
+
+* **سير عمل النشر**
+  تحويل القوالب إلى صور للمواقع الإلكترونية أو التقارير أو أنظمة الوثائق البصرية.
+
+* **مهام التصيير على نطاق واسع**
+  معالجة دفعات من القوالب إلى مجموعات صور لتسليم مخرجات موحدة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

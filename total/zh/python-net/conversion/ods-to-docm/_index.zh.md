@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS 到 DOCM 的转换将电子表格文件转换为支持宏的文字处理文档。这使得电子表格数据能够嵌入支持自动脚本和高级文档行为的文档中。
+
+借助 Python API，ODS 到 DOCM 的转换可以集成到生成宏启用文档的自动化系统中。这实现了动态文档处理、大规模转换以及与企业自动化环境的集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用文档创建**  
+  将电子表格内容转换为能够支持自动化宏的文档。
+
+* **自动化文档模板**  
+  将基于电子表格的数据转换为宏驱动的文档工作流。
+
+* **数据驱动的文档**  
+  将电子表格数据集集成到宏启用的报告中。
+
+* **高级文档处理**  
+  支持嵌入自电子表格来源生成的文档中的自动化任务。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化工作流文档**  
+  系统从电子表格生成 DOCM 文件，以进行宏驱动的处理。
+
+* **企业报告自动化**  
+  来自电子表格的数据被转换为宏启用的文档，以进行自动化分析。
+
+* **动态文档生成**  
+  Python 流水线基于电子表格输入创建宏启用的文档。
+
+* **批量宏文档处理**  
+  自动化服务将大量 ODS 文件转换为 DOCM 文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

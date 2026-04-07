@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML to Excel conversion moves structured content from WordprocessingML documents into spreadsheet formats suitable for analysis, reporting, and operational tracking. It is especially useful when documents contain tables or semi-structured information that needs to become editable workbook data.
+
+Python APIs make WordML to Excel conversion scalable by extracting document tables, organizing worksheet content, and integrating conversion tasks into automated business and data operations.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytvoření sešitu**
+  Převádí tabulky dokumentu do formátů založených na sešitu pro úpravy a revizi.
+
+* **Umožnění reportování**
+  Zpřístupňuje strukturovaný obsah dokumentu pro vzorce, grafy a analýzu tabulek.
+
+* **Přenos obchodních dat**
+  Podporuje přesun operativních dat z dokumentů do systémů řízených tabulkami.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované generování sešitu**
+  Vytváří soubory kompatibilní s Excelem z dávky WordML dokumentů bez ručního kopírování.
+
+* **Integrace reportovacího kanálu**
+  Zasílá převedené výstupy tabulek do dashboardů, auditů nebo plánovacích pracovních toků.
+
+* **Normalizace strukturovaných dat**
+  Standardizuje obsah dokumentu do rozvržení listů pro opakované následné použití.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

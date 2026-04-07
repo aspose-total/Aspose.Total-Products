@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM 到 OST 的转换将启用宏的 Word 模板转换为适用于离线邮件存储场景和消息工作流的邮箱数据。它在文档内容被整合到依赖同步本地数据存储的邮件导向环境中时具有相关性。
+
+使用 Python API 进行 DOTM 到 OST 的转换有助于自动化从文档模板准备结构化邮件数据。它支持可扩展的处理，减少手动转换工作量，并提升文档系统与企业消息工作流之间的集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **离线邮件数据准备**
+  将基于文档的内容转换为符合离线消息存储工作流的格式。
+
+* **基于模板的通信归档**
+  在邮件导向的处理环境中保留可重复使用的模板内容。
+
+* **企业消息集成**
+  将文档工作流与管理同步邮箱数据的系统连接起来。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化邮件存储生成**
+  工作流可以将 DOTM 内容转换为 OST 兼容的数据处理过程。
+
+* **消息系统集成**
+  该转换支持为离线访问场景自动准备基于文档的通信。
+
+* **批量企业处理**
+  编程作业能够大规模处理用于邮件数据工作流的 DOTM 模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu E
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+EMLX to ODT conversion in Python allows email messages to be converted into open document text files for editing, storage, and platform-independent use. This is useful when organizations need flexible document outputs that support open standards.
+
+In automation workflows, EMLX to ODT conversion helps create interoperable documents from email content while improving efficiency and reducing manual reformatting. It supports scalable document handling in systems that prioritize openness and compatibility.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Open Document Editing**  
+  Convert EMLX files into ODT format for editable and portable text documents.
+
+* **Standards-Based Archiving**  
+  Preserve message content in an open, structured document format.
+
+* **Cross-Platform Collaboration**  
+  Share converted documents across systems that support open standards.
+
+* **Content Reusability**  
+  Repurpose email-derived information for broader document workflows.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Open Format Conversion Pipelines**  
+  Automate EMLX-to-ODT transformation for scalable document processing.
+
+* **Interoperable Content Workflows**  
+  Use ODT outputs in systems that require standards-based document exchange.
+
+* **Automated Archival Preparation**  
+  Convert message archives into structured open documents through Python scripts.
+
+* **Collaborative Document Automation**  
+  Route converted ODT files into editing and review environments automatically.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

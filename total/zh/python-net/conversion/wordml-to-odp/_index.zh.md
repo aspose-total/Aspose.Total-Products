@@ -65,7 +65,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML 到 ODP 转换将文档内容转换为 OpenDocument 演示文稿文件，以便进行以演示为中心的审阅、分发和开放格式协作。当需要将文档中的叙述或结构化内容重新用于基于幻灯片的交流时，这非常有用。
+
+Python API 通过以编程方式将内容重新布局到演示结构中，使 WordML 到 ODP 的转换高效，并实现可扩展的文档到幻灯片自动化。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **演示复用**
+  将文档内容转换为开放的演示文件，以进行可视化呈现。
+
+* **开放格式协作**
+  支持基于互操作文档标准构建的演示工作流。
+
+* **结构化内容复用**
+  将来自 WordML 的文本和大纲材料迁移到幻灯片形式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **幻灯片套件生成**
+  自动从报告、简报或大纲创建 ODP 演示文稿。
+
+* **内容发布流水线**
+  将文档到演示的转换集成到分发工作流中。
+
+* **基于标准的演示自动化**
+  实现从结构化来源生成可扩展的开放格式幻灯片。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

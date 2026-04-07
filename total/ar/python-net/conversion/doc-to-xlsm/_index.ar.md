@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل المستند إلى XLSM يحول محتوى Word إلى دفاتر Excel مُمكّنة بالماكرو تجمع بين بنية الجداول الإلكترونية وقدرات الأتمتة المتقدمة. وهو ذو قيمة للمنظمات التي تحتاج إلى بيانات قابلة للتحرير وسلوك دفتر عمل جاهز للأتمتة.
+
+استخدام واجهات برمجة تطبيقات Python لتحويل DOC إلى XLSM يدعم إنشاء دفاتر عمل قابلة للتوسع، يقلل من نقل البيانات يدويًا، ويتيح التكامل مع عمليات متقدمة مدفوعة بالجداول الإلكترونية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **دفاتر بيانات مُمكّنة بالماكرو**
+  تحويل محتوى المستند إلى ملفات جداول إلكترونية مصممة لدعم سير عمل متقدم.
+
+* **تقارير أعمال مؤتمتة**
+  استخدم مخرجات XLSM حيث يجب أن تعمل منطق الجداول الإلكترونية والبيانات المهيكلة معًا.
+
+* **نماذج تشغيلية قابلة لإعادة الاستخدام**
+  إعادة توظيف محتوى المستند المتكرر إلى دفاتر عمل قابلة للأتمتة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **أتمتة دفاتر عمل متقدمة**
+  إنشاء ملفات XLSM من مصادر DOC لعمليات سير عمل جداول إلكترونية كثيفة العملية.
+
+* **خطوط أنابيب منطقية من المستند إلى Excel**
+  تحويل المحتوى المهيكل إلى دفاتر عمل تُستخدم في نماذج تشغيلية مؤتمتة.
+
+* **تحويل بيانات متكرر**
+  توحيد تصديرات المستند برمجيًا إلى أصول جداول إلكترونية مُمكّنة بالماكرو.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

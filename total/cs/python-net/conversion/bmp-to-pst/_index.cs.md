@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu B
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konverze BMP do PST umožňuje ukládat bitmapový obrazový obsah v souborech archivů e‑mailů PST. Soubory PST slouží jako kontejnery pro zprávy, přílohy a další data poštovní schránky.
+
+Automatizované pracovní postupy těží z konverze BMP do PST tím, že umožňují škálovatelné vytváření archivů e‑mailů, které zahrnují vizuální informace. To podporuje ukládání pro soulad, migraci zpráv a dlouhodobé strategie uchovávání e‑mailů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Ukládání archivů e‑mailů**  
+  Obrázky BMP lze uchovat v archivních souborech PST.
+
+* **Migrace dat poštovní schránky**  
+  Vizuální komunikace může být během migrace převedena do souborů PST.
+
+* **Dlouhodobé uchovávání zpráv**  
+  Organizace mohou ukládat komunikaci založenou na obrázcích pro účely souladu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná tvorba archivů**  
+  Skripty převádějí soubory BMP na záznamy zpráv PST během archivních pracovních postupů.
+
+* **Hromadné zpracování e‑mailových dat**  
+  Systémy automaticky integrují obsah založený na BMP do souborů PST.
+
+* **Programový export poštovní schránky**  
+  Aplikace dynamicky vytvářejí archivy PST obsahující vizuální zprávy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

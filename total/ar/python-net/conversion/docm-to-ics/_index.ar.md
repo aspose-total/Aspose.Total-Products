@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOCM إلى ICS يحول محتوى المستند المدعوم بالماكرو إلى بيانات متوافقة مع التقويم، مما يجعل من الممكن إعادة استخدام الجداول الزمنية، تفاصيل الأحداث، أو المحتوى المستند إلى التاريخ في سير عمل التخطيط. هذا مفيد بشكل خاص عندما تحتوي المستندات على معلومات أحداث منظمة تحتاج إلى وصول أوسع.
+
+من منظور الأتمتة، يربط تحويل DOCM إلى ICS الجداول الزمنية التي تم إنشاؤها مع أنظمة التقويم، مما يتيح إنشاء الأحداث تلقائيًا، المزامنة، وتنسيق سير العمل القائم على الوقت.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **استخراج الجدول الزمني**
+  يحول محتوى المستند المتعلق بالحدث إلى بيانات جاهزة للتقويم للاستخدام في التخطيط.
+
+* **نشر الاجتماعات والمهل**
+  يساعد في توزيع الجداول الزمنية المحددة في المستند عبر ملفات تقويم موحدة.
+
+* **الجدولة عبر المنصات**
+  يدعم قابلية نقل المعلومات المستندة إلى التاريخ إلى أدوات تقويم متوافقة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء الأحداث تلقائيًا**
+  ينشئ ملفات ICS من محتوى DOCM الذي يحتوي على تفاصيل الاجتماعات أو المهل.
+
+* **سير عمل مزامنة التقويم**
+  يدعم الاستيراد التلقائي للجداول المستمدة من المستندات إلى أنظمة التخطيط.
+
+* **جدولة دفعات متكررة**
+  يحول مستندات جدولة متعددة إلى مخرجات تقويم موحدة على نطاق واسع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

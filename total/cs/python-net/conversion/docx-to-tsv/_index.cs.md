@@ -65,7 +65,44 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX to TSV conversion converts word processing documents into tab-separated values format, enabling structured information to be extracted into a lightweight text-based data file. This format is useful for moving document-based tables and organized content into analytical or exchange workflows.
+
+Python APIs allow DOCX-to-TSV conversion to be automated in data preparation systems, content extraction pipelines, and enterprise integration workflows. It supports scalable transformation of document content into machine-readable tabular outputs.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Extrahování tabulkových dat**  
+  Převádí tabulky DOCX a strukturované informace do textových tabulkových souborů.
+
+* **Výměna dat mezi systémy**  
+  Umožňuje lehký přenos strukturovaného obsahu napříč platformami.
+
+* **Analýza a příprava zpracování**  
+  Pomáhá připravit data odvozená z dokumentů pro následné analytické nástroje.
+
+* **Integrace pracovního postupu Dokument‑na‑text**  
+  Podporuje export uspořádaného obsahu do přenosných tabulkových formátů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované pipeline pro export dat**  
+  Systémy mohou převádět soubory DOCX na TSV výstupy pro zpracovatelské pracovní postupy.
+
+* **Dávková extrakce strukturovaného obsahu**  
+  Python skripty mohou programově převádět více dokumentů do datových sad oddělených tabulátory.
+
+* **Automatizace podnikového integrace**  
+  Obsah dokumentu může být exportován do formátu TSV pro načtení do reportovacích nebo databázových systémů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

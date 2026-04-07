@@ -64,7 +64,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod WordML do PowerPointu transformuje obsah dokumentu do formátů prezentací založených na slidech pro vizuální komunikaci, školení, reportování a předání stakeholderům. Je cenný, když je třeba těžký textový materiál přizpůsobit stručnému, prezentacně přátelskému obsahu.
+
+Python API podporují převod WordML do PowerPointu tím, že programově strukturovají slidy, znovu využívají sekce dokumentu a zefektivňují workflow převodu dokumentu na prezentaci ve velkém měřítku.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Převod zprávy na slidy**
+  Převádí dokumenty WordML na obsah připravený pro prezentaci pro vizuální komunikaci.
+
+* **Vytváření výukových materiálů**
+  Přetváří psané postupy nebo příručky do strukturovaných sad slidů.
+
+* **Příprava prezentací pro stakeholdery**
+  Pomáhá přetvořit obsah dokumentu do stručných a sdílených prezentací.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná tvorba slidů**
+  Vytváří soubory prezentací z opakujících se reportů, souhrnů nebo dokumentace.
+
+* **Pracovní postupy shrnutí obsahu**
+  Podporuje programový převod dlouhých dokumentů do slidů.
+
+* **Škálovatelné publikování prezentací**
+  Umožňuje vysokokapacitní výrobu prezentačních materiálů z úložišť dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

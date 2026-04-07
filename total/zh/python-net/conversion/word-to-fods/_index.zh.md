@@ -66,7 +66,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 的 Word 到 FODS 转换能够将文字处理文档转换为平面 OpenDocument 电子表格格式，这对于基于开放标准的数据处理和透明的 XML 驱动工作流非常有用。当需要在结构化电子表格格式中保留文档内容且不依赖二进制封装时，这种方式非常有益。
+
+在自动化驱动的环境中，word 到 FODS 的转换支持可扩展、符合标准的转换流水线，强调互操作性、对版本控制的友好性以及对输出数据的更易程序化检查。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **开放格式数据转换**
+  将文档衍生的内容导出为基于开放标准的平面、结构化电子表格格式。
+
+* **透明数据存储**
+  使电子表格输出在支持 XML 的系统中更易检查和处理。
+
+* **工作流互操作性**
+  支持与偏好开放文档标准而非专有格式的平台集成。
+
+* **版本控制的内容处理**
+  在文本友好的存储环境中实现对结构化输出的更好跟踪。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **基于标准的转换流水线**
+  自动将 word 文件转换为 FODS，以用于开放生态系统的工作流。
+
+* **文档归档自动化**
+  生成可读的、结构化的电子表格输出，以满足长期存储和审计需求。
+
+* **XML 驱动的处理**
+  在自动化的解析、验证和转换例程中使用 FODS 输出。
+
+* **批量 OpenDocument 生成**
+  从重复的文档来源大规模生成平面电子表格文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

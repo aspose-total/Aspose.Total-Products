@@ -53,7 +53,47 @@ Používáme API [Aspose.Words for Python via .NET](https://products.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT to Images conversion converts document pages or content sections into visual formats that are easier to preview, share, embed, or archive. This is especially useful when layout fidelity and visual accessibility matter more than editable text.
+
+Python API-based automation makes ODT to Images conversion effective for previews, content publishing, and document visualization workflows. It supports scalable generation of page-level assets for web, review, and approval processes.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování náhledů dokumentu**  
+  Vytváří obrazové reprezentace pro rychlé prohlížení bez otevření zdrojového souboru.
+
+* **Webové publikovací prostředky**  
+  Produkuje vizuální obsah vhodný pro portály, výpisy nebo vložené displeje.
+
+* **Archivní snímky**  
+  Zachovává vzhled stránky ve statické vizuální podobě.
+
+* **Podpora revize a anotací**  
+  Umožňuje snadnější kontrolu dokumentů ve workflow založených na obrázcích.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Pipelines pro tvorbu miniatur**  
+  Python workflowy mohou generovat náhledové obrázky pro nově nahrané ODT dokumenty.
+
+* **Dávkové renderování stránek**  
+  Velké kolekce souborů mohou být automaticky renderovány do vizuálů po jednotlivých stránkách.
+
+* **Automatizace publikování**  
+  Výstupy obrázků mohou napájet webové stránky, systémy pro správu obsahu nebo nástroje pro revizi.
+
+* **Vizuální schvalovací procesy**  
+  Převáděné stránky mohou programově procházet workflowy anotací a schvalování.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

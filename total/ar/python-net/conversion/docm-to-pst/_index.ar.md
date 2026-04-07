@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOCM إلى PST يحول المستندات الممكّنة بالماكرو إلى مخرجات تخزين شخصية تُستخدم لتنظيم المحتوى القائم على الرسائل في ملفات بريد موحدة. يكون ذلك مفيدًا عندما تحتاج القطع التواصلية المستمدة من المستندات إلى تخزين منظم لأغراض الأرشفة أو الترحيل.
+
+في الأنظمة الآلية، يدعم تحويل DOCM إلى PST تعبئة صناديق البريد، وسير عمل الامتثال، وحركة قابلة للتوسع للمحتوى المحوَّل إلى مستودعات تواصل منظمة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تخزين البريد الموحد**
+  يساعد في حفظ محتوى المستند المحوَّل في حاوية تخزين شخصية منظمة.
+
+* **إعداد الأرشفة**
+  يدعم الاحتفاظ طويل الأمد بسجلات التواصل المستمدة من المستندات.
+
+* **سير عمل الترحيل**
+  يُمكّن من نقل المخرجات الموجهة للرسائل إلى مجموعات تخزين منظمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تعبئة صناديق البريد الآلية**
+  يحوّل ملفات DOCM إلى مخرجات متوافقة مع PST لسير عمل الاحتفاظ.
+
+* **معالجة موجهة للامتثال**
+  يدعم خطوط أنابيب تخزين المستند إلى البريد المستخدمة في بيئات خاضعة للحوكمة.
+
+* **تحويل وتخزين عالي الحجم**
+  يتعامل مع تحويل ضخم للمستندات إلى مستودعات بريد منظمة برمجيًا.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

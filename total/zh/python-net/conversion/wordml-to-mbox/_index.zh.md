@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML 到 MBOX 转换将文档派生的内容打包为适用于分组消息存储和迁移工作流的邮箱归档格式。当需要将多个基于文档的通信组织到邮箱式存储库中时，这非常有价值。
+
+Python API 通过以编程方式将内容转换为消息记录并将其合并为可扩展的归档输出，以支持以电子邮件为中心的系统，从而实现 WordML 到 MBOX 的转换。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **邮箱归档创建**
+  将文档内容转换为兼容 MBOX 的消息集合。
+
+* **批量通信打包**
+  将多个转换后的记录分组为单个归档文件，以便传输或保留。
+
+* **电子邮件迁移支持**
+  帮助准备内容以导入到面向邮箱的环境中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量归档生成**
+  自动化从重复的 WordML 文档源创建 MBOX 文件。
+
+* **保留工作流集成**
+  支持将文档派生的通信长期存储在邮箱归档中。
+
+* **迁移流水线启用**
+  将转换后的 MBOX 输出输送到自动化导入或迁移例程中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

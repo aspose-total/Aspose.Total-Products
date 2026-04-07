@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu W
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konverze Word do EML pomocí Python API převádí dokumenty z textových procesorů do standardních souborů e‑mailových zpráv, které lze uložit, sdílet nebo importovat do kompatibilních e‑mailových klientů. To je důležité pro organizace, které potřebují zachovat obsah dokumentů v formátech orientovaných na zprávy pro komunikaci nebo archivaci.
+
+Pro automatizaci a integraci podporuje konverze Word na EML opakovatelnou tvorbu přenosných e‑mailových souborů, které lze použít v pracovních postupech schvalování, hromadných zpracovacích rutinách a automatizovaných archivech zpráv.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření přenosných e‑mailových souborů**
+  Převádí obsah dokumentu do souborů EML, které lze otevřít nebo importovat v podporovaných e‑mailových nástrojích.
+
+* **Archivace zpráv**
+  Uchovává komunikaci nebo dokumentové oznámení ve známé struktuře e‑mailových souborů.
+
+* **Konverze šablon**
+  Převádí znovupoužitelné šablony Wordu do standardizovaných souborů zpráv pro provozní použití.
+
+* **Podpora importu do klienta**
+  Usnadňuje přesun připraveného obsahu zprávy do e‑mailových prostředí.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Hromadná tvorba souborů zpráv**
+  Automaticky vytváří soubory EML z více dokumentů Word v dávkových pracovních postupech.
+
+* **Potrubí schválení‑do‑archivu**
+  Převádí finalizované dokumenty do e‑mailových souborů pro uchovávání a audit.
+
+* **Automatizované balení zpráv**
+  Generuje výstupy EML pro následné poštovní systémy a nástroje distribuce.
+
+* **Pracovní postupy opětovného využití obsahu**
+  Umožňuje programovou transformaci obsahu dokumentu do opakovaně použitelného e‑mailového artefaktu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

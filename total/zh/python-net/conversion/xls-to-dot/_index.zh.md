@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS 到 DOT 的转换使电子表格数据能够转换为 Word 模板文件，这些文件可以作为未来文档生成的可重复使用的基础。当电子表格内容必须用于可重复的文档结构而非一次性输出时，这非常有用。
+
+Python API 通过允许系统以编程方式并在各部门或工作流中保持一致地生成可直接使用的模板资产，使 XLS 到 DOT 的转换在自动化中更加高效。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **模板创建**
+  将电子表格内容转换为 DOT 文件，以定义未来文档的可重复使用布局。
+
+* **标准化文档设计**
+  使用 XLS 数据来构建结构化模板，以满足重复的文档需求。
+
+* **可重复使用的内容框架**
+  从基于电子表格的源材料构建基于模板的工作流。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板生成**
+  从电子表格输入创建 DOT 模板，无需手动设计工作。
+
+* **文档工厂工作流**
+  使用 Python API 将结构化的电子表格数据输入到可重复使用的文档模板流水线中。
+
+* **标准输出准备**
+  为依赖统一文档创建的团队动态生成模板资产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

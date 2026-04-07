@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod MSG na DOT transformuje e‑mailové zprávy na soubory šablon pro textové procesory, které mohou sloužit jako opakovaně použitelné základy dokumentů. To je užitečné, když je třeba převést struktury nebo rozvržení odvozené z e‑mailů na opakovatelné vzory dokumentů.
+
+V automatizačních scénářích podporuje převod MSG na DOT tvorbu dokumentů založených na šablonách a standardizované procesy reportování. Umožňuje organizacím vytvářet opakovatelné výstupy z opakujících se zdrojů e‑mailového obsahu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření šablon z e‑mailového obsahu**  
+  Použijte převedené zprávy jako základ pro opakovatelné struktury dokumentů.
+
+* **Standardizovaná dokumentace**  
+  Vytvářejte jednotné šablony pro opakované provozní nebo administrativní použití.
+
+* **Opakovaně použitelné rámce obsahu**  
+  Zachovejte rozvržení zpráv a vzory obsahu pro budoucí generování dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Pipelines pro generování šablon**  
+  Převádějte soubory MSG na šablony DOT pro opakující se úkoly tvorby dokumentů.
+
+* **Opakovatelné pracovní postupy reportování**  
+  Používejte šablony odvozené z e‑mailů v automatizovaných systémech reportování nebo dokumentace případů.
+
+* **Standardizace formátu**  
+  Vytvářejte řízené struktury dokumentů z obsahu příchozí komunikace.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

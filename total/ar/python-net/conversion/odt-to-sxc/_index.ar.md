@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ODT إلى SXC يحول محتوى نص OpenDocument إلى تنسيق موجه للجدول يُستخدم لمعالجة البيانات المهيكلة. يكون مفيدًا عندما يجب إعادة توظيف الجداول أو القوائم أو السجلات المستندة إلى المستندات إلى تخطيطات قائمة على الخلايا للمراجعة والمعالجة.
+
+في بيئات الأتمتة، يدعم تحويل ODT إلى SXC استخراج بيانات المستند، وتوافقية جداول البيانات القديمة، وهيكلة المحتوى القابلة للتوسع. تساعد واجهات برمجة تطبيقات بايثون على أتمتة هذه التحويلات بشكل موثوق عبر ملفات متعددة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **استخراج البيانات الموجهة للجدول**  
+  يقوم بتحويل محتوى المستند المهيكل إلى تخطيطات قائمة على الخلايا.
+
+* **دعم الصيغ القديمة**  
+  يساعد على الحفاظ على التوافق مع سير عمل الجداول القديمة.
+
+* **ترحيل الجداول والسجلات**  
+  ينقل معلومات المستند إلى بنية أكثر قابلية للتحليل.
+
+* **إعادة استخدام البيانات التشغيلية**  
+  يجعل المحتوى المستخرج أسهل للمراجعة والمعالجة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط تحويل جداول إكسل القديمة**  
+  يمكن لأتمتة بايثون تحويل جداول ODT إلى مخرجات SXC تلقائيًا.
+
+* **استخراج السجلات على دفعات**  
+  يمكن معالجة مستندات متعددة إلى صيغ جداول البيانات على نطاق واسع.
+
+* **التحقق من صحة البيانات وتصديرها**  
+  يمكن تطبيع المحتوى المستخرج قبل تحويله إلى SXC.
+
+* **دعم التوافقية في سير العمل**  
+  يمكن للنتائج المحولة تغذية الأنظمة التي لا تزال تعتمد على هياكل جداول البيانات القديمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

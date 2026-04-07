@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod MSG na ODT mění soubory e‑mailových zpráv na textový formát otevřených dokumentů pro editovatelné, na standardech založené zpracování dokumentů. Je užitečný, když organizace potřebují flexibilní přístup k dokumentům a kompatibilitu napříč otevřenými produktivními prostředí.
+
+V rámci automatizačních pracovních toků podporuje převod MSG na ODT standardizaci dokumentů, tvorbu editovatelných archivů a integraci se systémy pro zpracování otevřených dokumentů. Umožňuje škálovatelné a přenosné řízení dokumentů ze zdrojů e‑mailů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Dokumentace otevřených standardů**  
+  Zachovat obsah e‑mailu v editovatelném formátu založeném na otevřených standardech dokumentů.
+
+* **Editace napříč platformami**  
+  Sdílet převedené soubory mezi systémy, které podporují otevřené textové dokumenty.
+
+* **Přístupná správa záznamů**  
+  Ukládat obsah odvozený ze zpráv ve flexibilní a přenosné formě dokumentu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaný převod do otevřeného formátu**  
+  Převést soubory MSG na ODT dokumenty pro standardizované zpracování.
+
+* **Editovatelné archivní pracovní toky**  
+  Vytvořit prohledávatelné a editovatelné úložiště z e‑mailové komunikace.
+
+* **Řetězce pro interoperabilitu dokumentů**  
+  Přesouvat převedené soubory skrze systémy, které upřednostňují otevřené formáty a přenositelnost.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSX إلى DOCM يتيح تحويل بيانات الجداول إلى مستندات Word مدعومة بالماكرو تدعم سلوكيات مستند متقدمة ومنطقًا قابلًا لإعادة الاستخدام. هذا مفيد عندما يجب تحويل جداول البيانات الغنية بالمعلومات إلى وثائق تفاعلية أو واعية للعمليات.
+
+لأنظمة التركيز على الأتمتة، يدعم تحويل XLSX إلى DOCM سير عمل ديناميكي من خلال الجمع بين استخراج البيانات المهيكلة وإمكانيات المستندات المدعومة بالماكرو، مما يجعل إنشاء المستندات ذات الحجم الكبير أكثر كفاءة ومرونة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تقارير مدعومة بالماكرو**  
+  يحوّل محتوى الجداول إلى مستندات يمكنها تضمين إجراءات آلية ومنطق تنسيق متقدم.
+
+* **مستندات أعمال تفاعلية**  
+  يساعد في إنشاء مستندات تجمع بين بيانات الجداول والأتمتة المدمجة للعمليات الداخلية.
+
+* **قوالب تشغيلية قابلة لإعادة الاستخدام**  
+  يدعم سير عمل المستندات حيث تحتاج الملفات المُنشأة إلى الحفاظ على سلوكيات الماكرو للاستخدام المتكرر.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء ملفات الامتثال الآلية**  
+  يمكن للأنظمة تحويل سجلات XLSX إلى ملفات DOCM لمجموعات المستندات التي تعتمد على خطوات أتمتة مدمجة.
+
+* **خطوط معالجة البيانات إلى المستند**  
+  يمكن دمج التحويل في سير عمل الخلفية التي تُنتج مخرجات مدعومة بالماكرو من مصادر الجداول.
+
+* **تخصيص المستندات ذات الحجم الكبير**  
+  يسمح التحويل البرمجي بإدراج بيانات ديناميكية في ملفات DOCM لإنتاج مستندات قابلة للتوسع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

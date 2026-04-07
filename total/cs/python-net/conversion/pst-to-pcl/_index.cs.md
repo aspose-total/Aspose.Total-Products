@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PST na PCL konverze v Python API převádí obsah poštovní schránky do jazyka pro řízení tiskáren pro workflow zaměřené na tisk a generování výstupu připraveného pro zařízení. Je užitečná, když je archivovaný e‑mailový obsah třeba převést pro přímý tisk, hardwarové workflow nebo integraci tiskové pipeline.
+
+Pro automatizaci PST na PCL konverze podporuje rozsáhlé zpracování tisku a pomáhá propojit archivy poštovních schránek s provozními prostředími, která vyžadují formáty kompatibilní s tiskárnami. Zvyšuje efektivitu v řízených výstupech a systémech doručování dokumentů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Výstup připravený pro tisk**
+  Převádí obsah PST do PCL pro přímé workflow zaměřené na tisk.
+
+* **Podpora hardwarových workflow**
+  Pomáhá integrovat záznamy odvozené z poštovní schránky do systémů závislých na zařízení.
+
+* **Provozní tisk dokumentů**
+  Zajišťuje konzistentní tištěnou reprezentaci archivovaných zpráv a obsahu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované zpracování tiskové fronty**
+  Systémy mohou převádět archivy PST do PCL pro zjednodušené tiskové operace.
+
+* **Integrace zařízení do pipeline**
+  Převedený výstup může být programově přesunut přímo do prostředí zaměřených na tiskárny.
+
+* **Hromadný tisk záznamů**
+  Programová konverze podporuje vysokokapacitní přípravu tisku z obsahu poštovní schránky.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

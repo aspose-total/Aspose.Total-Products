@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT 到 XLT 的转换将文档模板转换为可重复使用的电子表格模板文件，以实现一致的工作簿创建。当结构化文档内容应作为电子表格工作流的可重复基础时，这非常有价值。
+
+借助 Python API，可以自动化从 DOT 源生成 XLT 模板，以提升标准化并减少重复的工作簿设计工作量。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **可重用的电子表格模板创建**
+  将 DOT 文件转换为 XLT 模板，以实现重复的工作簿生成。
+
+* **一致的数据布局**
+  将文档结构转化为保持格式和组织的电子表格模板。
+
+* **运营标准化**
+  支持从集中管理的文档模板进行可重复的电子表格创建。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板发布**
+  Python 脚本可以从 DOT 文档生成 XLT 文件，以用于持续的运营。
+
+* **标准工作簿流水线**
+  转换支持需要大规模一致电子表格模板的系统。
+
+* **批量模板生成**
+  编程化流程有助于构建大量可重用工作簿模板库。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

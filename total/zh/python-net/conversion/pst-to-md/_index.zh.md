@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PST 到 MD 的转换在 Python API 中将邮箱内容转换为 Markdown，使归档通信更容易在以文本为先的工作流中进行结构化、发布和重用。当需要将电子邮件记录转化为轻量、可读的内容用于文档或知识共享时，这非常有用。
+
+在自动化场景中，PST 到 MD 的转换支持内容管道、面向开发者的仓库和静态发布系统。它帮助邮箱数据更容易进行版本管理、转换，并与现代内容运营集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **轻量级内容导出**
+  将 PST 内容转换为 Markdown，以实现可读且可移植的文本工作流。
+
+* **知识库准备**
+  帮助将电子邮件衍生的材料重新用于结构化文档。
+
+* **版本友好归档**
+  支持以适合跟踪更改的文本格式存储邮箱内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **静态内容管道**
+  自动化系统可以将邮箱数据转换为 Markdown，以用于发布或索引。
+
+* **基于仓库的文档**
+  转换后的内容可以流入以文本为中心的环境，以实现协作和再利用。
+
+* **程序化内容转换**
+  Markdown 输出使处理、模板化和分发归档邮件更加容易。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod OTT na XLAM v Python API převádí šablony textových dokumentů OpenDocument na výstupy ve formě doplňků orientovaných na tabulky, které rozšiřují funkčnost sešitu. To je užitečné ve specializovaných pracovních postupech, kde převáděný obsah přispívá k opakovaně použitelným automatizačním aktivům založeným na tabulkách.
+
+Převod podporuje automatizaci tím, že sladí logiku nebo strukturovaný obsah vycházející z dokumentu s pracovními postupy rozšíření tabulek, což pomáhá standardizovat opakovatelný provoz v pokročilých prostředích sešitů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Podpora rozšíření tabulek**  
+  Propojuje obsah dokumentu s pracovními postupy doplňků orientovaných na tabulky.
+
+* **Příprava opakovaně použitelných automatizačních aktiv**  
+  Pomáhá balit strukturovaný obsah pro opakované použití v sešitu.
+
+* **Integrace pokročilých pracovních postupů**  
+  Spojuje textové šablony a scénáře funkčnosti tabulek.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná příprava obsahu doplňku**  
+  Programově generuje výstupy související s XLAM z OTT šablon.
+
+* **Řetězce pro vylepšení sešitu**  
+  Podporuje pracovní postupy, které kombinují převod obsahu s automatizací tabulek.
+
+* **Distribuce opakovaně použitelné obchodní logiky**  
+  Pomáhá rozšiřovat strukturovaná řešení tabulek napříč týmy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

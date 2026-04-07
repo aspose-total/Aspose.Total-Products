@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod MBOX na MD transformuje archivy poštovních schránek do souborů Markdown, což usnadňuje čtení, verzování a opětovné využití e‑mailového obsahu v lehkých textových dokumentačních systémech. Tento formát je ideální pro přenositelnost obsahu, vývojářské pracovní postupy a prostředí pro správu znalostí.
+
+S Python API lze převod MBOX na Markdown automatizovat, aby podporoval škálovatelné získávání obsahu, statické publikování a efektivní integraci s moderními dokumentačními řetězci.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Lehká textová dokumentace**
+  Převést e‑maily do Markdown pro čistou, čitelnou a přenosnou dokumentaci.
+
+* **Integrace znalostní báze**
+  Znovu použít obsah poštovní schránky ve wiki, repozitáři nebo ve statických pracovních postupech.
+
+* **Archivace přátelská k verzím**
+  Uložit převedený e‑mailový obsah ve formátu vhodném pro sledování a aktualizace.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Generování statického obsahu**
+  Automaticky převést data poštovní schránky do Markdown pro publikování nebo indexování.
+
+* **Pracovní postupy založené na repozitáři**
+  Použít Python k přesunu e‑mailových archivů do systémů správy obsahu zaměřených na text.
+
+* **Škálovatelné dokumentační řetězce**
+  Dávkově převést soubory MBOX na strukturovaná Markdown aktiva pro opětovné využití.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

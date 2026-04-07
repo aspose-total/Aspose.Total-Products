@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MSG 到 DOCM 的转换将电子邮件消息文件转换为支持高级文档行为的宏启用的文字处理文档。这在必须以可编辑格式保留消息内容且仍然兼容基于宏的处理环境时非常有用。
+
+对于自动化而言，MSG 到 DOCM 的工作流在依赖脚本化文档操作、验证例程或结构化格式化任务的系统中具有相关性。它们帮助将电子邮件衍生的内容与动态企业文档操作相连接。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用的文档**  
+  为使用自动化宏的文档环境准备转换后的电子邮件内容。
+
+* **结构化内容处理**  
+  在转换后支持基于规则的格式化和操作。
+
+* **运营文档组装**  
+  将消息数据合并到受控的、可自动化的文档模板中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **宏驱动的后处理**  
+  将 MSG 文件转换为 DOCM，以便下游例程可以应用格式化或验证步骤。
+
+* **企业文档工作流**  
+  将转换后的文档输入依赖宏支持的自动化审查系统。
+
+* **动态内容处理**  
+  实现对消息衍生文档的程序化更新和工作流操作。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ODT إلى XLT يحول محتوى المستند إلى تنسيق قالب جدول بيانات يدعم إنشاء دفاتر عمل قابلة للتكرار. هذا مفيد عندما تحتاج هياكل البيانات المستمدة من المستند إلى أن تصبح تخطيطات جدول بيانات قابلة لإعادة الاستخدام للاستخدام التشغيلي المستمر.
+
+باستخدام واجهات برمجة تطبيقات Python، يدعم تحويل ODT إلى XLT الأتمتة المدفوعة بالقوالب، والتقارير المعيارية، وتدفقات البيانات القابلة للتكرار. يساعد ذلك في تحويل محتوى المستند الثابت إلى أصول جدول بيانات قابلة لإعادة الاستخدام.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء قالب جدول بيانات**  
+  يحول المحتوى المستخرج إلى هياكل دفتر عمل قابلة لإعادة الاستخدام.
+
+* **تخطيطات تقارير معيارية**  
+  يساعد في الحفاظ على التناسق عبر مخرجات جدول البيانات المتكررة.
+
+* **أطر بيانات قابلة لإعادة الاستخدام**  
+  يدعم إنشاء دفاتر عمل متكررة من محتوى مصدر مشابه.
+
+* **كفاءة تشغيلية**  
+  يقلل من العمل المتكرر في إعداد جداول البيانات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط أنابيب إنشاء القوالب**  
+  يمكن لسكربتات Python تحويل البيانات المستمدة من ODT إلى قوالب XLT تلقائيًا.
+
+* **إعداد دفاتر عمل متكررة**  
+  يمكن إعادة استخدام الهياكل المستندة إلى المستند في تدفقات عمل جداول البيانات المتكررة.
+
+* **توحيد القوالب على دفعات**  
+  يمكن تحويل ملفات المصدر المتعددة إلى تنسيقات جداول بيانات قابلة لإعادة الاستخدام.
+
+* **إنشاء تقارير مدفوعة بالعملية**  
+  يمكن لمخرجات القالب دعم إنشاء دفاتر عمل آلية في المراحل اللاحقة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

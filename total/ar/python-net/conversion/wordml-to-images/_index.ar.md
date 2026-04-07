@@ -53,7 +53,41 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+يحوّل تحويل WordML إلى صور محتوى المستند إلى صيغ صور لعرض المعاينة، والمشاركة، والنشر، والأرشفة البصرية. يكون ذلك مفيدًا عندما تحتاج صفحات المستند إلى عرض متسق عبر المنصات دون الحاجة إلى برنامج تحرير المستندات.
+
+تُبسّط واجهات برمجة تطبيقات Python تحويل WordML إلى صور عن طريق تصيير الصفحات برمجيًا، مما يتيح إنشاء مصغرات على نطاق واسع، ومعاينات الصفحات، وتدفقات عمل توزيع المستندات بصريًا.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء معاينة المستند**
+  يحوّل صفحات WordML إلى صور لعرض سريع وفهرسة.
+
+* **المشاركة البصرية**
+  يجعل محتوى المستند أسهل في التوزيع عبر القنوات والواجهات الصديقة للصور.
+
+* **عرض غير قابل للتغيير**
+  يحافظ على مظهر الصفحة للمراجعة أو النشر أو لأغراض المرجعية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط إنشاء المصغرات**
+  ينشئ تلقائيًا صور معاينة من دفعات مستندات WordML.
+
+* **دعم سير عمل النشر**
+  يحوّل الصفحات إلى صور للمواقع الإلكترونية أو أنظمة المعرفة أو أدوات المراجعة.
+
+* **تصور الأرشيف**
+  يتيح الوصول إلى المستندات المخزنة عبر الصور دون فتح تنسيق الملف الأصلي.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

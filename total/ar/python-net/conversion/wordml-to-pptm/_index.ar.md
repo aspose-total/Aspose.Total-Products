@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل WordML إلى PPTM يحول محتوى المستند إلى ملفات عرض تمكين الماكرو لتدفقات العمل التي تجمع بين الشرائح القابلة للتحرير والمنطق المدمج للأتمتة. هذا مفيد عندما تحتاج ملفات العرض إلى كل من المحتوى المنظم والسلوكيات القابلة للبرمجة.
+
+باستخدام واجهات برمجة تطبيقات Python، يدعم تحويل WordML إلى PPTM توليد عروض تقديمية قابلة للتوسع مع التوافق مع متطلبات أتمتة الشرائح المتقدمة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء مجموعة عروض مدعومة بالماكرو**
+  يحول محتوى WordML إلى ملفات PPTM لعروض تقديمية قادرة على الأتمتة.
+
+* **دعم سير العمل المتقدم**
+  يمكن العروض التقديمية التي تعتمد على كل من المحتوى القابل للتحرير والمنطق المدمج.
+
+* **محتوى تشغيلي قابل لإعادة الاستخدام**
+  يحول مادة المستند إلى أصول عرض تقديمي قابلة للبرمجة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تجميع مجموعة عروض تلقائي**
+  ينتج عروض PPTM من مستندات منظمة في سير عمل قابل للتكرار.
+
+* **دمج منطق العرض**
+  يدعم السيناريوهات التي يجب فيها على الشرائح المحوّلة العمل مع الأتمتة المدمجة.
+
+* **تعبئة محتوى المؤسسة**
+  يربط تحويل المستندات بأنظمة تسليم العروض المتقدمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

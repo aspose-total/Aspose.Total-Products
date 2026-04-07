@@ -65,7 +65,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOCX إلى SXC يحول مستندات معالجة النصوص إلى ملفات جداول بيانات متوافقة مع بيئات جداول البيانات القديمة في OpenOffice. تساعد هذه العملية على تحويل المحتوى المهيكل أو الجدولي للمستند إلى تنسيق قابل لإعادة الاستخدام يركز على البيانات.
+
+مع واجهات برمجة تطبيقات Python، يمكن دمج تحويل DOCX إلى SXC في سير عمل دعم الأنظمة القديمة، وأنابيب ترحيل المستندات، وأنظمة التقارير الآلية. يدعم التوافقية حيث تظل معايير جداول البيانات القديمة مهمة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تصدير جداول البيانات القديمة**  
+  يقوم بتحويل محتوى DOCX إلى ملفات جداول بيانات لبيئات المكاتب القديمة.
+
+* **ترحيل البيانات المهيكلة**  
+  يساعد على نقل الجداول المستندة إلى المستندات والمعلومات المنظمة إلى تنسيقات تركز على البيانات.
+
+* **التوافق مع الأنظمة القديمة**  
+  يدعم سير العمل الذي يعتمد على معايير جداول البيانات القديمة.
+
+* **إعادة استخدام المستند إلى جدول البيانات**  
+  يتيح تحويل النص المهيكل للاستخدام التحليلي أو الأرشيفي.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تحويل تنسيق قديم تلقائي**  
+  يمكن للأنظمة تحويل ملفات DOCX إلى جداول بيانات SXC لتدفقات العمل المتوافقة.
+
+* **أنابيب تصدير جداول البيانات الدفعي**  
+  يمكن لسكربتات Python تحويل مجموعات مستندات كبيرة إلى مخرجات جداول بيانات قديمة.
+
+* **أتمتة الترحيل والتوافقية**  
+  يمكن تحويل بيانات المستند برمجياً إلى تنسيق SXC للمنصات القديمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

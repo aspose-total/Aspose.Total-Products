@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSM 转 DOT 转换能够将启用宏的电子表格内容转换为用于生成标准化文档的 Word 模板格式。当电子表格数据作为跨部门或重复工作流中可重复文档创建的基础时，这非常有价值。
+
+在以自动化为重点的环境中，将 XLSM 转换为 DOT 支持可重用的文档结构、一致的格式以及可扩展的模板生成。Python API 使得在文档组装系统、报告框架和运营内容流水线中自动化此过程成为可能。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **模板创建**
+  将基于电子表格的内容转换为可重用的文字处理模板。
+
+* **标准化输出**
+  在重复的业务流程中支持一致的文档格式。
+
+* **运营文档设计**
+  帮助团队从结构化的电子表格输入构建基于模板的文档。
+
+* **可重用内容框架**
+  实现可在下游工作流中填充或适配的文档模型。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **模板生成流水线**
+  Python API 可以将 XLSM 文件转换为 DOT 模板，以满足重复的文档需求。
+
+* **自动化标准化**
+  转换工作流可以确保文档结构在多个输出之间保持统一。
+
+* **批量模板准备**
+  大量电子表格可以通过编程方式转换为可重用的模板。
+
+* **文档组装集成**
+  DOT 输出可以供自动化系统使用，以大规模生成标准化的业务文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX to EMLX conversion converts Word template content into an email file format commonly used in certain desktop mail environments. It helps organizations adapt structured document content for localized email storage and client-specific workflows.
+
+Using Python APIs, this conversion supports automation where document templates must be turned into client-compatible email assets for processing, delivery preparation, or archiving.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **E‑mailový výstup specifický pro klienta**
+  Convert document content into a mail format aligned with supported desktop environments.
+
+* **Lokalizované ukládání zpráv**
+  Preserve email-ready content in a format suitable for mailbox-level storage.
+
+* **Komunikace založená na šablonách**
+  Reuse Word templates as a foundation for structured email generation.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Workflow přípravy poštovní schránky**
+  Generate EMLX files automatically from DOTX templates for downstream handling.
+
+* **Automatizované balení e‑mailů**
+  Produce client-oriented email files during communication processing tasks.
+
+* **Archivace dokument‑na‑e‑mail**
+  Store transformed template content in mail-compatible archives for reference.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

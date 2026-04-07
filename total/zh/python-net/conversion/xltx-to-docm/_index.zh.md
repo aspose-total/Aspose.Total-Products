@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTX 转 DOCM 转换将电子表格模板内容转换为宏启用的文字处理文档格式，适用于高级文档逻辑和可重复使用的业务文件。当需要将基于模板的电子表格信息以可编辑文档的形式交付，并在目标文档中支持嵌入的自动化行为时，这非常有用。
+
+对于现代自动化工作流，XLTX 转 DOCM 转换有助于将基于电子表格的内容生成与动态文档流程相连接，实现智能文件的可扩展生产，这些文件支持可重复的操作、结构化编辑以及工作流效率。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用文档交付**  
+  将基于模板的电子表格内容转换为能够支持内置脚本操作的文档。
+
+* **高级报告工作流**  
+  实现可编辑报告的创建，生成的内容随后可以触发文档端的自动化。
+
+* **可重复使用的业务模板**  
+  支持向组织分发用于重复业务流程的智能文档文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化智能文档创建**  
+  系统可以将 XLTX 模板转换为 DOCM 文件，作为更大自动化文档流水线的一部分。
+
+* **工作流驱动的文件生成**  
+  该主题支持为下游审查和脚本处理而设计的文件的自动生成。
+
+* **大批量运营输出**  
+  编程化转换使得从结构化电子表格模板创建大量宏启用文档变得更容易。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

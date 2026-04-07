@@ -65,7 +65,47 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Slides for Python via 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konverze PPTX na DOCM převádí obsah prezentace do formátu dokumentu s podporou maker, který umožňuje editovatelný text a pokročilé možnosti automatizace dokumentů. Je relevantní, když je materiál prezentace nutné znovu použít v pracovních postupech, které závisí na skriptovaném chování dokumentu, šablonách nebo řízeném zpracování.
+
+S Python API lze konverzi PPTX na DOCM vložit do automatizovaných podnikových pracovních postupů, které vyžadují jak transformaci obsahu, tak práci s dokumenty s makry. To podporuje škálovatelné sestavování dokumentů, zpracování založené na formulářích a provozní automatizaci v prostředích s vysokým objemem obsahu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Makro‑povolená dokumentace**  
+  Převést obsah snímků do dokumentů určených pro automatizované akce a skriptované zpracování.
+
+* **Pracovní postupy založené na šablonách**  
+  Znovu použít materiál prezentace ve strukturovaných dokumentech, které podporují opakující se obchodní úkoly.
+
+* **Generování provozních formulářů**  
+  Připravit obsah odvozený z prezentace pro pracovní postupy zahrnující logiku dokumentů nebo vestavěnou automatizaci.
+
+* **Procesně řízené reportování**  
+  Přeměnit prezentace na editovatelné soubory vhodné pro pokročilou správu životního cyklu dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované sestavování dokumentů**  
+  Převést soubory PPTX na výstupy DOCM pro pracovní postupy, které kombinují obsah a makrologiku.
+
+* **Zpracování obsahu na základě pravidel**  
+  Směrovat převedené dokumenty skrze systémy, které aplikují skriptovanou validaci nebo aktualizace.
+
+* **Dávkové zpracování obchodních formulářů**  
+  Generovat soubory s makry z prezentací pro opakovatelný provozní proces.
+
+* **Podniková automatizace dokumentů**  
+  Integrovat programovou konverzi do širších systémů pro řízené provádění dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

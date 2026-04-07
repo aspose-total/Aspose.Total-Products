@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM na OST převod převádí makrem povolené šablony Wordu na data poštovní schránky vhodná pro scénáře offline ukládání pošty a pracovní postupy zpráv. Je relevantní tam, kde je obsah založený na dokumentech začleněn do poštovně orientovaných prostředí, která spoléhají na synchronizované lokální úložiště dat.
+
+Použití Python API pro převod DOTM na OST pomáhá automatizovat strukturovanou přípravu poštovních dat z dokumentových šablon. Podporuje škálovatelné zpracování, snižuje ruční úsilí při převodu a zlepšuje integraci mezi systémy dokumentů a podnikovými pracovními postupy zpráv.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Příprava offline poštovních dat**
+  Převést obsah založený na dokumentech do formátu, který je v souladu s pracovními postupy offline ukládání zpráv.
+
+* **Archivace komunikace založené na šablonách**
+  Zachovat znovupoužitelný obsah šablon v poštovně orientovaných zpracovatelských prostředích.
+
+* **Integrace podnikového zasílání zpráv**
+  Propojit dokumentové pracovní postupy se systémy, které spravují synchronizovaná data poštovní schránky.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná generace poštovního úložiště**
+  Pracovní postupy mohou převádět obsah DOTM na procesy zpracování dat kompatibilní s OST.
+
+* **Integrace zprávového systému**
+  Převod podporuje automatizovanou přípravu komunikace odvozené z dokumentů pro scénáře offline přístupu.
+
+* **Dávkové zpracování podniku**
+  Programové úlohy umožňují rozsáhlé zpracování šablon DOTM pro pracovní postupy poštovních dat.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

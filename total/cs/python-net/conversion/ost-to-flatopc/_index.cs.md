@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OST to FlatOPC conversion transformuje obsah poštovní schránky do jednosouborové XML‑založené reprezentace kancelářského balíčku, podporující pokročilé zpracování, kontrolu a interoperabilní pracovní postupy. Tento formát je užitečný pro systémy, které potřebují dokumentová data v transparentní a strukturované značkovací podobě.
+
+Python API dělají převod OST na FlatOPC vhodným pro automatizační scénáře, kde je třeba integrovat obsah poštovní schránky do XML‑centrických zpracovatelských pipeline. Pomáhá zlepšit přenositelnost, strojovou čitelnost a kompatibilitu se strukturovanými operacemi s obsahem.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **XML‑založená reprezentace obsahu**  
+  Převádí data poštovní schránky do FlatOPC pro strukturované a kontrolovatelné balení dokumentů.
+
+* **Interoperabilní zpracování dokumentů**  
+  Podporuje pracovní postupy, které vyžadují kancelářský obsah v jednosouborovém XML formátu.
+
+* **Pokročilá transformace obsahu**  
+  Pomáhá vývojářům manipulovat s převedenými daty poštovní schránky v prostředích řízených značkováním.
+
+* **Pracovní postupy systémové integrace**  
+  Umožňuje snadnější výměnu obsahu odvozeného z e‑mailu mezi strukturovanými dokumentovými systémy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Značkovací zpracovatelské pipeline**  
+  Python automatizace převádí obsah OST do FlatOPC pro XML‑založené pracovní postupy.
+
+* **Automatizace výměnného formátu**  
+  Programová konverze podporuje integraci se systémy, které konzumují strukturované dokumentové značkování.
+
+* **Procesy validace obsahu**  
+  Automatizované rutiny kontrolují a transformují XML reprezentace odvozené z poštovní schránky ve velkém měřítku.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

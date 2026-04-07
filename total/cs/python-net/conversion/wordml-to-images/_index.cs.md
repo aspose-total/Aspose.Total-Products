@@ -53,7 +53,41 @@ Používáme API [Aspose.Words for Python via .NET](https://products.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML na obrázky převod vykresluje obsah dokumentu do obrazových formátů pro náhled, sdílení, publikování a vizuální archivaci. Je užitečný, když je potřeba, aby se stránky dokumentu zobrazovaly konzistentně napříč platformami, aniž by bylo nutné mít editovatelný software pro dokumenty.
+
+Python API zjednodušují převod WordML na obrázky tím, že programově vykreslují stránky, což umožňuje hromadnou tvorbu miniatur, náhledových stránek a workflow vizuální distribuce dokumentů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování náhledů dokumentu**
+  Převádí stránky WordML do obrázků pro rychlé prohlížení a indexování.
+
+* **Vizuelní sdílení**
+  Umožňuje snadnější distribuci obsahu dokumentu v kanálech a rozhraních přátelských k obrázkům.
+
+* **Neměnná prezentace**
+  Zachovává vzhled stránky pro účely revize, publikování nebo referencí.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Pipelines pro tvorbu miniatur**
+  Automaticky generuje náhledové obrázky z dávky dokumentů WordML.
+
+* **Podpora workflow publikování**
+  Převádí stránky do obrázků pro webové stránky, znalostní systémy nebo nástroje pro revizi.
+
+* **Vizualizace archivu**
+  Umožňuje přístup k uloženým dokumentům na základě obrázků, aniž by bylo nutné otevírat původní formát souboru.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

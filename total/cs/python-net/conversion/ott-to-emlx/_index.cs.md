@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod OTT na EMLX v Python API transformuje šablony textu OpenDocument na soubory zpráv EMLX používané ve specifických prostředích pro ukládání pošty. Je relevantní, když musí obsah založený na šablonách integrovat se systémy, které spoléhají na tuto strukturu souboru e‑mail.
+
+Tento převod posiluje automatizaci tím, že umožňuje obsahu komunikace pocházejícímu z dokumentu proudit do specializovaných e‑mailových ekosystémů bez ručního přepisování, podporuje škálovatelné připravení zpráv a archivní pracovní postupy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Podpora specializovaného úložiště pošty**  
+  Vytváří soubory zpráv kompatibilní s prostředími založenými na EMLX.
+
+* **Komunikace řízená šablonou**  
+  Znovu využívá obsah OTT pro strukturovanou generaci e‑mailů.
+
+* **Přenosný výstup zpráv**  
+  Produkuje soubory, které lze uložit nebo přenést v rámci poštovních pracovních postupů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná výroba souborů e‑mail**  
+  Generuje výstupy EMLX z šablon dokumentů hromadně.
+
+* **Archivní pracovní postupy**  
+  Ukládá komunikaci odvozenou ze šablon do strukturovaných poštovních úložišť.
+
+* **Příprava obsahu napříč systémy**  
+  Propojuje generování dokumentů se specifickým zpracováním e‑mailů na platformě.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

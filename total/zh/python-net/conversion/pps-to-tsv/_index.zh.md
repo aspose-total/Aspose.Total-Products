@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}}
+
+PPS 到 TSV 的 Python 转换允许将演示文稿内容导出为制表符分隔值，以便进行结构化数据处理和系统互操作性。该格式在转换后的信息需要保持简洁、轻量且易于在技术工作流中解析时尤为有用。
+
+从自动化的角度来看，PPS 到 TSV 的转换支持可扩展的提取、脚本和工具的摄取，以及对演示文稿衍生数据的高效处理。它非常适合那些对干净的表格输出和最小化格式开销有需求的流水线。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **结构化文本导出**
+  将演示文稿数据转换为简单的表格格式以便重复使用。
+
+* **系统互操作性**
+  为期望基于分隔符输入的工具准备幻灯片衍生信息。
+
+* **批量数据准备**
+  将大量演示文稿转换为轻量的结构化记录。
+
+* **技术工作流支持**
+  使用制表符分隔的输出用于脚本、导入和转换。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **数据流水线摄取**
+  自动化 PPS 到 TSV 的转换，以供下游解析和转换作业使用。
+
+* **批量提取服务**
+  按计划将演示文稿集合处理为 TSV 文件。
+
+* **脚本友好导出自动化**
+  为命令行和编程工作流生成干净的表格输出。
+
+* **轻量归档处理**
+  将幻灯片内容转换为紧凑的结构化文本，以实现可扩展的存储和传输。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

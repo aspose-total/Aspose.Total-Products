@@ -46,9 +46,43 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل VCF إلى PDF يحول بيانات بطاقات الاتصال إلى مستندات ذات تخطيط ثابت مثالية للمشاركة، والأرشفة، والحفاظ على التنسيق عبر الأجهزة. هذا أحد أكثر الطرق عملية لتوزيع معلومات الاتصال بصيغة عرض موثوقة ومهنية.
+
+في سير العمل الآلي، يتيح تحويل VCF إلى PDF لواجهات برمجة تطبيقات Python إنشاء مخرجات مستندات آمنة، ومتسقة، وقابلة للتوسع للتقارير، والامتثال، والتخزين الرقمي، وتكامل عمليات الأعمال.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **مستندات جهات الاتصال المحمولة**  
+  تحويل سجلات VCF إلى ملفات PDF لعرض موثوق ومشاركة سهلة.
+
+* **حفظ أرشيفي**  
+  تخزين معلومات جهات الاتصال في تنسيق ثابت ومستقر للاستخدام على المدى الطويل.
+
+* **توزيع احترافي**  
+  تسليم بيانات جهات الاتصال المنسقة في شكل مستند جاهز للعرض.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء PDF دفعي**  
+  إنشاء مستندات PDF تلقائيًا من كميات كبيرة من ملفات VCF.
+
+* **خطوط الامتثال والتخزين**  
+  إدراج ملفات PDF المحولة في أنظمة الأرشفة أو التدقيق أو حفظ السجلات.
+
+* **تسليم مستندات قابل للتوسع**  
+  استخدام واجهات برمجة تطبيقات Python لإنتاج ملفات PDF لجهات الاتصال موحدة عبر سير عمل الأتمتة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

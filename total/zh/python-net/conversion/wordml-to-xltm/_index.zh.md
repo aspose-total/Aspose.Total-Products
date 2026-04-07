@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML 到 XLTM 的转换将基于文档的结构化内容转换为宏启用的电子表格模板，以实现可重复的工作簿生成并提供自动化支持。当标准化的电子表格还必须具备可编程行为时，这一转换非常有价值。
+
+通过使用 Python API，WordML 到 XLTM 的转换帮助组织自动化创建符合高级处理工作流的可重用电子表格模板。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用模板输出**
+  将 WordML 内容转换为 XLTM 文件，以构建可重用的自动化工作簿基础。
+
+* **可重复的电子表格自动化**
+  支持通过嵌入的逻辑功能进行重复的工作簿创建。
+
+* **结构化模板标准化**
+  帮助将已批准的文档内容打包成可直接用于流程的电子表格模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板发布**
+  从 WordML 输入生成 XLTM 文件，以用于重复的电子表格操作。
+
+* **高级报告工作流支持**
+  将文档驱动的内容与支持宏的工作簿模板相连接。
+
+* **可扩展的流程打包**
+  实现自动化就绪的电子表格模板的一致创建。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

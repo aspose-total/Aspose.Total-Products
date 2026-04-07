@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OFT na WordML převod pomocí Python API transformuje šablony e‑mailů Outlooku do XML‑založeného značkovacího formátu pro zpracování textových dokumentů, který umožňuje strukturovanou a strojově čitelnou manipulaci s dokumenty. To je užitečné, když je potřeba obsah dokumentu zkontrolovat, transformovat nebo integrovat prostřednictvím systémů rozumějících značkování.
+
+Tento převod je vysoce relevantní pro automatizaci, protože WordML podporuje podrobné zpracování, validaci a interoperabilitu v XML‑řízených pracovních postupech. Umožňuje moderním systémům spravovat obsah dokumentů s větší kontrolou a transparentností.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Strukturovaná konverze značkování**  
+  Převést šablony OFT do WordML pro strojově čitelnou reprezentaci dokumentu.
+
+* **Integrace XML pracovních postupů**  
+  Použít výstupy WordML v systémech, které zpracovávají, transformují nebo validují značkování dokumentů.
+
+* **Detailní inspekce obsahu**  
+  Zachovat strukturu dokumentu ve formátu vhodném pro programovou analýzu a manipulaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Transformační pipeline založené na XML**  
+  Vkládat výstupy WordML do automatizovaných systémů pro restrukturalizaci a extrakci obsahu.
+
+* **Pracovní postupy validace značkování**  
+  Použít Python API k programové kontrole struktury dokumentu a pravidel obsahu.
+
+* **Interoperabilní výměna obsahu**  
+  Převést soubory OFT do WordML pro integraci s platformami, které závisí na strukturovaných XML dokumentech.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

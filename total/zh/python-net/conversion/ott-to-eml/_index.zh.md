@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API 中的 OTT 转 EML 转换将 OpenDocument 文本模板转换为标准电子邮件消息文件，保留消息结构以便存储、传输和下游处理。当文档内容必须成为可移植的电子邮件工件时，这非常有用。
+
+该转换通过实现基于文档的电子邮件文件生成，支持自动化，可将这些文件归档、审阅、导入或由兼容电子邮件的系统在可重复的工作流中处理。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **电子邮件文件生成**  
+  从可重用的文档模板生成标准消息文件。
+
+* **归档准备**  
+  创建适用于记录保存和传输的电子邮件工件。
+
+* **系统交接**  
+  支持需要消息文件而非直接发送电子邮件的工作流。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量电子邮件草稿创建**  
+  将大量 OTT 模板转换为 EML 文件，以供审阅或投递流水线使用。
+
+* **自动化记录生成**  
+  将可用于沟通的输出存储为标准电子邮件文件。
+
+* **与邮件处理系统的集成**  
+  将生成的 EML 文件导入到摄取、归档或合规工作流中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV na DOTM převod převádí strukturovaná tabulková data do formátů šablon dokumentů s makry, které podporují opakovatelná a pokročilá dokumentační workflow. Je užitečný tam, kde organizace potřebují konzistentní šablony s rozšířeným chováním dokumentů pro strukturované výstupy.
+
+Pomocí Python API lze tento převod začlenit do automatizovaných pipeline, které generují soubory připravené jako šablony z TSV zdrojů, což pomáhá zlepšovat standardizaci dokumentů a efektivitu procesů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Makro‑podporované šablony**  
+  Podporuje tvorbu pokročilých znovupoužitelných šablon dokumentů z obsahu TSV.
+
+* **Standardizace strukturovaných výstupů**  
+  Pomáhá udržovat jednotné vzory dokumentů napříč opakujícími se obchodními případy použití.
+
+* **Publikování dat na základě šablon**  
+  Umožňuje strukturovaným datovým sadám napájet řízené procesy generování dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Opakovaná generace šablon**  
+  Automatizace může vytvářet výstupy připravené jako DOTM z plánovaných exportů TSV.
+
+* **Pokročilé dokumentační workflow**  
+  Python API mohou integrovat transformaci dat s makro‑podporovanými systémy šablon.
+
+* **Škálovatelné úlohy převodu**  
+  Hromadné vstupy TSV lze převést do souborů DOTM jako součást automatizovaných operací.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

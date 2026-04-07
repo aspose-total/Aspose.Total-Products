@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل MBOX إلى DOCM يحول أرشيفات صناديق البريد إلى مستندات Word مفعلة بالماكرو، مما يسمح بالحفاظ على محتوى البريد الإلكتروني في تنسيق يمكنه دعم عمليات المستندات المتقدمة. هذا مفيد عندما يجب أن تظل الملفات المحولة متوافقة مع أنظمة المستندات التي تعتمد على الأتمتة المدمجة أو المنطق المخصص.
+
+باستخدام واجهات برمجة تطبيقات Python، يمكن للفرق أتمتة تحويل MBOX إلى DOCM لتبسيط معالجة أرشيف البريد، ودعم عمليات سير العمل القائمة على القوالب، وإنشاء مخرجات منظمة للعمليات التي تركز على المستندات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **عمليات مستندات مدعومة بالماكرو**
+  تصدير محتوى البريد الإلكتروني إلى ملفات DOCM للأنظمة التي تستخدم سلوك المستندات الآلي.
+
+* **إعادة استخدام محتوى البريد المهيكل**
+  حفظ الرسائل بتنسيق مناسب للتحرير المتقدم والمعالجة المُتحكم فيها.
+
+* **حزم المستندات التشغيلية**
+  تحضير الملفات المستخرجة من البريد الإلكتروني للبيئات المبنية على ميزات أتمتة Word.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تصدير البريد القائم على القوالب**
+  تحويل مدخلات صندوق البريد إلى مخرجات DOCM متوافقة مع عمليات المستندات الداخلية.
+
+* **معالجة المكتب الآلية**
+  إدخال المستندات البريدية المحولة إلى خطوط أنابيب مراجعة وتنسيق مبرمجة.
+
+* **تحويل الأرشيف القابل للتوسع**
+  استخدام Python لتحويل محتوى MBOX دفعةً إلى أصول مستندات مدعومة بالماكرو.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

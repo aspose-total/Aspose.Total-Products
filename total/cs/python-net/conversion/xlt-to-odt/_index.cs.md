@@ -65,7 +65,47 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLT to ODT conversion in Python allows Excel template files to be converted into open document text files that support editable, standards-based document workflows. This is useful for organizations seeking flexible document interoperability and broader compatibility across environments that prefer open formats.
+
+From an automation standpoint, XLT to ODT conversion improves document exchange and reduces dependence on closed workflows. It supports scalable processing pipelines where spreadsheet-driven content is transformed into editable, portable text documents for collaboration, storage, or downstream automation.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření dokumentů v otevřeném formátu**  
+  Převádějte šablony XLT na soubory ODT pro editovatelné a standardy vyhovující dokumentace.
+
+* **Sdílení interoperabilního obsahu**  
+  Umožněte širší přístup k převedeným dokumentům v různých prostředích pro zpracování dokumentů.
+
+* **Převod obsahu šablony**  
+  Přesuňte strukturované informace z tabulek do formátu dokumentu vhodného pro textové pracovní postupy.
+
+* **Zvýšení flexibility procesu**  
+  Podporujte týmy, které potřebují otevřené a přenosné výstupy dokumentů ze starých zdrojů šablon.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizace otevřených dokumentů**  
+  Používejte Python API k vytváření souborů ODT ze šablon XLT v opakovatelných konverzních pracovních postupech.
+
+* **Víceplatformní obsahové pipeline**  
+  Integrujte výstupy ODT do systémů, které upřednostňují otevřené standardy a flexibilní výměnu dokumentů.
+
+* **Hromadná konverze starých šablon**  
+  Přeměňujte starší šablony tabulek na otevřené textové dokumenty ve velkém měřítku pomocí automatizace.
+
+* **Automatizované směrování obsahu**  
+  Přeposílejte převedené soubory ODT do schvalovacích, úložných nebo publikačních pipeline bez ručního zásahu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

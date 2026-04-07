@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLT 到 OTT 的 Python 转换使 Excel 模板文件能够转换为开放文档文本模板，以便在一致的文档生成中重复使用。当电子表格模板需要成为标准化、开放格式的文档模板，以支持跨团队和系统的可重复内容创建时，这非常有价值。
+
+在自动化环境中，XLT 到 OTT 的转换加强了模板治理和可重用内容工作流。它帮助组织从电子表格来源构建开放、可扩展的模板资产，并将其集成到程序化文档生成管道中。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **开放模板创建**  
+  将 XLT 文件转换为 OTT 模板，以实现可重用且基于标准的文档生成。
+
+* **一致的文档设计**  
+  使用开放文本模板在所有输出中保持统一的格式和结构。
+
+* **模板库开发**  
+  从电子表格来源的内容构建可重用的模板资产，以用于长期运营。
+
+* **灵活的工作流标准化**  
+  支持受益于开放且可移植模板格式的文档创建流程。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **模板自动化流水线**  
+  使用 Python API 从 XLT 模板生成 OTT 文件，以实现可重复的文档工作流。
+
+* **可重用的文档框架**  
+  将 OTT 输出导入系统，动态使用运营数据填充模板。
+
+* **开放标准集成**  
+  将转换后的模板整合到需要互操作格式的自动化生态系统中。
+
+* **可扩展的模板迁移**  
+  将批量 XLT 文件转换为 OTT 模板，以实现集中重用和流程效率。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

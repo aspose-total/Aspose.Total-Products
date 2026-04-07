@@ -53,7 +53,45 @@ outformat: MHTML
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to MHTML conversion in Python APIs converts OpenDocument text templates into web archive files that bundle content into a single portable page-like format. This is valuable when document output must be viewed in browsers or preserved as self-contained web content.
+
+Преобразование OTT в MHTML в API Python преобразует текстовые шаблоны OpenDocument в файлы веб‑архивов, которые объединяют содержимое в единый переносимый формат, похожий на страницу. Это ценно, когда вывод документа необходимо просматривать в браузерах или сохранять как автономный веб‑контент.
+
+The conversion improves automation by enabling consistent generation of shareable, lightweight web-ready artifacts from templates, which can be stored, transmitted, or embedded in broader digital workflows.
+
+Преобразование повышает уровень автоматизации, позволяя последовательно генерировать совместно используемые, легковесные веб‑готовые артефакты из шаблонов, которые можно хранить, передавать или встраивать в более широкие цифровые рабочие процессы.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Создание веб‑архивов**  
+  Создаёт автономные выводы страниц из шаблонов документов.
+
+* **Портативный просмотр**  
+  Делает контент проще для открытия в браузерных средах.
+
+* **Сохранение в одном файле**  
+  Упаковывает отформатированный вывод документа в один переносимый файл.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Автоматическое создание веб‑снимков**  
+  Преобразует файлы OTT в архивные веб‑документы массово.
+
+* **Распределение через браузер**  
+  Поддерживает рабочие процессы, которые делятся выводом шаблона в виде веб‑просматриваемых файлов.
+
+* **Конвейеры сохранения контента**  
+  Сохраняет состояния отформатированных документов в компактном переносимом формате.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

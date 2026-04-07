@@ -65,7 +65,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOCX إلى FODS يحول مستندات معالجة النصوص إلى تنسيق جدول بيانات Flat OpenDocument، مما يتيح تمثيل بيانات المستند المهيكلة في تنسيق جدول بيانات مفتوح. هذا التنسيق مناسب لتبادل البيانات وتدفقات عمل المستندات المفتوحة.
+
+من خلال واجهات برمجة تطبيقات بايثون، يمكن أتمتة تحويل DOCX إلى FODS في الأنظمة التي تتطلب معايير مفتوحة لمعالجة المستندات، والتشغيل البيني، وتبادل البيانات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تصدير بيانات جدول البيانات المفتوح**  
+  يقوم بتحويل بيانات مستند DOCX إلى تنسيقات جدول بيانات مفتوح.
+
+* **معالجة المستندات القابلة للتشغيل البيني**  
+  يسهل التوافق مع أنظمة المستندات المفتوحة.
+
+* **تحويل البيانات المهيكلة**  
+  يمكن استخراج المعلومات المستندة إلى المستندات إلى ملفات جدول بيانات.
+
+* **ترحيل البيانات إلى تنسيقات مفتوحة**  
+  يدعم الترحيل من تنسيقات المستندات المملوكة إلى معايير مفتوحة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط معالجة البيانات المفتوحة**  
+  يمكن تحويل مستندات DOCX تلقائيًا إلى جداول بيانات FODS.
+
+* **تحويل دفعي إلى تنسيق مفتوح**  
+  يمكن لسكربتات بايثون تحويل مجموعات المستندات إلى ملفات جدول بيانات مفتوح.
+
+* **تدفقات عمل مؤسسية قابلة للتشغيل البيني**  
+  يمكن للأنظمة المؤتمتة تصدير بيانات المستند المهيكلة إلى تنسيقات جدول بيانات مفتوح.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

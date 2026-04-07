@@ -65,7 +65,47 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod ODT na TSV převádí obsah dokumentu do textového formátu odděleného tabulátory, který je vhodný pro výměnu strukturovaných dat a lehké zpracování. Je užitečný, když je třeba přesunout tabulky nebo záznamy založené na dokumentech do jednoduché, strojově čitelné struktury.
+
+Pomocí Python API podporuje převod ODT na TSV škálovatelné extrahování dat, ingestní pipeline a interoperabilní zpracování dokumentů. Zjednodušuje přesun strukturovaného obsahu do analytických, úložných a transformačních pracovních postupů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Jednoduchý strukturovaný export**  
+  Převádí tabulky v dokumentu do lehkého formátu odděleného tabulátory.
+
+* **Příprava datových pipeline**  
+  Umožňuje snadný import do zpracovatelských a analytických systémů.
+
+* **Normalizace záznamů**  
+  Pomáhá standardizovat extrahovaný obsah pro následné použití.
+
+* **Interoperabilní výměna textových dat**  
+  Umožňuje snadnější přenos strukturovaného obsahu dokumentu mezi platformami.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaný extrahování tabulek**  
+  Pythonové pracovní postupy mohou převést ODT obsah do TSV pro výstupy připravené do pipeline.
+
+* **Dávková konverze pro analýzu**  
+  Velké sady dokumentů lze automaticky exportovat do jednoduchého strukturovaného textu.
+
+* **Čištění dat a exportní pracovní postupy**  
+  Extrahované hodnoty lze ověřit před zápisem do TSV souborů.
+
+* **Integrace systémových pipeline**  
+  Převoděné TSV výstupy mohou napájet databáze, skripty nebo procesy reportování.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

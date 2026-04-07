@@ -65,7 +65,47 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS na DOTX převod převádí soubory tabulek do moderních šablon dokumentů založených na XML. Tyto šablony umožňují strukturované generování dokumentů při zachování kompatibility s moderními prostředími pro úpravu dokumentů.
+
+Pipelines pro převod poháněné Pythonem umožňují automatizované vytváření šablon DOTX z tabulek. To umožňuje efektivní generování šablon, škálovatelnou automatizaci a integraci s workflow výroby dokumentů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Opakovatelné šablony dokumentů**  
+  Převést struktury tabulek do moderních šablon dokumentů.
+
+* **Strukturované rámce dokumentů**  
+  Použít data založená na tabulkách k definování rozvržení šablon.
+
+* **Standardizace formátování obsahu**  
+  Vytvořit konzistentní šablony dokumentů odvozené z dat tabulek.
+
+* **Archivace šablon**  
+  Ukládat opakovatelné struktury dokumentů vytvořené z tabulek.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované generování šablon**  
+  Pythonové workflow generují šablony DOTX ze vstupů tabulek.
+
+* **Dávkové zpracování šablon**  
+  Systémy převádějí více souborů ODS do opakovatelných šablon.
+
+* **Dynamické systémy dokumentů**  
+  Generování šablon podporuje pipeline pro automatizované vytváření dokumentů.
+
+* **Standardizace workflow**  
+  Převodové pipeline udržují konzistentní struktury šablon napříč systémy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

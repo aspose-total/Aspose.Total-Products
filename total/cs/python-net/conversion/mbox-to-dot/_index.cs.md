@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod MBOX na DOT převádí obsah poštovní schránky do souborů šablon Word, což umožňuje znovupoužití struktur odvozených z e‑mailů jako standardizovaných základů dokumentů. To je užitečné, když archivované zprávy musí sloužit jako podklad pro opakovatelná rozvržení dokumentů nebo procesy reportování založené na šablonách.
+
+Pomocí Python API mohou organizace automatizovat vytváření souborů DOT z archivů MBOX, aby podpořily škálovatelné generování šablon, konzistentní formátování a automatizaci pracovních toků dokumentů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření šablon z e‑mailů**
+  Přeměňte obsah poštovní schránky na znovupoužitelné šablony dokumentů pro opakované použití.
+
+* **Standardizované pracovní postupy formátování**
+  Zachovejte rozvržení odvozené ze zpráv ve formátu určeném pro konzistentní generování dokumentů.
+
+* **Nastavení dokumentace procesů**
+  Použijte obsah e‑mailu jako strukturovaný základ pro budoucí tvorbu dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Generování znovupoužitelných šablon**
+  Převádějte vybrané e‑maily do souborů DOT, které podporují standardizovanou dokumentaci.
+
+* **Automatizované zachování rozvržení**
+  Programově vytvářejte výstupy šablon z archivů poštovní schránky pro opakované pracovní postupy.
+
+* **Škálovatelné strukturování obsahu**
+  Použijte Python k transformaci záznamů e‑mailů na aktiva připravená pro šablony pro podnikové využití.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

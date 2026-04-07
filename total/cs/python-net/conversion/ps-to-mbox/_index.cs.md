@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS na MBOX konverze umožňuje balit obsah dokumentu PostScript do formátu poštovní archivy, který se běžně používá pro ukládání kolekcí e‑mailových zpráv. To je důležité, když organizace potřebují konsolidovat komunikaci odvozenou z dokumentů do přenosných poštovních archivů pro zálohování, migraci nebo účely archivace.
+
+S Python API lze PS na MBOX konverzi integrovat do automatizovaných archivních a datových transformačních pracovních toků. Podporuje efektivní zpracování velkých objemů obsahu dokumentů a zlepšuje konzistenci napříč systémy pro zachování e‑mailů, migraci a správu historických záznamů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytvoření poštovního archivu**  
+  Převádí PS obsah do výstupů kompatibilních s MBOX pro konsolidované úložiště ve stylu e‑mailu.
+
+* **Zachování historických dat**  
+  Pomáhá uchovat komunikaci založenou na dokumentech v přenosném formátu archivu.
+
+* **Příprava migrace**  
+  Podporuje pracovní toky, které potřebují standardizované poštovní archivy pro přenos do jiných systémů.
+
+* **Balíčkování hromadné komunikace**  
+  Umožňuje seskupit velké sady zpráv odvozených z dokumentů do strukturovaných poštovních kontejnerů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované sestavení archivu**  
+  Automatizace může převádět více PS dokumentů do kolekcí MBOX pro archivaci nebo migraci.
+
+* **Pipelines pro zachování velkého objemu**  
+  Téma podporuje škálovatelnou transformaci obsahu dokumentů do struktur poštovních archivů.
+
+* **Pracovní postupy správy záznamů**  
+  Programová konverze zlepšuje manipulaci s dokumenty, které musí být uchovávány spolu s komunikačními daty.
+
+* **Systematické exportní operace**  
+  Dynamické pracovní toky mohou generovat MBOX soubory z proudu dokumentů s minimálním ručním úsilím.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

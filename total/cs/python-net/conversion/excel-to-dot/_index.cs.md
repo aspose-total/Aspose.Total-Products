@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Excel to DOT conversion in Python helps transform spreadsheet content into word processing template files that can serve as reusable document foundations. It is useful when spreadsheet data must be converted into structured templates for repeated document generation.
+
+This conversion supports automation by enabling template-centric workflows where data from Excel becomes part of scalable, repeatable document creation systems.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Příprava šablony**  
+  Convert spreadsheet data into DOT files for use as reusable word processing templates.
+
+* **Standardizované rozvržení dokumentů**  
+  Create template-based outputs that preserve consistency across recurring documents.
+
+* **Inicializace workflow**  
+  Use converted files as starting points for teams that generate similar documents frequently.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Opakovaná tvorba dokumentů**  
+  Automate Excel to DOT conversion to support template-driven reporting or correspondence.
+
+* **Distribuční kanály šablon**  
+  Programmatically create document templates from structured spreadsheet content.
+
+* **Rámce znovupoužitelného obsahu**  
+  Integrate conversion into systems that prepare standardized template assets at scale.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -66,7 +66,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 Word 转换为 XLS 能够将文字处理内容转换为经典电子表格文件，以便在传统电子表格环境中进行结构化数据使用。当必须将文档中的信息组织到工作表中以进行分析、报告或运营跟踪时，这非常有价值。
+
+从自动化的角度来看，此转换通过将文档来源的内容转化为在旧系统中仍可使用的电子表格资产，支持以兼容性为重点的工作流。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **传统电子表格导出**
+  将 Word 内容转换为 XLS，以用于传统基于工作表的工作流。
+
+* **运营数据结构化**
+  将文档信息重新组织到工作表中，以便更容易跟踪和分析。
+
+* **兼容性保留**
+  支持仍然需要经典电子表格格式的环境。
+
+* **报告工作流支持**
+  使基于文档的数据更容易在已有的电子表格工具中管理。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量 XLS 生成**
+  自动将 Word 文件转换为经典电子表格，以支持持续运营。
+
+* **传统集成流水线**
+  将基于文档的工作表数据输送到旧的业务系统中。
+
+* **归档转换工作流**
+  以电子表格形式保留结构化输出，以便后续检索和审查。
+
+* **文档到表格自动化**
+  将文档提取过程与基于电子表格的报告例程相连接。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

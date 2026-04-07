@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM na OFT převod transformuje dokumenty s makry na znovupoužitelné soubory šablon e‑mailů, což usnadňuje standardizaci obsahu založeného na dokumentech pro opakované komunikační úkoly. Je užitečný, když je třeba generovat konzistentní zprávy z vytvořených zdrojových dokumentů.
+
+V automatizačních pracovních postupech umožňuje převod DOCM na OFT šablonovanou komunikaci, procesně řízenou výměnu informací a škálovatelné opakované využití obsahu dokumentů v opakovaných scénářích zasílání zpráv.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Zprávy založené na šablonách**
+  Převádí obsah dokumentu na znovupoužitelné e‑mailové šablony pro standardizovanou komunikaci.
+
+* **Konzistence procesů**
+  Pomáhá týmům udržovat jednotnou strukturu napříč opakovanými odchozími zprávami.
+
+* **Opětovné využití obsahu**
+  Znovu využívá formální text dokumentu v komunikačních šablonách bez ručního přeformátování.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované generování šablon**
+  Vytváří soubory OFT z dokumentů DOCM pro opakovatelná pracovní postupy zpráv.
+
+* **Komunikace spouštěná pracovním postupem**
+  Využívá převedené šablony v procesech schvalování, upozorňování nebo podpory.
+
+* **Škálovatelná příprava zpráv**
+  Umožňuje dynamické vyplňování a distribuci obsahu založeného na šablonách v rozsahu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

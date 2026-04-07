@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DIF 到 MOBI 的转换在 Python 中能够将结构化的 DIF 内容转换为适合便携阅读和数字分发的电子书友好格式。当需要将数据驱动的内容重新用于可阅读的出版资产时，这非常有用。
+
+借助 Python API，DIF 到 MOBI 的转换可以在生成数字手册、参考资料或结构化出版物的内容生产流水线中实现自动化。这在从源数据准备可阅读输出时提升了效率。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **数字参考出版**
+  将 DIF 数据转换为 MOBI 文件，以便便携访问结构化信息。
+
+* **基于数据的电子书创建**
+  使用 DIF 内容作为生成技术或信息类电子书文档的来源。
+
+* **离线内容分发**
+  为用户在没有持续连接的情况下需要可阅读内容的场景生成 MOBI 文件。
+
+* **培训材料交付**
+  将结构化源文件转换为电子书格式，用于教育或内部学习内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化电子书制作**
+  在内容出版工作流中从 DIF 数据集生成 MOBI 文件。
+
+* **内容再利用流水线**
+  自动将源数据转换为数字阅读格式，以实现更广泛的再利用。
+
+* **批量出版生成**
+  以编程方式处理大量 DIF 文件，生成 MOBI 输出，以满足大型内容库的需求。
+
+* **跨渠道内容交付**
+  将转换集成到发布相同源材料的多种格式的系统中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

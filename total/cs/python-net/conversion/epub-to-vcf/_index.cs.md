@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu E
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod EPUB na VCF v Pythonu umožňuje transformovat obsah dokumentu do souborů s kontaktními daty, pokud publikace obsahuje adresář, profil nebo kontaktní údaje. To je užitečné pro pracovní postupy, které potřebují extrahovat a znovu využít strukturované identifikační informace z digitálních publikací.
+
+V systémech zaměřených na automatizaci zlepšuje převod EPUB na VCF přenositelnost dat, snižuje ruční zadávání kontaktů a umožňuje aplikacím v Pythonu integrovat z publikací odvozené kontaktní informace do moderních komunikačních a synchronizačních pracovních postupů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Extrahování kontaktních informací**  
+  Převést obsah EPUB obsahující osoby nebo údaje adresáře do VCF souborů pro použití v kontaktech.
+
+* **Transformace dat adresáře**  
+  Znovu využít strukturované informace z publikace do přenosných kontaktních záznamů.
+
+* **Podpora CRM a adresáře kontaktů**  
+  Použít výstup VCF k přesunu relevantních kontaktních dat do systémů, které spravují komunikační vztahy.
+
+* **Sdílení dat založených na profilu**  
+  Sdílet kontaktně orientovaný obsah publikace ve formátu, který je snadno importovatelný a distribuovatelný.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatické generování kontaktů**  
+  Pythonové pracovní postupy mohou vytvářet VCF soubory z EPUB dokumentů, které obsahují kontaktní obsah.
+
+* **Potrubí synchronizace adresáře**  
+  Automatizované systémy mohou extrahovat a převádět data adresáře založená na publikacích do přenosných kontaktních záznamů.
+
+* **Hromadné zpracování kontaktů**  
+  Velké objemy EPUB souborů bohatých na kontakty lze programově transformovat pro efektivní opětovné využití.
+
+* **Dynamická integrace dat**  
+  Převod EPUB na VCF podporuje automatizované pracovní postupy, které poskytují kontaktní informace do komunikačních platforem.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PNG 到 Email 的转换能够将基于图像的内容转化为结构化的可发送邮件输出，使视觉信息更易于分发、重用并融入通信工作流。对于需要将截图、视觉通知、扫描图形或基于图像的更新转换为可访问且可共享的邮件内容的组织而言，这非常有价值。
+
+在现代系统中，此转换通过减少手动转录、加速通信管道，并帮助将视觉资产整合到由 Python API 驱动的可扩展通知、报告和外展工作流中，从而支持自动化。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **视觉通知准备**  
+  将基于 PNG 的通知或更新转换为可发送邮件的内容，以用于内部或外部通信。
+
+* **扫描内容共享**  
+  帮助将基于图像的公告、摘要或警报转化为适合邮件分发的格式。
+
+* **基于工作流的消息传递**  
+  支持需要在外发邮件过程中附加、嵌入或汇总 PNG 内容的系统。
+
+* **文档到通信的管道**  
+  使运营团队能够将视觉信息迁移到通信渠道，而无需手动重写。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化警报分发**  
+  Python API 可以将 PNG 视觉内容转换为邮件内容，用于计划或事件驱动的通知。
+
+* **批量通信处理**  
+  多个 PNG 文件可以批量转换为可发送邮件的输出，以实现高效的外展工作流。
+
+* **系统生成的报告邮件**  
+  应用程序可以在报告管道中动态将视觉报告快照转换为邮件消息。
+
+* **客户更新工作流**  
+  自动化系统可以使用 PNG 到 Email 的转换，从基于图像的输入中准备一致的消息内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

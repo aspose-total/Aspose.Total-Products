@@ -65,7 +65,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT 到 PPSM 的转换将文档模板转换为宏启用的幻灯片文件，以实现高级演示交付。在需要直接播放幻灯片输出同时在兼容环境中支持增强功能的情况下，这非常有价值。
+
+使用 Python API，可以从 DOT 源自动生成 PPSM，以提高可重复性并支持更强大的演示工作流。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用的幻灯片创建**
+  将 DOT 文件转换为 PPSM，以满足高级演示播放场景。
+
+* **具备增强功能的显示**
+  使用支持嵌入式自动化或交互行为的幻灯片输出。
+
+* **可重复使用的演示交付**
+  将文档模板转换为可在受控观看环境中使用的演示就绪文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化高级幻灯片生成**
+  Python 脚本可以从 DOT 内容创建 PPSM 文件，以满足重复的演示需求。
+
+* **交互式显示工作流**
+  转换支持基于文档的幻灯片创建，具备扩展功能。
+
+* **可扩展的演示分发**
+  编程管道帮助在多个用例中部署宏启用的幻灯片文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Slides for Python via 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTM to DOC conversion with Python APIs helps transform macro-enabled presentation content into an editable document format suitable for text-centric review, distribution, and documentation. It is useful when slide material needs to be repurposed into narrative documents, summaries, or written records.
+
+By converting presentations into document-oriented outputs, organizations can streamline document creation and simplify content handoff between teams. This supports automation goals by reducing manual rewriting and enabling repeatable conversion workflows across content repositories.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Presentation-to-Document Repurposing**
+  Converts slide content into editable documents for review and refinement.
+
+* **Internal Documentation Generation**
+  Helps turn presentations into written references for teams and stakeholders.
+
+* **Text-Based Content Distribution**
+  Makes presentation information easier to share in document-driven workflows.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automated Documentation Creation**
+  Generates document files from presentation assets without manual copy-pasting.
+
+* **Workflow-Based Content Transformation**
+  Converts PPTM files into document outputs as part of scheduled processing jobs.
+
+* **Knowledge Capture Pipelines**
+  Supports programmatic preservation of presentation material in long-form document archives.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

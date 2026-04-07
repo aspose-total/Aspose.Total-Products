@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod dokumentu na OST připravuje obsah odvozený z dokumentu pro pracovní postupy související s offline daty poštovní schránky a synchronizovanými poštovními prostředími. Je užitečný v situacích, kdy informace z dokumentu musí být sladěny se strukturami úložiště podnikové komunikace.
+
+Použití Python API pro zpracování orientované na DOC → OST zlepšuje připravenost na automatizaci, podporuje standardizované zacházení a snižuje ruční práci v podnikovém provozu souvisejícím s poštou.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Příprava dat poštovní schránky**
+  Převést obsah založený na dokumentech pro pracovní postupy, které pracují s offline úložištěm pošty.
+
+* **Podpora podnikové komunikace**
+  Zarovnat výstupy dokumentů s komunikačními prostředími používanými v synchronizovaných poštovních systémech.
+
+* **Integrace retenčních pracovních postupů**
+  Uchovat nebo zpracovat obsah odvozený z dokumentu v operacích zaměřených na poštovní schránky.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizace úložiště pošty**
+  Programově připravit obsah dokumentu pro podnikové pracovní postupy související s OST.
+
+* **Úlohy hromadného převodu**
+  Automatizovat zpracování dokumentů tam, kde je vyžadováno zpracování kompatibilní s poštovní schránkou.
+
+* **Dodržování předpisů a retenční kanály**
+  Použít skriptované kroky převodu k podpoře řízených prostředí zpráv a dat.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

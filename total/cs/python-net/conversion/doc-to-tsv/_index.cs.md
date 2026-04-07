@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod dokumentu do TSV transformuje obsah Wordu na hodnoty oddělené tabulátory, jednoduchý strukturovaný formát ideální pro čistou výměnu textových dat a importní pracovní postupy. Je užitečný, když tabulky v dokumentu nebo opakovaná pole vyžadují lehký strukturovaný výstup.
+
+Python API pomáhají automatizovat převod DOC do TSV pro škálovatelný extrakci, přípravu dat a integrační úkoly, kde jsou upřednostňovány čisté textové tabulkové formáty.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Lehký export dat**
+  Převést tabulky v dokumentu do TSV pro jednoduchou strukturovanou výměnu.
+
+* **Importně přátelský výstup**
+  Připravit data odvozená z Wordu pro nástroje a systémy, které přijímají oddělený text.
+
+* **Pracovní postupy čištění dat**
+  Použít výstup TSV pro předzpracování, validaci a ingestování do pipeline.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Vysokokapacitní extrakce dat**
+  Automaticky převádět soubory DOC do TSV pro následné zpracování.
+
+* **Textové exporty připravené pro pipeline**
+  Generovat oddělené soubory z dokumentů jako součást ETL nebo importních pracovních postupů.
+
+* **Plánované úlohy transformace**
+  Programově standardizovat záznamy založené na dokumentech do TSV na pravidelném základě.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

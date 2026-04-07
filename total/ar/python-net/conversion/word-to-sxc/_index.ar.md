@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+يتيح تحويل Word إلى SXC باستخدام واجهات برمجة تطبيقات بايثون تحويل مستندات معالجة النصوص إلى ملفات جداول بيانات قديمة تُستخدم في بيئات المكاتب القديمة. هذا مفيد عندما يحتاج محتوى المستند إلى تنظيمه في أوراق عمل مع الحفاظ على التوافق مع أنظمة Open Office القديمة.
+
+من أجل الأتمتة واستمرارية العمليات، يتيح هذا التحويل للمنظمات معالجة المعلومات المستندة إلى المستندات إلى مخرجات جداول بيانات تدعم الأنظمة القديمة دون إيقاف سير العمل القائم على البيانات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **توافق جداول البيانات القديمة**
+  يحوّل محتوى Word إلى SXC للبيئات التي لا تزال تستخدم صيغ جداول البيانات القديمة.
+
+* **إعادة تنظيم البيانات المهيكلة**
+  ينقل معلومات المستند إلى تخطيطات قائمة على أوراق العمل للتتبع والمراجعة.
+
+* **دعم سير عمل Open Office**
+  يساعد على ربط تأليف المستندات واستخدام جداول البيانات في أنظمة الإنتاجية القديمة.
+
+* **تكامل الأنظمة التاريخية**
+  يدعم البُنى التحتية طويلة الأمد التي تتطلب معايير جداول بيانات أقدم.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تحويل دفعي لجداول البيانات القديمة**
+  يحوّل ملفات Word تلقائيًا إلى SXC لتدفقات العمل التشغيلية المستمرة.
+
+* **خطوط أنابيب الحفاظ على التوافق**
+  يضمن بقاء بيانات المستند المستخرجة قابلة للاستخدام في بيئات المكاتب القديمة.
+
+* **إنشاء أرشيف منظم**
+  ينشئ مخرجات أوراق عمل من المستندات للاحتفاظ والوصول التاريخي.
+
+* **أتمتة تحويل المستند إلى ورقة عمل**
+  يُدمج تحويل SXC في عمليات استخراج البيانات والهجرة الأكبر.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

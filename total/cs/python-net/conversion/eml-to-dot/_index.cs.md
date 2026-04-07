@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu E
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod EML na DOT pomocí Python API umožňuje převést obsah e‑mailu do souborů šablon pro textové procesory, které mohou sloužit jako znovupoužitelné základy pro budoucí dokumenty. To je užitečné, když je potřeba zachytit struktury e‑mailů nebo komunikační vzory v šablonovém formátu pro opakované obchodní využití.
+
+V automatizačních pracovních postupech podporuje převod EML na DOT konzistenci procesů tím, že transformuje obsah zpráv do znovupoužitelných šablon dokumentů. Pomáhá organizacím vytvářet opakovatelné výstupní struktury z komunikace a integrovat je do systémů generování dokumentů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Znovupoužitelné komunikační šablony**  
+  Převádí obsah e‑mailu do souborů DOT, které mohou sloužit jako výchozí body pro podobné dokumenty.
+
+* **Vytváření knihovny šablon**  
+  Pomáhá organizacím vytvářet strukturované šablony z často používaných formátů e‑mailů.
+
+* **Standardizované formátování dokumentů**  
+  Zachovává užitečné rozvržení a obsahové vzory pro opakovatelnou dokumentaci.
+
+* **Provozní konzistence**  
+  Podporuje procesy tvorby dokumentů, které těží z předdefinovaných struktur.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Pipelines generování šablon**  
+  Automatizace může převést reprezentativní e‑mailové zprávy na znovupoužitelné šablonové zdroje.
+
+* **Pracovní postupy standardizace dokumentů**  
+  Převádí opakující se komunikační formáty do souborů DOT pro širší využití v organizaci.
+
+* **Opětovné využití obsahového rámce**  
+  Programový převod pomáhá využívat struktury odvozené z e‑mailů při budoucí automatizované tvorbě dokumentů.
+
+* **Návrh výstupu řízený procesem**  
+  Obsah e‑mailu může být transformován do šablon, které podporují konzistentní následnou výrobu dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحول عملية تحويل WordML إلى XLS المحتوى المهيكل القائم على المستندات إلى ملفات جداول إلكترونية مناسبة للتحرير، والتقارير، وتدفقات عمل دفاتر العمل القديمة. يكون ذلك مفيدًا عندما تحتاج جداول المستند إلى إعادة استخدامها في أدوات الجداول الإلكترونية ذات التوافق الواسع.
+
+تمكن واجهات برمجة التطبيقات بلغة Python عملية تحويل WordML إلى XLS من استخراج المحتوى الجدولي وأتمتة وضعه في هياكل دفاتر العمل لمعالجة قابلة للتوسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء دفتر عمل قديم**
+  يحول جداول WordML إلى ملفات XLS لتدفقات عمل الجداول الإلكترونية القائمة.
+
+* **إعادة استخدام البيانات المهيكلة**
+  يجعل بيانات الجداول الموجودة في المستند قابلة للتحرير والتحليل في شكل دفتر عمل.
+
+* **دعم التقارير التشغيلية**
+  يساعد على نقل محتوى المستند إلى عمليات المراجعة القائمة على الجداول الإلكترونية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تصدير دفتر عمل مؤتمت**
+  ينتج ملفات XLS من دفعات مستندات WordML في وظائف قابلة للتكرار.
+
+* **تكامل الأنظمة القديمة**
+  يدعم البيئات التي لا تزال تعتمد على توافق الجداول الإلكترونية القديمة.
+
+* **خطوط أنابيب من المستند إلى الجدول**
+  يحول المحتوى المهيكل إلى مخرجات دفتر عمل للعمليات اللاحقة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod MSG na DOC transformuje soubory e‑mailových zpráv na editovatelné dokumenty pro zpracování textu, určené k revizi, opětovnému použití a strukturované dokumentaci. Je užitečný, když je potřeba e‑mailový obsah přetvořit, anotovat nebo začlenit do širších obchodních záznamů.
+
+V automatizačních prostředích pomáhá převod MSG na DOC zefektivnit extrakci obsahu a přípravu dokumentů ve velkém měřítku. Podporuje efektivní úpravy, zpracování založené na šablonách a integraci s procesy reportování nebo správy záznamů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Editovatelná e‑mailová dokumentace**  
+  Převést obsah zprávy na editovatelné dokumenty pro aktualizace a spolupráci.
+
+* **Příprava obchodních záznamů**  
+  Začlenit převedené e‑maily do oficiálních zpráv, případových souborů nebo souborů dokumentace.
+
+* **Opětovné použití obsahu**  
+  Přetvořit text e‑mailu pro souhrny, návrhy nebo interní dokumentaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Hromadné vytváření dokumentů**  
+  Automaticky převést soubory MSG na dokumenty DOC pro operativní evidenci.
+
+* **Editační pipeline založená na workflow**  
+  Směrovat převedené soubory do systémů revize a schvalování pro další úpravy.
+
+* **Podpora automatizovaného reportování**  
+  Vkládat obsah odvozený z e‑mailů do opakujících se workflow generování dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

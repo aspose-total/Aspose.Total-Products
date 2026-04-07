@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS na ICS převod umožňuje transformovat dokumenty PostScript do souborů kompatibilních s kalendářem, které mohou představovat rozvrhy, události, připomenutí nebo data schůzek. To je užitečné, když tištěné nebo generované dokumenty obsahují časově orientované informace, které je třeba převést do strukturovaných kalendářových záznamů.
+
+Python API dělají převod PS na ICS praktickým pro automatizované systémy plánování, zpracování událostí a orchestraci pracovních toků. Převodem informací založených na dokumentech do strojově čitelného kalendářového formátu mohou organizace zlepšit koordinaci, snížit ruční zadávání a podpořit škálovatelnou časovou automatizaci.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Extrahování dat událostí**  
+  Převádí PS dokumenty obsahující podrobnosti rozvrhu do kalendářově kompatibilních souborů ICS.
+
+* **Podpora pracovního toku schůzek**  
+  Pomáhá převést tištěná potvrzení nebo oznámení na znovupoužitelné kalendářové záznamy.
+
+* **Distribuce připomenutí a rozvrhů**  
+  Podporuje distribuci strukturovaných informací o událostech prostřednictvím systémů, které používají kalendářové soubory.
+
+* **Časově orientovaná transformace dokumentů**  
+  Umožňuje přístup k informacím o plánování vázaných na dokumenty v digitálních pracovních postupech plánování.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované generování kalendářových souborů**  
+  Automatizace může převádět dokumenty rozvrhu založené na PS přímo do souborů ICS pro distribuci nebo import.
+
+* **Potrubí pro schůzky a události**  
+  Téma podporuje pracovní toky, které vytvářejí kalendářové záznamy z generovaných provozních dokumentů.
+
+* **Integrace oznámení do kalendáře**  
+  Programové procesy mohou transformovat výstupy dokumentů do souborů událostí propojených se systémy připomenutí.
+
+* **Opakované operace plánování**  
+  Dynamický převod pomáhá spravovat opakované úkoly tvorby kalendářů ze standardizovaných vstupů dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

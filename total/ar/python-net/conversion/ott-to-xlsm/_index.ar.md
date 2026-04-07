@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل OTT إلى XLSM في واجهات برمجة تطبيقات بايثون يحول قوالب نصية من OpenDocument إلى جداول بيانات مُمكّنة بالماكرو وتدعم أتمتة متقدمة للدفاتر. هذا مفيد عندما يجب وضع المحتوى المحوَّل في جداول بيانات تتضمن منطقًا قابلًا لإعادة الاستخدام أو عمليات مكتوبة.
+
+يعزز التحويل الأتمتة من خلال دمج محتوى المستندات المهيكلة مع بيئات جداول البيانات القادرة على تشغيل الماكرو، مما يتيح عمليات معالجة، وتحقق، وتقارير أكثر غنى.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء دفتر عمل مُمكّن بالماكرو**  
+  ينتج جداول بيانات مناسبة للعمليات الآلية المتقدمة.
+
+* **معالجة البيانات الديناميكية**  
+  يدعم دفاتر العمل التي تتجاوز التخزين والعرض الثابت.
+
+* **إعادة استخدام محتوى القالب**  
+  ينقل المعلومات المستندة إلى المستندات إلى صيغ جداول بيانات محسّنة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء دفتر عمل غني مؤتمت**  
+  ينشئ ملفات XLSM من قوالب OTT للاستخدام المتكرر.
+
+* **دمج منطق جداول البيانات**  
+  يدعم سير العمل الذي يجمع البيانات المحوَّلة مع الأتمتة المدمجة.
+
+* **تقارير تشغيلية قابلة للتوسع**  
+  يوفر مخرجات دفتر عمل أكثر غنى لعمليات الأعمال.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

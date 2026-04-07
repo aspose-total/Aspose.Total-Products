@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX 到 XLAM 的转换将 Word 模板内容转换为在高级电子表格环境中使用的 Excel 加载项相关格式。当文档驱动的逻辑或结构化内容有助于可重用的电子表格工具工作流时，这一转换是相关的。
+
+此转换通过帮助基于 Python 的系统准备符合可扩展且可重复的数据处理环境的电子表格相关资产，来支持自动化。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **电子表格工具支持**
+  将文档内容适配用于与可重用的基于 Excel 的资产相关的工作流。
+
+* **高级数据环境**
+  向可扩展的电子表格流程贡献结构化的模板信息。
+
+* **格式互操作性**
+  支持将内容转换为电子表格相关格式，以满足特定用例。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化电子表格资产准备**
+  在特定工作流中将 DOTX 模板转换为 XLAM 相关输出。
+
+* **可重用的数据处理设置**
+  将转换后的内容集成到可重复的电子表格自动化系统中。
+
+* **模板到电子表格的扩展**
+  将文档转换与高级电子表格导向的操作关联起来。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

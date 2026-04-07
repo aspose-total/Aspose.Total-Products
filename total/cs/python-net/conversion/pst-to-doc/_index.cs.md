@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konverze PST na DOC v Python API usnadňuje opětovné využití obsahu poštovní schránky v editovatelných pracovních postupech s dokumenty. Je užitečná, když je třeba e‑maily, vlákna zpráv nebo extrahovaný text převést do formátu pro zpracování textu za účelem revize, úprav a strukturované dokumentace.
+
+Z pohledu automatizace pomáhá konverze PST na DOC propojit archivovanou komunikaci se systémy podnikové dokumentace. Zvyšuje efektivitu tím, že umožňuje datům z poštovní schránky proudit do šablon, reportovacích kanálů a procesů kolaborativní úpravy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Export editovatelných zpráv**
+  Převádí obsah poštovní schránky do formátu dokumentu, který podporuje přímou revizi a formátování.
+
+* **Příprava dokumentace**
+  Pomáhá převést e‑mailové záznamy do strukturovaných souborů pro interní nebo externí použití.
+
+* **Pracovní postupy opětovného využití obsahu**
+  Umožňuje snadnější opětovné využití extrahované komunikace v provozních dokumentech.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované e‑mail‑na‑dokumentové řetězce**
+  Systémy mohou převést obsah PST do souborů DOC pro následnou úpravu a schválení.
+
+* **Reportování založené na šablonách**
+  Převedený obsah lze vložit do pracovních postupů s dokumenty, které vyžadují editovatelný zdrojový materiál.
+
+* **Škálovatelné balení záznamů**
+  Programové zpracování podporuje hromadný export dat poštovní schránky do přehledných výstupních dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

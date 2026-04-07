@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل PST إلى PCL في واجهات برمجة تطبيقات بايثون يُعيد تمثيل محتوى صندوق البريد إلى لغة التحكم في الطابعة لتدفقات العمل الموجهة للطباعة وتوليد مخرجات جاهزة للجهاز. يكون ذلك مفيدًا عندما يجب تحويل محتوى البريد الإلكتروني المؤرشف للطباعة المباشرة أو لتدفقات العمل المتعلقة بالأجهزة أو لتكامل خط أنابيب الطباعة.
+
+من أجل الأتمتة، يدعم تحويل PST إلى PCL معالجة الطباعة على نطاق واسع ويساعد في ربط أرشيفات صناديق البريد بالبيئات التشغيلية التي تعتمد على صيغ متوافقة مع الطابعات. يعزز ذلك الكفاءة في مخرجات التحكم وأنظمة تسليم المستندات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **الإخراج الجاهز للطباعة**
+  يحول محتوى PST إلى PCL لتدفقات العمل الموجهة للطباعة مباشرة.
+
+* **دعم تدفق العمل على الأجهزة**
+  يساعد على دمج السجلات المستخرجة من صندوق البريد مع أنظمة الإخراج المعتمدة على الأجهزة.
+
+* **طباعة المستندات التشغيلية**
+  يدعم تمثيلًا مطبوعًا متسقًا للرسائل والمحتوى المؤرشف.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **معالجة طابور الطباعة الآلية**
+  يمكن للأنظمة تحويل أرشيفات PST إلى PCL لتبسيط عمليات الطباعة.
+
+* **خطوط تكامل الأجهزة**
+  يمكن للمخرجات المحوّلة الانتقال مباشرةً إلى بيئات مركزة على الطابعات برمجيًا.
+
+* **طباعة السجلات بالجملة**
+  يدعم التحويل البرمجي إعداد طباعة عالي الحجم من محتوى صندوق البريد.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

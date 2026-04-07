@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTX to RTF conversion transforms spreadsheet template content into a rich text format that balances portability, readability, and broad compatibility. It is useful when structured spreadsheet information must be shared as editable text content in a lightweight format suitable for many systems and document workflows.
+
+For automation relevance, XLTX to RTF conversion supports efficient document generation, easy integration into text-processing pipelines, and scalable transformation of template-based spreadsheet content into widely readable outputs.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Lightweight Editable Document Creation**  
+  Converts spreadsheet templates into rich text documents for flexible editing and sharing.
+
+* **Broad Compatibility Workflows**  
+  Helps distribute structured content in a text format supported by many applications.
+
+* **Simplified Content Repackaging**  
+  Supports transforming tabular template data into readable document-style outputs.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Automated Text Document Output**  
+  Systems can generate RTF files from XLTX templates for recurring communication needs.
+
+* **Cross-System Content Pipelines**  
+  The conversion supports workflows that require lightweight and portable document outputs.
+
+* **Bulk Rich Text Processing**  
+  Programmatic conversion enables fast generation of many RTF documents from spreadsheet templates.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

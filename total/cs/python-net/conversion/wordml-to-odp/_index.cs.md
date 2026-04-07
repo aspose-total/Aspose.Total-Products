@@ -64,7 +64,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML to ODP conversion transforms document content into OpenDocument Presentation files for presentation-focused review, distribution, and open-format collaboration. This is useful when narrative or structured content from documents needs to be re-used in slide-based communication.
+
+Python APIs make WordML to ODP conversion efficient by programmatically reflowing content into presentation structures and enabling scalable document-to-slide automation.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Opětovné využití prezentace**
+  Převádí obsah dokumentu do otevřených souborů prezentací pro vizuální doručení.
+
+* **Spolupráce v otevřeném formátu**
+  Podporuje pracovní postupy prezentací postavené na interoperabilních standardech dokumentů.
+
+* **Opětovné využití strukturovaného obsahu**
+  Přesouvá textový a osnovní materiál z WordML do formy snímků.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Generování sady snímků**
+  Automatizuje tvorbu ODP prezentací z reportů, stručných zpráv nebo osnov.
+
+* **Publikační kanály obsahu**
+  Integruje převod dokumentu na prezentaci do distribučních pracovních postupů.
+
+* **Automatizace prezentací založená na standardech**
+  Umožňuje škálovatelnou tvorbu snímků v otevřeném formátu ze strukturovaných zdrojů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

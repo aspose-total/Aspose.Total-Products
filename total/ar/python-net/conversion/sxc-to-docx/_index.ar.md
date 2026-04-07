@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل SXC إلى DOCX يغيّر محتوى جداول البيانات إلى تنسيق مستند حديث يُستخدم على نطاق واسع للملفات القابلة للتحرير، المحمولة، والمبنية على النص. وهو ذو قيمة عندما تحتاج معلومات جداول البيانات إلى إعادة توظيفها كتقارير، ملخصات، مقترحات، أو وثائق مع تحسين قابلية القراءة والتوافق.
+
+مع واجهات برمجة تطبيقات بايثون، يدعم تحويل SXC إلى DOCX أتمتة المستندات القابلة للتوسع عن طريق تحويل البيانات الجدولية إلى مخرجات موحدة تتناسب مع سير العمل الرقمي، أنظمة المحتوى، وعمليات المراجعة التعاونية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء تقارير الأعمال**  
+  يحوّل المعلومات المستندة إلى جداول البيانات إلى مستندات مصقولة للتواصل الداخلي والخارجي.
+
+* **وثائق قابلة للتحرير**  
+  يسهل تعديل البيانات المصدرية، وتعليقها، وإعادة استخدامها في بيئات تركز على المستندات.
+
+* **توحيد التنسيق**  
+  يساعد المؤسسات على توحيد تنسيقات المخرجات عبر الفرق والأنظمة باستخدام معيار مستند حديث.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **أتمتة التقارير المجدولة**  
+  ينتج ملفات DOCX من مصادر SXC تلقائيًا كجزء من مهام التقارير المتكررة.
+
+* **دمج سير عمل المستندات**  
+  يُدخل الملفات المحوّلة إلى أنظمة الموافقة أو التعاون أو النشر دون إعادة تنسيق يدوية.
+
+* **إنشاء محتوى ديناميكي**  
+  يتيح للخدمات القائمة على بايثون إنشاء مستندات مخصصة أو مدفوعة بالبيانات على نطاق واسع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

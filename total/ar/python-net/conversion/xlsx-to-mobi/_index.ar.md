@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل XLSX إلى MOBI يحول المعلومات المستخرجة من جداول البيانات إلى تنسيق صديق للكتب الإلكترونية مناسب لبيئات القراءة الرقمية. هذا مفيد عندما يجب توزيع البيانات المهيكلة، الكتالوجات، الأدلة، أو المواد المرجعية التي تُحافظ عليها في جداول البيانات كمحتوى طويل قابل للقراءة.
+
+في النشر المدفوع بالأتمتة، يساعد تحويل XLSX إلى MOBI على تحويل مجموعات البيانات المهيكلة إلى منشورات رقمية محمولة، داعماً توصيل المحتوى القابل للتوسع، التنسيق الموحد، وتوزيع المستندات بكفاءة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **نشر الكتالوج الرقمي**  
+  يحول البيانات المنتج أو المرجعية المُدارة في جداول البيانات إلى محتوى محمول جاهز للقراءة.
+
+* **إنشاء دليل مرجعي**  
+  يساعد على تحويل المعلومات المهيكلة في جداول البيانات إلى مستندات كتب إلكترونية قابلة للقراءة للمستخدمين النهائيين.
+
+* **إعادة توظيف المحتوى**  
+  يدعم إعادة استخدام بيانات جداول البيانات في سير عمل النشر الرقمي دون إعادة تنسيق يدوية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء كتب إلكترونية تلقائي**  
+  يمكن للأنظمة تحويل محتوى جداول البيانات المحدث إلى ملفات MOBI لدورات النشر المتكررة.
+
+* **خطوط أنابيب توزيع المحتوى**  
+  يمكن تضمين التحويل في سير العمل الذي ينشر المعلومات المهيكلة إلى منصات القراءة الرقمية.
+
+* **عمليات النشر على نطاق واسع**  
+  يتيح التحويل البرمجي إنتاج كتب إلكترونية متسقة من مصادر المحتوى القائمة على جداول البيانات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

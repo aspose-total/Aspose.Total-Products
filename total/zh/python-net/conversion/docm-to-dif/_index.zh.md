@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM 转 DIF 转换将启用宏的文档转换为适用于传统系统和分析系统之间结构化表格交换的数据交换格式。当必须以兼容旧电子表格和数据库工作流的格式保留文档中包含的数据时，这非常有用。
+
+从自动化的角度来看，DOCM 转 DIF 转换支持将结构化内容可重复地传输到依赖标准化表格交换格式进行导入和对账的系统中。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **传统数据交换**
+  将文档表格转换为适用于旧电子表格和企业工具的格式。
+
+* **结构化记录迁移**
+  帮助将数据从 DOCM 文档移动到依赖交换导向格式的系统中。
+
+* **表格保留**
+  在文档内容必须在其他地方重用时，保留行列组织。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **计划数据转换**
+  自动化地将 DOCM 文件定期导出为 DIF，以实现运营一致性。
+
+* **传统工作流集成**
+  支持自动化交接到旧的财务、行政或报告环境中。
+
+* **批量文档标准化**
+  将多个源文档转换为通用结构化格式，以供下游处理。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

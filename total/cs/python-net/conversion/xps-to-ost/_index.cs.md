@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu X
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XPS to OST conversion using Python APIs helps transform fixed-layout document content into a mailbox data format associated with synchronized email storage workflows. This can be useful in scenarios where document-derived communication content must be prepared for structured mailbox handling, migration support, or integration with enterprise messaging environments.
+
+Automation improves the process by enabling repeatable transformations, reducing manual mailbox preparation tasks, and supporting larger-scale document-to-mail data workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Příprava dat poštovní schránky**
+  Převést komunikaci odvozenou z XPS do struktur orientovaných na OST pro použití v pracovním postupu.
+
+* **Podpora podnikového zasílání zpráv**
+  Seskupit převod dokumentů se synchronizovanými prostředími poštovní schránky a procesy ukládání.
+
+* **Připravenost na migraci**
+  Připravit data komunikace založená na dokumentech pro pracovní postupy zahrnující přesun nebo konsolidaci poštovní schránky.
+
+* **Strukturované uchovávání komunikace**
+  Zachovat obsah pocházející z dokumentů v rámci strategií úložiště zaměřených na zprávy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná transformace poštovních dat**
+  Spustit kroky převodu související s OST, když XPS dokumenty vstoupí do pracovních postupů zasílání zpráv.
+
+* **Hromadné zpracování**
+  Programově převádět velké kolekce XPS souborů pro podnikovou správu.
+
+* **Integrace archivního kanálu**
+  Směrovat převedené výstupy do řízeného úložiště a synchronizačních procesů.
+
+* **Pracovní postupy přechodu systému**
+  Podporovat automatizovanou přípravu komunikačních dat pro změny infrastruktury.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod OTT na EML v Python API převádí šablony textových dokumentů OpenDocument na standardní soubory e‑mailových zpráv, které zachovávají strukturu zprávy pro ukládání, přenos a následné zpracování. To je užitečné, když musí být obsah dokumentu přeměněn na přenositelné e‑mailové artefakty.
+
+Převod podporuje automatizaci tím, že umožňuje generování e‑mailových souborů řízených dokumenty, které lze archivovat, přezkoumávat, importovat nebo zpracovávat systémy kompatibilními s e‑mailem v opakovatelných pracovních postupech.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování e‑mailových souborů**  
+  Vytváří standardní soubory zpráv z opakovaně použitelných šablon dokumentů.
+
+* **Příprava archivace**  
+  Vytváří e‑mailové artefakty vhodné pro evidenci a přenos.
+
+* **Předání systému**  
+  Podporuje pracovní postupy, které vyžadují soubory zpráv místo přímého odesílání e‑mailu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Hromadné vytváření e‑mailových konceptů**  
+  Převádí mnoho šablon OTT na soubory EML pro přezkoumání nebo doručovací řetězce.
+
+* **Automatizovaná tvorba záznamů**  
+  Ukládá výstupy připravené ke komunikaci jako standardní e‑mailové soubory.
+
+* **Integrace se systémy zpracování pošty**  
+  Zavádí vygenerované soubory EML do procesů ingestování, archivace nebo souladových pracovních postupů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod OFT na GIF pomocí Python API vykresluje šablony e‑mailů Outlooku do lehkých obrazových souborů vhodných pro náhledy, rychlé sdílení a vizuální dokumentaci. To je užitečné, když je obsah e‑mailu třeba zachovat jako jednoduchý obrázek s širokou kompatibilitou napříč platformami a nástroji.
+
+Z hlediska automatizace podporuje převod OFT na GIF škálovatelné generování náhledů, lehké archivování a rychlou integraci s vizuálními pracovními postupy. Snižuje ruční úsilí při vykreslování a zároveň zlepšuje přístupnost obsahu v systémech založených na obrázcích.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Lehké vizuální náhledy**  
+  Převádějte soubory OFT na GIF obrázky pro kompaktní a snadno sdílené náhledy šablon.
+
+* **Archivace rozvržení e‑mailu**  
+  Zachovejte vizuální vzhled šablon v jednoduchém formátu obrázku pro archivaci.
+
+* **Podpora revize obsahu**  
+  Používejte výstupy GIF v recenzních portálech nebo dokumentaci, kde jsou důležité rychle načítající se vizuály.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované generování náhledů**  
+  Vytvářejte GIF náhledy ze šablon OFT pro dashboardy, repozitáře nebo schvalovací systémy.
+
+* **Dávková vizuální konverze**  
+  Převádějte velké sady šablon na GIF obrázky pro katalogizaci a ověřování obsahu.
+
+* **Dynamické publikování aktiv**  
+  Vkládejte vygenerované GIF soubory do obsahových systémů, které potřebují rychle vykreslované vizuální aktiva.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

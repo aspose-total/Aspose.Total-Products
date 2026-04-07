@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python 中的电子邮件转 Word 转换能够将邮件内容转换为可编辑的文字处理文档，以便进行起草、存储和协作。当电子邮件沟通需要在更广泛的业务流程中转化为工作文档时，这非常有用。
+
+此转换通过将非结构化的收件箱内容转移到支持编辑、重用、审批和仓库管理的结构化文档工作流中，从而提升自动化水平。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **可编辑的消息保存**
+  将电子邮件转换为 Word 文档，以便更轻松地进行修订和重用。
+
+* **业务流程文档化**
+  将重要的沟通内容转化为团队和部门使用的工作文件。
+
+* **协作内容处理**
+  以支持编辑和评论的格式共享已转换的电子邮件。
+
+* **工作流集成**
+  将来源于电子邮件的文档插入结构化存储和审批系统中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **收件箱到 Word 转换流水线**
+  自动从选定的电子邮件生成 Word 文档以进行处理。
+
+* **内容标准化工作流**
+  大规模地将电子邮件内容标准化为可编辑的业务文档。
+
+* **自动审阅路由**
+  通过协作编辑或运营流水线发送已转换的 Word 文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

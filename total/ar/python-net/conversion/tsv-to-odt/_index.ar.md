@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV to ODT conversion يحول البيانات المفصولة بعلامات جدولة إلى ملفات نصية بصيغة المستند المفتوح التي تدعم الوثائق القابلة للتحرير، القابلة للنقل، والمعتمدة على المعايير. وهو مفيد للمنظمات التي تبحث عن مخرجات مستندات مرنة من مصادر بيانات منظمة دون حجز سير العمل في نظام بيئي واحد.
+
+With Python APIs, TSV to ODT conversion يمكن أتمتتها لتحسين التوافقية، تقليل المعالجة اليدوية، ودعم إنشاء مستندات قابلة للتوسع عبر سير عمل بصيغة مفتوحة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تقارير المستند المفتوح**  
+  يحوّل محتوى TSV إلى مستندات نصية قابلة للتحرير بناءً على معايير مفتوحة.
+
+* **توثيق متعدد المنصات**  
+  يسهّل مشاركة البيانات المنظمة عبر بيئات مستندات متنوعة.
+
+* **سجلات أعمال قابلة للوصول**  
+  يدعم إنشاء مخرجات قابلة للقراءة من مصادر جدولة خام.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط أنابيب المستندات القابلة للتشغيل البيني**  
+  يمكن لواجهات برمجة تطبيقات بايثون أتمتة إنشاء ODT من تصديرات TSV المتكررة.
+
+* **دعم سير العمل بصيغة مفتوحة**  
+  تمكن الأتمتة من إنشاء مخرجات مستندات معتمدة على المعايير بشكل قابل للتوسع.
+
+* **تحويل البيانات على دفعات**  
+  يمكن تحويل ملفات TSV متعددة إلى صيغة ODT في وظائف معالجة مبسطة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

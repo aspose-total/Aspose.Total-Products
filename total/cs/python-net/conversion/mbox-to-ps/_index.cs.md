@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod MBOX na PS transformuje archivy poštovních schránek do souborů PostScript, podporuje tiskově orientované a popisové pracovní postupy, kde je vyžadováno strukturované vykreslování stránek. To je cenné v technických a výrobních prostředích, která závisí na přesném zpracování tištěných dokumentů.
+
+Pomocí Python API mohou organizace automatizovat převod PS z dat MBOX, aby podpořily tiskové řetězce, starší výstupní systémy a škálovatelné procesy vykreslování e‑mailů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Export popisu stránky**
+  Převést obsah e‑mailu do souborů PS pro řízené tiskové a vykreslovací pracovní postupy.
+
+* **Podpora staršího výstupu**
+  Zachovat data poštovní schránky ve formátu kompatibilním se zavedenými tiskovými prostředími.
+
+* **Strukturovaná příprava tisku**
+  Umožnit stránkově přesný výstup e‑mailů pro systémy technické dokumentace.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná generace tiskových souborů**
+  Převést obsah poštovní schránky do výstupů PostScript pomocí opakovatelných procesů v Pythonu.
+
+* **Integrace výrobních pracovních postupů**
+  Směrovat soubory PS do podnikových tiskových a vykreslovacích systémů.
+
+* **Škálovatelná kompatibilita se staršími systémy**
+  Zpracovat velké archivy e‑mailů do výstupů připravených k tisku pro specializovaná prostředí.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

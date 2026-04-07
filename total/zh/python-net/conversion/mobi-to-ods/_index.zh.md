@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+在 Python 中将 MOBI 转换为 ODS，使得能够将电子书衍生的内容转换为适用于分析、重用和协作编辑的开放电子表格格式。这对偏好开放标准且仍需结构化电子表格功能的组织非常有用。
+
+从自动化的角度来看，MOBI 到 ODS 的转换支持可扩展的开放文档工作流、成本高效的互操作性以及程序化的导出例程。它帮助团队将源出版文件转化为结构化资产，能够平稳地与自动化的办公和数据系统集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **开放标准电子表格输出**
+  将 MOBI 文件转换为 ODS，以便在开放文档环境中进行结构化编辑和分析。
+
+* **面向团队的内容结构化**
+  将提取的电子书信息准备为协作式电子表格格式，以供运营使用。
+
+* **可重用的数据打包**
+  以一种可在开源和基于标准的平台之间重用的格式交付内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化开放文档导出**
+  在计划的内容处理任务中，从 MOBI 输入生成 ODS 文件。
+
+* **跨平台工作流集成**
+  将转换后的电子表格输出输送到依赖开放办公文档标准的系统中。
+
+* **可重复的内容结构化**
+  使用 Python 自动化持续地将电子书内容转换为可用于电子表格的开放文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

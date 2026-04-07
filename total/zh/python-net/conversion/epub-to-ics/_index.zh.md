@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+EPUB 转换为 ICS 在 Python 中使得提取或重新利用出版物内容为日历兼容文件以用于调度和基于事件的工作流成为可能。当文档内容包含日期驱动的信息、议程、时间线或需要结构化日历输出的事件详情时，这尤其有用。
+
+在现代自动化场景中，EPUB 转换为 ICS 帮助组织将文档与调度系统连接，提升基于时间的协作，并实现能够自动生成日历条目的 Python 驱动工作流。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **事件日程提取**  
+  将包含日程或时间线的 EPUB 内容转换为用于日历的 ICS 文件。
+
+* **议程分发**  
+  将基于出版物的事件信息转化为更易于共享和管理的日历条目。
+
+* **规划工作流支持**  
+  使用 ICS 输出将文档内容与规划和协作流程连接。
+
+* **结构化日期管理**  
+  将以日期为中心的出版物材料转换为适用于日历应用和调度工具的格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动日历生成**  
+  Python 工作流可以从包含事件、会议或里程碑的 EPUB 文档生成 ICS 文件。
+
+* **内容到日程管道**  
+  自动化系统可以将出版物数据转换为可用的调度输出，无需手动输入。
+
+* **循环事件发布**  
+  重复的文档更新可以触发新的 ICS 生成，以实现同步的日历工作流。
+
+* **批量事件转换**  
+  基于日程的 EPUB 文件的大量集合可以通过编程方式转换，以高效填充日历。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

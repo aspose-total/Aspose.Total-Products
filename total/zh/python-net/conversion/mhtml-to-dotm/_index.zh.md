@@ -44,7 +44,47 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF WORDML Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python 中的 MHTML 转 DOTM 转换将归档的网页内容转换为支持可重用结构和嵌入式自动化的宏启用 Word 模板。这在模板还必须执行预定义操作或动态格式化步骤的文档环境中非常有用。
+
+该格式对于可扩展的自动化尤为重要，因为它将模板的一致性与可编程行为相结合。它使得高级文档工作流成为可能，在这些工作流中，来源于网页的内容成为可重复且自动化的业务流程的一部分。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用模板创建**  
+  在需要可重用布局和文档自动化的情况下，将 MHTML 文件转换为 DOTM 模板。
+
+* **自动化表单准备**  
+  在包含脚本验证或格式化步骤的模板中使用转换后的网页内容。
+
+* **动态业务文档**  
+  支持需要固定结构和自动化操作的重复文档。
+
+* **流程控制的文档输出**  
+  创建适用于具有结构化且可重复的运营需求环境的模板文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板库**  
+  从 MHTML 源生成 DOTM 模板，以在拥有标准化流程的各部门之间使用。
+
+* **宏驱动的文档工作流**  
+  将网页存档转换为在文档创建期间触发自动任务的模板。
+
+* **批量模板供应**  
+  使用 Python API 从捕获的网页内容大规模创建宏启用的模板资产。
+
+* **企业文档控制**  
+  将转换后的 DOTM 模板集成到依赖可重复且自动化文档准备的系统中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

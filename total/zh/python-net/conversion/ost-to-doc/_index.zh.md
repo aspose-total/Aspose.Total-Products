@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OST 转 DOC 转换将邮箱内容转换为可编辑的文档格式，允许电子邮件数据在熟悉的文字处理环境中被重新使用、结构化和保存。它对于文档编制、业务报告以及需要以可修改形式使用邮件内容的工作流非常有价值。
+
+对于自动化驱动的系统，OST 转 DOC 转换支持从邮箱存档中进行可扩展的内容提取和文档生成。Python API 有助于简化此过程，实现企业内容管理和数字运营的可重复转换工作流。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **可编辑的电子邮件文档**  
+  将邮箱消息转换为 DOC 文件，以便审阅、修订和重复使用。
+
+* **记录合并**  
+  帮助将电子邮件内容与更广泛的基于文档的报告或案例材料合并。
+
+* **内部知识捕获**  
+  以适合结构化文档的格式保存重要的邮箱信息。
+
+* **工作流交接文件**  
+  使基于电子邮件的信息更容易以可编辑形式在团队之间共享。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化文档创建**  
+  Python 脚本从 OST 内容生成 DOC 文件，用于报告和记录工作流。
+
+* **邮箱内容处理**  
+  转换管道提取并转换消息为可编辑文档，以供业务使用。
+
+* **存档到文档自动化**  
+  编程式转换支持从电子邮件存储到文档系统的可扩展迁移。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

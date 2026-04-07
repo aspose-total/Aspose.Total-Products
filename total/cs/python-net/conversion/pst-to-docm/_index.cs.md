@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PST na DOCM konverze v Python API umožňuje exportovat data poštovní schránky do makrem povolených dokumentů Word pro pokročilé pracovní postupy s dokumenty. To je užitečné, když je třeba archivovaný obsah e‑mailů kombinovat s automatizovaným chováním dokumentu, strukturovaným formátováním nebo řízenou logikou šablon.
+
+V moderních automatizačních systémech podpora konverze PST na DOCM usnadňuje procesy generování dokumentů, které závisí na dynamických akcích, opakovaně použitelných formulářích nebo předpřipravených makrem povolených šablonách. Pomáhá propojit archiv komunikace s pravidly řízenými obchodními dokumentačními operacemi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Výstup makrem povolených dokumentů**
+  Exportuje obsah poštovní schránky do DOCM pro pracovní postupy, které se spoléhají na vloženou automatizaci dokumentu.
+
+* **Strukturované sestavování záznamů**
+  Pomáhá kombinovat data zpráv s pokročilými šablonami a logikou ve Wordu.
+
+* **Standardizace provozních dokumentů**
+  Podporuje konzistentní formátování obsahu odvozeného z e‑mailů v řízených obchodních souborech.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizační pipeline šablon**
+  Data PST mohou být směrována do šablon DOCM pro opakovatelnou tvorbu dokumentů.
+
+* **Vkládání obsahu řízené pravidly**
+  Automatizované systémy mohou naplňovat makrem povolené soubory vybraným obsahem poštovní schránky.
+
+* **Podnikové dokumentační toky**
+  Programová konverze umožňuje archivovanou komunikaci použít v pokročilých dokumentačních procesech.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل PPTM إلى DOT باستخدام واجهات برمجة تطبيقات بايثون يحول محتوى العروض التقديمية الممكّن بالماكرو إلى تنسيق قالب مستند يُستخدم للمخرجات النصية المعيارية. يكون ذلك مفيدًا عندما تحتاج مواد العرض التقديمي إلى تمهيد هياكل مستند قابلة لإعادة الاستخدام لعمليات الأعمال أو العمليات التشغيلية المتكررة.
+
+يدعم هذا النوع من التحويل الأتمتة من خلال تمكين المؤسسات من بناء تدفقات عمل مستندية قابلة للتكرار من المحتوى المستمد من العروض التقديمية. يقلل ذلك من تكرار الجهد ويساعد على توحيد طريقة تنسيق المعلومات المحوّلة وإعادة استخدامها عبر الفرق.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إعادة استخدام المحتوى القائم على القالب**
+  يحوّل محتوى الشرائح إلى أساس قالب قابل لإعادة الاستخدام لإنشاء مستندات متكررة.
+
+* **إعداد المستند المعياري**
+  يدعم الاتساق في المستندات المولدة من مواد العرض التقديمي.
+
+* **هيكلة المحتوى التشغيلي**
+  يساعد على تنظيم المحتوى المحوّل في تخطيطات محددة مسبقًا لتدفقات العمل الداخلية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط أنابيب إنشاء القوالب**
+  يُؤتمت إنشاء قوالب DOT من أصول العرض التقديمي.
+
+* **تدفقات عمل المستندات المتكررة**
+  يدعم إنشاء المستندات المتكرر باستخدام القوالب المحوّلة المعيارية.
+
+* **أتمتة التحكم في التنسيق**
+  يُمكّن من فرض اتساق التخطيط برمجيًا عبر المخرجات المحوّلة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

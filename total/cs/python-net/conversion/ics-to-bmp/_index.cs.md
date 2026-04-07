@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu I
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ICS na BMP převod pomocí Python API umožňuje transformovat data kalendářních událostí do bitmapových obrázků pro vizualizaci, sdílení nebo dokumentaci. Tento přístup pomáhá převést strukturované informace o plánování do grafického formátu, který lze snadno vložit do prezentací, zpráv nebo vizuálních řídicích panelů.
+
+Pomocí automatizovaných Python pracovních postupů lze soubory ICS programově zpracovat a exportovat do BMP obrázků ve velkém měřítku. To umožňuje vývojářům generovat vizuální reprezentace kalendářních dat v rámci reportovacích pipeline, monitorovacích nástrojů nebo automatizovaných dokumentačních systémů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování snímků kalendáře**  
+  Převést kalendářní rozvrhy do bitmapových obrázků pro rychlou vizuální referenci v zprávách nebo prezentacích.
+
+* **Automatizované reportování událostí**  
+  Vytvářet grafické reprezentace rozvrhů událostí pro automatizované stavové nebo plánovací zprávy.
+
+* **Dokumentace a archivace**  
+  Ukládat obsah kalendáře jako obrázky pro dlouhodobé archivování nebo zahrnutí do dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Plánované reportovací pipeline**  
+  Automaticky převádět soubory ICS na BMP obrázky jako součást automatizovaných reportovacích pracovních postupů.
+
+* **Služby vizualizace kalendáře**  
+  Dynamicky generovat vizuály událostí v rámci plánovacích nebo monitorovacích aplikací.
+
+* **Dávkové zpracování kalendáře**  
+  Převádět více souborů ICS na bitmapové obrázky pomocí škálovatelných automatizovaných skriptů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

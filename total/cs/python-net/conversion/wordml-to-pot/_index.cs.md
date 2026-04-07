@@ -64,7 +64,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML na POT převod transformuje obsah dokumentu do souborů šablon prezentací, které slouží jako znovupoužitelné základy pro sady snímků. To je užitečné, když je potřeba, aby dokumentově založené pokyny, struktura nebo značkové rozvržení se staly opakovatelnými výchozími body prezentací.
+
+Python API umožňují převod WordML na POT programově převáděním strukturovaného textu na prezentace připravené jako šablony, což usnadňuje škálovatelné vytváření obsahu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření šablon prezentací**
+  Převádí obsah WordML do opakovaně použitelných souborů POT pro konzistenci návrhu snímků.
+
+* **Standardizované vytváření sad**
+  Pomáhá týmům zahájit prezentace ze struktur a zpráv odvozených z dokumentu.
+
+* **Opakovaně použitelné komunikační prostředky**
+  Přetváří opakující se vzory obsahu na opakovatelná prezentační rámce.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Pracovní postupy publikování šablon**
+  Automatizuje generování souborů POT z schválených struktur dokumentů a obsahových bloků.
+
+* **Standardizace výroby snímků**
+  Podporuje tvorbu velkého množství prezentací z konzistentních výchozích šablon.
+
+* **Řízení obsahu**
+  Zajišťuje, že standardizované zprávy jsou automaticky vloženy do šablon prezentací.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

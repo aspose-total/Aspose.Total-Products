@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل RTF إلى SXC يحول مستندات النص الغني إلى ملفات جدولية متوافقة مع سير عمل جداول البيانات المفتوحة القديمة. هذا مفيد عندما يجب تنظيم محتوى المستند في شكل جدولي للتحليل أو التقارير أو التوافق مع بيئات المكتب المفتوح القديمة.
+
+في سياقات الأتمتة، يدعم تحويل RTF إلى SXC تحويلًا منظمًا للمعلومات المكتوبة إلى أصول جداول بيانات يمكنها المشاركة في خطوط معالجة البيانات التاريخية أو الموجهة للتوافق.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إعداد جداول البيانات المفتوحة القديمة**  
+  يحول محتوى المستند إلى ملفات جدولة مناسبة لبيئات جداول البيانات المفتوحة القديمة.
+
+* **إعادة تنظيم البيانات المهيكلة**  
+  يساعد على إعادة تشكيل المعلومات السردية إلى صفوف وأعمدة للمراجعة والمتابعة.
+
+* **تبادل البيانات الموجه للتوافق**  
+  يدعم سير العمل الذي يعتمد على دعم ملفات جداول البيانات القديمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إخراج جداول البيانات القديمة المؤتمت**  
+  يمكن للأنظمة تحويل مصادر RTF إلى ملفات SXC لسير عمل موجه بالتوافق.
+
+* **عمليات هيكلة البيانات على دفعات**  
+  يساعد التحويل البرمجي على توحيد مجموعات المستندات الكبيرة إلى صيغ جاهزة للجداول.
+
+* **تكامل الأنظمة التاريخية**  
+  يمكن لسير العمل الديناميكي تغذية بيئات جدولة أقدم باستخدام محتوى المستند المحول.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

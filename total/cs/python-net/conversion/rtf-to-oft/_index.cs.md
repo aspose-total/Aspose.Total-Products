@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu R
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF to OFT conversion transforms formatted text documents into email template files that can be reused for standardized communication. This is useful when organizations need to convert prepared content into structured templates for consistent outreach, support, or internal messaging.
+
+In automation workflows, RTF to OFT supports repeatable email generation by turning document-authored content into reusable templates that can be populated dynamically and deployed across communication processes.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření znovupoužitelných e‑mailových šablon**  
+  Převádí obsah bohatého textu do souborů šablon pro konzistentní tvorbu zpráv.
+
+* **Standardizovaná interní komunikace**  
+  Pomáhá týmům udržovat jednotné formulace napříč opakovanými e‑maily a oznámeními.
+
+* **Připravený obsah pro oslovení**  
+  Podporuje převod schválených textových aktiv do formátů připravených pro šablony komunikace.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Zprávové kanály řízené šablonami**  
+  Systémy mohou převádět RTF dokumenty na OFT šablony pro automatizované komunikační pracovní postupy.
+
+* **Dynamické naplňování obsahu**  
+  Programové procesy mohou spojit znovupoužitelné šablony s proměnnými daty pro škálovatelnou komunikaci.
+
+* **Automatizace komunikace založená na schválení**  
+  Standardní text dokumentu lze převést na řízené e‑mailové šablony pro regulované oslovení.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod OST na DOTX převádí obsah poštovní schránky do moderního formátu šablony dokumentu, což usnadňuje opětovné využití informací odvozených z e‑mailů ve standardizovaných rozvrženích. To je zvláště užitečné pro organizace, které chtějí konzistentní výstupy dokumentace založené na archivovaném obsahu poštovní schránky.
+
+Automatizační systémy těží z převodu OST na DOTX tím, že proměňují e‑mailová data na strukturované šablony, které zapadají do širších obsahových a dokumentačních generovacích pipeline. Python API umožňují škálovatelné provádění, snižují manuální úsilí a podporují opakovatelné podnikové automatizační vzory.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Opakovatelné šablony dokumentů**  
+  Převádí obsah OST do souborů DOTX pro standardizovanou tvorbu dokumentů.
+
+* **Konzistentní formátování obsahu**  
+  Pomáhá organizacím udržovat jednotné rozvržení informací odvozených z e‑mailů.
+
+* **Znalostní aktiva založená na šablonách**  
+  Podporuje převod důležitých zpráv do opakovatelných strukturovaných šablon.
+
+* **Efektivita dokumentace**  
+  Zjednodušuje opakující se pracovní postupy, které se spoléhají na předformátované struktury dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované publikování šablon**  
+  Pythonové pracovní toky převádějí obsah poštovní schránky do šablon DOTX pro opakované použití.
+
+* **Standardizované systémy reportování**  
+  Převodové rutiny podporují automatizovanou tvorbu konzistentních dokumentačních rámců.
+
+* **Škálovatelné strukturování obsahu**  
+  Programové pipeline připravují opakovatelné šablony z velkých archivů OST.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

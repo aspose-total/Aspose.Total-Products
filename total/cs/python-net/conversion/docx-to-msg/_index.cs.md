@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX to MSG conversion transforms word processing documents into individual email message files used by desktop messaging systems. This process enables document content to be packaged as a standalone email item for storage, transfer, or communication workflows.
+
+Using Python APIs, DOCX-to-MSG conversion can be integrated into automated messaging systems, archival pipelines, and enterprise communication platforms. It supports scalable document-driven email generation where formatted content must be converted into reusable message files.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytvoření samostatné e‑mailové zprávy**  
+  Převádí obsah DOCX do samostatných souborů e‑mailových zpráv pro komunikační systémy.
+
+* **Komunikační záznamy založené na dokumentech**  
+  Zachovává informace o dokumentu ve formátu orientovaném na zprávy pro revizi nebo distribuci.
+
+* **Integrace podnikové pošty**  
+  Umožňuje použít strukturovaný obsah dokumentu v e‑mailových pracovních postupech a desktopových poštovních platformách.
+
+* **Automatizované archivování zpráv**  
+  Podporuje převod dokumentů do souborů zpráv pro ukládání a procesy souladu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná generace e‑mailových souborů**  
+  Systémy mohou převádět soubory DOCX na soubory MSG pro následné komunikační pracovní postupy.
+
+* **Dávkové pipeline pro zasílání dokumentů**  
+  Python skripty mohou zpracovávat velké kolekce dokumentů a programově generovat soubory zpráv.
+
+* **Automatizace podnikové archivace**  
+  Obsah dokumentu může být převeden do formátu MSG pro automatizované uchovávání a auditní systémy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -64,7 +64,46 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod CSV do PPSM pomocí Python API umožňuje strukturovaná tabulková data převést do souborů prezentací s makry, které kombinují doručování prezentace s automatizačním chováním.  
+Tento převod je cenný pro moderní pracovní postupy, protože podporuje automatizovanou tvorbu prezentací a zároveň zachovává pokročilé možnosti prezentací pro interaktivní nebo procesně řízené případy použití.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování prezentací s makry**  
+  Převést data CSV do souborů PPSM pro prezentace, které vyžadují vestavěnou podporu automatizace.
+
+* **Interaktivní pracovní postupy prezentací**  
+  Vytvořit výstup prezentace, který kombinuje strukturovaná data s pokročilým chováním pro řízená prostředí.
+
+* **Automatizovaná doručovací aktiva**  
+  Transformovat obsah CSV do souborů PPSM pro opakovatelnou tvorbu a distribuci prezentací.
+
+* **Pokročilá prezentace dat**  
+  Použít vstup CSV k vytvoření souborů prezentací vhodných pro pracovní postupy, které závisí na formátech prezentací připravených pro automatizaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované interaktivní prezentace**  
+  Použít Python API k vytvoření souborů PPSM z datových sad CSV pro pracovní postupy prezentací zaměřené na automatizaci.
+
+* **Systémově integrovaná výroba prezentací**  
+  Zaintegrovat převod CSV do PPSM do reportovacích systémů, které automaticky připravují výstup prezentací.
+
+* **Hromadná tvorba makro‑prezentací**  
+  Převést velké objemy souborů CSV do formátu PPSM s konzistentním rozvržením a podporou vestavěných funkcí.
+
+* **Sestavování prezentací řízené pravidly**  
+  Programově sestavit prezentace PPSM ze strukturovaného obsahu CSV a logiky pracovního postupu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

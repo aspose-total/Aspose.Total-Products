@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+BMP 到电子邮件的转换允许将位图图像文件嵌入或作为附件包含在结构化的电子邮件中。此过程通常在需要通过通信系统传递视觉资产或在消息平台中归档时使用。
+
+在自动化环境中，将 BMP 图像转换为电子邮件兼容格式可实现与通知系统、文档工作流和报告管道的无缝集成。这有助于现代系统在保持结构化通信格式的同时，高效分发视觉信息。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **自动化报告交付**  
+  系统可以将生成的 BMP 图表或截图转换为电子邮件，以用于自动化报告工作流。
+
+* **可视化通知系统**  
+  监控工具可以在检测到特定系统条件时，通过电子邮件发送基于图像的警报。
+
+* **邮件系统中的文档归档**  
+  组织可以将基于图像的文档存储在电子邮件记录中，以实现结构化归档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **定时图像报告**  
+  自动化脚本将 BMP 文件转换为电子邮件附件，并在预定间隔内分发。
+
+* **工作流通知管道**  
+  系统过程生成的图像输出可以自动嵌入到外发电子邮件中。
+
+* **编程式电子邮件生成**  
+  应用程序在批处理任务期间动态生成包含 BMP 内容的电子邮件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

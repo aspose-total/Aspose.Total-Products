@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod WordML na XLT transformuje strukturovaný obsah dokumentu do souborů šablon tabulek, které slouží jako znovupoužitelné výchozí body sešitu. To je užitečné, když jsou potřeba standardizované šablony tabulek pro rozvržení dat řízené dokumenty nebo opakující se zprávy.
+
+Python API podporují převod WordML na XLT automatizací tvorby šablon a umožňují opakovatelnou generaci tabulek ze strukturovaných zdrojových dokumentů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Workbook Template Creation**
+  Converts WordML content into XLT files for reusable spreadsheet structures.
+
+* **Recurring Report Standardization**
+  Helps define consistent workbook layouts based on document patterns.
+
+* **Process Consistency**
+  Supports repeatable spreadsheet authoring from approved source content.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Template Generation Workflows**
+  Automates XLT creation from WordML reports, forms, or structured tables.
+
+* **Spreadsheet Production Standardization**
+  Supports teams creating recurring workbooks from common templates.
+
+* **Document-Driven Layout Automation**
+  Converts structured document content into reusable spreadsheet foundations.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

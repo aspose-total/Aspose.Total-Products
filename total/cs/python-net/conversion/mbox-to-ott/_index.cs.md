@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod MBOX na OTT transformuje archiv poštovních schránek do šablon otevřených dokumentů, což umožňuje znovupoužití struktur obsahu odvozených z e‑mailů ve standardizovaných pracovních postupech tvorby dokumentů. To je užitečné, když organizace chtějí vytvářet opakovatelná formáty obsahu založené na archivovaných komunikacích.
+
+Python API umožňují automatizovat generování OTT ze souborů MBOX, zlepšují konzistenci, snižují ruční nastavení a podporují škálovatelné operace zaměřené na šablony.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování otevřených šablon**
+  Převést obsah poštovní schránky do opakovaně použitelných OTT šablon pro konzistentní tvorbu dokumentů.
+
+* **Standardizované rozvržení obsahu**
+  Zachovat strukturu založenou na e‑mailu ve formátu určeném pro opakovatelný formátování.
+
+* **Dokumentace řízená šablonami**
+  Použít převedený obsah poštovní schránky k podpoře budoucích pracovních postupů otevřených dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované vytváření šablon**
+  Generovat OTT soubory z vybraných e‑mailů jako součást opakovatelných obsahových pipeline.
+
+* **Standardizace otevřených pracovních postupů**
+  Použít Python automatizaci k udržení konzistentních struktur šablon z archivů poštovních schránek.
+
+* **Škálovatelná příprava dokumentů**
+  Integrovat převedené šablony do širších systémů generování dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

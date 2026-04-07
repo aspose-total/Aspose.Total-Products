@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT na VCF převod transformuje kontaktní nebo profilové informace uložené v dokumentech do standardního formátu vizitky, který je vhodný pro adresáře a systémy správy kontaktů. To je užitečné, když dokumenty obsahují strukturované osobní nebo organizační kontaktní údaje.
+
+Python API umožňují převod ODT na VCF v automatizovaných pracovních tocích pro extrakci, migraci a synchronizaci kontaktů. Pomáhají organizacím převádět statické textové záznamy na znovupoužitelná kontaktní data s vyšší rychlostí a přesností.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Extrahování kontaktních informací**  
+  Převádí jména, čísla a adresy z dokumentů do kontaktních karet.
+
+* **Podpora migrace adresáře**  
+  Pomáhá přesunout kontaktní data z textových dokumentů do strukturovaných adresářů.
+
+* **Standardizace profilů**  
+  Přetváří neformální seznamy kontaktů na znovupoužitelná digitální kontaktní záznamy.
+
+* **Příprava CRM**  
+  Podporuje čistší import kontaktních dat do podnikových systémů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatické parsování kontaktů**  
+  Python skripty mohou identifikovat kontaktní pole v ODT souborech a generovat VCF výstupy.
+
+* **Hromadná konverze adresáře**  
+  Velké seznamy kontaktů lze převést na znovupoužitelné karty v dávkových úlohách.
+
+* **Synchronizační pracovní toky**  
+  Převoděné kontakty mohou napájet importní pipeline pro adresáře a související systémy.
+
+* **Příprava obohacení dat**  
+  Strukturované VCF výstupy mohou podpořit následnou validaci a integrační procesy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

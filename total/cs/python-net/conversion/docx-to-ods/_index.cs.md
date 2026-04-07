@@ -65,7 +65,44 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX to ODS conversion transforms word processing documents into OpenDocument Spreadsheet files, allowing structured or tabular content to be reused in spreadsheet workflows. This conversion supports data extraction and interoperability with open office systems.
+
+Using Python APIs, DOCX-to-ODS conversion can be integrated into automated reporting, analytics, and document transformation pipelines. It helps organizations move structured data from narrative documents into spreadsheet-driven processes.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Export otevřených tabulek**  
+  Převádí strukturovaný obsah DOCX do souborů tabulek na základě otevřených standardů.
+
+* **Extrahování tabulkových dat**  
+  Umožňuje opětovné využití tabulek v dokumentech a uspořádaného obsahu pro analýzu.
+
+* **Mezi platformní interoperabilita dat**  
+  Podporuje kompatibilitu s kancelářskými balíky, které používají otevřené formáty tabulek.
+
+* **Pracovní postupy převodu dokumentu na data**  
+  Umožňuje přesun strukturovaných informací do systémů tabulek.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované pipeline pro extrakci dat**  
+  Soubory DOCX lze převést do ODS tabulek pro následné analytické pracovní postupy.
+
+* **Dávková generace otevřených tabulek**  
+  Python skripty mohou zpracovat více dokumentů a programově exportovat soubory tabulek.
+
+* **Interoperabilní systémy reportování**  
+  Podnikové pracovní postupy mohou převádět obsah dokumentů do formátu ODS pro širší přístupnost.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX to PST conversion transforms word processing documents into personal storage files used to manage collections of email messages, contacts, and related mailbox data. This process supports integrating document-derived content into mailbox-oriented archival and migration workflows.
+
+Using Python APIs, DOCX-to-PST conversion can be automated for enterprise communication archives, compliance systems, and large-scale content migration processes. It enables structured document information to be packaged for mail data storage environments.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Příprava poštovního archivu**  
+  Převádí obsah dokumentu do úložných struktur používaných pro sběr dat zpráv.
+
+* **Podnikové workflow uchovávání**  
+  Podporuje dlouhodobé ukládání obsahu komunikace odvozeného z dokumentů.
+
+* **Podpora migrace poštovní schránky**  
+  Pomáhá přesouvat obsah do formátů sladěných s osobními systémy úložiště zpráv.
+
+* **Záznamy zpráv založené na dokumentech**  
+  Umožňuje začlenit psaný obsah do archivovaných sbírek poštovních dat.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná generace PST**  
+  Systémy mohou převádět obsah DOCX do výstupů úložiště pošty pro archivní workflow.
+
+* **Dávkové zpracování archivů komunikace**  
+  Python skripty mohou zpracovat více dokumentů do PST-orientovaných úložných pipeline.
+
+* **Automatizace souladu a uchovávání**  
+  Informace z dokumentů lze převést do souborů osobního úložiště pro řízené archivní systémy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

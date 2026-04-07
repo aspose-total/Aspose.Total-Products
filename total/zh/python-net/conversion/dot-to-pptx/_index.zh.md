@@ -65,7 +65,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT 转 PPTX 转换将可重复使用的文档模板转换为可编辑、可共享和可进行演示的现代演示文件。当模板内容必须转变为灵活的幻灯片套件格式以适应当前工作流程时，这非常有价值。
+
+通过使用 Python API，组织可以自动化 DOT 转 PPTX 转换，以提升生产力、保持一致的幻灯片生成，并支持可扩展的内容再利用。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **现代演示生成**
+  将 DOT 文件转换为 PPTX，以实现可编辑、可共享的基于幻灯片的沟通。
+
+* **在可视化格式中的模板复用**
+  将结构化文档内容转化为现代演示文稿。
+
+* **协作支持**
+  共享由集中模板创建的可编辑演示输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化幻灯片套件创建**
+  Python 脚本可以将 DOT 模板转换为 PPTX，以用于重复的报告和沟通任务。
+
+* **内容再利用工作流**
+  转换有助于将文档内容迁移到演示流水线中，无需手动重新设计。
+
+* **批量演示生成**
+  编程系统可以高效地从源模板创建大量 PPTX 文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

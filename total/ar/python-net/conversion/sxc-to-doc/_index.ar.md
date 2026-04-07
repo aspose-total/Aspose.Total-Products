@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل SXC إلى DOC يحول المحتوى القائم على جداول البيانات إلى تنسيق مستند كلاسيكي يسهل مراجعته ومشاركته وأرشفته في سير عمل يركز على النص. يكون مفيدًا عندما تحتاج المعلومات الجدولية المنظمة إلى تقديمها كوثائق أعمال قابلة للقراءة، أو ملخصات، أو تقارير لتوفير وصول أوسع.
+
+في بيئات الأتمتة، يساعد تحويل SXC إلى DOC على توحيد إنشاء المخرجات، وتقليل إعداد المستندات يدويًا، ودعم عمليات النشر، والموافقة، أو الامتثال اللاحقة من خلال واجهات برمجة تطبيقات بايثون.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء التقارير**  
+  يحوّل محتوى جداول البيانات إلى مستندات قابلة للقراءة للتقارير الرسمية والتواصل مع أصحاب المصلحة.
+
+* **توزيع المحتوى**  
+  يجعل المحتوى المستند إلى البيانات أسهل للمشاركة مع المستخدمين الذين يفضّلون الصيغ المستندية على جداول البيانات.
+
+* **إعداد الأرشيف**  
+  يساعد على حفظ سجلات الأعمال بصيغة تُستخدم عادةً في سير عمل الوثائق طويلة الأجل.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء مستندات دفعي**  
+  يُؤتمت تحويل ملفات SXC المتعددة إلى مستندات DOC لخطوط أنابيب التقارير المتكررة.
+
+* **نشر البيانات إلى مستند**  
+  يُمكّن سير عمل بايثون من تحويل بيانات جداول البيانات إلى مستندات سردية مناسبة للنشر أو المراجعة.
+
+* **تكامل سير العمل**  
+  يدعم إنشاء المستندات داخل أنظمة أكبر مثل الموافقة، وحفظ السجلات، وخطوط توصيل المحتوى.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

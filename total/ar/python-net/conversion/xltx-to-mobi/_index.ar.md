@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل XLTX إلى MOBI يحول محتوى قالب جدول البيانات إلى تنسيق صديق للكتب الإلكترونية مناسب لتجارب القراءة الخفيفة وتوزيع رقمي محمول. وهو مفيد عندما يجب إعادة توظيف المواد القائمة على القوالب المهيكلة إلى محتوى قابل للقراءة ومضغوط لمشاركة المعرفة أو الأدلة أو وثائق المراجع.
+
+في الأنظمة التي تركز على الأتمتة، يدعم تحويل XLTX إلى MOBI نشر المحتوى القابل للتوسع عن طريق تحويل قوالب جداول البيانات المهيكلة إلى أصول قراءة محمولة يمكن إنشاؤها برمجيًا وتوزيعها عبر قنوات التوزيع الرقمية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء دليل محمول**  
+  يحول محتوى قالب جدول البيانات المهيكل إلى تنسيق قراءة صديق للهواتف المحمولة.
+
+* **نشر مواد مرجعية**  
+  يساعد في توزيع المعرفة الجدولية أو المهيكلة في تنسيق مُحسّن للقراءة الرقمية.
+
+* **سير عمل إعادة توظيف المحتوى**  
+  يدعم تحويل محتوى القالب التشغيلي إلى موارد على نمط الكتب الإلكترونية قابلة لإعادة الاستخدام.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء كتب إلكترونية تلقائي**  
+  يمكن للأنظمة تحويل قوالب XLTX إلى ملفات MOBI لمهام النشر الرقمي المتكررة.
+
+* **خطوط توزيع المعرفة**  
+  يدعم الموضوع حزم المحتوى المهيكل تلقائيًا لتسليم القارئ الخفيف.
+
+* **عمليات النشر الضخمة**  
+  يتيح التحويل البرمجي نشر دفعات كبيرة من المحتوى القائم على جداول البيانات كوثائق محمولة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

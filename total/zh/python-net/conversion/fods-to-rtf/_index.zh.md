@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FODS 到 RTF 的转换将平面的 OpenDocument 电子表格内容转换为富文本格式（RTF）文档，提供了一种广泛兼容的方式来共享结构化信息为可编辑的文本文件。当组织需要一种在各种系统和应用程序之间都能灵活使用的文档格式时，这非常有用。
+
+从自动化的角度来看，FODS 到 RTF 的转换支持互操作的文档生成、大批量转换工作流以及高效的内容分发。Python API 帮助团队自动化转换过程，减少手动操作，并将文档输出集成到多系统环境中。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **跨平台文档共享**  
+  将 FODS 数据转换为 RTF 文件，以在各种编辑环境中实现广泛兼容。
+
+* **可编辑数据呈现**  
+  以易于修改和审阅的基于文本的格式呈现电子表格信息。
+
+* **遗留工作流支持**  
+  对仍依赖广泛支持的文本文档格式的系统或流程使用 RTF 输出。
+
+* **互操作报告**  
+  以适合团队和工具之间交换的可移植格式交付结构化内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化多格式输出**  
+  Python 工作流可以在更大的转换系统中从 FODS 文件生成 RTF 文档。
+
+* **批量兼容性处理**  
+  多个源文件可以转换为 RTF 格式，以实现更广泛的下游可用性。
+
+* **跨系统工作流集成**  
+  自动化 RTF 生成支持多个平台消费文档输出的环境。
+
+* **可扩展文档交换**  
+  编程式转换实现快速且可重复的可移植可编辑文件准备。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX 到 WordML 的转换将邮箱存档转换为基于 XML 的 Word 文档标记，实现结构化表示和机器可读的电子邮件衍生内容处理。当工作流需要透明度、定制化或对文档结构的编程交互时，这非常有价值。
+
+Python API 通过支持自动化转换、XML 级别处理以及与处理结构化文档数据的系统集成，使 WordML 转换在大规模下变得实用。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **基于 XML 的 Word 文档导出**
+  将电子邮件转换为 WordML，以实现结构化和机器可读的文档处理。
+
+* **自定义文档处理**
+  使用基于标记的工作流实现对电子邮件衍生内容的低层次操作。
+
+* **互操作性数据交换**
+  将邮箱数据保存在适用于结构化文档系统的格式中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化 XML 转换**
+  从 MBOX 存档生成 WordML 输出，以用于文档感知的处理流水线。
+
+* **结构化数据工作流**
+  使用 Python 以编程方式检查、修改或验证转换后的邮箱文档。
+
+* **可扩展的系统集成**
+  将电子邮件衍生的 XML 文档输入企业内容和转换系统。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

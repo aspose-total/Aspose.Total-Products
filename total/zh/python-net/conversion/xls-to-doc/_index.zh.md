@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS 转 DOC 转换能够将电子表格数据转换为可编辑的文档格式，用于报告、文档编制和结构化内容复用。它帮助团队将表格化的业务信息转化为可读的叙述性文档，支持协作、审阅和下游发布。
+
+使用 Python API 进行 XLS 转 DOC 转换可通过减少手动格式化工作并实现从电子表格源大规模可重复生成业务文档，从而提升文档工作流的自动化水平。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **报告生成**
+  将基于电子表格的数据转换为文档布局，用于摘要、内部报告和业务沟通。
+
+* **内容重新格式化**
+  将表格化的 XLS 内容转换为段落友好的文档结构，以便更易阅读和编辑。
+
+* **文档工作流**
+  使用电子表格记录作为运营文档、流程说明或合规文件的源材料。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **计划文档创建**
+  自动从周期性 XLS 输入生成 DOC 文件，用于定期报告流程。
+
+* **基于工作流的文件转换**
+  当电子表格文件进入文档处理流水线时触发转换。
+
+* **动态内容发布**
+  使用 Python API 将更新的电子表格转换为可编辑文档，以供审阅和分发。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

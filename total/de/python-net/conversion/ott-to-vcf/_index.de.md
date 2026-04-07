@@ -46,7 +46,41 @@ Wer versucht für einen Python-Entwickler, eine OTT-zu-VCF-Konvertierungsfunktio
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT-zu-VCF-Konvertierung in Python-APIs wandelt OpenDocument-Textvorlagen in Kontaktkartendateien um, die zum Teilen von Personen- und Organisationsdetails verwendet werden. Dies ist wertvoll, wenn der Vorlageninhalt strukturierte Kontaktinformationen enthält, die portabel und importbereit sein müssen.
+
+Die Konvertierung unterstützt die Automatisierung, indem dokumentverwaltete Kontaktdaten in standardisierte Austauschdateien umgewandelt werden, wodurch manuelle Eingaben reduziert und die Synchronisation in Kommunikations‑ und Verzeichnis‑Workflows verbessert wird.
+
+{{% blocks/products/pf/agp/feature-section-col title="Wichtige Anwendungsfälle" %}}
+
+* **Erstellung von Kontaktdateien**  
+  Wandelt strukturierte Kontaktinhalte in importierbare Kartendateien um.
+
+* **Verzeichnisdatenfreigabe**  
+  Erleichtert den Austausch von Kontaktinformationen zwischen Systemen.
+
+* **Vorlagenbasierte Kontaktverwaltung**  
+  Nutzt Dokumentvorlagen für standardisierte Kontaktausgaben.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* **Automatisierter Kontakteexport**  
+  Erstellt VCF-Dateien aus OTT-Vorlagen, die Personen- oder Organisationsdaten enthalten.
+
+* **CRM- oder Verzeichnisintegration**  
+  Fügt erzeugte Kontaktdateien in nachgelagerte Informationssysteme ein.
+
+* **Massenkontaktpaketierung**  
+  Produziert standardisierte Kontaktausgaben für große Kontaktsätze.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

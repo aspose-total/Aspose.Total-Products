@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование документа в XLSM преобразует содержимое Word в книги Excel с поддержкой макросов, которые объединяют структуру таблиц с расширенными возможностями автоматизации. Это ценно для организаций, которым нужны редактируемые данные и готовое к автоматизации поведение книги.
+
+Использование Python API для преобразования DOC в XLSM поддерживает масштабируемое создание книг, снижает ручную передачу данных и позволяет интеграцию с продвинутыми процессами, основанными на электронных таблицах.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Книги данных с поддержкой макросов**
+  Преобразуйте содержимое документа в файлы таблиц, предназначенные для поддержки сложных рабочих процессов.
+
+* **Автоматизированная бизнес-отчетность**
+  Используйте вывод XLSM там, где логика таблиц и структурированные данные должны работать вместе.
+
+* **Повторно используемые операционные модели**
+  Перепрофилируйте повторяющееся содержимое документов в книги, способные к автоматизации.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Продвинутая автоматизация книг**
+  Создавайте файлы XLSM из источников DOC для рабочих процессов с интенсивным использованием таблиц.
+
+* **Конвейеры логики документ‑в‑Excel**
+  Преобразуйте структурированное содержимое в книги, используемые в автоматизированных операционных моделях.
+
+* **Повторяющаяся трансформация данных**
+  Программно стандартизируйте экспорт документов в активы таблиц с поддержкой макросов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

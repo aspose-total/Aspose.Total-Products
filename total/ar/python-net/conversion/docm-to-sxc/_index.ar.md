@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOCM إلى SXC يحول المستندات التي تدعم الماكرو إلى ملفات جدولية متوافقة مع سير عمل الجداول المفتوحة القديمة، مما يسمح بإعادة استخدام المحتوى المنظم في شكل جدولي. يكون ذلك مفيدًا عندما يجب تبادل البيانات المستندة إلى المستندات مع الأنظمة القديمة التي لا تزال تعتمد على معايير الجداول القديمة.
+
+للتنفيذ الآلي، يدعم تحويل DOCM إلى SXC استخراج البيانات الروتيني، التوافق العكسي، وتحويل الجداول المستندية إلى مخرجات جدولية صديقة للأنظمة القديمة بشكل قابل للتوسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **التوافق مع الجداول القديمة**
+  يحول محتوى المستند إلى تنسيق جدول قديم يُستخدم في البيئات الراسخة.
+
+* **إعادة استخدام الجداول المنظمة**
+  يساعد على نقل البيانات الجدولية من مستندات DOCM إلى سير عمل الجداول.
+
+* **تبادل البيانات المتوافق عكسيًا**
+  يدعم الأنظمة التي لم تنتقل بالكامل إلى تنسيقات الجداول الأحدث.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تصدير تلقائي للأنظمة القديمة**
+  ينتج ملفات SXC من مصادر DOCM لتلبية متطلبات سير العمل القديمة.
+
+* **تحويل البيانات الضخم**
+  يحول مجموعات كبيرة من جداول المستندات إلى مخرجات جاهزة للجداول بكفاءة.
+
+* **دعم خط أنابيب التوافق**
+  يجسر بين مصادر المستندات الحديثة وأنظمة معالجة الجداول القديمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

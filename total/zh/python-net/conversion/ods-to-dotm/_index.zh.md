@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS 到 DOTM 转换可将电子表格文件转换为启用宏的文档模板。这些模板支持由嵌入宏驱动的高级文档自动化和可重用的文档结构。
+
+使用 Python API，开发者可以自动化将电子表格数据集转换为启用宏的模板。这使得可扩展的自动化系统能够基于电子表格驱动的数据生成动态文档。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **启用宏的模板创建**  
+  将电子表格数据结构转换为支持自动化宏的模板。
+
+* **自动化文档框架**  
+  使用电子表格输入构建由宏驱动的文档模板。
+
+* **动态模板生成**  
+  从结构化的电子表格内容生成可重用的模板。
+
+* **文档自动化系统**  
+  通过启用宏的模板实现高级自动化文档工作流。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板生成**  
+  Python 工作流从电子表格输入生成启用宏的模板。
+
+* **批量模板转换**  
+  系统处理多个 ODS 文件以创建启用宏的模板。
+
+* **企业文档自动化**  
+  从电子表格派生的模板实现可扩展的自动化文档生成。
+
+* **动态文档组装**  
+  启用宏的模板支持程序化内容创建。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

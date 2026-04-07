@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+يدعم تحويل MOBI إلى XLT في بايثون تحويل محتوى الكتاب الإلكتروني إلى تنسيق قالب جدول بيانات يُستخدم لإنشاء دفاتر عمل قابلة للتكرار. هذا مفيد عندما تحتاج المخرجات المهيكلة إلى اتباع تخطيط ثابت، صيغ محددة مسبقًا، أو تصميم تقارير موحد.
+
+في سير عمل الأتمتة، يساعد تحويل MOBI إلى XLT المؤسسات على إنشاء قوالب جدول بيانات متسقة من مصادر المحتوى المستخرجة. يدعم التوحيد، يقلل من الجهد المتكرر في التنسيق، ويُمكّن من توليد مستندات مهيكلة قابلة للتوسع بناءً على أنماط موحدة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تقارير مستندة إلى القالب**
+  تحويل محتوى MOBI إلى XLT لسير العمل الذي يتطلب تخطيطات جدول بيانات قابلة للتكرار.
+
+* **تصميم دفتر عمل موحد**
+  استخدام مخرجات القالب للحفاظ على الهيكل، التنسيق، وتنظيم الأوراق المتسقة.
+
+* **إنشاء مستند موجه بالعملية**
+  دعم الفرق التي تُنشئ عدة نسخ من جدول البيانات من أساس قالب مشترك.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء القالب المتكرر**
+  إنشاء ملفات XLT تلقائيًا من بيانات مستخرجة من MOBI لدورات تقارير متكررة.
+
+* **خطوط أنابيب توحيد الصيغة**
+  استخدام أتمتة بايثون لضمان أن كل جدول بيانات محول يتبع نفس النموذج الهيكلي.
+
+* **إنتاج دفتر عمل قابل للتوسع**
+  إدخال مخرجات القالب إلى الأنظمة التي تُنتج مستندات تشغيلية موحدة على نطاق واسع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS 到 DOC 的转换能够将存储在 OpenDocument 电子表格文件中的电子表格数据转换为经典的文字处理文档。此过程有助于将结构化的表格和数据转换为适用于报告、文档编写和内容分发的可读文档格式。
+
+使用 Python API 进行 ODS 到 DOC 的转换，使开发者能够将文档转换集成到自动化流水线中。它实现了可扩展的处理、批量转换，以及与文档管理系统和企业工作流的无缝集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **电子表格数据报告**  
+  将电子表格数据集转换为格式化的报告，以用于文档编写和审阅。
+
+* **业务文档生成**  
+  将结构化的财务或运营电子表格转换为可编辑的文字处理文档。
+
+* **数据展示准备**  
+  将电子表格信息转换为适合共享或发布的文档格式。
+
+* **内容归档**  
+  将电子表格内容保存在广泛支持的文档格式中，以实现长期存储。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化报告创建**  
+  Python 脚本将电子表格数据集转换为 DOC 文件，作为计划报告工作流的一部分。
+
+* **批量文档处理**  
+  自动化流水线处理大量 ODS 文件批次，并将其转换为文字处理文档。
+
+* **动态内容转换**  
+  编程系统自动将电子表格内容转换为结构化文档。
+
+* **文档工作流集成**  
+  转换服务与文档管理系统集成，以标准化输出格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

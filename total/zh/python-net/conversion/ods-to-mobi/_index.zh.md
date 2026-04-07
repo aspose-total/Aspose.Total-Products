@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS 到 MOBI 的转换将电子表格文件转换为针对数字阅读设备优化的格式。这使得结构化的电子表格信息能够以适合便携查看的可读文档形式进行分发。
+
+Python API 使得电子表格内容能够自动转换为电子书就绪的格式。这支持可扩展的出版工作流、自动化文档生成以及数字内容分发系统。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **面向数字阅读的数据发布**  
+  将基于电子表格的信息转换为便携的数字文档。
+
+* **结构化内容分发**  
+  将电子表格数据集转换为适合数字消费的可读格式。
+
+* **报告发布**  
+  将分析型电子表格转换为格式化的数字文档。
+
+* **内容再利用**  
+  将电子表格内容改编为电子书风格的文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化出版流水线**  
+  Python 工作流自动将电子表格转换为数字阅读格式。
+
+* **批量数字文档生成**  
+  系统将多个电子表格处理为便携的阅读文档。
+
+* **动态内容发布**  
+  编程工作流从电子表格输入生成读者友好的文档。
+
+* **数字内容分发系统**  
+  转换流水线支持自动化出版基础设施。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

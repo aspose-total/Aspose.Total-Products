@@ -65,7 +65,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+文档转 POTX 转换将 Word 内容转换为现代演示模板文件，支持一致且可重复使用的幻灯片生成。当文档内容作为标准化演示和可重复沟通资产的基础时，这非常有用。
+
+Python API 允许在大规模内容集上自动化 DOC 到 POTX 的转换，提升模板治理，减少人工工作，并支持可扩展的演示运营。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **现代模板开发**
+  将 Word 内容转换为可重复使用的演示模板，以实现标准化的幻灯片创建。
+
+* **演示治理**
+  通过从文档生成基于模板的资产，保持幻灯片输出的一致性。
+
+* **跨团队内容复用**
+  将已批准的文档内容重新用于模板，以供更广泛的组织使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量模板自动化**
+  从 DOC 输入生成 POTX 文件，用于企业演示库。
+
+* **文档转幻灯片流水线**
+  通过 Python 驱动的工作流，将文档转换为可重复使用的幻灯片模板。
+
+* **标准化发布流程**
+  自动化模板创建，以支持大规模的可重复沟通。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ODS إلى DOTM يتيح تحويل ملفات جداول البيانات إلى قوالب مستندات مفعّلة بالماكرو. تسمح هذه القوالب بأتمتة المستندات المتقدمة وهياكل المستند القابلة لإعادة الاستخدام المدفوعة بالماكرو المدمج.
+
+باستخدام واجهات برمجة تطبيقات بايثون، يمكن للمطورين أتمتة تحويل مجموعات بيانات جداول البيانات إلى قوالب مفعّلة بالماكرو. يتيح ذلك أنظمة أتمتة قابلة للتوسع تنتج مستندات ديناميكية تعتمد على البيانات المستندة إلى جداول البيانات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء قالب مفعّل بالماكرو**  
+  تحويل هياكل بيانات جداول البيانات إلى قوالب تدعم ماكرو الأتمتة.
+
+* **أطر المستندات المؤتمتة**  
+  استخدام مدخلات جداول البيانات لبناء قوالب مستندات مدفوعة بالماكرو.
+
+* **إنشاء القوالب الديناميكية**  
+  إنشاء قوالب قابلة لإعادة الاستخدام من محتوى جداول البيانات المهيكل.
+
+* **أنظمة أتمتة المستندات**  
+  تمكين سير عمل المستندات المتقدم المؤتمت من خلال القوالب المفعّلة بالماكرو.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنتاج القوالب المؤتمتة**  
+  تدفقات عمل بايثون تولد قوالب مفعّلة بالماكرو من مدخلات جداول البيانات.
+
+* **تحويل القوالب على دفعات**  
+  الأنظمة تعالج ملفات ODS متعددة لإنشاء قوالب مفعّلة بالماكرو.
+
+* **أتمتة المستندات المؤسسية**  
+  القوالب المستخرجة من جداول البيانات تمكّن من توليد مستندات مؤتمتة قابلة للتوسع.
+
+* **تجميع المستندات الديناميكي**  
+  القوالب المفعّلة بالماكرو تدعم إنشاء المحتوى برمجياً.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

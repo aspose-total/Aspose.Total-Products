@@ -64,7 +64,47 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Slides for Python via 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod PPSX na TSV transformuje data prezentace do výstupu ve formátu tabulátorově odděleného textu, který je jednoduchý, nenáročný a vhodný pro strukturovanou výměnu dat. Tento formát je užitečný, když je třeba extrahovat obsah snímků pro zpracování v systémech, které upřednostňují prostý textový tabulkový vstup.
+
+Pro automatizační scénáře podporuje převod PPSX na TSV spolehlivý přesun dat, zjednodušuje ingestování do skriptů a pipeline a umožňuje efektivní zpracování ve velkém měřítku pomocí Python API.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Export tabulkových dat**  
+  Převádí strukturovaný obsah snímků do formátu prostého textového tabulky.
+
+* **Systémově přátelská výměna dat**  
+  Produkuje výstup, který je snadno importovatelný do nástrojů akceptujících soubory s oddělovači.
+
+* **Nenáročná transformace obsahu**  
+  Podporuje extrakci s minimální režijní zátěží pro strukturované zpracování úloh.
+
+* **Příprava dat pro pipeline**  
+  Pomáhá učinit data prezentace použitelné v programových prostředích.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná extrakce textových dat**  
+  Python API mohou převádět soubory PPSX do TSV pro zjednodušené pracovní postupy parsování.
+
+* **Podpora ingestování do pipeline**  
+  Výstupy TSV mohou být přímo přesunuty do automatizovaných ETL nebo transformačních systémů.
+
+* **Úlohy konverze ve velkém objemu**  
+  Automatizace umožňuje opakovaný převod obsahu prezentace do tabulárního textu ve velkém měřítku.
+
+* **Strukturovaný přenos mezi nástroji**  
+  Převáděné soubory podporují efektivní přesun mezi heterogenními platformami.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

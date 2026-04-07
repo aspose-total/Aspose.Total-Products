@@ -64,7 +64,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM na PPS konverze převádí makrem povolené šablony Wordu do souborů PowerPoint Show určených pro přímé přehrávání prezentace. To je užitečné, když je třeba obsah dokumentu převést na výstupy prezentace určené k okamžitému zobrazení spíše než k úpravám.
+
+Použití Python API pro konverzi DOTM na PPS zvyšuje automatizaci generováním souborů prezentace připravených k přehrání ze strukturovaných šablon dokumentů. Podporuje zjednodušené publikování, snižuje čas přípravy a umožňuje škálovatelné doručování obsahu prezentace.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Prezentace připravená k přehrání**
+  Převést soubory DOTM do PPS pro přímé zobrazení prezentace.
+
+* **Publikování dokumentu do prezentace**
+  Přetvořit obsah šablony na soubory prezentace zaměřené na přehrávání spíše než na úpravy.
+
+* **Materiály pro akce a briefing**
+  Připravit výstupy připravené k prezentaci ze šablon dokumentů pro schůzky a demonstrace.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná tvorba prezentace**
+  Systémy mohou vytvářet soubory PPS přímo ze šablon DOTM pro workflow doručování prezentací.
+
+* **Publikování zaměřené na přehrávání**
+  Konverze podporuje automatické vytváření výstupů snímků, které nejsou zaměřeny na úpravy.
+
+* **Hromadné nasazení prezentací**
+  Programové úlohy umožňují hromadnou transformaci šablon dokumentů do souborů PPS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

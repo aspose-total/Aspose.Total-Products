@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOTM إلى XLT يحول قوالب Word الممكّنة بالماكرو إلى ملفات قالب Excel الكلاسيكية لإنشاء جداول بيانات قابلة لإعادة الاستخدام وتدفقات عمل متوافقة مع الأنظمة القديمة. يكون ذلك مفيدًا عندما يجب أن يصبح محتوى المستند أساسًا متكررًا لدفتر العمل بدلاً من مخرجات جدول بيانات لمرة واحدة.
+
+يساعد استخدام واجهات برمجة تطبيقات Python لتحويل DOTM إلى XLT على أتمتة إنشاء قوالب جداول بيانات قابلة لإعادة الاستخدام من مصادر المستندات المهيكلة. يُحسّن ذلك من التوحيد، ويسرّع توليد جداول البيانات المتكررة، ويدعم التوافق مع بيئات المكاتب القديمة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **قوالب جداول بيانات قديمة قابلة لإعادة الاستخدام**
+  تحويل محتوى DOTM إلى XLT لإنشاء دفاتر عمل متكررة في تدفقات عمل Excel القديمة.
+
+* **إعادة توظيف المستند إلى قالب**
+  تحويل المحتوى المكتوب المهيكل إلى أسس جداول بيانات للاستخدام المتكرر.
+
+* **أصول إدخال بيانات موحدة**
+  إنتاج ملفات قالب متسقة من هياكل المستندات المعتمدة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء ملفات القالب تلقائيًا**
+  يمكن للأنظمة إنشاء ملفات XLT من قوالب DOTM لتدفقات عمل جداول بيانات متكررة.
+
+* **توحيد تنسيق الأنظمة القديمة**
+  يدعم التحويل إنتاج تنسيقات القوالب القديمة تلقائيًا حيث يكون التوافق مهمًا.
+
+* **معالجة أصول قابلة لإعادة الاستخدام على دفعات**
+  تمكن الوظائف البرمجية من تحويل ملفات DOTM إلى قوالب XLT بشكل قابل للتوسع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

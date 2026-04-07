@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование DOT в ODS преобразует шаблоны обработки текста в электронные таблицы OpenDocument для структурированной обработки данных и совместимости с открытыми рабочими процессами. Это важно, когда содержимое документа должно быть перенесено в формат таблицы, поддерживающий анализ, отслеживание или отчетность.
+
+Python API позволяют автоматизировать преобразование DOT в ODS, чтобы команды могли быстро и последовательно преобразовывать документы в открытые табличные ресурсы.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Генерация открытой таблицы**
+  Преобразуйте файлы DOT в ODS для ориентированного на данные обзора и манипуляций.
+
+* **Структурирование данных шаблона**
+  Перенесите повторно используемое содержимое документа в форму таблицы для оперативного использования.
+
+* **Кроссплатформенный обмен**
+  Обменивайтесь извлеченной информацией в открытом формате, подходящем для различных сред.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Автоматизированные табличные рабочие процессы**
+  Скрипты Python могут преобразовывать шаблоны DOT в файлы ODS в запланированных конвейерах.
+
+* **Интеграция открытых данных**
+  Преобразование поддерживает системы, которые полагаются на открытые форматы таблиц для обработки.
+
+* **Массовое преобразование документов**
+  Программная автоматизация помогает эффективно генерировать ODS‑выводы из множества шаблонов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -64,7 +64,44 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX to ODP conversion enables the transformation of word processing documents into OpenDocument Presentation files used for slide-based content delivery. This process helps turn structured text and document-based information into presentation-ready formats for meetings, training, and reporting.
+
+S Python API lze převod DOCX na ODP automatizovat v pipelinech publikování obsahu, systémech generování prezentací a pracovních postupech podnikového reportování. Zvyšuje efektivitu tam, kde je obsah dokumentu nutné programově znovu použít v prezentačních prostředích.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování prezentací z dokumentů**  
+  Převádí obsah DOCX do prezentačních souborů vhodných pro komunikaci ve formě snímků.
+
+* **Školení a vzdělávací materiály**  
+  Přetváří psané dokumenty na prezentační materiály pro výukové účely.
+
+* **Podnikové workflowy reportování**  
+  Umožňuje, aby zprávy vytvořené ve formátu DOCX byly znovu použity v prezentační formě.
+
+* **Distribuce obsahu v otevřeném formátu**  
+  Podporuje distribuci prezentací pomocí otevřených standardů dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované vytváření sady snímků**  
+  Systémy mohou automaticky generovat ODP prezentace z DOCX zpráv a souhrnů.
+
+* **Dávkový převod prezentací**  
+  Python automatizace může zpracovat více souborů DOCX do výstupů připravených k prezentaci.
+
+* **Pipeline pro publikování otevřených prezentací**  
+  Obsah dokumentu může být převeden do souborů ODP pro škálovatelné doručování obsahu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

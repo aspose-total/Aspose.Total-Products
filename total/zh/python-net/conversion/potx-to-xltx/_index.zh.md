@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 POTX 转换为 XLTX，可将 PowerPoint 模板内容转换为现代 Excel 模板文件，以生成可重复使用的工作簿。当需要将演示文稿资产适配为用于报告、规划或数据收集的标准化电子表格模板时，这非常有价值。
+
+自动化通过实现大规模程序化创建基于模板的电子表格资产，强化了此使用场景。POTX 到 XLTX 的转换支持一致性、高效性，并可与现代电子表格自动化工作流集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **可重复使用的电子表格模板**
+  将演示文稿模板内容转换为 Excel 模板，以实现未来工作簿的一致创建。
+
+* **结构化规划资产**
+  帮助将基于演示的材料转化为可重复使用的电子表格格式，以用于运营。
+
+* **模板标准化**
+  支持跨团队和重复工作流的统一电子表格设计。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **模板生成流水线**
+  自动化将 POTX 文件转换为 XLTX 模板，以供持续使用。
+
+* **工作簿工厂工作流**
+  支持从标准化模板资产创建新电子表格的系统。
+
+* **可扩展的电子表格操作**
+  实现大批量将演示模板转换为可重复使用的工作簿格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

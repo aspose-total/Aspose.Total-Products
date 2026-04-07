@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod DOT na XLSM mění šablony dokumentů na sešity s makry, které umožňují strukturovanou manipulaci s daty a pokročilé chování tabulek. To je cenné, když výstupy tabulek musí podporovat jak organizaci dat, tak rozšířené funkce.
+
+Pomocí Python API lze převod DOT na XLSM automatizovat a vytvářet opakovatelně pokročilé výstupy sešitů z opakovaně použitelných šablon dokumentů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování sešitu s makry**
+  Převod souborů DOT na XLSM pro pokročilé pracovní postupy v tabulkách.
+
+* **Opětovné použití dokumentu v sešitu**
+  Přeměňte obsah šablony na editovatelné, bohaté výstupy v tabulkách.
+
+* **Podpora provozní automatizace**
+  Připravte soubory sešitů vhodné pro výkonnější obchodní procesy založené na tabulkách.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované vytváření pokročilých sešitů**
+  Python skripty mohou převádět šablony DOT na soubory XLSM pro opakující se případy použití.
+
+* **Integrace pracovních postupů v tabulkách**
+  Převod spojuje úložiště dokumentů s vylepšenými zpracovatelskými řetězci sešitů.
+
+* **Škálovatelné generování výstupů připravených pro makra**
+  Programové systémy podporují konzistentní tvorbu pokročilých tabulkových aktiv.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API 中的 OTT 到 XLSX 转换将 OpenDocument 文本模板转换为用于分析、报告和结构化数据复用的现代电子表格工作簿。当文档内容必须以表格形式广泛访问和编辑时，这是最实用的转换之一。
+
+该转换支持自动化，通过从模板可重复创建工作簿输出，使得将文档衍生的内容集成到数据管道、审计和报告操作中更加容易。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **现代电子表格生成**  
+  从基于文本的模板生成当前的工作簿文件。
+
+* **业务分析准备**  
+  使信息更容易进行排序、过滤、计算和审阅。
+
+* **广泛的工作流兼容性**  
+  支持基于电子表格的协作和数据交换。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **计划的工作簿生成**  
+  在周期性循环中将 OTT 文件转换为 XLSX 输出。
+
+* **模板到报告的管道**  
+  将生成的电子表格输入到报告和分析工作流中。
+
+* **编程式数据打包**  
+  为团队或系统创建结构化的工作簿交付物。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

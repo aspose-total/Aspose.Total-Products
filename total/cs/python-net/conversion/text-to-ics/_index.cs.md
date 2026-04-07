@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod textu do formátu ICS pomocí Python API umožňuje převést informace v prostém textu na soubory událostí kompatibilní s kalendářem. To je vysoce relevantní pro plánovací systémy, generování schůzek a pracovní postupy, které potřebují převést textové podrobnosti událostí na sdílené kalendářové záznamy.
+
+Tento převod zlepšuje automatizaci tím, že umožňuje aplikacím generovat pozvánky na schůzky, připomenutí a plány událostí přímo z textových vstupů, což podporuje efektivní koordinaci a integraci napříč plánovacími systémy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření kalendářových událostí**  
+  Převádí podrobnosti události v textové formě do souborů ICS pro plánování a sdílení.
+
+* **Generování pozvánek na schůzky**  
+  Pomáhá vytvářet standardizované kalendářové pozvánky z prostého textového obsahu.
+
+* **Plánování připomenutí**  
+  Podporuje převod textových připomenutí do kalendářově kompatibilních souborů událostí.
+
+* **Integrace pracovních postupů pro schůzky**  
+  Umožňuje podnikovým systémům automaticky generovat rezervovatelné nebo sledovatelné kalendářové položky.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automaticky naplánované schůzky**  
+  Text zadaný ve formulářích nebo systémech může být převeden do souborů ICS pro okamžité použití v kalendáři.
+
+* **Pracovní postupy distribuce událostí**  
+  Automatizace může generovat a odesílat kalendářové soubory na základě textově definovaných plánů.
+
+* **Opakující se plánovací pipeline**  
+  Programové procesy mohou převádět strukturovaný text na kalendářové události ve velkém měřítku.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل SXC إلى DOTM يحول معلومات الجداول الإلكترونية إلى تنسيق قالب مستند يدعم الماكرو، صُمم لتوليد مستندات قابلة لإعادة الاستخدام وصديقة للأتمتة. وهو ذو صلة خاصة عندما تحتاج المؤسسات إلى قوالب قابلة للتكرار مع منطق مدمج أو سلوك متقدم.
+
+باستخدام واجهات برمجة تطبيقات بايثون، يعزز تحويل SXC إلى DOTM خطوط أنابيب الأتمتة من خلال دمج مدخلات الجداول الإلكترونية المهيكلة مع بنية القالب القابلة لإعادة الاستخدام لإنتاج مستندات قابلة للتوسع وتحت سيطرة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **قوالب مدعومة بالماكرو**  
+  تنشئ قوالب قابلة لإعادة الاستخدام تدعم الإجراءات الآلية بعد تحويل محتوى الجداول الإلكترونية.
+
+* **سير عمل المستندات المتقدم**  
+  يساعد في بناء أنظمة القوالب للمستندات التي تتطلب كلًا من الهيكل والوظائف المبرمجة.
+
+* **تصميم مخرجات قابل للتكرار**  
+  يدعم توليد المستندات المتكرر مع تخطيط ثابت وسلوك جاهز للعمليات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **نشر القوالب الآلي**  
+  يولد قوالب DOTM عبر سير عمل بايثون للاستخدام التشغيلي المتكرر.
+
+* **توليد المستندات المبرمجة**  
+  يتيح للأنظمة اللاحقة إنشاء مستندات من القوالب التي تتضمن منطق أتمتة مدمج.
+
+* **توحيد عمليات المؤسسة**  
+  يحسن الاتساق في إنشاء المستندات ذات الحجم الكبير حيث يكون كل من الهيكل والأتمتة مهمين.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

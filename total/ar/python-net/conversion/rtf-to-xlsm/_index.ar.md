@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل RTF إلى XLSM يحول مستندات النص الغني إلى دفاتر عمل جداول بيانات مُمكّنة بالماكرو تجمع بين تخزين البيانات المهيكلة ووظائف دفتر العمل المتقدمة. هذا مفيد عندما تحتاج المعلومات المستمدة من المستند إلى دعم سير عمل جداول البيانات الذي يتضمن إجراءات آلية أو منطقًا موسعًا.
+
+في بيئات الأتمتة، يتيح تحويل RTF إلى XLSM تحويلًا قابلًا للتوسع لمحتوى المستند إلى أصول جداول بيانات يمكنها المشاركة في سير عمل تشغيلي، تقارير، وعملية أكثر ثراءً.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء دفتر عمل متقدم**  
+  يحوّل مستندات النص إلى ملفات جداول بيانات مناسبة لوظائف دفتر عمل محسّنة.
+
+* **بيانات مهيكلة مع منطق موسع**  
+  يساعد في إعداد محتوى المستند المستخرج لسير عمل جداول البيانات الذي يتطلب أكثر من التخزين الثابت.
+
+* **إعداد جداول بيانات موجهة بالعملية**  
+  يدعم السيناريوهات التشغيلية حيث يكون سلوك دفتر العمل جزءًا من سير العمل.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط أنابيب البيانات المُمكّنة بالماكرو**  
+  يمكن للأنظمة تحويل مدخلات RTF إلى دفاتر عمل XLSM لعمليات أتمتة جداول بيانات متقدمة.
+
+* **إنشاء دفاتر عمل تشغيلية متكررة**  
+  يدعم التحويل البرمجي إنشاء منتظم لأصول جداول بيانات مُعززة.
+
+* **سير عمل التحليل الديناميكي**  
+  يمكن للعمليات الآلية تحويل محتوى المصدر المكتوب إلى دفاتر عمل مصممة للتفاعل أو المعالجة الموسعة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

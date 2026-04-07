@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FODS 到 ODT 的转换将平面 OpenDocument 电子表格数据转换为可编辑的 OpenDocument 文本文件，使得在文档中心的格式中呈现结构化信息更加容易，同时仍然遵循开放标准。这对于优先考虑兼容性、可访问性和开放文档工作流的组织非常有用。
+
+对于自动化和集成场景，FODS 到 ODT 的转换支持标准化的文档生成、工作流可移植性以及跨开放生态系统的高效处理。Python API 有助于自动化这些转换，减少重复工作，并实现从结构化输入的可扩展文档创建。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **开放文档报告**  
+  将电子表格内容转换为可编辑的 ODT 文档，以用于开放标准的报告工作流。
+
+* **文档准备**  
+  将结构化数据转换为可读的文本文档，以供内部或外部使用。
+
+* **可互操作的内容共享**  
+  当文档交换需要与开放文档系统的广泛兼容性时，使用 ODT 输出。
+
+* **结构化数据呈现**  
+  以更适合叙述和描述性内容的格式呈现平面电子表格信息。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **开放标准工作流自动化**  
+  Python API 可以将 FODS 文件转换为 ODT，作为自动化文档流水线的一部分。
+
+* **批量文档处理**  
+  可以以编程方式转换大量文件，以支持可扩展的操作。
+
+* **集成报告系统**  
+  ODT 输出可以自动生成，用于报告、发布或审阅任务。
+
+* **可移植文档生成**  
+  自动化转换支持使用开放格式在各平台之间进行一致的文档创建。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

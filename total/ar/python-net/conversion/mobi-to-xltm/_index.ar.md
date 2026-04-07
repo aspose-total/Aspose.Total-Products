@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MOBI إلى XLTM في بايثون يتيح إعداد محتوى الكتاب الإلكتروني كقالب جدول بيانات مدعوم بالماكرو لتوليد دفاتر عمل متقدمة وقابلة للتكرار. هذا مفيد في البيئات التي تتطلب كلًا من اتساق القالب ومنطق أتمتة جداول البيانات معًا.
+
+لأهمية الأتمتة، يجمع تحويل MOBI إلى XLTM بين استخراج منظم مع قوالب دفاتر عمل قابلة لإعادة الاستخدام وسلوك مدفوع بالماكرو. يدعم توليد المستندات على نطاق واسع، وتنسيقًا متسقًا، وعمليات جداول بيانات مؤتمتة في سير عمل محتوى المؤسسات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء قالب مدعوم بالماكرو**
+  تحويل محتوى MOBI إلى XLTM لتوليد جداول بيانات قابلة للتكرار مع دعم الأتمتة.
+
+* **دفاتر عمل متقدمة متسقة**
+  إنتاج مخرجات قائمة على القالب تحافظ على كل من البنية ووظيفة جداول البيانات المؤتمتة.
+
+* **نماذج تشغيلية قابلة لإعادة الاستخدام**
+  دعم سير عمل الأعمال الذي يعتمد على قوالب جداول بيانات مُتحكم فيها مع منطق مدمج.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **سير عمل القالب المؤتمت**
+  إنشاء ملفات XLTM عبر سكريبتات بايثون للعمليات المتكررة للمستندات والتقارير.
+
+* **خطوط أنابيب منطق جداول البيانات القابلة لإعادة الاستخدام**
+  إقران المحتوى المستخرج مع قوالب تدعم الماكرو لدعم سير عمل متقدم قابل للتكرار.
+
+* **تسليم الأتمتة المعياري**
+  إنشاء قوالب جداول بيانات موحدة يمكن تفعيلها برمجيًا عبر الفرق أو الأنظمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

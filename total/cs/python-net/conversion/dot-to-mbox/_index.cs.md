@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod DOT na MBOX převádí šablony dokumentů do úložného formátu ve stylu poštovní schránky, který je vhodný pro seskupené zpracování e‑mailových zpráv. To je užitečné, když je třeba obsah šablony sestavit do e‑mailového archivu nebo migračních pracovních postupů.
+
+Pomocí Python API mohou organizace automatizovat vytváření výstupů kompatibilních s MBOX ze souborů DOT, což pomáhá zefektivnit balení zpráv a přípravu archivace.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Příprava archivace poštovní schránky**
+  Převést komunikační šablony založené na DOT do struktur kompatibilních s MBOX.
+
+* **Ukládání seskupených zpráv**
+  Použít výstup ve formátu poštovní schránky pro shromažďování více komunikací řízených šablonou.
+
+* **Podpora migračních pracovních postupů**
+  Připravit obsah založený na dokumentech pro přesun do e‑mailového archivu a procesy uchovávání.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované sestavení archivu**
+  Python skripty mohou převést obsah DOT do výstupů připravených pro MBOX pro pracovní postupy uchovávání.
+
+* **Hromadné balení komunikací**
+  Převod podporuje programové seskupování zpráv odvozených ze šablon do formátů poštovní schránky.
+
+* **Škálovatelná podpora e‑mailové migrace**
+  Dynamické procesy pomáhají přesunout komunikace generované dokumenty do struktur přátelských k archivaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

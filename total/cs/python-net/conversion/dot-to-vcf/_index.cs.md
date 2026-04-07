@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod DOT na VCF transformuje šablony dokumentů na soubory vizitek, které lze použít pro import do adresáře a sdílení kontaktů. Je to užitečné, když záznamy založené na dokumentech obsahují údaje o osobě nebo organizaci, které je třeba zadat do komunikačních systémů.
+
+Python API umožňují automatizovat převod DOT na VCF, zlepšují přenositelnost kontaktních dat a snižují opakovaný ruční zadávání v obchodních pracovních postupech.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování záznamů kontaktů**
+  Převést informace založené na DOT do souborů VCF pro použití v adresáři.
+
+* **Přenositelné sdílení kontaktů**
+  Sdílejte strukturovaná kontaktní data extrahovaná ze šablon ve standardizovaném formátu.
+
+* **Podpora zadávání komunikačních dat**
+  Snižte ruční zadávání tím, že transformujete obsah šablony na vizitky připravené k importu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaný export kontaktů**
+  Python pracovní postupy mohou generovat soubory VCF ze šablon DOT obsahujících kontaktní informace.
+
+* **Integrace CRM a adresáře**
+  Převod podporuje přesun kontaktních dat založených na dokumentech do komunikačních systémů.
+
+* **Hromadné vytváření souborů kontaktů**
+  Programové zpracování umožňuje škálovatelné generování výstupů VCF z mnoha šablon.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

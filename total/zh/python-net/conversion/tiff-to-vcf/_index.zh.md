@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 TIFF 转换为 VCF，可将包含联系信息的基于图像的文档转换为数字地址簿和通信系统的结构化联系人卡片格式。当需要将扫描的名片、表单或可视化联系记录转化为可搜索且可重复使用的联系人条目时，这非常有用。
+
+从自动化的角度来看，TIFF 到 VCF 的转换提升了联系人捕获效率，减少手动数据输入，并支持文档成像与联系人管理工作流之间的可扩展集成。它帮助将静态的可视化联系数据转化为可操作的业务信息。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **名片数字化**
+  将联系卡的 TIFF 图像转换为兼容 VCF 的数字联系人记录。
+
+* **基于表单的联系人提取**
+  帮助将扫描的注册或登记文档转化为可重复使用的联系人条目。
+
+* **地址簿填充**
+  支持将可视化联系数据迁移到结构化的联系人管理系统。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动联系人摄取**
+  将基于 TIFF 的联系人文档转换为 VCF 输出，以便立即导入系统。
+
+* **线索捕获工作流**
+  支持将扫描的联系材料自动转化为结构化的潜在客户记录。
+
+* **目录同步流程**
+  实现从基于图像的源文件程序化创建数字联系人卡片。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

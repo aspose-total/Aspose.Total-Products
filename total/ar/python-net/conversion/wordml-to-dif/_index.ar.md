@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+يتيح تحويل WordML إلى DIF تصدير بيانات المستند المهيكلة إلى تنسيق تبادل البيانات (DIF) لتوافقه مع جداول البيانات القديمة وأنظمة معالجة البيانات. هذا مفيد عندما تحتاج المؤسسات إلى الحفاظ على المحتوى المهيكل في تنسيقات تبادل قديمة ولكن لا تزال مدعومة.
+
+تجعل واجهات برمجة التطبيقات بلغة بايثون تحويل WordML إلى DIF فعالًا من خلال استخراج الجداول، والحفاظ على العلاقات المنطقية للبيانات، وأتمتة تحويل المستندات لمشاريع الترحيل والتشغيل البيني.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تبادل جداول البيانات القديمة**
+  يقوم بتحويل محتوى جداول WordML إلى DIF لتوافقه مع بيئات جداول البيانات القديمة.
+
+* **مشاريع ترحيل البيانات**
+  يساعد على نقل المعلومات المهيكلة من المستندات إلى تنسيقات أرشفة أو نقل قابلة للتشغيل البيني.
+
+* **حفظ السجلات المهيكلة**
+  يدعم الاحتفاظ طويل الأمد بالمحتوى الجدولي في تنسيق مصمم لتبادل البيانات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تصدير جماعي للبيانات القديمة**
+  يُؤتمت تحويل الجداول المستندة إلى المستندات إلى DIF لمجموعات بيانات تاريخية كبيرة.
+
+* **دعم سير عمل الترحيل**
+  يتكامل مع مشاريع التحديث الآلية التي تتطلب تنسيقات تبادل قديمة.
+
+* **وظائف توحيد البيانات**
+  يُمكّن من روتينات تحويل قابلة للتكرار لتوحيد المحتوى المهيكل عبر المستودعات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+将文档转换为 XLSB 将 Word 内容转换为二进制 Excel 工作簿格式，支持对更大数据集的高效存储和电子表格处理。当必须以紧凑的电子表格形式处理来源于文档的结构化内容时，这非常有用。
+
+基于 Python API 的 DOC 转 XLSB 转换有助于自动化大批量电子表格生成、优化文件处理，并支持面向性能的数据工作流。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **紧凑的电子表格存储**
+  将文档数据转换为 XLSB，以实现高效的工作簿处理。
+
+* **大数据集准备**
+  当文档衍生的数据量超出轻量需求时，使用二进制工作簿。
+
+* **运营电子表格处理**
+  支持更倾向于快速加载电子表格输出的内部工作流。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **大批量工作簿生成**
+  自动将 DOC 文件转换为 XLSB，以满足面向性能的工作流。
+
+* **高效的数据导出管道**
+  通过编程方式从结构化文档内容创建二进制电子表格输出。
+
+* **可扩展的报告自动化**
+  使用 Python 脚本从重复文档生成存储高效的工作簿。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

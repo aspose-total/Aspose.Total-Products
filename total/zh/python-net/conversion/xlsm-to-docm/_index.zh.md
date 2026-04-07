@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSM 到 DOCM 转换允许将启用宏的电子表格内容导出为启用宏的文字处理文档格式，以便在需要高级文档行为或嵌入式自动化时使用。这对于依赖可编辑文档输出并保持与自动化驱动的文档环境兼容的组织非常有用。
+
+从自动化的角度来看，XLSM 到 DOCM 转换通过使基于 Python 的系统能够生成可重用的、支持宏的文档，帮助桥接电子表格逻辑与文档工作流。这支持可扩展的处理、文档生成以及集成到自动化的企业内容管道中。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用文档**
+  将基于电子表格的内容转换为支持高级脚本行为的文档文件。
+
+* **流程驱动报告**
+  帮助生成可编辑的报告，适用于文档自动化功能重要的环境。
+
+* **基于模板的工作流**
+  支持在结构化操作中从电子表格输入创建可重用的文档资产。
+
+* **高级内部表单**
+  使电子表格数据能够交付到适用于受控内部流程的文档格式中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化文档组装**
+  Python API 可以将 XLSM 文件转换为 DOCM 输出，以用于动态文档生成工作流。
+
+* **宏兼容分发**
+  自动化系统可以为依赖交互式或脚本化文档行为的团队准备 DOCM 文件。
+
+* **批量转换管道**
+  可以对多个 XLSM 电子表格进行程序化批量转换，规模化生成 DOCM 文件。
+
+* **工作流集成**
+  转换可以嵌入到将数据从电子表格移动到自动化文档阶段的企业系统中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

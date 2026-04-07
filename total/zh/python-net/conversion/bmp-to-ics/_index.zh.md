@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+BMP 到 ICS 的转换使位图图像能够嵌入使用 ICS 格式的日历事件文件中。此方法允许将日程表、活动横幅或图表等视觉材料随日历条目一起呈现。
+
+在自动化系统中，将 BMP 文件转换为 ICS 事件有助于将视觉信息与调度工作流集成。这支持跨日历平台的自动事件分发、提醒和协作。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **事件公告分发**  
+  日历邀请可以包含 BMP 图像，例如活动海报或图表。
+
+* **可视化调度文档**  
+  组织可以将视觉参考附加到已安排的事件中。
+
+* **基于日历的沟通**  
+  团队可以在日历条目中分发与事件相关的图形。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化日历事件生成**  
+  系统生成包含嵌入 BMP 可视化的 ICS 文件，以实现自动调度。
+
+* **基于工作流的事件通知**  
+  自动化流水线将基于图像的材料转换为日历事件。
+
+* **编程式会议邀请**  
+  应用程序动态创建包含视觉参考的 ICS 邀请。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

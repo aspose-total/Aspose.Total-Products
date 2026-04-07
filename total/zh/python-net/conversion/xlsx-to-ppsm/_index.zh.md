@@ -65,7 +65,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSX 到 PPSM 的转换将电子表格数据转换为宏启用的幻灯片文件，结合可直接呈现的输出和嵌入的演示自动化。这对于需要幻灯片内容既能立即播放又具备高级行为的工作流非常有用。
+
+自动化 XLSX 到 PPSM 的转换通过从电子表格数据生成动态幻灯片，同时在需要时保留宏启用功能，支持可扩展的演示系统。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **宏启用的幻灯片**  
+  将电子表格内容转换为能够保留自动演示行为的幻灯片文件。
+
+* **交互式演示交付**  
+  有助于创建支持高级内部演示需求的幻灯片输出。
+
+* **自动化简报包**  
+  支持为依赖嵌入逻辑或脚本行为的工作流生成演示文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自动化宏幻灯片创建**  
+  系统可以将电子表格输入转换为用于专门演示工作流的 PPSM 文件。
+
+* **动态演示组装**  
+  转换支持从变化的数据自动创建可直接运行的幻灯片输出。
+
+* **可扩展的内部演示自动化**  
+  编程工作流可以为重复的运营需求生成宏启用的幻灯片文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

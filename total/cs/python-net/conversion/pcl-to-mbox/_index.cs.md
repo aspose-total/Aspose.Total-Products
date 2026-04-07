@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konverze PCL do MBOX pomocí Python API umožňuje převést dokumenty generované tiskárnou do formátů poštovních archivů vhodných pro sbírky zpráv a dlouhodobé ukládání. To je užitečné pro organizace, které chtějí konsolidovat komunikaci založenou na dokumentech do poštovních kontejnerů připravených k archivaci.
+
+S automatizací konverze PCL do MBOX podporuje zpracování ve velkém objemu, standardizovanou retenci a plynulejší migraci starších výstupů do strukturovaných archivních pracovních postupů. Pomáhá propojit systémy zaměřené na tisk s moderními archivními a e‑mailovými správními praktikami.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytvoření poštovního archivu**  
+  Převádí obsah PCL do formátu MBOX pro konsolidované ukládání zpráv.
+
+* **Uchování historických záznamů**  
+  Podporuje archivaci komunikace vzniklé z tisku ve široce používané poštovní struktuře.
+
+* **Migrace starých výstupů**  
+  Pomáhá přesunout dokumenty založené na tisku do ekosystémů e‑mailových archivů.
+
+* **Hromadné balení zpráv**  
+  Umožňuje seskupení převedeného obsahu do poštovních archivů založených na kontejnerech.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované archivní pracovní postupy**  
+  Soubory PCL lze hromadně převést do archivů MBOX pro procesy retence a shody.
+
+* **Konsolidace starých systémů**  
+  Automatizované pipeline mohou centralizovat tiskové výstupy v repozitářích založených na poštovních schránkách.
+
+* **Transformace záznamů ve velkém objemu**  
+  Velké sady dokumentů PCL lze převést do souborů MBOX bez ručního balení.
+
+* **Programové retence pipeline**  
+  Převedené archivy mohou být přímo přesunuty do úložišť, indexování nebo auditních systémů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

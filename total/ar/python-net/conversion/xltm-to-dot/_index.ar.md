@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+يدعم تحويل XLTM إلى DOT في بايثون تحويل قوالب إكسل الممكّنة بالماكرو إلى ملفات قالب وورد تُستخدم لهياكل المستندات القابلة لإعادة الاستخدام. هذا مفيد عندما تحتاج تخطيطات أو أنماط محتوى مستمدة من جداول البيانات إلى إعادة توظيفها في قوالب المستندات للاستخدام المتكرر.
+
+في الأنظمة التي تركز على الأتمتة، يحسن تحويل XLTM إلى DOT توحيد القوالب، ويُمكّن إنشاء مستندات متكررة، ويدعم إعداد محتوى فعال عبر الصيغ.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء قالب مستند قابل لإعادة الاستخدام**  
+  يقوم بتحويل محتوى القالب المستند إلى جداول البيانات إلى ملفات قالب وورد لتوليد مستندات متكررة.
+
+* **إخراج تنسيق موحد**  
+  يساعد على الحفاظ على بنية متسقة عند الانتقال من قوالب المصنفات إلى قوالب المستندات.
+
+* **أطر الوثائق الداخلية**  
+  يدعم المؤسسات التي تبني مستندات متكررة من قوالب مصدر منظمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **أتمتة نشر القوالب**  
+  ينتج ملفات DOT تلقائيًا من مصادر XLTM للاستخدام في أنظمة توليد المستندات.
+
+* **توحيد محتوى متعدد الأقسام**  
+  يُمكّن توزيع القوالب المتسق عبر الفرق باستخدام مواد مصدر مستندة إلى جداول البيانات.
+
+* **مكتبات القوالب المدفوعة بالتحويل**  
+  يدعم إنشاء مكتبات قوالب وورد قابلة لإعادة الاستخدام تلقائيًا من أصول قوالب إكسل.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -66,7 +66,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 Word 转换为 XLTX 可将文字处理内容转换为现代电子表格模板文件，以实现一致的工作簿创建。当批准的文档结构需要转化为可重复使用的电子表格模板用于报告、运营或结构化数据收集时，这非常有用。
+
+在自动化工作流中，此转换通过将书面内容转化为可在团队和重复流程中重复使用的现代模板资产，帮助标准化电子表格的生成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **现代工作簿模板创建**
+  将文档内容转换为可持续使用的可重复使用的电子表格模板。
+
+* **一致的报告结构**
+  帮助在重复的业务工作流中保持统一的工作簿布局。
+
+* **基于模板的数据收集**
+  支持从文档定义的结构构建的可重复使用的电子表格。
+
+* **高效的内容再利用**
+  通过将源文档转化为模板资产来提升其价值。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量模板生成**
+  自动从重复的 Word 文档创建 XLTX 文件。
+
+* **标准化工作簿流水线**
+  使用现代模板在自动化系统中推动一致的电子表格创建。
+
+* **跨团队流程对齐**
+  为共享的运营工作流提供可重复使用的模板输出。
+
+* **文档到模板的自动化**
+  将批准的文本内容大规模转换为结构化的电子表格框架。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

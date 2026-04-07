@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSM 到 DOTM 的转换允许将启用宏的电子表格内容导出为启用宏的 Word 模板格式，以实现高级、可重复的文档生成。当组织需要模板一致性并支持文档级自动化功能时，这非常有用。
+
+该格式对于可扩展的自动化尤为重要，因为它将结构化的模板设计与对启用宏的工作流的兼容性相结合。通过使用 Python API，团队可以在模板创建、文档编排和企业内容自动化过程中自动化 XLSM 到 DOTM 的转换。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用模板**
+  创建可重复使用的文档模板，支持高级自动化行为。
+
+* **可重复的文档生成**
+  帮助从基于电子表格的信息源构建一致的输出。
+
+* **流程控制文档**
+  支持依赖可重复使用模板资产的受监管或结构化工作流。
+
+* **自动化就绪内容模型**
+  使电子表格数据能够输入智能文档创建系统。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **模板自动化工作流**
+  Python API 可以从 XLSM 文件生成 DOTM 模板，用于重复的文档流程。
+
+* **可扩展的文档准备**
+  自动化系统可以大批量创建宏启用模板，保持结构一致。
+
+* **企业内容管道**
+  DOTM 输出可以集成到需要可重复使用、逻辑就绪模板的文档生成系统中。
+
+* **工作流驱动的标准化**
+  转换确保源自电子表格的内容成为受控基于模板的自动化的一部分。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

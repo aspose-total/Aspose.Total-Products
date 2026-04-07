@@ -46,9 +46,43 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование VCF в JPEG конвертирует данные контактных карточек в сжатый графический вывод, который удобен для обмена, предварительного просмотра и легковесного хранения. Это полезно, когда контактную информацию необходимо представить визуально, оставаясь при этом эффективной для веб‑доставки или общего распространения.
+
+С помощью автоматизации Python API преобразование VCF в JPEG поддерживает массовый рендеринг записей контактов в стандартизированные графические ресурсы, которые плавно интегрируются в масштабируемые рабочие процессы контента и документов.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Сжатые изображения контактов**  
+  Преобразуйте записи VCF в файлы JPEG для эффективного визуального обмена.
+
+* **Веб‑дружественные превью**  
+  Используйте вывод JPEG для легковесного отображения в онлайн‑ или внутренних интерфейсах.
+
+* **Эффективное архивирование**  
+  Сохраняйте визуальные записи контактов в широко поддерживаемом сжатом формате.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Пакетный рендеринг JPEG**  
+  Автоматически преобразуйте несколько файлов VCF в превью JPEG.
+
+* **Рабочие процессы доставки контента**  
+  Вставляйте изображения контактов в автоматизированные порталы, электронные письма или системы отчетности.
+
+* **Масштабируемый визуальный экспорт**  
+  Используйте Python API для создания эффективных изображений для больших наборов контактов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

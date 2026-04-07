@@ -66,7 +66,46 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 CSV 转换为 MOBI 可将结构化表格数据转换为适合便携阅读和电子出版工作流的数字电子书文件。
+此转换通过将原始数据转换为可发布、可重用且可在数字内容系统中扩展的分发就绪内容，支持自动化。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **电子书内容发布**  
+  将 CSV 数据转换为 MOBI 文件，以实现便携阅读、结构化参考内容和数字分发。
+
+* **数据驱动的数字出版**  
+  将表格数据集转换为可阅读的电子书式输出，用于指南、目录或结构化信息产品。
+
+* **便携内容交付**  
+  在内容必须以紧凑且友好的阅读格式进行打包时生成 MOBI 文件。
+
+* **可扩展的信息打包**  
+  使用 CSV 源构建来自重复或结构化数据集的一致数字出版物。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化电子书生成**  
+  使用 Python API 将 CSV 输入转换为 MOBI 文件，以实现可重复的出版工作流。
+
+* **出版流水线集成**  
+  将 CSV 转换为 MOBI 嵌入自动为数字阅读器打包结构化内容的系统中。
+
+* **批量数字导出**  
+  将大量 CSV 数据处理为 MOBI 输出，用于目录出版或内容分发。
+
+* **动态出版组装**  
+  从不断变化的 CSV 数据集以编程方式构建 MOBI 文件，以支持可扩展的内容创建。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

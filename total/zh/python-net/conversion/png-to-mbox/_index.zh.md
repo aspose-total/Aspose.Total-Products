@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PNG 到 MBOX 的转换使基于图像的内容能够被合并到邮箱归档文件中，从而更容易将可视化通信记录整合到一种广泛用于电子邮件存储和迁移的格式中。这对于需要在批量电子邮件归档中保存或转移图像衍生消息的组织非常有用。
+
+通过使用 Python API，团队可以自动化从 PNG 输入生成 MBOX，提升一致性，支持大批量处理，并简化与归档、迁移和数据保留工作流的集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **邮箱归档创建**  
+  将基于 PNG 的通信内容转换为 MBOX 归档，以实现长期存储。
+
+* **批量邮件数据打包**  
+  帮助将图像衍生的消息归入单个邮箱文件，以实现可移植性和审查。
+
+* **迁移工作流支持**  
+  支持需要从可视内容生成归档邮箱输出的电子邮件迁移项目。
+
+* **集中式消息保存**  
+  使可视化通信记录能够保存在统一的邮箱容器中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量归档生成**  
+  Python API 可以自动化从大量 PNG 内容创建 MBOX 文件。
+
+* **保留策略工作流**  
+  系统可以将基于图像的记录转换为邮箱归档，以实现结构化的保留和合规流程。
+
+* **邮箱导入准备**  
+  自动化流水线可以为下游电子邮件系统的导入准备 MBOX 输出。
+
+* **内容整合流程**  
+  组织可以通过编程工作流动态地将 PNG 衍生的消息合并为统一的 MBOX 归档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

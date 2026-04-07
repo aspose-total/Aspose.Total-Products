@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF 到 ODT 的转换将联系人卡信息转换为支持可编辑、基于标准的文档的开放文本文档。这对于寻求在开放且可互操作的文档环境中灵活管理联系人记录的团队非常有用。
+
+使用 Python API，VCF 到 ODT 的转换可以通过生成支持编辑、分发和在兼容办公系统中归档的结构化联系人文件，简化自动化文档创建流程。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **开放文档编辑**  
+  将 VCF 数据转换为 ODT 文件，以实现可编辑和基于标准的使用。
+
+* **可互操作的联系人记录**  
+  以适合开放文档工作流的格式存储联系人信息。
+
+* **结构化信息共享**  
+  在兼容的办公环境中提供可读的联系人文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量 ODT 转换**  
+  自动从大型 VCF 集合创建 ODT 文档。
+
+* **开放工作流集成**  
+  将生成的联系人文件路由到基于开放标准的自动化系统中。
+
+* **高效文档处理**  
+  使用 Python API 大规模生成可重用的 ODT 联系人输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

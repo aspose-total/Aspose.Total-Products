@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX to FODS conversion преобразует содержимое шаблона Word в плоский формат таблицы OpenDocument, предназначенный для открытого, структурированного обмена данными. Это полезно для рабочих процессов, которые отдают приоритет открытым стандартам и читаемому XML‑основанному хранению таблиц.
+
+С помощью Python‑API эта конвертация поддерживает автоматизацию, создавая совместимые табличные документы, которые могут быть сгенерированы, проверены и интегрированы в масштабируемые системы обработки данных.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Экспорт открытой таблицы**
+  Преобразовать содержимое документа в открытый табличный формат для более широкой совместимости.
+
+* **Структурированные XML‑рабочие процессы**
+  Сохранить табличную информацию в формате, подходящем для прозрачной обработки данных.
+
+* **Обмен на основе стандартов**
+  Обеспечить перемещение содержимого шаблона между системами, поддерживающими открытые форматы документов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Автоматизированная отчетность в открытом формате**
+  Генерировать файлы FODS из шаблонов DOTX в регулярных задачах отчетности.
+
+* **Взаимодействующие конвейеры данных**
+  Передавать выводы открытых таблиц в системы, полагающиеся на обмен на основе стандартов.
+
+* **Нормализация шаблонов в масштабе**
+  Преобразовывать повторяющиеся структуры документов в открытые табличные ресурсы программно.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

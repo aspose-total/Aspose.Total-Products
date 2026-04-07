@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOCM إلى MBOX يحول المستندات التي تدعم الماكرو إلى مخرجات تخزين على نمط صندوق البريد، مما يجعل من السهل تجميع، أرشفة أو نقل الاتصالات القائمة على المستندات في الأنظمة الموجهة للبريد. هذا يكون ذا قيمة عندما يجب الحفاظ على محتوى المستند داخل مستودعات الرسائل المجمعة.
+
+للتنفيذ الآلي وعلى نطاق واسع، تدعم سير عمل تحويل DOCM إلى MBOX الأرشفة الدفعية، وتعبئة الاتصالات، ونقل المحتوى المستمد من المستندات إلى أنظمة الاحتفاظ التي تركز على صناديق البريد.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **أرشفة صندوق البريد**
+  يحافظ على المحتوى المستمد من المستند داخل ملفات حاوية صندوق البريد للتخزين طويل الأجل.
+
+* **تعبئة مجموعة الرسائل**
+  يدعم تجميع الاتصالات المحولة ذات الصلة في ملف موحد.
+
+* **دعم الترحيل**
+  يساعد على نقل محتوى الاتصالات القائمة على المستندات إلى بيئات أرشفة البريد الإلكتروني.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء الأرشيف الآلي**
+  يحول ملفات DOCM إلى مخرجات MBOX لتدفقات عمل الاحتفاظ المجدولة.
+
+* **إعداد مستودع البريد الضخم**
+  يعبئ المحتوى المستمد من المستندات في ملفات صناديق البريد عبر مجموعات بيانات كبيرة.
+
+* **خطوط أنابيب التخزين البرمجية**
+  يُدمج تحويل المستندات مع أنظمة الأرشفة والامتثال.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -66,7 +66,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX to TSV 转换将文字处理文档转换为制表符分隔值（TSV）格式，使结构化信息能够提取到轻量级的基于文本的数据文件中。此格式对于将基于文档的表格和有组织的内容迁移到分析或交换工作流中非常有用。
+
+Python API 允许在数据准备系统、内容提取流水线和企业集成工作流中自动化 DOCX 到 TSV 的转换。它支持将文档内容可扩展地转换为机器可读的表格输出。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **表格数据提取**  
+  将 DOCX 表格和结构化信息转换为基于文本的表格文件。
+
+* **系统间数据交换**  
+  实现结构化内容在平台之间的轻量级传输。
+
+* **分析与处理准备**  
+  帮助为下游分析工具准备来源于文档的数据。
+
+* **文档到文本工作流集成**  
+  支持将有组织的内容导出为可移植的表格格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化数据导出流水线**  
+  系统可以将 DOCX 文件转换为 TSV 输出，以用于处理工作流。
+
+* **批量结构化内容提取**  
+  Python 脚本可以以编程方式将多个文档转换为制表符分隔的数据集。
+
+* **企业集成自动化**  
+  文档内容可以导出为 TSV 格式，以供报告或数据库系统摄取。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

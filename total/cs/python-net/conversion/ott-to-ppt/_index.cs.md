@@ -64,7 +64,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT na PPT konverze v Python API transformuje šablony textových dokumentů OpenDocument do prezentačních souborů pro sdílení a komunikaci založenou na slidech. Je to užitečné, když je třeba těžký textový obsah přebalit do prezentačního formátu pro širší přístupnost a vizuální vyprávění.
+
+Konverze podporuje automatizaci tím, že umožňuje opakované vytváření prezentačních materiálů ze standardizovaných šablon dokumentů, čímž zvyšuje efektivitu v reportování, vzdělávání a pracovních postupech organizační komunikace.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření slide decku**  
+  Převádí zdrojové dokumenty do prezentačních souborů ke sdílení.
+
+* **Převod obsahu**  
+  Znovu využívá narativní nebo strukturovaný text ve vizuálních komunikačních formátech.
+
+* **Připravenost na schůzku**  
+  Pomáhá rychle převést obsah dokumentu na prezentační materiály.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované vytváření prezentací**  
+  Generuje výstupy PPT z opakujících se OTT‑založených pracovních postupů.
+
+* **Hromadná konverze reportů**  
+  Převádí sady dokumentů do formátu decku pro pravidelné aktualizace.
+
+* **Programové doručování obsahu**  
+  Podporuje škálovatelné generování prezentací ze šablon.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

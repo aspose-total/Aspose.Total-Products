@@ -65,7 +65,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT 到 PPS 的转换将文档模板转换为专为直接显示而设计的演示幻灯片文件。当内容应立即以演示模式打开而不是在编辑环境中打开时，这非常有用。
+
+Python API 允许团队自动化 DOT 到 PPS 的转换，以用于培训课程、 kiosk 风格的交付以及受控的演示分发工作流。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **直接幻灯片交付**
+  将 DOT 模板转换为 PPS 文件，以实现即时的演示播放。
+
+* **受控观看体验**
+  以针对显示而非编辑进行优化的格式共享内容。
+
+* **活动和培训支持**
+  从可重复使用的书面模板准备好演示就绪的幻灯片输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化幻灯片生成**
+  Python 工作流可以从 DOT 文档生成 PPS 文件，以供计划使用。
+
+* **面向显示的内容管道**
+  转换有助于将模板内容直接路由到演示模式输出。
+
+* **批量演示部署**
+  编程流程支持从大量模板可扩展地生成幻灯片文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

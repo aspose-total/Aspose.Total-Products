@@ -66,7 +66,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPSM 转换为 DOCX 在 Python 中允许将启用宏的幻灯片内容转换为一种现代、广泛支持的文档格式，适用于编辑、共享和发布。当演示材料必须转换为可读且易于维护的文本文件以供更广泛使用时，这一点尤为重要。
+
+对于自动化驱动的工作流，PPSM 转换为 DOCX 可提升互操作性，支持可扩展的内容复用，并使演示资产能够以一致的结构和最少的人工工作流入以文档为中心的系统。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **可编辑文档创建**  
+  将幻灯片内容转换为现代的文字处理格式，以便进行修订和协作。
+
+* **知识复用**  
+  帮助将演示重新用于指南、摘要或内部文档。
+
+* **跨系统兼容性**  
+  生成的输出能够很好地与文档平台和内容工作流集成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量演示转换**  
+  Python 自动化可以在单一工作流中将多个 PPSM 文件转换为 DOCX 文档。
+
+* **文档发布流水线**  
+  DOCX 输出可以自动进入审批、审查或导出流程。
+
+* **内容整合工作流**  
+  编程式转换支持将来源于演示的材料合并到更广泛的文档系统中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

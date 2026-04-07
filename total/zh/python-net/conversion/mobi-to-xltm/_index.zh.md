@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+在 Python 中将 MOBI 转换为 XLTM 可将电子书内容准备为宏启用的电子表格模板，以实现高级且可重复的工作簿生成。这在同时需要模板一致性和电子表格自动化逻辑的环境中非常有用。
+
+为了实现自动化相关性，MOBI 转 XLTM 转换将结构化提取与可重用的工作簿模板以及宏驱动的行为相结合。它支持企业内容工作流中的可扩展文档生成、一致的格式以及自动化电子表格操作。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **宏启用模板创建**
+  将 MOBI 内容转换为 XLTM，以实现支持自动化的可重复电子表格生成。
+
+* **一致的高级工作簿**
+  生成基于模板的输出，保留结构和自动化电子表格功能。
+
+* **可重用的运营模型**
+  支持依赖受控电子表格模板且内置逻辑的业务工作流。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板工作流**
+  通过 Python 脚本生成 XLTM 文件，以实现重复的文档和报告操作。
+
+* **可重用的电子表格逻辑管道**
+  将提取的内容与支持宏的模板配对，以支持可重复的高级工作流。
+
+* **标准化的自动化交付**
+  创建统一的电子表格模板，可在团队或系统之间以编程方式实例化。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

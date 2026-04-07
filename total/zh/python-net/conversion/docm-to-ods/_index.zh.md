@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM 转 ODS 转换将启用宏的文档转换为开放的电子表格文件，使文档中的结构化数据更容易在基于电子表格的工作流中进行分析、编辑和共享。当 DOCM 文件中的表格或重复记录需要更广泛的业务使用时，这一点尤为有价值。
+
+为了实现自动化和互操作性，DOCM 转 ODS 转换支持开放的数据管道、例行导出以及将文档内容大规模转换为可用于电子表格的资产。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **开放电子表格分析**
+  将文档表格移动到电子表格形式，以便过滤、审阅和更新。
+
+* **数据可移植性**
+  使用开放的电子表格标准支持结构化内容的交换。
+
+* **运营再利用**
+  使文档中包含的数据更易于用于规划和报告任务。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **定期电子表格导出**
+  自动将 DOCM 文件转换为 ODS，以配合计划的工作流。
+
+* **开放格式数据管道**
+  帮助将文档数据路由到基于开放标准构建的系统中。
+
+* **大批量转换**
+  以编程方式将大量文档集处理为可重复使用的电子表格文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

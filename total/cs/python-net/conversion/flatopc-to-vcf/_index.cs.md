@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu F
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FlatOPC na VCF převod pomocí Python API umožňuje transformovat strukturovaný obsah dokumentů do digitálních souborů vizitek, které podporují sdílení kontaktů, import a synchronizaci. Je to zvláště užitečné, když zdrojové dokumenty obsahují údaje o osobách nebo organizacích, které je třeba znovu použít v systémech správy kontaktů a komunikace.
+
+Tento převod je vysoce relevantní pro automatizaci, protože umožňuje systémům programově extrahovat a standardizovat kontaktní data, zlepšovat konzistenci dat, snižovat ruční zadávání a podporovat škálovatelné pracovní postupy CRM a adresářů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování vizitky**  
+  Převést obsah FlatOPC do VCF souborů pro přenositelné a standardizované sdílení kontaktů.
+
+* **Extrahování dat z adresáře**  
+  Použít převod k transformaci kontaktních údajů založených na dokumentech do znovupoužitelných digitálních záznamů.
+
+* **Pracovní postupy importu kontaktů**  
+  Připravit výstup VCF pro snadný import do adresářů, adresářových systémů a komunikačních platforem.
+
+* **Strukturovaná správa identity**  
+  Zachovat informace o osobách a organizacích ze zdrojových dokumentů ve formátu určeném pro správu kontaktů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované vytváření kontaktů**  
+  Automatizace vylepšuje tento scénář tím, že extrahuje kontaktní údaje ze dokumentů FlatOPC a generuje VCF soubory.
+
+* **Synchronizace CRM a adresářů**  
+  Téma zlepšuje automatizované pracovní postupy tím, že poskytuje standardizované vizitky do systémů zákaznických nebo zaměstnaneckých dat.
+
+* **Hromadný export kontaktů**  
+  Programové procesy mohou generovat mnoho VCF souborů z úložišť dokumentů s minimálním ručním úsilím.
+
+* **Dynamické onboardingové pipeline**  
+  Automatizované systémy mohou vytvářet a distribuovat soubory kontaktů jako součást onboardingových, eventových nebo klientských nastavení.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

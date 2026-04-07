@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT 转 CSV 转换将结构化的文字处理模板转换为可用于报告、数据交换和轻量分析的纯表格数据。当必须将基于文档的内容提取为一种简单、广泛支持的格式以用于运营工作流时，这非常有价值。
+
+使用 Python API，此转换支持将信息从可重用的文档模板移动到结构化数据集的自动化流水线，提高处理速度、一致性和下游系统兼容性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **模板数据提取**
+  将 DOT 文件转换为 CSV，以捕获结构化文本和字段，用于报告或归档。
+
+* **系统互操作性**
+  将文档内容导出为可被数据库、脚本和业务工具使用的格式。
+
+* **批量文档处理**
+  将大量模板处理为表格输出，以实现简化的处理和审查。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **文档到数据流水线**
+  自动化将模板文档转换为 CSV 文件，以供分析或 ETL 工作流摄取。
+
+* **计划内容导出**
+  基于 Python 的作业可以重复将 DOT 文件转换为 CSV，以实现定期的运营报告。
+
+* **可扩展的数据准备**
+  编程转换帮助在大型文档库中标准化输出生成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
@@ -115,7 +149,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
       </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod OTT na MBOX v Python API transformuje šablony textu OpenDocument do formátu poštovního archivu pro ukládání kolekcí zpráv ve stylu e‑mailu. To je užitečné, když je potřeba generovanou komunikaci seskupit, přenést nebo uchovat ve struktuře kompatibilní s poštovním archívem.
+
+Převod podporuje automatizaci tím, že umožňuje generování zpráv založených na dokumentech proudit přímo do archivních a migračních pipeline, které se spoléhají na úložiště ve stylu poštovního archivu pro škálovatelnost a organizaci.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Příprava poštovního archivu**  
+  Vytváří obsah zpráv vhodný pro seskupené e‑mailové úložiště.
+
+* **Záznam komunikace**  
+  Uchovává generovaný obsah v přenosném poštovním formátu.
+
+* **Hromadné balení zpráv**  
+  Pomáhá organizovat více generovaných zpráv pro přenos nebo ingest.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná generace poštovního archivu**  
+  Převádí komunikaci řízenou šablonami do kontejnerů MBOX.
+
+* **Podpora migračních pracovních toků**  
+  Připravuje zprávy odvozené z dokumentů pro procesy importu poštovního archivu.
+
+* **Dávkové retenční pipeline**  
+  Ukládá opakovaně generované zprávy pro účely shody nebo auditu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

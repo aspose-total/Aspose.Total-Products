@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX 转 CSV 转换将结构化的 Word 模板内容转换为逗号分隔值，以便更轻松地进行数据交换、报告和系统互操作。当需要在表格工作流中重用基于文档的信息或将其导入分析和业务系统时，这非常有用。
+
+此转换通过将可重用的模板内容转化为机器可读的数据集来支持自动化，这些数据集可以在流水线中处理、与数据库同步，并使用 Python API 在文档密集的业务中实现规模化。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **结构化数据提取**
+  将基于模板的文档内容转换为行和列，以供后续处理。
+
+* **报告工作流**
+  为仪表板、审计和基于电子表格的分析准备文档数据。
+
+* **系统互操作性**
+  更轻松地将文档内容导入数据平台和业务应用程序。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量文档处理**
+  自动将多个 DOTX 文件转换为 CSV，以进行大规模数据处理。
+
+* **模板到数据库的流水线**
+  将 CSV 输出用作自动导入数据库的中间格式。
+
+* **运营数据标准化**
+  将重复的文档输出标准化为适合计划自动化的格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT to OFT conversion transformuje obsah dokumentu do formátu e‑mailové šablony, který lze znovu použít v opakujících se komunikačních pracovních postupech. To je užitečné, když je potřeba, aby standardizovaný obsah dokumentu se stal opakovatelnými šablonami zpráv pro oznámení, oslovování nebo operativní komunikaci.
+
+Python API umožňují převod ODT na OFT v automatizovaných systémech, kde jsou důležité konzistence, rychlost a opakované využití šablon. Pomáhají převádět statický obsah na opakovatelná komunikační aktiva pro škálovatelné pracovní postupy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření znovupoužitelných e‑mailových šablon**  
+  Převádí obsah dokumentu do formátu vhodného pro opakované zasílání zpráv.
+
+* **Standardizovaná komunikace**  
+  Pomáhá zajistit jednotné znění napříč opakovanými oslovováními nebo oznámeními.
+
+* **Správa šablon pracovních postupů**  
+  Podporuje procesy operativní komunikace, které se opírají o předdefinované struktury.
+
+* **Opětovné využití obsahu pro komunikaci**  
+  Znovu využívá text formálního dokumentu jako komunikační šablony.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Potrubí generování šablon**  
+  Pythonová automatizace může převést schválené ODT soubory do OFT šablon pro opakované použití.
+
+* **Podpora pracovního postupu oznámení**  
+  Systémy mohou automaticky vytvářet standardizované šablony ze zdrojových dokumentů.
+
+* **Hromadná příprava šablon**  
+  Více variant dokumentů může být převedeno na znovupoužitelné komunikační prostředky.
+
+* **Dynamické sestavování zpráv**  
+  Šablony odvozené od ODT obsahu mohou podporovat komunikační pracovní postupy řízené parametry.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

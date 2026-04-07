@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLAM 到 ODT 的转换使用 Python API，使 Excel 加载项内容转换为开放文档文本格式，以实现更广泛的互操作性和长期可访问性。当组织需要符合开放标准且支持跨平台文档工作流的可编辑文本文件时，这非常有帮助。
+
+对于自动化和集成使用场景，XLAM 到 ODT 的转换降低了基于电子表格的系统与开放文档生态系统之间的摩擦。它支持可扩展的文档生成，简化数据到文档的转换，并提升在多样化软件环境中的兼容性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **开放标准文档创建**  
+  将 XLAM 内容转换为 ODT 文件，以实现可互操作且可编辑的基于文本的工作流。
+
+* **跨平台协作**  
+  支持使用不同办公环境并需要开放文档兼容性的团队。
+
+* **适合归档的文档**  
+  帮助创建符合开放和可移植标准的可访问文档输出。
+
+* **结构化内容共享**  
+  使源自电子表格的内容更容易在灵活的文档生态系统中分发。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **开放文档发布流水线**  
+  Python API 可以自动从 XLAM 输入生成 ODT 文件，以实现标准化分发。
+
+* **跨系统工作流自动化**  
+  转换后的 ODT 文档可以在各种工具和平台之间流转，兼容性问题最小。
+
+* **可扩展的文档服务**  
+  自动化系统可以将大量基于电子表格的内容处理为开放文本文档。
+
+* **数据到文档的转换**  
+  编程工作流可以将结构化的加载项内容转换为可移植的 ODT 输出，用于报告或记录。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

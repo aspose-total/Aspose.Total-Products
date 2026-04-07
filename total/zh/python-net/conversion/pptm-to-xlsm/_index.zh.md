@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTM 到 XLSM 的转换使用 Python API，将支持宏的演示文稿转换为支持宏的电子表格文件，以便在结合结构化数据和电子表格自动化逻辑的工作流中使用。当转换后的内容必须支持计算、脚本操作或高级基于电子表格的功能时，这非常有价值。
+
+此转换与自动化目标高度契合，因为它使得来源于演示文稿的数据能够参与包含宏、业务规则和可重复处理步骤的电子表格工作流。它有助于将演示文稿内容的价值扩展到静态报告之外。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用的电子表格创建**
+  将演示文稿数据转换为支持自动化工作簿行为的电子表格。
+
+* **高级数据处理支持**
+  使结构化的幻灯片内容能够在基于逻辑的电子表格工作流中重复使用。
+
+* **面向自动化的报告**
+  帮助将演示文稿信息与可重复的电子表格任务和例程集成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **电子表格自动化流水线**
+  从 PPTM 源生成 XLSM 输出，以进行宏驱动的处理。
+
+* **业务逻辑集成**
+  支持在转换数据触发自动化电子表格操作的工作流。
+
+* **编程化报告系统**
+  使演示文稿内容能够流入动态、基于规则的工作簿环境。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

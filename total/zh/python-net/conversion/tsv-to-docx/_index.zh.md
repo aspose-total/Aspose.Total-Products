@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV 到 DOCX 的转换将表格文本数据转换为现代可编辑的文字处理文档，这些文档被广泛用于报告、协作和正式内容交付。它帮助弥合原始结构化数据与专业环境中所需的精致文档之间的差距。
+
+使用 Python API，TSV 到 DOCX 的转换支持快速、可重复的自动化，提升一致性，减少手动格式化工作，并在数据驱动的工作流中实现可扩展的文档生成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **专业报告创建**  
+  将 TSV 记录转换为干净的 DOCX 文件，用于分析、摘要或正式报告。
+
+* **协作编辑**  
+  使结构化数据在文档工作流中更易于共享和编辑。
+
+* **以文档为中心的分发**  
+  帮助以更易访问且符合业务需求的格式呈现表格内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化报告流水线**  
+  Python API 可以根据需求或计划从 TSV 导出生成 DOCX 报告。
+
+* **数据到文档工作流**  
+  自动化系统可以将结构化输入转换为可审阅的文档。
+
+* **可扩展的批量转换**  
+  可以高效地将大量 TSV 文件批量处理为 DOCX 输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

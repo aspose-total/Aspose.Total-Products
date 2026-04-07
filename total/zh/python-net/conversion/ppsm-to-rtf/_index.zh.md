@@ -66,7 +66,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPSM 转 RTF 转换在 Python 中支持将启用宏的演示文稿内容转换为富文本文档格式，兼顾可移植性和基本格式保留。当需要在要求广泛兼容性的环境中共享、归档或编辑幻灯片内容时，这非常有用。
+
+在自动化系统中，PPSM 转 RTF 转换实现了轻量级文档生成、统一的文本提取以及可扩展的跨平台处理，在这些场景中富文本输出优于演示文稿原生格式。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **富文本内容导出**  
+  将幻灯片内容转换为可编辑的格式，并保留关键的文本样式。
+
+* **跨平台文档共享**  
+  支持以广泛兼容的格式进行分发，适用于各种系统。
+
+* **轻量级内容归档**  
+  帮助在更简洁的文档结构中保留来源于演示文稿的文本。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自动化富文本生成**  
+  Python API 可以从 PPSM 文件生成 RTF 输出，以实现标准化的内容交付。
+
+* **以文本为中心的工作流集成**  
+  转换有助于将来源于演示文稿的内容插入文档审阅和编辑流程中。
+
+* **批量格式适配**  
+  通过编程处理实现大批量转换为轻量级富文本输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

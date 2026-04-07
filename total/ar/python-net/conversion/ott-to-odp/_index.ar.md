@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل OTT إلى ODP في واجهات برمجة تطبيقات بايثون يحول قوالب النصوص OpenDocument إلى مستندات عرض تقديمي، مما يسمح بإعادة استخدام المحتوى المكتوب للتواصل القائم على الشرائح والتسليم البصري المنظم. هذا مفيد لتحويل السرد أو محتوى التقارير إلى مادة جاهزة للعرض.
+
+يدعم التحويل الأتمتة من خلال تمكين إنشاء عروض تقديمية متكررة من القوالب، مما يقلل من إعداد الشرائح يدويًا ويحسن الاتساق عبر عمليات إعداد التقارير والتواصل.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء العروض التقديمية**  
+  يحوّل القوالب المدفوعة بالنص إلى مستندات شرائح قابلة للتحرير.
+
+* **إعادة استخدام المحتوى**  
+  يعيد استخدام مادة المستند للاجتماعات أو الإحاطات أو الملخصات.
+
+* **إخراج شرائح بصيغة مفتوحة**  
+  يدعم سير عمل العروض التقديمية القائم على معايير المستند المفتوح.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء مجموعة شرائح تلقائيًا**  
+  ينتج عروض ODP من محتوى OTT المتكرر.
+
+* **دمج سير عمل التقارير**  
+  يحوّل النص المنظم إلى شرائح للتحديثات المجدولة.
+
+* **تسليم العروض التقديمية القائم على القوالب**  
+  يوحد إنشاء العروض التقديمية عبر الفرق أو العمليات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,44 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX 到 OST 的转换将文档内容转换为与同步消息环境关联的离线邮箱数据格式。此过程可以支持需要将文档衍生信息合并到离线访问通信存档的场景。
+
+使用 Python API，DOCX 到 OST 的转换可以纳入企业归档系统、迁移工作流和消息自动化平台。它实现了将文档内容以编程方式转换为面向邮箱的存储结构。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **离线邮件数据准备**  
+  将基于文档的内容转换为与邮箱兼容的离线存储结构。
+
+* **通信归档集成**  
+  使文档能够被纳入消息归档工作流。
+
+* **企业数据迁移支持**  
+  帮助将内容转换为依赖邮箱数据格式的系统。
+
+* **基于文档的邮件存储**  
+  支持以符合离线邮件访问的格式存储文档信息。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化邮件归档生成**  
+  系统可以将 DOCX 文档转换为面向 OST 的数据输出，以用于离线访问场景。
+
+* **批量消息迁移流水线**  
+  Python 自动化可以处理多个文档，以集成到邮箱存储工作流中。
+
+* **企业保留工作流**  
+  文档内容可以转换为离线消息数据，以用于合规导向的系统。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

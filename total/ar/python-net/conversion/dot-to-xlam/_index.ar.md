@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOT إلى XLAM يحول قوالب المستندات إلى ملفات جداول بيانات موجهة للإضافات تُستخدم لتوسيع سير عمل جداول البيانات. هذا ذو صلة عندما يساهم المحتوى القائم على القوالب في وظائف جداول بيانات قابلة لإعادة الاستخدام أو منطق مُعبأ في البيئات المدعومة.
+
+مع واجهات برمجة تطبيقات بايثون، يمكن دمج تحويل DOT إلى XLAM في الأنظمة الآلية التي توحّد إنشاء أصول جداول البيانات المتقدمة من مصادر مستندات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تحضير أصول الإضافة لجداول البيانات**
+  تحويل محتوى DOT إلى مخرجات موجهة إلى XLAM لتوسعات جداول البيانات القابلة لإعادة الاستخدام.
+
+* **حزم سير العمل القابلة لإعادة الاستخدام**
+  دعم السيناريوهات التي تغذي فيها الهياكل المعرفة بالمستند حلول جداول البيانات المتقدمة.
+
+* **أصول وظيفية مدفوعة بالقوالب**
+  إعادة توجيه محتوى المستند إلى موارد جداول بيانات مُعبأة للاستخدام المتكرر.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تحضير الإضافة الآلي**
+  يمكن لتدفقات عمل بايثون تحويل قوالب DOT إلى مخرجات متوافقة مع XLAM حيثما يلزم.
+
+* **دعم خط أنابيب جداول البيانات المتقدمة**
+  يساعد التحويل مستودعات المستندات على المساهمة في أصول جداول البيانات القابلة لإعادة الاستخدام.
+
+* **توليد مخرجات وظيفية قابلة للتوسع**
+  تُبسط الأنظمة البرمجية إنشاء ملفات حزم جداول البيانات المتقدمة ذات الحجم الكبير.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

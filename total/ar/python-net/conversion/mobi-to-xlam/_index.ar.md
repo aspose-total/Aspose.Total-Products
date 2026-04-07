@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل MOBI إلى XLAM باستخدام بايثون يتيح إعداد المحتوى المستخرج من الكتب الإلكترونية لبيئات الجداول الحسابية التي تعتمد على وظائف الإضافات. يمكن أن يكون ذلك مفيدًا في سير عمل متخصص حيث يلزم تسليم البيانات المستخرجة جنبًا إلى جنب مع أتمتة الجداول المتقدمة أو منطق الأعمال القابل لإعادة الاستخدام.
+
+من أجل صلة الأتمتة، يدعم تحويل MOBI إلى XLAM توصيل المحتوى المنظم إلى أنظمة الإضافات المدعومة بالماكرو، مما يسمح بتعبئة وإعادة استخدام مهام الجداول المتكررة. يربط هذا بين استخراج المحتوى واستراتيجيات أتمتة الجداول القابلة للتوسيع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تكامل إضافة الجداول**
+  إعداد محتوى MOBI المستخرج لسير العمل الذي يستخدم امتدادات الجداول القائمة على الإضافات.
+
+* **تسليم الأتمتة القابلة لإعادة الاستخدام**
+  دعم البيئات التي تتفاعل فيها البيانات المعالجة مع منطق أتمتة الجداول المحدد مسبقًا.
+
+* **دفاتر عمل تشغيلية متقدمة**
+  تمكين مخرجات منظمة للفرق التي تستخدم أدوات جداول متخصصة وطبقات أتمتة مخصصة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **سلاسل معالجة مدفوعة بالماكرو**
+  تحويل محتوى MOBI للاستخدام في أنظمة الجداول التي تقوم بأتمتة المهام عبر مكونات الإضافة.
+
+* **حزم أتمتة البيانات القابلة لإعادة الاستخدام**
+  دعم سير العمل المتكرر حيث يجب استهلاك المحتوى المستخرج بواسطة امتدادات الجداول المعيارية.
+
+* **تكامل الجداول المؤسسية**
+  استخدام خطوات التحويل القائمة على بايثون لربط استخراج المستندات بعمليات أتمتة المكتب المتقدمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

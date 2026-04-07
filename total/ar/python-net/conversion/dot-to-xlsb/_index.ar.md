@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOT إلى XLSB يحول قوالب المستندات إلى دفاتر عمل جدول بيانات ثنائية تكون فعّالة في التخزين والأداء في العمليات التي تعتمد بشكل كبير على الجداول. هذا مفيد عندما يجب أن يبقى إنشاء دفاتر العمل الكبيرة أو المتكررة مدمجًا وعمليًا.
+
+تدعم واجهات برمجة تطبيقات بايثون إنشاء ملفات XLSB تلقائيًا من مصادر DOT، مما يتيح خطوط أنابيب قابلة للتوسع من المستند إلى جدول البيانات مع معالجة مخرجات فعّالة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تصدير دفتر عمل مدمج**
+  تحويل ملفات DOT إلى XLSB لتخزين الجداول وتوزيعها بكفاءة.
+
+* **معالجة البيانات الموجهة للأداء**
+  استخدام دفاتر عمل ثنائية عندما يكون إنشاء الجداول المتكرر أو واسع النطاق مطلوبًا.
+
+* **هيكلة محتوى القالب**
+  إعادة توجيه محتوى المستند إلى مخرجات دفتر عمل محسّنة للاستخدام التشغيلي.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنتاج دفتر عمل ثنائي تلقائي**
+  يمكن لتدفقات عمل بايثون إنشاء ملفات XLSB من قوالب DOT في وظائف متكررة.
+
+* **خطوط أنابيب جداول البيانات عالية الحجم**
+  يدعم التحويل إنشاء مخرجات فعّالة لمستودعات المستندات الكبيرة.
+
+* **أتمتة تصدير البيانات القابلة للتوسع**
+  تساعد الأنظمة البرمجية في توحيد تسليم جداول البيانات المدمجة من القوالب.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

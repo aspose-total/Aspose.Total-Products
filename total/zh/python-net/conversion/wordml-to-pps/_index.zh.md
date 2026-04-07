@@ -65,7 +65,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML 到 PPS 的转换将文档内容转换为用于直接观看的演示幻灯片文件。当需要将基于文档的材料以可直接运行的演示形式而非可编辑的幻灯片包交付时，这非常有用。
+
+Python API 有助于通过生成面向幻灯片的输出，自动化 WordML 到 PPS 的转换，从而支持高效的分发和受控的演示工作流。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **幻灯片交付**
+  将 WordML 内容转换为 PPS 文件，以实现即时的演示播放。
+
+* **不可编辑的分发**
+  支持演示内容应以放映模式打开的场景。
+
+* **基于文档的简报输出**
+  将书面材料重新用于可直接呈现的幻灯片。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自动化幻灯片发布**
+  从定期的文档更新和简报生成 PPS 文件。
+
+* **演示分发流水线**
+  向利益相关者交付可直接观看的幻灯片，无需手动准备。
+
+* **运营简报自动化**
+  将结构化文档转换为用于计划沟通的幻灯片资产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

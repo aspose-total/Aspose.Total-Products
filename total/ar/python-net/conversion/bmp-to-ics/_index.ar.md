@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل BMP إلى ICS يتيح دمج صور البت ماب في ملفات أحداث التقويم باستخدام تنسيق ICS. يتيح هذا النهج تضمين المواد البصرية مثل الجداول، ولافتات الفعاليات، أو المخططات مع إدخالات التقويم.
+
+في الأنظمة الآلية، يساعد تحويل ملفات BMP إلى أحداث ICS على دمج المعلومات البصرية مع سير عمل الجدولة. يدعم ذلك توزيع الأحداث تلقائيًا، والتذكيرات، والتعاون عبر منصات التقويم.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **توزيع إعلانات الفعاليات**  
+  يمكن لدعوات التقويم أن تشمل صور BMP مثل ملصقات الفعاليات أو المخططات.
+
+* **توثيق الجدولة البصرية**  
+  يمكن للمنظمات إرفاق مراجع بصرية مع الأحداث المجدولة.
+
+* **الاتصال القائم على التقويم**  
+  يمكن للفرق توزيع الرسومات المتعلقة بالفعالية داخل إدخالات التقويم.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء أحداث تقويم آلية**  
+  تقوم الأنظمة بإنشاء ملفات ICS مع صور BMP مدمجة للجدولة الآلية.
+
+* **إشعارات الأحداث القائمة على سير العمل**  
+  تحول خطوط الأنابيب الآلية المواد القائمة على الصور إلى أحداث تقويم.
+
+* **دعوات الاجتماعات البرمجية**  
+  تقوم التطبيقات بإنشاء دعوات ICS بشكل ديناميكي تحتوي على مراجع بصرية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM 到 PST 的转换将启用宏的文档转换为个人存储输出，用于在合并的邮件数据文件中组织基于消息的内容。当需要对文档衍生的通信工件进行结构化存储以进行归档或迁移时，这非常有用。
+
+在自动化系统中，DOCM 到 PST 的转换支持邮箱打包、合规工作流以及将转换后的文档内容大规模移动到有序的通信存储库中。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **合并邮件存储**
+  有助于在结构化的个人存储容器中保留转换后的文档内容。
+
+* **归档准备**
+  支持对文档衍生的通信记录进行长期保留。
+
+* **迁移工作流**
+  使消息导向的输出能够转移到有序的存储集合中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化邮箱打包**
+  将 DOCM 文件转换为 PST 兼容的输出，以用于保留工作流。
+
+* **合规导向处理**
+  支持在受监管环境中使用的文档到邮件存储的管道。
+
+* **大批量转换与存储**
+  以编程方式处理文档的大规模转换，生成结构化的邮件存储库。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

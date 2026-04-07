@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF 到 RTF 的转换将联系人卡片数据转换为富文本文档，保持格式的同时在各种文档工具中保持广泛的可编辑性。这对于需要灵活性、可读性和兼容性的联系人文档工作流非常有用。
+
+通过 Python API 自动化，VCF 到 RTF 的转换帮助组织生成基于联系人的文档，这些文档可以在编辑、审阅和分发流程中轻松流转而不失去结构。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **格式化可编辑输出**  
+  将 VCF 数据转换为 RTF 文件，以实现可读且可编辑的文档使用。
+
+* **跨工具兼容性**  
+  以一种被众多文本编辑器和系统支持的格式共享联系信息。
+
+* **灵活的记录准备**  
+  使用 RTF 文档进行内部沟通和结构化文档编写。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **批量 RTF 生成**  
+  自动从大量 VCF 记录创建富文本文件。
+
+* **文档审阅工作流**  
+  将转换后的 RTF 联系人文档插入编辑和批准流程中。
+
+* **可扩展的格式化自动化**  
+  使用 Python API 高效地提供一致的富文本输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

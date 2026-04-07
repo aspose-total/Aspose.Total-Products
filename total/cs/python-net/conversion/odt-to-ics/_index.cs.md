@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT na ICS převod transformuje obsah dokumentu na data kompatibilní s kalendářem, což je užitečné pro převod rozvrhů, popisů událostí nebo časově orientovaných informací na opakovaně použitelné kalendářové položky. To je cenné, když textové dokumenty obsahují data, schůzky nebo strukturované časové osy.
+
+V automatizovaných prostředích umožňuje převod ODT na ICS plánovací pipeline, publikování událostí a synchronizaci kalendářů. Python API mohou extrahovat relevantní obsah řízený daty a efektivně generovat strojově čitelné kalendářové soubory.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Extrahování rozvrhu**  
+  Převádí datum a podrobnosti událostí z dokumentů do dat připravených pro kalendář.
+
+* **Distribuce schůzek**  
+  Pomáhá sdílet informace o událostech ve formátu vhodném pro kalendářové nástroje.
+
+* **Digitalizace časové osy**  
+  Přetváří psané rozvrhy na použitelné kalendářové artefakty.
+
+* **Podpora plánovacího workflow**  
+  Umožňuje snadnější operativní opětovné využití obsahu plánování založeného na dokumentech.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované generování událostí**  
+  Python skripty mohou detekovat podrobnosti událostí v ODT souborech a vytvářet výstupy ve formátu ICS.
+
+* **Publikační pipeline kalendářů**  
+  Aktualizace dokumentů mohou spustit automatickou regeneraci sdílených souborů rozvrhů.
+
+* **Hromadná konverze rozvrhů**  
+  Více plánovacích dokumentů může být hromadně převedeno na kalendářová aktiva.
+
+* **Vytváření připomínek workflow**  
+  Programová extrakce může automaticky napájet připomínky a plánovací systémy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

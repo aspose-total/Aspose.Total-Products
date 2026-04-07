@@ -53,7 +53,41 @@ outformat: MHTML
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOTX إلى MHTML يحول محتوى قالب Word إلى تنسيق أرشيف ويب يجمع بين النص والتخطيط والموارد المرتبطة في ملف واحد. وهو مفيد للحفاظ على مظهر المستند في بنية صديقة للمتصفح ومتكاملة.
+
+يدعم هذا التحويل الأتمتة من خلال تمكين إنشاء مستندات قابلة للعرض على الويب ومحمولة باستخدام بايثون، يمكن أرشفتها أو مشاركتها أو دمجها في سير عمل رقمي دون الاعتماد على أدوات التحرير الأصلية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **الأرشفة المتوافقة مع الويب**
+  حفظ محتوى المستند في تنسيق ملف واحد صديق للمتصفح.
+
+* **المشاركة المتكاملة**
+  تجميع النص والموارد معًا لتسهيل النقل والتخزين.
+
+* **الحفاظ على التخطيط**
+  الاحتفاظ بعرض المستند في بنية أرشيف ويب محمول.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء أرشيف ويب تلقائي**
+  تحويل قوالب DOTX إلى ملفات MHTML كجزء من خطوط النشر أو الاحتفاظ.
+
+* **تسليم المحتوى المحمول**
+  توزيع مخرجات المستند القابلة للعرض على الويب في أنظمة التواصل الآلية.
+
+* **توحيد الأرشيف**
+  توحيد المحتوى القائم على القوالب إلى ملفات متكاملة لتخزين قابل للتوسع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

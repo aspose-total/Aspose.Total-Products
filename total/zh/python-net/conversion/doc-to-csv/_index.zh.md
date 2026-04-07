@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+文档转 CSV 转换将结构化或半结构化的 Word 内容转换为逗号分隔的数据，便于在业务系统之间进行分析、交换和处理。它在需要表格输出的报告、迁移、数据清理和下游分析中非常有价值。
+
+使用 Python API 自动化 DOC 到 CSV 的转换有助于标准化文档提取，减少手动重新格式化，并支持可扩展的工作流，将数据输送到电子表格、ETL 流水线、仪表板和数据驱动的应用程序。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **表格数据提取**
+  将文档表格和重复记录转换为 CSV，以便更容易进行分析和导入。
+
+* **数据迁移工作流**
+  准备基于文档的业务数据，以便转移到数据库或行业系统中。
+
+* **报告准备**
+  将文档内容转换为适用于报告、验证和归档审查的平面文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量记录导出**
+  自动将 DOC 文件导出为 CSV 数据集，以进行大批量的运营处理。
+
+* **流水线集成**
+  将转换后的 CSV 输出输送到分析、CRM、ERP 或数据仓库的摄取工作流中。
+
+* **计划化数据标准化**
+  按计划以编程方式从重复的文档来源提取并标准化内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

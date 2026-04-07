@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS إلى DOT يحول ملفات الجداول إلى صيغ قوالب مستندات تُستخدم لإنشاء مستندات مُنظمة. يتيح ذلك للبيانات أو الهياكل المستندة إلى الجداول أن تكون أساسًا لقوالب المستندات القابلة لإعادة الاستخدام.
+
+تمكن سير عمل التحويل المستند إلى بايثون من إنشاء قوالب المستندات تلقائيًا من محتوى الجداول. يدعم هذا النهج توليد المستندات على نطاق واسع، وتوحيد القوالب، وأتمتة فعّالة عبر أنظمة المستندات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء القالب من البيانات**  
+  تحويل هياكل الجداول إلى قوالب مستندات قابلة لإعادة الاستخدام.
+
+* **تصاميم المستندات الموحدة**  
+  استخدام بيانات الجداول كأساس لتنسيق المستندات بشكل متسق.
+
+* **هيكلة المحتوى**  
+  تحويل المعلومات الجدولية إلى هياكل مستندات جاهزة للقوالب.
+
+* **إعداد سير عمل المستندات**  
+  إعداد مستندات القوالب المستمدة من مجموعات بيانات الجداول.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط أنابيب توليد القوالب**  
+  تقوم سير عمل بايثون بتحويل الجداول إلى قوالب مستندات قابلة لإعادة الاستخدام.
+
+* **إدارة القوالب المؤتمتة**  
+  تُنشئ الأنظمة القوالب وتُحافظ عليها المستمدة من بيانات الجداول المُنظمة.
+
+* **تحويل القوالب بالجملة**  
+  تقوم الخدمات المؤتمتة بمعالجة ملفات ODS متعددة لإنشاء قوالب موحدة.
+
+* **أنظمة إنشاء المستندات الديناميكية**  
+  تدعم القوالب المُنشأة من الجداول إنتاج المستندات تلقائيًا.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

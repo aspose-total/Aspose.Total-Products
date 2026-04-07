@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOT إلى Excel يحول قوالب المستندات القابلة لإعادة الاستخدام إلى دفاتر عمل صديقة للجداول الحسابية لأغراض الحساب، والتقارير، والمراجعة المنظمة. هذا مفيد عندما يجب تحليل محتوى القالب النصي أو إعادة استخدامه في تنسيق تجاري قائم على الشبكة.
+
+تجعل واجهات برمجة تطبيقات Python هذه العملية فعّالة من خلال تمكين الاستخراج والتحويل الآلي لمحتوى DOT إلى مخرجات متوافقة مع Excel، داعمةً سير عمل بيانات قابل للتوسع وإعادة التكرار.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إعداد التقارير**
+  تحويل ملفات DOT إلى دفاتر عمل Excel للمراجعة، والحساب، وإعداد تقارير منظمة.
+
+* **إعادة تنظيم البيانات**
+  نقل محتوى المستند إلى تخطيطات جداول أسهل في التصفية والتحليل.
+
+* **تسليمات تشغيلية**
+  مشاركة المعلومات المستخرجة من القالب بصيغة مألوفة لفرق الأعمال والأنظمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **أتمتة تحويل المستند إلى دفتر عمل**
+  يمكن لسكربتات Python تحويل قوالب DOT إلى مخرجات Excel لتسليم البيانات المجدول.
+
+* **تقارير مبنية على خطوط الأنابيب**
+  يمكن لسير العمل الآلي تحويل محتوى المستند إلى دفاتر عمل لعمليات ذكاء الأعمال.
+
+* **إنشاء جداول عالية الحجم**
+  يدعم التحويل البرمجي إنشاء مخرجات Excel متسقة عبر العديد من ملفات المصدر.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

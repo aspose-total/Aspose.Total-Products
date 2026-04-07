@@ -66,7 +66,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT 转 Excel 转换将文档内容转换为适合结构化审阅、分析和协作的电子表格格式。当文本文件包含需要在网格环境中处理的表格、列表或记录时，这非常有价值。
+
+对于自动化，ODT 转 Excel 转换能够从文档中可扩展地提取可用的业务数据。Python API 支持批量转换、验证以及将输出路由到报告或运营工作流中。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **表格保留**  
+  将文档中的结构化数据移动到电子表格布局中。
+
+* **业务分析支持**  
+  使基于文档的信息更易于排序、过滤和审阅。
+
+* **运营数据传输**  
+  将记录转换用于规划、审计或报告用途。
+
+* **协作编辑**  
+  让团队在熟悉的电子表格格式中使用提取的内容进行工作。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **基于流水线的数据提取**  
+  Python 作业可以从 ODT 文件中提取表格并保存为 Excel 兼容的输出。
+
+* **批量报告准备**  
+  多个文档可以转换，以支持周期性的分析工作。
+
+* **验证与结构化**  
+  自动化规则可以在导出前清理并组织提取的数据。
+
+* **跨系统交付**  
+  转换后的电子表格可以路由到存储、报告或审阅系统中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

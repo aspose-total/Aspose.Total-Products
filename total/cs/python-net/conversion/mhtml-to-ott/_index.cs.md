@@ -44,7 +44,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci konverze M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MHTML to OTT conversion in Python converts archived web content into OpenDocument text templates for repeatable and standardized document creation. It is a practical choice when organizations want reusable template files based on web-captured content while keeping compatibility with open document standards.
+
+For automation, OTT supports scalable template-based workflows that reduce repetitive setup and improve consistency. It helps transform static web archives into reusable assets for recurring document generation across open ecosystems.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření otevřených šablon**  
+  Převést soubory MHTML na OTT šablony pro opakovanou tvorbu dokumentů s konzistentní strukturou.
+
+* **Znovupoužitelné rozvržení obsahu**  
+  Vytvořit standardizované rámce šablon z archivovaných webových stránek pro budoucí výrobu dokumentů.
+
+* **Workflow podle otevřených standardů**  
+  Podporovat prostředí, která vyžadují opakované použití šablon bez spoléhání se na uzavřené formáty dokumentů.
+
+* **Strukturovaná distribuce obsahu**  
+  Připravit aktiva založená na šablonách pro oddělení, která produkují opakující se dokumenty v otevřeném formátu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Pipelines pro poskytování šablon**  
+  Automaticky generovat OTT šablony ze zdrojů MHTML pro opakované použití v dokumentačních systémech.
+
+* **Škálovatelná tvorba otevřených dokumentů**  
+  Použít převedené šablony ke zjednodušení opakované tvorby dokumentů napříč nástroji nezávislými na platformě.
+
+* **Dávkové strukturování obsahu**  
+  Převést více archivovaných webových souborů na znovupoužitelné otevřené šablony pomocí automatizace v Pythonu.
+
+* **Konzistentní workflow publikování**  
+  Integrovat výstupy OTT do systémů, které vyžadují standardizované rozvržení pro automatizované doručování dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX 到 ODS 转换将 Word 模板内容转换为 OpenDocument 电子表格格式，以实现结构化数据处理和开放标准工作流。当需要以可编辑的电子表格形式呈现文档信息且不依赖专有格式时，这非常有用。
+
+此转换通过支持基于 Python 的开放电子表格文件生成，提升自动化水平，可在大规模的报告、审查和数据处理系统中集成使用。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **开放电子表格工作流**
+  使用开放标准将文档内容转换为可编辑的电子表格文件。
+
+* **数据复用**
+  将模板中的结构化信息转移到表格化的业务流程中。
+
+* **可互操作的报告**
+  支持使用开放电子表格格式的系统之间的协作。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **定期电子表格导出**
+  从 DOTX 模板自动生成 ODS 文件，以用于报告周期。
+
+* **开放数据管道**
+  将转换后的电子表格输出路由到基于标准格式构建的系统中。
+
+* **文档到表格自动化**
+  大规模将重复的模板内容转换为电子表格资产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

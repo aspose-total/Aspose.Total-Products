@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование DOTX в TSV преобразует содержимое шаблона Word в значения, разделённые табуляцией, для обмена структурированными данными и упрощённого импорта в электронные таблицы или инструменты обработки. Это полезно, когда табличное содержимое документа необходимо экспортировать в чистый текстовый формат.
+
+С помощью Python API это преобразование улучшает автоматизацию, позволяя надёжный обмен текстовыми данными, лёгкую обработку и масштабное преобразование контента, основанного на шаблонах.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Экспорт данных в простом тексте**
+  Преобразовать структурированное содержимое документа в лёгкий табличный формат.
+
+* **Рабочие процессы импорта в электронные таблицы**
+  Подготовить информацию, полученную из шаблона, для быстрого загрузки в инструменты работы с данными.
+
+* **Системно‑дружелюбный обмен данными**
+  Обеспечить передачу структурированного контента между конвейерами автоматизации.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Запланированное извлечение данных**
+  Автоматически преобразовывать шаблоны DOTX в файлы TSV для повторяющихся рабочих процессов.
+
+* **Подготовка ETL**
+  Использовать вывод TSV в качестве входного слоя для автоматизированных конвейеров трансформации.
+
+* **Массовое текстовое преобразование**
+  Обрабатывать большие партии шаблонов в компактные структурированные результаты.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

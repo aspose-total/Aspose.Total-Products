@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+在 Python 中将 PPSM 转换为 XLSB 可将带宏的演示文稿数据转换为一种针对存储效率和性能进行优化的二进制电子表格格式。当需要在电子表格工作流中处理大量来源于演示文稿的内容，并希望降低文件大小和加快处理速度时，这非常有用。
+
+在自动化场景中，PPSM 到 XLSB 的转换支持高效的批量操作、改进的资源使用以及可扩展的数据转换管道，在这些情况下，紧凑的电子表格输出具有优势。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **高效的电子表格打包**  
+  将演示文稿内容转换为适用于更大数据集的紧凑电子表格格式。
+
+* **面向性能的数据处理**  
+  支持受益于更快文件操作和降低存储开销的工作流。
+
+* **可扩展的结构化输出**  
+  帮助以面向运营效率的格式组织提取的幻灯片数据。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **大批量转换任务**  
+  Python 自动化可以为大规模或重复的转换任务生成 XLSB 文件。
+
+* **存储感知的数据管道**  
+  转换有助于在自动化文档和数据工作流中降低输出占用空间。
+
+* **优化的电子表格交付**  
+  编程处理能够在企业系统之间高效分发结构化输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

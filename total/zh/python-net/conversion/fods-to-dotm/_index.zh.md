@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FODS 到 DOTM 的转换将平面 OpenDocument 电子表格文件转换为宏启用的 Word 模板，实现可重复使用的文档结构，并支持高级自动化功能。当基于模板的文档生成还必须允许扩展的脚本行为或动态文档操作时，此格式非常有用。
+
+对于以自动化为驱动的环境，FODS 到 DOTM 的转换将结构化数据处理与模板可重用性以及可编程的文档工作流相结合。Python API 帮助组织实现模板准备的自动化，提高一致性，并在大规模下支持复杂的文档生成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用模板创建**  
+  将 FODS 数据转换为 DOTM 模板，以创建具有高级文档逻辑的可重复使用的文档。
+
+* **标准化运营表单**  
+  为需要一致格式和扩展行为的业务文档准备可重复使用的模板。
+
+* **动态文档结构**  
+  在结构化数据必须提供给为自动化文档处理而设计的模板的情况下使用 DOTM 输出。
+
+* **企业工作流模板**  
+  支持在受控内部流程中需要基于模板的文档生成的团队。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板准备**  
+  Python API 可以从 FODS 源生成 DOTM 模板，作为文档工作流自动化的一部分。
+
+* **可重复使用的文档框架**  
+  自动化系统可以为重复的运营或报告任务创建模板资产。
+
+* **批量模板转换**  
+  大量的 FODS 文件可以通过编程方式转换为宏启用的模板格式。
+
+* **高级工作流启用**  
+  转换流水线可以为依赖结构化自动化功能的环境准备文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

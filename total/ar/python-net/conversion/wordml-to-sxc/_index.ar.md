@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML إلى SXC يحول المحتوى الهيكلي القائم على المستندات إلى ملفات جدول بيانات متوافقة مع سير عمل جداول البيانات المفتوحة القديمة. هذا مفيد للمنظمات التي تحافظ على التوافق مع بيئات المكتب المفتوح القديمة.
+
+Python APIs تدعم تحويل WordML إلى SXC عن طريق استخراج الجداول وأتمتة التحويل إلى صيغ موجهة للجداول لتلبية احتياجات الهجرة والتشغيل البيني.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إخراج جدول بيانات مفتوح قديم**
+  يقوم بتحويل جداول WordML إلى ملفات SXC لبيئات جداول البيانات القديمة.
+
+* **إعادة استخدام البيانات من المستندات**
+  يجعل محتوى المستند الهيكلي قابلاً للتحرير في أدوات جداول البيانات القديمة.
+
+* **حفظ التوافق**
+  يدعم سير عمل طويل الأمد لا يزال يعتمد على الصيغ المفتوحة القديمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **أتمتة التصدير القديم**
+  ينتج مخرجات SXC من ملفات WordML في سير عمل يركز على التوافق.
+
+* **مهام دعم الهجرة**
+  يجسر مستودعات المستندات مع بيئات معالجة جداول البيانات القديمة.
+
+* **تحويل الجداول بالجملة**
+  يؤتمت استخراج وتعبئة بيانات المستندات إلى ملفات جداول بيانات قديمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

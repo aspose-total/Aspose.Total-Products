@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu I
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod souborů ICS na DOCM pomocí Python API transformuje data kalendářních událostí do dokumentů Word s makry. To umožňuje začlenit informace o plánování do dokumentů, které podporují pokročilou automatizaci pomocí vložených maker.
+
+Automatizace tohoto převodu pomocí Pythonu pomáhá organizacím integrovat kalendářní data do pracovních postupů řízených makry, což umožňuje, aby plány událostí spouštěly automatizaci dokumentů nebo procesy reportování.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Automatizované šablony dokumentů**  
+  Vložte kalendářní data do dokumentů s makry pro automatizované reportování.
+
+* **Integrace pracovních postupů**  
+  Použijte informace o událostech v dokumentech, které spouštějí automatizované procesy.
+
+* **Pokročilé reportování**  
+  Kombinujte kalendářní plány s analýzou nebo formátováním řízeným makry.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Systémy reportování řízené makry**  
+  Generujte soubory DOCM automaticky z plánů ICS.
+
+* **Automatizační řetězce dokumentů**  
+  Integrujte data událostí s makro pracovními postupy pro automatické aktualizace dokumentů.
+
+* **Nástroje pro podnikové plánování**  
+  Převádějte kalendářní data na makry podporované reporty ve velkém měřítku.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -53,7 +53,53 @@ Používáme API [Aspose.Words for Python via .NET](https://products.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}>
+
+HTML to images conversion using Python APIs allows developers to render web content into static visual formats for sharing, storage, preview generation, and publishing. It is valuable in modern systems because it preserves layout, styling, and visual structure while making HTML content easier to distribute across platforms that do not require a browser.
+
+In automation-focused workflows, converting HTML to images supports scalable asset generation for reports, dashboards, thumbnails, notifications, and content pipelines. It improves efficiency by turning dynamic HTML templates into reusable visual outputs that integrate smoothly with monitoring systems, publishing processes, and document-driven applications.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování náhledových obrázků**
+  Převést HTML stránky na obrázkové náhledy pro výpisy, výsledky vyhledávání a knihovny obsahu.
+
+* **Vizualizace zpráv**
+  Vykreslit zprávy a souhrny založené na HTML do obrázků pro sdílení, archivaci nebo prezentaci.
+
+* **Vytváření aktiv na základě šablon**
+  Přeměnit HTML šablony na vizuální aktiva pro bannery, karty a obsahové komponenty.
+
+* **Export snímků dashboardu**
+  Zachytit HTML dashboardy jako obrázky pro reportování stavu a komunikaci s vedením.
+
+* **Podpora dokumentace**
+  Exportovat HTML pohledy do obrázků pro manuály, nápovědy a technické reference.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Plánované vizuální generování zpráv**
+  Automatizované systémy mohou vykreslovat opakující se HTML zprávy do souborů obrázků pro pravidelné doručování a revizi.
+
+* **Dynamické vykreslování obsahu**
+  Na datech založené HTML šablony lze programově převést na obrázky pro škálovatelnou produkci obsahu.
+
+* **Vytváření obrázků pro upozornění**
+  HTML rozvržení pro upozornění a souhrny lze automaticky převést na obrázky pro distribuci napříč kanály.
+
+* **Hromadné konverzní pipeline**
+  Velké množství HTML souborů lze zpracovat na obrázky pomocí dávkových pracovních postupů bez ručního zásahu.
+
+* **Archivace vykresleného obsahu**
+  Automatizace může zachovat vizuální stav dynamických HTML stránek jejich převodem na statické výstupy obrázků.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

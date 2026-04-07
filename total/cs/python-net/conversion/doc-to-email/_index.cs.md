@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod dokumentu na E‑MAIL mění obsah Wordu na výstup připravený k odeslání, který lze vložit do komunikačních pracovních postupů, notifikačních systémů nebo revizních procesů. Je užitečný, když je potřeba distribuovat informace z dokumentu ve čitelném formátu zaměřeném na e‑mail.
+
+Na Python API založený převod DOC na E‑MAIL podporuje automatizované komunikační kanály, což usnadňuje generování znovupoužitelného e‑mailového obsahu z dokumentů a zároveň zvyšuje rychlost, konzistenci a provozní efektivitu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování obsahu zprávy**
+  Převést text dokumentu na obsah připravený pro e‑mail pro komunikační a schvalovací pracovní postup.
+
+* **Automatizovaná oznámení**
+  Použít obsah odvozený z dokumentu k vyplnění těla e‑mailu pro upozornění, aktualizace nebo souhrny.
+
+* **Distribuce workflow**
+  Sdílet obchodní dokumenty ve formátu sladěném s revizí a spoluprací založenou na e‑mailu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Směrování dokument‑na‑zprávu**
+  Automaticky převést soubory DOC na e‑mailový obsah pro doručení napříč týmy nebo systémy.
+
+* **Automatizace schvalovacího workflow**
+  Generovat strukturované e‑mailové zprávy z formálních dokumentů pro revizi a schvalovací cykly.
+
+* **Dynamické sestavování komunikace**
+  Programově vytvořit výstup připravený pro e‑mail z šablon, reportů nebo generovaných dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

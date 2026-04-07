@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PDF to MBOX conversion using Python APIs allows PDF content to be transformed into a mailbox archive format used for storing collections of email messages. This is helpful when document information must be incorporated into email archive workflows or preserved in bulk message repositories.
+
+Automating this conversion supports scalable archival operations, migration processes, and structured communication storage. It reduces manual effort by enabling PDF documents to be programmatically prepared for systems that rely on consolidated mailbox data formats.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytvoření archivu poštovní schránky**  
+  Převést obsah PDF do záznamů kompatibilních s MBOX pro archivaci a ukládání.
+
+* **Balíčkování hromadné komunikace**  
+  Organizovat zprávy odvozené z dokumentů do kolekcí poštovní schránky pro přenositelnost systému.
+
+* **Integrace e‑mailového archivu**  
+  Použít převedené výstupy v prostředích, která spravují data pomocí kontejnerů MBOX.
+
+* **Zachování záznamů**  
+  Zachovat informace založené na PDF v pracovních postupech archivace zpráv.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Dávkové generování archivu**  
+  Pythonové pracovní postupy mohou automaticky zpracovat mnoho PDF do výstupů kompatibilních s MBOX.
+
+* **Pipelines pro zachování souladu**  
+  Převedený obsah může být vložen do archivních úložišť pro dlouhodobé ukládání.
+
+* **Příprava migrace**  
+  Systémy mohou balit obsah odvozený z PDF pro přenos do platforem založených na poštovní schránce.
+
+* **Automatické aktualizace úložiště**  
+  Příchozí PDF dokumenty mohou být průběžně převáděny a přidávány do archivních pracovních postupů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

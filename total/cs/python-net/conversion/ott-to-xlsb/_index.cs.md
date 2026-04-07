@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod OTT na XLSB v Python API převádí šablony textových dokumentů OpenDocument do binárních souborů tabulek optimalizovaných pro efektivní ukládání a zpracování ve scénářích s velkými sešity. To je užitečné, když musí být převedená data připravena pro tabulky a zároveň těžit z kompaktního souborového formátu.
+
+Převod podporuje automatizaci tím, že umožňuje škálovatelné generování sešitů pro procesy s velkým objemem dat, což pomáhá zlepšit výkon a snížit úložnou zátěž při opakovaných exportních pracovních postupech.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Kompaktní výstup tabulky**  
+  Vytváří binární soubory sešitů pro efektivní ukládání a zpracování.
+
+* **Podpora pracovních toků s velkými daty**  
+  Vhodné pro scénáře, kde mohou generované tabulky narůstat v velikosti.
+
+* **Strukturované doručování obsahu**  
+  Převádí obsah šablony na výkonné aktiva sešitu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Generování sešitů ve velkém objemu**  
+  Automatizuje export XLSB ze zdrojů OTT ve velkém měřítku.
+
+* **Účinné reportování s úsporou úložiště**  
+  Vytváří kompaktní výstupy tabulek pro opakující se procesy.
+
+* **Výkonnostně orientované datové pipeline**  
+  Podporuje rychlejší zpracování v automatizovaných pracovních postupech s tabulkami.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

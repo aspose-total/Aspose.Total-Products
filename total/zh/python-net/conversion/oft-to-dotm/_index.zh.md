@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 OFT 转换为 DOTM 可将 Outlook 电子邮件模板转换为支持宏的 Word 模板，以实现高级文档自动化。当需要将可重用内容嵌入支持自定义逻辑和可重复文档操作的模板文件时，这非常有价值。
+
+此转换通过将标准化的模板设计与可编程行为相结合，强化了自动化策略。它支持高效的文档创建、受控的处理以及可扩展的基于模板的操作。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用模板创建**  
+  将 OFT 文件转换为 DOTM 模板，以实现带嵌入操作的自动化文档生成。
+
+* **可重复的业务文档工作流**  
+  使用转换后的模板来标准化重复的内容生产任务。
+
+* **可编程内容复用**  
+  将电子邮件模板内容转化为支持自定义文档自动化的结构化模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **基于模板的自动化流水线**  
+  从 OFT 文件生成 DOTM 模板，以供自动创建文档的系统使用。
+
+* **基于规则的文档处理**  
+  将转换后的模板集成到触发脚本或宏辅助操作的工作流中。
+
+* **可扩展的内容标准化**  
+  使用 Python API 在各部门或项目中一致地生成宏启用模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

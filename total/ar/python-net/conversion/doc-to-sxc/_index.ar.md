@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل المستند إلى تنسيق SXC يغيّر محتوى Word إلى تنسيق جدول بيانات مرتبط بعمليات العمل القديمة في OpenOffice، مما يجعله مفيدًا للتوافقية القديمة واستخراج البيانات المهيكلة. يدعم المنظمات التي تحافظ على التوافق مع أنظمة جداول البيانات السابقة.
+
+باستخدام واجهات برمجة تطبيقات Python، يمكن أتمتة تحويل DOC إلى SXC لتقليل الإدخال اليدوي ودعم سير عمل البيانات القديمة القابلة للتكرار.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **توافق جداول البيانات القديمة**
+  تحويل جداول المستند إلى SXC لبيئات OpenOffice القديمة.
+
+* **حفظ البيانات المهيكلة**
+  الاحتفاظ بالقيم المستندة إلى المستند في تنسيق قديم موجه للجداول.
+
+* **دعم الهجرة**
+  جسر مستندات Word مع الأنظمة التي لا تزال تعتمد على معايير جداول البيانات التاريخية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **أتمتة سير العمل القديم**
+  إنشاء ملفات SXC تلقائيًا من مصادر DOC حيث لا تزال الأدوات القديمة قيد الاستخدام.
+
+* **خطوط تحويل دفعية**
+  تحويل مستندات متعددة إلى ملفات جداول بيانات مهيكلة دون معالجة يدوية.
+
+* **وظائف التوافقية بين الأنظمة**
+  ربط مصادر المستندات الحديثة بسير عمل جداول البيانات القديمة برمجيًا.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

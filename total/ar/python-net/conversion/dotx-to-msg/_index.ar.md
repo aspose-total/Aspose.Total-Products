@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOTX إلى MSG يحول محتوى قالب Word إلى تنسيق رسالة بريد إلكتروني يُستخدم عادةً في بيئات البريد المكتبي. وهو مفيد لإنشاء ملفات اتصال منظمة من القوالب القابلة لإعادة الاستخدام مع الحفاظ على تنسيق موجه للرسائل.
+
+مع واجهات برمجة تطبيقات Python، يتيح هذا التحويل إنشاء ملفات بريد إلكتروني تلقائيًا، وتوجيهها، وتخزينها للمؤسسات التي تعتمد على سير عمل قائم على الرسائل مستمد من مستندات موحدة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء رسائل سطح المكتب**
+  تحويل قوالب المستندات إلى ملفات رسائل لبيئات البريد المدعومة.
+
+* **أرشفة الاتصالات**
+  حفظ المراسلات المُنشأة في تنسيق ملف يركز على الرسائل.
+
+* **التواصل القائم على القوالب**
+  إعادة استخدام هياكل المستندات الرسمية في سير عمل تجاري موجه للبريد الإلكتروني.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنتاج ملفات رسائل تلقائيًا**
+  إنشاء ملفات MSG من قوالب DOTX في خطوط الاتصال.
+
+* **تعبئة البريد الإلكتروني المدفوعة بسير العمل**
+  إنشاء أصول رسائل قابلة لإعادة الاستخدام للموافقة أو الإشعار أو عمليات الخدمة.
+
+* **معالجة المراسلات القابلة للتوسع**
+  تحويل القوالب المتكررة إلى مخرجات رسائل موحدة برمجيًا.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

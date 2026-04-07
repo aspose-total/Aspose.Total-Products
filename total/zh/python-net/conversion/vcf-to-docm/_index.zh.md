@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF 到 DOCM 转换将联系人卡片数据转换为宏启用的文字处理文档，使得在需要高级文档行为的情况下能够提供结构化内容交付。这对于使用动态文档工作流和可编辑输出的组织非常有用。
+
+在以自动化为重点的系统中，VCF 到 DOCM 转换允许 Python API 生成基于联系人的文档，以适配更大的可编程流程，尤其是在文档逻辑、可重复格式或集成操作是业务一部分的情况下。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **动态联系人文档**  
+  将 VCF 记录转换为可编辑的 DOCM 文件，以用于高级文档工作流。
+
+* **结构化内部处理**  
+  在宏启用的文档中准备联系信息，以供受控的业务使用。
+
+* **可编程文档**  
+  支持自动化与可编辑内容必须共存的文档环境。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化 DOCM 创建**  
+  在批量操作中从联系人文件生成宏启用的文档。
+
+* **基于规则的文档工作流**  
+  将转换后的 DOCM 文件路由到具有一致格式的自动化业务流程中。
+
+* **可扩展的联系人打包**  
+  以编程方式将联系人数据打包成可重复使用的 DOCM 输出，以用于企业工作流。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

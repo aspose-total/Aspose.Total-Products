@@ -46,7 +46,53 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将图像转换为 OFT 可以将基于图像的内容转化为可重复使用的电子邮件模板文件，从而支持一致的通信创建。当需要在重复的消息中加入横幅、通知、品牌图形或结构化的基于图像的布局等视觉素材时，这非常有帮助。
+
+对于自动化工作流，将图像转换为 OFT 支持基于模板的通信，减少重复的格式化工作，并提升输出的一致性。这使得在重复的运营或业务场景中能够重复使用视觉内容，从而实现可扩展的电子邮件生成过程。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **可重复使用的通信模板**
+  将基于图像的布局转换为 OFT 模板，以用于重复的消息工作流。
+
+* **视觉通知标准化**
+  从政策通知、公告或宣传图形构建一致的电子邮件模板。
+
+* **运营消息准备**
+  创建包含基于图像的说明或参考材料的模板。
+
+* **客户外联一致性**
+  使用视觉电子邮件模板在重复交互中保持统一的沟通。
+
+* **内部公告设计**
+  将以图像为主的消息格式转化为可重复使用的模板，以用于全团队的沟通。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **基于模板的电子邮件自动化**
+  系统可以从基于图像内容构建的 OFT 模板生成重复的通信。
+
+* **活动工作流支持**
+  富含图像的模板可以一次性准备，并在计划的外联过程中重复使用。
+
+* **运营警报标准化**
+  常见的更新格式可以使用从视觉资产派生的可重复使用的 OFT 输出进行自动化。
+
+* **文档化流程沟通**
+  团队可以使用从基于图像的参考内容生成的模板来自动化说明性电子邮件。
+
+* **可扩展的消息个性化**
+  从图像创建的 OFT 模板可以在自动化工作流中动态填充数据，实现个性化。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

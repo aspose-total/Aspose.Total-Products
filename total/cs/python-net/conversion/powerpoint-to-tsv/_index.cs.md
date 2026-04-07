@@ -64,7 +64,47 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Slides for Python via 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PowerPoint to TSV conversion in Python converts presentation content into a tab-separated format suited for structured text processing and spreadsheet imports. This is helpful when slide content must be exported into a lightweight tabular form that is easy to parse and move across systems.
+
+In automation workflows, TSV conversion supports clean data exchange, efficient parsing, and scalable ingestion into analytics or content processing systems. It is especially valuable when simplicity and machine-readability are priorities.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Export strukturovaného textu**
+  Převádí data prezentace do záznamů oddělených tabulátory pro zjednodušenou manipulaci.
+
+* **Příprava importu do tabulek**
+  Pomáhá připravit obsah odvozený ze snímků pro aplikace tabulek a datové nástroje.
+
+* **Výměna dat mezi systémy**
+  Podporuje přenos strukturovaného obsahu prezentace mezi platformami.
+
+* **Pracovní postupy parsování a zpracování**
+  Usnadňuje ingest převáděného výstupu do vlastních skriptů a automatizovaných nástrojů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Exporty vhodné pro pipeline**
+  Automatizuje generování TSV pro systémy, které vyžadují lehké strukturované vstupy.
+
+* **Dávková transformace dat**
+  Podporuje převod více prezentací do tabulárních textových souborů ve velkém měřítku.
+
+* **Integrace ETL**
+  Umožňuje obsahu snímků snadněji vstoupit do procesů extrakce, transformace a načítání.
+
+* **Normalizace obsahu**
+  Pomáhá standardizovat data prezentace před následným zpracováním nebo uložením.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

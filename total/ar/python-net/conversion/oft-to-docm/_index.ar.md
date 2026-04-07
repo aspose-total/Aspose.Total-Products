@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل OFT إلى DOCM باستخدام واجهات برمجة تطبيقات بايثون يتيح تحويل قوالب بريد Outlook إلى مستندات Word مفعلة بالماكرو لتدفقات عمل مستندات متقدمة. هذا مهم عندما يجب دمج المحتوى المحول مع منطق الأتمتة أو الإجراءات المكتوبة أو سلوكيات المستند المخصصة.
+
+يدعم هذا التحويل البيئات التي تركز على الأتمتة من خلال ربط محتوى البريد القابل لإعادة الاستخدام بعمليات المستند القابلة للبرمجة. يساعد المؤسسات على توحيد العمليات المدفوعة بالقوالب مع تحسين المرونة وإمكانية التكرار والتحكم في سير العمل.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء مستندات مفعلة بالماكرو**  
+  تحويل قوالب OFT إلى ملفات DOCM لتدفقات العمل التي تتطلب منطق أتمتة مدمج.
+
+* **إعادة استخدام القوالب المتقدمة**  
+  إعادة توجيه محتوى البريد داخل المستندات التي تدعم إجراءات معالجة مخصصة.
+
+* **توثيق أعمال منظم**  
+  استخدام مخرجات DOCM عندما يجب أن يغذي المحتوى المستند إلى البريد أنظمة مستندات ديناميكية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تدفقات إجراءات المستند المؤتمتة**  
+  دمج محتوى القالب المحول مع عمليات مفعلة بالماكرو للمهام التجارية المتكررة.
+
+* **تحويل القالب إلى سير عمل**  
+  تحويل ملفات OFT إلى مستندات DOCM تشارك في معالجة المستندات القائمة على القواعد.
+
+* **دعم التقارير البرمجية**  
+  إنشاء ملفات مفعلة بالماكرو من قوالب البريد لتقارير مملوءة بالبيانات أو روتينات مستندات مُتحكم فيها.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

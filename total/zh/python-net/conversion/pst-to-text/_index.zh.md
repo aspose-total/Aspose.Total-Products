@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API 中的 PST 转 TEXT 转换将邮箱内容提取为纯文本，以便进行索引、分析和轻量级归档使用。当关注点在可读内容而非格式时，这非常有价值，尤其是在优先考虑可搜索性和处理效率的系统中。
+
+对于自动化而言，PST 转 TEXT 转换支持文本挖掘、内容提取以及与最适合简单结构化输入的流水线集成。它有助于使邮箱归档更易于在大规模下进行解析、转换和分析。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **纯文本提取**
+  将 PST 内容转换为文本，以实现对消息数据的干净、无格式访问。
+
+* **搜索和索引支持**
+  帮助准备邮箱归档，以便检索和内容发现工作流。
+
+* **分析就绪输出**
+  支持下游处理，在此类处理更倾向于使用简单文本而非格式化文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **文本处理流水线**
+  自动化系统可以将 PST 派生的文本输入到索引或分析工作流中。
+
+* **数据提取工作流**
+  纯文本输出有助于简化解析、过滤和转换任务。
+
+* **可扩展内容挖掘**
+  编程式转换使得大规模邮箱归档能够更高效地进行分析。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

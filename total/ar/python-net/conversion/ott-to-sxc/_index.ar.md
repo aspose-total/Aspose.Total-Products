@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل OTT إلى SXC في واجهات برمجة تطبيقات بايثون يحول قوالب نصية من OpenDocument إلى ملفات جدولية مناسبة لتدفقات عمل جداول البيانات القديمة في OpenOffice. هذا مفيد عندما يجب تحويل محتوى المستند إلى تنسيق جدولي منظم وقابل للتحرير لبيئات متوافقة مع الأنظمة القديمة.
+
+يدعم التحويل الأتمتة من خلال تمكين استخراج موحد لمعلومات المستند إلى تدفقات عمل جداول البيانات التي لا تزال تعتمد على صيغ OpenOffice المعتمدة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **دعم جداول البيانات القديمة**  
+  ينشئ مخرجات جدولية متوافقة مع تدفقات عمل OpenOffice القديمة.
+
+* **هيكلة بيانات المستند**  
+  يحول محتوى القالب النصي إلى جداول قابلة للتحرير.
+
+* **التوافق التشغيلي**  
+  يساعد على دمج البيانات المولدة مع أنظمة جداول البيانات المعتمدة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تصدير قديم مؤتمت**  
+  ينتج ملفات SXC من مصادر OTT لتدفقات عمل تعتمد على التوافق.
+
+* **تحويل بيانات دفعي**  
+  يحول العديد من ملفات القالب إلى مخرجات جدولة قديمة بكفاءة.
+
+* **تكامل استمرارية النظام**  
+  يدعم البيئات التي تحتفظ بسلاسل معالجة جداول البيانات القديمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

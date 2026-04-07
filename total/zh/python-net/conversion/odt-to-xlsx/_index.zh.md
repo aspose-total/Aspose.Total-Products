@@ -66,7 +66,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT 到 XLSX 转换将 OpenDocument 文本内容转换为一种现代电子表格格式，广泛用于数据审查、报告和协作。当文档内容包含需要可编辑和可分析的表格、记录或结构化列表时，它是理想的选择。
+
+在自动化工作流中，ODT 到 XLSX 转换能够高效地将基于文档的数据提取为多功能的电子表格格式。Python API 支持可扩展的转换、验证以及在现代数据驱动系统中的集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **现代电子表格导出**  
+  将文档内容转换为广泛使用的工作簿格式。
+
+* **数据分析就绪**  
+  使提取的信息更容易进行排序、过滤和处理。
+
+* **协作审查**  
+  支持基于团队的编辑和对转换后数据的结构化检查。
+
+* **工作流互操作性**  
+  将文档库与基于电子表格的流程连接起来。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自动化表格到工作簿转换**  
+  Python 工作流可以提取文档表格并将其导出为 XLSX 文件。
+
+* **批量报告管道**  
+  多个 ODT 文件可以转换为电子表格，以进行定期分析。
+
+* **数据清洗与结构化**  
+  自动化规则可以在生成工作簿之前准备提取的值。
+
+* **跨系统集成**  
+  转换后的 XLSX 输出可以流入存储、报告或业务流程工具。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

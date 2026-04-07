@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod DOCX na MBOX umožňuje transformaci obsahu dokumentu do souborů poštovní schránky, které se používají k ukládání kolekcí e‑mailových zpráv. Tento proces umožňuje integraci informací z dokumentu do struktur archivů e‑mailů.
+
+Python API umožňují automatizované generování souborů poštovní schránky z obsahu dokumentu, podporují archivy komunikace a automatizované pracovní postupy pro zasílání zpráv.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytvoření archivu e‑mailů**  
+  Převádí obsah DOCX do souborů poštovní schránky.
+
+* **Záznamy komunikace dokumentů**  
+  Ukládá zprávy založené na dokumentech do archivů poštovní schránky.
+
+* **Pracovní postupy migrace e‑mailů**  
+  Umožňuje zahrnout obsah dokumentu do exportů poštovní schránky.
+
+* **Integrace systému zpráv**  
+  Umožňuje zabalit informace z dokumentu do archivů e‑mailů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná generace poštovní schránky**  
+  Systémy mohou převádět dokumenty do souborů archivu MBOX.
+
+* **Dávkové zpracování archivů e‑mailů**  
+  Python skripty mohou generovat archivy poštovní schránky z kolekcí dokumentů.
+
+* **Podnikové pipeline zpráv**  
+  Data dokumentu mohou být automaticky transformována do formátů poštovní schránky.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

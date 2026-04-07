@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM 到 FODS 的转换将启用宏的文档转换为平面开放电子表格文件，使结构化文档数据能够在开放的基于 XML 的电子表格工作流中重复使用。它在透明性、可移植性和标准化数据表示重要的情况下非常有用。
+
+在自动化系统中，DOCM 到 FODS 的转换支持可重复的数据提取，并集成到偏好可读、结构化电子表格格式的开放文档流水线中。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **开放电子表格转换**
+  将文档数据移动到适合开放生态系统的平面电子表格格式。
+
+* **基于 XML 的数据可移植性**
+  帮助在易于检查和交换的格式中保留结构化内容。
+
+* **工作流标准化**
+  支持使用开放文档标准进行电子表格操作的组织。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化开放格式导出**
+  将 DOCM 文件转换为 FODS 输出，以实现标准化处理。
+
+* **与 XML 流水线集成**
+  使文档数据流入使用基于结构化标记的电子表格的系统。
+
+* **批量标准化任务**
+  在大批量中将文档表格规范化为平面电子表格文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

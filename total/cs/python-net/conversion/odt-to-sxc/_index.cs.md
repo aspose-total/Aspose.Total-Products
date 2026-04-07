@@ -65,7 +65,47 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT to SXC conversion transforms OpenDocument Text content into a spreadsheet-oriented format used for structured data handling. It is useful when document-based tables, lists, or records must be repurposed into cell-based layouts for review and processing.
+
+In automation environments, ODT to SXC conversion supports document data extraction, legacy spreadsheet interoperability, and scalable content structuring. Python APIs help automate these transformations reliably across multiple files.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Extrahování dat orientovaných na tabulky**  
+  Převádí strukturovaný obsah dokumentu do rozvržení založeného na buňkách.
+
+* **Podpora starých formátů**  
+  Pomáhá udržovat kompatibilitu se staršími pracovními postupy v tabulkách.
+
+* **Migrace tabulek a záznamů**  
+  Přesouvá informace z dokumentu do struktury, která je lépe analyzovatelná.
+
+* **Opětovné využití provozních dat**  
+  Umožňuje snadnější revizi a zpracování extrahovaného obsahu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Převodní pipeline pro staré tabulky**  
+  Python automatizace může automaticky převádět ODT tabulky na výstupy SXC.
+
+* **Dávková extrakce záznamů**  
+  Více dokumentů lze zpracovat do tabulkových formátů ve velkém měřítku.
+
+* **Validace dat a export**  
+  Extrahovaný obsah lze normalizovat před konverzí do SXC.
+
+* **Podpora interoperability pracovních postupů**  
+  Převodní výstupy mohou napájet systémy, které stále spoléhají na starší struktury tabulek.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

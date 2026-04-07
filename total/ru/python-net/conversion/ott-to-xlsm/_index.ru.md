@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT в XLSM преобразование в Python API преобразует шаблоны текста OpenDocument в таблицы с поддержкой макросов, которые поддерживают продвинутую автоматизацию книг. Это ценно, когда преобразованный контент должен быть размещён в таблицах, включающих переиспользуемую логику или скриптовые операции.
+
+Преобразование улучшает автоматизацию, сочетая структурированное содержимое документа с окружением таблиц, способным работать с макросами, позволяя создавать более богатые процессы обработки, проверки и отчётности.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Создание книг с поддержкой макросов**  
+  Создаёт таблицы, подходящие для продвинутых автоматизированных операций.
+
+* **Динамическая обработка данных**  
+  Поддерживает книги, выходящие за пределы статического хранения и отображения.
+
+* **Повторное использование содержимого шаблона**  
+  Переносит информацию из документов в расширенные форматы таблиц.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Автоматизированное создание обогащённых книг**  
+  Создаёт файлы XLSM из шаблонов OTT для многократного использования.
+
+* **Интеграция логики таблиц**  
+  Поддерживает рабочие процессы, объединяющие преобразованные данные со встроенной автоматизацией.
+
+* **Масштабируемая операционная отчётность**  
+  Обеспечивает более богатый вывод книг для бизнес‑процессов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

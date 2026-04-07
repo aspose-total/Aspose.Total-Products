@@ -46,7 +46,47 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 的 EML 到 DOTM 转换将电子邮件消息转换为宏启用的文档模板，以支持高级基于模板的业务工作流。当需要将通信生成的内容合并到支持额外自动化行为的可重用模板中时，此格式非常有用。
+
+对于自动化系统，EML 到 DOTM 的转换有助于将入站通信与可重复的文档生成过程连接起来。它支持在使用宏启用模板生成结构化、面向行动的文档的可扩展操作。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用模板创建**  
+  将电子邮件内容转换为可重复使用的 DOTM 模板，以用于高级文档处理。
+
+* **面向流程的文档设计**  
+  帮助在支持自动化操作的模板中捕获通信结构。
+
+* **企业模板库**  
+  支持从重复出现的电子邮件模式创建结构化的模板资产。
+
+* **工作流就绪内容打包**  
+  准备基于电子邮件的材料，以便在支持宏的文档环境中使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板供应**  
+  流水线可以将 EML 消息转换为 DOTM 模板，以实现标准化的业务输出。
+
+* **可扩展文档组装**  
+  基于电子邮件的模板可以在高容量文档工作流中以编程方式重复使用。
+
+* **结构化内容复用**  
+  自动化有助于将消息布局转换为宏启用的模板框架。
+
+* **运营工作流集成**  
+  转换后的 DOTM 文件可以为依赖可重用智能模板的文档系统提供输入。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

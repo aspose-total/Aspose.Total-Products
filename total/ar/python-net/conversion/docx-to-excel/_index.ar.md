@@ -65,7 +65,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOCX إلى Excel يتيح تحويل مستندات معالجة النصوص إلى صيغ جداول بيانات مناسبة للتحليل الرقمي ومعالجة البيانات المهيكلة. تستخرج هذه العملية المعلومات الجدولية أو المهيكلة من ملفات DOCX وتحوّلها إلى صيغ متوافقة مع جداول البيانات.
+
+تسمح واجهات برمجة تطبيقات Python بدمج تحويل DOCX إلى Excel في أنظمة معالجة البيانات الآلية، مما يتيح خطوط تحويل مستندات قابلة للتوسع للتقارير والتحليلات وتدفقات عمل البيانات المؤسسية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **استخراج جداول المستند**  
+  يحوّل جداول DOCX إلى أوراق جداول بيانات للتحليل البيانات.
+
+* **تحويل البيانات المهيكلة**  
+  يستخرج البيانات المستندة إلى المستندات إلى صيغ متوافقة مع جداول البيانات.
+
+* **معالجة بيانات التقارير**  
+  يتيح تحويل تقارير المستندات إلى مجموعات بيانات جداول البيانات.
+
+* **ترحيل المحتوى إلى أنظمة جداول البيانات**  
+  يسهل ترحيل محتوى المستندات المهيكلة إلى أدوات جداول البيانات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط تقارير البيانات الآلية**  
+  يمكن تحويل تقارير DOCX تلقائيًا إلى جداول بيانات للتحليلات.
+
+* **تحويل المستندات إلى جداول البيانات على دفعات**  
+  يمكن لأتمتة Python تحويل كميات كبيرة من ملفات DOCX إلى ملفات Excel.
+
+* **تكامل البيانات المؤسسية**  
+  يمكن تصدير بيانات المستندات ديناميكيًا إلى جداول البيانات لأنظمة الذكاء التجاري.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

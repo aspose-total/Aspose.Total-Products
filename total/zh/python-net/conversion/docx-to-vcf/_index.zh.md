@@ -46,7 +46,44 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX 转 VCF 转换将基于文档的联系信息转换为用于地址簿和联系人管理系统的数字联系人卡文件。此过程能够将姓名、电话号码、电子邮件地址以及相关的联系字段从文档中提取出来，生成可移植的标准格式。
+
+使用 Python API，DOCX 到 VCF 的转换可以集成到客户数据工作流、联系人迁移管道和自动化通信系统中。它支持将文档中的结构化联系数据可扩展地转换为可重复使用的联系人记录。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **联系人数据提取**  
+  将存储在 DOCX 文件中的联系信息转换为可移植的数字联系人卡。
+
+* **地址簿迁移**  
+  使基于文档的联系人列表能够导入到联系人管理系统中。
+
+* **客户信息再利用**  
+  支持将结构化的联系人记录转换用于通信工作流。
+
+* **可移植联系人文件生成**  
+  帮助以广泛接受的格式分发和存储联系详情。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化联系人文件创建**  
+  系统可以从 DOCX 文件中提取联系字段并自动生成 VCF 记录。
+
+* **批量联系人迁移管道**  
+  Python 脚本可以将多个文档处理为数字联系人卡。
+
+* **CRM 与通信自动化**  
+  基于文档的联系数据可以转换为 VCF 文件，以实现同步的外联工作流。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

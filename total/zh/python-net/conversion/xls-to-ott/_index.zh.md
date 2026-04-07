@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS 到 OTT 的转换将电子表格数据转换为可重复用于标准化文档创建的开放文档文本模板。这对使用开放模板格式构建可重复文档流程的组织非常有价值。
+
+使用 Python API 进行 XLS 到 OTT 的转换可以使模板生成更高效，并支持优先考虑开放标准和可扩展复用的自动化文档系统。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **开放模板创建**
+  将 XLS 内容转换为 OTT 模板，以实现可重复的文档生成。
+
+* **可重用文档结构**
+  构建保持一致格式和布局规则的模板文件。
+
+* **基于标准的工作流**
+  通过基于电子表格的模板生成，支持开放文档生态系统。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板生成**
+  从电子表格数据创建 OTT 模板文件，无需手动设置。
+
+* **可扩展的开放文档系统**
+  使用 Python API 为文档密集型环境生成可重用的模板。
+
+* **模板库构建**
+  将 XLS 输入导入工作流，以维护可重用开放模板的结构化集合。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

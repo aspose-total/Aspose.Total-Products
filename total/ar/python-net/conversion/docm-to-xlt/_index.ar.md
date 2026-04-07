@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOCM إلى XLT يحول المستندات التي تدعم الماكرو إلى ملفات قوالب جداول البيانات، مما يسمح لمحتوى المستند المهيكل أن يصبح تخطيطات دفتر عمل قابلة لإعادة الاستخدام للتكرار. يكون ذلك مفيدًا عندما تكون الاتساق مهمًا عبر عمليات إنشاء جداول البيانات المتكررة.
+
+في الأنظمة الآلية، يدعم تحويل DOCM إلى XLT إنشاء دفاتر عمل موحدة، وتكرار العملية، وتحويل المستندات إلى قوالب جداول بيانات قابلة لإعادة الاستخدام على نطاق واسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **قوالب دفتر عمل قابلة لإعادة الاستخدام**
+  يحول مادة المستند إلى قوالب جداول بيانات للاستخدام التشغيلي المتكرر.
+
+* **هيكل جدول بيانات موحد**
+  يساعد على الحفاظ على الاتساق عبر مهام إنشاء دفاتر العمل المتكررة.
+
+* **إعادة استخدام المحتوى إلى القالب**
+  يُكيّف بيانات المستند وتخطيطاته إلى مخططات جداول بيانات مهيكلة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء القالب تلقائيًا**
+  ينتج ملفات XLT من مصادر DOCM لتدفقات عمل جداول البيانات القابلة للتكرار.
+
+* **توفير دفتر عمل متسق**
+  يدعم إنشاء قوالب جداول بيانات موحدة برمجيًا.
+
+* **توزيع القالب على نطاق واسع**
+  يُمكّن من إعادة استخدام واسعة لتخطيطات جداول البيانات المولدة من المستندات المصدر.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

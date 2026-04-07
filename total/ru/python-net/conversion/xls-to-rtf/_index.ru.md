@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS to RTF conversion makes spreadsheet content available in a rich text format that supports broad document compatibility and editable text-based reuse. This is useful when spreadsheet information needs to be moved into a flexible document format for sharing, archiving, or further formatting.
+
+Python API-based XLS to RTF conversion improves automation by enabling consistent text document generation from spreadsheet files and supporting lightweight document exchange workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Создание документов Rich Text**
+  Преобразуйте содержимое XLS в файлы RTF для редактируемого и портативного использования документов.
+
+* **Кроссплатформенный обмен**
+  Используйте вывод в формате RTF, когда требуется широкая совместимость в разных средах документов.
+
+* **Трансформация контента, ориентированного на текст**
+  Перепакуйте данные таблицы в формат, подходящий для смешанного форматирования и повествовательного представления.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Пакетное создание Rich Text**
+  Используйте Python API для автоматического преобразования нескольких файлов XLS в документы RTF.
+
+* **Легковесные конвейеры документов**
+  Добавьте преобразование XLS в RTF в рабочие процессы, ориентированные на портативность и совместимость.
+
+* **Автоматизированная подготовка к архивированию**
+  Преобразуйте содержимое таблицы в документы Rich Text для длительного хранения или проверки.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

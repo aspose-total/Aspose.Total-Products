@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل VCF إلى WordML يحول بيانات بطاقة الاتصال إلى ترميز معالجة كلمات قائم على XML يدعم تمثيل المستندات المهيكلة والتشغيل البيني التقني. هذا ذو قيمة لتدفقات العمل التي تتطلب محتوى مستند قابل للفحص، قابل للتحويل، وموجه للمعايير.
+
+في سيناريوهات الأتمتة، يتيح تحويل VCF إلى WordML لواجهات برمجة تطبيقات Python إنشاء مخرجات مستندات صديقة للآلة يمكن التحقق منها، تحويلها، ودمجها في خطوط معالجة مدفوعة بـ XML.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إخراج ترميز منظم**  
+  تحويل سجلات VCF إلى WordML لمعالجة المستندات القائمة على XML.
+
+* **التشغيل البيني التقني**  
+  دعم الأنظمة التي تعالج معلومات الاتصال عبر سير عمل ترميز منظم.
+
+* **محتوى مستند قابل للتحويل**  
+  حفظ بيانات الاتصال في تنسيق مناسب للتحليل ومهام التحويل.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط تحويل مبنية على XML**  
+  إنشاء ملفات WordML تلقائيًا من سجلات الاتصال لتكامل النظام.
+
+* **سير عمل التحقق والتحويل**  
+  استخدام مخرجات الترميز في الأدوات الآلية التي تفحص أو تعيد تشكيل محتوى المستند.
+
+* **معالجة منظمّة قابلة للتوسع**  
+  تطبيق واجهات برمجة تطبيقات Python لإنشاء مستندات اتصال قابلة للقراءة آليًا بكفاءة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

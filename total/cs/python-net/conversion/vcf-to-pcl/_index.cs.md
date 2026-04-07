@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu V
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF to PCL conversion převádí data kontaktních karet do výstupu v jazyce příkazů tiskárny, který je užitečný pro workflow zaměřené na tisk a pro renderování dokumentů kompatibilních s hardwarem. To je důležité tam, kde je třeba připravit kontaktní informace pro přímé nebo řízené tiskové prostředí.
+
+S automatizací v Pythonu podporuje převod VCF na PCL spolehlivou integraci tiskových pipeline tím, že transformuje záznamy kontaktů do výstupu, který může být směrován přes škálovatelné systémy zpracování dokumentů a zařízení.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Výstup připravený pro tisk**  
+  Převést záznamy kontaktů do formátu PCL pro řízené tiskové workflow.
+
+* **Renderování kompatibilní s hardwarem**  
+  Podporovat systémy, které závisí na výstupu v jazyce tiskárny pro zpracování dokumentů.
+
+* **Provozní tiskové zpracování**  
+  Připravit kontaktní informace pro strukturované tiskové a distribuční prostředí.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované tiskové pipeline**  
+  Generovat soubory PCL z dat VCF pro rozsáhlé tiskové operace.
+
+* **Zařízení-orientované směrování dokumentů**  
+  Automaticky odesílat převedené výstupy do tiskových serverů a hardwarových workflow.
+
+* **Programová příprava tisku**  
+  Použít Python API k standardizaci výstupu kontaktů připravených pro tisk napříč systémy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

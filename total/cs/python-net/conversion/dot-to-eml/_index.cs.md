@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod DOT na EML převádí šablony pro zpracování textu do standardního formátu souboru e‑mailové zprávy, který je široce používán pro ukládání, přenos a archivaci e‑mailů. Je užitečný, když je třeba zachovat nebo sdílet obsah založený na dokumentech jako kompletní e‑mailový artefakt.
+
+S Python API lze tento převod začlenit do automatizovaných systémů, které generují přenositelné e‑mailové soubory z opakovaně použitelných šablon, přičemž zachovávají konzistenci a snižují čas potřebný na ruční přípravu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytvoření e‑mailového souboru**
+  Převést šablony DOT na soubory EML pro ukládání, revizi nebo distribuci.
+
+* **Archivace komunikace**
+  Zachovat korespondenci řízenou šablonami jako samostatné soubory e‑mailových zpráv.
+
+* **Přenos mezi systémy**
+  Vytvořit přenositelné e‑mailové výstupy, které lze přesouvat mezi kompatibilními poštovními prostředími.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované balení e‑mailů**
+  Pythonové pracovní toky mohou převádět dokumenty DOT na EML pro komunikaci generovanou systémem.
+
+* **Archivní pracovní toky**
+  Převod podporuje automatické zachování zpráv založených na dokumentech ve formě e‑mailových souborů.
+
+* **Hromadná příprava zpráv**
+  Programové zpracování umožňuje hromadný převod šablon na EML pro škálovatelné operace.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

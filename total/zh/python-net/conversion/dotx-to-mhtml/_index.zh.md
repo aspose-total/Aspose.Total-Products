@@ -53,7 +53,41 @@ outformat: MHTML
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX 到 MHTML 的转换将 Word 模板内容转换为一种网络归档格式，该格式将文本、布局和链接资源合并为单个文件。它对于在浏览器友好且自包含的结构中保留文档外观非常有用。
+
+此转换通过支持基于 Python 的便携式网页可视文档创建，帮助实现自动化，可对文档进行归档、共享或嵌入数字工作流，而无需依赖原始编辑工具。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **网页兼容归档**
+  在浏览器友好的单文件格式中保留文档内容。
+
+* **自包含共享**
+  将文本和资源打包在一起，以便更轻松地传输和存储。
+
+* **布局保留**
+  在便携式网络归档结构中保留文档呈现。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化网页归档生成**
+  在发布或保留流程中，将 DOTX 模板转换为 MHTML 文件。
+
+* **便携式内容交付**
+  在自动化通信系统中分发可网页查看的文档输出。
+
+* **归档标准化**
+  将基于模板的内容标准化为自包含文件，以实现可扩展的存储。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

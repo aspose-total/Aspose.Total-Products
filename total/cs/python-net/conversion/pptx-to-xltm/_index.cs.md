@@ -64,7 +64,47 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Slides for Python via 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX na XLTM konverze převádí obsah prezentace do formátu makro‑povolené šablony tabulky, který se používá pro opakovanou tvorbu sešitů. Je užitečná, když je třeba standardizovat data odvozená ze snímků do opakovaně použitelných šablon pro periodické reportování, zadávání dat nebo automatizované pracovní postupy s tabulkami.
+
+S Python API PPTX na XLTM konverze podporuje škálovatelnou automatizaci šablon kombinací extrahovaných dat z prezentace s opakovaně použitelnými strukturami tabulek. To zvyšuje konzistenci a efektivitu v prostředích, která závisí na generování sešitů založeném na šablonách a procesech řízených makry.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Makro‑povolené šablony tabulek**
+  Převést obsah snímků do opakovaně použitelných šablon sešitu určených pro automatizované použití.
+
+* **Opakující se struktury zpráv**
+  Vytvořit standardizované šablony tabulek pro opakované cykly reportování.
+
+* **Rámce pro zadávání dat**
+  Znovu použít rozvržení odvozené z prezentace v řízených pracovních postupech šablon tabulek.
+
+* **Operace založené na šablonách**
+  Podporovat konzistentní generování sešitů ze zdrojů obsahu prezentace.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná výroba šablon**
+  Převést soubory PPTX do šablon XLTM pro opakované vytváření tabulek.
+
+* **Standardizované pracovní postupy sešitů**
+  Použít opakovaně použitelné šablony k zajištění konzistence napříč automatizovanými datovými procesy.
+
+* **Dávková generace šablon**
+  Programově vytvořit více šablon tabulek z prezentačních aktiv.
+
+* **Systémy reportování řízené makry**
+  Integrovat převedené šablony do pracovních postupů, které vyžadují automatizované chování sešitu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 的 PCL 到 MBOX 转换可将打印机生成的文档转换为适合消息集合和长期存储的邮箱归档格式。这对于希望将基于文档的通信整合到可归档的邮件容器中的组织非常有用。
+
+通过自动化，PCL 到 MBOX 转换支持大批量处理、标准化保留以及更顺畅地将遗留输出迁移到结构化的归档工作流中。它有助于将以打印为中心的系统与现代归档和电子邮件管理实践相衔接。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **邮箱归档创建**  
+  将 PCL 内容转换为 MBOX 格式，以实现统一的消息存储。
+
+* **历史记录保存**  
+  支持将打印来源的通信归档到广泛使用的邮箱结构中。
+
+* **遗留输出迁移**  
+  帮助将基于打印机的文档迁移到电子邮件归档生态系统中。
+
+* **批量消息打包**  
+  能够将转换后的内容分组到基于容器的邮件归档中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化归档工作流**  
+  PCL 文件可以批量转换为 MBOX 归档，以用于保留和合规流程。
+
+* **遗留系统整合**  
+  自动化管道可以将打印输出集中到基于邮箱的存储库中。
+
+* **大批量记录转换**  
+  大量的 PCL 文档可以转换为 MBOX 文件，无需手动打包。
+
+* **编程化保留管道**  
+  转换后的归档可以直接移动到存储、索引或审计系统中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

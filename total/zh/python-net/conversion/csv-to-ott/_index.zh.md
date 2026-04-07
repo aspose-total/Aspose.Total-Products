@@ -66,7 +66,46 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 CSV 转换为 OTT 可将结构化表格数据转换为支持可重复和互操作文档创建的开放文档文本模板。  
+此转换通过从 CSV 源生成可重用的模板资产来支持自动化，提升开放文档环境中的标准化、速度和流程可扩展性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **开放模板创建**  
+  将 CSV 数据转换为 OTT 模板，以在开放格式工作流中实现可重用的文档结构。
+
+* **标准化文档框架**  
+  生成有助于在团队之间保持一致布局和内容组织的模板。
+
+* **互操作模板交付**  
+  为重视开放标准和灵活文档兼容性的工作流生成 OTT 文件。
+
+* **可重用的发布资产**  
+  将结构化 CSV 输入转换为基于模板的资源，以实现可扩展的文档生成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板生成**  
+  使用 Python API 从 CSV 数据集创建 OTT 模板，以实现可重复的文档工作流。
+
+* **开放格式内容管道**  
+  将 CSV 转 OTT 转换集成到自动准备可重用模板的系统中。
+
+* **批量模板处理**  
+  将多个 CSV 文件转换为具有一致格式和结构的 OTT 模板。
+
+* **动态模板组合**  
+  通过编程方式从变化的 CSV 内容组装 OTT 模板，以支持可扩展的自动化。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

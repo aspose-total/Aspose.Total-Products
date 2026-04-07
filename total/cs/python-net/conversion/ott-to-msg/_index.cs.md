@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod OTT na MSG v Python API transformuje šablony textových dokumentů OpenDocument na soubory zpráv používané v desktopových e‑mailových ekosystémech pro ukládání a výměnu. To je užitečné, když strukturovaný obsah dokumentu musí být přeměněn na znovupoužitelný e‑mailový artefakt místo obyčejného dokumentu.
+
+Tento převod podporuje automatizaci tím, že pomáhá týmům programově generovat soubory zpráv ze šablon pro revizi, archivaci nebo integraci do komunikačních pracovních toků ve velkém měřítku.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytvoření souboru zprávy**  
+  Převádí šablony dokumentů na strukturované e‑mailové soubory zpráv.
+
+* **Podpora komunikačních pracovních toků**  
+  Umožňuje opětovné použití obsahu dokumentu v prostředích zaměřených na e‑mail.
+
+* **Přenosné úložiště zpráv**  
+  Vytváří výstupy zpráv, které lze snadno uložit a přenést.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Hromadná generace zpráv**  
+  Vytváří mnoho MSG souborů ze standardizovaných OTT šablon.
+
+* **E‑mailové pracovní toky založené na schválení**  
+  Vytváří soubory zpráv, které lze přezkoumat před doručením nebo archivací.
+
+* **Systémová integrace**  
+  Propojuje pipeline generování dokumentů s procesy zpracování zpráv.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML в XLT преобразование преобразует структурированное содержимое документа в файлы шаблонов таблиц, которые служат повторно используемыми отправными точками рабочей книги. Это полезно, когда макеты данных, управляемые документом, или периодические отчёты требуют стандартизированных шаблонов таблиц.
+
+Python API поддерживают преобразование WordML в XLT, автоматизируя создание шаблонов и позволяя повторно генерировать таблицы из структурированных исходных документов.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые варианты использования" %}}
+
+* **Создание шаблона рабочей книги**
+  Преобразует содержимое WordML в файлы XLT для повторно используемых структур таблиц.
+
+* **Стандартизация периодических отчетов**
+  Помогает определить согласованные макеты рабочих книг на основе шаблонов документов.
+
+* **Согласованность процессов**
+  Поддерживает повторяемое создание таблиц из утверждённого исходного контента.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Рабочие процессы генерации шаблонов**
+  Автоматизирует создание XLT из отчетов WordML, форм или структурированных таблиц.
+
+* **Стандартизация производства таблиц**
+  Поддерживает команды, создающие периодические рабочие книги из общих шаблонов.
+
+* **Автоматизация макетов, управляемых документом**
+  Преобразует структурированное содержимое документа в повторно используемые основы таблиц.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

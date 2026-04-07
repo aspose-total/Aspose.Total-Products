@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod DOT na E‑MAIL promění šablony dokumentů na obsah připravený pro e‑mail, který lze použít v pracovních postupech zasílání zpráv a komunikačních systémech. To je důležité, když je potřeba, aby strukturované šablony sloužily jako znovupoužitelný odchozí obsah zpráv.
+
+Pomocí Python API mohou organizace automatizovat převod souborů DOT na výstupy kompatibilní s e‑mailem, což činí komunikační procesy efektivnějšími, opakovatelnými a snáze integrovatelnými do širších systémů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Zprávy založené na šablonách**
+  Převést obsah DOT do formátu e‑mail pro standardizované komunikační pracovní postupy.
+
+* **Opětovné využití obsahu napříč kanály**
+  Přetvořit šablony dokumentů na těla zpráv pro oznámení, výstrahy nebo korespondenci.
+
+* **Umožnění komunikace v pracovních postupech**
+  Připravit e‑mailové materiály ze šablon dokumentů pro provozní nebo transakční použití.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná generace zpráv**
+  Python skripty mohou převádět šablony DOT na e‑mailový obsah pro spouštěné komunikační toky.
+
+* **Potrubí převodu dokumentu na komunikaci**
+  Převod pomáhá propojit úložiště dokumentů s automatizačními systémy odchozích e‑mailů.
+
+* **Škálovatelné zpracování šablon**
+  Dynamické pracovní postupy mohou hromadně převádět více souborů DOT na výstupy připravené pro e‑mail.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

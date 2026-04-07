@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOCM إلى Excel يحول المستندات الممكّنة للماكرو إلى دفاتر عمل جاهزة للاستخدام في جداول البيانات، مما يسمح بتحليل محتوى المستند مثل الجداول والقوائم والسجلات وتحريره وإعادة استخدامه بشكل أكثر كفاءة. يكون ذلك ذا قيمة عندما يجب نقل بيانات الأعمال الملتقطة بصيغة DOCM إلى بيئات صديقة للحسابات.
+
+من أجل الأتمتة والقابلية للتوسع، تدعم سير عمل تحويل DOCM إلى Excel استخراجًا منظمًا، وأنابيب تقارير، وتحويلًا متكررًا لمحتوى المستند إلى جداول بيانات تشغيلية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تحليل قائم على جداول البيانات**
+  ينقل بيانات المستند إلى شكل دفتر عمل للفرز والتصفية والمراجعة.
+
+* **تقارير تشغيلية**
+  يحول المحتوى المنظم إلى جداول بيانات تُستخدم في عمليات التقارير المتكررة.
+
+* **إعادة استخدام البيانات**
+  يجعل المعلومات الموجودة في المستند أسهل في التحرير والتكامل عبر الفرق.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء دفاتر عمل دفعي**
+  يقوم تلقائيًا بتحويل ملفات DOCM متعددة إلى مخرجات جداول بيانات للمعالجة على نطاق واسع.
+
+* **تحضير التحليلات**
+  يُغذي البيانات المستخرجة من المستند إلى سير عمل جداول البيانات والتقارير المؤتمتة.
+
+* **تبادل البيانات المهيكلة**
+  يدعم التسليم البرمجي بين أنظمة المستندات والأدوات القائمة على جداول البيانات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

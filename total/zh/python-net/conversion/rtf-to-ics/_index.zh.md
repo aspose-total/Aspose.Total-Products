@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF 转换为 ICS 将格式化的文本文档转换为日历兼容的文件，这些文件可以表示事件、日程、提醒或预约数据。当文档中存储的日期和时间相关内容需要在日历系统中变为可操作时，这尤其有用。
+
+从自动化的角度来看，RTF 转换为 ICS 能够实现事件生成、调度工作流以及在团队、系统和业务流程之间高效分发可用于日历的信息。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **从文档创建事件**  
+  将会议记录或日程转换为可导入和共享的日历文件。
+
+* **提醒分发**  
+  帮助将基于日期的文档内容转化为可操作的日历条目。
+
+* **日程标准化**  
+  支持约会和时间线的一致格式，以便更广泛地复用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化预约生成**  
+  系统可以从 RTF 文件中提取日程数据，并在无需手动设置的情况下创建 ICS 条目。
+
+* **基于工作流的日历发布**  
+  编程式转换使计划、通知或日程能够以日历文件的形式分发。
+
+* **循环调度流水线**  
+  动态流程可以从常规文档源为团队和利益相关者生成日历输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu F
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FlatOPC na OFT konverze pomocí Python API pomáhá převádět strukturovaný obsah dokumentů do opakovatelně použitelných souborů šablon e‑mailů, které podporují konzistentní komunikaci a opakovatelný proces zasílání zpráv. To je důležité pro organizace, které chtějí standardizovat generování e‑mailů ze zdrojů založených na dokumentech při zachování formátování a struktury zprávy.
+
+Automatizace je vysoce relevantní, protože konverze na OFT umožňuje workflow řízené šablonami, rychlejší přípravu kampaní a opakovatelnou operativní komunikaci, aniž by bylo nutné ručně vytvářet obsah pro každý případ použití.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření opakovatelných šablon e‑mailů**  
+  Převést obsah FlatOPC do souborů OFT pro opakované použití ve standardizovaných workflow komunikace.
+
+* **Konzistentní formátování zpráv**  
+  Zachovat strukturovaný obsah ve formátu šablony, který podporuje jednotnou prezentaci napříč týmy.
+
+* **Návrh operativní komunikace**  
+  Použít výstup OFT pro opakované oznámení, interní aktualizace nebo procesně řízený kontakt.
+
+* **Vývoj knihovny šablon**  
+  Vytvořit sbírku opakovatelných e‑mailových šablon ze zdrojových dokumentů pro škálovatelné podnikové využití.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizace zpráv založená na šablonách**  
+  Automatizace vylepšuje tento scénář generováním OFT šablon ze zdrojů FlatOPC pro opakovaná workflow.
+
+* **Standardizované kanály komunikace**  
+  Téma zlepšuje automatizovaná workflow tím, že umožňuje konzistentní generování šablon pro opakující se komunikační úkoly.
+
+* **Dynamické naplňování šablon**  
+  Programové procesy mohou spojit OFT šablony s proměnnými daty pro podporu personalizované, automatizované komunikace.
+
+* **Centralizované operace komunikace**  
+  Automatizované systémy mohou spravovat tvorbu a opětovné použití šablon napříč více odděleními nebo procesními toky.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

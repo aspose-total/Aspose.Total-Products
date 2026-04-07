@@ -46,7 +46,53 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 的图像转 OST 转换支持将基于图像的通信记录转换为离线邮箱导向的数据结构，以实现受管访问和同步工作流。在需要保留视觉消息内容或为具备离线访问需求的邮箱导向环境准备数据的场景中，这非常有用。
+
+在现代自动化系统中，此转换有助于简化归档准备、结构化消息处理和批量内容组织。通过将图像衍生的信息与基于邮箱的存储工作流对齐，它促进了可扩展的通信管理。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **离线邮件数据准备**
+  将基于图像的通信内容转换为离线访问邮箱工作流使用。
+
+* **视觉记录保存**
+  将截图、扫描件或通知存储在邮箱式结构中，以便有序检索。
+
+* **邮箱迁移支持**
+  准备基于图像的通信内容，以便转移到受管邮件数据环境中。
+
+* **运营通信存储**
+  以符合邮箱处理需求的格式保留基于图像的消息材料。
+
+* **企业归档结构化**
+  在为受管电子邮件访问设计的数据集中组织视觉通信记录。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量邮件数据组装**
+  自动化作业可以将大批量图像输入转换为邮箱导向的输出，以用于存储工作流。
+
+* **迁移准备流水线**
+  可以转换遗留的视觉记录，以支持离线邮件数据的重新组织。
+
+* **面向保留的处理**
+  基于图像的通信记录可以自动结构化，以实现长期邮箱保留。
+
+* **集中式记录管理**
+  组织可以自动将视觉通信数据分组到基于邮箱的存储中。
+
+* **运营备份工作流**
+  图像内容可以纳入可重复的备份和恢复通信流程中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

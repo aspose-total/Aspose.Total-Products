@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod TSV na OTT transformuje tabulková data do souborů šablon otevřených dokumentů používaných pro standardizovanou tvorbu textových dokumentů. To je cenné, když je třeba strukturované vstupy sladit s opakovatelnými workflow založenými na šablonách v prostředí otevřených formátů.
+
+Pomocí Python API podporuje převod TSV na OTT automatizaci tím, že umožňuje opakovaně použitelné struktury dokumentů, snižuje opakovanou práci s formátováním a zlepšuje konzistenci ve škálovatelných publikačních systémech.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření otevřených šablon**  
+  Převádí obsah TSV do opakovaně použitelných šablon pro standardizované textové dokumenty.
+
+* **Konzistentní výroba dokumentů**  
+  Podporuje opakující se workflow, které se spoléhají na pevné struktury formátování.
+
+* **Dodávka obsahu založená na šablonách**  
+  Pomáhá organizacím převádět strukturované datové sady do opakovaně použitelných dokumentačních aktiv.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované workflow šablon**  
+  Python API mohou generovat výstupy kompatibilní s OTT ze strukturovaných souborů TSV.
+
+* **Opakovatelné systémy dokumentace**  
+  Automatizace zlepšuje konzistenci ve výrobě šablon v otevřených formátech.
+
+* **Vysokokapacitní převod šablon**  
+  Hromadné soubory TSV lze efektivně převést na výstupy OTT.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

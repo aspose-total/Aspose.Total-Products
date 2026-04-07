@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOT إلى FODS يغيّر قوالب المستندات إلى ملفات جدول بيانات OpenDocument مسطحة مناسبة لتبادل البيانات المفتوحة والمنظمة. هذا مفيد في البيئات التي تعطي أولوية للتنسيقات الشفافة والتشغيل البيني الواسع.
+
+باستخدام واجهات برمجة تطبيقات بايثون، يمكن للفرق أتمتة معالجة DOT إلى FODS لدعم سير العمل المفتوح، وتقليل التحويلات اليدوية، وتحسين الاتساق في تحويل المستندات الموجهة للبيانات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تصدير جدول بيانات مفتوح**
+  تحويل ملفات DOT إلى FODS للتعامل مع البيانات المنظمة في أنظمة المستندات المفتوحة.
+
+* **مشاركة بيانات قابلة للتشغيل البيني**
+  استخدام مخرجات جدول البيانات المسطحة لتبادل المعلومات المستندة إلى القوالب عبر الأنظمة.
+
+* **تخزين منظم قابل للقراءة**
+  الحفاظ على المحتوى المستخرج في تنسيق جدول بيانات مفتوح قائم على XML للصيانة وإعادة الاستخدام.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تكامل سير عمل مفتوح**
+  يمكن لأتمتة بايثون إنشاء ملفات FODS من قوالب DOT للمعالجة القائمة على المعايير.
+
+* **تحويل القوالب المجدول**
+  يمكن للوظائف المتكررة تصدير محتوى القالب إلى ملفات جدول بيانات مسطحة بأقل جهد.
+
+* **تحويل تنسيق مفتوح قابل للتوسع**
+  تساعد خطوط الأنابيب الديناميكية على توحيد عمليات التحويل الضخمة من المستند إلى FODS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

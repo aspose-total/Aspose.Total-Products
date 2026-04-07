@@ -65,7 +65,47 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 Word 转换为 PPSM 可实现将 Word 文档转换为支持宏的幻灯片文件，以便直接播放并具备高级演示行为。当文档内容必须成为可直接演示的文件且还支持嵌入的自动化或交互逻辑时，这非常有用。
+
+为了实现自动化和运营效率，此转换有助于从文本源材料创建动态幻灯片输出，支持大规模生成高级演示资产。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **宏启用幻灯片创建**
+  将文档转换为可直接播放且具备自动化功能的幻灯片文件。
+
+* **交互式演示交付**
+  支持依赖嵌入逻辑的高级演示工作流。
+
+* **运营简报自动化**
+  帮助为重复或受控的演示环境生成直接运行的幻灯片输出。
+
+* **动态内容复用**
+  通过使文档驱动更强大的幻灯片制品来扩展文档价值。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化高级幻灯片生成**
+  从 Word 文档生成 PPSM 文件，以实现具备逻辑的演示工作流。
+
+* **重复性演示流水线**
+  在可重复的业务流程中使用支持宏的幻灯片输出。
+
+* **受控播放工作流**
+  在需要时提供带嵌入自动化的直接运行演示。
+
+* **文档到动态演示的转换**
+  将文本源文件集成到交互式演示生产系统中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

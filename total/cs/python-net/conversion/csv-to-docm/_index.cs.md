@@ -65,7 +65,46 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+CSV to DOCM conversion using Python APIs enables structured tabular data to be transformed into macro-enabled word-processing documents that support advanced formatting and embedded automation behavior.
+Tento převod je pro automatizované systémy cenný, protože kombinuje transformaci dat s logikou dokumentu, což pomáhá pracovním postupům škálovat s menším ručním editováním a vyšší konzistencí procesů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Makro‑povolené reportování**  
+  Převést data CSV do souborů DOCM, když vygenerované dokumenty vyžadují vložené automatizační funkce nebo skriptované akce.
+
+* **Procesně orientovaná dokumentace**  
+  Vytvářet dokumenty DOCM, které kombinují strukturovaný obsah s opakovatelným chováním na straně dokumentu.
+
+* **Provozní balení dat**  
+  Transformovat datové sady CSV do makrem povolených souborů vhodných pro řízené obchodní workflow a interní zpracování.
+
+* **Znovupoužitelná automatizační dokumenty**  
+  Generovat opakovatelný výstup DOCM ze strukturovaného vstupu pro týmy, které se spoléhají na standardizované dokumentační rutiny.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované vyplňování formulářů**  
+  Použít Python API k převodu dat CSV do souborů DOCM, které podporují předpřipravené akce dokumentu a znovupoužitelnou logiku.
+
+* **Workflow‑integrovaná tvorba dokumentů**  
+  Automaticky generovat výstupy DOCM jako součást podnikových úloh, reportovacích systémů nebo procesů správy dokumentů.
+
+* **Dávková tvorba makro dokumentů**  
+  Převést velké kolekce souborů CSV do formátu DOCM pro škálovatelné a konzistentní automatizované doručení.
+
+* **Pravidly řízené sestavování obsahu**  
+  Dynamicky vytvářet dokumenty DOCM z CSV vstupu při zachování struktury připravené na automatizaci pro následné úkoly.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

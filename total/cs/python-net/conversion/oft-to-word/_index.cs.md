@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OFT na Word konverze pomocí Python API převádí šablony e‑mailů Outlook do editovatelných dokumentů pro zpracování textu pro širší obchodní využití. To je cenné, když je třeba obsah e‑mailu přetvořit do zpráv, formulářů nebo interních dokumentů, které vyžadují úpravy a spolupráci.
+
+V automatizovaných pracovních postupech OFT na Word konverze propojuje komunikační šablony se systémy zaměřenými na dokumenty, zlepšuje opětovné využití, konzistenci a efektivitu procesů. Podporuje škálovatelnou transformaci obsahu napříč provozními prostředími.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Převod obchodních dokumentů**  
+  Převést šablony OFT do dokumentů Word pro úpravy, revizi a distribuci.
+
+* **Spolupráce na úpravě obsahu**  
+  Umožnit týmům upravovat obsah pocházející z e‑mailů v dobře známém dokumentovém prostředí.
+
+* **Podpora standardních kancelářských pracovních postupů**  
+  Použít výstupy Wordu, když je potřeba, aby obsah šablony zapadl do běžných procesů dokumentace.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Hromadná konverze dokumentů**  
+  Automaticky převádět soubory OFT do dokumentů Word pro uspořádané následné zpracování.
+
+* **Integrace revizního pracovního postupu**  
+  Odesílat převedené soubory do systémů pro spolupráci na úpravách a schvalování bez ruční přípravy.
+
+* **Dynamické opětovné využití obsahu**  
+  Programově převádět obsah šablony na znovupoužitelné obchodní dokumenty napříč automatizovanými pipeline.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

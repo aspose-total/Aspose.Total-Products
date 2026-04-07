@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu R
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod RTF na OST mění dokumenty ve formátu Rich Text na offline datové struktury poštovní schránky používané v synchronizovaných poštovních prostředích. To může podpořit specializované scénáře migrace, úložiště nebo pracovních postupů, kde musí obsah dokumentu odpovídat offline zpracování pošty a požadavkům na místní přístup.
+
+Pro automatizaci pomáhá RTF na OST propojit obsah založený na dokumentech a procesy orientované na poštovní schránky, což umožňuje strukturovanou transformaci pro archivaci, podporu synchronizace a řízené pracovní postupy s komunikačními daty.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Příprava offline poštovního obsahu**  
+  Převádí obsah dokumentu do formátu sladěného s offline scénáři používání poštovní schránky.
+
+* **Asistence při migračních pracovních postupech**  
+  Pomáhá přetvořit textová komunikační data pro přechody poštovních prostředí.
+
+* **Strukturování záznamů pro místní přístup**  
+  Podporuje organizaci obsahu orientovaného na zprávy pro offline referenci a správu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná příprava poštovních dat**  
+  Systémy mohou převádět obsah RTF do struktur kompatibilních s poštovní schránkou pro řízené pracovní postupy.
+
+* **Procesy podpory synchronizace**  
+  Programová konverze pomáhá sladit obsah odvozený z dokumentu s požadavky na místní úložiště pošty.
+
+* **Pipelines pro uchovávání a migraci**  
+  Dávkové pracovní postupy mohou převádět připravený text do formátů vhodných pro přesun a úložiště poštovních dat.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

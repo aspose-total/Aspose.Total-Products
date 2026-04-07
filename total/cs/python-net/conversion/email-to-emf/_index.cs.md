@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu E
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod e‑mailu do EMF v Pythonu transformuje obsah zprávy na rozšířené metafile grafiky vhodné pro škálovatelné vektorové vykreslování v kancelářských a tiskových pracovních postupech. To je užitečné, když je potřeba vizuály e‑mailu vložit do dokumentů nebo prezentací s vysoce kvalitním vykreslením.
+
+Zvyšuje automatizaci tím, že převádí obsah e‑mailu na grafiku, kterou lze programově vložit do zpráv, záznamů a generovaných aktiv při zachování kvality prezentace.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vkládání grafiky do dokumentu**
+  Převést e‑maily na soubory EMF pro vložení do kancelářských dokumentů a zpráv.
+
+* **Příprava tisku ve vysoké kvalitě**
+  Použít rozšířené metafile, kde vizuály zprávy vyžadují čisté vykreslení v tiskových pracovních postupech.
+
+* **Opětovné využití obsahu prezentace**
+  Přetvořit snímky e‑mailu na grafiku ve slidech nebo materiálech návrhů.
+
+* **Škálovatelné archivování vizuálů**
+  Zachovat vzhled e‑mailu ve formátu vhodném pro opětovné použití napříč obchodními aktivy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná ilustrace zpráv**
+  Vložit EMF verze e‑mailů do generovaných dokumentů o shodě nebo projektových dokumentů.
+
+* **Výstup pracovního postupu založený na grafice**
+  Převést obsah zprávy na opakovaně použitelné vizuální komponenty pro kancelářskou automatizaci.
+
+* **Programové generování aktiv**
+  Vytvořit vysoce věrnou grafiku e‑mailů pro následné publikování a tiskové řetězce.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

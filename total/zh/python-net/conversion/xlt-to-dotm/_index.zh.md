@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLT 到 DOTM 的 Python 转换能够将 Excel 模板文件转换为宏启用的 Word 模板，这些模板结合了可重用的结构并支持高级文档行为。对于希望将电子表格模板转化为适用于可重复和可扩展文档工作流的智能 Word 模板的组织而言，这非常有用。
+
+对于自动化使用场景，XLT 到 DOTM 的转换有助于创建可扩展的模板资产，可集成到动态文档系统中。它支持结构化生成、重复复用，并能够在以文档为中心的环境中通过自动化逻辑扩展输出。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **宏启用模板创建**  
+  将 XLT 文件转换为 DOTM 模板，以实现具有高级功能潜力的可重用文档。
+
+* **智能文档框架**  
+  从电子表格来源构建 Word 模板资产，以实现结构化和可重复的内容创建。
+
+* **工作流模板现代化**  
+  用适合更丰富流程集成的 Word 模板替代仅限电子表格的模板。
+
+* **自动化就绪的可复用文件**  
+  准备支持通过脚本或引导行为进行未来增强的文档模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **动态模板库**  
+  从 XLT 模板生成 DOTM 文件，以用于集中化和自动化的文档创建系统。
+
+* **可重复流程文档自动化**  
+  使用 Python API 创建可复用的宏启用模板，以用于重复的运营文档。
+
+* **基于模板的内容引擎**  
+  将转换后的 DOTM 资产集成到程序化填充和分发文档的系统中。
+
+* **传统到智能模板迁移**  
+  将传统电子表格模板转换为灵活的 Word 模板，以实现可扩展的自动化。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

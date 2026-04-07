@@ -46,7 +46,44 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOCX إلى ICS يحول المعلومات المستندة إلى المستندات إلى ملفات أحداث تقويم تتبع معيار iCalendar. يتيح هذا التحويل تحويل معلومات الجدولة المخزنة في المستندات إلى صيغ متوافقة مع التقويم.
+
+تمكن واجهات برمجة التطبيقات (APIs) بلغة بايثون من استخراج بيانات الأحداث تلقائيًا من المستندات وإنشاء ملفات ICS، مما يدعم أنظمة الجدولة الآلية وتكاملات التقويم.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **استخراج جدولة الأحداث**  
+  يحول تفاصيل الأحداث المستندة إلى المستندات إلى أحداث تقويم.
+
+* **تدفقات عمل تكامل التقويم**  
+  يتيح استيراد جداول المستندات إلى أنظمة التقويم.
+
+* **أتمتة الاجتماعات والأحداث**  
+  يسهل إنشاء أحداث التقويم تلقائيًا من المستندات.
+
+* **أنظمة توزيع الجداول**  
+  يسمح للمستندات التي تحتوي على معلومات الأحداث بإنشاء ملفات تقويم.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء ملفات الأحداث تلقائيًا**  
+  يمكن للأنظمة تحويل جداول أحداث DOCX إلى ملفات ICS تلقائيًا.
+
+* **خطوط أنابيب الجدولة المستندة إلى المستندات**  
+  يمكن لأتمتة بايثون إنشاء إدخالات تقويم من المستندات.
+
+* **تكامل تقويم المؤسسات**  
+  يمكن تحويل بيانات المستندات إلى ملفات ICS للجدولة الآلية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

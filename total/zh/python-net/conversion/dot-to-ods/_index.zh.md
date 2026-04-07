@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT 到 ODS 的转换将文字处理模板转换为 OpenDocument 电子表格，以实现结构化数据处理和开放工作流兼容性。当文档内容必须转移到支持分析、跟踪或报告的电子表格格式时，这一点尤为重要。
+
+Python API 允许将 DOT 到 ODS 的转换自动化，使团队能够快速且一致地将文档转换为开放的电子表格资产。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **生成开放电子表格**
+  将 DOT 文件转换为 ODS，以便进行以数据为中心的审查和操作。
+
+* **模板数据结构化**
+  将可重用的文档内容转移到电子表格形式，以供运营使用。
+
+* **跨平台交换**
+  以适用于多种环境的开放格式共享提取的信息。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化电子表格工作流**
+  Python 脚本可以在计划的流水线中将 DOT 模板转换为 ODS 文件。
+
+* **开放数据集成**
+  转换支持依赖开放电子表格格式进行处理的系统。
+
+* **批量文档转换**
+  编程自动化有助于高效地从大量模板生成 ODS 输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

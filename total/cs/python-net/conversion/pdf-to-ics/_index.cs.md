@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PDF na převod do formátu ICS pomocí Python API umožňuje uživatelům extrahovat nebo reprezentovat informace o rozvrhu uložené v PDF ve formátu přátelském kalendáři. To je užitečné, když je třeba převést podrobnosti událostí uložené v PDF dokumentech do digitálních kalendářových záznamů pro plánování a koordinaci.
+
+Automatizace přináší významnou hodnotu tím, že snižuje ruční vytváření kalendářů a podporuje přesné plánování napříč týmy a systémy. Pomáhá organizacím integrovat data o datech a událostech z dokumentů do škálovatelných pracovních postupů, připomínkových a plánovacích prostředí.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Převod rozvrhu událostí**  
+  Převádějte rozvrhy v PDF do souborů ICS pro snadnější import do kalendáře a sdílení.
+
+* **Extrahování schůzek a termínů**  
+  Převádějte podrobnosti událostí z dokumentů do strukturovaných kalendářových záznamů.
+
+* **Podpora plánovacích pracovních postupů**  
+  Používejte soubory ICS odvozené z PDF k koordinaci časových os, sezení nebo termínů.
+
+* **Distribuce kalendáře**  
+  Sdílejte informace o událostech z PDF v univerzálně použitelné kalendářové formě.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované generování událostí**  
+  Python skripty mohou detekovat plánovací data v PDF a automaticky vytvářet soubory ICS.
+
+* **Integrace připomínkových pracovních postupů**  
+  Převedené kalendářové soubory mohou napájet systémy připomínek a plánovací nástroje.
+
+* **Hromadné zpracování rozvrhů**  
+  Organizace mohou hromadně převádět více dokumentů událostí do výstupů připravených pro kalendář.
+
+* **Dynamické publikování kalendáře**  
+  Systémy mohou kontinuálně generovat soubory ICS z přicházejících rozvrhů ve formátu PDF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

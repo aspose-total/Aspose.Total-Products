@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل FODS إلى OTT يحول ملفات جداول البيانات المفتوحة المستوية (OpenDocument) إلى قوالب نصية من نوع OpenDocument، مما يسمح للبيانات المصدرية المهيكلة بدعم تخطيطات مستندات قابلة لإعادة الاستخدام في بيئات معيارية مفتوحة. وهذا ذو قيمة للمنظمات التي تحتاج إلى قوالب مستندات متسقة دون الاعتماد على صيغ مملوكة.
+
+في سياقات الأتمتة، يتيح تحويل FODS إلى OTT توليد مستندات متكرر، وإدارة قوالب فعّالة، وتدفقات عمل قابلة للتوسع بصيغ مفتوحة. تجعل واجهات برمجة التطبيقات (APIs) للبايثون من العملي أتمتة إنشاء القوالب من البيانات المهيكلة ودمج هذه العملية في أنظمة محتوى أوسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء القالب المفتوح**  
+  تحويل محتوى FODS إلى ملفات OTT لإنشاء قوالب مستندات نصية قابلة لإعادة الاستخدام.
+
+* **تخطيطات المستندات المعيارية**  
+  بناء هياكل قوالب متسقة للمستندات التجارية والعملياتية المتكررة.
+
+* **أصول بصيغة مفتوحة قابلة لإعادة الاستخدام**  
+  إنشاء ملفات قوالب تدعم إنشاء محتوى متكرر في أنظمة المستندات المفتوحة.
+
+* **أطر توثيق العمليات**  
+  استخدام مخرجات OTT كنقاط انطلاق قابلة لإعادة الاستخدام لتدفقات عمل التوثيق المستمرة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط أنابيب أتمتة القوالب**  
+  يمكن لسكربتات بايثون تحويل ملفات FODS إلى قوالب OTT لتوليد مستندات متكررة.
+
+* **إنتاج القوالب بالجملة**  
+  يمكن للأنظمة المؤتمتة إنشاء قوالب بصيغة مفتوحة متعددة من مصادر جداول البيانات المهيكلة.
+
+* **إدارة المخرجات المتسقة**  
+  يمكن لتدفقات عمل التحويل فرض تخطيطات معيارية عبر مهام التوثيق المتكررة.
+
+* **تدفقات عمل أتمتة محمولة**  
+  يدعم تحويل OTT عمليات المستندات القابلة للتوسع في بيئات تركز على المعايير المفتوحة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

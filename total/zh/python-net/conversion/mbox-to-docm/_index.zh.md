@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX 到 DOCM 转换将邮箱存档转换为支持宏的 Word 文档，使电子邮件内容能够以支持高级文档工作流的格式保存。当转换后的文件必须与依赖嵌入式自动化或自定义逻辑的文档系统保持兼容时，这非常有用。
+
+使用 Python API，团队可以自动化 MBOX 到 DOCM 的转换，以简化邮件存档处理，支持基于模板的工作流，并为以文档为中心的操作生成结构化输出。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **支持宏的文档工作流**
+  将电子邮件内容导出为 DOCM 文件，以供使用自动化文档行为的系统使用。
+
+* **结构化邮件内容复用**
+  以适合高级编辑和受控处理的格式保存消息。
+
+* **运营文档打包**
+  为围绕 Word 自动化功能构建的环境准备来源于电子邮件的文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **基于模板的邮件导出**
+  将邮箱条目转换为符合内部文档工作流的 DOCM 输出。
+
+* **自动化 Office 处理**
+  将转换后的电子邮件文档输入到脚本化的审查和格式化流水线中。
+
+* **可扩展的存档转换**
+  使用 Python 批量将 MBOX 内容转换为支持宏的文档资产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

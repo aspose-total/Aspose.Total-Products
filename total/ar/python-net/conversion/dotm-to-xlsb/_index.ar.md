@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOTM إلى XLSB يحول قوالب Word الممكّنة بالماكرو إلى ملفات دفتر عمل Excel ثنائية تكون فعّالة في التخزين والأداء في سير عمل يعتمد بشكل كبير على الجداول. يكون ذلك ذا قيمة عندما يجب الحفاظ على بيانات المستند المستخرجة في تنسيق مضغوط وجاهز للجداول.
+
+استخدام واجهات برمجة تطبيقات Python لتحويل DOTM إلى XLSB يدعم الأتمتة من خلال إنشاء مخرجات دفتر عمل فعّالة من القوالب المستندية المتكررة. هذا يحسن المعالجة على نطاق واسع، يقلل من عبء الملفات، ويدعم خطوط أنابيب قوية من المستند إلى البيانات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء دفتر عمل مضغوط**
+  تحويل محتوى DOTM إلى XLSB لتخزين فعّال ومعالجة الجداول.
+
+* **تصدير بيانات عالي الحجم**
+  استخدام مخرجات دفتر عمل ثنائي عند معالجة مجموعات بيانات مستندة إلى مستندات متعددة.
+
+* **سير عمل جداول موجه للأداء**
+  الحفاظ على المحتوى المستخرج في تنسيق مناسب لحالات الاستخدام الكبيرة للجدول التشغيلي.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء دفتر عمل ثنائي مؤتمت**
+  يمكن للأنظمة تحويل قوالب DOTM إلى ملفات XLSB لسير عمل فعال في التخزين.
+
+* **خطوط أنابيب جداول قابلة للتوسع**
+  يدعم التحويل إنشاء أصول دفتر عمل على نطاق واسع من المستندات المهيكلة.
+
+* **معالجة كفاءة الدفعات**
+  تمكن الوظائف البرمجية من تحويل سريع لعدة ملفات DOTM إلى مخرجات XLSB.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

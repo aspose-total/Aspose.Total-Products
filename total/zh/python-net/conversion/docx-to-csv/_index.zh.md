@@ -66,7 +66,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+将 DOCX 转换为 CSV 的文档转换能够将文字处理文档中的结构化数据提取为适合表格处理和分析的格式。此转换帮助组织将存储在 DOCX 文件中的文本报告、表格和结构化信息转换为 CSV 文件，便于数据库、电子表格和数据管道轻松处理。
+
+使用 Python API，DOCX 到 CSV 的转换可以集成到处理大量文档的自动化工作流中。这种方法支持可扩展的数据处理系统、自动化报告管道以及在企业内容转换中需要以编程方式提取结构化数据的场景。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **从文档中提取结构化数据**  
+  将 DOCX 文件中的表格或结构化信息转换为 CSV 格式，以用于分析和数据处理。
+
+* **为数据库准备数据**  
+  使文档数据能够导入到数据库、电子表格或数据仓库中。
+
+* **文档到电子表格的工作流**  
+  促进基于文本的文档转换为机器可读的表格格式。
+
+* **内容迁移与归档**  
+  帮助将旧版 DOCX 文档转换为轻量级 CSV 文件，以便长期存储和分析。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化数据管道集成**  
+  上传到系统的 DOCX 文件可以自动转换为 CSV 并由分析或报告工具处理。
+
+* **批量文档处理系统**  
+  基于 Python 的自动化脚本可以在无需人工干预的情况下将数千个 DOCX 文档转换为 CSV 格式。
+
+* **企业报告工作流**  
+  从 DOCX 报告中提取的数据可以自动转换为 CSV，以便与仪表板和商业智能系统集成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

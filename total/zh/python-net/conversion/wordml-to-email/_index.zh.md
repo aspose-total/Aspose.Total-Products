@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML 到电子邮件的转换将文档内容转换为可用于通信工作流、模板化消息和内容再利用的电子邮件就绪输出。当文档文本需要成为可分发的电子邮件内容而无需手动重写时，这一功能非常有价值。
+
+借助 Python API，WordML 到电子邮件的转换可以实现自动化，提取正文文本，在相关情况下保留结构，并简化文档到消息的工作流，以用于通知、活动和运营通信。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **内容再利用**
+  将文档文本转换为可用于通信场景的电子邮件就绪内容。
+
+* **模板生成**
+  使用 WordML 文档作为一致的外发消息的源材料。
+
+* **运营消息**
+  帮助将内部或生成的文档转化为结构化的电子邮件通信。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **文档到消息管道**
+  自动将 WordML 文件转换为外发系统的电子邮件内容。
+
+* **通知工作流支持**
+  实现从标准化文档源动态生成电子邮件正文。
+
+* **大规模通信自动化**
+  在定期报告、更新或基于文档的警报中扩展消息创建的规模。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

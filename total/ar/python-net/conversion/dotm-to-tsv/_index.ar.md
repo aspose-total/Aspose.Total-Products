@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOTM إلى TSV يحول قوالب Word الممكّنة بالماكرو إلى قيم مفصولة بفواصل جدولة لتبادل البيانات المنظمة والنظيفة والتحليل. يكون ذلك ذا قيمة عندما يجب تصدير محتوى القالب إلى تنسيق نصي بسيط يتعامل مع البيانات الجدولية بوضوح وكفاءة.
+
+استخدام واجهات برمجة تطبيقات Python لتحويل DOTM إلى TSV يدعم الأتمتة من خلال تمكين استخراج متكرر للمحتوى المنظم من المستندات إلى مجموعات بيانات خفيفة الوزن. هذا يحسن التكامل مع خطوط أنابيب ETL، وأنظمة التحليل، وسير عمل المعالجة ذات الحجم الكبير.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تصدير البيانات المنظمة**
+  تحويل محتوى DOTM إلى TSV لنقل نظيف للمعلومات الجدولية.
+
+* **تحضير التحليل**
+  نقل البيانات المستندة إلى المستندات إلى تنسيق مناسب للبرمجة النصية والتحليل والاستيعاب الجماعي.
+
+* **تبادل نصي قابل للتشغيل البيني**
+  استخدام TSV عندما تتطلب سير العمل مخرجات منظمة بسيطة مع حد أدنى من عبء التنسيق.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **استخراج البيانات المؤتمت**
+  يمكن لسير العمل تحويل قوالب DOTM إلى ملفات TSV للمعالجة اللاحقة دون إدخال يدوي.
+
+* **تحويل صديق للخطوط الأنابيب**
+  يدعم التحويل الأنظمة المؤتمتة التي تفضّل تنسيقات تبادل جدولية خفيفة الوزن.
+
+* **إنشاء مجموعة بيانات دفعي**
+  تمكن الوظائف البرمجية من تحويل عدد كبير من ملفات DOTM إلى مخرجات TSV بشكل قابل للتوسع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

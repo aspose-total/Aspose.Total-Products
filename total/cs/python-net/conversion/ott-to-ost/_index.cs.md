@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod OTT na OST v Python API transformuje šablony textu OpenDocument do offline datových struktur poštovní schránky, které se používají v scénářích synchronizovaného ukládání e‑mailů. To je relevantní tam, kde musí generovaný komunikační obsah odpovídat pracovním postupům orientovaným na poštovní schránky a požadavkům na úložiště.
+
+Převod podporuje automatizaci propojením generování zpráv na základě dokumentů s offline přístupem, přípravou archivace a procesy řízení komunikace, které se opírají o strukturovaná data poštovní schránky.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Příprava offline poštovních dat**  
+  Podporuje pracovní postupy, které používají synchronizované úložiště ve stylu poštovní schránky.
+
+* **Balení generované komunikace**  
+  Převádí obsah šablony do výstupu orientovaného na poštovní schránku.
+
+* **Podpora archivace a přístupu**  
+  Pomáhá zachovat komunikační data pro scénáře offline zpracování.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované sestavení poštovních dat**  
+  Vytváří výstupy kompatibilní s OST z dokumentových šablon.
+
+* **Podnikové archivní pipeline**  
+  Integruje generovanou komunikaci do řízených pracovních postupů úložiště.
+
+* **Hromadné zpracování komunikace**  
+  Rozšiřuje transformaci obsahu OTT do struktur připravených pro poštovní schránku.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

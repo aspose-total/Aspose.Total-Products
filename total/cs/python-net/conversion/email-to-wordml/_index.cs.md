@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu E
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod e‑mailů do WordML v Pythonu převádí zprávy na obsah založený na XML pro zpracování textu ve Wordu, což umožňuje strukturovanou interoperabilitu dokumentů a transformaci. Je užitečný, když je třeba zpracovávat dokumenty odvozené z e‑mailů v systémech, které upřednostňují explicitní značkování a programovou kontrolu.
+
+To podporuje automatizaci tím, že usnadňuje kontrolu, transformaci, validaci a integraci obsahu zpráv do publikování orientovaného na XML nebo podnikových pracovních postupů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování strukturovaných XML dokumentů**
+  Převádějte e‑mailové zprávy do WordML pro workflow založené na značkování dokumentů.
+
+* **Interoperabilita se systémy XML**
+  Vyměňujte obsah odvozený ze zpráv prostřednictvím platforem, které spoléhají na strukturované XML.
+
+* **Detailní zpracování obsahu**
+  Prohlížejte a manipulujte s prvky dokumentu generovanými z e‑mailových zpráv.
+
+* **Schématicky orientovaná transformace**
+  Připravte obsah e‑mailu pro řetězce konverzí vyžadující explicitní XML strukturu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Pipelines pro transformaci XML**
+  Převádějte e‑mailové zprávy do WordML a aplikujte automatizované transformace obsahu.
+
+* **Pracovní postupy zaměřené na validaci**
+  Kontrolujte strukturu a vynucujte obchodní pravidla v XML dokumentech odvozených z e‑mailů.
+
+* **Automatizace publikování a výměny**
+  Směřujte strukturované výstupy do podnikových dokumentových a publikačních systémů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

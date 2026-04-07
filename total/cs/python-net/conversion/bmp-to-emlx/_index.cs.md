@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu B
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konverze BMP na EMLX umožňuje začlenit soubory bitmapových obrázků do formátu e‑mailu EMLX, který je běžně používán v některých systémech pro ukládání pošty. Tento formát umožňuje strukturované ukládání e‑mailových zpráv, které obsahují obsah založený na obrázcích.
+
+Automatizované konverzní pracovní postupy pomáhají systémům generovat soubory EMLX z BMP obrázků pro archivaci, indexování a integraci s platformami pro ukládání e‑mailů. To podporuje škálovatelné řízení zpráv v rámci automatizované infrastruktury.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Kompatibilita s úložištěm e‑mailů**  
+  Obrázky BMP lze uložit jako zprávy EMLX pro kompatibilitu s konkrétními systémy úložiště pošty.
+
+* **Automatizované archivní systémy**  
+  Systémy pro správu dokumentů mohou převádět obrázky do formátu EMLX pro strukturované uchovávání.
+
+* **Vizuelní záznamy zpráv**  
+  Organizace mohou zachovat vizuální komunikaci v úložných formátech založených na e‑mailu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná tvorba poštovní schránky**  
+  Systémy generují soubory EMLX z BMP obrázků pro automatizované vytváření poštovní schránky.
+
+* **Hromadné zpracování e‑mailových záznamů**  
+  Pracovní postupy převádějí velké sady BMP dokumentů do souborů EMLX pro indexování a ukládání.
+
+* **Programové vytváření e‑mailových souborů**  
+  Aplikace dynamicky generují zprávy EMLX obsahující přílohy s obrázky.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

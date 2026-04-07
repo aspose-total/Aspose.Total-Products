@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOCM إلى XLTM يحول المستندات التي تدعم الماكرو إلى قوالب جداول بيانات تدعم الماكرو، مع دمج بنية دفتر العمل القابلة لإعادة الاستخدام مع سلوك آلي متقدم. هذا مفيد للمنظمات التي تحتاج إلى كل من الاتساق ومنطق جداول البيانات المدمج في قوالبها.
+
+من أجل الأتمتة والقدرة على التوسع، يدعم تحويل DOCM إلى XLTM إنشاء دفاتر عمل قابلة للتكرار مستندة إلى القوالب مع الحفاظ على القدرات الديناميكية المطلوبة لتدفقات عمل جداول البيانات المعقدة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء قالب يدعم الماكرو**
+  ينتج قوالب جداول بيانات قابلة لإعادة الاستخدام تتضمن سلوكًا جاهزًا للأتمتة.
+
+* **تدفقات عمل متقدمة قابلة لإعادة الاستخدام**
+  يدعم إنشاء دفاتر عمل متكررة مع منطق مدمج أو إجراءات مكتوبة.
+
+* **التوحيد مع المرونة**
+  يساعد على الحفاظ على قوالب متسقة دون فقدان وظائف جداول البيانات المتقدمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **دعم خط أنابيب القالب المؤتمت**
+  يحوّل ملفات DOCM إلى مخرجات XLTM لتوليد دفاتر عمل متكررة.
+
+* **إعادة استخدام المنطق المدمج**
+  يُمكّن تدفقات العمل اللاحقة من استخدام قوالب متسقة مع سلوك متقدم.
+
+* **توفير جداول بيانات قابل للتوسع**
+  يدعم توزيعًا واسع النطاق للقوالب التي تدعم الماكرو عبر العمليات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu E
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Email to DOCM conversion in Python makes it possible to convert messages into macro-enabled Word documents for advanced document workflows. This format is useful when converted email content must enter environments that rely on embedded automation or document scripting.
+
+It strengthens automation by allowing email-derived documents to integrate with macro-driven review, enrichment, and document handling processes in enterprise systems.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Macro-Enabled Document Processing**
+  Convert emails into DOCM files for workflows that depend on automated document actions.
+
+* **Structured Review Operations**
+  Use converted messages in controlled environments where templates and macros support validation or formatting.
+
+* **Enterprise Document Pipelines**
+  Insert email content into operational files that trigger downstream scripted behavior.
+
+* **Process Standardization**
+  Maintain consistency when email-derived documents must align with macro-enabled office workflows.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Scripted Document Enrichment**
+  Convert emails to DOCM and apply macros to add metadata, headers, or classifications automatically.
+
+* **Workflow-Based File Preparation**
+  Feed email content into macro-enabled templates for internal processing and routing.
+
+* **Automated Record Formatting**
+  Use document scripts to standardize email-derived content across large repositories.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

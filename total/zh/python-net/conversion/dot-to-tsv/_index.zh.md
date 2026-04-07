@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT 转 TSV 转换将文档模板转换为简单、可移植且易于处理的制表符分隔数据文件。当需要以基于分隔符的格式导出结构化模板内容以实现可靠的数据交换时，这非常有价值。
+
+使用 Python API，DOT 到 TSV 的工作流可以实现自动化，以支持清晰的数据提取、系统互操作性以及可扩展的文档到数据的处理。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **结构化文本导出**
+  将 DOT 文件转换为 TSV，以实现干净的基于分隔符的数据处理。
+
+* **系统友好型数据交换**
+  在需要使用制表符进行可预测字段分隔的场景中使用 TSV 输出。
+
+* **模板内容提取**
+  将文档信息重新用于脚本和运营工具的简易格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化数据提取**
+  Python 脚本可以将 DOT 模板转换为 TSV 文件，以用于重复的处理任务。
+
+* **ETL 工作流支持**
+  转换有助于将模板衍生的数据输送到流水线和集成系统中。
+
+* **可扩展的基于文本的导出**
+  编程式转换使得能够从文档库中大批量生成 TSV。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

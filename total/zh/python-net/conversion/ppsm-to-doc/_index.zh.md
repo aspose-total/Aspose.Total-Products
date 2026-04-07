@@ -66,7 +66,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPSM 转 DOC 转换在 Python 中支持将启用宏的幻灯片内容转换为可编辑的文档格式，以便进行更广泛的文本审阅、归档和再利用。当需要将演示材料重新用于叙事文档或转换为更适合正式文本编辑的格式时，这非常有用。
+
+从自动化的角度来看，PPSM 转 DOC 工作流提升了内容可移植性，减少手动重写，并实现了跨企业内容管道的演示资产的可扩展文档生成。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **演示文稿转文档再利用**  
+  将基于幻灯片的材料转换为可编辑的文本文档，以满足文档编写和沟通的需求。
+
+* **内容审阅工作流**  
+  使幻灯片内容在文字处理环境中更易于审阅、注释和修订。
+
+* **归档格式适配**  
+  支持在偏好基于文档的存储的传统文档保留流程。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自动化文档生成**  
+  Python 工作流可以将 PPSM 文件转换为 DOC 文件，以实现可重复的文档创建过程。
+
+* **内容迁移管道**  
+  转换有助于将信息从演示库迁移到文档管理系统。
+
+* **模板驱动的发布**  
+  编程处理能够生成用于内部记录或编辑工作流的格式化文档输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

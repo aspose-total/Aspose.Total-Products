@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX to XLS conversion transforms Word template content into a traditional spreadsheet format for tabular editing, review, and compatibility with older spreadsheet workflows. It is useful when template-derived data must be reused in broadly recognized spreadsheet environments.
+
+Using Python APIs, this conversion enables scalable automation for reporting, data handoff, and structured content transformation across document-heavy systems.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Výstup ze starší tabulky**
+  Convert document content into a familiar spreadsheet format for established workflows.
+
+* **Opětovné použití tabulkových dat**
+  Move structured template information into editable spreadsheet form.
+
+* **Příprava reportování**
+  Support operational and analytical review using spreadsheet-based tools.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná generace tabulek**
+  Produce XLS files from DOTX templates as part of recurring reporting jobs.
+
+* **Převod dokumentu do tabulky**
+  Route template content into spreadsheet workflows programmatically.
+
+* **Dodávka dat zaměřená na kompatibilitu**
+  Generate outputs suited to environments that still rely on older spreadsheet formats.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

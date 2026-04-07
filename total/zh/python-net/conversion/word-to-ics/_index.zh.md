@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 的 Word 转换为 ICS 功能将文档内容转换为日历兼容的文件，这些文件可以表示日程、会议、截止日期或事件数据。当需要在日历系统中重复使用 Word 编写的议程、计划或通知，以便更容易进行协调和安排时，这一点尤为重要。
+
+在自动化工作流中，此转换使文档能够成为可操作的日程资产，帮助团队从静态的计划内容转向动态的日历分发和基于时间的流程集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **日程发布**
+  将文档中的日期和时间内容转换为日历导入文件。
+
+* **会议和事件分发**
+  使基于 Word 编写的计划更容易通过日历兼容的渠道进行共享。
+
+* **截止日期管理**
+  将记录的时间线转换为结构化的事件记录以便跟踪。
+
+* **运营规划**
+  连接叙事式的日程信息与机器可读的日历系统。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自动日历文件创建**
+  从基于 Word 的日程生成 ICS 文件，以便分发和导入。
+
+* **事件工作流集成**
+  在里程碑完成时，将已批准的计划转换为日历制品。
+
+* **循环规划流水线**
+  大规模地将会议记录或议程处理为结构化的日程输出。
+
+* **通知和提醒支持**
+  使用 ICS 输出触发基于日历的协调和后续流程。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

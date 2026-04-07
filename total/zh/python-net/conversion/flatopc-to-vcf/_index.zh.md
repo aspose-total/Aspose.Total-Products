@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FlatOPC 到 VCF 的转换使用 Python API，使得将结构化文档内容转换为支持联系人共享、导入和同步的数字名片文件成为可能。当源文档包含需要在联系人管理和通信系统中重复使用的个人或组织详细信息时，这尤其有用。
+
+此转换与自动化高度相关，因为它使系统能够以编程方式提取并标准化联系人数据，提升数据一致性，减少手动输入，并支持可扩展的 CRM 和目录工作流。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **联系人卡片生成**  
+  将 FlatOPC 内容转换为 VCF 文件，以实现便携且标准化的联系人共享。
+
+* **目录数据提取**  
+  使用转换将基于文档的联系人详细信息转换为可重复使用的数字记录。
+
+* **联系人导入工作流**  
+  准备 VCF 输出，以便轻松导入到通讯录、目录和通信平台中。
+
+* **结构化身份管理**  
+  在为联系人处理而构建的格式中，保留源文档中的个人和组织信息。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化联系人创建**  
+  自动化通过从 FlatOPC 文档中提取联系人详细信息并生成 VCF 文件来改进此场景。
+
+* **CRM 与目录同步**  
+  该主题通过将标准化的联系人卡片输入到客户或员工数据系统中，提升自动化工作流。
+
+* **批量联系人导出**  
+  编程过程可以从文档库中生成大量 VCF 文件，几乎无需人工操作。
+
+* **动态入职流水线**  
+  自动化系统可以在入职、活动或客户设置流程中创建并分发联系人文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

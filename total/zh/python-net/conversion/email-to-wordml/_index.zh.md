@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python 中的 Email 到 WordML 转换将邮件转换为基于 XML 的 Word 处理内容，以实现结构化文档的互操作性和转换。当需要在偏好显式标记和程序化控制的系统中处理来源于邮件的文档时，这非常有用。
+
+通过使邮件内容更易于检查、转换、验证并集成到面向 XML 的出版或企业工作流中，这有助于实现自动化。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **结构化 XML 文档生成**
+  将电子邮件转换为 WordML，以用于基于标记的文档工作流。
+
+* **与 XML 系统的互操作性**
+  通过依赖结构化 XML 的平台交换来源于邮件的内容。
+
+* **细粒度内容处理**
+  检查并操作由邮件生成的文档元素。
+
+* **面向模式的转换**
+  为需要显式 XML 结构的转换链准备邮件内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **XML 转换流水线**
+  将电子邮件转换为 WordML 并应用自动化内容转换。
+
+* **以验证为中心的工作流**
+  检查结构并在来源于邮件的 XML 文档上强制执行业务规则。
+
+* **出版与交换自动化**
+  将结构化输出路由到企业文档和出版系统。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

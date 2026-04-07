@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu W
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod Wordu do formátu ICS pomocí Python API převádí obsah dokumentu do souborů kompatibilních s kalendářem, které mohou představovat rozvrhy, schůzky, termíny nebo údaje o událostech. To je důležité, když je třeba znovu použít agendy, plány nebo oznámení vytvořené ve Wordu v kalendářových systémech pro snazší koordinaci a plánování.
+
+V automatizačních pracovních postupech tento převod umožňuje, aby se dokumenty staly použitelnými plánovacími aktivy, což pomáhá týmům přejít od statického plánovacího obsahu k dynamické distribuci kalendářů a integraci procesů založených na čase.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Publikování rozvrhu**
+  Převádí obsah dokumentů založený na datech a čase do souborů pro import do kalendáře.
+
+* **Distribuce schůzek a událostí**
+  Umožňuje snadnější sdílení plánů vytvořených ve Wordu prostřednictvím kanálů kompatibilních s kalendářem.
+
+* **Řízení termínů**
+  Přetváří zdokumentované časové osy do strukturovaných záznamů událostí pro sledování.
+
+* **Provozní plánování**
+  Propojuje narativní plánovací informace a strojově čitelné kalendářové systémy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatické vytváření kalendářových souborů**
+  Generuje soubory ICS ze schémat založených na Wordu pro distribuci a import.
+
+* **Integrace pracovního postupu událostí**
+  Převádí schválené plány na kalendářové artefakty, když jsou milníky dokončeny.
+
+* **Opakující se plánovací pipeline**
+  Zpracovává poznámky ze schůzek nebo agendy do strukturovaných plánovacích výstupů ve velkém měřítku.
+
+* **Podpora oznámení a připomenutí**
+  Využívá výstupy ICS k spouštění koordinace řízené kalendářem a následných procesů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

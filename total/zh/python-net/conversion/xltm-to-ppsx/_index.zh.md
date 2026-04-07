@@ -65,7 +65,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTM 转换为 PPSX 在 Python 中可将带宏的 Excel 模板转换为现代幻灯片演示文件，以便直接显示和共享。当需要将结构化工作簿内容分发为以幻灯片模式打开的演示材料时，这非常有价值。
+
+在自动化工作流中，XLTM 转换为 PPSX 可提升交付速度，支持现代演示兼容性，并实现从电子表格模板大规模创建演示输出。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **现代幻灯片输出**  
+  将电子表格模板内容转换为针对直接幻灯片观看进行优化的演示文件。
+
+* **演示分发就绪**  
+  帮助准备结构化内容，以便在无需手动设置幻灯片的情况下立即进行演示交付。
+
+* **可重复使用的沟通资产**  
+  支持从标准化工作簿模板重复生成幻灯片材料。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化显示就绪的演示创建**  
+  从 XLTM 模板生成 PPSX 文件，用于会议、培训或报告等使用场景。
+
+* **可扩展的幻灯片分发工作流**  
+  支持在团队和系统之间大规模发布幻灯片输出。
+
+* **电子表格到演示的自动化**  
+  将基于模板的工作簿内容集成到现代幻灯片生成流水线中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

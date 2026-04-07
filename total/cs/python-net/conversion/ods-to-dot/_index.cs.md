@@ -65,7 +65,47 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS to DOT conversion transforms spreadsheet files into document template formats used for structured document creation. This allows spreadsheet-based data or structures to serve as the foundation for reusable document templates.
+
+Python-based conversion workflows enable automated creation of document templates from spreadsheet content. This approach supports scalable document generation, template standardization, and efficient automation across document systems.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření šablon z dat**  
+  Převést struktury tabulek na opakovaně použitelné šablony dokumentů.
+
+* **Standardizované rozvržení dokumentů**  
+  Použít data z tabulek jako základ pro konzistentní formátování dokumentů.
+
+* **Strukturování obsahu**  
+  Přeměnit tabulkovou informaci na struktury dokumentů připravené pro šablony.
+
+* **Příprava pracovního postupu dokumentů**  
+  Připravit šablonové dokumenty odvozené od datových sad tabulek.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Potrubí generování šablon**  
+  Pracovní postupy v Pythonu převádějí tabulky na opakovaně použitelné šablony dokumentů.
+
+* **Automatizovaná správa šablon**  
+  Systémy generují a udržují šablony odvozené od strukturovaných dat tabulek.
+
+* **Hromadný převod šablon**  
+  Automatizované služby zpracovávají více souborů ODS k vytvoření standardizovaných šablon.
+
+* **Systémy dynamického vytváření dokumentů**  
+  Šablony generované z tabulek podporují automatizovanou výrobu dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

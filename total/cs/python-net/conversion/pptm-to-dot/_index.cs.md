@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Slides for Python via 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTM to DOT conversion with Python APIs transforms macro-enabled presentation content into a document template format used for standardized text-based outputs. It is useful when presentation material needs to seed reusable document structures for recurring business or operational processes.
+
+This type of conversion supports automation by enabling organizations to build repeatable document workflows from presentation-derived content. It reduces duplication of effort and helps standardize how converted information is formatted and reused across teams.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Template-Based Content Reuse**
+  Converts slide content into a reusable template foundation for repeated document creation.
+
+* **Standardized Document Preparation**
+  Supports consistency in documents generated from presentation material.
+
+* **Operational Content Structuring**
+  Helps organize converted content into predefined layouts for internal workflows.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Template Generation Pipelines**
+  Automates the creation of DOT templates from presentation assets.
+
+* **Recurring Document Workflows**
+  Supports repeated generation of documents using standardized converted templates.
+
+* **Format Control Automation**
+  Enables programmatic enforcement of layout consistency across converted outputs.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

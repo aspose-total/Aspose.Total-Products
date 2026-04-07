@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOTM إلى SXC يحول قوالب Word الممكّنة بالماكرو إلى ملفات جدول بيانات متوافقة مع بيئات OpenOffice القديمة. يكون ذلك مفيدًا عندما يجب تحويل محتوى المستند إلى مخرجات جدول بيانات منظمة مع الحفاظ على التوافق مع سير عمل المكتب المفتوح القديم.
+
+استخدام واجهات برمجة تطبيقات Python لتحويل DOTM إلى SXC يحسن الأتمتة من خلال تحويل قوالب المستند القابلة لإعادة الاستخدام إلى أصول جدول بيانات للأنظمة المتوافقة مع الأنظمة القديمة. يدعم ذلك استخراج البيانات بكفاءة، وتوسيع التوافقية، وتحويل الصيغ بشكل قابل للتوسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **التوافق مع جداول البيانات المفتوحة القديمة**
+  تحويل محتوى DOTM إلى SXC لسير العمل الذي لا يزال يعتمد على صيغ جداول البيانات القديمة.
+
+* **إعادة استخدام بيانات القالب**
+  استخراج محتوى المستند المنظم إلى شكل جدول بيانات للمراجعة والمعالجة.
+
+* **دعم الترحيل**
+  استخدام مخرجات SXC عند نقل المحتوى إلى أو عبر بيئات المكتب القديمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تصدير جداول البيانات القديمة تلقائيًا**
+  يمكن للأنظمة تحويل قوالب DOTM إلى SXC كجزء من سير العمل الذي يركز على التوافق.
+
+* **أتمتة تحويل المستند إلى بيانات**
+  يدعم التحويل استخراجًا مجدولًا للمحتوى المنظم إلى أصول جدول بيانات.
+
+* **معالجة صيغ قديمة على دفعات**
+  تمكن الوظائف البرمجية من تحويل ملفات DOTM إلى SXC على نطاق واسع بكفاءة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

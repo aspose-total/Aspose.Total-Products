@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTM 到 MOBI 的转换在 Python 中使得能够将带宏的 Excel 模板转换为电子书兼容文件，以实现数字阅读和便携内容访问。当基于电子表格的信息需要以读者友好的格式进行知识共享或移动消费时，这非常有价值。
+
+在自动化工作流中，XLTM 到 MOBI 的转换扩展了内容交付选项，支持数字出版流水线，并帮助将结构化数据重新用于可访问的长篇输出。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **电子书内容准备**  
+  将结构化的电子表格模板内容转换为适合数字阅读设备的便携格式。
+
+* **知识分发**  
+  支持以旨在更广泛阅读可访问性的格式交付基于工作簿的材料。
+
+* **面向移动访问的内容再利用**  
+  使源自电子表格的信息能够以轻量且便携的阅读格式进行共享。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化数字出版**  
+  从 XLTM 源生成 MOBI 文件，以用于重复的内容出版工作流。
+
+* **便携文档交付**  
+  支持将结构化模板数据自动转换为移动友好的阅读资产。
+
+* **批量电子书生成**  
+  实现从基于电子表格的内容库大规模创建数字阅读文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

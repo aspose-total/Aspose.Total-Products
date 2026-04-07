@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX to OST conversion transforms document content into an offline mailbox data format associated with synchronized messaging environments. This process can support scenarios where document-derived information needs to be incorporated into offline-access communication archives.
+
+Using Python APIs, DOCX-to-OST conversion can be included in enterprise archival systems, migration workflows, and messaging automation platforms. It enables programmatic transformation of document content into mailbox-oriented storage structures.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Příprava offline poštovních dat**  
+  Převádí obsah založený na dokumentech do offline úložných struktur kompatibilních s poštovní schránkou.
+
+* **Integrace komunikačního archivu**  
+  Umožňuje začlenění dokumentů do pracovních postupů archivace zpráv.
+
+* **Podpora podnikového migračního procesu dat**  
+  Pomáhá při transformaci obsahu pro systémy, které závisí na formátech dat poštovní schránky.
+
+* **Ukládání pošty založené na dokumentech**  
+  Podporuje ukládání informací z dokumentů ve formátu sladěném s offline přístupem k poště.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná generace poštovního archivu**  
+  Systémy mohou převádět DOCX dokumenty na výstupy dat orientované na OST pro scénáře offline přístupu.
+
+* **Dávkové migrační pipeline zpráv**  
+  Python automatizace může zpracovat více dokumentů pro integraci do pracovních postupů úložiště poštovní schránky.
+
+* **Podnikové workflow uchovávání**  
+  Obsah dokumentu může být transformován do offline dat zpráv pro systémy zaměřené na soulad s předpisy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

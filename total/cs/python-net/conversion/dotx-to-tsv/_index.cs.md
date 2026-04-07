@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod DOTX na TSV převádí obsah šablony Word do hodnot oddělených tabulátorem pro strukturované sdílení dat a zjednodušený import do tabulkových nebo zpracovatelských nástrojů. Je užitečný, když je třeba exportovat tabulkový obsah dokumentu do čistého textového formátu.
+
+S Python API tento převod zlepšuje automatizaci tím, že umožňuje spolehlivou výměnu textových dat, lehké zpracování a rozsáhlou transformaci obsahu řízeného šablonami.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Export dat v prostém textu**
+  Převést strukturovaný obsah dokumentu do lehkého tabulkového formátu.
+
+* **Pracovní postupy importu do tabulek**
+  Připravit informace odvozené ze šablony pro rychlé načtení do datových nástrojů.
+
+* **Systémově přátelská výměna dat**
+  Podporovat přenos strukturovaného obsahu mezi automatizačními pipeline.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Plánovaný výběr dat**
+  Automaticky převádět šablony DOTX na TSV soubory pro opakující se pracovní postupy.
+
+* **Příprava ETL**
+  Použít výstup TSV jako vstupní vrstvu pro automatizované transformační pipeline.
+
+* **Vysokokapacitní textový převod**
+  Zpracovat velké dávky šablon do kompaktních strukturovaných výstupů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTM 到 PPS 转换在 Python 中支持将启用宏的 Excel 模板转换为用于直接显示的演示幻灯片文件。当需要将基于电子表格的内容转换为针对快速查看和交付进行优化的演示输出时，这非常有用。
+
+在自动化环境中，XLTM 到 PPS 转换提升了演示发布，支持简化的幻灯片分发，并实现了高效生成可直接展示的文件。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **幻灯片交付输出**  
+  将结构化的电子表格模板转换为设计用于直接播放的演示文件。
+
+* **会议就绪内容准备**  
+  帮助从基于工作簿的源材料准备面向展示的演示文稿。
+
+* **快速演示分发**  
+  支持向内部或外部沟通交付预格式化的幻灯片内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化幻灯片发布**  
+  从 XLTM 模板生成 PPS 文件，以用于重复的演示分发工作流。
+
+* **演示交付流水线**  
+  将电子表格模板数据与可直接展示的幻灯片输出相连接。
+
+* **批量会议材料生成**  
+  实现从结构化源模板大规模生成可直接展示的演示文稿。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

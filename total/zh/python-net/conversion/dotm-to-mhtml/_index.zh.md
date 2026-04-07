@@ -53,7 +53,41 @@ outformat: MHTML
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM 到 MHTML 的转换将带宏的 Word 模板转换为 MIME HTML 文档，将内容和资源合并为单个适合网页的文件。它对于便携式文档共享、基于浏览器的查看以及以自包含格式保存格式化内容非常有用。
+
+使用 Python API 进行 DOTM 到 MHTML 的转换支持自动化，使可重用的模板能够以最小的工作量发布为网页兼容的资产。这提升了内容的可移植性，简化了文档交付，并支持可扩展的渲染工作流。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **便携式网页渲染**
+  将 DOTM 文件转换为 MHTML，以单个打包文件实现浏览器友好的查看。
+
+* **自包含文档共享**
+  将文本、格式和链接资源一起保留，以实现可靠的分发。
+
+* **模板发布**
+  将文档模板重新用于面向网页的输出，以供门户或存档使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化网页导出**
+  系统可以将 DOTM 模板转换为 MHTML 文件，以实现无需手动格式化的网页交付。
+
+* **内容打包工作流**
+  该转换支持自动生成自包含的文档文件，以用于共享和存储。
+
+* **可扩展渲染流水线**
+  编程任务可以从重复使用的模板文档中生成大量 MHTML 输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

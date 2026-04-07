@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod OFT na RTF pomocí Python API transformuje šablony e‑mailů Outlooku do dokumentů ve formátu Rich Text, které vyvažují podporu formátování s širokou kompatibilitou. To je užitečné, když obsah musí zůstat editovatelný a zároveň zachovat základní stylování napříč širokou škálou nástrojů pro práci s dokumenty.
+
+Z pohledu automatizace podporuje převod OFT na RTF flexibilní opětovné využití obsahu, zjednodušenou výměnu mezi systémy a efektivní přípravu dokumentů. Je to praktická volba pro interoperabilní a textově orientované pracovní postupy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Editovatelný formátovaný obsah**  
+  Převést šablony OFT do souborů RTF, aby se zachovalo stylování v editovatelném formátu dokumentu.
+
+* **Sdílení s širokou kompatibilitou**  
+  Použít výstup RTF pro pracovní postupy, které vyžadují podporu v mnoha editorech dokumentů.
+
+* **Opětovné využití obsahu šablony**  
+  Přetvořit e‑mailové zprávy do souborů ve formátu Rich Text pro zprávy, záznamy nebo dokumentaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované textové dokumentové pipeline**  
+  Automaticky převádět soubory OFT na RTF pro následné úpravy a distribuční procesy.
+
+* **Mezi‑platformní výměna obsahu**  
+  Směrovat výstupy RTF mezi systémy s různými požadavky na podporu dokumentů.
+
+* **Škálovatelné zachování formátování**  
+  Použít Python API k zachování strukturovaného textového výstupu při hromadném převodu velkého počtu šablon.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

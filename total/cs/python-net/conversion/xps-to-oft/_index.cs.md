@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu X
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XPS to OFT conversion with Python APIs enables fixed-layout document content to be transformed into reusable email template files. This is useful when organizations want to convert structured document outputs into repeatable messaging templates for notifications, campaigns, approvals, or standardized correspondence.
+
+In automation workflows, this conversion improves consistency, reduces repetitive authoring, and supports scalable generation of templated communications from document-centric systems and business rules.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Reusable Email Template Creation**  
+  Converts XPS content into OFT templates that can be reused for recurring communication scenarios.
+
+* **Standardized Correspondence Workflows**  
+  Helps maintain consistent structure and messaging across document-driven email processes.
+
+* **Template-Based Notification Systems**  
+  Supports turning document outputs into repeatable email templates for operational messaging.
+
+* **Process-Driven Communication Design**  
+  Enables structured document content to feed directly into templated outreach workflows.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Dynamic Template Generation**  
+  Systems can convert XPS documents into OFT templates for future automated message population.
+
+* **Rule-Based Communication Pipelines**  
+  Automated workflows can select and generate templates based on document type or workflow stage.
+
+* **High-Volume Template Preparation**  
+  Batch jobs can create multiple OFT files from standardized XPS inputs for scalable communication operations.
+
+* **Integrated Notification Automation**  
+  Converted templates can be used in systems that merge data programmatically for personalized outbound messages.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

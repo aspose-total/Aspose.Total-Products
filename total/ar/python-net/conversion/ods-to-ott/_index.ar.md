@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل ODS إلى OTT يحول ملفات جداول البيانات إلى قوالب نصية من نوع OpenDocument. تتيح هذه القوالب هياكل مستندات قابلة لإعادة الاستخدام يمكن استخدامها لتوليد مستندات متسقة.
+
+تسمح واجهات برمجة التطبيقات (APIs) للبايثون للمطورين بأتمتة إنشاء مستندات القوالب من محتوى جداول البيانات. يدعم ذلك سير عمل مستندات قابل للتوسع وإدارة قوالب فعّالة عبر الأنظمة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء قالب قابل لإعادة الاستخدام**  
+  تحويل هياكل جداول البيانات إلى قوالب مستندات قابلة لإعادة الاستخدام.
+
+* **توحيد المستندات**  
+  ضمان تنسيق مستندات متسق باستخدام سير عمل قائم على القوالب.
+
+* **هيكلة المحتوى**  
+  تحويل معلومات جداول البيانات الجدولية إلى مستندات جاهزة للقوالب.
+
+* **إدارة قوالب المستند المفتوح**  
+  الحفاظ على قوالب موحدة مستمدة من بيانات جداول البيانات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء قالب مؤتمت**  
+  تُنشئ سير عمل بايثون قوالب المستندات من مدخلات جداول البيانات.
+
+* **معالجة القوالب على دفعات**  
+  تقوم الأنظمة بتحويل ملفات ODS متعددة إلى قوالب مستندات قابلة لإعادة الاستخدام.
+
+* **أنظمة المستندات الديناميكية**  
+  تُنشئ سير عمل قائمة على القوالب المستندات برمجيًا.
+
+* **دمج قوالب سير العمل**  
+  تدعم القوالب المستمدة من جداول البيانات إنشاء المستندات تلقائيًا.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

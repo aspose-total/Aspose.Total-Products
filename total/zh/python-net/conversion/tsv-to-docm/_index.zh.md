@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV 到 DOCM 的转换能够将表格数据转换为支持更丰富文档工作流和高级处理需求的宏启用文字处理文档。当需要以符合受控企业文档环境的可编辑格式交付结构化数据时，这非常有价值。
+
+借助 Python API，TSV 到 DOCM 的转换可以集成到自动化系统中，以大规模生成可重复使用的文档，帮助简化文档组装、工作流编排和结构化内容交付。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用报告**  
+  为需要高级文档行为的环境准备数据驱动的文档。
+
+* **结构化文档输出**  
+  将 TSV 内容转换为适用于运营和行政使用的可编辑文件。
+
+* **自动化内容打包**  
+  支持需要以更交互式格式呈现数据的文档生成工作流。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **基于模板的文档创建**  
+  自动化可以从 TSV 数据集填充宏启用的文档格式。
+
+* **企业工作流集成**  
+  Python API 可以将数据导出连接到下游文档处理系统。
+
+* **批量发布流水线**  
+  多个 TSV 文件可以在可重复的自动化运行中转换为 DOCM 文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

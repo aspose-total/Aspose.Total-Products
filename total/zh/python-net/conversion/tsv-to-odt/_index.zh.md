@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV 到 ODT 转换将制表符分隔的数据转换为支持可编辑、可移植且基于标准的文档的开放文档文本文件。它对于希望从结构化数据源获取灵活文档输出且不将工作流锁定在单一生态系统中的组织非常有用。
+
+借助 Python API，TSV 到 ODT 的转换可以实现自动化，以提升互操作性、减少人工处理，并支持跨开放格式工作流的可扩展文档生成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **开放文档报告**  
+  将 TSV 内容转换为基于开放标准的可编辑文本文档。
+
+* **跨平台文档**  
+  使结构化数据更容易在各种文档环境中共享。
+
+* **可访问的业务记录**  
+  支持从原始表格源生成可读的输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **互操作文档管道**  
+  Python API 可以自动化从定期的 TSV 导出生成 ODT。
+
+* **开放格式工作流支持**  
+  自动化实现基于标准的文档输出的可扩展创建。
+
+* **批量数据转换**  
+  多个 TSV 文件可以在简化的处理作业中转换为 ODT 格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

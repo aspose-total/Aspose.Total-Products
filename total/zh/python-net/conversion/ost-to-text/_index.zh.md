@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OST 转文本转换将邮箱内容提取为纯文本，使电子邮件数据轻量、可搜索，并且易于集成到分析或文档工作流中。它是优先考虑简洁性、可移植性和内容可访问性的系统的实用选择。
+
+在自动化场景中，OST 转文本转换尤为有价值，因为纯文本在索引、解析、分类和下游处理方面表现良好。Python API 可实现高效的批量提取并集成到可扩展的数据和内容管道中。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **可搜索内容提取**  
+  将邮箱消息转换为纯文本，以便进行索引和检索。
+
+* **轻量归档**  
+  支持以最小格式保存电子邮件内容，以便存储和审阅。
+
+* **数据处理准备**  
+  使消息内容更易于进行分析、解析和程序化转换。
+
+* **知识捕获工作流**  
+  帮助将重要的邮箱信息转移到简单的可重用文本资产中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **文本提取管道**  
+  Python 自动化将 OST 内容转换为纯文本，以实现可扩展的处理。
+
+* **搜索与索引工作流**  
+  自动化系统为检索引擎和分析工具准备邮箱数据。
+
+* **内容分析流程**  
+  程序化转换支持分类、摘要和文本挖掘操作。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

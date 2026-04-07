@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل المستند إلى TSV يحول محتوى Word إلى قيم مفصولة بفواصل جدولة، وهو تنسيق بسيط منظم مثالي لتبادل البيانات النصية النظيفة وسير عمل الاستيراد. يكون مفيدًا عندما تحتاج جداول المستند أو الحقول المتكررة إلى إخراج منظم خفيف الوزن.
+
+تساعد واجهات برمجة التطبيقات بلغة Python على أتمتة تحويل DOC إلى TSV لاستخراج قابل للتوسع، وإعداد البيانات، ومهام التكامل حيث يُفضَّل تنسيقات الجداول النصية العادية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تصدير بيانات خفيف الوزن**
+  تحويل جداول المستند إلى TSV لتبادل منظم بسيط.
+
+* **إخراج صديق للاستيراد**
+  إعداد البيانات المستخرجة من Word للأدوات والأنظمة التي تقبل النص المفصول.
+
+* **سير عمل تنظيف البيانات**
+  استخدام إخراج TSV للمعالجة المسبقة، والتحقق، وإدخال البيانات في خطوط الأنابيب.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **استخراج بيانات عالي الحجم**
+  تحويل ملفات DOC تلقائيًا إلى TSV للمعالجة اللاحقة.
+
+* **تصدير نص جاهز للخط الأنابيب**
+  إنشاء ملفات مفصولة من المستندات كجزء من عمليات ETL أو سير عمل الاستيراد.
+
+* **وظائف تحويل مجدولة**
+  توحيد سجلات المستندات برمجيًا إلى TSV على أساس متكرر.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

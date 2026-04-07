@@ -46,7 +46,41 @@ Wer versucht für einen Python-Entwickler, eine OTT-zu-MSG-Konvertierungsfunktio
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to MSG conversion in Python APIs transforms OpenDocument text templates into message files used in desktop email ecosystems for storage and exchange. This is useful when structured document content must become a reusable email artifact rather than a plain document.
+
+This conversion supports automation by helping teams generate message files programmatically from templates for review, archival, or integration into communication workflows at scale.
+
+{{% blocks/products/pf/agp/feature-section-col title="Wichtige Anwendungsfälle" %}}
+
+* **Erstellung von Nachrichtendateien**  
+  Wandelt Dokumentvorlagen in strukturierte E‑Mail‑Nachrichtendateien um.
+
+* **Unterstützung von Kommunikationsabläufen**  
+  Ermöglicht die Wiederverwendung von Dokumentinhalten in e‑mail‑orientierten Umgebungen.
+
+* **Portabler Nachrichtenspeicher**  
+  Erzeugt Nachrichtenoutput, der leicht gespeichert und übertragen werden kann.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* **Massenhafte Nachrichtengenerierung**  
+  Erzeugt viele MSG-Dateien aus standardisierten OTT-Vorlagen.
+
+* **Genehmigungsbasierte E‑Mail‑Workflows**  
+  Erstellt überprüfbare Nachrichtendateien vor der Zustellung oder Archivierung.
+
+* **Systemintegration**  
+  Verbindet Dokumentgenerierungspipelines mit Nachrichtenverarbeitungsprozessen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

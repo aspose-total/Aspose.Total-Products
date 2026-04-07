@@ -64,7 +64,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX to POT conversion converts Word template content into a presentation template format used for reusable slide creation. It is useful when structured document material needs to become a repeatable presentation foundation for consistent output.
+
+This conversion supports automation by enabling Python APIs to generate presentation templates from documents, making slide production more standardized, faster, and easier to scale.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **Presentation Template Creation**
+  Transform document content into reusable slide template assets.
+
+* **Consistent Visual Workflows**
+  Standardize presentation structure across teams and recurring outputs.
+
+* **Content Repurposing**
+  Reuse template-driven document material in presentation design.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **Automated Template Generation**
+  Produce POT files from DOTX templates in standardized presentation workflows.
+
+* **Recurring Slide Production**
+  Use converted templates to speed up repeated presentation creation.
+
+* **Scalable Content Packaging**
+  Build reusable presentation foundations programmatically from document sources.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

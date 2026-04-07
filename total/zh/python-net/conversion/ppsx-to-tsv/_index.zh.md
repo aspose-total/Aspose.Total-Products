@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPSX 到 TSV 的转换将演示文稿数据转换为制表符分隔的文本输出，简洁、轻量，适用于结构化数据交换。当需要提取幻灯片内容以在更喜欢纯文本表格输入的系统中进行处理时，此格式非常有用。
+
+对于自动化使用场景，PPSX 到 TSV 的转换支持可靠的数据传输，简化脚本和流水线的摄取，并通过 Python API 实现高效的大规模处理。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **表格数据导出**  
+  将结构化的幻灯片内容转换为纯文本表格格式。
+
+* **系统友好型数据交换**  
+  生成的输出易于导入接受分隔符文件的工具。
+
+* **轻量内容转换**  
+  支持低开销的提取，以用于结构化处理任务。
+
+* **流水线数据准备**  
+  帮助使演示文稿数据在编程环境中可用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化文本数据提取**  
+  Python API 可以将 PPSX 文件转换为 TSV，以实现流畅的解析工作流。
+
+* **流水线摄取支持**  
+  TSV 输出可以直接进入自动化的 ETL 或转换系统。
+
+* **大批量转换任务**  
+  自动化使得大规模重复将演示文稿内容转换为表格文本成为可能。
+
+* **跨工具结构化传输**  
+  转换后的文件支持在异构平台之间高效移动。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

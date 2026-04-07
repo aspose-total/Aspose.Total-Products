@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل WordML إلى VCF يحول معلومات الاتصال المخزنة في المستندات إلى ملفات vCard يمكن استيرادها إلى أنظمة إدارة جهات الاتصال. هذا مفيد عندما تحتاج الأسماء وأرقام الهواتف والعناوين أو التفاصيل ذات الصلة المخزنة في المستندات إلى أن تصبح سجلات اتصال موحدة.
+
+باستخدام واجهات برمجة تطبيقات بايثون، يمكن أتمتة تحويل WordML إلى VCF لاستخراج حقول الاتصال ذات الصلة وإنشاء مخرجات vCard محمولة لأنظمة CRM والدليل وتدفقات المزامنة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **استخراج سجل الاتصال**
+  يحوّل تفاصيل الاتصال من مستندات WordML إلى ملفات VCF قابلة للاستيراد.
+
+* **دعم الدليل وإدارة علاقات العملاء**
+  يساعد على نقل بيانات الاتصال المخزنة في المستندات إلى أنظمة اتصال منظمة.
+
+* **مشاركة الاتصال القابلة للنقل**
+  يتيح تبادل معلومات الاتصال بشكل موحد عبر المنصات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء جهات اتصال جماعي**
+  يُؤتمت إنشاء ملفات VCF من الأدلة أو النماذج أو قوائم جهات الاتصال المخزنة في WordML.
+
+* **تحضير بيانات CRM**
+  يدعم استيعاب سجلات الاتصال الموحدة في أنظمة الأعمال المؤتمتة.
+
+* **تمكين تدفق عمل المزامنة**
+  يحوّل تفاصيل الاتصال المخزنة في المستندات إلى ملفات محمولة للمزامنة المتكررة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF to FODS conversion converts rich text documents into flat XML-based spreadsheet files that are suitable for structured data exchange, open document workflows, and system interoperability. It is useful when document content must be transformed into a spreadsheet format with transparent, text-based structure.
+
+In automation contexts, RTF to FODS supports scalable processing, validation, and integration workflows by turning formatted documents into structured spreadsheet assets that are easier to version, inspect, and exchange.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Open Spreadsheet Transformation**  
+  Converts document content into an open, flat spreadsheet format for broader compatibility.
+
+* **Structured XML Data Handling**  
+  Enables easier inspection and management of spreadsheet content in text-based workflows.
+
+* **Interoperable Document Exchange**  
+  Helps move information between systems that prefer open document standards.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Pipeline-Friendly Spreadsheet Generation**  
+  Automated conversions can produce FODS files suitable for validation and scripted processing.
+
+* **Version-Controlled Data Workflows**  
+  Programmatic transformation supports environments where text-based spreadsheet representations are preferred.
+
+* **Open Standards Integration**  
+  Dynamic processes can convert RTF content into interoperable spreadsheet assets for cross-platform use.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

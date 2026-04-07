@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu W
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod Word do PST pomocí Python API převádí obsah dokumentu do výstupu poštovního archivu orientovaného na osobní úložiště pro podnikové komunikační a retenční workflow. To je užitečné, když je materiál komunikace vytvořený v dokumentu třeba začlenit do struktur poštovního archivu pro ukládání, migraci nebo podporu souladu.
+
+V prostředích řízených automatizací tento převod pomáhá sladit workflow dokumentů se systémy poštovních archivů, což umožňuje škálovatelné balení a zachování obsahu souvisejícího s komunikací.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Příprava poštovního archivu**
+  Převádí komunikaci odvozenou z Wordu do struktur poštovního archivu orientovaných na archiv.
+
+* **Podpora retence a souladu**
+  Pomáhá zachovat formální obsah ve formátech spojených s dlouhodobým ukládáním zpráv.
+
+* **Zarovnání migračního workflow**
+  Podporuje podnikové přechody zahrnující poštovní archivy a balení obsahu.
+
+* **Uchování strukturované komunikace**
+  Propojuje procesy tvorby dokumentů a správy poštovních archivů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizace generování archivu**
+  Zpracovává Word dokumenty do výstupů orientovaných na PST pro retence workflow.
+
+* **Hromadné balení komunikace**
+  Převádí velké sady standardizovaného obsahu do aktiv poštovního archivu.
+
+* **Přípravné pipeline pro migraci**
+  Integruje převod do podnikových rutin přesunu a konsolidace poštovních schránek.
+
+* **Zpracování záznamů pro soulad**
+  Využívá výstupy orientované na archiv k podpoře řízeného uchování komunikace.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

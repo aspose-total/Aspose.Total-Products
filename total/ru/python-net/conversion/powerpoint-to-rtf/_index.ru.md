@@ -65,7 +65,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PowerPoint to RTF conversion in Python transforms presentation content into a rich text format that balances editability with broad compatibility. This is useful when slide material needs to be shared as formatted text across systems that may not require full Word document features.
+
+Для сценариев автоматизации конвертация в RTF поддерживает лёгкий обмен документами, сохранение текста и гибкую интеграцию в рабочие процессы контента. Это практичный формат, когда важны как совместимость, так и читаемое форматирование.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Экспорт отформатированного текста**
+  Преобразует содержимое презентации в редактируемый текст, сохраняя базовое форматирование.
+
+* **Обмен документами между системами**
+  Поддерживает обмен контентом между платформами с различными возможностями обработки текста.
+
+* **Архивирование презентаций**
+  Помогает сохранять информацию со слайдов в простом и переносимом текстовом формате.
+
+* **Рабочие процессы редакторского обзора**
+  Облегчает редактирование содержимого слайдов в легковесных документных средах.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Лёгкая конверсия документов**
+  Автоматизирует создание RTF‑файлов для простого распространения и редактирования.
+
+* **Конвейеры обмена контентом**
+  Поддерживает рабочие процессы, требующие широкой совместимости между системами обработки текста.
+
+* **Массовая трансформация текста**
+  Позволяет выполнять конвертацию большого количества презентаций в удобные документы.
+
+* **Интероперабельные потоки публикации**
+  Помогает организациям использовать содержимое презентаций в средах с разными форматами.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

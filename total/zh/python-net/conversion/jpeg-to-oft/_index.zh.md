@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 JPEG 转换为 OFT，使图像内容能够转换为可重复使用的电子邮件模板文件。这在需要在重复沟通中包含标题、通知、促销素材或标准化图像内容等视觉元素时尤为有用。
+
+自动化使此转换在可重复的消息工作流中更加强大，帮助组织从 JPEG 输入生成可直接使用的模板邮件资产，并在大规模上简化沟通准备。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **可重复使用的邮件模板创建**
+  将 JPEG 视觉素材转换为 OFT 文件，以在重复的邮件撰写中保持一致的结构。
+
+* **标准化的视觉信息传递**
+  使用模板文件在团队和沟通周期中保持统一的呈现。
+
+* **活动准备**
+  将图像资产转化为可重复使用的邮件模板，用于多次外联或内部公告。
+
+* **运营沟通设计**
+  从 JPEG 内容生成基于模板的消息，用于服务、支持或报告工作流。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **模板生成流水线**
+  Python API 可以自动从已批准的 JPEG 资产创建 OFT 文件，以供重复使用。
+
+* **可扩展的沟通自动化**
+  系统能够从视觉材料生成可重复使用的消息模板，用于持续的活动或警报。
+
+* **工作流标准化**
+  自动化的 OFT 创建确保基于图像的邮件内容遵循一致的格式和结构。
+
+* **动态内容组装**
+  编程过程可以在自动化消息流中将 JPEG 派生的模板元素与可变数据相结合。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

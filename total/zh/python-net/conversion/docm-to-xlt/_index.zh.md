@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM 到 XLT 的转换将启用宏的文档转换为电子表格模板文件，使结构化的文档内容能够成为可重复使用的工作簿布局。它在需要在重复的电子表格创建过程中保持一致性时非常有用。
+
+在自动化系统中，DOCM 到 XLT 的转换支持标准化的工作簿生成、过程可重复性以及将文档可扩展地转换为可重复使用的电子表格模板。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **可重复使用的工作簿模板**
+  将文档材料转换为可重复使用的电子表格模板，以供运营中反复使用。
+
+* **标准化的电子表格结构**
+  有助于在重复的工作簿创建任务中保持一致性。
+
+* **内容到模板的复用**
+  将文档数据和布局适配为结构化的电子表格蓝图。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板生成**
+  从 DOCM 源生成 XLT 文件，以实现可重复的电子表格工作流。
+
+* **一致的工作簿供应**
+  支持以编程方式创建标准化的电子表格模板。
+
+* **可扩展的模板分发**
+  使从源文档生成的电子表格布局能够广泛复用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

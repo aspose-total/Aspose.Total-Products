@@ -64,7 +64,47 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT to PPTX conversion transforms OpenDocument Text files into a modern presentation format widely used for slide-based communication and collaboration. It is ideal for repurposing reports, outlines, and narrative content into professional presentation outputs.
+
+Python API automation makes ODT to PPTX conversion efficient for recurring reporting, training content generation, and document-driven presentations. It improves scalability by reducing manual slide creation and supporting consistent formatting across workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Moderní tvorba snímků**  
+  Převádí obsah dokumentu do prezentačních souborů vhodných pro úpravy a sdílení.
+
+* **Vizualizace zpráv**  
+  Pomáhá komunikovat psané poznatky ve vizuálnějším formátu.
+
+* **Přetvoření výukových materiálů**  
+  Přeměňuje strukturovaný text na znovupoužitelné prezentační zdroje.
+
+* **Umožnění spolupráce při revizi**  
+  Podporuje týmové pracovní postupy založené na editovatelném obsahu snímků.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná tvorba sady snímků**  
+  Pythonové pracovní postupy mohou převádět ODT dokumenty na PPTX prezentace podle plánu.
+
+* **Hromadné konverzní řetězce**  
+  Velké sady dokumentů lze programově převést do moderních formátů snímků.
+
+* **Sestavování prezentací na základě šablon**  
+  Strukturovaný obsah lze mapovat do rozvržení snímků pro zachování konzistence.
+
+* **Distribuční a archivní pracovní postupy**  
+  Vygenerované PPTX soubory lze automaticky ukládat, sdílet nebo kontrolovat.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,44 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX 转图片转换将文字处理文档转换为图像格式，以捕获文档页面的视觉布局和格式。此过程允许将文档内容以静态视觉文件的形式共享或归档。
+
+使用 Python API，DOCX 转图片转换可以自动化，用于文档预览系统、内容发布平台和归档流程。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **文档预览生成**  
+  将 DOCX 页面转换为图像，以实现快速预览。
+
+* **文档的可视化归档**  
+  在图像格式中保留文档外观。
+
+* **内容发布工作流**  
+  使文档内容能够以图像形式嵌入。
+
+* **页面快照创建**  
+  生成文档页面的视觉表示。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自动化文档缩略图生成**  
+  系统可以将 DOCX 文件转换为图像预览。
+
+* **批量图像导出流水线**  
+  Python 脚本可以从大型文档集合生成图像。
+
+* **内容分发平台**  
+  文档可以转换为图像，用于发布或共享工作流。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

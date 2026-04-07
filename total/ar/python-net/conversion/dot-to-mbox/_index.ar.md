@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOT إلى MBOX يحول قوالب المستندات إلى تنسيق تخزين على نمط صندوق البريد مناسب لمعالجة رسائل البريد الإلكتروني المجمعة. هذا مفيد عندما يجب تجميع محتوى القالب في أرشيف البريد الإلكتروني أو سير عمل الترحيل.
+
+باستخدام واجهات برمجة تطبيقات بايثون، يمكن للمنظمات أتمتة إنشاء مخرجات متوافقة مع MBOX من ملفات DOT، مما يساعد على تبسيط تعبئة الرسائل وإعداد الأرشفة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إعداد أرشيف صندوق البريد**
+  تحويل قوالب التواصل المستندة إلى DOT إلى هياكل متوافقة مع MBOX.
+
+* **تخزين الرسائل المجمعة**
+  استخدام مخرجات تنسيق صندوق البريد لجمع اتصالات متعددة مستندة إلى القوالب.
+
+* **دعم سير عمل الترحيل**
+  تحضير المحتوى المستند إلى المستندات لنقل أرشيف البريد الإلكتروني وعمليات الاحتفاظ.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تجميع الأرشيف الآلي**
+  يمكن لسكريبتات بايثون تحويل محتوى DOT إلى مخرجات جاهزة لـ MBOX لسير عمل الاحتفاظ.
+
+* **تعبئة التواصل بالجملة**
+  يدعم التحويل تجميع الرسائل المستمدة من القوالب برمجياً إلى تنسيقات صندوق البريد.
+
+* **دعم ترحيل البريد الإلكتروني القابل للتوسع**
+  تساعد العمليات الديناميكية على نقل الاتصالات المولدة من المستندات إلى هياكل صديقة للأرشيف.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

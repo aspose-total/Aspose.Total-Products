@@ -64,7 +64,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Slides for Python via 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod POTX na TSV pomocí Python API umožňuje převod obsahu šablony PowerPoint do hodnot oddělených tabulátorem pro strukturované datové workflow. To je cenné, když je třeba extrahovat prezentační materiál do jednoduchého formátu založeného na oddělovačích, který dobře funguje při výměně dat a importních procesech.
+
+Z hlediska automatizace podporuje převod POTX na TSV efektivní transformaci vizuálního obsahu šablony do strojově čitelného výstupu. Je vhodný pro dávkové exporty, lehké integrace a škálovatelné zpracovatelské pipeline.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Extrahování dat oddělených tabulátorem**
+  Převádí informace o prezentační šabloně do záznamů oddělených tabulátorem pro strukturované zpracování.
+
+* **Příprava pro import do systému**
+  Pomáhá připravit obsah odvozený ze šablony pro nástroje, které přijímají tabulární textový vstup.
+
+* **Lehká výměna dat**
+  Podporuje jednoduchý přenos strukturovaných informací mezi aplikacemi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Opakující se úlohy exportu dat**
+  Automatizuje převod souborů POTX na výstupy TSV v naplánovaných workflow.
+
+* **Transformace vhodné pro pipeline**
+  Umožňuje jednoduchý přenos textových dat do validačních a ingestních systémů.
+
+* **Hromadné konverzní operace**
+  Podporuje rozsáhlé extrahování prezentačního obsahu do souborů oddělených tabulátorem.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

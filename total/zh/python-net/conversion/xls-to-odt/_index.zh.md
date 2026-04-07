@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS 到 ODT 转换使电子表格内容能够转换为可编辑、可移植且符合标准的开放文本文档。这在组织需要跨各种办公环境都能访问的基于文本的输出时非常有用。
+
+XLS 到 ODT 转换的 Python API 自动化有助于简化开放格式文档工作流，并支持从电子表格数据源大规模生成可编辑文件。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **开放文档报告**
+  将 XLS 内容转换为 ODT 文件，以实现开放且可编辑的业务文档。
+
+* **可互操作的内容共享**
+  当文档跨平台兼容性重要时使用 ODT 输出。
+
+* **电子表格到文本的转换**
+  将表格数据重新包装为叙述性或混合布局的文档格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **开放工作流自动化**
+  在基于标准的系统中自动从电子表格提交生成 ODT 文件。
+
+* **批量文档转换**
+  使用 Python API 将大量 XLS 文件转换为可编辑的开放文本文档。
+
+* **集成文档处理**
+  将 XLS 到 ODT 转换加入自动化审阅、存储和发布流水线。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

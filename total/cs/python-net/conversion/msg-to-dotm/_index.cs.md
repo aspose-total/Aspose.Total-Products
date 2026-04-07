@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konverze MSG na DOTM převádí e‑mailové zprávy do souborů šablon s makry pro pokročilou automatizaci dokumentů. Je vhodná, když musí být obsah e‑mailu součástí opakovatelných šablon, které také podporují skriptované chování nebo pravidlově řízené zpracování.
+
+V automatizovaných prostředích pomáhají pracovní postupy MSG na DOTM kombinovat znovupoužitelné struktury s akcemi umožňujícími makra. To je činí relevantními pro podnikovou tvorbu dokumentů, regulované pracovní postupy a operace řízené šablonami.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vývoj šablon s makry**  
+  Převést obsah e‑mailu na opakovaně použitelné šablony s podporou automatizační logiky.
+
+* **Řízené pracovní postupy dokumentů**  
+  Podporovat standardizované vytváření dokumentů v prostředích používajících pokročilá pravidla zpracování.
+
+* **Opakovatelné struktury obsahu**  
+  Znovu použít rozvržení odvozené ze zpráv v opakujících se provozních dokumentech.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Systémy automatizace šablon**  
+  Převést soubory MSG na šablony DOTM pro generování dokumentů s makry.
+
+* **Pravidlově řízená tvorba dokumentů**  
+  Použít převedené šablony v automatizovaných pracovních postupech, které vynucují formátování nebo obsahová pravidla.
+
+* **Škálovatelné podnikové zpracování**  
+  Standardizovat opakující se výstupy založené na e‑mailu pomocí šablon kompatibilních s makry.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

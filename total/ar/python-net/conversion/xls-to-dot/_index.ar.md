@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+يتيح تحويل XLS إلى DOT تحويل بيانات الجداول إلى ملفات قالب Word يمكن أن تكون أساسًا قابلاً لإعادة الاستخدام لتوليد المستندات المستقبلية. هذا مفيد عندما يجب أن تُوجه محتويات الجداول بنية مستند قابلة للتكرار بدلاً من مخرجات لمرة واحدة.
+
+تجعل واجهات برمجة التطبيقات Python تحويل XLS إلى DOT فعالًا للأتمتة من خلال السماح للأنظمة بإنشاء أصول جاهزة للقوالب برمجيًا وبشكل متسق عبر الأقسام أو سير العمل.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء القالب**
+  تحويل محتوى الجداول إلى ملفات DOT تُعرّف تخطيطات قابلة لإعادة الاستخدام للمستندات المستقبلية.
+
+* **تصميم مستند موحد**
+  استخدام بيانات XLS لتشكيل قوالب منظمة لاحتياجات المستندات المتكررة.
+
+* **أطر محتوى قابلة لإعادة الاستخدام**
+  بناء سير عمل قائم على القوالب من مواد المصدر المدفوعة بالجداول.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء القالب تلقائيًا**
+  إنشاء قوالب DOT من مدخلات الجداول دون عمل تصميم يدوي.
+
+* **سير عمل مصنع المستندات**
+  استخدام واجهات برمجة التطبيقات Python لتغذية بيانات الجداول المنظمة إلى خطوط أنابيب قوالب المستندات القابلة لإعادة الاستخدام.
+
+* **إعداد المخرجات القياسية**
+  توليد أصول القوالب ديناميكيًا للفرق التي تعتمد على إنشاء مستندات موحد.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

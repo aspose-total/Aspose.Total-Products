@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC 转 DOCX 转换将电子表格内容转换为一种现代文档格式，该格式广泛用于可编辑、可移植且结构化的基于文本的文件。 当需要将电子表格信息重新用于报告、摘要、提案或文档，并提升可读性和兼容性时，它非常有价值。
+
+借助 Python API，SXC 转 DOCX 转换通过将表格数据转化为符合数字工作流、内容系统和协作审查流程的标准化输出，支持可扩展的文档自动化。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **业务报告创建**  
+  将基于电子表格的信息转换为精美文档，以用于内部和外部沟通。
+
+* **可编辑文档**  
+  使源数据更易于在以文档为中心的环境中进行修订、注释和重复使用。
+
+* **格式标准化**  
+  帮助组织使用现代文档标准统一团队和系统之间的输出格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **计划报告自动化**  
+  在周期性报告任务中自动从 SXC 源生成 DOCX 文件。
+
+* **文档工作流集成**  
+  将转换后的文件直接导入审批、协作或发布系统，无需手动重新格式化。
+
+* **动态内容生成**  
+  允许基于 Python 的服务大规模创建个性化或数据驱动的文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

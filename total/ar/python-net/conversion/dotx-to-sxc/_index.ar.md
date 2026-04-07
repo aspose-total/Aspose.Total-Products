@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOTX إلى SXC يحول محتوى قالب Word إلى تنسيق جدول بيانات قديم يُستخدم في بيئات OpenOffice القديمة. يكون ذلك ذا صلة عندما يجب تصدير بيانات المستند المهيكلة لتوافق مع أنظمة الجداول السابقة.
+
+يدعم هذا التحويل الأتمتة من خلال تمكين واجهات برمجة تطبيقات Python لإعداد مخرجات جداول البيانات المستخرجة من المستند لأغراض الأرشفة، والتشغيل البيني، وتدفقات عمل توافق الأنظمة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **توافق جداول البيانات القديمة**
+  تصدير محتوى المستند إلى تنسيق يناسب أدوات جداول البيانات القديمة.
+
+* **إعادة استخدام البيانات المهيكلة**
+  نقل معلومات القالب إلى سير عمل جدولي حيث يكون دعم الأنظمة القديمة مهمًا.
+
+* **تكامل الأنظمة التاريخية**
+  دعم تبادل البيانات مع بيئات لا تزال تعتمد على صيغ مفتوحة قديمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تصدير تلقائي للأنظمة القديمة**
+  إنشاء ملفات SXC من قوالب DOTX في عمليات تركّز على التوافق.
+
+* **خطوط أنابيب ترحيل البيانات**
+  استخدام المخرجات المحوّلة لربط محتوى المستند بأنظمة جداول البيانات القديمة.
+
+* **معالجة تنسيق الأرشفة**
+  الحفاظ على البيانات المهيكلة من القوالب في أصول جداول بيانات متوافقة مع الأنظمة القديمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

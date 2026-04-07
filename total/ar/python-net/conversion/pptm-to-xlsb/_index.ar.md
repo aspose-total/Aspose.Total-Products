@@ -64,7 +64,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل PPTM إلى XLSB باستخدام واجهات برمجة تطبيقات بايثون يحول محتوى العروض التقديمية الممكّن للماكرو إلى تنسيق جدول بيانات ثنائي مصمم لتخزين فعال وأداء عالي. يكون ذلك مفيدًا عندما تحتاج كميات كبيرة من البيانات المهيكلة المستمدة من الشرائح إلى التعامل معها في سير عمل جداول البيانات مع حجم ملف محسن وسلوك تحميل محسّن.
+
+يعزز هذا التحويل الأتمتة من خلال دعم معالجة أسرع في بيئات ذات بيانات كثيفة وتبسيط نقل معلومات العرض التقديمي إلى مخرجات جداول بيانات مدمجة. وهو مفيد بشكل خاص للأنابيب القابلة للتوسع التي تعطي الأولوية للكفاءة وقابلية استخدام جداول البيانات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تخزين جداول البيانات بكفاءة**
+  يحول بيانات العرض التقديمي إلى تنسيق دفتر عمل ثنائي مدمج للاستخدام على نطاق واسع.
+
+* **معالجة البيانات موجهة للأداء**
+  يدعم تحميلًا ومعالجة أسرع لمخرجات جداول البيانات المحوّلة.
+
+* **تمكين سير عمل البيانات المهيكلة**
+  ينقل محتوى العرض التقديمي إلى بيئات جداول البيانات المُحسّنة للاستخدام التشغيلي.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **أنابيب تحويل عالية الحجم**
+  يُؤتمت تحويل ملفات PPTM المتعددة إلى جداول بيانات XLSB مدمجة.
+
+* **سير عمل تقارير مدرك للأداء**
+  يدعم إنشاء جداول بيانات سريعة لعمليات بيانات الأعمال المتكررة.
+
+* **أتمتة تجميع البيانات**
+  يُمكّن تجميعًا فعالًا للبيانات المحوّلة من العروض التقديمية إلى دفاتر عمل ثنائية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

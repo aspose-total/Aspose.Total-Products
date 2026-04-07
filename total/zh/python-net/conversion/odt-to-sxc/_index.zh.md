@@ -66,7 +66,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT 到 SXC 的转换将 OpenDocument 文本内容转换为用于结构化数据处理的电子表格导向格式。当需要将基于文档的表格、列表或记录重新用于基于单元格的布局以进行审阅和处理时，这非常有用。
+
+在自动化环境中，ODT 到 SXC 的转换支持文档数据提取、旧版电子表格的互操作性以及可扩展的内容结构化。Python API 有助于在多个文件之间可靠地自动化这些转换。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **面向电子表格的数据提取**  
+  将结构化文档内容转换为基于单元格的布局。
+
+* **旧版格式支持**  
+  帮助保持与旧电子表格工作流的兼容性。
+
+* **表格和记录迁移**  
+  将文档信息迁移到更易分析的结构中。
+
+* **运营数据再利用**  
+  使提取的内容更易于审阅和处理。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **旧版电子表格转换流水线**  
+  Python 自动化可以自动将 ODT 表格转换为 SXC 输出。
+
+* **批量记录提取**  
+  多个文档可以大规模地处理为电子表格格式。
+
+* **数据验证与导出**  
+  提取的内容可以在转换为 SXC 之前进行标准化。
+
+* **工作流互操作性支持**  
+  转换后的输出可以供仍依赖旧电子表格结构的系统使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

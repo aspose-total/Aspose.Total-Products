@@ -65,7 +65,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM 到 PPS 的转换将启用宏的文档转换为演示幻灯片文件，旨在直接显示而非编辑。当文档内容必须以可直接运行的视觉演示形式交付时，这非常有用。
+
+在自动化系统中，DOCM 到 PPS 的转换有助于简化演示交付，使得为信息亭、演示和计划的通信工作流生成以观看为中心的输出更加容易。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **直接幻灯片交付**
+  将文档内容转换为旨在即时播放的演示文稿。
+
+* **会议和活动展示**
+  支持在文档洞察需要以视觉方式呈现且无需编辑步骤的场景。
+
+* **受控的演示输出**
+  帮助以更面向观看的格式分发演示内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自动化幻灯片发布**
+  从 DOCM 源生成 PPS 文件，以便准备好进行演示的分发。
+
+* **显示工作流集成**
+  支持向演示屏幕或计划会话的自动交付。
+
+* **批量视觉输出创建**
+  高效地将文档集合转换为可播放的幻灯片资产。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

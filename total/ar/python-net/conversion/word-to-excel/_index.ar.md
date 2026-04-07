@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل Word إلى Excel باستخدام واجهات برمجة تطبيقات Python يجعل من الممكن نقل محتوى المستند إلى صيغ تعتمد على المصنفات لأغراض الحساب والتحليل والمراجعة المنظمة. وهذا يكون ذا قيمة خاصة عندما تحتاج المعلومات الملتقطة في مستندات سردية أو شبه منظمة إلى تنظيمها في أوراق للاستخدام التشغيلي أو التحليلي.
+
+من منظور الأتمتة، يبسط هذا التحويل حركة بيانات المستند إلى سير عمل جداول البيانات، مما يتيح معالجة قابلة للتوسع، والتحقق، والتكامل مع أنظمة التقارير ودعم اتخاذ القرار.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إعداد البيانات المنظمة**
+  يحول المحتوى المستند إلى Word إلى تخطيطات مصنفات مناسبة للفرز والتصفية والتحليل.
+
+* **التقارير التشغيلية**
+  ينقل معلومات المستند إلى جداول البيانات للمراجعة، والمتابعة، وتوليد المقاييس.
+
+* **تنظيف البيانات وتطبيعها**
+  يساعد على إعادة تنسيق المحتوى غير المنظم أو شبه المنظم إلى هياكل جداول بيانات قابلة للاستخدام.
+
+* **تمكين سير عمل الأعمال**
+  يدعم الفرق التي تحتاج إلى معلومات مستمدة من المستندات بصيغة صديقة للحساب.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط أنابيب المستند إلى المصنف**
+  يقوم تلقائيًا بتحويل ملفات Word المتكررة إلى مخرجات متوافقة مع Excel للاستخدام التجاري.
+
+* **وظائف استخراج دفعات**
+  يعالج كميات كبيرة من المستندات إلى جداول بيانات للتحليل المركزي.
+
+* **التحقق والمصالحة**
+  يستخدم بيانات المصنف المحولة في الفحوصات الآلية، والمقارنات، وروتينات التدقيق.
+
+* **تكامل التحليلات**
+  يُغذي مخرجات جداول البيانات إلى لوحات التحكم، والبرمجيات النصية، وأنظمة المعالجة اللاحقة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

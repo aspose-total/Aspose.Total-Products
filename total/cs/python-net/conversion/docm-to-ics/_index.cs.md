@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod DOCM na ICS transformuje obsah dokumentu s makry na data kompatibilní s kalendářem, což umožňuje znovu použít rozvrhy, podrobnosti událostí nebo obsah řízený daty v plánovacích pracovních postupech. To je zvláště užitečné, když dokumenty obsahují strukturované informace o událostech, které vyžadují širší přístupnost.
+
+Z hlediska automatizace propojuje převod DOCM na ICS vytvořené rozvrhy s kalendářovými systémy, což umožňuje automatické generování událostí, synchronizaci a koordinaci pracovních postupů založených na čase.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Extrahování rozvrhu**
+  Převádí obsah dokumentu související s událostmi na data připravená pro kalendář pro plánovací použití.
+
+* **Publikování schůzek a termínů**
+  Pomáhá distribuovat časové osy definované v dokumentu prostřednictvím standardizovaných kalendářových souborů.
+
+* **Plánování napříč platformami**
+  Podporuje přenositelnost informací založených na datech do kompatibilních kalendářových nástrojů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatické vytváření událostí**
+  Generuje soubory ICS z obsahu DOCM obsahujícího podrobnosti o schůzkách nebo termínech.
+
+* **Pracovní postupy synchronizace kalendáře**
+  Podporuje automatizovaný import rozvrhů odvozených z dokumentu do plánovacích systémů.
+
+* **Opakované hromadné plánování**
+  Převádí více plánovacích dokumentů na standardizované kalendářové výstupy ve velkém měřítku.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل البريد الإلكتروني إلى WordML في بايثون يحول الرسائل إلى محتوى معالجة كلمات مبني على XML لتبادل المستندات المهيكلة والتحويل. يكون مفيدًا عندما يجب معالجة المستندات المستخرجة من البريد الإلكتروني في أنظمة تفضّل الترميز الصريح والتحكم البرمجي.
+
+يدعم هذا الأتمتة من خلال جعل محتوى الرسائل أسهل للفحص والتحويل والتحقق والدمج في عمليات النشر أو سير العمل المؤسسي الموجهة بـ XML.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء مستند XML مهيكل**
+  تحويل رسائل البريد الإلكتروني إلى WordML لتدفقات عمل المستندات القائمة على الترميز.
+
+* **التوافق مع أنظمة XML**
+  تبادل المحتوى المستمد من الرسائل عبر منصات تعتمد على XML المهيكل.
+
+* **معالجة محتوى دقيقة**
+  فحص وتعديل عناصر المستند التي تم إنشاؤها من رسائل البريد الإلكتروني.
+
+* **تحويل موجه بالمخطط**
+  تحضير محتوى البريد الإلكتروني لسلاسل التحويل التي تتطلب بنية XML صريحة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط أنابيب تحويل XML**
+  تحويل رسائل البريد الإلكتروني إلى WordML وتطبيق تحويلات محتوى آلية.
+
+* **سير عمل يركز على التحقق**
+  فحص البنية وتطبيق قواعد الأعمال على مستندات XML المستخرجة من البريد الإلكتروني.
+
+* **أتمتة النشر والتبادل**
+  توجيه المخرجات المهيكلة إلى أنظمة المستندات والنشر المؤسسية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

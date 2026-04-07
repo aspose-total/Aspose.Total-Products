@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod OST na DOCX transformuje data poštovní schránky do moderního editovatelného formátu dokumentu, který je široce používán pro obchodní komunikaci a správu obsahu. Tento převod je cenný pro zachování obsahu e‑mailů ve strukturované, přístupné a znovupoužitelné podobě pro dokumentaci a spolupráci.
+
+Z pohledu automatizace pomáhá převod OST na DOCX organizacím převádět uložený obsah poštovní schránky do standardizovaných digitálních dokumentů vhodných pro pracovní postupy, publikování a evidenční systémy. Python API umožňují efektivní, spolehlivý a snadno integrovatelný hromadný převod do automatizovaných obsahových pipeline.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Moderní dokumentace e‑mailů**  
+  Převádí obsah poštovní schránky do souborů DOCX pro úpravy, sdílení a dlouhodobé používání.
+
+* **Příprava obchodních záznamů**  
+  Podporuje dokumentační pracovní postupy, které vyžadují standardizovaný výstup z textových procesorů.
+
+* **Opětovné využití obsahu v reportech**  
+  Umožňuje začlenit text e‑mailu do širších zpráv, souhrnů nebo znalostních souborů.
+
+* **Výstup připravený ke spolupráci**  
+  Usnadňuje revizi a úpravu archivovaných dat poštovní schránky napříč týmy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Hromadný převod dokumentů**  
+  Python skripty převádějí data OST do souborů DOCX napříč rozsáhlými archivy e‑mailů.
+
+* **Pipeline pro extrakci znalostí**  
+  Automatizované pracovní postupy převádějí zprávy do strukturovaných dokumentů pro opětovné použití a indexování.
+
+* **Integrace správy dokumentů**  
+  Programatický převod poskytuje obsah poštovní schránky do systémů postavených na moderních standardech dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

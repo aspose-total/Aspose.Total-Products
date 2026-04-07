@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل MBOX إلى MD يحول أرشيفات صناديق البريد إلى ملفات Markdown، مما يجعل محتوى البريد الإلكتروني أسهل للقراءة، والإصدار، وإعادة الاستخدام في أنظمة توثيق خفيفة الوزن تعتمد على النص. هذا التنسيق مثالي لنقل المحتوى، وسير عمل المطورين، وبيئات إدارة المعرفة.
+
+باستخدام واجهات برمجة تطبيقات بايثون، يمكن أتمتة تحويل MBOX إلى Markdown لدعم استخراج المحتوى القابل للتوسع، والنشر الثابت، والتكامل الفعال مع خطوط أنابيب التوثيق الحديثة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **توثيق نصي خفيف الوزن**
+  تحويل رسائل البريد الإلكتروني إلى Markdown لتوثيق نظيف، قابل للقراءة، ومحمول.
+
+* **دمج قاعدة المعرفة**
+  إعادة استخدام محتوى صندوق البريد في الويكي، أو المستودع، أو سير عمل المحتوى الثابت.
+
+* **أرشفة صديقة للإصدارات**
+  تخزين محتوى البريد الإلكتروني المحول بتنسيق مناسب للتتبع والتحديثات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء محتوى ثابت**
+  تحويل بيانات صندوق البريد تلقائيًا إلى Markdown للنشر أو الفهرسة.
+
+* **سير عمل قائم على المستودع**
+  استخدام بايثون لنقل أرشيفات البريد الإلكتروني إلى أنظمة إدارة محتوى تركز على النص.
+
+* **خطوط أنابيب توثيق قابلة للتوسع**
+  تحويل دفعات ملفات MBOX إلى أصول Markdown منظمة لإعادة الاستخدام.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

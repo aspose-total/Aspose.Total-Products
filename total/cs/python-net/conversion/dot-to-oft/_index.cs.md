@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod DOT na OFT transformuje šablony dokumentů na soubory e‑mailových šablon používané v opakovatelných pracovních postupech zasílání zpráv. To je užitečné, když organizace chtějí převést psané šablony na znovupoužitelné komunikační prostředky.
+
+Pomocí Python API podporuje převod DOT na OFT automatizovanou tvorbu šablon zpráv, které zvyšují konzistenci, snižují opakovanou práci a zjednodušují přípravu komunikace.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření opakovatelných e‑mailových šablon**
+  Převést soubory DOT na OFT pro standardizované vytváření zpráv.
+
+* **Standardizace komunikace**
+  Přetvořit rozvržení dokumentů na opakovatelné e‑mailové šablony pro týmy nebo systémy.
+
+* **Komunikační prostředky připravené pro workflow**
+  Připravit strukturované komunikační šablony k opakovanému použití v průběžných operacích.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná tvorba šablon**
+  Pythonové pracovní postupy mohou vytvářet soubory OFT z dokumentů DOT pro systémy přípravy zpráv.
+
+* **Opakovatelné komunikační kanály**
+  Převod umožňuje konzistentní výstup e‑mailových šablon ze centrálních zdrojů dokumentů.
+
+* **Škálovatelné nasazení šablon**
+  Programové procesy mohou generovat a spravovat velké množství opakovatelných e‑mailových šablon.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل OTT إلى XLSX في واجهات برمجة تطبيقات بايثون يحول قوالب النصوص OpenDocument إلى دفاتر عمل جداول بيانات حديثة للتحليل، وإعداد التقارير، وإعادة استخدام البيانات المهيكلة. يُعد هذا أحد أكثر التحويلات عملية عندما يجب أن يصبح محتوى المستند متاحًا على نطاق واسع وقابلًا للتحرير في شكل جدولي.
+
+يدعم التحويل الأتمتة من خلال تمكين إنشاء مخرجات دفتر العمل بشكل متكرر من القوالب، مما يسهل دمج المحتوى المستمد من المستندات في خطوط أنابيب البيانات، والتدقيقات، وعمليات إعداد التقارير.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء جداول بيانات حديثة**  
+  ينتج ملفات دفتر عمل حديثة من القوالب النصية.
+
+* **جاهزية التحليل التجاري**  
+  يسهل فرز المعلومات وتصفيةها وحسابها ومراجعتها.
+
+* **توافق واسع مع سير العمل**  
+  يدعم التعاون وتبادل البيانات القائم على جداول البيانات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنتاج دفتر عمل مجدول**  
+  يحول ملفات OTT إلى مخرجات XLSX على دورات متكررة.
+
+* **خطوط أنابيب القالب إلى التقرير**  
+  يُدخل جداول البيانات المُنشأة في سير عمل إعداد التقارير والتحليلات.
+
+* **تعبئة البيانات برمجياً**  
+  ينشئ مخرجات دفتر عمل مهيكلة للفرق أو الأنظمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOTM إلى XLSX يحول قوالب Word الممكّنة بالماكرو إلى دفاتر Excel الحديثة للتحليل المنظم، وإعداد التقارير، والتعاون. يكون ذلك ذا قيمة عندما يجب إعادة استخدام المحتوى الملتقط في قوالب المستندات بصيغة موجهة للبيانات تتناسب مع أنظمة الجداول الإلكترونية الحديثة.
+
+استخدام واجهات برمجة تطبيقات Python لتحويل DOTM إلى XLSX يدعم الأتمتة من خلال استخراج وتنظيم محتوى القالب إلى دفاتر عمل على نطاق واسع. يقلل ذلك من المعالجة اليدوية، ويحسن اتساق البيانات، ويعزز التكامل بين سير عمل المستندات والعمليات القائمة على الجداول الإلكترونية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تصدير دفتر عمل حديث**
+  تحويل محتوى DOTM إلى XLSX للتحليل وإعداد التقارير والتعاون المنظم.
+
+* **تحويل بيانات القالب**
+  نقل الجداول والقيم المستندة إلى المستند إلى صيغة جدول إلكتروني مدعومة على نطاق واسع.
+
+* **دعم إعداد التقارير التشغيلية**
+  استخدام دفاتر العمل المحوّلة كمدخلات للمراجعة والمشاركة والمعالجة اللاحقة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء دفتر عمل تلقائي**
+  يمكن للأنظمة إنشاء ملفات XLSX من قوالب DOTM لإعداد التقارير وسير عمل الأعمال.
+
+* **تكامل المستند إلى البيانات**
+  يدعم التحويل التسليم التلقائي من مستندات القالب إلى عمليات الجداول الإلكترونية.
+
+* **إنتاج جداول إلكترونية قابل للتوسع**
+  تمكن الوظائف البرمجية من تحويل كميات كبيرة من ملفات DOTM إلى مخرجات XLSX.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,41 @@ outformat: MHTML
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+文档到 MHTML 的转换将 Word 内容转换为自包含的网络存档格式，捆绑标记和资源，以便更轻松地共享和保存。它对于基于浏览器的查看、网络归档和便携式内容分发非常有价值。
+
+Python API 有助于自动化 DOC 到 MHTML 的转换，以支持发布、合规和网络交付工作流，实现一致的输出和高效的文档打包。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **网页存档导出**
+  将文档转换为 MHTML，以实现便携的浏览器友好查看。
+
+* **自包含共享**
+  将文档内容和资源打包成单个网络存档文件。
+
+* **布局保留**
+  在适合网络存储的格式中保留文档呈现。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化网页打包**
+  从 DOC 内容生成 MHTML 文件，用于分发和归档工作流。
+
+* **基于浏览器的访问流水线**
+  将文档转换为网络可读的存档，以供门户和文档库使用。
+
+* **可扩展的格式标准化**
+  在大规模数据集上以编程方式将 Word 内容标准化为便携的 MHTML。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

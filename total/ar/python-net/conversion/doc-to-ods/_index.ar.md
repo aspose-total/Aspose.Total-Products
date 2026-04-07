@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل المستند إلى ODS يحول محتوى Word إلى ملفات جدول بيانات OpenDocument، مما يجعل البيانات المهيكلة أسهل في المراجعة والحساب والمشاركة في سير عمل المكتب المفتوح. يكون ذلك مفيدًا عندما تحتاج جداول المستند أو السجلات إلى وظائف جدول بيانات بصيغة مفتوحة.
+
+مع واجهات برمجة تطبيقات Python، يصبح تحويل DOC إلى ODS أسرع وأكثر موثوقية، داعمًا استخراج البيانات المتكرر والتكامل عبر تقارير، تحليلات، وأنظمة تشغيلية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تحويل جدول البيانات المفتوح**
+  نقل جداول المستند إلى ODS للفرز، الحساب، والمراجعة المهيكلة.
+
+* **مشاركة البيانات القابلة للتشغيل البيني**
+  استخدم مخرجات ODS عندما يُفضَّل تبادل جداول البيانات بصيغة مفتوحة.
+
+* **استخراج البيانات التشغيلية**
+  تحويل محتوى المستند المتكرر إلى أصول جدول بيانات قابلة لإعادة الاستخدام.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تصدير البيانات الآلي**
+  إنشاء ملفات ODS من مدخلات DOC لخطوط أنابيب تقارير المكتب المفتوح.
+
+* **معالجة جداول البيانات بالجملة**
+  تحويل السجلات المستندة إلى المستند إلى مخرجات جدول بيانات على نطاق واسع.
+
+* **سير عمل تكامل الأنظمة**
+  ربط استخراج المستند برمجيًا مع معالجة البيانات بصيغة مفتوحة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

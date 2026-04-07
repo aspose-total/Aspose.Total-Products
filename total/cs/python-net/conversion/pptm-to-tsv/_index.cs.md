@@ -64,7 +64,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Slides for Python via 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTM na TSV konverzi pomocí Python API převádí data z prezentací s makry do formátu tabulátorově odděleného textu optimalizovaného pro jednoduchou výměnu strukturovaných dat. Je užitečná, když je třeba přenést tabulky ze snímků nebo extrahované záznamy do systémů, které upřednostňují formáty prostého textu založené na oddělovačích.
+
+Konverze je dobře vhodná pro automatizaci, protože TSV soubory jsou snadno generovatelné, parsovatelné, validovatelné a importovatelné do analytických nebo ETL pracovních toků. Pomáhá zjednodušit přesun dat ze zdrojů prezentací do následných systémů bez těžkého formátovacího zatížení.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Export strukturovaných dat**
+  Převádí data založená na snímcích do jednoduchého sloupcově orientovaného textového formátu pro zpracování.
+
+* **Výměna dat systém‑na‑systém**
+  Usnadňuje přesun dat odvozených z prezentací mezi skripty a aplikacemi.
+
+* **Lehká archivace dat**
+  Ukládá extrahovaný obsah tabulek v kompaktní a strojově čitelné podobě.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Generování vstupů pro ETL**
+  Vytváří TSV soubory z prezentací pro automatizovaný příjem do datových pipeline.
+
+* **Hromadná transformace dat**
+  Podporuje rozsáhlý export dat z prezentací do textových výstupů založených na oddělovačích.
+
+* **Validace a parsování pracovních toků**
+  Umožňuje efektivní automatizované zpracování převedených záznamů napříč systémy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu R
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF to VCF conversion transformuje dokumenty ve formátu rich text do souborů vizitek, které mohou ukládat jména, telefonní čísla, adresy a související kontaktní informace v přenosném formátu. To je užitečné, když jsou kontaktní údaje vloženy v dokumentech a je potřeba je převést na strukturované, sdílené záznamy.
+
+V automatizačních pracovních postupech podporuje RTF to VCF efektivní extrakci kontaktů, synchronizaci a distribuci převodem textových adresářů nebo seznamů na standardizované kontaktní aktiva pro systémy a týmy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytvoření záznamu kontaktu**  
+  Převádí kontaktní údaje z dokumentů do přenosných digitálních vizitek.
+
+* **Modernizace adresáře**  
+  Pomáhá transformovat psané seznamy kontaktů do strukturovaných záznamů vhodných pro import a sdílení.
+
+* **Přenosná výměna kontaktů**  
+  Podporuje přenos kontaktních informací mezi systémy a zařízeními.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované pipeline pro extrakci kontaktů**  
+  Systémy mohou parsovat RTF dokumenty a generovat VCF soubory z identifikovaných kontaktních údajů.
+
+* **Hromadná příprava adresáře**  
+  Programatický převod podporuje masovou tvorbu kontaktních záznamů z textových zdrojových souborů.
+
+* **Integrace CRM a adresáře**  
+  Dynamické pracovní postupy mohou transformovat v dokumentech uložené kontaktní informace do znovupoužitelných kontaktních aktiv.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

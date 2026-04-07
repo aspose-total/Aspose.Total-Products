@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod OST na TIFF transformuje obsah poštovní schránky do vysoce kvalitního formátu obrazu, který se běžně používá v archivaci, skenování a pracovních postupech zachování dokumentů. Je užitečný pro organizace, které potřebují trvalé, obrazové reprezentace e‑mailových záznamů.
+
+Python API podporují škálovatelný převod OST na TIFF pro automatizovanou archivaci, soulad a operace s obrazy. To pomáhá udržovat konzistentní kvalitu výstupu a zároveň umožňuje efektivní integraci s archivními a systémy správy dokumentů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Archivace obrazových materiálů**  
+  Převádí obsah poštovní schránky do TIFF pro trvalé a vysoce věrné ukládání.
+
+* **Imaging pro soulad**  
+  Podporuje workflow uchovávání, které se opírají o standardy obrazové archivace.
+
+* **Podpora revize dokumentů**  
+  Pomáhá týmům kontrolovat e‑mailové záznamy jako statické obrazy v kontrolovaném prostředí.
+
+* **Výstup záznamů kompatibilní se systémy**  
+  Umožňuje, aby obsah poštovní schránky vyhovoval platformám pro imaging a archivaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizace pipeline pro archivaci**  
+  Python skripty převádějí OST archivy do TIFF pro dlouhodobou správu záznamů.
+
+* **Integrace workflow pro imaging**  
+  Automatizované systémy připravují vizuály odvozené z poštovní schránky pro platformy archivace dokumentů.
+
+* **Zpracování vysokého objemu pro soulad**  
+  Programový převod podporuje škálovatelné generování obrazových záznamů komunikace.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,47 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 Word 转换为 PPTX 可将文字处理文档转换为现代演示文件，以便编辑、协作和交付。这是将详细书面内容重新用于会议、培训和高层沟通的幻灯片演示的最实用方式之一。
+
+在自动化工作流中，Word 转 PPTX 转换通过将基于文档的源材料转化为可编辑的幻灯片，加速演示文稿的创建，并可实现程序化的生成、更新和分发。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **现代幻灯片创建**
+  将 Word 内容转换为广泛使用的演示文件，以用于业务沟通。
+
+* **协作式演示编辑**
+  生成可编辑的演示文稿，团队可以在项目之间进行完善和重复使用。
+
+* **高层与团队简报**
+  将书面报告转化为简洁、可视化的演示，以支持决策。
+
+* **大规模内容再利用**
+  通过将文档转化为演示资产，延长其生命周期。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化演示制作**
+  在计划或事件驱动的工作流中，从重复文档生成 PPTX 文件。
+
+* **批量演示转换**
+  将多个源文件处理为可编辑的幻灯片，以供运营使用。
+
+* **发布与审阅流水线**
+  将已批准的文档转换为演示文稿，以便协作和分发。
+
+* **集成报告自动化**
+  将 PPTX 输出用作端到端内容生成和交付系统的一部分。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

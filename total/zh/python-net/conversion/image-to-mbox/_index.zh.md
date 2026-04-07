@@ -46,7 +46,53 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将图像转换为 MBOX 有助于将图像衍生的通信打包到邮箱归档文件中，这些文件可以在单个容器中存储多个消息记录。这对于需要在统一的电子邮件归档工作流中保存或迁移视觉通信数据的组织非常有用。
+
+从自动化的角度来看，将图像转换为 MBOX 支持可扩展的归档处理、批量通信组装以及跨系统高效传输消息内容。它使基于图像的信息能够以结构化的格式存储，便于保留和迁移任务。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **邮箱归档构建**
+  将基于图像的通信记录转换为 MBOX 归档，以实现集中存储。
+
+* **批量记录保存**
+  将多个图像衍生的消息分组到单个归档文件中，以实现长期保留。
+
+* **迁移准备**
+  准备视觉通信内容，以便转移到支持邮箱归档的系统中。
+
+* **案例和项目打包**
+  在一个可移植的邮箱文件中组织相关的基于图像的消息记录。
+
+* **历史通信存储**
+  以适合归档的形式保存截图、通知和扫描的信函。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量归档生成**
+  大量图像集合可以自动转换为基于 MBOX 的通信归档。
+
+* **保留流水线自动化**
+  图像衍生的记录可以根据策略驱动的时间表分组到邮箱归档中。
+
+* **数据整合工作流**
+  分散的视觉文件可以转换为统一的归档输出，以便更易管理。
+
+* **导出与转移流程**
+  自动化系统可以将基于图像的消息打包成 MBOX 文件，以进行系统迁移。
+
+* **合规存储自动化**
+  视觉通信证据可以以结构化的邮箱格式归档，以供审查和保留。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

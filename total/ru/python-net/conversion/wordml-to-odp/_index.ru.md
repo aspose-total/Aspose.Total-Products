@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML в ODP преобразует содержимое документа в файлы OpenDocument Presentation для обзора, распространения и совместной работы в открытом формате, ориентированных на презентацию. Это полезно, когда повествовательный или структурированный контент из документов необходимо повторно использовать в слайдовой коммуникации.
+
+Python API делают преобразование WordML в ODP эффективным, программно перестраивая содержимое в структуры презентаций и обеспечивая масштабируемую автоматизацию преобразования документов в слайды.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые случаи использования" %}}
+
+* **Повторное использование презентаций**
+  Преобразует содержимое документа в открытые файлы презентаций для визуального представления.
+
+* **Сотрудничество в открытом формате**
+  Поддерживает рабочие процессы презентаций, построенные на совместимых стандартах документов.
+
+* **Повторное использование структурированного контента**
+  Переносит текстовый и основанный на структуре материал из WordML в форму слайдов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Создание наборов слайдов**
+  Автоматизирует создание ODP‑презентаций из отчетов, брифов или планов.
+
+* **Конвейеры публикации контента**
+  Интегрирует преобразование документов в презентации в рабочие процессы распространения.
+
+* **Автоматизация презентаций на основе стандартов**
+  Обеспечивает масштабируемое создание слайдов открытого формата из структурированных источников.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

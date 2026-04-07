@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod textu do OFT pomocí Python API umožňuje převést prostý textový obsah na znovupoužitelné soubory šablon e‑mailů. To je cenné pro organizace, které potřebují standardizované formáty zpráv pro opakovanou komunikaci, interní pracovní postupy nebo uživatelsky řízené vytváření zpráv.
+
+Převod podporuje automatizaci tím, že promění text na aktiva připravená k použití jako šablony, která lze znovu využívat v kampaních, provozních službách a notifikačních systémech, a zároveň zlepšuje konzistenci, efektivitu a škálovatelnost.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření znovupoužitelných e‑mailových šablon**  
+  Převádí text na OFT šablony pro opakované komunikační workflowy.
+
+* **Standardizovaná komunikace**  
+  Pomáhá zajistit konzistentní strukturu a jazyk napříč opakujícím se e‑mailovým obsahem.
+
+* **Příprava operačních návrhů**  
+  Podporuje generování souborů šablon pro týmy, které přizpůsobují zprávy před odesláním.
+
+* **Návrh komunikace řízený procesy**  
+  Umožňuje strukturovanému textovému obsahu stát se znovupoužitelným aktivem pro obchodní operace.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Potrubí generování šablon**  
+  Automatizace může převést schválený text na OFT šablony pro opakované použití.
+
+* **Vytváření návrhů založené na workflow**  
+  Systémy mohou generovat znovupoužitelné e‑mailové návrhy z dynamických textových zdrojů.
+
+* **Škálovatelná standardizace zpráv**  
+  Programový převod pomáhá udržovat konzistenci šablon napříč odděleními a procesy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

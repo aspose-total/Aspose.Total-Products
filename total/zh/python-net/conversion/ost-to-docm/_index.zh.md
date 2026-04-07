@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OST 到 DOCM 的转换将邮箱数据转换为宏启用的文档格式，支持需要可编辑内容并嵌入自动化功能的高级文档工作流。当转换后的电子邮件内容需要参与结构化或脚本化的文档流程时，这非常有用。
+
+在以自动化为重点的环境中，OST 到 DOCM 的转换使邮箱内容能够直接进入可编程的文档生态系统。Python API 让组织能够大规模自动化转换，提高一致性、运营速度，并与以文档为中心的业务流程集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用文档**  
+  将电子邮件内容转换为 DOCM 文件，以用于依赖嵌入式文档自动化的工作流。
+
+* **流程驱动的报告**  
+  支持报告系统，其中转换后的邮箱数据必须与自动化文档逻辑配合工作。
+
+* **基于模板的操作**  
+  帮助将电子邮件衍生的内容集成到可重复使用的宏启用业务模板中。
+
+* **结构化内容复用**  
+  使邮箱信息更容易纳入动态文档工作流。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **编程式报告组装**  
+  Python 自动化将 OST 数据转换为 DOCM，以用于脚本化的报告管道。
+
+* **动态文档工作流**  
+  自动化系统使用宏启用文档来处理和管理转换后的电子邮件内容。
+
+* **企业模板填充**  
+  转换例程将邮箱数据注入带有嵌入式自动化行为的文档模板中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

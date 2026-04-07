@@ -65,7 +65,47 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLT to DOT conversion in Python allows Excel template files to be converted into Word template documents that can serve as reusable starting points for future document generation. This is especially useful when spreadsheet templates hold structured information that needs to be repackaged into document templates for repeated use.
+
+In automation-focused environments, converting XLT to DOT supports template unification and scalable document creation. It enables Python-based systems to transform spreadsheet layouts into reusable Word template assets that can be populated programmatically across multiple business processes.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření znovupoužitelných šablon dokumentů**  
+  Převést soubory XLT na šablony DOT pro standardizovanou výrobu dokumentů.
+
+* **Zarovnání šablon procesů**  
+  Přesunout struktury řízené tabulkami do formátů šablon Word používaných napříč workflow dokumentace.
+
+* **Opakované využití operačního obsahu**  
+  Vytvořit základní šablony, které lze opakovaně použít pro zprávy, formuláře nebo interní dokumenty.
+
+* **Transformace starých šablon**  
+  Modernizovat starší šablony tabulek jejich převodem na znovupoužitelné zdroje šablon Word.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Pipelines generování šablon**  
+  Automaticky převádět soubory XLT na šablony DOT pro opakovatelná workflow dokumentů.
+
+* **Programatické nastavení dokumentu**  
+  Použít Python API k vytvoření základních Word šablon z obsahu tabulek pro pozdější naplnění.
+
+* **Standardizované výstupní systémy**  
+  Zavádět převedené soubory DOT do podnikových systémů, které vyžadují konzistentní výchozí body dokumentů.
+
+* **Hromadná migrace šablon**  
+  Automatizovat transformaci starých XLT aktiv do knihoven Word šablon ve velkém měřítku.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

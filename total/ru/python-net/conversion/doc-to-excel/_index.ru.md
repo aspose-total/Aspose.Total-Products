@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Преобразование документов в Excel преобразует содержимое Word в вывод, удобный для электронных таблиц, поддерживающий вычисления, анализ, сортировку и составление отчетов. Это особенно ценно, когда бизнес‑информация, хранящаяся в документах, должна стать структурированной и пригодной к использованию.
+
+Использование Python‑API для преобразования DOC в Excel позволяет автоматизировать извлечение таблиц и записей, помогая организациям оптимизировать отчётность, повысить точность данных и масштабировать процессы преобразования документов в электронные таблицы.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Анализ бизнес‑данных**
+  Преобразуйте таблицы из документов в листы, совместимые с Excel, для фильтрации, формул и проверки.
+
+* **Оперативная отчётность**
+  Перенесите структурированное содержимое из файлов DOC в электронные таблицы, используемые в регулярных циклах отчётности.
+
+* **Модернизация процессов**
+  Замените ручное копирование из документов в таблицы последовательным автоматическим преобразованием.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Автоматическое создание таблиц**
+  Преобразуйте входящие файлы DOC в выводы Excel для команд данных и пользователей операций.
+
+* **ETL и конвейеры отчётности**
+  Передавайте готовое к использованию в таблицах содержимое документов в аналитические и отчётные системы.
+
+* **Регулярное пакетное преобразование**
+  Запланируйте экспорт из документов в Excel на основе Python для постоянных бизнес‑процессов.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
@@ -114,7 +148,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
       </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

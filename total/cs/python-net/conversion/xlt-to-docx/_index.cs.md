@@ -65,7 +65,47 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLT to DOCX conversion in Python makes it possible to transform Excel template files into modern Word documents that are widely used for professional documentation, collaboration, and content exchange. This conversion is useful when spreadsheet-based templates contain information that needs to be presented in a cleaner, more document-friendly format.
+
+For automated systems, XLT to DOCX conversion improves content portability and workflow compatibility. It supports scalable document generation, simplifies integration with modern document platforms, and helps organizations move from spreadsheet-centric assets to structured, reusable Word outputs.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Profesionální generování dokumentů**  
+  Convert XLT templates into DOCX files for polished reports, forms, and business documents.
+
+* **Spolupráce napříč týmy**  
+  Make spreadsheet-origin content easier to review and edit in a standard modern Word format.
+
+* **Opětovné použití šablon napříč systémy**  
+  Repurpose Excel templates as DOCX documents for broader operational and communication needs.
+
+* **Zlepšení prezentace obsahu**  
+  Turn tabular or structured spreadsheet content into a more readable and formal document layout.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Plánovaná výroba dokumentů**  
+  Use Python APIs to automatically generate DOCX files from XLT templates at defined intervals.
+
+* **Pracovní toky data‑do‑dokumentu**  
+  Feed template content into automated pipelines that produce modern Word documents for downstream use.
+
+* **Škálovatelná automatizace reportování**  
+  Convert large sets of spreadsheet templates into DOCX files for enterprise reporting and documentation.
+
+* **Integrace doručování dokumentů**  
+  Attach converted DOCX outputs to automated approval, storage, or notification workflows.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

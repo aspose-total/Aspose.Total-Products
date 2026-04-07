@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu V
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF to EPUB conversion transforms contact card information into reflowable digital publication format, making the content accessible in reading-oriented environments and portable documentation workflows. This is useful when contact data needs to be bundled into structured digital reference material.
+
+With Python APIs, VCF to EPUB conversion can support automated publishing pipelines by turning contact records into portable, organized content that is easy to distribute and view across devices.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Digitální publikování referencí**  
+  Převést data kontaktů do souborů EPUB pro přenosné čtení a distribuci.
+
+* **Strukturované balení informací**  
+  Organizovat záznamy kontaktů do digitálního obsahu vhodného pro publikaci.
+
+* **Přístupnost napříč zařízeními**  
+  Poskytnout informace o kontaktech ve formátu vhodném pro různé čtecí prostředí.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované vytváření adresáře kontaktů**  
+  Generovat soubory EPUB z dávky VCF záznamů pro přenosné adresáře.
+
+* **Integrace publikačního pracovního postupu**  
+  Zahrnout převedený obsah kontaktů do procesů digitální publikace.
+
+* **Škálovatelné distribuční řetězce**  
+  Použít Python API k efektivnímu vytváření a doručování strukturovaných výstupů EPUB.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

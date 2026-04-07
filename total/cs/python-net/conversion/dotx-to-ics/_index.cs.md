@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX na ICS konverze převádí obsah šablon Wordu na data kompatibilní s kalendářem pro plánování událostí a časově orientované pracovní postupy. Je užitečná, když strukturovaný obsah dokumentu obsahuje informace o schůzkách, termínech nebo rozvrzích, které je třeba znovu použít v kalendářových systémech.
+
+Pomocí Python API tato konverze umožňuje automatizovanou tvorbu kalendářových záznamů ze šablon, což týmům pomáhá zefektivnit plánování, připomínky a distribuci událostí napříč integrovanými systémy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Extrahování událostí**
+  Převést obsah dokumentu související s rozvrhem do souborů připravených pro kalendář.
+
+* **Distribuce schůzek**
+  Přeměnit strukturované šablony na znovupoužitelné kalendářové položky pro účastníky.
+
+* **Správa termínů**
+  Přeformátovat důležité datumy z dokumentů na sledovatelné plánovací prostředky.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná tvorba kalendáře**
+  Vytvářet soubory ICS ze šablon DOTX v pracovních postupech řízených událostmi.
+
+* **Potrubí připomínek a plánování**
+  Použít převedený výstup k naplnění automatizovaných plánovacích a upozorňovacích systémů.
+
+* **Publikování událostí založené na šablonách**
+  Vytvářet konzistentní kalendářové soubory z opakujících se formátů dokumentů ve velkém měřítku.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

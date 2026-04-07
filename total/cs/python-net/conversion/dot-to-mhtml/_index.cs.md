@@ -53,7 +53,41 @@ K přidání funkce převodu DOT na MHTML používáme API [Aspose.Words for Pyt
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod DOT na MHTML transformuje šablony pro zpracování textu do souborů webových archivů, které seskupují obsah do jediného přenosného zdroje. Je to užitečné pro zachování rozvržení, sdílení obsahu dokumentu pomocí webově kompatibilních formátů a zjednodušení samostatné distribuce.
+
+Python API umožňují praktické provádění převodu DOT na MHTML v automatizovaných prostředích, kde je třeba dokumenty publikovat, archivovat nebo přenášet jako kompaktní soubory připravené pro web.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Web Archive Export**
+  Převést soubory DOT na MHTML pro přenosné, prohlížečem přátelské sdílení dokumentů.
+
+* **Single-File Preservation**
+  Uložit obsah dokumentu v samostatném formátu, který zjednodušuje přenos a přístup.
+
+* **Layout-Oriented Distribution**
+  Zachovat prezentaci dokumentu ve webově kompatibilním archivu pro revizi nebo publikaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automated Web Packaging**
+  Python pracovní postupy mohou generovat soubory MHTML ze šablon DOT pro publikační řetězce.
+
+* **Archival Content Generation**
+  Převod podporuje opakovatelnou tvorbu přenosných webových archivů ze zdrojových dokumentů.
+
+* **Bulk Document Publishing**
+  Programové procesy mohou efektivně vytvářet výstupy MHTML z mnoha šablon.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

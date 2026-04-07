@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod dokumentu do MBOX transformuje obsah Wordu do formátu archivu kompatibilního s poštovní schránkou, který může seskupovat výstupy ve stylu zpráv pro ukládání nebo migraci. Je užitečný, když je potřeba zachovat nebo doručit obsah dokumentu v pracovních postupech archivace e‑mailů.
+
+S Python API lze převod DOC do MBOX automatizovat pro rozsáhlé archivní operace, zlepšovat opakovatelnost a podporovat systémy pracující s kontejnery založenými na poštovní schránce.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytvoření poštovní archivu**
+  Převést zprávy odvozené z dokumentu do MBOX pro seskupené úložiště ve stylu e‑mailu.
+
+* **Příprava migrace**
+  Použijte výstup MBOX, když dokumenty musí vstoupit do poštovního archivu nebo migračních pracovních postupů.
+
+* **Zachování komunikace**
+  Uložte převedený obsah dokumentu v konsolidovaném formátu přátelském k poštovní schránce.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizace balení archivu**
+  Automaticky generovat výstupy MBOX z obsahu DOC pro soulad nebo migraci.
+
+* **Dávková konverze poštovních kontejnerů**
+  Převést více dokumentů do poštovních archivů s minimálním ručním úsilím.
+
+* **Propojení pracovního postupu Dokument‑k‑e‑mailu**
+  Programově připravit obsah založený na dokumentech pro ekosystémy e‑mailových archivů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

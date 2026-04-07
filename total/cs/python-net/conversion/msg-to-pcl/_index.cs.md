@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod MSG na PCL převádí soubory e‑mailových zpráv do výstupu v jazyce příkazů tiskárny pro workflow zaměřené na zařízení. Je užitečný, když je obsah zprávy třeba nasměrovat do tiskových kanálů, hardwarově řízených prostředí nebo výstupních procesů, které závisí na formátech připravených pro tisk.
+
+Pro automatizaci podporuje převod MSG na PCL tisk ve velkém objemu, operativní rozesílání a systémově řízený výstup dokumentů. Pomáhá integrovat obsah založený na e‑mailu do výrobních tiskových a zařízení spravujících workflow.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Výstup e‑mailu připravený pro tisk**  
+  Připravte obsah zprávy pro přímé použití v tiskových prostředích.
+
+* **Operační tiskové kanály**  
+  Podporujte workflow, které směrují převedený obsah do tiskových systémů.
+
+* **Vykreslování kompatibilní se zařízeními**  
+  Umožněte výstup zprávy ve formátech určených pro zpracování příkazů tiskárny.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizace tisku ve velkém objemu**  
+  Převádějte soubory MSG do PCL pro hromadný tisk napříč operačními systémy.
+
+* **Workflow směrování zařízení**  
+  Odesílejte tiskové úlohy odvozené ze zpráv přes automatizované hardwarové výstupní kanály.
+
+* **Standardizace tiskové fronty**  
+  Normalizujte obsah e‑mailu do výstupu kompatibilního s tiskárnou pro konzistentní zpracování.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

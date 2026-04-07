@@ -64,7 +64,47 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Slides for Python via 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX to XLTX conversion converts presentation content into a modern spreadsheet template format used for consistent and reusable workbook creation. It is useful when slide information must be turned into standardized spreadsheet layouts for repeated operational, analytical, or reporting tasks.
+
+Automating PPTX to XLTX conversion with Python APIs improves efficiency by enabling template-driven spreadsheet workflows from presentation sources. This supports scalable content reuse, consistent reporting structures, and streamlined workbook generation across teams and systems.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Reusable Spreadsheet Templates**
+  Convert presentation data into template-based workbook formats for repeated use.
+
+* **Standardized Reporting Layouts**
+  Build consistent spreadsheet structures from slide-derived content.
+
+* **Operational Workbook Design**
+  Prepare reusable spreadsheet frameworks for recurring business processes.
+
+* **Template-Driven Data Organization**
+  Turn presentation information into structured spreadsheet starting points.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Template Automation Pipelines**
+  Automatically generate XLTX templates from PPTX files for repeatable spreadsheet creation.
+
+* **Batch Workbook Standardization**
+  Convert multiple presentations into reusable templates across large workflows.
+
+* **Reporting System Integration**
+  Feed converted spreadsheet templates into recurring data and reporting operations.
+
+* **Scalable Spreadsheet Content Reuse**
+  Use Python APIs to transform slide content into template-ready workbook assets.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

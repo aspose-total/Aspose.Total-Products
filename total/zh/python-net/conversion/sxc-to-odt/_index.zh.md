@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC 到 ODT 的转换将电子表格内容转换为开放文档文本格式，非常适合可编辑的文档、报告以及可互操作的基于文本的工作流。当组织希望在保持对开放标准兼容的同时获得灵活的文档输出时，这是一个实用的选择。
+
+使用 Python API，SXC 到 ODT 的转换通过实现从电子表格源自动创建可编辑文档，以用于报告、记录保存和内容准备，从而提升工作流效率。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **开放文档报告**  
+  将电子表格数据转换为符合开放文档工作流的可编辑报告。
+
+* **可互操作的文档**  
+  帮助组织在支持开放标准的系统之间共享文档输出。
+
+* **可编辑记录创建**  
+  支持准备可轻松审阅、修订和归档的文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **开放工作流自动化**  
+  使用 Python API 在标准化流水线中自动从 SXC 源生成 ODT 文件。
+
+* **内容转换系统**  
+  使基于电子表格的内容能够转入以文档为中心的审阅和编辑工作流。
+
+* **可扩展的文档输出**  
+  支持以最少人工干预的大批量生成可编辑的开放格式文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

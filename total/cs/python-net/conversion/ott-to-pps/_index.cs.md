@@ -64,7 +64,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to PPS conversion in Python APIs converts OpenDocument text templates into presentation show files designed for direct display and delivery. This is valuable when content must be shared as a ready-to-run slideshow instead of a standard editable presentation.
+
+The conversion supports automation by enabling document-driven creation of presentation shows for kiosks, briefings, and distribution scenarios where immediate playback and consistent formatting are important.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Dodání prezentace**  
+  Vytváří soubory prezentací připravené k přehrání z textových šablon.
+
+* **Řízený výstup prezentace**  
+  Podporuje přímé přehrání místo kompletních editačních pracovních postupů.
+
+* **Balíčkování vizuální komunikace**  
+  Převádí obsah dokumentu na aktiva pro prezentaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatické publikování prezentací**  
+  Generuje soubory PPS pro opakující se prezentace nebo oznámení.
+
+* **Integrace zobrazovacího pracovního postupu**  
+  Podporuje neobsluhované nebo přímé spouštění prostředí prezentací.
+
+* **Hromadná tvorba briefinků**  
+  Efektivně převádí více souborů OTT na výstupy připravené k přehrání.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

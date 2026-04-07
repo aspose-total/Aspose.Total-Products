@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل VCF إلى DOTM يحول بيانات بطاقات الاتصال إلى ملفات قوالب Word مفعّلة بالماكرو، مما يجعل من الممكن دمج التخطيطات القابلة لإعادة الاستخدام مع سلوكيات مستندات متقدمة. هذا مفيد للمؤسسات التي تحتاج إلى قوالب منظمة بخصائص قابلة للتحرير والبرمجة.
+
+عند أتمتته باستخدام واجهات برمجة تطبيقات Python، يدعم تحويل VCF إلى DOTM إنشاء قوالب قابلة للتوسع، مما يساعد سير العمل على إنتاج مستندات مستندة إلى جهات الاتصال بشكل متسق تتماشى مع المتطلبات التشغيلية الديناميكية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **قوالب مفعّلة بالماكرو**  
+  تحويل بيانات اتصال VCF إلى ملفات DOTM لهياكل مستندات متقدمة قابلة لإعادة الاستخدام.
+
+* **تنسيق جهات الاتصال القابل للتكرار**  
+  توحيد طريقة ظهور معلومات جهات الاتصال في القوالب المولدة.
+
+* **التحكم في المستندات التشغيلية**  
+  دعم البيئات التي تعتمد على منطق القوالب ومخرجات المستندات المنظمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء القوالب تلقائيًا**  
+  إنشاء قوالب DOTM من سجلات جهات اتصال متعددة عبر المعالجة الدفعية.
+
+* **أصول جهات الاتصال جاهزة لسير العمل**  
+  تحضير ملفات القوالب القابلة لإعادة الاستخدام لأنظمة التوثيق الداخلية المؤتمتة.
+
+* **تسليم القوالب القابلة للتوسع**  
+  استخدام واجهات برمجة تطبيقات Python لإنشاء وإدارة قوالب جهات الاتصال المفعّلة بالماكرو بكفاءة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

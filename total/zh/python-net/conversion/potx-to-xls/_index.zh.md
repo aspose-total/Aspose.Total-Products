@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+POTX 到 XLS 的转换使用 Python API 将 PowerPoint 模板内容转换为支持结构化数据录入和分析的电子表格文件。这对于需要将基于演示的信息迁移到工作表格式以满足运营或报告需求的组织非常有用。
+
+在自动化流水线中，POTX 到 XLS 的转换减少了手动提取工作，并实现了可扩展的电子表格输出转换。它在保持旧版电子表格兼容性的同时，提高了数据中心工作流的效率。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **电子表格转换**
+  将演示文稿模板内容转换为基于工作表的文件，以实现结构化使用。
+
+* **旧版电子表格支持**
+  帮助在已建立系统要求的旧版电子表格格式中交付输出。
+
+* **运营数据处理**
+  支持在分析和报告任务中重复使用演示文稿信息。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化旧版导出**
+  从 POTX 源生成 XLS 文件，供依赖旧版电子表格格式的系统使用。
+
+* **批量电子表格生成**
+  支持大批量将模板文件转换为结构化工作表。
+
+* **数据处理集成**
+  将转换后的电子表格输出连接到报告和验证工作流。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

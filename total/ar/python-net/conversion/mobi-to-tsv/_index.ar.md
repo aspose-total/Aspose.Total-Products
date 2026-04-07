@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل MOBI إلى TSV في بايثون يحول محتوى الكتاب الإلكتروني إلى بنية مفصولة بفواصل جدولة تكون بسيطة ومضغوطة ومناسبة جيدًا للمعالجة الآلية. هذا التنسيق ذو قيمة عندما يجب تبادل المحتوى بشكل نظيف عبر الأنظمة التي تتوقع نصًا منظمًا مع حد أدنى من تنسيق النص.
+
+في سير العمل الآلي، يساعد إخراج TSV على تبسيط مهام الإدخال، والتحليل، والتحويل الضخم. يدعم تحويل MOBI إلى TSV خطوط أنابيب قابلة للتوسع حيث تكون السرعة، والقابلية للنقل، ومعالجة البيانات البسيطة مهمة للتكامل والكفاءة التشغيلية.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **تصدير نص منظم**
+  حوّل محتوى MOBI إلى TSV لتسهيل التحليل وتخزين منظم خفيف الوزن.
+
+* **نقل بيانات صديق للخط الأنابيب**
+  استخدم TSV عند نقل المعلومات المستخرجة إلى السكريبتات أو أدوات الاستيراد أو محركات المعالجة.
+
+* **معالجة محتوى على نطاق واسع**
+  أنشئ مخرجات مضغوطة تعمل بشكل جيد لمعالجة الدُفعات وسير عمل التحويل الضخم.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **تحضير خط أنابيب الإدخال**
+  حوّل ملفات MOBI إلى TSV تلقائيًا قبل تحميل البيانات إلى أنظمة المعالجة الداخلية.
+
+* **أتمتة التحليل الضخم**
+  قم بإدخال مخرجات TSV في السكريبتات المجدولة للتحقق، أو الإثراء، أو مهام التحويل.
+
+* **تبادل بيانات منخفض العبء**
+  استخدم أتمتة بايثون لإنشاء مخرجات جدولة نظيفة لتكاملات خفيفة الوزن في المراحل اللاحقة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

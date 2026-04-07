@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM 到 TSV 的转换将启用宏的 Word 模板转换为制表符分隔值，以实现干净、结构化的数据交换和分析。当需要将模板内容导出为一种简单的基于文本的格式，以清晰高效地处理表格数据时，这非常有价值。
+
+使用 Python API 进行 DOTM 到 TSV 的转换支持自动化，通过实现从文档中可重复提取结构化内容到轻量级数据集。这提升了与 ETL 流水线、分析系统以及大批量处理工作流的集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **结构化数据导出**
+  将 DOTM 内容转换为 TSV，以干净地传输表格信息。
+
+* **分析准备**
+  将基于文档的数据移动到适合脚本、分析和批量摄取的格式。
+
+* **可互操作的基于文本的交换**
+  当工作流需要简单的结构化输出且格式开销最小时，使用 TSV。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化数据提取**
+  工作流可以将 DOTM 模板转换为 TSV 文件，以进行下游处理，无需手动输入。
+
+* **管道友好型转换**
+  该转换支持偏好轻量级表格交换格式的自动化系统。
+
+* **批量数据集创建**
+  编程作业实现对大量 DOTM 文件的可扩展转换为 TSV 输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

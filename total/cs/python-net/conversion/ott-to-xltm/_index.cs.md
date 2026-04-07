@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod OTT na XLTM v Python API převádí šablony textových dokumentů OpenDocument na makrem povolené šablony tabulek pro pokročilé scénáře opakovaně použitelných sešitů. To je užitečné, když budoucí instance tabulek musí kombinovat standardní strukturu se zabudovanými automatizačními funkcemi.
+
+Převod podporuje automatizaci vytvářením šablonových aktiv, která mohou škálovat generování sešitů při zachování logiky, konzistence a efektivity napříč opakovanými provozními úkoly.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování šablon s povolenými makry**  
+  Vytváří opakovaně použitelné šablony sešitů s podporou pokročilého chování.
+
+* **Opakovatelné provozní sešity**  
+  Standardizuje tabulky, které se spoléhají na vloženou automatizační logiku.
+
+* **Strukturované opakované použití šablon**  
+  Převádí textové šablony na škálovatelné plány tabulek.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná výroba šablon**  
+  Generuje soubory XLTM ze zdrojů OTT pro opakující se procesy.
+
+* **Pokročilý návrh pracovních toků v tabulkách**  
+  Podporuje opakovaně použitelné rámce sešitů s bohatší funkčností.
+
+* **Standardizace podnikových procesů**  
+  Pomáhá široce distribuovat konzistentní automatizované šablony sešitů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

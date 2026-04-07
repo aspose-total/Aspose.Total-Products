@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+文档到 DIF 的转换使基于 Word 的内容能够转移到适用于电子表格导向交换和传统数据处理环境的数据交换格式。当需要与旧系统互操作时，它帮助组织保留结构化值。
+
+使用 Python API，DOC 到 DIF 的转换可以实现自动化，以进行可重复的数据导出，减少人工工作并提升档案、财务以及电子表格转换工作流的一致性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **传统电子表格交换**
+  将文档表格转换为 DIF，以兼容旧的电子表格工具和系统。
+
+* **结构化数据可移植性**
+  将基于文档的表格内容迁移到适合受控数据交换的格式。
+
+* **归档转换**
+  以轻量级结构化格式保留从文档中提取的值，以供长期使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **传统系统集成**
+  自动将 DOC 内容转换为 DIF，以适用于依赖旧电子表格标准的环境。
+
+* **批量表格转换**
+  处理大量报告和表单，将其转换为 DIF，无需手动复制粘贴。
+
+* **数据准备流水线**
+  使用脚本化的转换步骤，将文档表格转换为可摄取的结构化文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

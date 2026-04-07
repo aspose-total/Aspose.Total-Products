@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+在 Python 中进行 DIF 到 OTT 的转换可以将结构化的 DIF 内容转换为开放文档文本模板，以实现可重用且标准化的文档创建。当文档工作流需要在开放格式环境中基于模板生成时，这非常有价值。
+
+使用 Python API 进行 DIF 到 OTT 的转换支持高效的模板自动化，并帮助组织从结构化数据构建可重用的文档结构。它在提升一致性的同时，使模板工作流与开放文档标准保持一致。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **开放模板创建**
+  将 DIF 文件转换为 OTT 模板，以实现可重用的文本文档生成。
+
+* **基于标准的文档框架**
+  为重视互操作性的组织构建开放格式模板。
+
+* **可重复的运营文档**
+  使用 OTT 模板支持重复的表单、报告或流程文档。
+
+* **模板库开发**
+  从结构化来源生成模板资产，以实现集中化的文档管理。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板生成**
+  从 DIF 数据集以编程方式创建 OTT 文件，实现可扩展的模板生产。
+
+* **开放工作流标准化**
+  将转换集成到管理开放文档模板的 Python 系统中。
+
+* **可重用输出资产创建**
+  自动生成可用于模板的文件，以满足重复的文档生成任务。
+
+* **跨系统模板交付**
+  通过自动化文档基础设施转换并分发 OTT 模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT 到 MBOX 转换在 Python API 中将 OpenDocument 文本模板转换为邮箱归档格式，用于存储电子邮件式消息的集合。当生成的通信需要分组、传输或保存在兼容邮箱的结构中时，这非常有用。
+
+该转换支持自动化，使基于文档的消息生成能够直接流入依赖邮箱式存储以实现规模化和组织化的归档和迁移流水线。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **邮箱归档准备**  
+  生成适合分组电子邮件存储的消息内容。
+
+* **通信记录保存**  
+  以可移植的邮箱格式保存生成的内容。
+
+* **批量消息打包**  
+  帮助组织多个生成的消息以便传输或导入。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化邮件归档生成**  
+  将基于模板的通信转换为 MBOX 容器。
+
+* **迁移工作流支持**  
+  为邮箱导入过程准备文档生成的消息。
+
+* **批量保留流水线**  
+  存储重复生成的消息以用于合规或审计。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

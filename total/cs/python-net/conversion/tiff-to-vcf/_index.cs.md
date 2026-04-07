@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu T
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TIFF to VCF conversion using Python APIs allows image-based documents containing contact information to be transformed into structured contact card formats for digital address books and communication systems. This is useful when scanned business cards, forms, or visual contact records need to become searchable and reusable contact entries.
+
+From an automation perspective, TIFF to VCF conversion improves contact capture efficiency, reduces manual data entry, and supports scalable integration between document imaging and contact management workflows. It helps convert static visual contact data into actionable business information.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Digitalizace vizitek**
+  Převádí TIFF obrázky kontaktních karet do digitálních kontaktů kompatibilních s VCF.
+
+* **Extrahování kontaktů z formulářů**
+  Pomáhá transformovat naskenované registrační nebo vstupní dokumenty na znovu použitelné kontaktní položky.
+
+* **Naplnění adresáře**
+  Podporuje přesun vizuálních kontaktních dat do strukturovaných systémů správy kontaktů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaný příjem kontaktů**
+  Převádí TIFF‑založené kontaktní dokumenty do VCF výstupů pro okamžitý import do systému.
+
+* **Workflow zachycení leadů**
+  Podporuje automatizovanou transformaci naskenovaných kontaktních materiálů do strukturovaných záznamů o potenciálních zákaznících.
+
+* **Procesy synchronizace adresářů**
+  Umožňuje programové vytvoření digitálních vizitek ze souborů založených na obrazech.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

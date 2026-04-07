@@ -66,7 +66,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 Word 转换为 CSV 能够将文字处理文件中的文本和表格内容结构化提取为逗号分隔值，便于更轻松地进行分析、迁移和数据再利用。当基于文档的信息需要为报告、导入流水线或下游业务系统进行标准化时，这尤其有用。
+
+在以自动化为重点的环境中，此转换通过将可编辑文档转化为机器可读的数据集来支持可扩展的数据处理，这些数据集可以以最少的人工干预流入分析工具、验证例程以及计划的处理工作流。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **用于报告的数据提取**  
+  将文档内容转换为结构化的行和列，可用于报告和仪表盘。
+
+* **内容迁移**  
+  帮助将信息从文档库迁移到基于电子表格或可直接导入数据库的格式。
+
+* **批量处理流水线**  
+  支持将多个文件高容量转换为可重复使用的 CSV 输出，以供自动化系统使用。
+
+* **可互操作的数据交换**  
+  使源自文档的信息更易在支持纯表格文本的平台之间进行交换。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **计划的文档解析**  
+  自动将传入的 Word 文件转换为 CSV，以供定期的数据摄取工作流使用。
+
+* **表单数据合并**  
+  从文档中提取重复字段并合并为结构化数据集，以便进行分析。
+
+* **档案现代化**  
+  将传统的基于 Word 的记录转换为 CSV，以实现可搜索和可编程的访问。
+
+* **工作流触发**  
+  使用转换后的 CSV 文件作为验证、转换或通知过程的输入。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
@@ -115,7 +155,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
       </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

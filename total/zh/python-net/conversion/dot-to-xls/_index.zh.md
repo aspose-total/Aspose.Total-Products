@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT 转 XLS 转换将文字处理模板转换为适用于结构化审查、数据录入和报告的电子表格工作簿。当必须将模板内容转移到熟悉的工作表环境中时，这非常有用。
+
+使用 Python API，DOT 转 XLS 转换可以实现自动化，以提升一致性、加速文档转换，并支持大规模电子表格的准备。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **电子表格报告**
+  将 DOT 文件转换为 XLS 工作簿，以进行有序的分析和运营审查。
+
+* **数据结构化**
+  将文档内容移入支持排序和跟踪的工作表布局。
+
+* **旧版工作簿兼容性**
+  以许多成熟系统使用的电子表格格式共享提取的信息。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化工作簿生成**
+  Python 脚本可以将 DOT 模板转换为 XLS 文件，以满足重复的报告需求。
+
+* **数据处理流水线**
+  转换有助于将文档衍生的内容输入以电子表格为中心的工作流。
+
+* **批量电子表格输出**
+  编程自动化使得从大量模板可扩展地创建 XLS 文件成为可能。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

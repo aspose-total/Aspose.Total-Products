@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu B
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+BMP na VCF konverze umožňuje přiřadit bitmapové obrázky k digitálním vizitkám uloženým ve formátu VCF. Tento přístup umožňuje zahrnout profilové fotografie nebo vizuální identifikátory do záznamů kontaktů.
+
+Automatizační systémy mohou převádět BMP obrázky do VCF‑kompatibilních souborů kontaktů pro škálovatelné řízení kontaktů a synchronizaci napříč platformami. To zlepšuje automatizaci generování adresářů a výměny dat.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Obrázky profilů kontaktů**  
+  BMP obrázky mohou být připojeny k digitálním vizitkám.
+
+* **Generování adresáře**  
+  Systémy mohou vytvářet VCF soubory obsahující vizuální identifikátory kontaktů.
+
+* **Výměna kontaktních dat**  
+  Vizuální záznamy kontaktů mohou být sdíleny napříč platformami pomocí VCF souborů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatické vytváření kontaktů**  
+  Aplikace generují VCF soubory kontaktů s BMP profilovými obrázky.
+
+* **Hromadné zpracování adresáře**  
+  Systémy převádějí sady obrázků do strukturovaných záznamů vizitek.
+
+* **Programová synchronizace kontaktů**  
+  Pracovní postupy dynamicky generují VCF soubory pro automatizované šíření kontaktů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

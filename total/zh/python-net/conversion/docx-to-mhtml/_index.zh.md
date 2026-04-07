@@ -53,7 +53,44 @@ outformat: MHTML
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX 转 MHTML 转换将文字处理文档转换为网络存档文件，将 HTML 内容及相关资源打包为单个文件。此格式在保留文档结构的同时，实现基于网络的查看。
+
+Python API 允许将 DOCX 到 MHTML 的转换集成到自动化发布系统、网络存档工作流和文档共享平台中。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **网络存档生成**  
+  将 DOCX 文档转换为单文件网络存档。
+
+* **文档网络发布**  
+  使文档内容能够以兼容网络的文件形式共享。
+
+* **离线文档查看**  
+  允许在没有外部依赖的情况下查看文档。
+
+* **内容保留**  
+  在单个存档文件中保持格式和资源。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自动化网络存档导出**  
+  系统可以自动将 DOCX 文件转换为 MHTML 存档。
+
+* **批量文档发布流水线**  
+  Python 脚本可以从文档生成网络存档文件。
+
+* **内容分发系统**  
+  文档可以动态转换为兼容网络的存档格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

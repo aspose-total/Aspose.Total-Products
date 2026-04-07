@@ -46,7 +46,53 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu I
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konverze obrázku na OST pomocí Python API podporuje transformaci záznamů komunikace založených na obrazech do offline poštovních datových struktur pro řízený přístup a synchronizační pracovní toky. To je užitečné v situacích, kdy je nutné zachovat vizuální obsah zpráv nebo jej připravit pro prostředí orientovaná na poštovní schránky s potřebou offline přístupu.
+
+V moderních automatizovaných systémech tato konverze pomáhá zefektivnit přípravu archivů, strukturované zpracování zpráv a hromadnou organizaci obsahu. Přispívá k škálovatelné správě komunikace tím, že sladí informace odvozené z obrázků s pracovními toky úložišť založených na poštovních schránkách.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Příprava offline poštovních dat**
+  Převést obsah komunikace založený na obrázcích pro použití v pracovních tocích poštovní schránky s offline přístupem.
+
+* **Zachování vizuálních záznamů**
+  Ukládat snímky obrazovky, skeny nebo oznámení ve strukturách ve stylu poštovní schránky pro uspořádané vyhledávání.
+
+* **Podpora migrace poštovní schránky**
+  Připravit obsah komunikace odvozený z obrázků pro přenos do řízených prostředí poštovních dat.
+
+* **Úložení provozní komunikace**
+  Uchovávat materiály zpráv založené na obrázcích ve formátu sladěném s potřebami zpracování poštovní schránky.
+
+* **Strukturování podnikového archivu**
+  Organizovat vizuální záznamy komunikace v datových sadách navržených pro řízený přístup k e‑mailům.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Hromadná sestava poštovních dat**
+  Automatizované úlohy mohou převádět vstupy s vysokým objemem obrázků na výstupy orientované na poštovní schránky pro pracovní toky úložiště.
+
+* **Přípravné pipeline pro migraci**
+  Starší vizuální záznamy lze transformovat tak, aby podporovaly reorganizaci offline poštovních dat.
+
+* **Zpracování orientované na uchování**
+  Záznamy komunikace odvozené z obrázků lze automaticky strukturovat pro dlouhodobé uchování v poštovní schránce.
+
+* **Centralizovaná správa záznamů**
+  Organizace mohou automatizovat seskupování vizuálních komunikačních dat do úložišť založených na poštovní schránce.
+
+* **Provozní zálohovací pracovní toky**
+  Obsah obrázků lze začlenit do opakovatelných procesů zálohování a obnovy komunikace.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

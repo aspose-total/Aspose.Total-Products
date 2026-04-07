@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل WordML إلى MBOX يعبئ المحتوى المستمد من المستندات في تنسيق أرشيف صندوق بريد مناسب لتخزين الرسائل المجمعة وتدفقات العمل الخاصة بالترحيل. هذا مفيد عندما تحتاج اتصالات متعددة مستندة إلى المستندات إلى تنظيمها في مستودعات على نمط صندوق البريد.
+
+تمكن واجهات برمجة التطبيقات بلغة بايثون تحويل WordML إلى MBOX من خلال تحويل المحتوى برمجياً إلى سجلات رسائل وتوحيدها في مخرجات أرشيفية قابلة للتوسع للأنظمة التي تركز على البريد الإلكتروني.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء أرشيف صندوق البريد**
+  يحوّل محتوى المستند إلى مجموعات رسائل متوافقة مع MBOX.
+
+* **تعبئة الاتصالات الجماعية**
+  يجمع سجلات متعددة محوّلة في ملف أرشيف واحد للنقل أو الاحتفاظ.
+
+* **دعم ترحيل البريد الإلكتروني**
+  يساعد في إعداد المحتوى للاستيراد إلى بيئات موجهة لصناديق البريد.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء أرشيف دفعي**
+  يُؤتمت إنشاء ملفات MBOX من مصادر مستندات WordML المتكررة.
+
+* **دمج سير عمل الاحتفاظ**
+  يدعم التخزين طويل الأمد للاتصالات المستمدة من المستندات في أرشيفات صناديق البريد.
+
+* **تمكين خط أنابيب الترحيل**
+  يُغذي مخرجات MBOX المحوّلة إلى عمليات استيراد أو ترحيل آلية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

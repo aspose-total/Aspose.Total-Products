@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu V
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF na PS konverze převádí data kontaktních karet do výstupu PostScript vhodného pro tiskové pracovní postupy, vykreslování dokumentů a zařízení orientované zpracování. To je užitečné, když je třeba připravit kontaktní informace pro systémy, které se spoléhají na formáty popisu stránek pro konzistentní generování výstupu.
+
+V automatizačních prostředích VCF na PS konverze umožňuje Python API podporovat tiskově‑centrické a archivní pracovní postupy tím, že vytváří strukturovaný výstup, který se integruje do škálovatelných vykreslovacích řetězců.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Výstup popisu stránky**  
+  Převést záznamy VCF do souborů PS pro řízené vykreslování a tisk.
+
+* **Podpora tiskových pracovních postupů**  
+  Použít výstup PostScript tam, kde je důležitá konzistence dokumentu na úrovni stránky.
+
+* **Kompatibilita vykreslovacího řetězce**  
+  Připravit kontaktní data pro systémy postavené na zpracování připraveném k tisku.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná generace PS**  
+  Vytvořit soubory PostScript z kontaktních dat v dávkových pracovních postupech.
+
+* **Integrace tiskového serveru**  
+  Směrovat převedené výstupy PS do automatizovaných tiskových prostředí.
+
+* **Škálovatelné vykreslování stránek**  
+  Použít Python API k programatické standardizaci výstupů kontaktů orientovaných na tisk.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

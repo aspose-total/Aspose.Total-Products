@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOCM إلى FODS يحول المستندات التي تدعم الماكرو إلى ملفات جدول بيانات مفتوحة مسطحة، مما يتيح إعادة استخدام بيانات المستند المهيكلة في تدفقات عمل جداول البيانات المفتوحة والمعتمدة على XML. يكون ذلك مفيدًا حيث تكون الشفافية، القابلية للنقل، وتمثيل البيانات المعياري مهمة.
+
+في الأنظمة المؤتمتة، يدعم تحويل DOCM إلى FODS استخراج البيانات القابل للتكرار والتكامل في خطوط أنابيب المستند المفتوح التي تفضّل تنسيقات جداول البيانات القابلة للقراءة والمهيكلة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تحويل جدول بيانات مفتوح**
+  ينقل بيانات المستند إلى تنسيق جدول بيانات مسطح يناسب الأنظمة المفتوحة.
+
+* **قابلية نقل البيانات المستندة إلى XML**
+  يساعد على الحفاظ على المحتوى المهيكل في تنسيق سهل الفحص والتبادل.
+
+* **توحيد سير العمل**
+  يدعم المؤسسات التي تستخدم معايير المستند المفتوح لعمليات جداول البيانات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تصدير تنسيق مفتوح مؤتمت**
+  يحوّل ملفات DOCM إلى مخرجات FODS للمعالجة المعيارية.
+
+* **التكامل مع خطوط أنابيب XML**
+  يُمكّن بيانات المستند من التدفق إلى الأنظمة التي تعمل مع جداول بيانات مبنية على ترميز منظم.
+
+* **مهام التوحيد الضخمة**
+  يقوم بتطبيع جداول المستند إلى ملفات جدول بيانات مسطحة عبر دفعات كبيرة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

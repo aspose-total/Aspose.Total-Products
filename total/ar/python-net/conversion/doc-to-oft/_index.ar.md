@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل المستند إلى OFT يحول محتوى Word إلى ملفات قوالب بريد إلكتروني يمكن إعادة استخدامها في تدفقات الرسائل والاتصالات. وهو مفيد بشكل خاص عندما يكون محتوى المستند هو الأساس للتواصل المتكرر، والإشعارات، أو المراسلات المعيارية.
+
+تمكن واجهات برمجة تطبيقات Python من تحويل DOC إلى OFT كجزء من توليد المحتوى الآلي، مما يساعد الفرق على إنشاء قوالب رسائل متسقة وتحسين كفاءة التواصل.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **قوالب بريد إلكتروني قابلة لإعادة الاستخدام**
+  تحويل مسودات المستندات إلى قوالب OFT للتواصل المتكرر.
+
+* **رسائل موحدة**
+  ضمان بنية وصياغة متسقة عبر سير عمل البريد الإلكتروني المتكرر.
+
+* **التواصل القائم على القوالب**
+  إعادة توظيف محتوى المستند الرسمي إلى أطر رسائل قابلة لإعادة الاستخدام.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنتاج القوالب المؤتمتة**
+  إنشاء ملفات OFT من محتوى DOC لأنظمة الحملات أو الإشعارات.
+
+* **خطوط أنابيب الرسائل المدفوعة بالمستند**
+  تحويل نص المستند المعتمد إلى قوالب جاهزة للتخصيص اللاحق.
+
+* **عمليات التواصل القابلة للتوسع**
+  صيانة مكتبات كبيرة من صيغ الرسائل القابلة لإعادة الاستخدام برمجيًا.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

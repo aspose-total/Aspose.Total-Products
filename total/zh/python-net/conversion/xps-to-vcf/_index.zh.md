@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 XPS 转换为 VCF 可以将固定布局文档中包含的联系人相关信息转换为标准化的联系人卡片文件。当表单、目录或文档生成的记录包含姓名、电话号码、地址或其他需要提取为可移植联系人格式的联系详情时，这非常有用。
+
+在自动化环境中，此转换提升了数据复用，减少手动录入错误，并帮助将基于文档的联系人信息整合到通信、CRM 和联系人管理工作流中。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **联系人记录提取**
+  将包含联系人详细信息的 XPS 文档转换为 VCF 文件，以便轻松复用。
+
+* **地址簿填充**
+  使用转换后的输出以支持将联系人导入兼容系统。
+
+* **表单数据再利用**
+  将基于文档的客户或员工信息转换为结构化的联系人卡片。
+
+* **可移植联系人共享**
+  将提取的详细信息打包成广泛认可的格式，以便交换和存储。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化联系人创建**
+  从基于 XPS 的表单或目录生成 VCF 文件，无需手动重新输入。
+
+* **CRM 数据摄取工作流**
+  将转换后的联系人文件输入到自动化的客户数据管道中。
+
+* **批量联系人处理**
+  使用脚本批处理作业将多个 XPS 记录转换为 VCF 输出。
+
+* **动态信息同步**
+  使用程序化转换保持系统间的联系人数据一致。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

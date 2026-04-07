@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OST to DOCM conversion transformuje data poštovní schránky do formátu dokumentu s makry, podporující pokročilé pracovní postupy s dokumenty, které vyžadují editovatelný obsah s vestavěnými automatizačními funkcemi. Je užitečný, když je potřeba, aby převedený e‑mailový obsah participoval ve strukturovaných nebo skriptovaných dokumentových procesech.
+
+V prostředích zaměřených na automatizaci umožňuje převod OST na DOCM přenést obsah poštovní schránky přímo do programovatelných ekosystémů dokumentů. Python API umožňují organizacím automatizovat převod ve velkém měřítku, zlepšovat konzistenci, rychlost provozu a integraci s procesy zaměřenými na dokumenty.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Dokumentace s makry**  
+  Převádí e‑mailový obsah do souborů DOCM pro pracovní postupy, které se spoléhají na vestavěnou automatizaci dokumentů.
+
+* **Zprávy řízené procesy**  
+  Podporuje systémy reportování, kde převedená data poštovní schránky musí spolupracovat s automatizovanou logikou dokumentů.
+
+* **Operace založené na šablonách**  
+  Pomáhá integrovat obsah odvozený z e‑mailů do opakovaně použitelných obchodních šablon s makry.
+
+* **Strukturované opětovné využití obsahu**  
+  Umožňuje snadnější začlenění informací z poštovní schránky do dynamických pracovních postupů s dokumenty.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Programatické sestavování zpráv**  
+  Python automatizace převádí data OST do DOCM pro skriptované pipeline reportování.
+
+* **Dynamické pracovní postupy s dokumenty**  
+  Automatizované systémy používají dokumenty s makry k zpracování a správě převedeného e‑mailového obsahu.
+
+* **Naplnění podnikových šablon**  
+  Převodové rutiny dodávají data poštovní schránky do šablon dokumentů s vestavěným automatizačním chováním.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

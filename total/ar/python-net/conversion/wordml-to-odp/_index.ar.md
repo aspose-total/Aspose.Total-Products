@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+يحوّل تحويل WordML إلى ODP محتوى المستند إلى ملفات عرض OpenDocument للمراجعة الموجهة للعرض، والتوزيع، والتعاون بصيغة مفتوحة. هذا مفيد عندما يحتاج السرد أو المحتوى المهيكل من المستندات إلى إعادة الاستخدام في التواصل القائم على الشرائح.
+
+تجعل واجهات برمجة التطبيقات Python تحويل WordML إلى ODP فعالًا عن طريق إعادة تنسيق المحتوى برمجيًا إلى هياكل العرض وتمكين أتمتة المستند إلى الشريحة على نطاق واسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إعادة استخدام العروض التقديمية**
+  يحوّل محتوى المستند إلى ملفات عرض مفتوحة للتسليم البصري.
+
+* **التعاون بصيغة مفتوحة**
+  يدعم سير عمل العروض المبني على معايير المستندات القابلة للتشغيل البيني.
+
+* **إعادة استخدام المحتوى المهيكل**
+  ينقل المواد النصية والهيكلية من WordML إلى شكل الشرائح.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء مجموعة شرائح**
+  يُؤتمت إنشاء عروض ODP من التقارير أو الملخصات أو المخططات.
+
+* **خطوط نشر المحتوى**
+  يُدمج تحويل المستند إلى عرض في سير عمل التوزيع.
+
+* **أتمتة العروض المستندة إلى المعايير**
+  يُمكّن من توليد شرائح بصيغة مفتوحة على نطاق واسع من المصادر المهيكلة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX to EML conversion transforms Word template content into a standard email message file format that can be stored, shared, or opened in compatible mail clients. It is valuable for preserving email-ready communication generated from structured documents.
+
+With Python APIs, this conversion enables automated creation of portable email files, making it easier to build archival, compliance, and messaging workflows from reusable document templates.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření přenosných e‑mailů**
+  Generujte standardní e‑mailové soubory ze šablon dokumentů pro širokou kompatibilitu.
+
+* **Archivace e‑mailů**
+  Zachovejte obsah komunikace ve formátu vhodném pro ukládání a vyhledávání.
+
+* **Opětovné použití šablon**
+  Převádějte formální rozvržení dokumentů na opakovaně použitelné e‑mailové zprávy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované generování e‑mailových souborů**
+  Vytvářejte EML zprávy ze šablon DOTX jako součást naplánovaných pracovních postupů dokumentů.
+
+* **Archivace pro soulad**
+  Ukládejte zprávy odvozené z dokumentů do standardizovaných úložišť e‑mailových souborů.
+
+* **Mezisystémové komunikační kanály**
+  Přenášejte vygenerované EML soubory mezi aplikacemi a systémy zpracování e‑mailů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

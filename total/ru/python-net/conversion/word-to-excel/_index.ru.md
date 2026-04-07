@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Конвертация Word в Excel с использованием Python API делает возможным перенос содержимого документов в форматы на основе книг для расчётов, анализа и структурированного обзора. Это особенно ценно, когда информация, зафиксированная в повествовательных или полуструктурированных документах, должна быть организована в листы для оперативного или аналитического использования.
+
+С точки зрения автоматизации, эта конверсия упрощает перемещение данных документов в рабочие процессы электронных таблиц, обеспечивая масштабируемую обработку, проверку и интеграцию с системами отчётности и поддержки принятия решений.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Подготовка структурированных данных**
+  Преобразует контент на основе Word в макеты книг, подходящие для сортировки, фильтрации и анализа.
+
+* **Оперативная отчетность**
+  Переносит информацию из документов в электронные таблицы для обзора, отслеживания и генерации метрик.
+
+* **Очистка и нормализация данных**
+  Помогает переоформить неструктурированный или полуструктурированный контент в пригодные к использованию структуры электронных таблиц.
+
+* **Обеспечение бизнес‑процессов**
+  Поддерживает команды, которым необходима информация из документов в формате, удобном для вычислений.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Конвейеры документ‑в‑книгу**
+  Автоматически преобразует повторяющиеся файлы Word в совместимые с Excel результаты для бизнес‑использования.
+
+* **Пакетные задания извлечения**
+  Обрабатывает большие объёмы документов в электронные таблицы для централизованного анализа.
+
+* **Проверка и согласование**
+  Использует преобразованные данные книг в автоматических проверках, сравнениях и аудиторских процедурах.
+
+* **Интеграция аналитики**
+  Передаёт результаты электронных таблиц в панели мониторинга, скрипты и системы последующей обработки.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
@@ -114,7 +154,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
       </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

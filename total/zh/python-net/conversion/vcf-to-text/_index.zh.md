@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF 到文本的转换将结构化的联系人卡片数据转换为纯文本输出，以实现简单存储、易于解析以及广泛的系统兼容性。当需要将联系人信息提取为轻量且通用可访问的格式时，这非常有用。
+
+使用 Python API，VCF 到文本的转换通过简化下游处理、索引和转换工作流，支持自动化，使得纯文本数据更易于验证和集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **普通联系人提取**  
+  将 VCF 文件转换为文本，以便简单读取和处理。
+
+* **通用数据访问**  
+  在各系统中使用纯文本输出，最小化格式依赖。
+
+* **轻量级记录存储**  
+  以紧凑且可移植的形式保存联系人信息。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动文本导出**  
+  将批量 VCF 记录转换为文本文件，以实现流畅的处理。
+
+* **搜索与索引流水线**  
+  将纯文本联系人数据输入自动化搜索或分类系统。
+
+* **灵活的集成工作流**  
+  使用 Python API 标准化轻量级联系人输出，以供下游任务使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

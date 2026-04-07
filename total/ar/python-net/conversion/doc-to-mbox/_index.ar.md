@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل المستند إلى MBOX يحول محتوى Word إلى تنسيق أرشيف متوافق مع صناديق البريد يمكنه تجميع مخرجات على نمط الرسائل للتخزين أو الهجرة. يكون ذلك مفيدًا عندما يحتاج محتوى المستند إلى الحفاظ عليه أو تسليمه في سير عمل أرشفة البريد الإلكتروني.
+
+مع واجهات برمجة تطبيقات Python، يمكن أتمتة تحويل DOC إلى MBOX لعمليات الأرشفة على نطاق واسع، مما يحسن القابلية للتكرار ويدعم الأنظمة التي تعمل مع حاويات تعتمد على صناديق البريد.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء أرشيف صندوق البريد**
+  تحويل الرسائل المستمدة من المستند إلى MBOX لتخزين على شكل بريد إلكتروني مجمع.
+
+* **تحضير الهجرة**
+  استخدام مخرجات MBOX عندما يجب أن تدخل المستندات إلى أرشيف البريد أو سير عمل النقل.
+
+* **حفظ التواصل**
+  تخزين محتوى المستند المحول في تنسيق موحد صديق لصناديق البريد.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **أتمتة تعبئة الأرشيف**
+  إنشاء مخرجات MBOX تلقائيًا من محتوى DOC للامتثال أو الهجرة.
+
+* **تحويل حاويات البريد الدفعي**
+  تحويل مستندات متعددة إلى أرشيفات صناديق البريد بأقل جهد يدوي.
+
+* **جسر سير عمل المستند إلى البريد**
+  إعداد محتوى المستند برمجيًا لبيئات أرشيف البريد الإلكتروني.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

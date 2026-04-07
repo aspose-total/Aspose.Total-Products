@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod PST na PS v Python API převádí obsah poštovní schránky do PostScriptu pro tiskově orientované a popisové pracovní postupy. Je užitečný, když je třeba archivované e‑maily zachovat nebo doručit ve formátu, který odpovídá vysoce kontrolovanému tisku a nezávislému vykreslování stránek.
+
+Pro automatizaci podporuje převod PST na PS firemní tisk, tvorbu dokumentů a řízené výstupní kanály stránek. Pomáhá integraci dat poštovní schránky se systémy, které závisí na spolehlivých popisech tisku a strukturovaných procesech vykreslování.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Export popisu stránky**
+  Převádí obsah PST do PS pro řízené tiskové a vykreslovací pracovní postupy.
+
+* **Tisk nezávislý na zařízení**
+  Pomáhá připravit obsah odvozený z poštovní schránky pro standardizovanou manipulaci s tiskem.
+
+* **Podpora produkčního výstupu**
+  Podporuje prostředí, která se spoléhají na strukturované formáty vykreslování stránek.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná příprava tisku**
+  Systémy mohou převádět data PST do souborů PS pro následné tiskové procesy.
+
+* **Integrace vykreslovacího řetězce**
+  Výstup PostScript podporuje řízenou generaci stránek v automatizovaných prostředích.
+
+* **Škálovatelné zpracování orientované na tisk**
+  Programový převod pomáhá efektivně spravovat vysoký objem výstupu poštovní schránky.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

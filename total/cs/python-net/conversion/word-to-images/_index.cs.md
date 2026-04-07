@@ -53,7 +53,47 @@ Používáme API [Aspose.Words for Python via .NET](https://products.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod Wordu na obrázky pomocí Python API transformuje stránky dokumentu do souborů obrázků pro náhled, sdílení, publikování a vizuální archivaci. Je to užitečné, když je potřeba zobrazit obsah dokumentu konzistentně napříč platformami, aniž by bylo nutné použít software pro úpravu dokumentů.
+
+Pro automatizaci a škálovatelnost tento převod podporuje renderovací pipeline dokumentů, které generují miniatury, náhledy, webové zdroje a záznamy založené na obrázcích pro systémy správy obsahu a distribuční systémy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování náhledů dokumentu**  
+  Převádí stránky na obrázky pro rychlé prohlížení v portálech, aplikacích a repozitářích.
+
+* **Vizuální archivace**  
+  Zachovává vzhled obsahu jako statické obrázky pro referenci a uchování.
+
+* **Webové a mobilní publikování**  
+  Umožňuje snadnější zobrazování stránek dokumentu v prostředích optimalizovaných pro obrázky.
+
+* **Sdílení prezentací a recenzí**  
+  Zjednodušuje distribuci, když příjemci potřebují pouze prohlížet, nikoli upravovat, obsah.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Pipelines pro tvorbu miniatur**  
+  Automaticky renderuje stránky dokumentu do náhledových obrázků pro vyhledávací a prohlížecí rozhraní.
+
+* **Dávkové renderování stránek**  
+  Převádí velké objemy souborů Word do sad obrázků pro archivaci nebo publikovací workflow.
+
+* **Snímky schvalovacích workflow**  
+  Generuje pevné vizuální verze dokumentů pro kontrolní body recenzí a záznamy o souladu.
+
+* **Optimalizace doručování obsahu**  
+  Využívá výstupy obrázků ve webových službách a automatizačních pipelinech, které vyžadují rychlý vizuální přístup.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

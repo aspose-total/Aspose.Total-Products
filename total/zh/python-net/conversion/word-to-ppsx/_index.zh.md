@@ -65,7 +65,47 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 Word 转换为 PPSX，可将文字处理文档转换为针对直接演示播放优化的现代幻灯片文件。当需要将书面内容以最终的、以观看为中心的演示形式分发，而不是可编辑的源文件时，这非常有价值。
+
+在自动化工作流中，此转换支持从文档高效生成演示就绪的输出，实现一致的发布和快速共享基于幻灯片的内容。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **现代幻灯片输出**
+  将文档内容转换为可直接播放的幻灯片文件，便于演示。
+
+* **最终演示分发**
+  帮助分享从报告和摘要中提取的精致幻灯片成果。
+
+* **培训与简报交付**
+  支持从正式书面材料直接创建可用的幻灯片。
+
+* **减少手动重新格式化**
+  在将文档转换为可直接观看的演示资产时，最大限度降低工作量。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化播放文件创建**
+  在计划的工作流中，从重复的 Word 源生成 PPSX 文件。
+
+* **批量演示发布**
+  从文档集合大规模生成演示就绪的幻灯片输出。
+
+* **审批到交付流水线**
+  自动将最终文档转换为以观看为中心的演示。
+
+* **内容分发自动化**
+  在面向广泛演示共享的系统中使用 PPSX 输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

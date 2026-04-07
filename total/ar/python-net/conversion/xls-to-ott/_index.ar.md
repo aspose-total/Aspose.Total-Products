@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل XLS إلى OTT يحول بيانات الجداول إلى قوالب نصية مفتوحة يمكن إعادة استخدامها لإنشاء مستندات موحدة. وهو ذو قيمة للمنظمات التي تبني عمليات توثيق قابلة للتكرار باستخدام صيغ القوالب المفتوحة.
+
+استخدام واجهات برمجة تطبيقات بايثون لتحويل XLS إلى OTT يجعل إنشاء القوالب أكثر كفاءة ويدعم أنظمة المستندات الآلية التي تعطي الأولوية للمعايير المفتوحة وإعادة الاستخدام القابلة للتوسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء قالب مفتوح**
+  تحويل محتوى XLS إلى قوالب OTT لتوليد مستندات قابلة للتكرار.
+
+* **هياكل المستند القابلة لإعادة الاستخدام**
+  إنشاء ملفات قوالب تحافظ على تنسيق وقواعد تخطيط ثابتة.
+
+* **سير عمل قائم على المعايير**
+  دعم أنظمة المستندات المفتوحة مع توليد القوالب المدفوعة بالجداول.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنتاج القالب الآلي**
+  إنشاء ملفات قالب OTT من بيانات الجداول دون إعداد يدوي.
+
+* **أنظمة المستندات المفتوحة القابلة للتوسع**
+  استخدام واجهات برمجة تطبيقات بايثون لتوليد قوالب قابلة لإعادة الاستخدام لبيئات كثيفة المستندات.
+
+* **بناء مكتبة القوالب**
+  إدخال مخرجات XLS في سير العمل الذي يحافظ على مجموعات منظمة من القوالب المفتوحة القابلة لإعادة الاستخدام.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

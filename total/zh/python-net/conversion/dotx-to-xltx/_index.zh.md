@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX 到 XLTX 转换将 Word 模板内容转换为现代电子表格模板格式，以便创建可重复使用的工作簿。它对希望从标准化文档模板生成一致电子表格输出的组织非常有用。
+
+此转换通过启用 Python API 来构建可重复使用的电子表格模板，从而支持自动化，简化报告、数据录入以及大规模运营的一致性。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **现代工作簿模板**
+  将文档内容转换为可重复使用的电子表格模板，以适应当前工作流。
+
+* **标准化电子表格生成**
+  确保在重复操作中保持工作簿结构的一致性。
+
+* **跨团队模板复用**
+  将已批准的文档布局重新用于电子表格起始文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **批量模板生成**
+  在自动化内容准备流水线中，从 DOTX 模板创建 XLTX 文件。
+
+* **定期报告设置**
+  使用转换后的模板简化计划的工作簿创建。
+
+* **运营一致性工作流**
+  通过编程方式从文档来源分发标准化的电子表格模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM 到 SXC 的转换将启用宏的文档转换为兼容旧版开放电子表格工作流的电子表格文件，使结构化内容能够以表格形式重复使用。当必须将基于文档的数据与仍依赖旧电子表格标准的遗留系统交换时，这非常有用。
+
+在自动化场景中，DOCM 到 SXC 的转换支持常规数据提取、向后兼容以及可扩展地将文档表格转换为适合遗留系统的电子表格输出。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **遗留电子表格兼容性**
+  将文档内容转换为在既定环境中使用的旧电子表格格式。
+
+* **结构化表格复用**
+  帮助将 DOCM 文档中的表格数据迁移到电子表格工作流中。
+
+* **向后兼容的数据交换**
+  支持尚未完全迁移到新电子表格格式的系统。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化遗留导出**
+  从 DOCM 源生成 SXC 文件，以满足旧工作流的需求。
+
+* **批量数据转换**
+  高效地将大量文档表格转换为可用于电子表格的输出。
+
+* **兼容性流水线支持**
+  在现代文档源与遗留电子表格处理系统之间架起桥梁。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

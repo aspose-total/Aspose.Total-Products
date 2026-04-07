@@ -46,9 +46,43 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 的 OFT 转 PDF 转换将 Outlook 电子邮件模板转换为固定布局文档，便于共享、归档并保持一致的显示。这是在模板内容必须在各种设备和平台上保持视觉稳定时最实用的转换之一。
+
+对于自动化而言，OFT 转 PDF 转换在需要安全共享、长期存储和可靠渲染的文档流水线中非常有效。它提升了现代文档处理系统的效率、标准化和兼容性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **固定布局归档**  
+  将 OFT 模板转换为 PDF 文件，以在记录管理中保留布局和外观。
+
+* **通用内容共享**  
+  以一种在各平台上广泛可读的格式分发转换后的模板。
+
+* **审阅与批准分发**  
+  在不需要可编辑更改时，使用 PDF 输出供利益相关者审阅。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量文档导出**  
+  自动将 OFT 文件转换为 PDF 文档，以用于归档和运营工作流。
+
+* **合规与审计流水线**  
+  将 PDF 输出路由到安全存储库，以进行跟踪、保留和验证。
+
+* **动态内容分发**  
+  以编程方式生成 PDF，用于门户、报告系统或面向客户的交付渠道。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod MSG na PS mění e‑mailové zprávy na výstup v PostScriptu pro workflow zaměřené na tisk a zařízení. Je cenný, když je nutné přesné vykreslení nasměrovat na systémy, které se spoléhají na tiskové popisné jazyky pro zpracování dokumentů.
+
+V automatizačních prostředích podporuje převod MSG na PS publikační řetězce, tiskovou automatizaci a výstupní operace integrované s hardwarem. Pomáhá propojit obsah odvozený z e‑mailů s řízenými tiskovými a renderovacími procesy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Výstup tiskového popisu**  
+  Převést obsah e‑mailu do formátu vhodného pro workflow tiskového vykreslování.
+
+* **Příprava publikování**  
+  Podporovat prostředí, která stále spoléhají na zpracování založené na PostScriptu.
+
+* **Řízená správa výstupu**  
+  Zachovat rozvržení ve scénářích generování dokumentů orientovaných na zařízení.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované tiskové workflow**  
+  Převést soubory MSG do PS pro strukturovaný tisk a správu výstupu.
+
+* **Integrace publikačního systému**  
+  Směrovat převedený obsah přes produkční řetězce dokumentů, které používají tiskové popisné formáty.
+
+* **Dávkové renderovací operace**  
+  Standardizovat výstup zpráv pro úlohy s vysokým objemem automatizovaného tisku.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

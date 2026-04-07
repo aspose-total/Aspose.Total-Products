@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل WordML إلى XLTM يحول المحتوى المهيكل القائم على المستندات إلى قوالب جداول بيانات مدعومة بالماكرو لتوليد دفاتر عمل قابلة للتكرار مع دعم الأتمتة. وهو ذو قيمة عندما يجب أن تحمل جداول البيانات المعيارية سلوكًا قابلًا للبرمجة.
+
+باستخدام واجهات برمجة تطبيقات Python، يساعد تحويل WordML إلى XLTM المؤسسات على أتمتة إنشاء قوالب جداول بيانات قابلة لإعادة الاستخدام ومتوافقة مع سير عمل المعالجة المتقدمة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إخراج قالب مدعوم بالماكرو**
+  يحوّل محتوى WordML إلى ملفات XLTM لتوفير أسس دفاتر عمل آلية قابلة لإعادة الاستخدام.
+
+* **أتمتة جداول البيانات القابلة للتكرار**
+  يدعم إنشاء دفاتر عمل متكررة مع إمكانيات منطق مدمجة.
+
+* **توحيد القوالب المهيكلة**
+  يساعد على تجميع محتوى المستندات المعتمدة في قوالب جداول بيانات جاهزة للمعالجة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **نشر القالب الآلي**
+  ينتج ملفات XLTM من مدخلات WordML لعمليات جداول البيانات المتكررة.
+
+* **دعم سير عمل التقارير المتقدمة**
+  يربط المحتوى المستند إلى المستندات مع قوالب دفاتر عمل تدعم الماكرو.
+
+* **تعبئة عملية قابلة للتوسع**
+  يُمكّن من إنشاء قوالب جداول بيانات جاهزة للأتمتة بشكل متسق.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

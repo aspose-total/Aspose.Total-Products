@@ -64,7 +64,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTM to PPTM conversion in Python supports converting macro-enabled Excel templates into macro-enabled presentation files for advanced slide-based workflows. This is useful when spreadsheet-originated content must be delivered in a presentation format that supports extended functionality and structured reuse.
+
+In automation systems, XLTM to PPTM conversion improves cross-format compatibility, supports programmatic presentation assembly, and helps maintain efficient content transformation pipelines.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Výstup prezentace s povolenými makry**  
+  Produces presentation files suitable for workflows that depend on advanced presentation behavior.
+
+* **Transformace z tabulky na snímky**  
+  Converts organized workbook templates into structured presentation content for business communication.
+
+* **Opakovaná příprava prezentací**  
+  Supports recurring presentation generation from spreadsheet-based master templates.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované sestavování prezentací**  
+  Generates PPTM files from XLTM sources in reporting and content distribution workflows.
+
+* **Integrovaná konverze kancelářských souborů**  
+  Bridges Excel templates and macro-enabled slide outputs within Python automation pipelines.
+
+* **Generování snímků ve velkém objemu**  
+  Supports large‑scale production of presentation files from structured spreadsheet content.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT 到 ODP 的转换在 Python API 中将 OpenDocument 文本模板转换为演示文稿，使书面内容能够重新用于基于幻灯片的沟通和结构化的视觉呈现。这对于将叙述或报告内容转化为可直接用于演示的材料非常有价值。
+
+该转换支持自动化，通过从模板重复生成演示文稿，减少手动幻灯片准备，并提升报告和沟通工作流中的一致性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **演示文稿生成**  
+  将基于文本的模板转换为可编辑的幻灯片文档。
+
+* **内容再利用**  
+  将文档材料重新用于会议、简报或摘要。
+
+* **开放格式幻灯片输出**  
+  支持基于开放文档标准的演示工作流。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化幻灯片套件创建**  
+  从重复的 OTT 内容生成 ODP 演示文稿。
+
+* **报告工作流集成**  
+  将结构化文本转换为用于定期更新的幻灯片。
+
+* **基于模板的演示交付**  
+  在团队或流程之间标准化演示文稿的生成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

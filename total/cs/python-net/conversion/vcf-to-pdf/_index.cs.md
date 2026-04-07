@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu V
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF to PDF conversion transforms contact card data into fixed-layout documents that are ideal for sharing, archiving, and preserving formatting across devices. This is one of the most practical ways to distribute contact information in a reliable and professional presentation format.
+
+In automated workflows, VCF to PDF conversion enables Python APIs to generate secure, consistent, and scalable document outputs for reporting, compliance, digital storage, and business process integration.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Přenosné kontaktní dokumenty**  
+  Převést záznamy VCF do PDF souborů pro spolehlivé prohlížení a sdílení.
+
+* **Archivní zachování**  
+  Uložit kontaktní informace ve stabilním formátu s pevnou rozložením pro dlouhodobé použití.
+
+* **Profesionální distribuce**  
+  Dodávat formátovaná kontaktní data ve formě dokumentu připraveného k prezentaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Dávkové vytváření PDF**  
+  Automaticky generovat PDF dokumenty z velkého množství VCF souborů.
+
+* **Soulad a úložné pipeline**  
+  Vkládat převedené PDF do archivních, auditních nebo evidenčních systémů.
+
+* **Škálovatelná distribuce dokumentů**  
+  Použít Python API k vytváření standardizovaných kontaktních PDF napříč automatizovanými pracovními postupy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

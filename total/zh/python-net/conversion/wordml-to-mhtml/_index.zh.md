@@ -53,7 +53,41 @@ outformat: MHTML
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML 到 MHTML 的转换将文档内容转换为一种网络归档格式，该格式将标记和相关资源合并为单个文件。这对于以浏览器友好、独立的方式保存文档内容非常有用。
+
+使用 Python API，可以自动化 WordML 到 MHTML 的转换，以支持网络归档、预览生成以及跨文档和基于浏览器的系统的内容可移植性。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **网络归档导出**
+  将 WordML 文档转换为自包含的、网络友好的 MHTML 文件。
+
+* **可移植内容保存**
+  将渲染的内容及相关元素保存在单一归档格式中。
+
+* **面向浏览器的访问**
+  使文档信息在兼容网络的环境中更易于审阅。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化网络打包**
+  将文档批次转换为 MHTML，以用于归档或审阅工作流。
+
+* **预览交付流水线**
+  支持基于浏览器的文档访问，无需依赖原始编辑工具。
+
+* **内容可移植性任务**
+  实现渲染文档内容在系统之间的一致共享。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

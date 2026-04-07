@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 XLAM 转换为 RTF 可将 Excel 加载项内容转换为富文本文档，这些文档在各种编辑器和平台上具有广泛的兼容性。当需要以轻量级文本格式共享结构化内容且保持基本格式而不依赖特定办公套件时，这非常有价值。
+
+在自动化工作流中，XLAM 转换为 RTF 支持高效的内容交换、简易的文档生成以及广泛的互操作性。它非常适合需要格式化文本输出用于沟通、记录或与各种文档工具进行下游集成的系统。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **轻量级文档共享**  
+  将 XLAM 内容转换为 RTF 文件，以在各种编辑环境中实现广泛兼容。
+
+* **格式化文本分发**  
+  在保持基本格式的同时，使内容可移植且易于重复使用。
+
+* **运营记录生成**  
+  支持从基于电子表格的业务资源创建可读的文本文档。
+
+* **跨工具互换**  
+  帮助在需要灵活文本文档格式的系统之间移动结构化内容。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量文本文档转换**  
+  Python API 可以将大量 XLAM 文件转换为 RTF 输出，以实现可扩展的内容分发。
+
+* **系统间内容交换**  
+  自动化流水线可以使用 RTF 作为下游文档工作流的中间格式。
+
+* **报告导出自动化**  
+  基于电子表格的内容可以以编程方式发布为格式化的文本文档。
+
+* **归档与沟通工作流**  
+  转换过程可以生成轻量级的格式化文件，用于存储、审阅或共享。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod OFT na XPS pomocí Python API převádí šablony e‑mailů Outlooku do dokumentů s pevně daným rozložením, navržených pro konzistentní zobrazení a věrnost tisku. Je to užitečné, když obsah šablony musí zachovat svůj přesný vzhled napříč zobrazovacími a výstupními prostředími.
+
+V automatizačních pracovních postupech podporuje převod OFT na XPS spolehlivé vykreslování, archivní konzistenci a řízenou digitální distribuci. Pomáhá moderním systémům spravovat vizuálně stabilní výstupy dokumentů s minimálním ručním zásahem.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **Zachování dokumentu s pevně daným rozložením**  
+  Převést šablony OFT na soubory XPS, aby se zachovala vizuální konzistence napříč systémy.
+
+* **Spolehlivé prohlížení a tisk**  
+  Použijte výstup XPS, když je důležité zachovat přesné rozložení pro sdílení nebo řízení výstupu.
+
+* **Strukturované digitální archivování**  
+  Zachovat obsah e‑mailové šablony ve stabilním formátu dokumentu pro dlouhodobý přístup.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **Automatizovaný export pevného formátu**  
+  Přeměnit soubory OFT na dokumenty XPS pro archivní nebo řízené distribuční pracovní postupy.
+
+* **Potrubí pro konzistentní vykreslování**  
+  Směrovat výstupy XPS do systémů, které vyžadují spolehlivou vizuální reprodukci.
+
+* **Programové publikování dokumentů**  
+  Použijte Python API k vytvoření stabilních souborů s pevně daným rozložením pro firemní doručení a evidenci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

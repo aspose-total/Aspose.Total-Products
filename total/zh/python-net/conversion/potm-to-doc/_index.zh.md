@@ -66,7 +66,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+在 Python 中将 POTM 转换为 DOC，使得可以将带宏的演示文稿内容转换为可编辑的文字处理文档，以便进行审阅、分发和归档。当需要重写、注释或以文本为中心的格式共享演示材料时，这非常有用。
+
+从自动化的角度来看，POTM 到 DOC 的转换提升了内容的可移植性，并支持以文档为中心的工作流，其中 Python 用于在业务系统之间生成、转换和路由文件。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **演示文稿转文档再利用**
+  将基于幻灯片的信息转换为可编辑的文档内容，以实现更广泛的可用性。
+
+* **审阅与编辑工作流**
+  使团队能够在熟悉的文字处理格式中修改演示材料。
+
+* **归档文档**
+  将演示内容保存在适合记录保存的文档格式中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量文档生成**
+  在大批量出版工作流中，将多个 POTM 文件转换为 DOC 文档。
+
+* **基于工作流的内容交接**
+  自动将演示内容转移到文档审阅系统中。
+
+* **程序化文件分发**
+  使用 Python 脚本转换并将生成的 DOC 文件发送给下游团队或系统。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

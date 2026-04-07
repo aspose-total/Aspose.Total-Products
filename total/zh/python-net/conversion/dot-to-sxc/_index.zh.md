@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT 到 SXC 的转换将文字处理模板转换为适用于旧版 OpenOffice 工作流中结构化数据处理的电子表格文件。这在仍需兼容传统电子表格环境时非常有用。
+
+借助 Python API，团队可以自动化 DOT 到 SXC 的转换，以减少手动重新格式化，并保持兼容传统系统的数据交换高效且可重复。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **传统电子表格兼容性**
+  将 DOT 文件转换为 SXC，以适用于依赖旧电子表格标准的环境。
+
+* **结构化数据导出**
+  将文档内容转移到基于网格的格式，以便进行跟踪和分析。
+
+* **系统迁移支持**
+  将现代文档模板与旧的基于电子表格的工作流衔接。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化传统格式生成**
+  Python 工作流可以从 DOT 模板生成 SXC 输出，以满足重复需求。
+
+* **向后兼容的数据管道**
+  转换支持仍需传统电子表格文件交换的系统。
+
+* **批量传统导出处理**
+  编程自动化有助于从源文档一致地生成大量 SXC 文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

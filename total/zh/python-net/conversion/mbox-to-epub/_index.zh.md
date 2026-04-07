@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX 转 EPUB 转换将邮箱存档转换为可重排的数字出版文件，使电子邮件内容更易于在兼容电子阅读器的环境中分发、阅读和保存。当需要将归档的通信呈现为有组织的长篇数字内容时，这非常有价值。
+
+借助 Python API，可以自动化此转换，从邮箱数据构建可移植的出版物，提升内容可访问性，并支持结构化的数字分发工作流。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **数字出版创建**
+  将电子邮件存档转换为 EPUB 文件，以实现结构化且可移植的阅读体验。
+
+* **长篇内容打包**
+  将邮箱内容合并为可出版的数字格式，以供参考或分发。
+
+* **可访问的存档交付**
+  以适合多设备的阅读友好格式呈现消息集合。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化电子书生成**
+  通过可重复的 Python 工作流将邮箱内容转换为 EPUB 出版物。
+
+* **可移植的知识分发**
+  将精选的电子邮件存档导出为数字阅读包，以供内部共享。
+
+* **结构化内容出版**
+  将 mailbox-to-EPUB 转换集成到自动化出版和归档流水线中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

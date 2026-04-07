@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل SXC إلى DOT يحول محتوى جداول البيانات إلى تنسيق قالب مستند يمكن أن يكون أساسًا قابلاً لإعادة الاستخدام لتوليد المستندات المستقبلية. هذا مفيد عندما يجب دمج المعلومات المستخرجة من جداول البيانات في تخطيطات موحدة للاستخدام المتكرر في الأعمال أو العمليات.
+
+من خلال واجهات برمجة تطبيقات Python، يدعم تحويل SXC إلى DOT الأتمتة القائمة على القوالب من خلال تمكين بنية مستند متسقة، وإنشاء مخرجات أسرع، وتحكم أفضل في التنسيق عبر سير عمل عالي الحجم.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تحضير القالب**  
+  يحول محتوى جداول البيانات إلى قوالب مستندات قابلة لإعادة الاستخدام لتلبية احتياجات التواصل المتكررة.
+
+* **تنسيق موحد**  
+  يساعد على الحفاظ على بنية وعرض متسقين عبر المستندات المولدة.
+
+* **توثيق العملية**  
+  يدعم إنشاء قوالب قابلة للتكرار للنماذج والملخصات والسجلات التشغيلية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **أنظمة التقارير القائمة على القوالب**  
+  يؤتمت إنتاج قوالب DOT التي يمكن لاحقًا توليد العديد من المستندات المتجانسة.
+
+* **هيكلة المحتوى بالجملة**  
+  يستخدم واجهات برمجة تطبيقات Python لإعداد قوالب متعددة مستخرجة من جداول البيانات لتدفقات عمل مستندات قابلة للتوسع.
+
+* **خطوط إنتاج متسقة**  
+  يضمن أن يبدأ توليد المستندات اللاحقة من بنية خاضعة للسيطرة وقابلة لإعادة الاستخدام.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu W
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod Wordu na MSG pomocí Python API převádí obsah dokumentu do souborů zpráv, které jsou běžně používány pro ukládání a výměnu e‑mailů v desktopových poštovních prostředích. To je užitečné, když je potřeba obchodní dokumenty přetvořit na formální zprávové artefakty pro komunikaci, archivaci nebo zpracování pošty na straně klienta.
+
+Pro automatizaci tento převod podporuje opakovatelnou tvorbu strukturovaných souborů pošty z šablon dokumentů, což umožňuje lepší integraci mezi dokumentovými pracovními postupy a systémy orientovanými na zprávy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytvoření souboru pošty pro desktop**
+  Převádí obsah vytvořený ve Wordu do MSG souborů pro podporované e‑mailové klienty.
+
+* **Formální balení komunikace**
+  Přemění zprávy, oznámení nebo šablony na artefakty připravené k odeslání zpráv.
+
+* **Podpora poštovního archivu**
+  Uchovává komunikaci odvozenou z dokumentu ve strukturovaném formátu zprávy.
+
+* **Opětovné použití šablon napříč kanály**
+  Umožňuje jednomu zdrojovému dokumentu sloužit jak pro dokumentové, tak pro e‑mailové doručovací potřeby.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná generace souborů zpráv**
+  Vytváří MSG výstupy ze schválených dokumentů pro distribuční nebo úložní pracovní postupy.
+
+* **Hromadná příprava komunikace**
+  Převádí více šablon do souborů zpráv připravených pro klienta s minimální manuální prací.
+
+* **Archivní a revizní pipeline**
+  Využívá MSG výstupy v systémech pro uchovávání, schvalování a správu případů.
+
+* **Integrace dokument‑mail**
+  Propojuje pracovní postupy tvorby obsahu s provozními procesy zasílání zpráv.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

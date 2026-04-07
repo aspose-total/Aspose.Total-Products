@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF 转 TSV 转换将格式化的文本文档转换为制表符分隔的数据文件，这些文件易于在分析和集成系统中导入、检查和处理。当文档内容必须转换为具有明确字段分隔的简单结构化文本时，这非常有价值。
+
+对于自动化，RTF 转 TSV 支持轻量级的数据转换管道，使将文档衍生的内容迁移到偏好纯文本表格格式的脚本、数据库和处理工具中更加容易。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **纯文本数据结构化**  
+  将富文本内容转换为制表符分隔的记录，以便更容易解析和导入。
+
+* **易于集成的导出**  
+  帮助为接受轻量级基于文本的数据文件的系统准备文档信息。
+
+* **批量数据转换**  
+  支持将大量 RTF 内容转换为结构化表格输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **脚本驱动的数据管道**  
+  系统可以将 RTF 文件转换为 TSV，以用于下游的解析和转换任务。
+
+* **重复导出工作流**  
+  编程式转换支持从文档源定期生成结构化文本输出。
+
+* **跨系统数据交换**  
+  动态流程可以使用 TSV 作为中间格式，将文档内容转移到分析或运营工具中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX na EPUB konverze převádí archivy poštovních schránek do přizpůsobitelných digitálních publikací, což usnadňuje distribuci, čtení a zachování e‑mailového obsahu v prostředích kompatibilních s čtečkami elektronických knih. To je cenné, když je potřeba archivovanou komunikaci představit jako uspořádaný dlouhý digitální obsah.
+
+S Python API lze tento převod automatizovat a vytvořit přenosné publikace z dat poštovní schránky, zlepšit přístupnost obsahu a podpořit strukturované workflow digitální distribuce.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření digitálních publikací**
+  Převádějte e‑mailové archivy do souborů EPUB pro strukturované a přenosné čtení.
+
+* **Balíčkování dlouhého obsahu**
+  Spojujte obsah poštovní schránky do publikovatelných digitálních formátů pro referenci nebo distribuci.
+
+* **Přístupné doručování archivů**
+  Prezentujte sbírky zpráv v čtenářsky přívětivém formátu vhodném pro různá zařízení.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná tvorba e‑knih**
+  Přeměňujte obsah poštovní schránky na publikace EPUB pomocí opakovatelných Python workflow.
+
+* **Přenosná distribuce znalostí**
+  Exportujte upravené e‑mailové archivy do digitálních čtecích balíčků pro interní sdílení.
+
+* **Strukturované publikování obsahu**
+  Začleňte konverzi poštovní schránky na EPUB do automatizovaných publikovacích a archivních pipeline.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

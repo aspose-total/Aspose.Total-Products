@@ -65,7 +65,47 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS na ODT převod převádí soubory tabulek do textových dokumentů OpenDocument. To umožňuje, aby strukturovaná data tabulek byla reprezentována v dokumentovém formátu při zachování kompatibility s otevřenými standardy dokumentů.
+
+Pomocí Python API lze převod ODS na ODT automatizovat jako součást pracovních postupů zpracování dat. To umožňuje škálovatelné generování dokumentů, strukturované reportování a integraci s ekosystémy otevřených dokumentů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Reportování v otevřeném dokumentu**  
+  Převést datové sady tabulek do dokumentových reportů otevřených standardů.
+
+* **Transformace obsahu**  
+  Zobrazit tabulková data v rámci dokumentových struktur.
+
+* **Dokumentace dat**  
+  Vytvořit čitelnou dokumentaci z informací tabulek.
+
+* **Archivace v otevřeném formátu**  
+  Uložit obsah tabulek v textových formátech otevřených dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované pipeline otevřených dokumentů**  
+  Python skripty automaticky převádějí soubory tabulek do ODT dokumentů.
+
+* **Dávkové generování dokumentů**  
+  Systémy zpracovávají více tabulek do reportů otevřených dokumentů.
+
+* **Dynamické systémy dokumentace**  
+  Programové pracovní postupy generují dokumentaci z dat tabulek.
+
+* **Integrace s otevřenými dokumentovými systémy**  
+  Automatizované pipeline zachovávají kompatibilitu s otevřenými standardy dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM 到 XLSB 的转换将启用宏的文档转换为二进制电子表格文件，旨在实现工作簿数据的高效存储和处理。当必须将文档衍生的内容移动到紧凑的电子表格输出以满足对性能敏感的工作流时，这非常有用。
+
+在自动化环境中，DOCM 到 XLSB 的转换支持大规模电子表格生成、高效的数据打包以及结构化文档内容向工作簿管道的流畅迁移。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **紧凑的电子表格输出**
+  将文档数据转换为针对存储效率优化的二进制工作簿文件。
+
+* **大容量数据处理**
+  支持大规模结构化输出受益于紧凑电子表格格式的场景。
+
+* **工作簿的运营重用**
+  帮助将文档表格导入高性能的电子表格环境。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **高效批量工作簿生成**
+  从 DOCM 源生成 XLSB 文件，以实现可扩展的处理。
+
+* **数据管道优化**
+  支持以紧凑电子表格存储和传输为优先的工作流。
+
+* **自动化结构化导出**
+  以编程方式将重复的文档内容转换为二进制工作簿输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

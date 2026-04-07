@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu S
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod SVG na VCF umožňuje převést vektorový zdrojový obsah do formátu kontaktových dat, který se používá pro sdílení a ukládání osobních nebo organizačních kontaktních informací. To je relevantní, když je potřeba vizuálně prezentované kontaktní údaje převést na strojově čitelné záznamy, které lze importovat do pracovních postupů adresářů.
+
+Použití Python API pro převod SVG na VCF podporuje automatizaci tím, že strukturované vizuální kontaktní informace převádí na opakovaně použitelné digitální soubory kontaktů. Zvyšuje přesnost, snižuje ruční zadávání dat a umožňuje bezproblémovou integraci se systémy pro správu kontaktů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Digitální tvorba kontaktů**  
+  Převádí SVG‑založené rozvržení kontaktů do VCF souborů pro snadné sdílení a import.
+
+* **Integrace s adresářem**  
+  Pomáhá převést vizuálně formátované kontaktní informace do strukturovaných kontaktních systémů.
+
+* **Snížení zadávání dat**  
+  Minimalizuje ruční přepis tím, že grafické kontaktní údaje převádí do opakovaně použitelných souborů.
+
+* **Pracovní postupy distribuce kontaktů**  
+  Podporuje standardizované sdílení kontaktních záznamů vytvořených z vizuálních zdrojů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované pipeline pro extrakci kontaktů**  
+  Python aplikace mohou převádět SVG kontaktní karty do VCF souborů pro okamžité použití.
+
+* **Hromadná generace kontaktů**  
+  Více SVG souborů lze programově převést na strukturované kontaktní záznamy.
+
+* **Podpora CRM a adresářů**  
+  Automatizované systémy mohou generovat VCF výstupy z vizuálních kontaktních aktiv pro následnou integraci.
+
+* **Dynamické publikování kontaktů**  
+  Programové pracovní postupy mohou vytvářet aktualizované VCF soubory vždy, když se změní SVG‑založený obsah kontaktu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

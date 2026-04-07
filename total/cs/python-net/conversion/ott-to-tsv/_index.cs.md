@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod OTT na TSV v Python API převádí šablony textu OpenDocument do hodnot oddělených tabulátory pro čistou, lehkou a strukturovanou výměnu dat. Je to užitečné, když je obsah založený na šablonách třeba přesunout do systémů, které upřednostňují jednoduchý textový tabulkový výstup.
+
+Převod zlepšuje automatizaci tím, že umožňuje snadné parsování, transformaci a načítání do pracovních postupů, které oceňují minimální režii, přenositelnost a spolehlivou strukturu založenou na oddělovačích.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Export oddělených dat**  
+  Převádí obsah dokumentu do strukturovaného výstupu odděleného tabulátory.
+
+* **Formátování přátelské k pipeline**  
+  Podporuje systémy, které zpracovávají lehké textové tabulky.
+
+* **Příprava dat**  
+  Umožňuje snadnější import extrahovaného obsahu do analytických nebo provozních nástrojů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Dávkový tabulkový převod**  
+  Generuje TSV soubory z OTT šablon ve velkém měřítku.
+
+* **Napájení ETL pracovního postupu**  
+  Odesílá data odvozená z dokumentu do pipeline pro parsování a transformaci.
+
+* **Plánované strukturované exporty**  
+  Podporuje opakovanou tvorbu jednoduchých strojově čitelných datových sad.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

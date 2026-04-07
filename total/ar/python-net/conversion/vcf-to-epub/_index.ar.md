@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل VCF إلى EPUB يحول معلومات بطاقة الاتصال إلى تنسيق نشر رقمي قابل لإعادة التدفق، مما يجعل المحتوى متاحًا في بيئات موجهة للقراءة وتدفقات عمل الوثائق المحمولة. هذا مفيد عندما تحتاج بيانات الاتصال إلى تجميعها في مادة مرجعية رقمية منظمة.
+
+باستخدام واجهات برمجة تطبيقات بايثون، يمكن لتحويل VCF إلى EPUB دعم خطوط النشر الآلية عن طريق تحويل سجلات الاتصال إلى محتوى محمول ومنظم يسهل توزيعه وعرضه عبر الأجهزة.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **نشر المراجع الرقمية**  
+  تحويل بيانات الاتصال إلى ملفات EPUB للقراءة المحمولة والتوزيع.
+
+* **تعبئة المعلومات المنظمة**  
+  تنظيم سجلات الاتصال في محتوى رقمي صديق للنشر.
+
+* **إمكانية الوصول عبر الأجهزة**  
+  تسليم معلومات الاتصال بتنسيق مناسب لبيئات قراءة متعددة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **إنشاء دفتر جهات اتصال آلي**  
+  إنشاء ملفات EPUB من دفعات سجلات VCF لأدلة محمولة.
+
+* **تكامل سير عمل النشر**  
+  إدخال محتوى الاتصال المحول إلى عمليات النشر الرقمي.
+
+* **خطوط توزيع قابلة للتوسع**  
+  استخدام واجهات برمجة تطبيقات بايثون لإنتاج وتوصيل مخرجات EPUB منظمة بكفاءة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

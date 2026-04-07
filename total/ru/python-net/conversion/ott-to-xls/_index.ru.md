@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT в XLS преобразование в Python API преобразует шаблоны текста OpenDocument в файлы электронных таблиц для структурированного обзора, расчётов и совместного использования. Это ценно, когда текстовый исходный материал необходимо реорганизовать в формат рабочей книги для бизнес‑ или операционного использования.
+
+Преобразование повышает уровень автоматизации, позволяя содержимому документа напрямую поступать в процессы, основанные на электронных таблицах, где анализ, проверка и отчётность могут эффективно повторяться.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Создание рабочей книги**  
+  Преобразует шаблоны документов в редактируемые файлы таблиц.
+
+* **Организация данных**  
+  Структурирует текстовое содержание в строки и столбцы для более удобной обработки.
+
+* **Поддержка отчетности**  
+  Подготавливает исходную информацию для сводок, основанных на таблицах.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Автоматизированный экспорт таблиц**  
+  Создает файлы XLS из повторяющегося контента OTT.
+
+* **Операционная обработка данных**  
+  Переносит информацию, полученную из шаблонов, в рабочие процессы с рабочими книгами.
+
+* **Запланированные конвейеры отчетности**  
+  Создает выводы в виде таблиц для регулярных бизнес‑обзоров.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

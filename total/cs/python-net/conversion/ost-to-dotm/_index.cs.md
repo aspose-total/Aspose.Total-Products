@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OST to DOTM conversion transforms mailbox data into macro-enabled template format, combining reusable structure with automation-ready document behavior. This is valuable for organizations that need email-derived content inside standardized templates that also support automated document actions.
+
+Python APIs make OST to DOTM conversion practical for large-scale operations by enabling consistent, scriptable production of macro-enabled templates from mailbox archives. This improves efficiency in document automation, business workflow orchestration, and controlled content generation.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování šablon s makry**  
+  Převádí data poštovní schránky do souborů DOTM pro opakovaně použitelné šablony s vestavěnou podporou automatizace.
+
+* **Automatizované rámce dokumentů**  
+  Pomáhá týmům vytvářet procesy řízené šablonami kolem archivovaného e‑mailového obsahu.
+
+* **Strukturované dokumenty pracovních toků**  
+  Podporuje opakovatelnou tvorbu výstupů, kde je nutné zachovat logiku a rozvržení dokumentu.
+
+* **Operační standardizace**  
+  Umožňuje konzistentní zpracování obsahu odvozeného z poštovní schránky napříč automatizovanými dokumentovými prostředími.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizační pipeline šablon**  
+  Python skripty vytvářejí DOTM šablony z obsahu OST pro škálovatelné dokumentové workflow.
+
+* **Zpracování obsahu řízené makry**  
+  Automatizované systémy vyplňují a spravují soubory šablon generované z dat poštovní schránky.
+
+* **Opakovatelné podnikové dokumentové toky**  
+  Programová konverze zlepšuje konzistenci v podnikových operacích založených na šablonách.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

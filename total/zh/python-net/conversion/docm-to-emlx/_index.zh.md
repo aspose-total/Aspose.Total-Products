@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM 到 EMLX 的转换将启用宏的文档转换为特定邮件存储生态系统中使用的电子邮件消息文件，帮助以结构化的通信格式保留内容。当文档内容需要与平台特定的电子邮件工作流或归档要求保持一致时，这非常有用。
+
+在自动化环境中，DOCM 到 EMLX 的转换能够在受控的通信环境中系统地生成、组织和保留基于文档的消息内容。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **平台特定的消息输出**
+  创建针对使用 EMLX 存储结构的环境量身定制的消息文件。
+
+* **文档通信归档**
+  将文档内容保留为电子邮件工件，以便存档或审查。
+
+* **工作流兼容性**
+  支持需要基于消息文件的摄取而非原始文档输入的系统。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化邮件文件生成**
+  在可重复的处理例程中，从 DOCM 源生成 EMLX 文件。
+
+* **保留工作流支持**
+  帮助在结构化的邮件仓库中归档文档衍生的通信。
+
+* **批量转换流水线**
+  在通信工作流中扩展对大量 DOCM 文件的转换。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

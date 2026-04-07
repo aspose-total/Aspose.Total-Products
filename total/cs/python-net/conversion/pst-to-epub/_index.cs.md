@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PST to EPUB conversion in Python APIs transforms mailbox content into a digital publication format optimized for structured reading and portable access. It is useful when archived emails or extracted communication need to be packaged into a readable, navigable format for distribution or reference.
+
+In automation-driven systems, PST to EPUB conversion supports content republishing, digital archiving, and structured delivery workflows. It helps convert communication records into accessible resources that can scale across devices and reading environments.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Portable Archive Publishing**
+  Converts mailbox content into EPUB for structured digital reading.
+
+* **Knowledge Packaging**
+  Helps organize email-derived material into a navigable publication format.
+
+* **Reference Distribution**
+  Supports sharing of archived communication in a reader-friendly layout.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automated Publication Generation**
+  Systems can package PST data into EPUB files for internal distribution or review.
+
+* **Content Repurposing Workflows**
+  Email archives can be transformed into structured digital resources programmatically.
+
+* **Scalable Access Delivery**
+  Automated conversion enables consistent publication output across large datasets.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

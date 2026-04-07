@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Word to ODS conversion using Python APIs converts word processing documents into OpenDocument spreadsheet files for structured data handling in open productivity environments. This is valuable when document content needs to be reorganized into worksheets for analysis, review, or operational processing.
+
+From an automation perspective, this conversion enables efficient movement of information from document-centric workflows into spreadsheet-driven systems while supporting open standards and scalable batch processing.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые варианты использования" %}}
+
+* **Open Spreadsheet Conversion**
+  Moves word-derived data into ODS for structured review and manipulation.
+
+* **Cross-Platform Data Handling**
+  Supports environments that prioritize open document spreadsheet formats.
+
+* **Operational Tracking**
+  Reorganizes document content into sheets for monitoring and record keeping.
+
+* **Structured Data Reuse**
+  Makes narrative or tabular content easier to work with in spreadsheet workflows.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Document-to-Spreadsheet Automation**
+  Converts incoming word files into ODS for routine business processes.
+
+* **Batch Open Format Generation**
+  Produces standardized spreadsheet outputs from multiple source documents.
+
+* **Workflow Data Preparation**
+  Feeds ODS outputs into open office ecosystems and automated processing tools.
+
+* **Structured Archive Pipelines**
+  Preserves extracted document data in organized spreadsheet files for later use.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

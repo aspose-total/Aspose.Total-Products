@@ -53,7 +53,41 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX 转图片转换将 Word 模板内容转换为可视化输出，以用于预览、共享、发布和归档。它在需要将文档布局保留为图像资产以便跨平台轻松访问时非常有用。
+
+此转换支持自动化，允许 Python API 生成基于图像的模板渲染，用于内容交付、文档预览以及不依赖可编辑格式的可视化工作流。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **文档预览生成**
+  将模板内容渲染为图像，以便快速查看和分发。
+
+* **可视化归档**
+  以易于存储和引用的格式保留文档外观。
+
+* **跨平台共享**
+  以可视化方式共享文档内容，无需编辑软件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **缩略图和预览管道**
+  自动从 DOTX 文件创建图像预览，用于门户和存储库。
+
+* **发布工作流**
+  将模板转换为图像，用于网站、报告或可视化文档系统。
+
+* **大规模渲染任务**
+  将批量模板处理为图像集，以实现标准化的输出交付。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

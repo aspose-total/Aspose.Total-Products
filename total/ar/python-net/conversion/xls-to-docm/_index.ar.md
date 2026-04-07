@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل XLS إلى DOCM يتيح تحويل محتوى جداول البيانات إلى مستندات Word مدعومة بالماكرو تدعم التوثيق المنظم وسلوك المستند المتقدم. هذا مفيد عندما يجب تقديم المعلومات المستندة إلى جداول البيانات في شكل مستند مع الحفاظ على التوافق مع سير العمل الذي يعتمد على القوالب المدعومة بالماكرو.
+
+يدعم تحويل XLS إلى DOCM القائم على واجهة برمجة تطبيقات Python الأتمتة من خلال تمكين الأنظمة من إنشاء مخرجات المستندات برمجياً، مما يساعد المؤسسات على تبسيط تجميع المستندات، وإنشاء القوالب، وتوزيع المحتوى بشكل مُتحكم فيه.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إعداد مستندات مدعومة بالماكرو**
+  تحويل بيانات XLS إلى ملفات DOCM لسير العمل الذي يعتمد على صيغ المستندات القادرة على تشغيل الماكرو.
+
+* **إخراج قائم على القالب**
+  استخدام محتوى جداول البيانات لملء مستندات DOCM المنظمة المستخدمة في عمليات الأعمال المتكررة.
+
+* **توثيق تشغيلي**
+  تحويل سجلات جداول البيانات إلى مستندات قابلة للتحرير مناسبة للإجراءات الداخلية الموجهة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **ملء القالب تلقائيًا**
+  إدخال بيانات XLS في خطوط توليد مستندات DOCM باستخدام واجهات برمجة تطبيقات Python.
+
+* **خدمات التحويل الجماعي**
+  تحويل ملفات جداول البيانات المتعددة إلى مخرجات DOCM للمعالجة المؤسسية المعيارية.
+
+* **تسليم المستند المتكامل**
+  إنشاء ملفات DOCM تلقائيًا كجزء من أنظمة الموافقة أو الأرشفة أو التقارير.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

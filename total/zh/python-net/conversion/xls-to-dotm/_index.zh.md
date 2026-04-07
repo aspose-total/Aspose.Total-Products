@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS 到 DOTM 的转换将电子表格信息转化为支持可重复和高级文档生成工作流的宏启用 Word 模板。当组织需要可重复使用的模板文件且需要与支持宏的环境保持一致时，此格式尤为重要。
+
+使用 Python API 进行 XLS 到 DOTM 的转换可通过自动化模板生成并在可扩展系统中实现基于电子表格的文档设计，从而提升效率。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **宏启用模板创建**
+  从电子表格数据生成 DOTM 模板，以支持高级文档工作流。
+
+* **可重复的文档结构**
+  使用 XLS 内容定义模板，以实现一致的业务文档。
+
+* **面向流程的文档设计**
+  为依赖结构化输出文件的部门提供受控的模板生成支持。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **编程式模板构建**
+  使用 Python API 从电子表格输入自动生成 DOTM 模板。
+
+* **企业模板流水线**
+  将 XLS 文件转换为可重复使用的模板资产，以实现标准化的文档操作。
+
+* **工作流集成**
+  将 DOTM 转换嵌入自动化文档组装和发布流程中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod OFT na MD pomocí Python API transformuje šablony e‑mailů Outlooku do souborů Markdown pro lehké, strukturované a přenosné textové řízení obsahu. Je to užitečné, když je třeba obsah šablony znovu použít v systémech dokumentace, vývojářských pracovních postupech nebo v pipelinech publikování obsahu.
+
+V prostředích řízených automatizací podporuje převod OFT na MD správu verzí, snadnou úpravu a bezproblémovou integraci se statickými generátory stránek a platformami dokumentace. Zlepšuje přenositelnost obsahu a zjednodušuje programové zpracování.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **Znovupoužití dokumentace**  
+  Převést šablony OFT do Markdown pro zahrnutí do příruček, znalostních bází nebo interní dokumentace.
+
+* **Správa obsahu pod verzí**  
+  Ukládat převedený obsah v textových repozitářích pro sledování a kolaborativní úpravy.
+
+* **Příprava strukturovaného publikování**  
+  Připravit obsah pocházející z e‑mailu pro statické weby nebo systémy publikování založené na Markdown.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **Automatizace obsahové pipeline**  
+  Automaticky transformovat soubory OFT do Markdown pro workflow publikování a dokumentace.
+
+* **Správa šablon založená na repozitáři**  
+  Nahrát převedené soubory MD do systémů pod správou verzí pro škálovatelnou údržbu.
+
+* **Programová transformace obsahu**  
+  Použít Python API k normalizaci a distribuci obsahu šablon napříč moderními textovými platformami.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

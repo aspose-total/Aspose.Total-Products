@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOT إلى TSV يغيّر قوالب المستندات إلى ملفات بيانات مفصولة بفواصل جدولة تكون بسيطة، محمولة، وسهلة المعالجة. هذا يكون ذا قيمة عندما يجب تصدير محتوى القالب المُنظم إلى تنسيق قائم على الفواصل يدعم تبادل البيانات الموثوق.
+
+باستخدام واجهات برمجة تطبيقات بايثون، يمكن أتمتة سير عمل تحويل DOT إلى TSV لدعم استخراج بيانات نظيف، وتكامل الأنظمة، ومعالجة المستند إلى البيانات بشكل قابل للتوسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تصدير النص المُنظم**
+  تحويل ملفات DOT إلى TSV لمعالجة بيانات مبنية على الفواصل بشكل نظيف.
+
+* **تبادل بيانات صديق للنظام**
+  استخدم مخرجات TSV حيث تُفضَّل الفواصل الجدولية لفصل الحقول بشكل متوقع.
+
+* **استخراج محتوى القالب**
+  إعادة توجيه معلومات المستند إلى تنسيق بسيط للسكربتات والأدوات التشغيلية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **استخراج بيانات آلي**
+  يمكن لسكربتات بايثون تحويل قوالب DOT إلى ملفات TSV للوظائف المتكررة.
+
+* **دعم سير عمل ETL**
+  يساعد التحويل في تغذية البيانات المستخرجة من القوالب إلى خطوط الأنابيب وأنظمة التكامل.
+
+* **تصديرات نصية قابلة للتوسع**
+  يتيح التحويل البرمجي إنشاء TSV بحجم كبير من مستودعات المستندات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

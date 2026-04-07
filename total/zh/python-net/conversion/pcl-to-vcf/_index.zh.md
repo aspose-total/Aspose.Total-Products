@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 PCL 转换为 VCF，可将基于打印的信息转换为可在数字通讯录和联系人管理系统中使用的名片格式。当结构化的联系人详情来源于生成的打印流并且必须重新用于现代通信工作流时，这非常有用。
+
+通过自动化 PCL 到 VCF 的转换，组织可以简化联系人提取、提升数据可移植性，并支持与目录、CRM 或消息系统的可扩展集成。它将静态的面向打印的信息转化为可在更广泛数字工作流中重复使用的联系人数据。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **数字联系人创建**  
+  将基于 PCL 的联系人详情转换为可用于通讯录的 VCF 文件。
+
+* **目录数据可移植性**  
+  帮助将联系人信息从打印流转移到可重复使用的数字格式。
+
+* **联系人工作流现代化**  
+  支持将遗留文档数据转化为结构化的联系人记录。
+
+* **跨系统信息复用**  
+  使联系人数据更容易导入到通信和管理环境中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化联系人提取**  
+  系统可以自动将包含联系人详情的 PCL 文件转换为 VCF 记录。
+
+* **批量联系人生成**  
+  批处理工作流可以从大批量打印输出中创建多个 VCF 文件。
+
+* **CRM 与目录集成**  
+  转换后的联系人文件可用于自动化的入职或同步工作流。
+
+* **程序化联系人分发**  
+  VCF 输出可以动态生成，以用于共享、导入或更新联系人系统。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

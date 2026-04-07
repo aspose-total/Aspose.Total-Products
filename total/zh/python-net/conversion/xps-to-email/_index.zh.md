@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 XPS 转换为 EMAIL，使团队能够将固定布局的文档内容转换为更易于分发、归档和在通信工作流中处理的电子邮件就绪格式。这对于需要将报告、发票、通知或生成的文档转化为可重复使用的消息资产，而无需手动复制或格式化的组织非常有价值。
+
+在以自动化为重点的环境中，将 XPS 转换为兼容电子邮件的输出可提升投递效率，支持可扩展的文档通信，并帮助将文档流水线与通知系统、归档工具和工作流编排平台集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **基于文档的电子邮件分发**  
+  将 XPS 文档转换为电子邮件就绪的内容，以通过结构化的消息工作流共享报告、对账单或通知。
+
+* **自动化通信流水线**  
+  支持生成文档并立即为外发电子邮件处理做好准备的系统，无需人工干预。
+
+* **归档与可追溯性**  
+  在面向电子邮件的格式中保留文档信息，可在通信归档中存储、索引和审查。
+
+* **工作流集成**  
+  帮助将文档生成系统与消息、审查和合规流程在统一的流水线中连接。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **计划报告发送**  
+  自动化将周期性 XPS 报告转换为电子邮件就绪的输出，用于例行的内部或外部通信。
+
+* **事件触发的通知**  
+  系统可以在特定业务事件发生时，将新生成的 XPS 文档转换为电子邮件内容。
+
+* **批量信函处理**  
+  高容量的文档批次可以通过编程方式转换，以实现可扩展的消息准备和路由。
+
+* **合规通信工作流**  
+  自动化流水线可以生成、转换并保留基于文档的电子邮件记录，以满足审计和治理需求。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

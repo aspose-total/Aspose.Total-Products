@@ -64,7 +64,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل PPTM إلى TSV باستخدام واجهات برمجة تطبيقات بايثون يحول بيانات العروض التقديمية الممكّنة للماكرو إلى تنسيق نصي مفصول بعلامات جدولة مُحسّن لتبادل البيانات المهيكلة البسيط. يكون ذلك ذا قيمة عندما يجب نقل جداول الشرائح أو السجلات المستخرجة إلى أنظمة تفضّل تنسيقات النص العادي القائمة على الفواصل.
+
+يُعد التحويل مناسبًا جدًا للأتمتة لأن ملفات TSV سهلة الإنشاء والتحليل والتحقق والاستيراد إلى تحليلات أو سير عمل ETL. يساعد ذلك في تبسيط نقل البيانات من مصادر العروض التقديمية إلى الأنظمة اللاحقة دون عبء تنسيق كبير.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تصدير البيانات المهيكلة**
+  يحوّل البيانات المستندة إلى الشرائح إلى تنسيق نصي بسيط موجه بالأعمدة للمعالجة.
+
+* **تبادل البيانات من نظام إلى نظام**
+  يسهّل نقل البيانات المستخرجة من العروض التقديمية بين السكريبتات والتطبيقات.
+
+* **حفظ البيانات الخفيف الوزن**
+  يخزن محتوى الجداول المستخرجة في شكل مدمج وقابل للقراءة آليًا.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء مدخلات ETL**
+  ينتج ملفات TSV من العروض التقديمية لإدخالها تلقائيًا في خطوط البيانات.
+
+* **تحويل البيانات الضخم**
+  يدعم تصدير البيانات من العروض التقديمية على نطاق واسع إلى مخرجات نصية قائمة على الفواصل.
+
+* **سير عمل التحقق والتحليل**
+  يُمكّن من معالجة آلية وفعّالة للسجلات المحوّلة عبر الأنظمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

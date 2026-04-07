@@ -65,7 +65,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT 到 PPTX 的转换在 Python API 中将 OpenDocument 文本模板转换为用于可视化沟通、报告和培训的现代演示文件。当需要将文本源内容转换为灵活、可共享的幻灯片时，这非常有用。
+
+该转换支持自动化，通过从模板快速、可重复地生成演示文稿，减少手动格式化工作，帮助团队高效扩展内容生产。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **现代演示文稿生成**  
+  将文档模板转换为当前的幻灯片格式。
+
+* **业务沟通支持**  
+  使结构化内容在会议和报告中更易呈现。
+
+* **可编辑的可视化输出**  
+  保留灵活性，以便未来更新和重复使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **基于模板的幻灯片自动化**  
+  从标准化的 OTT 内容生成 PPTX 文件。
+
+* **重复性演示工作流**  
+  支持为更新或培训定时生成幻灯片。
+
+* **可扩展的多受众交付**  
+  为不同的利益相关者以编程方式创建演示变体。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

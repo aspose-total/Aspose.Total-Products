@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل المستند إلى XLT يغيّر محتوى Word إلى ملفات قالب جدول بيانات تدعم إنشاء دفاتر عمل قابلة للتكرار وتوحيدها. يكون مفيدًا عندما تحتاج الهياكل المستمدة من المستند إلى أن تصبح أسس جداول بيانات قابلة لإعادة الاستخدام.
+
+باستخدام واجهات برمجة التطبيقات Python، يمكن أتمتة تحويل DOC إلى XLT لتوليد القوالب بشكل متسق، وإعادة استخدام عملياتية، وإنتاج جداول بيانات مبسط.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء قالب جدول بيانات**
+  تحويل محتوى المستند المهيكل إلى قوالب جدول بيانات قابلة لإعادة الاستخدام.
+
+* **تصميم دفتر عمل موحد**
+  استخدام مخرجات XLT للحفاظ على تخطيطات وهياكل بيانات متسقة.
+
+* **نماذج أعمال قابلة لإعادة الاستخدام**
+  إعادة توجيه المستندات إلى قوالب دفاتر عمل للاستخدام المتكرر.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **أتمتة مكتبة القوالب**
+  إنشاء ملفات XLT تلقائيًا من المواد المصدرية المستندة إلى DOC.
+
+* **إعداد جدول بيانات قابل للتكرار**
+  إنتاج قوالب دفاتر عمل برمجيًا من المستندات المعيارية.
+
+* **إعادة استخدام المحتوى التشغيلي**
+  تحويل النماذج والتقارير المتكررة إلى أصول جدول بيانات مدفوعة بالقوالب.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

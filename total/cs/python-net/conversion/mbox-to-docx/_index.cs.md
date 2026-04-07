@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX to DOCX conversion převádí e‑mailové archivy do moderních dokumentů Word, což usnadňuje úpravu, ukládání a sdílení obsahu zpráv v běžných podnikových prostředích. Je zvláště užitečný pro organizace, které chtějí data poštovní schránky v čistém, přenosném a široce podporovaném formátu dokumentu.
+
+Pomocí Python API lze workflow převodu MBOX na DOCX automatizovat pro rozsáhlou transformaci obsahu, což pomáhá zlepšovat provozní efektivitu, konzistenci dokumentů a integraci s digitálními záznamovými systémy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Moderní konverze dokumentů**
+  Převést obsah poštovní schránky do souborů DOCX pro širokou kompatibilitu a snadnou úpravu.
+
+* **Správa e‑mailových záznamů**
+  Uchovat důležité zprávy ve strukturovaném formátu dokumentu pro dlouhodobé použití.
+
+* **Exporty připravené ke spolupráci**
+  Sdílet převedený e‑mailový obsah ve formátu vhodném pro revizi a týmové workflow.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Hromadné zpracování e‑mailů do dokumentů**
+  Automaticky převádět archivované e‑maily do souborů DOCX pro uspořádané ukládání.
+
+* **Standardizace workflow**
+  Vytvářet konzistentní výstupy dokumentů z dat poštovní schránky pomocí opakovaně použitelných Python skriptů.
+
+* **Integrované publikování obsahu**
+  Přesunout převedený e‑mailový obsah do reportovacích, právních nebo administrativních procesů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu E
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod EPUB na ICS v Pythonu umožňuje extrahovat nebo přetvořit obsah publikace do souborů kompatibilních s kalendářem pro plánování a workflow založené na událostech. To je zvláště užitečné, když obsah dokumentu obsahuje informace řízené daty, agendy, časové osy nebo podrobnosti událostí, které vyžadují strukturovaný kalendářní výstup.
+
+V moderních scénářích automatizace pomáhá převod EPUB na ICS organizacím propojit dokumenty se systémy plánování, zlepšit koordinaci založenou na čase a umožnit workflow poháněná Pythonem, které automaticky generuje kalendářní položky.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Extrahování rozvrhu událostí**  
+  Převést obsah EPUB obsahující rozvrhy nebo časové osy do souborů ICS pro použití v kalendáři.
+
+* **Distribuce agendy**  
+  Převést informace o událostech založené na publikaci na kalendářní položky, které jsou snazší ke sdílení a správě.
+
+* **Podpora plánovacích workflow**  
+  Použít výstup ICS k propojení obsahu dokumentu s procesy plánování a koordinace.
+
+* **Strukturovaná správa dat**  
+  Přeměnit materiál publikace zaměřený na data do formátu vhodného pro kalendářové aplikace a nástroje pro plánování.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatické generování kalendáře**  
+  Workflow v Pythonu mohou generovat soubory ICS z dokumentů EPUB, které obsahují události, sezení nebo milníky.
+
+* **Pipelines obsah‑na‑plán**  
+  Automatizované systémy mohou převádět data publikace na použitelné výstupy pro plánování bez ručního zadávání.
+
+* **Publikování opakujících se událostí**  
+  Opakované aktualizace dokumentu mohou spustit novou generaci ICS pro synchronizovaná kalendářní workflow.
+
+* **Dávková konverze událostí**  
+  Velké sbírky EPUB souborů založených na rozvrzích lze programově převést pro efektivní naplnění kalendáře.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

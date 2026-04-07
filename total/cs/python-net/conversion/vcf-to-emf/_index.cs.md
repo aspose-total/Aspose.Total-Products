@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu V
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod VCF na EMF převádí data kontaktních karet do grafiky ve formátu Enhanced Metafile, která dokáže zachovat vizuální výstup s charakteristikami škálovatelného zobrazení. To je výhodné, když je třeba vložit kontaktní informace do dokumentů nebo systémů, které dobře pracují s vektorovými grafickými formáty.
+
+V automatizovaných dokumentových pipelinech umožňuje převod VCF na EMF Python API generovat kompaktní grafické reprezentace kontaktních dat pro vložení do zpráv, formulářů a dalších strukturovaných aktiv.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vkládání grafických kontaktů**  
+  Převést záznamy VCF na grafiku EMF pro integraci do dokumentů.
+
+* **Škálovatelná vizuální reprezentace**  
+  Použít výstup EMF tam, kde musí být kontaktní data vizuálně jasná při různých velikostech.
+
+* **Aktiva připravená k prezentaci**  
+  Připravit kontaktní informace jako grafiku pro zprávy a interní materiály.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Dávková generace grafiky**  
+  Automaticky převést více souborů VCF na vizuály EMF pro strukturované opětovné použití.
+
+* **Pipeline pro sestavování dokumentů**  
+  Vložit vygenerovanou grafiku kontaktů EMF do automatizovaných pracovních toků reportování.
+
+* **Programová výroba aktiv**  
+  Použít Python API k vytvoření vektorově přátelských vizuálů kontaktů ve velkém měřítku.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

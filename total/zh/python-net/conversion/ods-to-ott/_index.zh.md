@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS 到 OTT 转换将电子表格文件转换为 OpenDocument 文本模板。这些模板实现可重用的文档结构，可用于一致的文档生成。
+
+Python API 允许开发者自动化地从电子表格内容创建模板文档。这支持可扩展的文档工作流以及跨系统的高效模板管理。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **可重用模板创建**  
+  将电子表格结构转换为可重用的文档模板。
+
+* **文档标准化**  
+  使用基于模板的工作流确保文档格式的一致性。
+
+* **内容结构化**  
+  将表格化的电子表格信息转化为可直接使用的模板文档。
+
+* **Open Document 模板管理**  
+  维护从电子表格数据派生的标准化模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化模板生成**  
+  Python 工作流从电子表格输入创建文档模板。
+
+* **批量模板处理**  
+  系统将多个 ODS 文件转换为可重用的文档模板。
+
+* **动态文档系统**  
+  基于模板的工作流以编程方式生成文档。
+
+* **工作流模板集成**  
+  从电子表格派生的模板支持自动化文档创建。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

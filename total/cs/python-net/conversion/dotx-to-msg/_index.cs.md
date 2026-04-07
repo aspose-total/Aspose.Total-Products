@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX to MSG conversion transforms Word template content into an email message format commonly used in desktop mail ecosystems. It is valuable for generating structured communication files from reusable templates while preserving message-oriented formatting.
+
+With Python APIs, this conversion enables automated email file creation, routing, and storage for organizations that rely on message-based workflows derived from standardized documents.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování zpráv na desktopu**
+  Convert document templates into message files for supported mail environments.
+
+* **Archivace komunikace**
+  Preserve generated correspondence in a message-centric file format.
+
+* **Kontaktování založené na šablonách**
+  Reuse formal document structures in email-oriented business workflows.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná výroba souborů zpráv**
+  Generate MSG files from DOTX templates in communication pipelines.
+
+* **Balíčkování e‑mailů řízené workflow**
+  Create reusable message assets for approval, notification, or service processes.
+
+* **Škálovatelné zpracování korespondence**
+  Convert recurring templates into standardized message outputs programmatically.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

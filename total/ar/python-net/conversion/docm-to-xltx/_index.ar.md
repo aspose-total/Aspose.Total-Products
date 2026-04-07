@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOCM إلى XLTX يحوّل المستندات الممكّنة للماكرو إلى قوالب جداول بيانات حديثة، مما يسهل إعادة استخدام تخطيطات دفاتر العمل المهيكلة في سير عمل جداول البيانات المعياري. يكون ذلك مفيدًا عندما تحتاج المؤسسات إلى قوالب نظيفة وقابلة للتكرار مستندة إلى محتوى مستمد من المستندات.
+
+في البيئات المدفوعة بالأتمتة، يدعم تحويل DOCM إلى XLTX توفير دفاتر العمل بكفاءة، وإدارة القوالب مركزياً، وتحويل المستندات إلى أصول جداول بيانات حديثة بشكل قابل للتوسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إخراج قالب جدول بيانات حديث**
+  يحوّل محتوى المستند إلى قوالب دفتر عمل قابلة لإعادة الاستخدام لضمان عمليات متسقة.
+
+* **توحيد القوالب**
+  يساعد على الحفاظ على هياكل جداول البيانات الموحدة عبر العمليات المتكررة.
+
+* **تصاميم بيانات قابلة لإعادة الاستخدام**
+  يُكيّف جداول المستند والأنماط إلى تصاميم قوالب جاهزة لدفتر العمل.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء القالب تلقائيًا**
+  ينتج ملفات XLTX من مصادر DOCM لعمليات جداول بيانات قابلة للتكرار.
+
+* **إدارة دفتر العمل مركزيًا**
+  يدعم توزيعًا قابلًا للتوسع للقوالب الموحدة عبر الفرق.
+
+* **توفير جداول بيانات ديناميكي**
+  يُمكّن الأنظمة من ملء قوالب دفتر العمل القابلة لإعادة الاستخدام ببيانات محدثة برمجيًا.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

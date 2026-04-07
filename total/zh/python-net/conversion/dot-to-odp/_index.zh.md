@@ -65,7 +65,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT 到 ODP 的转换将文档模板转换为用于基于幻灯片的沟通和内容复用的 OpenDocument 演示文件。当需要将叙述性或结构化的模板内容重新用于演示工作流时，这非常有用。
+
+使用 Python API，DOT 到 ODP 的转换支持自动化策略，可从现有文档模板生成演示资产，提高效率和标准化。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **演示再利用**
+  将 DOT 文档转换为 ODP 幻灯片，用于会议、培训或知识共享。
+
+* **开放格式交付**
+  将可演示的内容导出为开放的幻灯片格式，以实现广泛兼容性。
+
+* **模板内容复用**
+  将书面模板转换为可视化的演示结构，几乎无需手动操作。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化幻灯片创建**
+  Python 工作流可以将 DOT 模板转换为 ODP 文件，用于演示流水线。
+
+* **内容发布自动化**
+  转换可帮助按需从文档库生成幻灯片材料。
+
+* **可扩展的演示输出**
+  编程式转换支持在大量文件中一致地生成幻灯片。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

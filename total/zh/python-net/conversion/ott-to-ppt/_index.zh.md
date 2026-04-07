@@ -65,7 +65,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT 到 PPT 的转换在 Python API 中将 OpenDocument 文本模板转换为用于幻灯片共享和交流的演示文件。当需要将大量文本的源内容重新打包为更易获取且具视觉叙事性的演示格式时，这非常有用。
+
+该转换支持自动化，允许从标准化文档模板重复创建演示资产，从而提升报告、教育和组织沟通工作流的效率。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **幻灯片套件创建**  
+  将源文档转换为用于共享的演示文件。
+
+* **内容再利用**  
+  在视觉沟通格式中重新使用叙事或结构化文本。
+
+* **会议准备**  
+  帮助快速将文档内容转化为演示材料。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化演示构建**  
+  从重复的基于 OTT 的工作流生成 PPT 输出。
+
+* **批量报告转换**  
+  将文档集合转换为演示文稿格式，以便定期更新。
+
+* **编程化内容交付**  
+  支持从模板可扩展地生成演示文稿。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

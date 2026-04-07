@@ -66,7 +66,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FODS 到 DOCM 的转换将平面 OpenDocument 电子表格文件转换为支持宏的 Word 文档，使其在需要可编辑内容并结合高级文档行为的工作流中非常有用。此转换支持必须将基于电子表格的源数据合并到具有动态或可编程元素的结构化文档中的环境。
+
+从自动化的角度来看，FODS 到 DOCM 的转换有助于构建结合数据转换和宏支持处理的智能文档工作流。Python API 使大规模转换自动化、更轻松地将文档生成与企业系统连接，并支持可重复的内容交付流程。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用案例" %}}
+
+* **支持宏的报告**  
+  将电子表格数据转换为能够支持高级文档自动化逻辑的 DOCM 文档。
+
+* **流程文档**  
+  将结构化的 FODS 内容转换为适用于引导工作流和程序性内容的可编辑文件。
+
+* **基于模板的输出**  
+  当转换后的数据需要适配带有内置自动化功能的文档模板时，使用 DOCM 文件。
+
+* **运营文档分发**  
+  以适合受控编辑和内部流程处理的格式交付数据驱动的文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化文档组装**  
+  Python API 可以在文档创建流水线中将 FODS 文件转换为 DOCM 输出。
+
+* **规则驱动的工作流支持**  
+  自动化系统可以为需要扩展文档操作的环境准备支持宏的文档。
+
+* **企业运营的大批量转换**  
+  大批量的 FODS 文件可以通过编程方式转换为 DOCM 格式，以实现一致性和规模化。
+
+* **动态输出准备**  
+  转换工作流可以生成准备好进行进一步自动化编辑或结构化处理的 DOCM 文档。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

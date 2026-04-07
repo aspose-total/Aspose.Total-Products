@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu W
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod WordML na MSG vytváří soubory e‑mailových zpráv z obsahu dokumentu pro použití v pracovních postupech s desktopovým poštovním klientem, archivních procesech a balení komunikace. Je užitečný, když je třeba zachovat strukturované informace dokumentu jako jednotlivé záznamy zpráv.
+
+Python API podporují převod WordML na MSG mapováním textu dokumentu do komponent zprávy a automatizací generování výstupu pro prostředí kompatibilní s e‑mailem.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Vytváření souborů zpráv**
+  Převádí obsah WordML do souborů MSG pro individuální zpracování e‑mailových záznamů.
+
+* **Kompatibilita s desktopovou poštou**
+  Podporuje pracovní postupy, které se spoléhají na výměnu souborů zpráv v desktopově orientovaných prostředích.
+
+* **Archivace komunikace**
+  Zachovává obsah založený na dokumentech jako samostatné artefakty ve stylu e‑mailu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Hromadné generování MSG**
+  Automatizuje vytváření souborů zpráv z více dokumentů WordML.
+
+* **Příprava archivu**
+  Převádí strukturované dokumenty do záznamů MSG pro pracovní postupy ukládání a načítání.
+
+* **Provozní balení obsahu**
+  Podporuje programové doručování komunikací odvozených z dokumentů do systémů zpráv.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

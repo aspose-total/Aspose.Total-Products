@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu W
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML to PST conversion supports transformation of document-derived content into personal storage table workflows used for mailbox data organization and migration. It is relevant when document information needs to be incorporated into larger email storage or archival operations.
+
+Python APIs can assist WordML to PST-related processing by structuring content for scalable message and archive preparation in enterprise communication environments.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Mailbox Archive Preparation**
+  Uses document content as source material for personal mail storage workflows.
+
+* **Migration and Retention Support**
+  Helps integrate structured text into archive-oriented communication systems.
+
+* **Enterprise Content Consolidation**
+  Supports packaging of document-derived records in mailbox-centric processes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Archive Preparation Pipelines**
+  Automates transformation of WordML content for large-scale storage workflows.
+
+* **Mail Data Consolidation**
+  Supports repeatable integration of document-based communications into archive operations.
+
+* **Retention Process Automation**
+  Helps standardize document-to-mailbox content preparation across systems.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

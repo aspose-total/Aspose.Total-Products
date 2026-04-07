@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX to MBOX conversion transforms Word template content into a mailbox-oriented email archive format used for storing collections of messages. It is useful when generated communication from templates must be preserved in bulk for retention or migration workflows.
+
+Using Python APIs, this conversion helps automate message packaging, archival operations, and long-term storage processes where structured document content becomes part of email-based records.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Массовое архивирование сообщений**
+  Преобразовать коммуникацию, управляемую шаблонами, в форматы хранения в стиле почтового ящика.
+
+* **Управление коллекцией электронных писем**
+  Сохранять несколько сгенерированных сообщений в единой архивной структуре.
+
+* **Подготовка к миграции**
+  Поддерживать рабочие процессы, перемещающие коммуникацию, полученную из документов, в почтовые архивы.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Автоматическое создание архива**
+  Генерировать выводы MBOX из электронного контента, основанного на DOTX, в запланированных заданиях.
+
+* **Рабочие процессы удержания**
+  Хранить преобразованные коммуникации в централизованных архивах для целей управления.
+
+* **Консолидация документов в почту**
+  Упаковывать повторяющиеся выводы шаблонов в коллекции почтовых ящиков программно.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API 中的 OTT 到 XLAM 转换将 OpenDocument 文本模板转换为用于扩展工作簿功能的插件式电子表格输出。这在特定工作流中非常有用，因为转换后的内容可用于构建可重复使用的基于电子表格的自动化资产。
+
+该转换通过将文档来源的逻辑或结构化内容与电子表格扩展工作流对齐，支持自动化，帮助在高级工作簿环境中标准化可重复的操作。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **电子表格扩展支持**  
+  将文档内容与插件式电子表格工作流连接。
+
+* **可重复使用的自动化资产准备**  
+  帮助打包结构化内容以供工作簿重复使用。
+
+* **高级工作流集成**  
+  在文本模板和电子表格功能场景之间搭建桥梁。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化插件内容准备**  
+  以编程方式从 OTT 模板生成 XLAM 相关输出。
+
+* **工作簿增强流水线**  
+  支持将内容转换与电子表格自动化相结合的工作流。
+
+* **可重复使用的业务逻辑分发**  
+  帮助在团队之间扩展结构化电子表格解决方案。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

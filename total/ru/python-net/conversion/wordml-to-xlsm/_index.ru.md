@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML в XLSM преобразование преобразует структурированное содержимое документа в файлы электронных таблиц с поддержкой макросов, которые объединяют данные книги с возможностями автоматизации. Это полезно, когда преобразованные данные должны поддерживать логику, скрипты или повторяемые задачи, основанные на электронных таблицах.
+
+С помощью API Python преобразование WordML в XLSM позволяет данным документа переходить в продвинутые рабочие процессы электронных таблиц с масштабируемой автоматизацией и повторно используемой логикой обработки.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* **Создание книги с поддержкой макросов**
+  Преобразует таблицы WordML в файлы XLSM для рабочих процессов электронных таблиц, ориентированных на автоматизацию.
+
+* **Продвинутая обработка данных**
+  Поддерживает выводы электронных таблиц, которые зависят от встроенных действий или логики.
+
+* **Обеспечение выполнения операционных задач**
+  Помогает переносить данные документа в книги, предназначенные для повторяемой обработки.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* **Автоматическое создание книги с макросами**
+  Создаёт файлы XLSM из источников WordML в повторяющихся бизнес‑процессах.
+
+* **Интеграция логики электронных таблиц**
+  Связывает извлечённые данные документа со средами обработки, управляемыми макросами.
+
+* **Упаковка данных, готовых к процессу**
+  Обеспечивает масштабируемую подготовку ресурсов книги для автоматизированных операций.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

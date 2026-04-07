@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل TSV إلى DOCM يتيح تحويل البيانات الجدولية إلى مستندات معالجة كلمات مدعومة بالماكرو تدعم سير عمل مستندات أكثر غنى واحتياجات معالجة متقدمة. هذا ذو قيمة عندما يجب تسليم البيانات المهيكلة بصيغ قابلة للتحرير تتناسب مع بيئات توثيق المؤسسات المتحكم فيها.
+
+مع واجهات برمجة تطبيقات بايثون، يمكن دمج تحويل TSV إلى DOCM في أنظمة مؤتمتة تُنشئ مستندات قابلة لإعادة الاستخدام على نطاق واسع، مما يساعد على تبسيط تجميع المستندات، وتنسيق سير العمل، وتوصيل المحتوى المهيكل.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تقارير مدعومة بالماكرو**  
+  يُعدّ مستندات مدفوعة بالبيانات للبيئات التي تتطلب سلوكًا متقدمًا للمستند.
+
+* **إخراج مستند منظم**  
+  يحوّل محتوى TSV إلى ملفات قابلة للتحرير مناسبة للاستخدام التشغيلي والإداري.
+
+* **تعبئة المحتوى تلقائيًا**  
+  يدعم سير عمل إنشاء المستندات الذي يحتاج إلى بيانات بصيغة أكثر تفاعلية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء مستندات مبنية على القوالب**  
+  يمكن للأتمتة ملء صيغ المستندات المدعومة بالماكرو من مجموعات بيانات TSV.
+
+* **تكامل سير عمل المؤسسة**  
+  يمكن لواجهات برمجة تطبيقات بايثون ربط تصديرات البيانات بأنظمة معالجة المستندات اللاحقة.
+
+* **خطوط أنابيب النشر الدفعي**  
+  يمكن تحويل ملفات TSV المتعددة إلى مستندات DOCM في عمليات تشغيل تلقائية قابلة للتكرار.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM to PST conversion převádí makrem povolené šablony Wordu do souborů osobního úložiště používaných pro organizaci e‑mailů a zpráv. To je užitečné tam, kde je obsah komunikace odvozený z dokumentů třeba připravit pro archivaci pošty, migraci nebo pracovní postupy zaměřené na ukládání.
+
+Použití Python API pro převod DOTM na PST podporuje automatizaci tím, že transformuje obsah šablon do strukturovaných výstupů úložiště pošty. Pomáhá standardizovat archivní zpracování, snižovat ruční úsilí a integrovat dokumentové systémy s podnikovými komunikačními ekosystémy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování archivů pošty**
+  Převést obsah komunikace odvozený z DOTM do PST pro dlouhodobé ukládání a migrační scénáře.
+
+* **Strukturované úložiště zpráv**
+  Zachovat obsah zpráv založený na šablonách v kontejnerovém formátu vhodném pro organizaci pošty.
+
+* **Integrace podnikových pracovních postupů**
+  Propojit dokumentové a komunikační systémy převodem opakovaně použitelných šablon na aktiva úložiště pošty.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované balení archivů**
+  Pracovní postupy mohou generovat výstupy PST ze šablon DOTM pro procesy úložiště pošty.
+
+* **Pipelines podpory migrace**
+  Převod pomáhá automatizovat přesun komunikace založené na dokumentech do úložišť zpráv.
+
+* **Příprava velkého objemu poštovních dat**
+  Programové úlohy podporují škálovatelný převod mnoha souborů šablon do výstupů zaměřených na PST.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OST 到 TIFF 的转换将邮箱内容转换为一种高质量的图像格式，常用于归档、扫描和文档保存工作流。对于需要持久、基于图像的电子邮件记录表示的组织而言，这非常有用。
+
+Python API 支持可扩展的 OST 到 TIFF 转换，用于自动化的保存、合规和成像操作。这有助于保持一致的输出质量，同时实现与归档和文档管理系统的高效集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **档案图像保存**  
+  将邮箱内容转换为 TIFF，以实现持久且高保真的存储。
+
+* **合规成像**  
+  支持依赖基于图像的保存标准的保留工作流。
+
+* **文档审查支持**  
+  帮助团队在受控环境中将电子邮件记录检查为静态图像。
+
+* **系统兼容的记录输出**  
+  使邮箱内容适配成像和面向归档的平台。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **保存管道自动化**  
+  Python 脚本将 OST 档案转换为 TIFF，以进行长期记录管理。
+
+* **成像工作流集成**  
+  自动化系统为文档归档平台准备来自邮箱的视觉材料。
+
+* **大批量合规处理**  
+  编程式转换支持可扩展的基于图像的通信记录生成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

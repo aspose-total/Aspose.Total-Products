@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOT إلى VCF يحول قوالب المستندات إلى ملفات بطاقات جهات الاتصال التي يمكن استخدامها لاستيراد دفتر العناوين ومشاركة جهات الاتصال. هذا مفيد عندما تحتوي السجلات المستندة إلى المستندات على تفاصيل شخص أو منظمة تحتاج إلى الدخول إلى أنظمة الاتصال.
+
+تسمح واجهات برمجة تطبيقات بايثون بأتمتة تحويل DOT إلى VCF، مما يحسن قابلية نقل بيانات جهات الاتصال ويقلل من الإدخال اليدوي المتكرر عبر سير عمل الأعمال.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء سجل الاتصال**
+  تحويل المعلومات المستندة إلى DOT إلى ملفات VCF لاستخدامها في دفتر العناوين.
+
+* **مشاركة جهات الاتصال المحمولة**
+  مشاركة بيانات جهات الاتصال المهيكلة المستخرجة من القوالب بتنسيق موحد.
+
+* **دعم إدخال بيانات الاتصال**
+  تقليل الإدخال اليدوي عن طريق تحويل محتوى القالب إلى بطاقات جهات اتصال جاهزة للاستيراد.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تصدير جهات الاتصال الآلي**
+  يمكن لتدفقات عمل بايثون إنشاء ملفات VCF من قوالب DOT التي تحتوي على معلومات جهات الاتصال.
+
+* **تكامل CRM والدليل**
+  يدعم التحويل نقل بيانات جهات الاتصال المستندة إلى المستندات إلى أنظمة الاتصال.
+
+* **إنشاء ملفات جهات اتصال جماعية**
+  تمكن المعالجة البرمجية من إنشاء مخرجات VCF بشكل قابل للتوسع من العديد من القوالب.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

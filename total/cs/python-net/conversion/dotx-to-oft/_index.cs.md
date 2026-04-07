@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX to OFT conversion converts Word template content into an email template format used for reusable message composition. It is valuable when document-driven content needs to become a repeatable communication template for consistent outbound workflows.
+
+With Python APIs, this conversion supports automation by allowing teams to generate reusable email templates from document sources and integrate them into standardized messaging systems.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Opakovatelné e‑mailové šablony**
+  Převádějte strukturovaný obsah dokumentu na opakovatelné šablony zpráv.
+
+* **Konzistentní návrh komunikace**
+  Standardizujte tvorbu e‑mailů pomocí schválených rozvržení dokumentů.
+
+* **Operace založené na šablonách**
+  Znovu použijte formální obsah pro opakovanou interní nebo externí korespondenci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizované vytváření šablon**
+  Generujte soubory OFT ze šablon DOTX pro konzistentní e‑mailové pracovní postupy.
+
+* **Škálovatelné nastavení komunikace**
+  Připravte opakovatelné zprávové zdroje hromadně pro provozní týmy.
+
+* **Pipelines dokument‑na‑šablonu**
+  Programově převádějte schválené formáty dokumentů na e‑mailové šablony.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

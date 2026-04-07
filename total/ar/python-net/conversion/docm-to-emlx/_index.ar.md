@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOCM إلى EMLX يحول المستندات التي تدعم الماكرو إلى ملفات رسائل بريد إلكتروني تُستخدم في أنظمة تخزين بريد محددة، مما يساعد على الحفاظ على المحتوى في تنسيق اتصال منظم. هذا مفيد عندما يحتاج محتوى المستند إلى التوافق مع سير عمل البريد الإلكتروني الخاص بالمنصة أو متطلبات الأرشفة.
+
+في سياقات الأتمتة، يتيح تحويل DOCM إلى EMLX إنشاءً منهجيًا وتنظيمًا واحتفاظًا بمحتوى الرسائل المستندة إلى المستندات عبر بيئات اتصال مُتحكم فيها.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إخراج الرسائل المخصص للمنصة**
+  ينشئ ملفات رسائل مخصصة للبيئات التي تستخدم هياكل تخزين EMLX.
+
+* **أرشفة التواصل المستند**
+  يحافظ على محتوى المستند كقطع أثرية بريدية للاحتفاظ أو المراجعة.
+
+* **توافق سير العمل**
+  يدعم الأنظمة التي تتطلب استيعابًا يعتمد على ملفات الرسائل بدلاً من إدخال المستند الخام.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء ملفات البريد الآلية**
+  ينتج ملفات EMLX من مصادر DOCM في روتينات معالجة قابلة للتكرار.
+
+* **دعم سير عمل الاحتفاظ**
+  يساعد في أرشفة الاتصالات المستمدة من المستندات في مستودعات بريد منظمة.
+
+* **خطوط تحويل الدفعات**
+  يقوم بتوسيع التحويل لمجموعات كبيرة من ملفات DOCM التي تمر عبر سير عمل الاتصالات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

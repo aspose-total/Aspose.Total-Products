@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل WordML إلى Excel ينقل المحتوى المهيكل من مستندات WordprocessingML إلى صيغ جداول البيانات المناسبة للتحليل والتقارير وتتبع العمليات. يكون مفيدًا بشكل خاص عندما تحتوي المستندات على جداول أو معلومات شبه مهيكلة تحتاج إلى أن تصبح بيانات دفتر عمل قابلة للتحرير.
+
+تجعل واجهات برمجة التطبيقات Python تحويل WordML إلى Excel قابلة للتوسع من خلال استخراج جداول المستند، وتنظيم محتوى ورقة العمل، ودمج مهام التحويل في عمليات الأعمال والبيانات الآلية.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء جدول بيانات**
+  يقوم بتحويل جداول المستند إلى صيغ قائمة على دفتر العمل للتحرير والمراجعة.
+
+* **تمكين التقارير**
+  يجعل محتوى المستند المهيكل متاحًا للمعادلات والرسوم البيانية وتحليل جداول البيانات.
+
+* **نقل بيانات الأعمال**
+  يدعم نقل البيانات التشغيلية من المستندات إلى الأنظمة المدعومة بجداول البيانات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء دفتر عمل تلقائي**
+  ينشئ ملفات متوافقة مع Excel من دفعات مستندات WordML دون نسخ يدوي.
+
+* **دمج خط أنابيب التقارير**
+  يُدخل مخرجات جداول البيانات المحولة إلى لوحات التحكم أو التدقيقات أو سير عمل التخطيط.
+
+* **تطبيع البيانات المهيكلة**
+  يوحد محتوى المستند في تخطيطات أوراق العمل للاستخدام المتكرر لاحقًا.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu W
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML na EMLX převod transformuje obsah dokumentu do formátu e‑mailové zprávy, který se běžně používá v některých prostředích pro ukládání pošty. To je užitečné, když je potřeba přizpůsobit obsah WordML pro platformně specifické archivování e‑mailů nebo potřeby migrace.
+
+Použití Python API pro převod WordML na EMLX umožňuje programatické získávání obsahu a balení zpráv, což usnadňuje automatizaci převodu v rámci specializovaných e‑mailových pracovních postupů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Platformně specifický výstup e‑mailu**
+  Převádí obsah WordML do EMLX pro kompatibilní prostředí ukládání e‑mailů.
+
+* **Podpora migrace pošty**
+  Pomáhá připravit komunikaci založenou na dokumentech pro procesy migrace poštovních schránek.
+
+* **Strukturovaný archivní převod**
+  Zachovává textový obsah ve formátu orientovaném na zprávy, vhodném pro e‑mailové repozitáře.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Úlohy přípravy poštovní schránky**
+  Automatizuje generování EMLX ze zdrojových dokumentů pro migrační nebo importní rutiny.
+
+* **Transformační pipeline archivů**
+  Převádí soubory WordML na soubory zpráv pro řízené procesy uchovávání.
+
+* **Dávkové balení obsahu**
+  Podporuje škálovatelné vytváření výstupů EMLX z opakujících se kolekcí dokumentů.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

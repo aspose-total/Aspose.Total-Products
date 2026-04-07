@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MOBI 转 CSV 的 Python 转换有助于将基于电子书的文本或表格内容转换为易于搜索、过滤和重用的纯结构化格式。这对于内容提取、轻量级数据交换、报告准备以及现代文档工作流中的下游处理非常有价值。
+
+从自动化的角度来看，MOBI 转 CSV 支持可扩展的数据管道、批量提取例程以及与分析或归档系统的集成。它使团队能够将面向出版的文件内容迁移到机器可读的数据集，以适配自动化的业务和运营流程。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **内容提取与分析**
+  将 MOBI 文件中的结构化内容转换为 CSV，便于检查、解析和分析。
+
+* **数据迁移工作流**
+  在将提取的信息转移到数据库、电子表格或报告系统时使用 CSV 输出。
+
+* **轻量级数据交换**
+  创建简单、可移植的文件，可在工具和平台之间共享，兼容性问题最小。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量电子书处理**
+  自动将大量 MOBI 文件转换为 CSV，作为计划摄取工作流的一部分。
+
+* **元数据标准化流水线**
+  提取并标准化关键文档字段为 CSV，以用于目录编制和索引自动化。
+
+* **报告准备**
+  将 CSV 输出导入自动化仪表板、脚本或验证例程，以供下游使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

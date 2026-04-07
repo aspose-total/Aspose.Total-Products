@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+يتيح تحويل Word إلى FODS باستخدام واجهات برمجة تطبيقات Python تحويل مستندات معالجة النصوص إلى صيغة جدول بيانات OpenDocument مسطحة، وهو ما يُفيد في التعامل مع البيانات بناءً على معايير مفتوحة وسير عمل شفاف مدفوع بـ XML. هذا مفيد عندما يحتاج محتوى المستند إلى الحفاظ عليه في صيغة جدول بيانات مهيكلة دون الاعتماد على حزم ثنائية.
+
+في بيئات مدفوعة بالأتمتة، يدعم تحويل Word إلى FODS خطوط تحويل قابلة للتوسع ومتوافقة مع المعايير، تُبرز قابلية التشغيل المتبادل، وملاءمة التحكم بالإصدار، وسهولة الفحص البرمجي لبيانات المخرجات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تحويل البيانات بصيغة مفتوحة**
+  يصدر المحتوى المستمد من المستند إلى صيغة جدول بيانات مسطّحة ومهيكلة تعتمد على معايير مفتوحة.
+
+* **تخزين البيانات الشفاف**
+  يجعل مخرجات جدول البيانات أسهل للفحص والمعالجة في الأنظمة التي تدعم XML.
+
+* **قابلية تشغيل سير العمل المتبادل**
+  يدعم التكامل مع المنصات التي تفضّل معايير المستند المفتوح على الصيغ المملوكة.
+
+* **معالجة المحتوى تحت التحكم بالإصدار**
+  يتيح تتبعًا أفضل للمخرجات المهيكلة في بيئات التخزين الصديقة للنص.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط تحويل قائمة على المعايير**
+  يحوّل ملفات Word تلقائيًا إلى FODS لتدفقات العمل في نظام بيئي مفتوح.
+
+* **أتمتة أرشفة المستندات**
+  ينشئ مخرجات جدول بيانات قابلة للقراءة ومهيكلة لتلبية احتياجات التخزين طويل الأمد والتدقيق.
+
+* **معالجة مدفوعة بـ XML**
+  يستخدم مخرجات FODS في عمليات التحليل الآلي، والتحقق، والتحويل.
+
+* **إنشاء دفعي لمستندات OpenDocument**
+  ينتج ملفات جدول بيانات مسطحة على نطاق واسع من مصادر المستندات المتكررة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

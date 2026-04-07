@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod DOT na PST převádí šablony dokumentů do pracovních postupů osobní tabulky úložiště pro e‑mailové a zprávové archivy. Je to užitečné, když musí obsah odvozený ze šablon stát se součástí širších procesů ukládání komunikace nebo migrace.
+
+Python API mohou automatizovat zpracování související s převodem DOT na PST, aby organizace mohly zefektivnit přípravu archivace a integrovat komunikaci založenou na dokumentech do toků dat poštovní schránky.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Příprava archivního balíčku**
+  Převést obsah zpráv založený na DOT do pracovních postupů orientovaných na PST pro ukládání nebo migraci.
+
+* **Konsolidace dat poštovní schránky**
+  Integrovat materiál komunikace řízený šablonami do osobních archivních struktur.
+
+* **Podpora uchovávání komunikace**
+  Zachovat znovupoužitelný obsah v rámci širších procesů správy e‑mailových dat.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Podpora automatizovaného archivního pracovního postupu**
+  Python skripty mohou připravit obsah odvozený z DOT pro zpracování a úlohy uchovávání založené na PST.
+
+* **Integrace migračního procesu**
+  Převod pomáhá šablonám dokumentů vstupovat do pracovních postupů přechodu poštovní schránky.
+
+* **Škálovatelná archivace komunikace**
+  Programové systémy mohou standardizovat přípravu archivace pro velké objemy obsahu šablon.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

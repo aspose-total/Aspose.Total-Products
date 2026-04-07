@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل MSG إلى RTF يحول رسائل البريد الإلكتروني إلى تنسيق النص الغني لتعامل مع مستندات نصية قابلة للتحرير ومتوافقة على نطاق واسع. يكون مفيدًا عندما يحتاج محتوى البريد الإلكتروني إلى الحفاظ على التنسيق الأساسي مع البقاء سهل الفتح في العديد من بيئات المستندات.
+
+في سير عمل الأتمتة، يدعم تحويل MSG إلى RTF استخراج المحتوى، وإنشاء أرشيف قابل للتحرير، وتبادل بسيط للبيانات عبر الأنظمة القديمة والحديثة. يوازن بين الهيكلية، وإمكانية الوصول، والمرونة لعمليات المستندات القابلة للتوسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **حفظ النص المنسق**  
+  الاحتفاظ بتنسيق الرسالة في شكل مستند نصي قابل للتحرير.
+
+* **توافق المستندات الواسع**  
+  مشاركة محتوى البريد الإلكتروني المحول عبر العديد من بيئات معالجة النص.
+
+* **دعم سير العمل القديم**  
+  استخدام مخرجات النص الغني في الأنظمة التي تتطلب مستندات منسقة خفيفة الوزن.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء أرشيف قابل للتحرير**  
+  تحويل ملفات MSG إلى RTF لتخزين المستندات القابلة للبحث والتعديل.
+
+* **سير عمل نصي عبر الأنظمة**  
+  نقل الملفات المحولة عبر بيئات مختلطة تحتاج إلى توافق مرن.
+
+* **إعادة استخدام المحتوى المؤتمت**  
+  إعادة توظيف نص البريد الإلكتروني المنسق في وثائق ومهام التقارير اللاحقة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

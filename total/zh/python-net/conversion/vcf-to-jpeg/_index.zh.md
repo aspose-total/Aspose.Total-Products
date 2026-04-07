@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF 转 JPEG 转换将联系人卡片数据转换为压缩图像输出，便于共享、预览和轻量存储。当需要以可视化方式呈现联系信息且仍保持对网页传输或一般分发的高效性时，这非常有用。
+
+借助 Python API 自动化，VCF 转 JPEG 转换支持大批量渲染联系人记录为标准化图像资产，能够平稳地融入可扩展的内容和文档工作流。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **压缩的联系人图像**  
+  将 VCF 记录转换为 JPEG 文件，以实现高效的可视化共享。
+
+* **网页友好预览**  
+  在在线或内部界面中使用 JPEG 输出进行轻量显示。
+
+* **存储高效归档**  
+  以常用的压缩格式保存可视化的联系人记录。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量 JPEG 渲染**  
+  自动将多个 VCF 文件转换为 JPEG 预览。
+
+* **内容交付工作流**  
+  将联系人图像插入自动化门户、电子邮件或报告系统中。
+
+* **可扩展的可视化导出**  
+  使用 Python API 为大型联系人数据集创建高效的图像输出。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

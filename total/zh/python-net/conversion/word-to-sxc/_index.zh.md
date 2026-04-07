@@ -66,7 +66,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 Word 转换为 SXC，可将文字处理文档转换为旧版办公环境中使用的传统电子表格文件。当需要将文档内容结构化为工作表并保持与传统 OpenOffice 生态系统的兼容性时，这非常有用。
+
+对于自动化和业务连续性，此转换使组织能够将基于文档的信息处理为电子表格输出，以支持旧系统而不中断数据驱动的工作流。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **传统电子表格兼容性**
+  将 Word 内容转换为 SXC，适用于仍使用旧电子表格格式的环境。
+
+* **结构化数据重组**
+  将文档信息迁移到基于工作表的布局，以便进行跟踪和审查。
+
+* **OpenOffice 工作流支持**
+  帮助在传统生产力系统中桥接文档创作与电子表格使用。
+
+* **历史系统集成**
+  支持需要旧电子表格标准的长期基础设施。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量传统电子表格转换**
+  自动将 Word 文件转换为 SXC，以支持持续的业务工作流。
+
+* **兼容性保留流水线**
+  确保提取的文档数据在旧办公环境中仍可使用。
+
+* **结构化归档生成**
+  从文档创建工作表输出，以便保留和历史访问。
+
+* **文档到工作表自动化**
+  将 SXC 转换集成到更大的数据提取和迁移流程中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

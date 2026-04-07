@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod MSG na WordML převádí e‑mailové zprávy do XML‑založeného značkovacího formátu pro zpracování textu, který slouží k strukturované reprezentaci a transformaci dokumentů. Je užitečný, když obsah dokumentu musí zůstat strojově čitelný a vhodný pro pokročilé parsování nebo úkoly interoperability.
+
+Pro automatizaci podporují pracovní postupy MSG na WordML zpracování XML, transformační pipeline a scénáře systémové integrace. Pomáhají propojit obsah odvozený z e‑mailů se strukturovaným inženýrstvím dokumentů a programovou manipulací.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Strukturovaný výstup XML dokumentu**  
+  Zobrazí obsah zprávy ve formátu pro zpracování textu založeném na značkování.
+
+* **Interoperabilní výměna obsahu**  
+  Podporuje pracovní postupy, které se spoléhají na strojově čitelné struktury dokumentů.
+
+* **Pokročilá podpora transformace**  
+  Umožňuje podrobné parsování a úpravu převedeného e‑mailového obsahu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **XML zpracovatelské pipeline**  
+  Převádí soubory MSG do WordML pro strukturované transformace a úkoly validace.
+
+* **Pracovní postupy systémové integrace**  
+  Vyměňuje obsah dokumentů mezi automatizačními nástroji pomocí formátů založených na značkování.
+
+* **Programové inženýrství dokumentů**  
+  Aplikuje skriptovanou logiku na obsah odvozený ze zpráv v prostředích řízených XML.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

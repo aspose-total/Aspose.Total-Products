@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML 到 TSV 的转换将结构化文档内容转换为制表符分隔的文本文件，这些文件简单、可移植，且易于在数据工作流中摄取。当需要在没有电子表格特定格式的情况下实现干净的列分隔时，它非常有价值。
+
+Python API 通过提取表格结构并将其转换为轻量级、适合自动化的输出，使 WordML 到 TSV 的转换更加高效，便于数据处理和交换。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **分隔数据导出**
+  将 WordML 表格转换为 TSV 文件，以实现干净的基于文本的数据交换。
+
+* **管道友好输出**
+  生成适用于解析和验证任务的简单结构化文件。
+
+* **文档表格提取**
+  使文档中的表格内容更易于以编程方式处理。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **批量表格转换**
+  自动将文档表格转换为 TSV 文件，以供下游工作流使用。
+
+* **ETL 工作流支持**
+  将 TSV 输出输入到摄取、映射和转换管道中。
+
+* **数据同步作业**
+  实现将更新的文档数据可重复导出为基于文本的结构化文件。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

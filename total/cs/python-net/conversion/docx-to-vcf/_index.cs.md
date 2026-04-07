@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX to VCF conversion transforms document-based contact information into digital contact card files used for address book and contact management systems. This process enables names, phone numbers, email addresses, and related contact fields to be extracted from documents into a portable standard format.
+
+Using Python APIs, DOCX-to-VCF conversion can be integrated into customer data workflows, contact migration pipelines, and automated communication systems. It supports scalable transformation of structured contact data from documents into reusable contact records.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Extrahování kontaktních dat**  
+  Převádí kontaktní informace uložené v souborech DOCX do přenosných digitálních vizitek.
+
+* **Migrace adresáře**  
+  Umožňuje importovat seznamy kontaktů založené na dokumentech do systémů správy kontaktů.
+
+* **Opětovné využití zákaznických informací**  
+  Podporuje konverzi strukturovaných kontaktních záznamů pro komunikační pracovní toky.
+
+* **Generování přenosných souborů kontaktů**  
+  Pomáhá distribuovat a ukládat kontaktní údaje v široce akceptovaném formátu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatické vytváření souborů kontaktů**  
+  Systémy mohou automaticky extrahovat kontaktní pole ze souborů DOCX a generovat VCF záznamy.
+
+* **Dávkové migrační pipeline kontaktů**  
+  Python skripty mohou zpracovat více dokumentů do digitálních vizitek.
+
+* **CRM a automatizace komunikace**  
+  Z dokumentů odvozená kontaktní data lze transformovat do VCF souborů pro synchronizované outreach pracovní toky.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

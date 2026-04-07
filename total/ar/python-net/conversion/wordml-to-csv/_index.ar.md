@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل WordML إلى CSV يحول محتوى WordprocessingML المُنظم إلى ملفات بيانات بسيطة تعتمد على الفواصل، تكون سهلة التحليل والاستيراد والمعالجة عبر تقارير وأنابيب البيانات. يكون ذلك ذا قيمة عندما تحتاج الجداول المستندة إلى المستندات إلى التحويل إلى سجلات خفيفة الوزن وقابلة للقراءة آليًا.
+
+يساعد استخدام واجهات برمجة تطبيقات بايثون لتحويل WordML إلى CSV في أتمتة استخراج الجداول، وتطبيع الصفوف والأعمدة، ودعم سير عمل قابل للتوسع من المستند إلى البيانات في بيئات الأعمال والأرشفة والتكامل.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **استخراج بيانات الجدول**
+  يحوّل المحتوى الجدولي من ملفات WordML إلى تنسيق CSV لتسهيل المعالجة اللاحقة.
+
+* **تحضير التحليلات**
+  يجعل البيانات المستندة إلى المستندات قابلة للاستخدام في تقارير، وتصور، وسير عمل الذكاء التجاري.
+
+* **قابلية التفاعل بين الأنظمة**
+  يبسّط تبادل البيانات بين مستودعات المستندات وأنظمة الجداول الإلكترونية أو قواعد البيانات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تحليل المستندات على دفعات**
+  يُؤتمت استخراج الجداول من ملفات WordML المتعددة إلى مخرجات CSV موحدة.
+
+* **تكامل أنابيب البيانات**
+  يدعم استيعابًا آليًا للملفات CSV المحوّلة في أنابيب ETL أو التحليلات أو سير عمل التحقق.
+
+* **تصدير المحتوى المجدول**
+  يُمكّن من وظائف تحويل متكررة للتقارير التشغيلية وتحديثات البيانات المستندة إلى المستندات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu R
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod RTF na e‑mail mění formátované textové dokumenty na obsah připravený k odeslání e‑mailem, který lze vložit do odchozích komunikací, oznámení nebo šablon zpráv. Je užitečný pro opětovné využití textu zpráv, oznámení, souhrnů nebo obsahu určeného klientům do formátu přátelského k komunikaci.
+
+V automatizovaných prostředích podporuje převod RTF na e‑mail škálovatelné pracovní postupy zpráv tím, že převádí vytvořený obsah dokumentů na opakovaně použitelné tělo e‑mailů pro upozornění, kampaně, schválení a transakční komunikaci.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **E‑mailové návrhy založené na dokumentech**  
+  Převádí obsah bohatého textu na opakovaně použitelné e‑mailové zprávy pro interní i externí komunikaci.
+
+* **Distribuce oznámení a aktualizací**  
+  Umožňuje odesílání oznámení nebo souhrnů odvozených z připravených dokumentů.
+
+* **Zprávy řízené šablonami**  
+  Pomáhá převádět standardní obsah dokumentů na konzistentní e‑mailové výstupy napříč týmy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Automatizovaná generace oznámení**  
+  Systémy mohou převádět RTF soubory na e‑mailový obsah pro plánované nebo událostmi řízené doručení.
+
+* **Zprávy o schválení pracovního postupu**  
+  Souhrny dokumentů lze programově převést na žádosti o schválení a stavové e‑maily.
+
+* **Procesy hromadného oslovení**  
+  Komunikační kanály s vysokým objemem těží z převodu připravených textových aktiv na škálovatelný e‑mailový obsah.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

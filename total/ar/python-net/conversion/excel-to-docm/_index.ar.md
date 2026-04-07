@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل Excel إلى DOCM باستخدام Python يتيح تصدير محتوى جداول البيانات إلى مستندات معالجة نصية تدعم الماكرو لتدفقات عمل مستندات متقدمة. يكون ذلك مفيدًا عندما يجب أن تظل الملفات المحوّلة قابلة للتحرير مع دعم الإجراءات القائمة على الماكرو في بيئات المستندات.
+
+هذا التحويل ذو صلة بالأتمتة لأنه يربط بيانات جداول البيانات بسلوك المستند القابل للبرمجة، مما يتيح إنشاء ملفات تفاعلية ومدركة للعمليات بشكل قابل للتوسع.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **تقارير مدعومة بالماكرو**  
+  تحويل ملفات Excel إلى مستندات DOCM يمكنها دعم الإجراءات الآلية داخل تدفقات عمل معالجة النصوص.
+
+* **مستندات العملية**  
+  إعداد ملفات قابلة للتحرير تجمع بين البيانات المهيكلة وقدرات الأتمتة المدمجة في المستند.
+
+* **قوالب تشغيلية**  
+  استخدام بيانات جداول البيانات لملء المستندات المصممة للمهام المتكررة المدفوعة بالماكرو.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **تجميع المستندات الآلي**  
+  تحويل مدخلات Excel إلى مخرجات DOCM لتدفقات العمل التي تتطلب مستندات قابلة للتحرير وجاهزة للبرمجة.
+
+* **أتمتة العمليات الداخلية**  
+  دعم الأقسام التي تعتمد على ملفات مدعومة بالماكرو للتنسيق أو التحقق أو الإكمال الموجه.
+
+* **خطوط أنابيب البيانات إلى المستند**  
+  استخدام واجهات برمجة تطبيقات Python لإنشاء ملفات DOCM برمجيًا من بيانات المصدر المستندة إلى جداول البيانات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

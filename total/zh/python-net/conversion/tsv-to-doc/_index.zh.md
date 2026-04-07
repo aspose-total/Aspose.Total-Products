@@ -66,7 +66,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV 到 DOC 的转换将制表符分隔的数据转换为可编辑的文字处理文档，使其更易于审阅、共享和在业务或运营中进行格式化。 当结构化数据集的输出需要转化为可读的叙述式文档，以用于报告、沟通或归档工作流时，这非常有用。
+
+使用 Python API，可以自动化此转换，从原始表格输入生成一致的 DOC 文件，提高文档生产流水线的效率，并支持可扩展的报告、导出和发布任务。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **可读的数据报告**  
+  将原始 TSV 表格转换为文档友好的内容，便于阅读和展示。
+
+* **内部文档**  
+  支持从结构化源文件创建运营或分析文档。
+
+* **工作流友好的导出**  
+  帮助团队将数据从后端系统迁移到可编辑的文档格式。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **定时报告生成**  
+  自动化可以将定期的 TSV 导出转换为 DOC 文件，用于例行文档。
+
+* **业务流程文档**  
+  Python API 可以将结构化记录转换为用于审批或审查的格式化文档。
+
+* **批量文件转换**  
+  大量 TSV 文件可以通过编程方式转换为 DOC 输出，几乎无需人工操作。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

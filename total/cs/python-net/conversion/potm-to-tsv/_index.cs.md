@@ -64,7 +64,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Slides for Python via 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+POTM na TSV konverze v Pythonu převádí makrem povolený obsah prezentace do textu odděleného tabulátory, který je vhodný pro zpracování strukturovaných dat, migraci a interoperabilitu. Je užitečná, když je třeba přesunout informace odvozené z prezentace do systémů, které upřednostňují výměnu strukturovaných prostých textových souborů.
+
+V automatizačních pipelinech umožňuje konverze POTM na TSV efektivní zpracování v Pythonu vytvořením kompaktních, strojově přátelských výstupů, které se dobře hodí do ETL úloh, toků ingestování dat a škálovatelných hromadných operací.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Export strukturovaného textu**
+  Převádí informace z prezentace do čistého textového tabulkového formátu.
+
+* **Příprava výměny dat**
+  Podporuje přesun extrahovaného obsahu mezi systémy, které používají soubory s oddělovači.
+
+* **Výstup vhodný pro pipeline**
+  Vytváří lehké soubory vhodné pro automatizované parsování a transformaci.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Integrace ETL pracovního postupu**
+  Zasílá TSV výstupy do Pythonových extrakčních a transformačních pipeline.
+
+* **Hromadná konverze ve velkém měřítku**
+  Zpracovává mnoho souborů POTM do strukturovaného textu pro automatizovaný import.
+
+* **Úkoly systémové interoperability**
+  Podporuje opakované exporty pro platformy, které se spoléhají na přenos dat založený na oddělovačích.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

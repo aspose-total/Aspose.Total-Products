@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PNG 转换为 ICS 允许将可视化的日程信息、活动图形或基于图像的日历细节转换为结构化的日历文件，从而支持事件共享和排程工作流。当事件数据以图像形式出现但需要变为机器可读且可互操作时，这尤其有用。
+
+Python API 使此过程易于自动化，能够通过编程方式从基于 PNG 的输入生成 ICS 文件，提高排程效率，减少手动输入，并支持跨应用的可扩展日历集成。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键使用场景" %}}
+
+* **活动图形转换**  
+  将 PNG 活动公告转换为 ICS 日历文件，以便更轻松地进行排程和分发。
+
+* **日历条目创建**  
+  帮助将基于图像的日程信息转化为结构化的日历事件。
+
+* **会议邀请准备**  
+  支持将可视化的会议详情转换为可共享的日历文件的工作流。
+
+* **日程数字化**  
+  使以图像形式存储的活动信息能够在数字日历系统中重复使用。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化日历生成**  
+  Python API 可以在活动管理流水线中从基于 PNG 的事件输入创建 ICS 文件。
+
+* **批量日程处理**  
+  多个 PNG 日程图像可以转换为 ICS 输出，以实现日历发布的流线化。
+
+* **工作流驱动的邀请发送**  
+  系统可以提取并转换事件信息为 ICS 附件，实现自动化邀请。
+
+* **集成排程系统**  
+  应用程序可以使用 PNG 转换为 ICS 来桥接可视化事件源与日历平台。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,47 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT na EMLX převod transformuje obsah OpenDocument Text do formátu e‑mailové zprávy, který se běžně používá v konkrétních prostředích pro ukládání pošty. To je užitečné, když je třeba text dokumentu přetvořit pro archivaci založenou na e‑mailu, migraci nebo komunikační pracovní postupy specifické pro aplikaci.
+
+Pomocí Python API lze převod ODT na EMLX automatizovat pro přípravu obsahu ve velkém objemu, generování zpráv a strukturované přetvoření dokumentů. Pomáhá udržovat konzistenci a snižovat ruční práci s formátováním.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Konverze obsahu kompatibilního s e‑mailem**  
+  Převádí dokumenty do formátu zprávy vhodného pro určité e‑mailové ekosystémy.
+
+* **Příprava archivace**  
+  Podporuje ukládání obsahu odvozeného z dokumentu jako souborů zpráv.
+
+* **Připravenost na migraci**  
+  Pomáhá přesunout obsah dokumentu do prostředí s požadavky zaměřenými na zprávy.
+
+* **Vytváření komunikačních aktiv**  
+  Přetváří formální text do výstupu kompatibilního s e‑mailem.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Generování souborů zpráv**  
+  Automatizace v Pythonu může na vyžádání převádět soubory ODT na výstupy EMLX.
+
+* **Hromadné zpracování archivů**  
+  Knihovny dokumentů lze dávkově převádět na artefakty kompatibilní s e‑mailem.
+
+* **Pracovní postupy migrace obsahu**  
+  Automatizované pipeline mohou přebalit textové dokumenty pro konkrétní cíle ukládání e‑mailů.
+
+* **Zprávy řízené dokumenty**  
+  Systémy mohou generovat strukturované soubory zpráv z schváleného obsahu dokumentu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

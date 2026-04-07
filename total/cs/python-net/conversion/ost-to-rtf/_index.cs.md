@@ -46,7 +46,44 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod OST na RTF převádí obsah poštovní schránky do formátu Rich Text, zachovává editovatelný text se základním formátováním v široce kompatibilním standardu dokumentu. Je užitečný pro sdílení, úpravy a opětovné využití obsahu odvozeného z e‑mailů napříč různými systémy a aplikacemi.
+
+Z pohledu automatizace nabízí převod OST na RTF praktický most mezi archivovanými daty poštovní schránky a flexibilními textovými workflowy. Python API usnadňují automatizaci převodu ve velkém měřítku, podporují interoperabilitu a zjednodušenou manipulaci s dokumenty.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Zachování formátovaného textu**  
+  Převádí data poštovní schránky do RTF a zachovává čitelnou strukturu a stylování textu.
+
+* **Mezi‑platformní výměna dokumentů**  
+  Umožňuje sdílet obsah odvozený z e‑mailů napříč širokou škálou nástrojů pro práci s dokumenty.
+
+* **Příprava editovatelných záznamů**  
+  Pomáhá proměnit archivovanou komunikaci na soubory, které lze upravovat, přezkoumávat nebo znovu použít.
+
+* **Lehké workflow pro dokumentaci**  
+  Umožňuje praktické ukládání obsahu poštovní schránky v jednoduchém formátovaném textovém formátu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Pipelines pro převod textu**  
+  Python skripty automatizují převod OST na RTF pro interoperabilní workflowy s dokumenty.
+
+* **Automatizace opětovného využití obsahu**  
+  Automatizované systémy připravují editovatelné záznamy komunikace z archivů poštovní schránky.
+
+* **Standardizované procesy exportu**  
+  Programový převod podporuje škálovatelné dodávání výstupů ve formátovaném textu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

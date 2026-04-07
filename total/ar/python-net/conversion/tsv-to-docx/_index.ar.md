@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل TSV إلى DOCX يحول البيانات النصية الجدولية إلى مستندات معالجة كلمات حديثة قابلة للتحرير تُستخدم على نطاق واسع في إعداد التقارير، والتعاون، وتوصيل المحتوى الرسمي. يساعد على سد الفجوة بين البيانات الهيكلية الخام والوثائق المصقولة المطلوبة في البيئات المهنية.
+
+باستخدام واجهات برمجة تطبيقات بايثون، يدعم تحويل TSV إلى DOCX أتمتة سريعة ومتكررة تُحسّن الاتساق، وتقلل من جهد التنسيق اليدوي، وتتيح توليد مستندات قابلة للتوسع عبر سير عمل قائم على البيانات.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إنشاء تقارير مهنية**  
+  يحول سجلات TSV إلى ملفات DOCX نظيفة للتحليل أو الملخصات أو التقارير الرسمية.
+
+* **تحرير تعاوني**  
+  يجعل البيانات الهيكلية أسهل في المشاركة والتحرير ضمن سير عمل الوثائق.
+
+* **توزيع يركز على الوثائق**  
+  يساعد في تقديم المحتوى الجدولي بطريقة أكثر سهولة وصديقة للأعمال.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **خطوط أنابيب التقارير المؤتمتة**  
+  يمكن لواجهات برمجة تطبيقات بايثون إنشاء تقارير DOCX من تصديرات TSV عند الطلب أو وفق جدول زمني.
+
+* **سير عمل البيانات إلى الوثيقة**  
+  يمكن للأنظمة المؤتمتة تحويل المدخلات الهيكلية إلى مستندات جاهزة للمراجعة.
+
+* **تحويل دفعي قابل للتوسع**  
+  يمكن معالجة مجموعات كبيرة من ملفات TSV إلى مخرجات DOCX بكفاءة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

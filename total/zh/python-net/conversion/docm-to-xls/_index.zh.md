@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM 到 XLS 的转换将启用宏的文档转换为支持结构化数据处理、审阅和报告的电子表格文件。当需要将 DOCM 文件中的表格和记录迁移到熟悉的电子表格工作流中以便进一步使用时，这非常有用。
+
+从自动化的角度来看，DOCM 到 XLS 的转换支持可重复的文档数据提取、旧版电子表格兼容性以及可扩展的报告流水线。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **电子表格数据复用**
+  将文档表格转换为电子表格形式，以便进行分析和编辑。
+
+* **旧版工作簿兼容性**
+  支持仍依赖旧电子表格格式的环境。
+
+* **运营报告**
+  帮助将基于文档的数据重新用于重复的电子表格驱动任务。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化工作簿导出**
+  在常规处理作业中从 DOCM 源生成 XLS 文件。
+
+* **批量表格转换**
+  将大型文档集转换为电子表格输出，以供下游操作使用。
+
+* **旧系统集成**
+  将结构化数据输入依赖旧工作簿格式的工作流中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

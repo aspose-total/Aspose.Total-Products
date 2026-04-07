@@ -65,7 +65,41 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Slides for Python via 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod POTM na DOTM v Pythonu pomáhá transformovat prezentace s makry na šablony dokumentů s makry, které mohou podporovat jak strukturu, tak skriptované chování. To je cenné pro prostředí, kde je třeba, aby se opětovné použití šablon a automatizace dokumentů vzájemně doplňovaly.
+
+Z hlediska automatizace umožňuje převod POTM na DOTM v Pythonu workflowům vytvářet dynamické, opakovaně použitelné šablony, které podporují generování dokumentů v podnikovém měřítku a řízené zpracování založené na šablonách.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Generování šablon s makry**
+  Vytváří opakovaně použitelné šablony dokumentů, které mohou podporovat pokročilé akce s dokumenty.
+
+* **Umožnění strukturovaných workflow**
+  Převádí materiál prezentací do formátů vhodných pro opakovatelnou tvorbu obchodních dokumentů.
+
+* **Pokročilé opakované použití šablon**
+  Podporuje prostředí vyžadující jak konzistenci formátování, tak schopnost makr.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Škálovatelné šablonové pipeline**
+  Automatizuje vytváření aktiv DOTM z souborů POTM napříč úložišti obsahu.
+
+* **Dynamické dokumentové systémy**
+  Poskytuje šablony s makry pro procesy automatizace dokumentů řízené Pythonem.
+
+* **Opakovaný podnikový výstup**
+  Generuje soubory šablon pro časté provozní, reportovací nebo administrativní úkoly.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

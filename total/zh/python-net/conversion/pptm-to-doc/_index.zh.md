@@ -66,7 +66,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+使用 Python API 将 PPTM 转换为 DOC 有助于将启用宏的演示文稿内容转换为可编辑的文档格式，适用于以文本为中心的审阅、分发和文档编制。当需要将幻灯片材料重新用于叙述性文档、摘要或书面记录时，这非常有用。
+
+通过将演示文稿转换为面向文档的输出，组织可以简化文档创建并简化团队之间的内容交接。这通过减少手动重写并在内容库中实现可重复的转换工作流，支持自动化目标。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **演示文稿转文档再利用**
+  将幻灯片内容转换为可编辑的文档，以便审阅和完善。
+
+* **内部文档生成**
+  帮助将演示文稿转化为团队和利益相关者的书面参考资料。
+
+* **基于文本的内容分发**
+  使演示信息更容易在以文档为驱动的工作流中共享。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **自动化文档创建**
+  从演示资源生成文档文件，无需手动复制粘贴。
+
+* **基于工作流的内容转换**
+  将 PPTM 文件转换为文档输出，作为计划处理作业的一部分。
+
+* **知识捕获流水线**
+  支持以编程方式将演示材料保存到长篇文档档案中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

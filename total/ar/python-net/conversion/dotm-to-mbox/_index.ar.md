@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل DOTM إلى MBOX يحول قوالب Word الممكّنة بالماكرو إلى أرشيفات متوافقة مع صناديق البريد يمكنها تخزين محتوى على نمط الرسائل في صيغة موحدة. هذا مفيد عندما يتم إعادة توظيف قوالب المستندات لتصبح سجلات اتصال أو تحتاج إلى دمجها في سير عمل أرشفة البريد.
+
+استخدام واجهات برمجة تطبيقات Python لتحويل DOTM إلى MBOX يساعد على أتمتة عمليات الأرشفة والهجرة من خلال إنشاء ملفات حاوية بريد منظمة من محتوى المستند. يدعم التخزين القابل للتوسع، والتصدير المعياري، ومعالجة فعّالة لسير عمل موجه بالرسائل.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **إعداد أرشيف البريد**
+  تحويل محتوى الاتصال المستمد من DOTM إلى MBOX لأغراض الأرشفة أو سير عمل الهجرة.
+
+* **تخزين الرسائل الموحد**
+  تخزين المخرجات الشبيهة بالرسائل من القوالب في صيغة واحدة موجهة لصناديق البريد.
+
+* **تصدير البريد القابل للتبادل**
+  تمكين تبادل أسهل لسجلات الاتصال المُنشأة عبر الأدوات التي تدعم MBOX.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء أرشيف بريد آلي**
+  يمكن لسير العمل تحويل قوالب المستندات إلى مخرجات متوافقة مع MBOX للتخزين طويل الأمد.
+
+* **دعم خط أنابيب الهجرة**
+  يساعد التحويل على أتمتة نقل محتوى الرسائل المُنشأ إلى أرشيفات البريد.
+
+* **معالجة السجلات على دفعات**
+  يتيح التحويل البرمجي معالجة ملفات DOTM ذات الحجم الكبير إلى حاويات جاهزة للبريد.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

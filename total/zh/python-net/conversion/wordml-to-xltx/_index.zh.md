@@ -66,7 +66,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 </div></div>
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML 到 XLTX 的转换将结构化文档内容转换为现代电子表格模板文件，以实现可重复使用的工作簿创建。当需要将基于文档的布局、表单或报告结构标准化为电子表格模板时，这非常有用。
+
+Python API 通过以编程方式提取结构并生成可直接用于模板的电子表格输出，使 WordML 到 XLTX 的转换更加高效，从而支持可扩展的业务工作流。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+* **现代电子表格模板创建**
+  将 WordML 内容转换为 XLTX 文件，以实现可重复使用的工作簿设计。
+
+* **重复数据布局标准化**
+  帮助在重复的流程中保持一致的电子表格结构。
+
+* **可重复使用的报告基础**
+  将文档布局转化为可靠的电子表格模板。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+* **基于模板的工作簿自动化**
+  自动从结构化的 WordML 文档生成 XLTX 模板。
+
+* **运营标准化工作流**
+  支持从已批准的源布局中重复创建电子表格。
+
+* **文档到模板的流水线**
+  实现文档结构向现代工作簿模板的可扩展转换。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

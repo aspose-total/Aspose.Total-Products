@@ -46,7 +46,45 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to EML conversion transforms macro-enabled documents into standard email message files, making document content easier to store, send, or process in email-compatible environments. It is especially useful when a document must be preserved as a standalone message artifact.
+
+**Czech translation:** Převod DOCM na EML transformuje makrem povolené dokumenty na standardní soubory e‑mailových zpráv, což usnadňuje ukládání, odesílání nebo zpracování obsahu dokumentu v prostředích kompatibilních s e‑mailem. Je to zvláště užitečné, když je dokument třeba zachovat jako samostatný artefakt zprávy.
+
+For automation and integration, DOCM to EML workflows support repeatable message generation, archiving, and routing across communication systems that rely on open email file structures.
+
+**Czech translation:** Pro automatizaci a integraci podporují pracovní postupy DOCM na EML opakovatelnou tvorbu zpráv, archivaci a směrování napříč komunikačními systémy, které se spoléhají na otevřené struktury e‑mailových souborů.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **Message File Creation**
+  Converts document content into portable email message files for storage or distribution.
+
+* **Communication Archiving**
+  Supports environments where document-derived correspondence must be retained in email format.
+
+* **Cross-System Portability**
+  Helps move document-based communications between compatible mail platforms.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **Automated Email Packaging**
+  Generates EML files from DOCM documents without manual message assembly.
+
+* **Workflow-Driven Archival**
+  Stores document-derived communications as message files for recordkeeping systems.
+
+* **Bulk Export Operations**
+  Converts multiple DOCM files into EML outputs in scalable processing pipelines.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+تحويل VCF إلى MD يحول بيانات بطاقات الاتصال إلى مستندات Markdown سهلة القراءة والتعديل والتكامل مع أنظمة المعرفة القائمة على النص. هذا مفيد بشكل خاص لبيئات التوثيق التي تقدر القابلية للنقل والبساطة والمحتوى الصديق للإصدارات.
+
+في سير عمل الأتمتة، يتيح تحويل VCF إلى MD لواجهات برمجة تطبيقات Python إنتاج مستندات اتصال خفيفة الوزن تتناسب طبيعياً مع مستودعات المحتوى، المواقع الثابتة، وأنابيب توليد الملاحظات المهيكلة.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* **توثيق نصي قابل للقراءة**  
+  تحويل سجلات VCF إلى Markdown لتوثيق نظيف وقابل للنقل.
+
+* **تكامل قاعدة المعرفة**  
+  تخزين معلومات الاتصال بصيغة مناسبة للأنظمة التي تركز على النص.
+
+* **إدارة محتوى صديقة للإصدارات**  
+  إدارة بيانات الاتصال بصيغة نصية عادية منظمة يسهل تتبعها.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* **إنشاء Markdown تلقائي**  
+  إنشاء ملفات MD من دفعات بطاقات الاتصال لتوثيق منظم.
+
+* **أنابيب محتوى ثابت**  
+  إدخال ملفات الاتصال المحولة في سير عمل النشر الآلي ومستودعات المحتوى.
+
+* **تحويل نصي قابل للتوسع**  
+  استخدام واجهات برمجة تطبيقات Python لتوحيد بيانات الاتصال بصيغة ترميز خفيفة الوزن.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

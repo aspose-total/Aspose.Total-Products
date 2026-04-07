@@ -46,7 +46,41 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Převod MBOX na DOTX převádí archivované poštovní schránky do moderních souborů šablon Word, což organizacím pomáhá proměnit obsah e‑mailů na znovupoužitelné šablony dokumentů. To je užitečné pro standardizaci rozvržení, zachování struktury a podporu pracovních postupů tvorby dokumentů, které začínají archivovanou korespondencí.
+
+Python API umožňují tento proces škálovat tím, že umožňují automatizovanou generaci šablon, hromadnou transformaci poštovních schránek a integraci s širšími systémy správy obsahu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové případy použití" %}}
+
+* **Opakovatelný návrh šablony**
+  Převést obsah zprávy do šablon DOTX pro opakovatelnou tvorbu dokumentů.
+
+* **Standardizace dokumentů**
+  Využít data poštovní schránky k vytvoření konzistentních rozvržení a formátovacích struktur.
+
+* **Opětovné využití strukturovaného obsahu**
+  Přeměnit archivovaný e‑mailový materiál na připravená šablonová aktiva.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+* **Hromadná konverze šablon**
+  Automaticky generovat soubory DOTX z vybraného obsahu poštovní schránky.
+
+* **Pracovní postupy zaměřené na šablony**
+  Zavést převedené e‑mailové šablony do systémů pro reportování, politiku nebo provozní dokumenty.
+
+* **Škálování dokumentů založené na Pythonu**
+  Automatizovat tvorbu šablon ve velkém objemu z archivů MBOX s minimálním ručním úsilím.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
